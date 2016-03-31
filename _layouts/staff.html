@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% for staff in site.data.staff %}
+  <div class="staff-member">
+    <div class="staff-member-photo" role="img" aria-label="Photo chosen by {{ staff.name }}"
+      style="background-image: url({{ staff.image | prepend: site.baseurl }});">
+    </div>
+    <div class="staff-member-info">
+      <h2>{{ staff.name }}</h2>
+      <strong>{{ staff.position }}</strong>
+      {{ staff.background | markdownify }}
+    </div>
+  </div>
+{% endfor %}

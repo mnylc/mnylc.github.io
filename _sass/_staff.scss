@@ -1,0 +1,26 @@
+.staff-member {
+  display: block;
+  width: 100%;
+}
+
+.staff-member:after {
+  clear: both;
+  content: " ";
+  display: table-cell;
+}
+
+.staff-member-photo {
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  min-height: 20rem;
+  width: 20rem;
+}
+
+.staff-member-photo:after {
+  content: " ";
+}
+
+.staff-member-info {
+  display: inline-block;
+}
