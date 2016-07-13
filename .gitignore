@@ -5,3 +5,4 @@ _site
 /.byebug_history
 /_data/.byebug_history
 /_posts/jobs/.byebug_history
+/.ruby-version
