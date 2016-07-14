@@ -18,6 +18,7 @@ use_tag: "event"
 	<br/>
 	<div class="post-excerpt">{{ e.description.text | truncatewords:75 }} </div>
 	<br/>
-	<div><a href="{{ e.url }}">Register</a>
+	<div><a href="{{ e.url }}">Register</a></div>
+	</li>
 {% endfor %}
 </ol>
