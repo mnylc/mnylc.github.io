@@ -7,7 +7,6 @@ use_tag: "event"
 ---
 
 <ol class="posts">
-{% assign evs = site.data.events.events | sort: "start.local" %}
 {% for e in site.data.events.events %}
 <li>
     <h3>

@@ -5,6 +5,7 @@ require 'uri'
 require 'net/http'
 require 'JSON'
 require 'yaml'
+require 'byebug'
 
 fname = 'events.yml'
 eventfile = File.open(fname, 'w')
@@ -19,7 +20,7 @@ uri = URI(uri_str)
 resp = Net::HTTP.get(uri)
 
 j = JSON.parse(resp)
-
+j['events'].sort_by! { |h| h['start']['utc'] }
 y = j.to_yaml
 
 eventfile.puts y

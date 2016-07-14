@@ -6,6 +6,78 @@ pagination:
   page_count: 1
 events:
 - name:
+    text: 'The New RefWorks: Train the Trainer'
+    html: 'The New RefWorks: Train the Trainer'
+  description:
+    text: |-
+      Librarians are often asked to facilitate citation management training. This workshop will provide training in the new version of the popular citation management tool RefWorks, as well as discussion and support on strategies, tips, and practices for teaching RefWorks. We will only briefly touch on the transition from “Legacy RefWorks” to “New RefWorks.”*
+      Participants will be able to set up a trial “New RefWorks” account for the purposes of this hands-on workshop. This session is open to librarians from public, academic, and special libraries.
+      The first half of the workshop will include a basic introduction to features and functionality of the New RefWorks interface, geared toward new users who are interested in getting started with RefWorks. After a break, we will briefly address advanced features (e.g., custom fields, customized citation styles, and reading/highlighting/annotating PDFs) and play around a bit with RefWorks’ Microsoft Word and Google Docs add-ins. Finally, we will discuss approaches and strategies for RefWorks training. Prerequisite knowledge/experience:
+      No prior experience necessary. This workshop is open to librarians from public, academic, and special libraries who are interested in learning how to use the new version of the citation manager RefWorks, and how to teach colleagues and users to effectively use the tool.By the end of this program, participants will:
+
+      Be able to use RefWorks to locate, save, organize, and share citations and documents
+      Know how to add references to Microsoft Word and Google Docs documents
+      Practice a few advanced RefWorks features
+      Be prepared to train users on RefWorks at their libraries.
+
+      Laptops will be provided for this workshop. This class will be led by Linda Miles, Librarian for Public Services & User Experience at Yeshiva University.
+
+      *More information on the transition is available on the ProQuest RefWorks Customer Resources Page.
+    html: |-
+      <P>Librarians are often asked to facilitate citation management training. This workshop will provide training in the new version of the popular citation management tool RefWorks, as well as discussion and support on strategies, tips, and practices for teaching RefWorks. We will only briefly touch on the transition from “Legacy RefWorks” to “New RefWorks.”*</P>
+      <P>Participants will be able to set up a trial “New RefWorks” account for the purposes of this hands-on workshop. This session is open to librarians from public, academic, and special libraries.</P>
+      <P>The first half of the workshop will include a basic introduction to features and functionality of the New RefWorks interface, geared toward new users who are interested in getting started with RefWorks. After a break, we will briefly address advanced features (e.g., custom fields, customized citation styles, and reading/highlighting/annotating PDFs) and play around a bit with RefWorks’ Microsoft Word and Google Docs add-ins. Finally, we will discuss approaches and strategies for RefWorks training. <BR><BR><STRONG>Prerequisite knowledge/experience</STRONG>:</P>
+      <P>No prior experience necessary. This workshop is open to librarians from public, academic, and special libraries who are interested in learning how to use the new version of the citation manager RefWorks, and how to teach colleagues and users to effectively use the tool.<BR><BR><STRONG>By the end of this program, participants will:</STRONG></P>
+      <UL>
+      <LI>Be able to use RefWorks to locate, save, organize, and share citations and documents</LI>
+      <LI>Know how to add references to Microsoft Word and Google Docs documents</LI>
+      <LI>Practice a few advanced RefWorks features</LI>
+      <LI>Be prepared to train users on RefWorks at their libraries.</LI>
+      </UL>
+      <P>Laptops will be provided for this workshop. This class <SPAN>will be led by Linda Miles, </SPAN><SPAN>Librarian for Public Services &amp; User Experience at Yeshiva University.</SPAN></P>
+      <P><BR></P>
+      <P>*More information on the transition is available on the <A HREF="http://support.proquest.com/apex/homepage?id=kA140000000GxPKCA0&l=en_US" TARGET="_blank" REL="nofollow">ProQuest RefWorks Customer Resources Page</A>.</P>
+  id: '26182301970'
+  url: http://www.eventbrite.com/e/the-new-refworks-train-the-trainer-tickets-26182301970?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2016-07-18T16:00:00'
+    utc: '2016-07-18T20:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2016-07-18T18:00:00'
+    utc: '2016-07-18T22:00:00Z'
+  created: '2016-06-21T18:59:32Z'
+  changed: '2016-07-08T20:21:58Z'
+  capacity: 60
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 600
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  logo_id: '22015866'
+  organizer_id: '8929654067'
+  venue_id: '12278285'
+  category_id: 
+  subcategory_id: 
+  format_id: '9'
+  resource_uri: https://www.eventbriteapi.com/v3/events/26182301970/
+  logo:
+    id: '22015866'
+    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22015866%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1971%2C8048%2C4024&s=e7542490e1833dcbb2eb74f167ac5c3b
+    aspect_ratio: '2'
+    edge_color: 
+    edge_color_set: true
+- name:
     text: 'Digital Privacy: Hands-on Tactics and Tools'
     html: 'Digital Privacy: Hands-on Tactics and Tools'
   description:
@@ -110,286 +182,6 @@ events:
     edge_color: 
     edge_color_set: true
 - name:
-    text: 'Zotero: Citation Management for the Masses'
-    html: 'Zotero: Citation Management for the Masses'
-  description:
-    text: |-
-      Zotero is a free, open source citation management tool that organizes research resources, facilitates in-text citation, fosters collaboration with other scholars, and quickly generates bibliographies. Zotero is not tied to any institution and is available to all at no cost.
-      Attend this session to learn how to set up and work with Zotero so that you can share its benefits with colleagues/students and incorporate it into your instruction sessions. The first part of this hands-on workshop will cover basic and advanced features of Zotero. The second half of the workshop will be dedicated to strategies and examples of how to use Zotero to teach information literacy skills and as an organizational tool for individual and collaborative research projects.  
-      Prerequisite knowledge/experience:
-      No prior experience necessary. This workshop is open to librarians from public, academic, and special libraries who are interested in learning about Zotero and how to effectively use Zotero for bibliographic instruction and collaborative and personal research.
-      By the end of this program, participants will know how to:
-
-      get your research resources into Zotero
-      organize your Zotero library according to your specific needs
-      cite your resources within Microsoft Word, Google Docs, and/or Open Office
-      generate bibliographies
-      customize your Zotero preferences
-      take snapshots of web pages and add notes
-      sync your resources between multiple computers and to the cloud (Zotero’s servers)
-      create and setup a group library in Zotero
-      integrate Zotero into information literacy and other instruction
-      advocate for Zotero at your institution
-
-      Fees: 
-      Fees for this tools workshop are $20 for METRO, myMETRO, and ESLN members. They are $40 for non-members.
-      About our instructors:
-      Kimberly Detterbeck is the Art Librarian at Purchase College, SUNY. In her work, she oversees collection development, reference, and library instruction for art history, art + design, new media, and arts management as well as participates in Library-wide projects such as digitization, assessment, outreach and communications, and e-learning across multiple disciplines. Kim is an active member of the Metropolitan New York Library Council (METRO) as a member of the Social Media, Bibliographic Instruction, and CollectiveAccess special interest groups and a member of the myMETRO Researchers Pilot Project. She is also active in the Art Libraries Society of North America (ARLIS/NA) as former chair of the Membership Committee and secretary of the New York Chapter. Kim has been published in Art Documentation and The Global Librarian and regularly presents at local and national conferences including SUNY’s Conference on Instruction and Technology (CIT), SUNY Librarians Association annual conferences, METRO’s annual conferences, ARLIS/NA, and ACRL. She received an MLS from the University of Maryland, an MA in Art History from Syracuse University, and a BA in Art History from Rutgers University.
-      Marie Sciangula is the Assistant Director of the Teaching, Learning, and Technology Center (TLTC) at Purchase College, SUNY. In this capacity she manages and administers Moodle, the campus’ chosen learning management system, and promotes innovative uses of academic technologies and pedagogical approaches across campus. She offers a variety of workshops for faculty and staff geared towards effectively integrating technology into teaching and learning and encourages the use of open source applications. Marie is an active member of the Metropolitan New York Library Council (METRO) as a member of the Social Media, Bibliographic Instruction, and CollectiveAccess special interest groups and a member of the myMETRO Researchers Pilot Project. She regularly presents at local and national conferences including SUNY’s Conference on Instruction and Technology (CIT), SUNY Librarians Association conference, and METRO’s annual conferences. She has also presented at ARLIS/NA. Marie has been published in Art Documentation and The Global Librarian. She received a bachelor's degree in Women’s Studies from Purchase College, SUNY and her MLIS from Long Island University’s Palmer School of Library and Information Science.
-    html: |-
-      <P>Zotero is a free, open source citation management tool that organizes research resources, facilitates in-text citation, fosters collaboration with other scholars, and quickly generates bibliographies. Zotero is not tied to any institution and is available to all at no cost.</P>
-      <P>Attend this session to learn how to set up and work with Zotero so that you can share its benefits with colleagues/students and incorporate it into your instruction sessions. The first part of this hands-on workshop will cover basic and advanced features of Zotero. The second half of the workshop will be dedicated to strategies and examples of how to use Zotero to teach information literacy skills and as an organizational tool for individual and collaborative research projects.  </P>
-      <P><STRONG>Prerequisite knowledge/experience:</STRONG></P>
-      <P>No prior experience necessary. This workshop is open to librarians from public, academic, and special libraries who are interested in learning about Zotero and how to effectively use Zotero for bibliographic instruction and collaborative and personal research.</P>
-      <P><STRONG>By the end of this program, participants will know how to:</STRONG></P>
-      <UL>
-      <LI>get your research resources into Zotero</LI>
-      <LI>organize your Zotero library according to your specific needs</LI>
-      <LI>cite your resources within Microsoft Word, Google Docs, and/or Open Office</LI>
-      <LI>generate bibliographies</LI>
-      <LI>customize your Zotero preferences</LI>
-      <LI>take snapshots of web pages and add notes</LI>
-      <LI>sync your resources between multiple computers and to the cloud (Zotero’s servers)</LI>
-      <LI>create and setup a group library in Zotero</LI>
-      <LI>integrate Zotero into information literacy and other instruction</LI>
-      <LI>advocate for Zotero at your institution</LI>
-      </UL>
-      <P><STRONG>Fees: </STRONG></P>
-      <P>Fees for this tools workshop are $20 for METRO, myMETRO, and ESLN members. They are $40 for non-members.</P>
-      <P><STRONG>About our instructors:</STRONG></P>
-      <P><STRONG>Kimberly Detterbeck</STRONG> is the Art Librarian at Purchase College, SUNY. In her work, she oversees collection development, reference, and library instruction for art history, art + design, new media, and arts management as well as participates in Library-wide projects such as digitization, assessment, outreach and communications, and e-learning across multiple disciplines. Kim is an active member of the Metropolitan New York Library Council (METRO) as a member of the Social Media, Bibliographic Instruction, and CollectiveAccess special interest groups and a member of the myMETRO Researchers Pilot Project. She is also active in the Art Libraries Society of North America (ARLIS/NA) as former chair of the Membership Committee and secretary of the New York Chapter. Kim has been published in Art Documentation and The Global Librarian and regularly presents at local and national conferences including SUNY’s Conference on Instruction and Technology (CIT), SUNY Librarians Association annual conferences, METRO’s annual conferences, ARLIS/NA, and ACRL. She received an MLS from the University of Maryland, an MA in Art History from Syracuse University, and a BA in Art History from Rutgers University.</P>
-      <P><STRONG>Marie Sciangula</STRONG> is the Assistant Director of the Teaching, Learning, and Technology Center (TLTC) at Purchase College, SUNY. In this capacity she manages and administers Moodle, the campus’ chosen learning management system, and promotes innovative uses of academic technologies and pedagogical approaches across campus. She offers a variety of workshops for faculty and staff geared towards effectively integrating technology into teaching and learning and encourages the use of open source applications. Marie is an active member of the Metropolitan New York Library Council (METRO) as a member of the Social Media, Bibliographic Instruction, and CollectiveAccess special interest groups and a member of the myMETRO Researchers Pilot Project. She regularly presents at local and national conferences including SUNY’s Conference on Instruction and Technology (CIT), SUNY Librarians Association conference, and METRO’s annual conferences. She has also presented at ARLIS/NA. Marie has been published in Art Documentation and The Global Librarian. She received a bachelor's degree in Women’s Studies from Purchase College, SUNY and her MLIS from Long Island University’s Palmer School of Library and Information Science.</P>
-  id: '26306388115'
-  url: http://www.eventbrite.com/e/zotero-citation-management-for-the-masses-tickets-26306388115?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-08-17T16:00:00'
-    utc: '2016-08-17T20:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-08-17T18:00:00'
-    utc: '2016-08-17T22:00:00Z'
-  created: '2016-06-28T16:10:20Z'
-  changed: '2016-07-13T20:12:23Z'
-  capacity: 60
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '22165033'
-  organizer_id: '8929654067'
-  venue_id: '12278285'
-  category_id: 
-  subcategory_id: 
-  format_id: '9'
-  resource_uri: https://www.eventbriteapi.com/v3/events/26306388115/
-  logo:
-    id: '22165033'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22165033%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1971%2C8048%2C4024&s=4c9e5e075017b8477de5313737bc26b9
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: 'Digital Privacy: Fundamental Concepts'
-    html: 'Digital Privacy: Fundamental Concepts'
-  description:
-    text: |-
-      As the Internet continues to grow, social media websites, search engines, and even our government have unprecedented access to our personal information. It's easy to enjoy the convenience of having the world's information at our fingertips, but there are trade-offs to consider.
-      As providers of Internet access in neighborhoods, librarians are on the front lines of helping patrons navigate privacy online. Librarians can play a critical role in protecting the right to search for information without tracking or surveillance, and in helping library patrons be safe online.
-      Please join us for an interactive training that will cover concepts and tools related to digital privacy. It will address questions such as:
-
-      What are the key elements of information security? 
-      How does data profiling work? 
-      How is personal information shared across websites? 
-      What are the different digital services, devices, and networks at libraries through which patron data passes?
-
-      Participants will come away with improved familiarity with how data travels across the Internet and within library systems, as well as available resources for ongoing learning.
-    html: |-
-      <P>As the Internet continues to grow, social media websites, search engines, and even our government have unprecedented access to our personal information. It's easy to enjoy the convenience of having the world's information at our fingertips, but there are trade-offs to consider.</P>
-      <P>As providers of Internet access in neighborhoods, librarians are on the front lines of helping patrons navigate privacy online. Librarians can play a critical role in protecting the right to search for information without tracking or surveillance, and in helping library patrons be safe online.</P>
-      <P>Please join us for an interactive training that will cover concepts and tools related to digital privacy. It will address questions such as:</P>
-      <UL>
-      <LI>What are the key elements of information security? </LI>
-      <LI>How does data profiling work? </LI>
-      <LI>How is personal information shared across websites? </LI>
-      <LI>What are the different digital services, devices, and networks at libraries through which patron data passes?</LI>
-      </UL>
-      <P>Participants will come away with improved familiarity with how data travels across the Internet and within library systems, as well as available resources for ongoing learning.</P>
-  id: '25907249280'
-  url: http://www.eventbrite.com/e/digital-privacy-fundamental-concepts-tickets-25907249280?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-08-15T10:00:00'
-    utc: '2016-08-15T14:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-08-15T13:00:00'
-    utc: '2016-08-15T17:00:00Z'
-  created: '2016-06-06T16:21:00Z'
-  changed: '2016-06-06T16:24:14Z'
-  capacity: 28
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '21654071'
-  organizer_id: '8929654067'
-  venue_id: '12278285'
-  category_id: 
-  subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/25907249280/
-  logo:
-    id: '21654071'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21654071%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=3bde664f5e807eded3c637f6b6d4aff3
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: 'The New RefWorks: Train the Trainer'
-    html: 'The New RefWorks: Train the Trainer'
-  description:
-    text: |-
-      Librarians are often asked to facilitate citation management training. This workshop will provide training in the new version of the popular citation management tool RefWorks, as well as discussion and support on strategies, tips, and practices for teaching RefWorks. We will only briefly touch on the transition from “Legacy RefWorks” to “New RefWorks.”*
-      Participants will be able to set up a trial “New RefWorks” account for the purposes of this hands-on workshop. This session is open to librarians from public, academic, and special libraries.
-      The first half of the workshop will include a basic introduction to features and functionality of the New RefWorks interface, geared toward new users who are interested in getting started with RefWorks. After a break, we will briefly address advanced features (e.g., custom fields, customized citation styles, and reading/highlighting/annotating PDFs) and play around a bit with RefWorks’ Microsoft Word and Google Docs add-ins. Finally, we will discuss approaches and strategies for RefWorks training. Prerequisite knowledge/experience:
-      No prior experience necessary. This workshop is open to librarians from public, academic, and special libraries who are interested in learning how to use the new version of the citation manager RefWorks, and how to teach colleagues and users to effectively use the tool.By the end of this program, participants will:
-
-      Be able to use RefWorks to locate, save, organize, and share citations and documents
-      Know how to add references to Microsoft Word and Google Docs documents
-      Practice a few advanced RefWorks features
-      Be prepared to train users on RefWorks at their libraries.
-
-      Laptops will be provided for this workshop. This class will be led by Linda Miles, Librarian for Public Services & User Experience at Yeshiva University.
-
-      *More information on the transition is available on the ProQuest RefWorks Customer Resources Page.
-    html: |-
-      <P>Librarians are often asked to facilitate citation management training. This workshop will provide training in the new version of the popular citation management tool RefWorks, as well as discussion and support on strategies, tips, and practices for teaching RefWorks. We will only briefly touch on the transition from “Legacy RefWorks” to “New RefWorks.”*</P>
-      <P>Participants will be able to set up a trial “New RefWorks” account for the purposes of this hands-on workshop. This session is open to librarians from public, academic, and special libraries.</P>
-      <P>The first half of the workshop will include a basic introduction to features and functionality of the New RefWorks interface, geared toward new users who are interested in getting started with RefWorks. After a break, we will briefly address advanced features (e.g., custom fields, customized citation styles, and reading/highlighting/annotating PDFs) and play around a bit with RefWorks’ Microsoft Word and Google Docs add-ins. Finally, we will discuss approaches and strategies for RefWorks training. <BR><BR><STRONG>Prerequisite knowledge/experience</STRONG>:</P>
-      <P>No prior experience necessary. This workshop is open to librarians from public, academic, and special libraries who are interested in learning how to use the new version of the citation manager RefWorks, and how to teach colleagues and users to effectively use the tool.<BR><BR><STRONG>By the end of this program, participants will:</STRONG></P>
-      <UL>
-      <LI>Be able to use RefWorks to locate, save, organize, and share citations and documents</LI>
-      <LI>Know how to add references to Microsoft Word and Google Docs documents</LI>
-      <LI>Practice a few advanced RefWorks features</LI>
-      <LI>Be prepared to train users on RefWorks at their libraries.</LI>
-      </UL>
-      <P>Laptops will be provided for this workshop. This class <SPAN>will be led by Linda Miles, </SPAN><SPAN>Librarian for Public Services &amp; User Experience at Yeshiva University.</SPAN></P>
-      <P><BR></P>
-      <P>*More information on the transition is available on the <A HREF="http://support.proquest.com/apex/homepage?id=kA140000000GxPKCA0&l=en_US" TARGET="_blank" REL="nofollow">ProQuest RefWorks Customer Resources Page</A>.</P>
-  id: '26182301970'
-  url: http://www.eventbrite.com/e/the-new-refworks-train-the-trainer-tickets-26182301970?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-07-18T16:00:00'
-    utc: '2016-07-18T20:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-07-18T18:00:00'
-    utc: '2016-07-18T22:00:00Z'
-  created: '2016-06-21T18:59:32Z'
-  changed: '2016-07-08T20:21:58Z'
-  capacity: 60
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '22015866'
-  organizer_id: '8929654067'
-  venue_id: '12278285'
-  category_id: 
-  subcategory_id: 
-  format_id: '9'
-  resource_uri: https://www.eventbriteapi.com/v3/events/26182301970/
-  logo:
-    id: '22015866'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22015866%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1971%2C8048%2C4024&s=e7542490e1833dcbb2eb74f167ac5c3b
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: 'Digital Privacy: Hands-on Tactics and Tools'
-    html: 'Digital Privacy: Hands-on Tactics and Tools'
-  description:
-    text: |-
-      Whether or not you've joined us for our Fundamental Concepts course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.
-      Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.
-      This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.
-    html: |-
-      <P>Whether or not you've joined us for our <A TITLE="http://metro.org/events/761/" TARGET="_blank" HREF="http://metro.org/events/761/" REL="nofollow">Fundamental Concepts</A> course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.</P>
-      <P>Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.</P>
-      <P>This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.</P>
-  id: '25908070737'
-  url: http://www.eventbrite.com/e/digital-privacy-hands-on-tactics-and-tools-tickets-25908070737?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-08-15T14:00:00'
-    utc: '2016-08-15T18:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-08-15T17:00:00'
-    utc: '2016-08-15T21:00:00Z'
-  created: '2016-06-06T16:56:50Z'
-  changed: '2016-06-15T16:49:06Z'
-  capacity: 28
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '21655351'
-  organizer_id: '8929654067'
-  venue_id: 
-  category_id: 
-  subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/25908070737/
-  logo:
-    id: '21655351'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21655351%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=2d56f43ab40391b2080d7851b78617c1
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
     text: 'Facilitating Focus Groups: Best Practices for Gathering Data Through Group
       Conversation'
     html: 'Facilitating Focus Groups: Best Practices for Gathering Data Through Group
@@ -472,6 +264,59 @@ events:
   logo:
     id: '22165800'
     url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22165800%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1971%2C8048%2C4024&s=1f9d1f0f715e631ad25f4b78f66d4886
+    aspect_ratio: '2'
+    edge_color: 
+    edge_color_set: true
+- name:
+    text: Getting Started with Mendeley, or, How To Organize all of those PDFs
+    html: Getting Started with Mendeley, or, How To Organize all of those PDFs
+  description:
+    text: |
+      Come learn about the citation management tool, Mendeley and how it will make writing orders of magnitude easier. I'll introduce Mendeley, a tool that allows you to easily organize your PDFs, cite your sources, collaborate on research, create bibliographies, and never ever type out a reference again!
+      About our instructor
+      Ellie Ransom is the Research Services Coordinator for the Science & Engineering Libraries Division at Columbia University. She is the liaison to the School of Engineering and Applied Science and the departments of Mathematics and Statistics. She works to create a robust workshop schedule for the science and engineering departments on campus. Ellie has a B.S. in Mathematics from North Carolina State University, a M.S. in Applied Mathematics and Statistics from Georgetown University and an M.S. in Library and Information Science from Pratt Institute’s School of Information.
+    html: |-
+      <P>Come learn about the citation management tool, Mendeley and how it will make writing <EM>orders of magnitude</EM> easier. I'll introduce Mendeley, a tool that allows you to easily organize your PDFs, cite your sources, collaborate on research, create bibliographies, and never ever type out a reference again!</P>
+      <P><STRONG>About our instructor</STRONG></P>
+      <P><SPAN CLASS="il">Ellie</SPAN> <SPAN CLASS="il">Ransom</SPAN> is the Research Services Coordinator for the Science &amp; Engineering Libraries Division at Columbia University. She is the liaison to the School of Engineering and Applied Science and the departments of Mathematics and Statistics. She works to create a robust workshop schedule for the science and engineering departments on campus. <SPAN CLASS="il">Ellie</SPAN> has a B.S. in Mathematics from North Carolina State University, a M.S. in Applied Mathematics and Statistics from Georgetown University and an M.S. in Library and Information Science from Pratt Institute’s School of Information.</P>
+      <P><BR></P>
+  id: '26365003435'
+  url: http://www.eventbrite.com/e/getting-started-with-mendeley-or-how-to-organize-all-of-those-pdfs-tickets-26365003435?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2016-08-03T16:00:00'
+    utc: '2016-08-03T20:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2016-08-03T18:00:00'
+    utc: '2016-08-03T22:00:00Z'
+  created: '2016-07-01T01:14:28Z'
+  changed: '2016-07-13T19:11:35Z'
+  capacity: 60
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 600
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  logo_id: '22238765'
+  organizer_id: '8929654067'
+  venue_id: '12278285'
+  category_id: 
+  subcategory_id: 
+  format_id: '9'
+  resource_uri: https://www.eventbriteapi.com/v3/events/26365003435/
+  logo:
+    id: '22238765'
+    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22238765%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1971%2C8048%2C4024&s=c2f03fd4b5651c19f87b1049a9f6d0f3
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
@@ -580,59 +425,6 @@ events:
   logo:
     id: '21318743'
     url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21318743%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1971%2C8048%2C4024&s=8d8fb1728c101618d3decfad3bedb1d0
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: Getting Started with Mendeley, or, How To Organize all of those PDFs
-    html: Getting Started with Mendeley, or, How To Organize all of those PDFs
-  description:
-    text: |
-      Come learn about the citation management tool, Mendeley and how it will make writing orders of magnitude easier. I'll introduce Mendeley, a tool that allows you to easily organize your PDFs, cite your sources, collaborate on research, create bibliographies, and never ever type out a reference again!
-      About our instructor
-      Ellie Ransom is the Research Services Coordinator for the Science & Engineering Libraries Division at Columbia University. She is the liaison to the School of Engineering and Applied Science and the departments of Mathematics and Statistics. She works to create a robust workshop schedule for the science and engineering departments on campus. Ellie has a B.S. in Mathematics from North Carolina State University, a M.S. in Applied Mathematics and Statistics from Georgetown University and an M.S. in Library and Information Science from Pratt Institute’s School of Information.
-    html: |-
-      <P>Come learn about the citation management tool, Mendeley and how it will make writing <EM>orders of magnitude</EM> easier. I'll introduce Mendeley, a tool that allows you to easily organize your PDFs, cite your sources, collaborate on research, create bibliographies, and never ever type out a reference again!</P>
-      <P><STRONG>About our instructor</STRONG></P>
-      <P><SPAN CLASS="il">Ellie</SPAN> <SPAN CLASS="il">Ransom</SPAN> is the Research Services Coordinator for the Science &amp; Engineering Libraries Division at Columbia University. She is the liaison to the School of Engineering and Applied Science and the departments of Mathematics and Statistics. She works to create a robust workshop schedule for the science and engineering departments on campus. <SPAN CLASS="il">Ellie</SPAN> has a B.S. in Mathematics from North Carolina State University, a M.S. in Applied Mathematics and Statistics from Georgetown University and an M.S. in Library and Information Science from Pratt Institute’s School of Information.</P>
-      <P><BR></P>
-  id: '26365003435'
-  url: http://www.eventbrite.com/e/getting-started-with-mendeley-or-how-to-organize-all-of-those-pdfs-tickets-26365003435?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-08-03T16:00:00'
-    utc: '2016-08-03T20:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-08-03T18:00:00'
-    utc: '2016-08-03T22:00:00Z'
-  created: '2016-07-01T01:14:28Z'
-  changed: '2016-07-13T19:11:35Z'
-  capacity: 60
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '22238765'
-  organizer_id: '8929654067'
-  venue_id: '12278285'
-  category_id: 
-  subcategory_id: 
-  format_id: '9'
-  resource_uri: https://www.eventbriteapi.com/v3/events/26365003435/
-  logo:
-    id: '22238765'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22238765%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1971%2C8048%2C4024&s=c2f03fd4b5651c19f87b1049a9f6d0f3
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
@@ -787,6 +579,124 @@ events:
     edge_color: 
     edge_color_set: true
 - name:
+    text: 'Digital Privacy: Fundamental Concepts'
+    html: 'Digital Privacy: Fundamental Concepts'
+  description:
+    text: |-
+      As the Internet continues to grow, social media websites, search engines, and even our government have unprecedented access to our personal information. It's easy to enjoy the convenience of having the world's information at our fingertips, but there are trade-offs to consider.
+      As providers of Internet access in neighborhoods, librarians are on the front lines of helping patrons navigate privacy online. Librarians can play a critical role in protecting the right to search for information without tracking or surveillance, and in helping library patrons be safe online.
+      Please join us for an interactive training that will cover concepts and tools related to digital privacy. It will address questions such as:
+
+      What are the key elements of information security? 
+      How does data profiling work? 
+      How is personal information shared across websites? 
+      What are the different digital services, devices, and networks at libraries through which patron data passes?
+
+      Participants will come away with improved familiarity with how data travels across the Internet and within library systems, as well as available resources for ongoing learning.
+    html: |-
+      <P>As the Internet continues to grow, social media websites, search engines, and even our government have unprecedented access to our personal information. It's easy to enjoy the convenience of having the world's information at our fingertips, but there are trade-offs to consider.</P>
+      <P>As providers of Internet access in neighborhoods, librarians are on the front lines of helping patrons navigate privacy online. Librarians can play a critical role in protecting the right to search for information without tracking or surveillance, and in helping library patrons be safe online.</P>
+      <P>Please join us for an interactive training that will cover concepts and tools related to digital privacy. It will address questions such as:</P>
+      <UL>
+      <LI>What are the key elements of information security? </LI>
+      <LI>How does data profiling work? </LI>
+      <LI>How is personal information shared across websites? </LI>
+      <LI>What are the different digital services, devices, and networks at libraries through which patron data passes?</LI>
+      </UL>
+      <P>Participants will come away with improved familiarity with how data travels across the Internet and within library systems, as well as available resources for ongoing learning.</P>
+  id: '25907249280'
+  url: http://www.eventbrite.com/e/digital-privacy-fundamental-concepts-tickets-25907249280?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2016-08-15T10:00:00'
+    utc: '2016-08-15T14:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2016-08-15T13:00:00'
+    utc: '2016-08-15T17:00:00Z'
+  created: '2016-06-06T16:21:00Z'
+  changed: '2016-06-06T16:24:14Z'
+  capacity: 28
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 600
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  logo_id: '21654071'
+  organizer_id: '8929654067'
+  venue_id: '12278285'
+  category_id: 
+  subcategory_id: 
+  format_id: '10'
+  resource_uri: https://www.eventbriteapi.com/v3/events/25907249280/
+  logo:
+    id: '21654071'
+    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21654071%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=3bde664f5e807eded3c637f6b6d4aff3
+    aspect_ratio: '2'
+    edge_color: 
+    edge_color_set: true
+- name:
+    text: 'Digital Privacy: Hands-on Tactics and Tools'
+    html: 'Digital Privacy: Hands-on Tactics and Tools'
+  description:
+    text: |-
+      Whether or not you've joined us for our Fundamental Concepts course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.
+      Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.
+      This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.
+    html: |-
+      <P>Whether or not you've joined us for our <A TITLE="http://metro.org/events/761/" TARGET="_blank" HREF="http://metro.org/events/761/" REL="nofollow">Fundamental Concepts</A> course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.</P>
+      <P>Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.</P>
+      <P>This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.</P>
+  id: '25908070737'
+  url: http://www.eventbrite.com/e/digital-privacy-hands-on-tactics-and-tools-tickets-25908070737?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2016-08-15T14:00:00'
+    utc: '2016-08-15T18:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2016-08-15T17:00:00'
+    utc: '2016-08-15T21:00:00Z'
+  created: '2016-06-06T16:56:50Z'
+  changed: '2016-06-15T16:49:06Z'
+  capacity: 28
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 600
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  logo_id: '21655351'
+  organizer_id: '8929654067'
+  venue_id: 
+  category_id: 
+  subcategory_id: 
+  format_id: '10'
+  resource_uri: https://www.eventbriteapi.com/v3/events/25908070737/
+  logo:
+    id: '21655351'
+    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21655351%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=2d56f43ab40391b2080d7851b78617c1
+    aspect_ratio: '2'
+    edge_color: 
+    edge_color_set: true
+- name:
     text: 'Digital Privacy: Hands-on Tactics and Tools'
     html: 'Digital Privacy: Hands-on Tactics and Tools'
   description:
@@ -835,6 +745,96 @@ events:
   logo:
     id: '21655424'
     url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21655424%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=e0eb0dc5f5ab9f6c953505b542fae026
+    aspect_ratio: '2'
+    edge_color: 
+    edge_color_set: true
+- name:
+    text: 'Zotero: Citation Management for the Masses'
+    html: 'Zotero: Citation Management for the Masses'
+  description:
+    text: |-
+      Zotero is a free, open source citation management tool that organizes research resources, facilitates in-text citation, fosters collaboration with other scholars, and quickly generates bibliographies. Zotero is not tied to any institution and is available to all at no cost.
+      Attend this session to learn how to set up and work with Zotero so that you can share its benefits with colleagues/students and incorporate it into your instruction sessions. The first part of this hands-on workshop will cover basic and advanced features of Zotero. The second half of the workshop will be dedicated to strategies and examples of how to use Zotero to teach information literacy skills and as an organizational tool for individual and collaborative research projects.  
+      Prerequisite knowledge/experience:
+      No prior experience necessary. This workshop is open to librarians from public, academic, and special libraries who are interested in learning about Zotero and how to effectively use Zotero for bibliographic instruction and collaborative and personal research.
+      By the end of this program, participants will know how to:
+
+      get your research resources into Zotero
+      organize your Zotero library according to your specific needs
+      cite your resources within Microsoft Word, Google Docs, and/or Open Office
+      generate bibliographies
+      customize your Zotero preferences
+      take snapshots of web pages and add notes
+      sync your resources between multiple computers and to the cloud (Zotero’s servers)
+      create and setup a group library in Zotero
+      integrate Zotero into information literacy and other instruction
+      advocate for Zotero at your institution
+
+      Fees: 
+      Fees for this tools workshop are $20 for METRO, myMETRO, and ESLN members. They are $40 for non-members.
+      About our instructors:
+      Kimberly Detterbeck is the Art Librarian at Purchase College, SUNY. In her work, she oversees collection development, reference, and library instruction for art history, art + design, new media, and arts management as well as participates in Library-wide projects such as digitization, assessment, outreach and communications, and e-learning across multiple disciplines. Kim is an active member of the Metropolitan New York Library Council (METRO) as a member of the Social Media, Bibliographic Instruction, and CollectiveAccess special interest groups and a member of the myMETRO Researchers Pilot Project. She is also active in the Art Libraries Society of North America (ARLIS/NA) as former chair of the Membership Committee and secretary of the New York Chapter. Kim has been published in Art Documentation and The Global Librarian and regularly presents at local and national conferences including SUNY’s Conference on Instruction and Technology (CIT), SUNY Librarians Association annual conferences, METRO’s annual conferences, ARLIS/NA, and ACRL. She received an MLS from the University of Maryland, an MA in Art History from Syracuse University, and a BA in Art History from Rutgers University.
+      Marie Sciangula is the Assistant Director of the Teaching, Learning, and Technology Center (TLTC) at Purchase College, SUNY. In this capacity she manages and administers Moodle, the campus’ chosen learning management system, and promotes innovative uses of academic technologies and pedagogical approaches across campus. She offers a variety of workshops for faculty and staff geared towards effectively integrating technology into teaching and learning and encourages the use of open source applications. Marie is an active member of the Metropolitan New York Library Council (METRO) as a member of the Social Media, Bibliographic Instruction, and CollectiveAccess special interest groups and a member of the myMETRO Researchers Pilot Project. She regularly presents at local and national conferences including SUNY’s Conference on Instruction and Technology (CIT), SUNY Librarians Association conference, and METRO’s annual conferences. She has also presented at ARLIS/NA. Marie has been published in Art Documentation and The Global Librarian. She received a bachelor's degree in Women’s Studies from Purchase College, SUNY and her MLIS from Long Island University’s Palmer School of Library and Information Science.
+    html: |-
+      <P>Zotero is a free, open source citation management tool that organizes research resources, facilitates in-text citation, fosters collaboration with other scholars, and quickly generates bibliographies. Zotero is not tied to any institution and is available to all at no cost.</P>
+      <P>Attend this session to learn how to set up and work with Zotero so that you can share its benefits with colleagues/students and incorporate it into your instruction sessions. The first part of this hands-on workshop will cover basic and advanced features of Zotero. The second half of the workshop will be dedicated to strategies and examples of how to use Zotero to teach information literacy skills and as an organizational tool for individual and collaborative research projects.  </P>
+      <P><STRONG>Prerequisite knowledge/experience:</STRONG></P>
+      <P>No prior experience necessary. This workshop is open to librarians from public, academic, and special libraries who are interested in learning about Zotero and how to effectively use Zotero for bibliographic instruction and collaborative and personal research.</P>
+      <P><STRONG>By the end of this program, participants will know how to:</STRONG></P>
+      <UL>
+      <LI>get your research resources into Zotero</LI>
+      <LI>organize your Zotero library according to your specific needs</LI>
+      <LI>cite your resources within Microsoft Word, Google Docs, and/or Open Office</LI>
+      <LI>generate bibliographies</LI>
+      <LI>customize your Zotero preferences</LI>
+      <LI>take snapshots of web pages and add notes</LI>
+      <LI>sync your resources between multiple computers and to the cloud (Zotero’s servers)</LI>
+      <LI>create and setup a group library in Zotero</LI>
+      <LI>integrate Zotero into information literacy and other instruction</LI>
+      <LI>advocate for Zotero at your institution</LI>
+      </UL>
+      <P><STRONG>Fees: </STRONG></P>
+      <P>Fees for this tools workshop are $20 for METRO, myMETRO, and ESLN members. They are $40 for non-members.</P>
+      <P><STRONG>About our instructors:</STRONG></P>
+      <P><STRONG>Kimberly Detterbeck</STRONG> is the Art Librarian at Purchase College, SUNY. In her work, she oversees collection development, reference, and library instruction for art history, art + design, new media, and arts management as well as participates in Library-wide projects such as digitization, assessment, outreach and communications, and e-learning across multiple disciplines. Kim is an active member of the Metropolitan New York Library Council (METRO) as a member of the Social Media, Bibliographic Instruction, and CollectiveAccess special interest groups and a member of the myMETRO Researchers Pilot Project. She is also active in the Art Libraries Society of North America (ARLIS/NA) as former chair of the Membership Committee and secretary of the New York Chapter. Kim has been published in Art Documentation and The Global Librarian and regularly presents at local and national conferences including SUNY’s Conference on Instruction and Technology (CIT), SUNY Librarians Association annual conferences, METRO’s annual conferences, ARLIS/NA, and ACRL. She received an MLS from the University of Maryland, an MA in Art History from Syracuse University, and a BA in Art History from Rutgers University.</P>
+      <P><STRONG>Marie Sciangula</STRONG> is the Assistant Director of the Teaching, Learning, and Technology Center (TLTC) at Purchase College, SUNY. In this capacity she manages and administers Moodle, the campus’ chosen learning management system, and promotes innovative uses of academic technologies and pedagogical approaches across campus. She offers a variety of workshops for faculty and staff geared towards effectively integrating technology into teaching and learning and encourages the use of open source applications. Marie is an active member of the Metropolitan New York Library Council (METRO) as a member of the Social Media, Bibliographic Instruction, and CollectiveAccess special interest groups and a member of the myMETRO Researchers Pilot Project. She regularly presents at local and national conferences including SUNY’s Conference on Instruction and Technology (CIT), SUNY Librarians Association conference, and METRO’s annual conferences. She has also presented at ARLIS/NA. Marie has been published in Art Documentation and The Global Librarian. She received a bachelor's degree in Women’s Studies from Purchase College, SUNY and her MLIS from Long Island University’s Palmer School of Library and Information Science.</P>
+  id: '26306388115'
+  url: http://www.eventbrite.com/e/zotero-citation-management-for-the-masses-tickets-26306388115?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2016-08-17T16:00:00'
+    utc: '2016-08-17T20:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2016-08-17T18:00:00'
+    utc: '2016-08-17T22:00:00Z'
+  created: '2016-06-28T16:10:20Z'
+  changed: '2016-07-13T22:20:08Z'
+  capacity: 60
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 600
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  logo_id: '22165033'
+  organizer_id: '8929654067'
+  venue_id: '12278285'
+  category_id: 
+  subcategory_id: 
+  format_id: '9'
+  resource_uri: https://www.eventbriteapi.com/v3/events/26306388115/
+  logo:
+    id: '22165033'
+    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22165033%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1971%2C8048%2C4024&s=4c9e5e075017b8477de5313737bc26b9
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
