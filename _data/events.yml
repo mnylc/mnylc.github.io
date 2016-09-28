@@ -1,55 +1,52 @@
 ---
 pagination:
-  object_count: 12
+  object_count: 6
   page_number: 1
   page_size: 50
   page_count: 1
 events:
 - name:
-    text: 'The New RefWorks: Train the Trainer'
-    html: 'The New RefWorks: Train the Trainer'
+    text: 'Digital Privacy: Fundamental Concepts'
+    html: 'Digital Privacy: Fundamental Concepts'
   description:
     text: |-
-      Librarians are often asked to facilitate citation management training. This workshop will provide training in the new version of the popular citation management tool RefWorks, as well as discussion and support on strategies, tips, and practices for teaching RefWorks. We will only briefly touch on the transition from “Legacy RefWorks” to “New RefWorks.”*
-      Participants will be able to set up a trial “New RefWorks” account for the purposes of this hands-on workshop. This session is open to librarians from public, academic, and special libraries.
-      The first half of the workshop will include a basic introduction to features and functionality of the New RefWorks interface, geared toward new users who are interested in getting started with RefWorks. After a break, we will briefly address advanced features (e.g., custom fields, customized citation styles, and reading/highlighting/annotating PDFs) and play around a bit with RefWorks’ Microsoft Word and Google Docs add-ins. Finally, we will discuss approaches and strategies for RefWorks training. Prerequisite knowledge/experience:
-      No prior experience necessary. This workshop is open to librarians from public, academic, and special libraries who are interested in learning how to use the new version of the citation manager RefWorks, and how to teach colleagues and users to effectively use the tool.By the end of this program, participants will:
+      As the Internet continues to grow, social media websites, search engines, and even our government have unprecedented access to our personal information. It's easy to enjoy the convenience of having the world's information at our fingertips, but there are trade-offs to consider.
+      As providers of Internet access in neighborhoods, librarians are on the front lines of helping patrons navigate privacy online. Librarians can play a critical role in protecting the right to search for information without tracking or surveillance, and in helping library patrons be safe online.
+      Please join us for an interactive training that will cover concepts and tools related to digital privacy. It will address questions such as:
 
-      Be able to use RefWorks to locate, save, organize, and share citations and documents
-      Know how to add references to Microsoft Word and Google Docs documents
-      Practice a few advanced RefWorks features
-      Be prepared to train users on RefWorks at their libraries.
+      What are the key elements of information security? 
+      How does data profiling work? 
+      How is personal information shared across websites? 
+      What are the different digital services, devices, and networks at libraries through which patron data passes?
 
-      Laptops will be provided for this workshop. This class will be led by Linda Miles, Librarian for Public Services & User Experience at Yeshiva University.
-
-      *More information on the transition is available on the ProQuest RefWorks Customer Resources Page.
+      Participants will come away with improved familiarity with how data travels across the Internet and within library systems, as well as available resources for ongoing learning.
+      ***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by NYPL.***
     html: |-
-      <P>Librarians are often asked to facilitate citation management training. This workshop will provide training in the new version of the popular citation management tool RefWorks, as well as discussion and support on strategies, tips, and practices for teaching RefWorks. We will only briefly touch on the transition from “Legacy RefWorks” to “New RefWorks.”*</P>
-      <P>Participants will be able to set up a trial “New RefWorks” account for the purposes of this hands-on workshop. This session is open to librarians from public, academic, and special libraries.</P>
-      <P>The first half of the workshop will include a basic introduction to features and functionality of the New RefWorks interface, geared toward new users who are interested in getting started with RefWorks. After a break, we will briefly address advanced features (e.g., custom fields, customized citation styles, and reading/highlighting/annotating PDFs) and play around a bit with RefWorks’ Microsoft Word and Google Docs add-ins. Finally, we will discuss approaches and strategies for RefWorks training. <BR><BR><STRONG>Prerequisite knowledge/experience</STRONG>:</P>
-      <P>No prior experience necessary. This workshop is open to librarians from public, academic, and special libraries who are interested in learning how to use the new version of the citation manager RefWorks, and how to teach colleagues and users to effectively use the tool.<BR><BR><STRONG>By the end of this program, participants will:</STRONG></P>
+      <P>As the Internet continues to grow, social media websites, search engines, and even our government have unprecedented access to our personal information. It's easy to enjoy the convenience of having the world's information at our fingertips, but there are trade-offs to consider.</P>
+      <P>As providers of Internet access in neighborhoods, librarians are on the front lines of helping patrons navigate privacy online. Librarians can play a critical role in protecting the right to search for information without tracking or surveillance, and in helping library patrons be safe online.</P>
+      <P>Please join us for an interactive training that will cover concepts and tools related to digital privacy. It will address questions such as:</P>
       <UL>
-      <LI>Be able to use RefWorks to locate, save, organize, and share citations and documents</LI>
-      <LI>Know how to add references to Microsoft Word and Google Docs documents</LI>
-      <LI>Practice a few advanced RefWorks features</LI>
-      <LI>Be prepared to train users on RefWorks at their libraries.</LI>
+      <LI>What are the key elements of information security? </LI>
+      <LI>How does data profiling work? </LI>
+      <LI>How is personal information shared across websites? </LI>
+      <LI>What are the different digital services, devices, and networks at libraries through which patron data passes?</LI>
       </UL>
-      <P>Laptops will be provided for this workshop. This class <SPAN>will be led by Linda Miles, </SPAN><SPAN>Librarian for Public Services &amp; User Experience at Yeshiva University.</SPAN></P>
-      <P><BR></P>
-      <P>*More information on the transition is available on the <A HREF="http://support.proquest.com/apex/homepage?id=kA140000000GxPKCA0&l=en_US" TARGET="_blank" REL="nofollow">ProQuest RefWorks Customer Resources Page</A>.</P>
-  id: '26182301970'
-  url: http://www.eventbrite.com/e/the-new-refworks-train-the-trainer-tickets-26182301970?aff=ebapi
+      <P>Participants will come away with improved familiarity with how data travels across the Internet and within library systems, as well as available resources for ongoing learning.</P>
+      <P><SPAN>***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by NYPL.***</SPAN></P>
+  id: '27682646541'
+  url: http://www.eventbrite.com/e/digital-privacy-fundamental-concepts-tickets-27682646541?aff=ebapi
   start:
     timezone: America/New_York
-    local: '2016-07-18T16:00:00'
-    utc: '2016-07-18T20:00:00Z'
+    local: '2016-10-19T10:00:00'
+    utc: '2016-10-19T14:00:00Z'
   end:
     timezone: America/New_York
-    local: '2016-07-18T18:00:00'
-    utc: '2016-07-18T22:00:00Z'
-  created: '2016-06-21T18:59:32Z'
-  changed: '2016-07-08T20:21:58Z'
-  capacity: 60
+    local: '2016-10-19T13:00:00'
+    utc: '2016-10-19T17:00:00Z'
+  created: '2016-09-12T17:00:17Z'
+  changed: '2016-09-19T14:38:13Z'
+  capacity: 56
+  capacity_is_custom: false
   status: live
   currency: USD
   listed: true
@@ -64,16 +61,19 @@ events:
   is_series: false
   is_series_parent: false
   is_reserved_seating: false
-  logo_id: '22015866'
+  source: create_2.0
+  logo_id: '24083824'
   organizer_id: '8929654067'
-  venue_id: '12278285'
+  venue_id: '16632331'
   category_id: 
   subcategory_id: 
-  format_id: '9'
-  resource_uri: https://www.eventbriteapi.com/v3/events/26182301970/
+  format_id: '10'
+  resource_uri: https://www.eventbriteapi.com/v3/events/27682646541/
   logo:
-    id: '22015866'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22015866%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1971%2C8048%2C4024&s=e7542490e1833dcbb2eb74f167ac5c3b
+    crop_mask: 
+    original: 
+    id: '24083824'
+    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24083824%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=cdf75b59d887d7dc89359326a52161f1
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
@@ -85,23 +85,26 @@ events:
       Whether or not you've joined us for our Fundamental Concepts course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.
       Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.
       This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.
+      ***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by NYPL.***
     html: |-
-      <P>Whether or not you've joined us for our <A TITLE="http://metro.org/events/761/" TARGET="_blank" HREF="http://metro.org/events/761/" REL="nofollow">Fundamental Concepts</A> course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.</P>
+      <P>Whether or not you've joined us for our <A HREF="http://metro.org/events/784/" TARGET="_blank" TITLE="http://metro.org/events/761/" REL="noopener noreferrer nofollow">Fundamental Concepts</A> course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.</P>
       <P>Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.</P>
       <P>This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.</P>
-  id: '25907772846'
-  url: http://www.eventbrite.com/e/digital-privacy-hands-on-tactics-and-tools-tickets-25907772846?aff=ebapi
+      <P>***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by NYPL.***</P>
+  id: '27682960480'
+  url: http://www.eventbrite.com/e/digital-privacy-hands-on-tactics-and-tools-tickets-27682960480?aff=ebapi
   start:
     timezone: America/New_York
-    local: '2016-07-19T10:00:00'
-    utc: '2016-07-19T14:00:00Z'
+    local: '2016-10-19T14:00:00'
+    utc: '2016-10-19T18:00:00Z'
   end:
     timezone: America/New_York
-    local: '2016-07-19T13:00:00'
-    utc: '2016-07-19T17:00:00Z'
-  created: '2016-06-06T16:47:06Z'
-  changed: '2016-06-15T16:30:48Z'
-  capacity: 28
+    local: '2016-10-19T17:00:00'
+    utc: '2016-10-19T21:00:00Z'
+  created: '2016-09-12T17:04:57Z'
+  changed: '2016-09-19T14:37:49Z'
+  capacity: 56
+  capacity_is_custom: false
   status: live
   currency: USD
   listed: true
@@ -116,465 +119,19 @@ events:
   is_series: false
   is_series_parent: false
   is_reserved_seating: false
-  logo_id: '21655020'
+  source: create_2.0
+  logo_id: '24084032'
   organizer_id: '8929654067'
-  venue_id: '12278285'
+  venue_id: '16619914'
   category_id: 
   subcategory_id: 
   format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/25907772846/
+  resource_uri: https://www.eventbriteapi.com/v3/events/27682960480/
   logo:
-    id: '21655020'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21655020%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=664de279f8980191cc7d6013188bcce2
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: 'Digital Privacy: Hands-on Tactics and Tools'
-    html: 'Digital Privacy: Hands-on Tactics and Tools'
-  description:
-    text: |-
-      Whether or not you've joined us for our Fundamental Concepts course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.
-      Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.
-      This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.
-    html: |-
-      <P>Whether or not you've joined us for our <A TITLE="http://metro.org/events/761/" TARGET="_blank" HREF="http://metro.org/events/761/" REL="nofollow">Fundamental Concepts</A> course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.</P>
-      <P>Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.</P>
-      <P>This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.</P>
-  id: '25907904239'
-  url: http://www.eventbrite.com/e/digital-privacy-hands-on-tactics-and-tools-tickets-25907904239?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-07-20T14:00:00'
-    utc: '2016-07-20T18:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-07-20T17:00:00'
-    utc: '2016-07-20T21:00:00Z'
-  created: '2016-06-06T16:49:38Z'
-  changed: '2016-06-30T19:04:29Z'
-  capacity: 28
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '21655101'
-  organizer_id: '8929654067'
-  venue_id: '12278285'
-  category_id: 
-  subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/25907904239/
-  logo:
-    id: '21655101'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21655101%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=246fc6b4a7ac78ab17ef427fd1d3b787
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: 'Facilitating Focus Groups: Best Practices for Gathering Data Through Group
-      Conversation'
-    html: 'Facilitating Focus Groups: Best Practices for Gathering Data Through Group
-      Conversation'
-  description:
-    text: |-
-      Focus groups are a great research tool for gathering feedback on new products or programs and better understanding your library’s community. By learning to facilitate or moderate a focus group discussion, you can uncover multiple perspectives or find out what people have in common within a cohort.
-      This workshop will offer hands on practice in designing and running focus groups. We will cover the following topics:
-
-      Why Focus Groups?
-      Focus Group Design: Questions, People, Place
-      Facilitating An Inclusive Conversation
-      Data Collection & Analysis
-
-      By the end of this session, participants will be able to:
-
-      Understand the context in which focus groups will add a helpful dimension to data collection
-      Generate a set of useful questions for use in the focus group setting
-      Foster a congenail atmosphere in which participants are comfortable contributing
-      Utilize collected data to build hypotheses around a set of research questions
-
-      This workshop is intended for professionals and students who are interested in learning how to build research and facilitation skills, and design for diverse audiences. 
-      Due to time contraints, this workshop will not go in depth on the qualitative data analysis process. Look for future METRO workshops on this topic. 
-      Instructor Bio
-      Julia Marden is still figuring out what she wants to be when she grows up. She has a background in academic librarianship and community building, with a passion for data literacy and diversity work. She has designed and facilitated focus groups and meetings with the NYC Department of Education, BetaNYC, and DataKind. She holds an MLIS from the Pratt Institute and rides a sparkly purple bicycle.  
-    html: |-
-      <P>Focus groups are a great research tool for gathering feedback on new products or programs and better understanding your library’s community. By learning to facilitate or moderate a focus group discussion, you can uncover multiple perspectives or find out what people have in common within a cohort.</P>
-      <P>This workshop will offer hands on practice in designing and running focus groups. We will cover the following topics:</P>
-      <UL>
-      <LI>Why Focus Groups?</LI>
-      <LI>Focus Group Design: Questions, People, Place</LI>
-      <LI>Facilitating An Inclusive Conversation</LI>
-      <LI>Data Collection &amp; Analysis</LI>
-      </UL>
-      <P>By the end of this session, participants will be able to:</P>
-      <UL>
-      <LI>Understand the context in which focus groups will add a helpful dimension to data collection</LI>
-      <LI>Generate a set of useful questions for use in the focus group setting</LI>
-      <LI>Foster a congenail atmosphere in which participants are comfortable contributing</LI>
-      <LI>Utilize collected data to build hypotheses around a set of research questions</LI>
-      </UL>
-      <P><SPAN>This workshop is intended for professionals and students who are interested in learning how to build research and facilitation skills, and design for diverse audiences. </SPAN></P>
-      <P>Due to time contraints, this workshop will not go in depth on the qualitative data analysis process. Look for future METRO workshops on this topic. </P>
-      <P><STRONG>Instructor Bio</STRONG></P>
-      <P>Julia Marden is still figuring out what she wants to be when she grows up. She has a background in academic librarianship and community building, with a passion for data literacy and diversity work. She has designed and facilitated focus groups and meetings with the NYC Department of Education, BetaNYC, and DataKind. She holds an MLIS from the Pratt Institute and rides a sparkly purple bicycle.  </P>
-  id: '26306993927'
-  url: http://www.eventbrite.com/e/facilitating-focus-groups-best-practices-for-gathering-data-through-group-conversation-tickets-26306993927?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-08-01T14:00:00'
-    utc: '2016-08-01T18:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-08-01T17:00:00'
-    utc: '2016-08-01T21:00:00Z'
-  created: '2016-06-28T16:31:47Z'
-  changed: '2016-07-08T13:05:26Z'
-  capacity: 60
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '22165800'
-  organizer_id: '8929654067'
-  venue_id: '12278285'
-  category_id: 
-  subcategory_id: 
-  format_id: '9'
-  resource_uri: https://www.eventbriteapi.com/v3/events/26306993927/
-  logo:
-    id: '22165800'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22165800%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1971%2C8048%2C4024&s=1f9d1f0f715e631ad25f4b78f66d4886
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: Getting Started with Mendeley, or, How To Organize all of those PDFs
-    html: Getting Started with Mendeley, or, How To Organize all of those PDFs
-  description:
-    text: |
-      Come learn about the citation management tool, Mendeley and how it will make writing orders of magnitude easier. I'll introduce Mendeley, a tool that allows you to easily organize your PDFs, cite your sources, collaborate on research, create bibliographies, and never ever type out a reference again!
-      About our instructor
-      Ellie Ransom is the Research Services Coordinator for the Science & Engineering Libraries Division at Columbia University. She is the liaison to the School of Engineering and Applied Science and the departments of Mathematics and Statistics. She works to create a robust workshop schedule for the science and engineering departments on campus. Ellie has a B.S. in Mathematics from North Carolina State University, a M.S. in Applied Mathematics and Statistics from Georgetown University and an M.S. in Library and Information Science from Pratt Institute’s School of Information.
-    html: |-
-      <P>Come learn about the citation management tool, Mendeley and how it will make writing <EM>orders of magnitude</EM> easier. I'll introduce Mendeley, a tool that allows you to easily organize your PDFs, cite your sources, collaborate on research, create bibliographies, and never ever type out a reference again!</P>
-      <P><STRONG>About our instructor</STRONG></P>
-      <P><SPAN CLASS="il">Ellie</SPAN> <SPAN CLASS="il">Ransom</SPAN> is the Research Services Coordinator for the Science &amp; Engineering Libraries Division at Columbia University. She is the liaison to the School of Engineering and Applied Science and the departments of Mathematics and Statistics. She works to create a robust workshop schedule for the science and engineering departments on campus. <SPAN CLASS="il">Ellie</SPAN> has a B.S. in Mathematics from North Carolina State University, a M.S. in Applied Mathematics and Statistics from Georgetown University and an M.S. in Library and Information Science from Pratt Institute’s School of Information.</P>
-      <P><BR></P>
-  id: '26365003435'
-  url: http://www.eventbrite.com/e/getting-started-with-mendeley-or-how-to-organize-all-of-those-pdfs-tickets-26365003435?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-08-03T16:00:00'
-    utc: '2016-08-03T20:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-08-03T18:00:00'
-    utc: '2016-08-03T22:00:00Z'
-  created: '2016-07-01T01:14:28Z'
-  changed: '2016-07-13T19:11:35Z'
-  capacity: 60
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '22238765'
-  organizer_id: '8929654067'
-  venue_id: '12278285'
-  category_id: 
-  subcategory_id: 
-  format_id: '9'
-  resource_uri: https://www.eventbriteapi.com/v3/events/26365003435/
-  logo:
-    id: '22238765'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22238765%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1971%2C8048%2C4024&s=c2f03fd4b5651c19f87b1049a9f6d0f3
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: 'Survey Design and Analysis: Building Surveys for Optimal Feedback'
-    html: 'Survey Design and Analysis: Building Surveys for Optimal Feedback'
-  description:
-    text: "This one-day workshop will provide an overview of basic elements of survey
-      design, and demonstrate survey data analysis, using Excel.\nThe first part of
-      the workshop is dedicated to survey design with a focus on developing survey
-      questions based on best practices in survey research. We will review elements
-      of survey process and introduce different types of survey questions, followed
-      by a class activity to evaluate sample survey items. The morning session will
-      end with an activity where participants will apply what they learned by writing
-      survey questions.\nThe second part of the workshop will cover analysis of user
-      feedback surveys using Microsoft Excel. Participants will learn how to perform
-      descriptive statistics (mean, mode, ranges, standard deviation) and frequency
-      analysis of survey data. We will review relationships between categorical variables
-      in survey data and learn cross tabulation using Pivot Table. Best practices
-      for analyzing qualitative data from open-ended questions will be discussed.
-      The workshop will end with an activity where participants will apply what they
-      learned by analyzing survey data using an actual survey data set provided by
-      the instructor.\nBy the end of the workshop, participants will:\n\nUnderstand
-      the elements of survey process\nWrite effective survey items, using different
-      types of survey questions\nUnderstand measurement error in survey questions,
-      including variance and bias\nEvaluate survey content\nApply Excel functions
-      to calculate descriptive statistics\nCreate cross tabulation using Pivot Tables\nUnderstand
-      how data is evaluated and interpreted into meaningful and significant conclusions
-      that can be used\n\nWho should attend: \nThis workshop is designed to be a beginner
-      level course for those who are interested in participating assessment activities
-      in libraries and information centers. No prior knowledge of survey research
-      is required.\nPrerequisite knowledge/experience:\nBasic knowledge of Excel is
-      required. Sample datasets and training laptops will be provided during this
-      session.\nHelpful info:\nParticipants are welcome to either bring their own
-      laptops (with MS Excel installed) or request the use of one of METRO's. Data
-      sets for use during class will be distributed beforehand.Laptops and data sets
-      will be provided.\nThis workshop will meet from 10 a.m. until 4:00 p.m. and
-      will include an hour-long break for lunch.\nAbout our instructor: \nNisa Bakkalbasi
-      is the Assessment Coordinator at Columbia University Libraries. Prior to joining
-      Columbia University, Nisa was the Director of Planning and Assessment at James
-      Madison University, and held a series of positions at Yale University Libraries.
-      She has also taught courses at the Information and Library Science Department
-      at the Southern Connecticut State University. Nisa is a past member of the ARL
-      Library Assessment Conference Planning Committee, a past Chair of the Special
-      Library Association’s Physics-Astronomy-Mathematics (PAM) Division, and a past
-      member of the Project COUNTER Executive Committee.  She holds an M.S. in Library
-      and Information Science from Long Island University, and an M.S. in Applied
-      Statistics and a B.A. in Mathematics from University of Alabama."
-    html: |-
-      <P>This one-day workshop will provide an overview of basic elements of survey design, and demonstrate survey data analysis, using Excel.</P>
-      <P>The first part of the workshop is dedicated to survey design with a focus on developing survey questions based on best practices in survey research. We will review elements of survey process and introduce different types of survey questions, followed by a class activity to evaluate sample survey items. The morning session will end with an activity where participants will apply what they learned by writing survey questions.</P>
-      <P>The second part of the workshop will cover analysis of user feedback surveys using Microsoft Excel. Participants will learn how to perform descriptive statistics (mean, mode, ranges, standard deviation) and frequency analysis of survey data. We will review relationships between categorical variables in survey data and learn cross tabulation using Pivot Table. Best practices for analyzing qualitative data from open-ended questions will be discussed. The workshop will end with an activity where participants will apply what they learned by analyzing survey data using an actual survey data set provided by the instructor.</P>
-      <P><EM>By the end of the workshop, participants will:</EM></P>
-      <UL>
-      <LI>Understand the elements of survey process</LI>
-      <LI>Write effective survey items, using different types of survey questions</LI>
-      <LI>Understand measurement error in survey questions, including variance and bias</LI>
-      <LI>Evaluate survey content</LI>
-      <LI>Apply Excel functions to calculate descriptive statistics</LI>
-      <LI>Create cross tabulation using Pivot Tables</LI>
-      <LI>Understand how data is evaluated and interpreted into meaningful and significant conclusions that can be used</LI>
-      </UL>
-      <P><EM>Who should attend: </EM></P>
-      <P>This workshop is designed to be a beginner level course for those who are interested in participating assessment activities in libraries and information centers. No prior knowledge of survey research is required.</P>
-      <P><EM>Prerequisite knowledge/experience:</EM></P>
-      <P>Basic knowledge of Excel is required. Sample datasets and training laptops will be provided during this session.</P>
-      <P><EM>Helpful info:</EM></P>
-      <P>Participants are welcome to either bring their own laptops (with MS Excel installed) or request the use of one of METRO's. Data sets for use during class will be distributed beforehand.Laptops and data sets will be provided.</P>
-      <P>This workshop will meet from 10 a.m. until 4:00 p.m. and will include an hour-long break for lunch.</P>
-      <P><EM>About our instructor: </EM></P>
-      <P><SPAN>Nisa Bakkalbasi is the Assessment Coordinator at Columbia University Libraries. Prior to joining Columbia University, Nisa was the Director of Planning and Assessment at James Madison University, and held a series of positions at Yale University Libraries. She has also taught courses at the Information and Library Science Department at the Southern Connecticut State University. Nisa is a past member of the ARL Library Assessment Conference Planning Committee, a past Chair of the Special Library Association’s Physics-Astronomy-Mathematics (PAM) Division, and a past member of the Project COUNTER Executive Committee.  She holds an M.S. in Library and Information Science from Long Island University, and an M.S. in Applied Statistics and a B.A. in Mathematics from University of Alabama.</SPAN></P>
-  id: '25649298743'
-  url: http://www.eventbrite.com/e/survey-design-and-analysis-building-surveys-for-optimal-feedback-tickets-25649298743?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-08-04T10:00:00'
-    utc: '2016-08-04T14:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-08-04T16:00:00'
-    utc: '2016-08-04T20:00:00Z'
-  created: '2016-05-23T15:52:35Z'
-  changed: '2016-06-30T19:06:07Z'
-  capacity: 60
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '21318743'
-  organizer_id: '8929654067'
-  venue_id: '12278285'
-  category_id: 
-  subcategory_id: 
-  format_id: '9'
-  resource_uri: https://www.eventbriteapi.com/v3/events/25649298743/
-  logo:
-    id: '21318743'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21318743%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1971%2C8048%2C4024&s=8d8fb1728c101618d3decfad3bedb1d0
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: Integrating Digital Forensics into Born-Digital Preservation Workflows with
-      BitCurator
-    html: Integrating Digital Forensics into Born-Digital Preservation Workflows with
-      BitCurator
-  description:
-    text: |-
-      Over the last several years, archivists working with born-digital collections have begun integrating digital forensics tools and methodologies into their digital curation practices. As Cal Lee—a researcher at UNC Chapel Hill’s School of Information and Library Science—has noted, “The incorporation of digital forensics tool sand methods into archival workflows has changed the landscape dramatically. Digital forensics can help to advance a variety of digital curation goals and activities, including: creating authentic copies of data on disks; establishing a trustworthy chain of custody; capturing file-level metadata; and identifying personally identifiable information.” However, the promise of digital forensics in a collecting environment means that librarians and archivists need additional skills in order to fully employ these powerful new tools.
-      This workshop is designed to help collecting professionals bridge the technical gap between the world of libraries, archives and museums and that of digital forensics. The workshop begins by first building a foundational understanding of digital media and born-digital content. From there we explore the scope and capabilities of digital forensics tools in an archival context and how to incorporate them into preservation and curatorial practices. We will use the open source digital forensics tools integrated into the BitCurator Environment to apply these concepts in a real-world collecting institution setting. Specifically, attendees will learn how to create forensic images (bit-for-bit copies of data from external media), scan a disk image for sensitive information, generate digital forensics metadata at the disk and file level, and analyze the contents of a disk image using the BitCurator reports. In addition to software tools, we will discuss digital forensics hardware such as write-blockers and the hardware tools available for accessing data on legacy media.
-      Learning Objectives:
-
-      Understand foundational digital forensics concepts
-      Be able to create forensics disk images
-      Know how to install and run the BitCurator Environment
-      Generate digital forensics metadata and the BitCurator reports
-      Scan digital content for personally identifiable information
-      Know the hardware necessary to access the full range of legacy carrier media
-      Be able to integrate digital forensics tools and methods in digital curation workflows
-
-      Who should attend?
-      Librarians, archivists and those working at collecting institutions who are, or will be, tasked with processing hybrid or born-digital collections. Also iSchool students or anyone interested in understanding the potential role of digital forensics in a collecting institution.
-      Fees for this workshop are $75 for METRO and myMETRO members and $150. Laptops with all necessary software will be provided.
-      Instructor Bio:
-      Porter Olsen is a Ph.D. candidate in the English Department at the University of Maryland studying world literature and digital cultures. While at Maryland, Porter has worked at the Maryland Institute for Technology in the Humanities (MITH), primarily on the BitCurator Project. From October 2013 to September 2014 Porter worked full-time as the BitCurator community lead, helping to build the BitCurator user base through outreach and engagement activities across the United States and Europe. He continues to conducted trainings and workshops on BitCurator and the application of digital forensic to digital preservation. He also serves as a member of the BitCurator Consortium’s executive council. He currently teaches in the Design, Cultures & Creativity Honors Program at the University of Maryland.  
-      In his dissertation research Porter studies the intersections of world literature and digital cultures, with an emphasis on Postcolonial Digital Humanities. He has presented his research at a number of national and international conferences, including the annual MLA, Digital Humanities, and Electronic Literature conferences. He is author of the “Postcolonial Digital Humanities” article in the recently published Encyclopedia of Postcolonial Studies.
-      Before graduate school, Porter worked as product manager for a Linux distribution developer and was a contributing member of the United Linux initiative. 
-    html: |-
-      <P>Over the last several years, archivists working with born-digital collections have begun integrating digital forensics tools and methodologies into their digital curation practices. As Cal Lee—a researcher at UNC Chapel Hill’s School of Information and Library Science—has noted, “The incorporation of digital forensics tool sand methods into archival workflows has changed the landscape dramatically. Digital forensics can help to advance a variety of digital curation goals and activities, including: creating authentic copies of data on disks; establishing a trustworthy chain of custody; capturing file-level metadata; and identifying personally identifiable information.” However, the promise of digital forensics in a collecting environment means that librarians and archivists need additional skills in order to fully employ these powerful new tools.</P>
-      <P>This workshop is designed to help collecting professionals bridge the technical gap between the world of libraries, archives and museums and that of digital forensics. The workshop begins by first building a foundational understanding of digital media and born-digital content. From there we explore the scope and capabilities of digital forensics tools in an archival context and how to incorporate them into preservation and curatorial practices. We will use the open source digital forensics tools integrated into the BitCurator Environment to apply these concepts in a real-world collecting institution setting. Specifically, attendees will learn how to create forensic images (bit-for-bit copies of data from external media), scan a disk image for sensitive information, generate digital forensics metadata at the disk and file level, and analyze the contents of a disk image using the BitCurator reports. In addition to software tools, we will discuss digital forensics hardware such as write-blockers and the hardware tools available for accessing data on legacy media.</P>
-      <P><STRONG>Learning Objectives:</STRONG><BR CLASS="kix-line-break"></P>
-      <UL>
-      <LI>Understand foundational digital forensics concepts</LI>
-      <LI>Be able to create forensics disk images</LI>
-      <LI>Know how to install and run the BitCurator Environment</LI>
-      <LI>Generate digital forensics metadata and the BitCurator reports</LI>
-      <LI>Scan digital content for personally identifiable information</LI>
-      <LI>Know the hardware necessary to access the full range of legacy carrier media</LI>
-      <LI>Be able to integrate digital forensics tools and methods in digital curation workflows</LI>
-      </UL>
-      <P><STRONG>Who should attend?</STRONG></P>
-      <P>Librarians, archivists and those working at collecting institutions who are, or will be, tasked with processing hybrid or born-digital collections. Also iSchool students or anyone interested in understanding the potential role of digital forensics in a collecting institution.</P>
-      <P>Fees for this workshop are $75 for METRO and myMETRO members and $150. Laptops with all necessary software will be provided.</P>
-      <P><STRONG>Instructor Bio:</STRONG></P>
-      <P>Porter Olsen is a Ph.D. candidate in the English Department at the University of Maryland studying world literature and digital cultures. While at Maryland, Porter has worked at the Maryland Institute for Technology in the Humanities (MITH), primarily on the BitCurator Project. From October 2013 to September 2014 Porter worked full-time as the BitCurator community lead, helping to build the BitCurator user base through outreach and engagement activities across the United States and Europe. He continues to conducted trainings and workshops on BitCurator and the application of digital forensic to digital preservation. He also serves as a member of the BitCurator Consortium’s executive council. He currently teaches in the Design, Cultures &amp; Creativity Honors Program at the University of Maryland.  </P>
-      <P>In his dissertation research Porter studies the intersections of world literature and digital cultures, with an emphasis on Postcolonial Digital Humanities. He has presented his research at a number of national and international conferences, including the annual MLA, Digital Humanities, and Electronic Literature conferences. He is author of the “Postcolonial Digital Humanities” article in the recently published <EM>Encyclopedia of Postcolonial Studies</EM>.</P>
-      <P>Before graduate school, Porter worked as product manager for a Linux distribution developer and was a contributing member of the United Linux initiative. </P>
-  id: '26155311240'
-  url: http://www.eventbrite.com/e/integrating-digital-forensics-into-born-digital-preservation-workflows-with-bitcurator-tickets-26155311240?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-08-09T10:00:00'
-    utc: '2016-08-09T14:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-08-09T17:00:00'
-    utc: '2016-08-09T21:00:00Z'
-  created: '2016-06-20T17:55:26Z'
-  changed: '2016-06-30T19:05:54Z'
-  capacity: 48
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '21983567'
-  organizer_id: '8929654067'
-  venue_id: '12278285'
-  category_id: '199'
-  subcategory_id: 
-  format_id: '9'
-  resource_uri: https://www.eventbriteapi.com/v3/events/26155311240/
-  logo:
-    id: '21983567'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21983567%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1971%2C8048%2C4024&s=b464a664795d5e6eb2e990e0d2500cd8
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: Circulation and Reservers SIG Meeting
-    html: Circulation and Reservers SIG Meeting
-  description:
-    text: |-
-      Please join our Circulation and Reserves Special Interest Group on August 10, 2016 from 2:00 until 4:00 p.m. for a discussion focusing on Electronic Reserves:
-
-      copyright best practices and copyright education for librarians and reserve staff
-      new E-Reserves platforms
-      ebook use in your library
-      problems managing E-Reserves and hardcopy reserves separately (do you use Aleph to manage your hardcopy reserves?)
-      promoting E-Reserves in your library (is use growing/dwindling? is this service still relevant to your library?)
-
-      Other questions and topics (Reserve-related or otherwise) are also welcome! See you there.
-    html: |-
-      <P>Please join our Circulation and Reserves Special Interest Group on <SPAN CLASS="aBn"><SPAN CLASS="aQJ">August 10, 2016 from 2:00 until 4:00 p.m.</SPAN></SPAN> for a discussion focusing on Electronic Reserves:</P>
-      <UL>
-      <LI><SPAN>copyright best practices and copyright education for librarians and reserve staff</SPAN></LI>
-      <LI><SPAN>new E-Reserves platforms</SPAN></LI>
-      <LI><SPAN>ebook use in your library</SPAN></LI>
-      <LI><SPAN>problems managing E-Reserves and hardcopy reserves separately (do you use Aleph to manage your hardcopy reserves?)</SPAN></LI>
-      <LI><SPAN>promoting E-Reserves in your library (is use growing/dwindling? is this service still relevant to your library?)</SPAN></LI>
-      </UL>
-      <P>Other questions and topics (Reserve-related or otherwise) are also welcome! See you there.</P>
-  id: '26547284643'
-  url: http://www.eventbrite.com/e/circulation-and-reservers-sig-meeting-tickets-26547284643?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-08-10T14:00:00'
-    utc: '2016-08-10T18:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-08-10T16:00:00'
-    utc: '2016-08-10T20:00:00Z'
-  created: '2016-07-12T18:32:25Z'
-  changed: '2016-07-12T18:36:54Z'
-  capacity: 50
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  logo_id: '22482872'
-  organizer_id: '8929654067'
-  venue_id: '12227452'
-  category_id: '199'
-  subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/26547284643/
-  logo:
-    id: '22482872'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22482872%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3544%2C8048%2C4024&s=2cf7f708720436f207ad6427b8a31fb9
+    crop_mask: 
+    original: 
+    id: '24084032'
+    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24084032%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=cfa36896dae0f1f6c08b94d6567d5564
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
@@ -593,6 +150,7 @@ events:
       What are the different digital services, devices, and networks at libraries through which patron data passes?
 
       Participants will come away with improved familiarity with how data travels across the Internet and within library systems, as well as available resources for ongoing learning.
+      ***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by QL.***
     html: |-
       <P>As the Internet continues to grow, social media websites, search engines, and even our government have unprecedented access to our personal information. It's easy to enjoy the convenience of having the world's information at our fingertips, but there are trade-offs to consider.</P>
       <P>As providers of Internet access in neighborhoods, librarians are on the front lines of helping patrons navigate privacy online. Librarians can play a critical role in protecting the right to search for information without tracking or surveillance, and in helping library patrons be safe online.</P>
@@ -604,19 +162,21 @@ events:
       <LI>What are the different digital services, devices, and networks at libraries through which patron data passes?</LI>
       </UL>
       <P>Participants will come away with improved familiarity with how data travels across the Internet and within library systems, as well as available resources for ongoing learning.</P>
-  id: '25907249280'
-  url: http://www.eventbrite.com/e/digital-privacy-fundamental-concepts-tickets-25907249280?aff=ebapi
+      <P><SPAN>***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by QL.***</SPAN></P>
+  id: '27682919357'
+  url: http://www.eventbrite.com/e/digital-privacy-fundamental-concepts-tickets-27682919357?aff=ebapi
   start:
     timezone: America/New_York
-    local: '2016-08-15T10:00:00'
-    utc: '2016-08-15T14:00:00Z'
+    local: '2016-10-20T10:00:00'
+    utc: '2016-10-20T14:00:00Z'
   end:
     timezone: America/New_York
-    local: '2016-08-15T13:00:00'
-    utc: '2016-08-15T17:00:00Z'
-  created: '2016-06-06T16:21:00Z'
-  changed: '2016-06-06T16:24:14Z'
-  capacity: 28
+    local: '2016-10-20T13:00:00'
+    utc: '2016-10-20T17:00:00Z'
+  created: '2016-09-12T17:02:59Z'
+  changed: '2016-09-19T14:40:08Z'
+  capacity: 56
+  capacity_is_custom: false
   status: live
   currency: USD
   listed: true
@@ -631,16 +191,19 @@ events:
   is_series: false
   is_series_parent: false
   is_reserved_seating: false
-  logo_id: '21654071'
+  source: create_2.0
+  logo_id: '24083950'
   organizer_id: '8929654067'
-  venue_id: '12278285'
+  venue_id: '16619883'
   category_id: 
   subcategory_id: 
   format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/25907249280/
+  resource_uri: https://www.eventbriteapi.com/v3/events/27682919357/
   logo:
-    id: '21654071'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21654071%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=3bde664f5e807eded3c637f6b6d4aff3
+    crop_mask: 
+    original: 
+    id: '24083950'
+    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24083950%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=7ab5ac9bc6135109596a1aae0e615d70
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
@@ -652,23 +215,26 @@ events:
       Whether or not you've joined us for our Fundamental Concepts course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.
       Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.
       This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.
+      ***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by QL.***
     html: |-
-      <P>Whether or not you've joined us for our <A TITLE="http://metro.org/events/761/" TARGET="_blank" HREF="http://metro.org/events/761/" REL="nofollow">Fundamental Concepts</A> course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.</P>
+      <P>Whether or not you've joined us for our <A HREF="http://metro.org/events/784/" TARGET="_blank" TITLE="http://metro.org/events/761/" REL="noopener noreferrer nofollow">Fundamental Concepts</A> course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.</P>
       <P>Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.</P>
       <P>This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.</P>
-  id: '25908070737'
-  url: http://www.eventbrite.com/e/digital-privacy-hands-on-tactics-and-tools-tickets-25908070737?aff=ebapi
+      <P>***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by QL.***</P>
+  id: '27683014642'
+  url: http://www.eventbrite.com/e/digital-privacy-hands-on-tactics-and-tools-tickets-27683014642?aff=ebapi
   start:
     timezone: America/New_York
-    local: '2016-08-15T14:00:00'
-    utc: '2016-08-15T18:00:00Z'
+    local: '2016-10-20T14:00:00'
+    utc: '2016-10-20T18:00:00Z'
   end:
     timezone: America/New_York
-    local: '2016-08-15T17:00:00'
-    utc: '2016-08-15T21:00:00Z'
-  created: '2016-06-06T16:56:50Z'
-  changed: '2016-06-15T16:49:06Z'
-  capacity: 28
+    local: '2016-10-20T17:00:00'
+    utc: '2016-10-20T21:00:00Z'
+  created: '2016-09-12T17:06:56Z'
+  changed: '2016-09-19T14:39:07Z'
+  capacity: 56
+  capacity_is_custom: false
   status: live
   currency: USD
   listed: true
@@ -683,44 +249,47 @@ events:
   is_series: false
   is_series_parent: false
   is_reserved_seating: false
-  logo_id: '21655351'
+  source: create_2.0
+  logo_id: '24084139'
   organizer_id: '8929654067'
-  venue_id: 
+  venue_id: '16619883'
   category_id: 
   subcategory_id: 
   format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/25908070737/
+  resource_uri: https://www.eventbriteapi.com/v3/events/27683014642/
   logo:
-    id: '21655351'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21655351%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=2d56f43ab40391b2080d7851b78617c1
+    crop_mask: 
+    original: 
+    id: '24084139'
+    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24084139%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=ce21ec4a38975b35d6458a47c53d59df
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
 - name:
-    text: 'Digital Privacy: Hands-on Tactics and Tools'
-    html: 'Digital Privacy: Hands-on Tactics and Tools'
+    text: Economics and Business Librarians SIG Meeting
+    html: Economics and Business Librarians SIG Meeting
   description:
-    text: |-
-      Whether or not you've joined us for our Fundamental Concepts course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.
-      Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.
-      This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.
+    text: |
+      The next meeting of the Economics and Business Librarians Special Interest Group will feature presentations on freely accessible industry resources.
+      Co-conveners John Balow (New York Public Library . Science Industry and Business Library) and Lucy Heckman (St. John's University Library. Queens Campus) will give presentations on the wealth of digital resources on industries.  Those who attend are invited to discuss their "favorite" industry resources. 
     html: |-
-      <P>Whether or not you've joined us for our <A TITLE="http://metro.org/events/761/" TARGET="_blank" HREF="http://metro.org/events/761/" REL="nofollow">Fundamental Concepts</A> course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.</P>
-      <P>Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.</P>
-      <P>This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.</P>
-  id: '25908126905'
-  url: http://www.eventbrite.com/e/digital-privacy-hands-on-tactics-and-tools-tickets-25908126905?aff=ebapi
+      <P>The next meeting of the Economics and Business Librarians Special Interest Group will feature presentations on freely accessible industry resources.</P>
+      <P>Co-conveners John Balow (New York Public Library . Science Industry and Business Library) and Lucy Heckman (St. John's University Library. Queens Campus) will give presentations on the wealth of digital resources on industries.  Those who attend are invited to discuss their "favorite" industry resources. </P>
+      <P><BR></P>
+  id: '27779173255'
+  url: http://www.eventbrite.com/e/economics-and-business-librarians-sig-meeting-tickets-27779173255?aff=ebapi
   start:
     timezone: America/New_York
-    local: '2016-08-16T10:00:00'
-    utc: '2016-08-16T14:00:00Z'
+    local: '2016-10-27T10:00:00'
+    utc: '2016-10-27T14:00:00Z'
   end:
     timezone: America/New_York
-    local: '2016-08-16T13:00:00'
-    utc: '2016-08-16T17:00:00Z'
-  created: '2016-06-06T16:58:56Z'
-  changed: '2016-06-15T16:31:51Z'
-  capacity: 28
+    local: '2016-10-27T12:00:00'
+    utc: '2016-10-27T16:00:00Z'
+  created: '2016-09-16T17:33:39Z'
+  changed: '2016-09-19T18:31:59Z'
+  capacity: 50
+  capacity_is_custom: false
   status: live
   currency: USD
   listed: true
@@ -735,82 +304,67 @@ events:
   is_series: false
   is_series_parent: false
   is_reserved_seating: false
-  logo_id: '21655424'
+  source: create_2.0
+  logo_id: '24240984'
   organizer_id: '8929654067'
-  venue_id: 
-  category_id: 
+  venue_id: '16682550'
+  category_id: '199'
   subcategory_id: 
   format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/25908126905/
+  resource_uri: https://www.eventbriteapi.com/v3/events/27779173255/
   logo:
-    id: '21655424'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21655424%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=e0eb0dc5f5ab9f6c953505b542fae026
+    crop_mask: 
+    original: 
+    id: '24240984'
+    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24240984%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3544%2C8048%2C4024&s=d58cc8568029000a117a03c937b382fd
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
 - name:
-    text: 'Zotero: Citation Management for the Masses'
-    html: 'Zotero: Citation Management for the Masses'
+    text: 'STM SIG Meeting: Management Trends in STEM Libraries'
+    html: 'STM SIG Meeting: Management Trends in STEM Libraries'
   description:
-    text: |-
-      Zotero is a free, open source citation management tool that organizes research resources, facilitates in-text citation, fosters collaboration with other scholars, and quickly generates bibliographies. Zotero is not tied to any institution and is available to all at no cost.
-      Attend this session to learn how to set up and work with Zotero so that you can share its benefits with colleagues/students and incorporate it into your instruction sessions. The first part of this hands-on workshop will cover basic and advanced features of Zotero. The second half of the workshop will be dedicated to strategies and examples of how to use Zotero to teach information literacy skills and as an organizational tool for individual and collaborative research projects.  
-      Prerequisite knowledge/experience:
-      No prior experience necessary. This workshop is open to librarians from public, academic, and special libraries who are interested in learning about Zotero and how to effectively use Zotero for bibliographic instruction and collaborative and personal research.
-      By the end of this program, participants will know how to:
+    text: |
+      Please join METRO's STM SIG for a meeting in the library conference room at John Jay College of Criminal Justice at 524 W 59th Street in Manhattan. The featured speakers will be:
 
-      get your research resources into Zotero
-      organize your Zotero library according to your specific needs
-      cite your resources within Microsoft Word, Google Docs, and/or Open Office
-      generate bibliographies
-      customize your Zotero preferences
-      take snapshots of web pages and add notes
-      sync your resources between multiple computers and to the cloud (Zotero’s servers)
-      create and setup a group library in Zotero
-      integrate Zotero into information literacy and other instruction
-      advocate for Zotero at your institution
+      Linda Beninghove, Director of the Samuel C. Williams Library of Stevens Institute of Technology
 
-      Fees: 
-      Fees for this tools workshop are $20 for METRO, myMETRO, and ESLN members. They are $40 for non-members.
-      About our instructors:
-      Kimberly Detterbeck is the Art Librarian at Purchase College, SUNY. In her work, she oversees collection development, reference, and library instruction for art history, art + design, new media, and arts management as well as participates in Library-wide projects such as digitization, assessment, outreach and communications, and e-learning across multiple disciplines. Kim is an active member of the Metropolitan New York Library Council (METRO) as a member of the Social Media, Bibliographic Instruction, and CollectiveAccess special interest groups and a member of the myMETRO Researchers Pilot Project. She is also active in the Art Libraries Society of North America (ARLIS/NA) as former chair of the Membership Committee and secretary of the New York Chapter. Kim has been published in Art Documentation and The Global Librarian and regularly presents at local and national conferences including SUNY’s Conference on Instruction and Technology (CIT), SUNY Librarians Association annual conferences, METRO’s annual conferences, ARLIS/NA, and ACRL. She received an MLS from the University of Maryland, an MA in Art History from Syracuse University, and a BA in Art History from Rutgers University.
-      Marie Sciangula is the Assistant Director of the Teaching, Learning, and Technology Center (TLTC) at Purchase College, SUNY. In this capacity she manages and administers Moodle, the campus’ chosen learning management system, and promotes innovative uses of academic technologies and pedagogical approaches across campus. She offers a variety of workshops for faculty and staff geared towards effectively integrating technology into teaching and learning and encourages the use of open source applications. Marie is an active member of the Metropolitan New York Library Council (METRO) as a member of the Social Media, Bibliographic Instruction, and CollectiveAccess special interest groups and a member of the myMETRO Researchers Pilot Project. She regularly presents at local and national conferences including SUNY’s Conference on Instruction and Technology (CIT), SUNY Librarians Association conference, and METRO’s annual conferences. She has also presented at ARLIS/NA. Marie has been published in Art Documentation and The Global Librarian. She received a bachelor's degree in Women’s Studies from Purchase College, SUNY and her MLIS from Long Island University’s Palmer School of Library and Information Science.
+
+      Judy Cohn, Assistant Vice President for Information Services and Director of Health Sciences Libraries, Rutgers University (formerly known as the University of Medicine and Dentistry of New Jersey)
+
+      Both speakers will discuss their perspective of science or medical libraries as they are today and predict future trends. These presentations will be followed by a roundtable discussion.
+      Please note that this meeting will be held at John Jay College of Criminal Justice at 524 W 59th Street in Manhattan. The library conference room is on the upper level of the Loyd Sealy Library.
+      The easiest way to get there is to enter the Haaren Hall building of John Jay College at the Tenth Avenue entrance (opposite the hospital, between 58th and 59th street). Take the escalator or stairs down one floor, turn around to enter the library. Turn left inside the library, walk to the stairs at the end of the lounge, and go up one floor; ask for further directions at the reference desk at the top of the internal staircase.
+      (People choosing to take the elevator at the Tenth Avenue building entrance will exit on the correct library floor, and should go through the stacks to the reference desk in the center of the library for further directions.)
+      Please bring your photo ID for security purposes.
     html: |-
-      <P>Zotero is a free, open source citation management tool that organizes research resources, facilitates in-text citation, fosters collaboration with other scholars, and quickly generates bibliographies. Zotero is not tied to any institution and is available to all at no cost.</P>
-      <P>Attend this session to learn how to set up and work with Zotero so that you can share its benefits with colleagues/students and incorporate it into your instruction sessions. The first part of this hands-on workshop will cover basic and advanced features of Zotero. The second half of the workshop will be dedicated to strategies and examples of how to use Zotero to teach information literacy skills and as an organizational tool for individual and collaborative research projects.  </P>
-      <P><STRONG>Prerequisite knowledge/experience:</STRONG></P>
-      <P>No prior experience necessary. This workshop is open to librarians from public, academic, and special libraries who are interested in learning about Zotero and how to effectively use Zotero for bibliographic instruction and collaborative and personal research.</P>
-      <P><STRONG>By the end of this program, participants will know how to:</STRONG></P>
+      <P>Please join METRO's STM SIG for a meeting in the library conference room at John Jay College of Criminal Justice at 524 W 59th Street in Manhattan. The featured speakers will be:</P>
       <UL>
-      <LI>get your research resources into Zotero</LI>
-      <LI>organize your Zotero library according to your specific needs</LI>
-      <LI>cite your resources within Microsoft Word, Google Docs, and/or Open Office</LI>
-      <LI>generate bibliographies</LI>
-      <LI>customize your Zotero preferences</LI>
-      <LI>take snapshots of web pages and add notes</LI>
-      <LI>sync your resources between multiple computers and to the cloud (Zotero’s servers)</LI>
-      <LI>create and setup a group library in Zotero</LI>
-      <LI>integrate Zotero into information literacy and other instruction</LI>
-      <LI>advocate for Zotero at your institution</LI>
+      <LI>Linda Beninghove, Director of the Samuel C. Williams Library of Stevens Institute of Technology</LI>
       </UL>
-      <P><STRONG>Fees: </STRONG></P>
-      <P>Fees for this tools workshop are $20 for METRO, myMETRO, and ESLN members. They are $40 for non-members.</P>
-      <P><STRONG>About our instructors:</STRONG></P>
-      <P><STRONG>Kimberly Detterbeck</STRONG> is the Art Librarian at Purchase College, SUNY. In her work, she oversees collection development, reference, and library instruction for art history, art + design, new media, and arts management as well as participates in Library-wide projects such as digitization, assessment, outreach and communications, and e-learning across multiple disciplines. Kim is an active member of the Metropolitan New York Library Council (METRO) as a member of the Social Media, Bibliographic Instruction, and CollectiveAccess special interest groups and a member of the myMETRO Researchers Pilot Project. She is also active in the Art Libraries Society of North America (ARLIS/NA) as former chair of the Membership Committee and secretary of the New York Chapter. Kim has been published in Art Documentation and The Global Librarian and regularly presents at local and national conferences including SUNY’s Conference on Instruction and Technology (CIT), SUNY Librarians Association annual conferences, METRO’s annual conferences, ARLIS/NA, and ACRL. She received an MLS from the University of Maryland, an MA in Art History from Syracuse University, and a BA in Art History from Rutgers University.</P>
-      <P><STRONG>Marie Sciangula</STRONG> is the Assistant Director of the Teaching, Learning, and Technology Center (TLTC) at Purchase College, SUNY. In this capacity she manages and administers Moodle, the campus’ chosen learning management system, and promotes innovative uses of academic technologies and pedagogical approaches across campus. She offers a variety of workshops for faculty and staff geared towards effectively integrating technology into teaching and learning and encourages the use of open source applications. Marie is an active member of the Metropolitan New York Library Council (METRO) as a member of the Social Media, Bibliographic Instruction, and CollectiveAccess special interest groups and a member of the myMETRO Researchers Pilot Project. She regularly presents at local and national conferences including SUNY’s Conference on Instruction and Technology (CIT), SUNY Librarians Association conference, and METRO’s annual conferences. She has also presented at ARLIS/NA. Marie has been published in Art Documentation and The Global Librarian. She received a bachelor's degree in Women’s Studies from Purchase College, SUNY and her MLIS from Long Island University’s Palmer School of Library and Information Science.</P>
-  id: '26306388115'
-  url: http://www.eventbrite.com/e/zotero-citation-management-for-the-masses-tickets-26306388115?aff=ebapi
+      <UL>
+      <LI>Judy Cohn, Assistant Vice President for Information Services and Director of Health Sciences Libraries, Rutgers University (formerly known as the University of Medicine and Dentistry of New Jersey)</LI>
+      </UL>
+      <P>Both speakers will discuss their perspective of science or medical libraries as they are today and predict future trends. These presentations will be followed by a roundtable discussion.</P>
+      <P>Please note that this meeting will be held at John Jay College of Criminal Justice at 524 W 59th Street in Manhattan. The library conference room is on the upper level of the Loyd Sealy Library.</P>
+      <P>The easiest way to get there is to enter the Haaren Hall building of John Jay College at the Tenth Avenue entrance (opposite the hospital, between 58th and 59th street). Take the escalator or stairs down one floor, turn around to enter the library. Turn left inside the library, walk to the stairs at the end of the lounge, and go up one floor; ask for further directions at the reference desk at the top of the internal staircase.</P>
+      <P>(People choosing to take the elevator at the Tenth Avenue building entrance will exit on the correct library floor, and should go through the stacks to the reference desk in the center of the library for further directions.)</P>
+      <P>Please bring your photo ID for security purposes.</P>
+      <P><BR></P>
+  id: '28003401929'
+  url: http://www.eventbrite.com/e/stm-sig-meeting-management-trends-in-stem-libraries-tickets-28003401929?aff=ebapi
   start:
     timezone: America/New_York
-    local: '2016-08-17T16:00:00'
-    utc: '2016-08-17T20:00:00Z'
+    local: '2016-11-04T10:00:00'
+    utc: '2016-11-04T14:00:00Z'
   end:
     timezone: America/New_York
-    local: '2016-08-17T18:00:00'
-    utc: '2016-08-17T22:00:00Z'
-  created: '2016-06-28T16:10:20Z'
-  changed: '2016-07-13T22:20:08Z'
-  capacity: 60
+    local: '2016-11-04T12:00:00'
+    utc: '2016-11-04T16:00:00Z'
+  created: '2016-09-22T17:38:02Z'
+  changed: '2016-09-22T17:45:53Z'
+  capacity: 50
+  capacity_is_custom: false
   status: live
   currency: USD
   listed: true
@@ -825,16 +379,19 @@ events:
   is_series: false
   is_series_parent: false
   is_reserved_seating: false
-  logo_id: '22165033'
+  source: create_2.0
+  logo_id: '24413272'
   organizer_id: '8929654067'
-  venue_id: '12278285'
-  category_id: 
+  venue_id: '16755095'
+  category_id: '199'
   subcategory_id: 
-  format_id: '9'
-  resource_uri: https://www.eventbriteapi.com/v3/events/26306388115/
+  format_id: '10'
+  resource_uri: https://www.eventbriteapi.com/v3/events/28003401929/
   logo:
-    id: '22165033'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22165033%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1971%2C8048%2C4024&s=4c9e5e075017b8477de5313737bc26b9
+    crop_mask: 
+    original: 
+    id: '24413272'
+    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24413272%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3544%2C8048%2C4024&s=688a4fd558f5ea1059c024574c61139d
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
