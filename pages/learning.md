@@ -5,7 +5,7 @@ permalink: /learning/
 
 ## Events ##
 
-METRO hosts a wide range of events that give our
+METRO hosts a diverse range of events that give our
 members a platform to explore and discuss relevant and meaningful
 topics, technologies, and trends. More information on our upcoming
 event schedule is available
