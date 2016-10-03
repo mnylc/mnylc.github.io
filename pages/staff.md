@@ -53,12 +53,16 @@ Anne manages the suite of digital services at METRO, including METRO's Digitizat
 
 Before joining METRO in 2012, she worked for six years at the University of Michigan Library, where she managed a project to build a copyright review management system for works in the HathiTrust Digital Library. During her first 3 years at Michigan, she served as project coordinator for the UM/Google Books partnership to digitize the Library’s collections. She also worked for two years as a Metadata & Cataloging Librarian at Michigan State University Libraries. She graduated in 2003 from the University of Michigan School of Information with a specialization in Library Services. Before becoming a librarian she worked in the music industry, licensing music as well as other copyrighted works for use in advertising, film, television and other media.
 
+## Susan Klimley
+**Hospital Library Services Manager**
+As HLSP Manager, Susan supports METRO in developing, enhancing, and improving the delivery of health-care information between member libraries and healthcare professionals in the region. Susan has significant experience working in health sciences libraries, including work as Director of Health Science Library at Elmhurst Hospital in Queens, and more recently managing electronic resources at the Health Sciences Library of Columbia University. Susan’s work in hospital and health sciences libraries informs her desire to support librarians that strive to meet the information demands of health professionals. Susan holds an MLS from Simmons College.
+
 ## John Mignault
 **Technology Specialist, Empire State Digital Network**
 
-John is the Technology Specialist for the Empire State Digital Network (ESDN), a statewide service hub for the Digital Public Library of America (DPLA). 
+John is the Technology Specialist for the Empire State Digital Network (ESDN), a statewide service hub for the Digital Public Library of America (DPLA).
 
-John has worked with digitization programs and library systems since 2006. Most recently, he was the Systems Librarian for the New York Botanical Garden's LuEsther T. Mertz Library, where he oversaw and managed the Library's digitization program and acted as the IT liaison for the Library. He has also been involved in the Biodiversity Heritage Library from its early days, serving on BHL's Technical Advisory Group and representing BHL at hackathons and conferences. 
+John has worked with digitization programs and library systems since 2006. Most recently, he was the Systems Librarian for the New York Botanical Garden's LuEsther T. Mertz Library, where he oversaw and managed the Library's digitization program and acted as the IT liaison for the Library. He has also been involved in the Biodiversity Heritage Library from its early days, serving on BHL's Technical Advisory Group and representing BHL at hackathons and conferences.
 
 John worked in corporate development for a number of years for such companies as Oxygen Media, The New York Times, and MLB.com. John received his MLS from Simmons College in 1994, and a B.A. in Comparative Literature from Brown University in 1980.
 
@@ -103,6 +107,6 @@ Prior to joining METRO in 2014, Chris worked for four years as a Collection Desc
 ## Kerri Willette
 **Deputy Director**
 
-Kerri partners closely with everyone on staff to grow and enhance METRO's organizational infrastructure. In addition to her administrative role at METRO, Kerri coordinates activities of the Empire State Digital Network (ESDN), a statewide service hub for the Digital Public Library of America (DPLA). 
+Kerri partners closely with everyone on staff to grow and enhance METRO's organizational infrastructure. In addition to her administrative role at METRO, Kerri coordinates activities of the Empire State Digital Network (ESDN), a statewide service hub for the Digital Public Library of America (DPLA).
 
 Kerri has worked with digital collections and content in academic, museum, and consortial settings since 2001. Her career has included project planning, metadata creation, and digital project work at various institutions in the midwest including DePaul University Libraries, The School of the Art Institute of Chicago, Columbia College Chicago Library, and the University of Wisconsin-Parkside. Kerri received her MLS from the University of Illinois Graduate School of Library and Information Science LEEP program in 2005.
