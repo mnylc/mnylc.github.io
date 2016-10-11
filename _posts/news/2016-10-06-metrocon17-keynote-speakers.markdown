@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Metrocon17 Keynote Speakers"
+date:   2016-10-11
+
+---
 We're excited to announce the two keynote speakers we will hear from at METRO's 2017 Annual Conference.
 
 **Jeff Goldenson** is the Library Director at Olin College of Engineering and a creative placemaker. He's been a design researcher in variety of contexts: from the MIT Media Laboratory to EdLab at Columbia University to the Harvard Library Innovation Laboratory. He takes an experimental approach as Library Director while maintaining a deep respect for the founding mission of libraries. The Olin Library is an interdisciplinary hub for research, creativity, mixed-media events, and storytelling.
