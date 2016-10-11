@@ -3,7 +3,7 @@ title: Learning
 permalink: /learning/
 ---
 
-## Events ## 
+## Events ##
 
 METRO hosts a diverse range of events that give our
 members a platform to explore and discuss relevant and meaningful
@@ -22,4 +22,3 @@ Request access to lynda.com [here.](https://docs.google.com/forms/d/1fyRHmXruBAG
 The library community encompasses a vast spectrum of interests, specializations, and disciplines. To support the interests of our members, METRO hosts an array of Special Interest Groups (SIGs). SIGs are open to staff from METRO member libraries, myMETRO members, and other interested individuals. SIG meetings are open to the public, and members interested in any particular SIG are welcome to join the SIG's discussion list.
 
 Our 19 SIGs cover a variety of topics. Read more about each group [here.]( {{ '/projects/sigs/' | prepend: site.baseurl }} )
-
