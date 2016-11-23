@@ -18,14 +18,14 @@
         <div class="intro-text">
           <div class="intro-heading">Metro</div>
           <div class="intro-lead-in">Where New York's libraries and archives come together to learn, share ideas, and collaborate.</div>
-          <a href="#projects" class="page-scroll btn btn-xl">Tell Me More</a>
+          <a href="#carousel" class="page-scroll btn btn-xl">Tell Me More</a>
         </div>
       </div>
     </header>
     
-    <section>
+    <section id="carousel">
       <div class="container">
-        <div class="row carousel">
+        <div id="carousel" class="row carousel">
 	  {% for circle in site.data.circles %}
 	  <div class="col-md-4 slick-slide">
 	    <a href="{{ circle.url | prepend: site.baseurl }}">
@@ -85,6 +85,7 @@
       $(".carousel").slick({
       dots: true,
       speed: 500,
+      accessibility: true
       });
     </script>
   </body>
