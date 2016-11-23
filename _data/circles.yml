@@ -1,12 +1,12 @@
+- title: Learning
+  url: '/learning/'
+  icon: 'book'
+  description: 'Learn things. Fun!'
 - title: Location
-  url: '/services/digitization-grants/'
+  url: '/location/'
   icon: 'map-marker'
-  description: ''
-- title: Join
-  url: '/services/delivery-service/'
-  icon: 'group'
-  description: ''
+  description: 'We''re not here anymore!'
 - title: Events
-  url: '/services/referral-cards'
+  url: '/events/'
   icon: 'calendar'
-  description: ''
+  description: 'We have no place to hold any events right now!'

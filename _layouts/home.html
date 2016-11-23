@@ -21,7 +21,7 @@
       <div class="container">
         <div class="row carousel">
 	  {% for circle in site.data.circles %}
-	  <div class="slick-slide">
+	  <div class="col-md-4 slick-slide">
 	    <a href="{{ circle.url | prepend: site.baseurl }}">
               <div class="text-center">
                 <span class="fa-stack fa-4x">
@@ -30,7 +30,7 @@
                 </span>
               </div>
               <h4 class="circle-heading text-center">{{ circle.title }}</h4>
-              <p class="text-muted">Lorem ipsum dolor sit amet</p>
+              <p class="text-muted text-center">{{ circle.description }}</p>
 	    </a>
 	  </div>
 	  {% endfor %}
