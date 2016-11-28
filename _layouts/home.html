@@ -28,7 +28,11 @@
         <div id="carousel" class="row carousel">
 	  {% for circle in site.data.circles %}
 	  <div class="col-md-4 slick-slide">
+            {% if circle.url[0] == '/' %}
 	    <a href="{{ circle.url | prepend: site.baseurl }}">
+              {% else %}
+              <a href="{{ circle.url }}">
+                {% endif %}
               <div class="text-center">
                 <span class="fa-stack fa-4x">
                   <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -37,6 +41,7 @@
               </div>
               <h2 class="circle-heading text-center">{{ circle.title }}</h2>
               <p class="text-muted text-center">{{ circle.description }}</p>
+              <p class="text-muted text-center">{{ circle.blurb }}</p>
 	    </a>
 	  </div>
 	  {% endfor %}
