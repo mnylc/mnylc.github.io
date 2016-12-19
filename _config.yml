@@ -18,9 +18,17 @@ social:
 - title: twitter
   url: http://twitter.com/mnylc
 - title: facebook
-  url:
+  url: https://www.facebook.com/METROlibrarycouncil/
 - title: github
   url: http://github.com/mnylc
+- title: tumblr
+  url: http://metrolibrarycouncil.tumblr.com/
+- title: vimeo
+  url: http://vimeo.com/metronylc/videos
+- title: linkedin
+  url: http://www.linkedin.com/groups/METRO-librarians-archivists-information-professionals-1131967/about
+- title: flickr
+  url: http://www.flickr.com/photos/metronyc
 
 # Content settings
 defaults:
