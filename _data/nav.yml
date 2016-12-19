@@ -4,8 +4,6 @@
   url: '/location'
 - title: 'Events'
   url: '/events'
-- title: 'Learning'
-  url: '/learning'
 - title: 'Jobs'
   url: '/jobs'
 - title: 'News'
