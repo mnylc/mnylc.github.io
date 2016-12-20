@@ -17,18 +17,13 @@ footer:
 social:
 - title: twitter
   url: http://twitter.com/mnylc
+  img: /assets/img/logos/Twitter_Logo_White_On_Blue.png
 - title: facebook
   url: https://www.facebook.com/METROlibrarycouncil/
-- title: github
-  url: http://github.com/mnylc
-- title: tumblr
-  url: http://metrolibrarycouncil.tumblr.com/
-- title: vimeo
-  url: http://vimeo.com/metronylc/videos
-- title: linkedin
-  url: http://www.linkedin.com/groups/METRO-librarians-archivists-information-professionals-1131967/about
-- title: flickr
-  url: http://www.flickr.com/photos/metronyc
+  img: /assets/img/logos/FB-f-Logo__blue_50.png
+- title: MailChimp
+  url: http://eepurl.com/b-Oik9
+  img: /assets/img/logos/mc_script_white.png
 
 # Content settings
 defaults:

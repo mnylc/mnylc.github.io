@@ -9,14 +9,14 @@
         <p>{{ line.line }}</p>
         {% endfor %}
           Phone: <a href="tel: {{ site.footer.phone }}">{{ site.footer.phone }}</a><br/>
-          Fax: <a href="fax: {{ site.footer.fax }}">{{ site.footer.fax }}</a>
-        <div style="padding-top: 15px;">
+        Fax: <a href="fax: {{ site.footer.fax }}">{{ site.footer.fax }}</a>
+        <p style="padding-top: 10px;">
           {% for srv in site.social %}
-          <a href="{{ srv.url }}"><i class="fa fa-{{srv.title}}"></i></a>
+          <a href="{{ srv.url }}"><img src="{{ srv.img | prepend: site.baseurl }}" height="25px"/></a>
           {% endfor %}
-        </div>
+          </p>
       </div>
-      <div class="col-md-7 col-xs-12">
+       <div class="col-md-7 col-xs-12">
         <ul class="footer-list">
           {% for page in site.data.footer %}
             <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
