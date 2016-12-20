@@ -13,16 +13,17 @@ Join over 250 libraries, archives, and museums in New York City and Westchester 
 
 * Digital Services
 * Grants
-* College and university libraries are eligible for Coordinated Collection Development Aid
-* Hospital libraries have access to Collection Development Grants, Technology Grants, and Medical Information Services Program grants
 * Resource Sharing
 * Vendor Discounts
 * Professional Development
+* Access to lynda.com
 * Special Interest Groups
 * Meeting Spaces
 * Fellowship Program
-* Job Bank
 * Discussion Lists
+* Coordinated Collection Development Aid for College and University Libraries
+* Collection Development Grants, Technology Grants, and Medical Information Services Program Grants for Hospital Library members
+
 
 ### Membership Fees
 
@@ -50,18 +51,14 @@ For purposes of membership in METRO, a library is defined as an entity that prov
 |  How to Apply?   |  Complete the online application and arrange a site visit by a METRO staff representative.               |                     |                     |   Submit a letter explaining your organization’s mission and provide recent annual report or similar document.  |
 
 
-[Join METRO](http://goo.gl/forms/4b8xV8yFPi)
-
 ## MyMetro Individual Membership
 
 Join more than 300 individual librarians, archivists, and information professionals as a myMETRO Member. Benefits include scholarships to conferences of your choosing, access to Lynda.com, our exclusive career services packages, and much more.
 
 ### Benefits of myMETRO Membership
 
-* Scholarships to conferences, summits, and other professional events
 * Special rates to all METRO workshops
-* Access to METRO’s archive of past webcasts
-* Free seats at premier online learning platform Lynda.com
+* Free seats at Lynda.com
 * Eligibility to participate in the annual myMETRO Researchers project
 * Access to library referral cards
 * Discounts on professional publications like Library Journal and Library Hotline
