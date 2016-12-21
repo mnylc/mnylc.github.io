@@ -9,7 +9,7 @@ In three steps, METRO helps member organizations bring forgotten historical arti
 
 ### Digitization: The Culture in Transit Project and Digitization Grants
 
-Culture in Transit, funded by the John S. and James L. Knight Foundation, takes shared digitization technologies and expertise to libraries, archives, and communities throughout the metropolitan New York area.  METRO has two mobile digitization kits. One is equipped with a flatbed scanner and a laptop loaded with image editing software; the other contains a digital camera and copy stand set-up. All of this packs up easily into two cases and a backpack. Our knowledgeable staff then helps members digitize and share the city’s rich cultural heritage online with the world. 
+Culture in Transit, funded by the John S. and James L. Knight Foundation, takes shared digitization technologies and expertise to libraries, archives, and communities throughout the metropolitan New York area.  METRO has two mobile digitization kits. One is equipped with a flatbed scanner and a laptop loaded with image editing software; the other contains a digital camera and copy stand set-up. All of this packs up easily into two cases and a backpack. Our knowledgeable staff then helps members digitize and share the city’s rich cultural heritage online with the world.
 
 In addition, METRO has funded nearly 100 digital collections over the past eight years. Digitization Grants provide funding to offset the technical and personnel costs associated with digitization projects. Approved uses for funds include hardware, software, outsourced services, consulting services, staffing, training, web design, project evaluation, and promotion.
 
@@ -27,7 +27,7 @@ METRO has developed and maintains unsurpassed services to facilitate resource sh
 
 ### Delivery Service
 
-METRO maintains a same-day delivery service among our member libraries. Delivery service ensures that our members can count on efficient access to items from collections throughout METRO's service area. 
+METRO maintains a same-day delivery service among our member libraries. Delivery service ensures that our members can count on efficient access to items from collections throughout METRO's service area.
 Read more about METRO's Delivery Service.
 
 ### Referral Cards
@@ -39,29 +39,29 @@ Read more about our referral cards.
 
 METRO offers member discounts on many useful services from library vendors.  For more details on how to take advantage of any of the great offers below, contacts us at info at metro dot org.
 
-|  Vendor                                      |  Discount                | 
-|  ------------------------------------------  |  ----------------------  | 
-|  Backstage Library Works                     |  5% discount             | 
-|  Boopsie for Libraries                       |  custom                  | 
-|  Bridgeman Education                         |  10% discount            | 
-|  Budget Library Supplies                     |  10% discount            | 
-|  Chip Taylor Communications                  |  up to 40% discount      | 
-|  DEMCO                                       |  up to 15% discount      | 
-|  The Donohue Group, Inc.                     |  5% discount             | 
-|  Drexel University Online                    |  20% discount            | 
-|  EBSCO Publishing                            |                          | 
-|  Foundation Directory Online                 |  10% discount            | 
-|  Gaylord                                     |  up to 20% discount      | 
-|  PacerMonitor                                |  25% discount and more   | 
-|  Plunkett Research Online                    |  up to 20% discount      | 
-|  Portico                                     |  5% discount             | 
-|  PrivCo                                      |  15% discount            | 
-|  Reprints Desk                               |  10% discount            | 
-|  Soutron Global                              |  30% discount            | 
-|  Text a Librarian                            |  waived setup fee        | 
-|  University Products: The Archival Company   |  10% discount            | 
-|  Venmill Industries                          |  up to 25% off           | 
-|  Vernon Library Supplies                     |  up to 20% off           | 
+|  Vendor                                      |  Discount                |
+|  ------------------------------------------  |  ----------------------  |
+|  Backstage Library Works                     |  5% discount             |
+|  Boopsie for Libraries                       |  custom                  |
+|  Bridgeman Education                         |  10% discount            |
+|  Budget Library Supplies                     |  10% discount            |
+|  Chip Taylor Communications                  |  up to 40% discount      |
+|  DEMCO                                       |  up to 15% discount      |
+|  The Donohue Group, Inc.                     |  5% discount             |
+|  Drexel University Online                    |  20% discount            |
+|  EBSCO Publishing                            |                          |
+|  Foundation Directory Online                 |  10% discount            |
+|  Gaylord                                     |  up to 20% discount      |
+|  PacerMonitor                                |  25% discount and more   |
+|  Plunkett Research Online                    |  up to 20% discount      |
+|  Portico                                     |  5% discount             |
+|  PrivCo                                      |  15% discount            |
+|  Reprints Desk                               |  10% discount            |
+|  Soutron Global                              |  30% discount            |
+|  Text a Librarian                            |  waived setup fee        |
+|  University Products: The Archival Company   |  10% discount            |
+|  Venmill Industries                          |  up to 25% off           |
+|  Vernon Library Supplies                     |  up to 20% off           |
 
 
 
@@ -72,5 +72,6 @@ Read more about Coordinated Collection Development Aid
 
 ## Hospital Library Services Program
 
-The METRO Hospital Library Services Program (HLSP) supports the work of more than 65 hospital and medical center libraries in New York City and Westchester County. We seek to develop, enhance, and improve the delivery of health care information between member libraries and health care professionals. We use outreach and targeted support to make sure that local hospital and medical center libraries apply for any grants for which they are eligible. 
-Read more about the Hospital Library Services Program
+The METRO Hospital Library Services Program (HLSP) supports the work of more than 65 hospital and medical center libraries in New York City and Westchester County. We seek to develop, enhance, and improve the delivery of health care information between member libraries and health care professionals. We use outreach and targeted support to make sure that local hospital and medical center libraries apply for any grants for which they are eligible.
+
+[Read more about the Hospital Library Services Program]({{'/services/hlsp/' | prepend: site.baseurl}})
