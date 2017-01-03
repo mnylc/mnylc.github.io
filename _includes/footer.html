@@ -6,7 +6,7 @@
       </div>
       <div class="col-md-3 col-sm-6">
         {% for line in site.footer.address %}
-        <p>{{ line.line }}</p>
+        {{ line.line }}<br/>
         {% endfor %}
           Phone: <a href="tel: {{ site.footer.phone }}">{{ site.footer.phone }}</a><br/>
         Fax: <a href="fax: {{ site.footer.fax }}">{{ site.footer.fax }}</a>
