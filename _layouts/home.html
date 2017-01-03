@@ -27,7 +27,7 @@
       <div class="container">
         <div id="carousel" class="row carousel">
 	  {% for circle in site.data.circles %}
-	  <div class="col-md-4 slick-slide">
+	  <div class="col-md-4 col-sm-4 slick-slide">
             {% if circle.url[0] == '/' %}
 	    <a href="{{ circle.url | prepend: site.baseurl }}">
               {% else %}
