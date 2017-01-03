@@ -51,7 +51,7 @@ For purposes of membership in METRO, a library is defined as an entity that prov
 |  How to Apply?   |  Complete the online application and arrange a site visit by a METRO staff representative.               |                     |                     |   Submit a letter explaining your organization’s mission and provide recent annual report or similar document.  |
 
 
-## MyMetro Individual Membership
+## myMetro Individual Membership
 
 Join more than 300 individual librarians, archivists, and information professionals as a myMETRO Member. Benefits include scholarships to conferences of your choosing, access to Lynda.com, our exclusive career services packages, and much more.
 
