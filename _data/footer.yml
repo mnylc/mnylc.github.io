@@ -6,8 +6,6 @@
   url: '/contact'
 - title: 'Staff'
   url: '/staff'
-- title: 'FAQ'
-  url: '/faq'
 - title: 'Space Rental'
   url: '/space-rental'
 - title: 'Code of Conduct'

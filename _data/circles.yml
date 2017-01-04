@@ -1,12 +1,15 @@
-- title: Location
-  url: '/services/digitization-grants/'
+- title: METRO fellows blog
+  url: 'http://metro.org/fellows'
+  icon: 'book'
+  img:
+  description: 'The METRO Fellows are blogging about their experiences.'
+- title: Digital Privacy course
+  url: 'http://www.eventbrite.com/e/digital-privacy-hands-on-tactics-and-tools-tickets-27682960480?aff=ebapi'
   icon: 'map-marker'
-  description: ''
-- title: Join
-  url: '/services/delivery-service/'
-  icon: 'group'
-  description: ''
-- title: Events
-  url: '/services/referral-cards'
+  img:
+  description: 'Learn about digital privacy tools in this METRO course.'
+- title: CIT Toolkit
+  url: 'http://metro.org/cit-toolkit'
   icon: 'calendar'
-  description: ''
+  img:
+  description: 'The Culture in Transit team provide a great new site rich with digitization resources.'

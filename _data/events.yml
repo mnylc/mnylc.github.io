@@ -1,58 +1,77 @@
 ---
 pagination:
-  object_count: 6
+  object_count: 1
   page_number: 1
   page_size: 50
   page_count: 1
+  continuation: eyJwYWdlIjogMn0
 events:
 - name:
-    text: 'Digital Privacy: Fundamental Concepts'
-    html: 'Digital Privacy: Fundamental Concepts'
+    text: METRO's 2017 Annual Conference
+    html: METRO&#39;s 2017 Annual Conference
   description:
     text: |-
-      As the Internet continues to grow, social media websites, search engines, and even our government have unprecedented access to our personal information. It's easy to enjoy the convenience of having the world's information at our fingertips, but there are trade-offs to consider.
-      As providers of Internet access in neighborhoods, librarians are on the front lines of helping patrons navigate privacy online. Librarians can play a critical role in protecting the right to search for information without tracking or surveillance, and in helping library patrons be safe online.
-      Please join us for an interactive training that will cover concepts and tools related to digital privacy. It will address questions such as:
-
-      What are the key elements of information security? 
-      How does data profiling work? 
-      How is personal information shared across websites? 
-      What are the different digital services, devices, and networks at libraries through which patron data passes?
-
-      Participants will come away with improved familiarity with how data travels across the Internet and within library systems, as well as available resources for ongoing learning.
-      ***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by NYPL.***
+      METRO’s 2017 Annual Conference will take place on Wednesday, January 11 at NYU’s Kimmel Center. This year’s event will highlight keynotes by Marie Ostergard (Head of Community Engagement, Partnerships and Communication at Dokk1) and Jeff Goldenson (Library Director, Olin College), feature a plenary session for members of our Hospital Services Library Program, and provide a forum for updates on METRO’s new facility, 599.
+      We are thrilled to share the following sessions at METRO’s 2017 Annual Conference. Selected by double blind committee, in alphabetical order they are:
+      Empire State Digital Network: Updates on New York State's Service Hub for DPLAKerri Willette, John Mignault, Chris Stanton
+      Establishing the Archives for Storefront for Art and ArchitectureChialin Chou
+      Getting More Out of (and Into) Your Collections Management SystemBonnie Gordon, Patrick Galligan, Amy Berish, Julia Welby
+      Hack the Stacks Jennifer Cwiok, Rebecca Morgan, Iris Lee, Stacy Schiff
+      Librarian without a LibraryJulia Marden
+      Librarians as Labor: Lessons from Past and PresentEmily Drabinski, Aliqae Geraci
+      Living to tell the tale: Librarians and an archivist come clean about their original research projectsLee Ann Fullington, Frans Albarillo, Eamon Tewell, Elizabeth Surles
+      Measuring Metadata for the Masses: Starting a Data Quality Program from ScratchShawn Averkamp, Sara Rubinow
+      No API, No ProblemJulie I. May
+      Rethinking Educator Partnerships: Bringing Teachers to the Library to LearnAmy Mikel
+      Space in the City: Moving an Archive in ManhattanTamar Zeffren
+      Teaching MLA Skills to College Students with America's Next Top CitationKatelyn Angell
+      The Culture in Transit Toolkit: A Discussion and DemonstrationCaroline Catchpole, Maggie Schreiner, Sarah Quick
+      The Design for Learning Program: Teaching Librarians Online About How to Teach OnlineArden Kirkland
+      The IDS Project 2016: Interlibrary Loan Staff Development and AutomationBeth Posner, Bill Jones
+      The METRO Fellowship: New Narrative ApproachesMolly Schwartz, Katherine Martinez, Karen Li-Lun Hwang
+      Will this be on the test?: Rethinking Information Literacy Course Design for High School StudentsRobin O'Hanlon
+      Details about the HLSP plenary session will be announced in coming weeks. Questions about this year’s event can be addressed to Davis Erin Anderson at deanderson [at] metro [dot] org.
     html: |-
-      <P>As the Internet continues to grow, social media websites, search engines, and even our government have unprecedented access to our personal information. It's easy to enjoy the convenience of having the world's information at our fingertips, but there are trade-offs to consider.</P>
-      <P>As providers of Internet access in neighborhoods, librarians are on the front lines of helping patrons navigate privacy online. Librarians can play a critical role in protecting the right to search for information without tracking or surveillance, and in helping library patrons be safe online.</P>
-      <P>Please join us for an interactive training that will cover concepts and tools related to digital privacy. It will address questions such as:</P>
-      <UL>
-      <LI>What are the key elements of information security? </LI>
-      <LI>How does data profiling work? </LI>
-      <LI>How is personal information shared across websites? </LI>
-      <LI>What are the different digital services, devices, and networks at libraries through which patron data passes?</LI>
-      </UL>
-      <P>Participants will come away with improved familiarity with how data travels across the Internet and within library systems, as well as available resources for ongoing learning.</P>
-      <P><SPAN>***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by NYPL.***</SPAN></P>
-  id: '27682646541'
-  url: http://www.eventbrite.com/e/digital-privacy-fundamental-concepts-tickets-27682646541?aff=ebapi
+      <P>METRO’s 2017 Annual Conference will take place on Wednesday, January 11 at NYU’s Kimmel Center. This year’s event will highlight keynotes by Marie Ostergard (<SPAN>Head of Community Engagement, Partnerships and Communication at Dokk1) </SPAN>and Jeff Goldenson (Library Director, Olin College), feature a plenary session for members of our Hospital Services Library Program, and provide a forum for updates on METRO’s new facility, 599.</P>
+      <P>We are thrilled to share the following sessions at METRO’s 2017 Annual Conference. Selected by double blind committee, in alphabetical order they are:</P>
+      <P><STRONG>Empire State Digital Network: Updates on New York State's Service Hub for DPLA</STRONG><BR>Kerri Willette, John Mignault, Chris Stanton</P>
+      <P><STRONG>Establishing the Archives for Storefront for Art and Architecture</STRONG><BR>Chialin Chou</P>
+      <P><STRONG>Getting More Out of (and Into) Your Collections Management System</STRONG><BR>Bonnie Gordon, Patrick Galligan, Amy Berish, <SPAN>Julia Welby</SPAN></P>
+      <P><STRONG>Hack the Stacks</STRONG> <BR>Jennifer Cwiok, Rebecca Morgan, Iris Lee, Stacy Schiff</P>
+      <P><SPAN><STRONG>Librarian without a Library</STRONG></SPAN><BR>Julia Marden</P>
+      <P><STRONG>Librarians as Labor: Lessons from Past and Present</STRONG><BR>Emily Drabinski, Aliqae Geraci</P>
+      <P><STRONG>Living to tell the tale: Librarians and an archivist come clean about their original research projects</STRONG><BR>Lee Ann Fullington, Frans Albarillo, Eamon Tewell, Elizabeth Surles</P>
+      <P><STRONG>Measuring Metadata for the Masses: Starting a Data Quality Program from Scratch</STRONG><BR>Shawn Averkamp, Sara Rubinow</P>
+      <P><STRONG>No API, No Problem</STRONG><BR>Julie I. May</P>
+      <P><STRONG>Rethinking Educator Partnerships: Bringing Teachers to the Library to Learn</STRONG><BR>Amy Mikel</P>
+      <P><STRONG>Space in the City: Moving an Archive in Manhattan</STRONG><BR>Tamar Zeffren</P>
+      <P><STRONG>Teaching MLA Skills to College Students with America's Next Top Citation</STRONG><BR>Katelyn Angell</P>
+      <P><STRONG>The Culture in Transit Toolkit: A Discussion and Demonstration</STRONG><BR>Caroline Catchpole, <SPAN>Maggie Schreiner, Sarah Quick</SPAN></P>
+      <P><STRONG>The Design for Learning Program: Teaching Librarians Online About How to Teach Online</STRONG><BR>Arden Kirkland</P>
+      <P><STRONG>The IDS Project 2016: Interlibrary Loan Staff Development and Automation</STRONG><BR>Beth Posner, Bill Jones</P>
+      <P><STRONG>The METRO Fellowship: New Narrative Approaches</STRONG><BR>Molly Schwartz, Katherine Martinez, Karen Li-Lun Hwang</P>
+      <P><STRONG>Will this be on the test?: Rethinking Information Literacy Course Design for High School Students</STRONG><BR>Robin O'Hanlon</P>
+      <P>Details about the HLSP plenary session will be announced in coming weeks. Questions about this year’s event can be addressed to Davis Erin Anderson at deanderson [at] metro [dot] org.</P>
+  id: '29822896085'
+  url: https://www.eventbrite.com/e/metros-2017-annual-conference-tickets-29822896085?aff=ebapi
   start:
     timezone: America/New_York
-    local: '2016-10-19T10:00:00'
-    utc: '2016-10-19T14:00:00Z'
+    local: '2017-01-11T09:00:00'
+    utc: '2017-01-11T14:00:00Z'
   end:
     timezone: America/New_York
-    local: '2016-10-19T13:00:00'
-    utc: '2016-10-19T17:00:00Z'
-  created: '2016-09-12T17:00:17Z'
-  changed: '2016-09-19T14:38:13Z'
-  capacity: 56
-  capacity_is_custom: false
+    local: '2017-01-11T17:00:00'
+    utc: '2017-01-11T22:00:00Z'
+  created: '2016-11-30T16:58:28Z'
+  changed: '2016-12-20T16:42:20Z'
+  capacity: 297
+  capacity_is_custom: true
   status: live
   currency: USD
   listed: true
   shareable: true
   online_event: false
-  tx_time_limit: 600
+  tx_time_limit: 1200
   hide_start_date: false
   hide_end_date: false
   locale: en_US
@@ -62,336 +81,26 @@ events:
   is_series_parent: false
   is_reserved_seating: false
   source: create_2.0
-  logo_id: '24083824'
+  logo_id: '26332887'
   organizer_id: '8929654067'
-  venue_id: '16632331'
+  venue_id: '17555851'
   category_id: 
   subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/27682646541/
+  format_id: 
+  resource_uri: https://www.eventbriteapi.com/v3/events/29822896085/
   logo:
-    crop_mask: 
-    original: 
-    id: '24083824'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24083824%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=cdf75b59d887d7dc89359326a52161f1
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: 'Digital Privacy: Hands-on Tactics and Tools'
-    html: 'Digital Privacy: Hands-on Tactics and Tools'
-  description:
-    text: |-
-      Whether or not you've joined us for our Fundamental Concepts course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.
-      Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.
-      This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.
-      ***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by NYPL.***
-    html: |-
-      <P>Whether or not you've joined us for our <A HREF="http://metro.org/events/784/" TARGET="_blank" TITLE="http://metro.org/events/761/" REL="noopener noreferrer nofollow">Fundamental Concepts</A> course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.</P>
-      <P>Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.</P>
-      <P>This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.</P>
-      <P>***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by NYPL.***</P>
-  id: '27682960480'
-  url: http://www.eventbrite.com/e/digital-privacy-hands-on-tactics-and-tools-tickets-27682960480?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-10-19T14:00:00'
-    utc: '2016-10-19T18:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-10-19T17:00:00'
-    utc: '2016-10-19T21:00:00Z'
-  created: '2016-09-12T17:04:57Z'
-  changed: '2016-09-19T14:37:49Z'
-  capacity: 56
-  capacity_is_custom: false
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  logo_id: '24084032'
-  organizer_id: '8929654067'
-  venue_id: '16619914'
-  category_id: 
-  subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/27682960480/
-  logo:
-    crop_mask: 
-    original: 
-    id: '24084032'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24084032%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=cfa36896dae0f1f6c08b94d6567d5564
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: 'Digital Privacy: Fundamental Concepts'
-    html: 'Digital Privacy: Fundamental Concepts'
-  description:
-    text: |-
-      As the Internet continues to grow, social media websites, search engines, and even our government have unprecedented access to our personal information. It's easy to enjoy the convenience of having the world's information at our fingertips, but there are trade-offs to consider.
-      As providers of Internet access in neighborhoods, librarians are on the front lines of helping patrons navigate privacy online. Librarians can play a critical role in protecting the right to search for information without tracking or surveillance, and in helping library patrons be safe online.
-      Please join us for an interactive training that will cover concepts and tools related to digital privacy. It will address questions such as:
-
-      What are the key elements of information security? 
-      How does data profiling work? 
-      How is personal information shared across websites? 
-      What are the different digital services, devices, and networks at libraries through which patron data passes?
-
-      Participants will come away with improved familiarity with how data travels across the Internet and within library systems, as well as available resources for ongoing learning.
-      ***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by QL.***
-    html: |-
-      <P>As the Internet continues to grow, social media websites, search engines, and even our government have unprecedented access to our personal information. It's easy to enjoy the convenience of having the world's information at our fingertips, but there are trade-offs to consider.</P>
-      <P>As providers of Internet access in neighborhoods, librarians are on the front lines of helping patrons navigate privacy online. Librarians can play a critical role in protecting the right to search for information without tracking or surveillance, and in helping library patrons be safe online.</P>
-      <P>Please join us for an interactive training that will cover concepts and tools related to digital privacy. It will address questions such as:</P>
-      <UL>
-      <LI>What are the key elements of information security? </LI>
-      <LI>How does data profiling work? </LI>
-      <LI>How is personal information shared across websites? </LI>
-      <LI>What are the different digital services, devices, and networks at libraries through which patron data passes?</LI>
-      </UL>
-      <P>Participants will come away with improved familiarity with how data travels across the Internet and within library systems, as well as available resources for ongoing learning.</P>
-      <P><SPAN>***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by QL.***</SPAN></P>
-  id: '27682919357'
-  url: http://www.eventbrite.com/e/digital-privacy-fundamental-concepts-tickets-27682919357?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-10-20T10:00:00'
-    utc: '2016-10-20T14:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-10-20T13:00:00'
-    utc: '2016-10-20T17:00:00Z'
-  created: '2016-09-12T17:02:59Z'
-  changed: '2016-09-19T14:40:08Z'
-  capacity: 56
-  capacity_is_custom: false
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  logo_id: '24083950'
-  organizer_id: '8929654067'
-  venue_id: '16619883'
-  category_id: 
-  subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/27682919357/
-  logo:
-    crop_mask: 
-    original: 
-    id: '24083950'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24083950%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=7ab5ac9bc6135109596a1aae0e615d70
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: 'Digital Privacy: Hands-on Tactics and Tools'
-    html: 'Digital Privacy: Hands-on Tactics and Tools'
-  description:
-    text: |-
-      Whether or not you've joined us for our Fundamental Concepts course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.
-      Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.
-      This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.
-      ***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by QL.***
-    html: |-
-      <P>Whether or not you've joined us for our <A HREF="http://metro.org/events/784/" TARGET="_blank" TITLE="http://metro.org/events/761/" REL="noopener noreferrer nofollow">Fundamental Concepts</A> course, this workshop is a great chance to understand the mechanisms involved in helping our library patrons navigate the new frontier of surveillance through our networked systems.</P>
-      <P>Get hands-on practice with tactics and tools that can help your patrons have more control over their data and communications online. We will cover tools that library systems have already put in place, as well as others that are freely available online.</P>
-      <P>This training will include sections on risk assessments, password managers, 2-factor authentication, VPNs, Tor, antivirus solutions, and anti-tracking software.</P>
-      <P>***This workshop is open to anyone who would like to come. Please feel free to RSVP even if you are not employed by QL.***</P>
-  id: '27683014642'
-  url: http://www.eventbrite.com/e/digital-privacy-hands-on-tactics-and-tools-tickets-27683014642?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-10-20T14:00:00'
-    utc: '2016-10-20T18:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-10-20T17:00:00'
-    utc: '2016-10-20T21:00:00Z'
-  created: '2016-09-12T17:06:56Z'
-  changed: '2016-09-19T14:39:07Z'
-  capacity: 56
-  capacity_is_custom: false
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  logo_id: '24084139'
-  organizer_id: '8929654067'
-  venue_id: '16619883'
-  category_id: 
-  subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/27683014642/
-  logo:
-    crop_mask: 
-    original: 
-    id: '24084139'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24084139%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3593%2C8048%2C4024&s=ce21ec4a38975b35d6458a47c53d59df
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: Economics and Business Librarians SIG Meeting
-    html: Economics and Business Librarians SIG Meeting
-  description:
-    text: |
-      The next meeting of the Economics and Business Librarians Special Interest Group will feature presentations on freely accessible industry resources.
-      Co-conveners John Balow (New York Public Library . Science Industry and Business Library) and Lucy Heckman (St. John's University Library. Queens Campus) will give presentations on the wealth of digital resources on industries.  Those who attend are invited to discuss their "favorite" industry resources. 
-    html: |-
-      <P>The next meeting of the Economics and Business Librarians Special Interest Group will feature presentations on freely accessible industry resources.</P>
-      <P>Co-conveners John Balow (New York Public Library . Science Industry and Business Library) and Lucy Heckman (St. John's University Library. Queens Campus) will give presentations on the wealth of digital resources on industries.  Those who attend are invited to discuss their "favorite" industry resources. </P>
-      <P><BR></P>
-  id: '27779173255'
-  url: http://www.eventbrite.com/e/economics-and-business-librarians-sig-meeting-tickets-27779173255?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-10-27T10:00:00'
-    utc: '2016-10-27T14:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-10-27T12:00:00'
-    utc: '2016-10-27T16:00:00Z'
-  created: '2016-09-16T17:33:39Z'
-  changed: '2016-09-19T18:31:59Z'
-  capacity: 50
-  capacity_is_custom: false
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  logo_id: '24240984'
-  organizer_id: '8929654067'
-  venue_id: '16682550'
-  category_id: '199'
-  subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/27779173255/
-  logo:
-    crop_mask: 
-    original: 
-    id: '24240984'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24240984%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3544%2C8048%2C4024&s=d58cc8568029000a117a03c937b382fd
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
-- name:
-    text: 'STM SIG Meeting: Management Trends in STEM Libraries'
-    html: 'STM SIG Meeting: Management Trends in STEM Libraries'
-  description:
-    text: |
-      Please join METRO's STM SIG for a meeting in the library conference room at John Jay College of Criminal Justice at 524 W 59th Street in Manhattan. The featured speakers will be:
-
-      Linda Beninghove, Director of the Samuel C. Williams Library of Stevens Institute of Technology
-
-
-      Judy Cohn, Assistant Vice President for Information Services and Director of Health Sciences Libraries, Rutgers University (formerly known as the University of Medicine and Dentistry of New Jersey)
-
-      Both speakers will discuss their perspective of science or medical libraries as they are today and predict future trends. These presentations will be followed by a roundtable discussion.
-      Please note that this meeting will be held at John Jay College of Criminal Justice at 524 W 59th Street in Manhattan. The library conference room is on the upper level of the Loyd Sealy Library.
-      The easiest way to get there is to enter the Haaren Hall building of John Jay College at the Tenth Avenue entrance (opposite the hospital, between 58th and 59th street). Take the escalator or stairs down one floor, turn around to enter the library. Turn left inside the library, walk to the stairs at the end of the lounge, and go up one floor; ask for further directions at the reference desk at the top of the internal staircase.
-      (People choosing to take the elevator at the Tenth Avenue building entrance will exit on the correct library floor, and should go through the stacks to the reference desk in the center of the library for further directions.)
-      Please bring your photo ID for security purposes.
-    html: |-
-      <P>Please join METRO's STM SIG for a meeting in the library conference room at John Jay College of Criminal Justice at 524 W 59th Street in Manhattan. The featured speakers will be:</P>
-      <UL>
-      <LI>Linda Beninghove, Director of the Samuel C. Williams Library of Stevens Institute of Technology</LI>
-      </UL>
-      <UL>
-      <LI>Judy Cohn, Assistant Vice President for Information Services and Director of Health Sciences Libraries, Rutgers University (formerly known as the University of Medicine and Dentistry of New Jersey)</LI>
-      </UL>
-      <P>Both speakers will discuss their perspective of science or medical libraries as they are today and predict future trends. These presentations will be followed by a roundtable discussion.</P>
-      <P>Please note that this meeting will be held at John Jay College of Criminal Justice at 524 W 59th Street in Manhattan. The library conference room is on the upper level of the Loyd Sealy Library.</P>
-      <P>The easiest way to get there is to enter the Haaren Hall building of John Jay College at the Tenth Avenue entrance (opposite the hospital, between 58th and 59th street). Take the escalator or stairs down one floor, turn around to enter the library. Turn left inside the library, walk to the stairs at the end of the lounge, and go up one floor; ask for further directions at the reference desk at the top of the internal staircase.</P>
-      <P>(People choosing to take the elevator at the Tenth Avenue building entrance will exit on the correct library floor, and should go through the stacks to the reference desk in the center of the library for further directions.)</P>
-      <P>Please bring your photo ID for security purposes.</P>
-      <P><BR></P>
-  id: '28003401929'
-  url: http://www.eventbrite.com/e/stm-sig-meeting-management-trends-in-stem-libraries-tickets-28003401929?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2016-11-04T10:00:00'
-    utc: '2016-11-04T14:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2016-11-04T12:00:00'
-    utc: '2016-11-04T16:00:00Z'
-  created: '2016-09-22T17:38:02Z'
-  changed: '2016-09-22T17:45:53Z'
-  capacity: 50
-  capacity_is_custom: false
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  logo_id: '24413272'
-  organizer_id: '8929654067'
-  venue_id: '16755095'
-  category_id: '199'
-  subcategory_id: 
-  format_id: '10'
-  resource_uri: https://www.eventbriteapi.com/v3/events/28003401929/
-  logo:
-    crop_mask: 
-    original: 
-    id: '24413272'
-    url: https://img.evbuc.com/http%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24413272%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C3544%2C8048%2C4024&s=688a4fd558f5ea1059c024574c61139d
+    crop_mask:
+      top_left:
+        x: 0
+        y: 190
+      width: 898
+      height: 449
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F26332887%2F160412581493%2F1%2Foriginal.jpg?s=b48eb1e0c906f0abb81039e65ec73dfb
+      width: 900
+      height: 900
+    id: '26332887'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F26332887%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C190%2C898%2C449&s=4e78b7322ea4c763a71d482eab710fb1
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true

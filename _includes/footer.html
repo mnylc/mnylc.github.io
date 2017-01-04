@@ -6,13 +6,17 @@
       </div>
       <div class="col-md-3 col-sm-6">
         {% for line in site.footer.address %}
-        <p>{{ line.line }}</p>
+        {{ line.line }}<br/>
         {% endfor %}
-        <p>
-          Phone: <a href="tel: {{ site.footer.phone }}">{{ site.footer.phone }}</a>
-          Fax: <a href="fax: {{ site.footer.fax }}">{{ site.footer.fax }}</a>
+          Phone: <a href="tel: {{ site.footer.phone }}">{{ site.footer.phone }}</a><br/>
+        Fax: <a href="fax: {{ site.footer.fax }}">{{ site.footer.fax }}</a>
+        <p style="padding-top: 10px;">
+          {% for srv in site.social %}
+          <a href="{{ srv.url }}"><img src="{{ srv.img | prepend: site.baseurl }}" height="25px"/></a>
+          {% endfor %}
+          </p>
       </div>
-      <div class="col-md-7 col-xs-12">
+       <div class="col-md-7 col-xs-12">
         <ul class="footer-list">
           {% for page in site.data.footer %}
             <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
@@ -21,11 +25,13 @@
       </div>
     </div>
     <div class="row">
+      {% if page.path == "index.html" %}
       <div class="col-md-6 attribution">
           <p>The background image is by <a href="{{ site.attribution.image.url }}">{{ site.attribution.image.source }}</a></p>
           <p>The apperance is based on the <a href="{{ site.attribution.theme.url }}">{{ site.attribution.theme.name }}</a> theme.</p>
           <p>This site is open source, so you can make it better and <a href="https://github.com/mnylc/metro.org">edit it on Github</a></p>
       </div>
+      {% endif %}
       <div class="col-md-6">
 
       </div>
