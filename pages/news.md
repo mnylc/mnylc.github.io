@@ -1,7 +1,7 @@
 ---
 title: News
 permalink: /news/
-layout: posts
+layout: news_posts
 
 use_tag: "news"
 ---
