@@ -54,7 +54,7 @@ Lloyd Sealy Library, John Jay College
 Digitizing Policing: Opening Access to Law Enforcement Resources  
 Digital Conversion Grant  
 
-###2014
+### 2014
 Brooklyn Museum and Brooklyn Academy of Music  
 Digitizing Brooklyn Institute of Arts & Sciences Periodicals: Phase One  
 2014 Collaborative Digitization Project Grant  
@@ -92,7 +92,7 @@ New York University Health Sciences Libraries
 [Publications from the NYU Medical Archives ](https://archive.org/details/nyumedical)  
 2014 Digital Conversion MicroGrant  
 
-###2013
+### 2013
 New York Academy of Medicine and New York Public Radio Archives  
 [Digital Conversion of Broadcast Public Health Talks](http://www.wnyc.org/series/nyam-lectures/)  
 2013 Collaborative Digitization Project Grant  
@@ -121,7 +121,7 @@ Wildlife Conservation Society Archives
 [Wildlife Conservation Society Annual Reports, 1922-2008](https://archive.org/details/wildlifeconservationsociety)  
 2013 Digital Conversion MicroGrants  
 
-###2012
+### 2012
 The College of New Rochelle and Manhattanville College  
 [Social Action and The National Federation of Catholic College Students](http://www.mville.edu/undergraduate/academics/library/special-collections/digital-collections-and-exhibits/social-action-at-manhattanville.html)  
 2012 METRO Collaborative Digitization Grant  
@@ -131,7 +131,7 @@ Frick Art Reference Library
 [GILDING THE GILDED AGE: Interior Decoration Tastes and Trends in New York City as Documented by a Collection of Auction Catalogs in Frick and Hearst Library Collections](https://gildedage3.omeka.net/)  
 2012 METRO Collaborative Digitization Grant  
 
-###2011
+### 2011
 The Library of the Jewish Theological Seminary, American Jewish Historical Society and the Center for Jewish History  
 [Early New York Synagogue Archives](http://synagogues.cjh.org/)  
 2011 METRO Collaborative Digitization Grant  
@@ -148,7 +148,7 @@ Wildlife Conservation Society and New York Botanical Garden
 [Views of Bronx Park: Collaborative Project to Digitize the Postcards of the Bronx Zoo and the New York Botanical Garden](http://ielc.libguides.com/bronxparkpostcards)  
 2011 METRO Collaborative Digitization Grant  
 
-###2010
+### 2010
 Center for Jewish History and Hadassah Archives at American Jewish Historical Society  
 Hadassah Newsletters and Audio Reels ([Newsletters](http://digital.cjh.org/R/UX1BX7N8G9MA25DXPD2QIF9E1H4G6GF5PFN2NFNG9M3JQ57GEL-02982?func=collections-result&collection_id=1832) | [Audio](http://digital.cjh.org/R/UX1BX7N8G9MA25DXPD2QIF9E1H4G6GF5PFN2NFNG9M3JQ57GEL-00582?func=collections-result&collection_id=1853&pds_handle=GUEST))   
 2010 METRO Collaborative Digitization Grant  
@@ -167,7 +167,7 @@ Queens College Library (CUNY) and Queens Borough Public Library
 2010 METRO Collaborative Digitization Grant  
 
 
-###2009
+### 2009
 American Jewish Historical Society  
 [Jacques Judah Lyons Papers](http://digital.cjh.org/R/8DX16I95JYQ5IATH2DCB8JBU2J7YINM5SCUIH8JASVSGRBANVG-03832?func=collections-result&collection_id=1766)  
 2009 METRO Digitization Grant  
@@ -202,7 +202,7 @@ YIVO Institute for Jewish Research
 Yivo Bleter, 1966-2003  
 2009 METRO Digitization Grant  
 
-###2008
+### 2008
 American Jewish Historical Society  
 [Franks Family Papers](http://digital.cjh.org/R/YXVVIMKDTB6GDYRTEG4X9RXDY9FG75G4C8ALIY6SCGC2U2D66S-01508?func=collections-result&collection_id=1405&pds_handle=GUEST)  
 2008 METRO Digitization Grant  
@@ -244,7 +244,7 @@ Rockefeller University
 Student Theses: DSpace Project  
 2008 METRO Digitization Grant  
 
-###2007
+### 2007
 American Museum of Natural History   
 [Picturing the Museum](http://images.library.amnh.org/photos/index.html)  
 2007 METRO Digitization Grant  
@@ -273,7 +273,7 @@ New York Public Library
 [24 Hours with The New York Public Library - The Best of Public Programs](https://www.nypl.org/node/90295)  
 2007 METRO Digitization Grant  
 
-###2006
+### 2006
 Brooklyn Museum Library & Archives  
 [Brooklyn Bridge and the Brooklyn Museum - Spanning Art and History](https://www.brooklynmuseum.org/opencollection/research/brooklyn_bridge/)  
 2006 METRO Digitization Grant  
@@ -310,7 +310,7 @@ Sarah Lawrence College
 World War II Scrapbooks  
 2006 METRO Digitization Grant  
 
-###2005
+### 2005
 Brooklyn College Library Archives  
 [Brooklyn College Library: Brooklyn Democratic Party Scrapbooks](http://nyheritage.nnyln.net/cdm/landingpage/collection/bc)  
 2005 METRO Digitization Grant  
