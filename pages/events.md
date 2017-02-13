@@ -26,3 +26,25 @@ Please reach out to us with any event-related questions you might have. Our emai
 	</li>
 {% endfor %}
 </ol>
+
+## Payment Policy ##
+We accept payment by credit card or by invoice. Please note that we do not accept cash payment, on site or otherwise. 
+
+## Workshop Cancellation Policy ##
+METRO reserves the right to cancel any workshop or to substitute instructors. In the event of a cancellation, postponement, or substitution, registrants will be notified in advance (if possible) via email and may receive a full refund of the registration fee.
+
+## Participant Cancellation Policy ##
+All registration cancellations must be submitted in writing to events@metro.org.
+
+In order to receive a refund, we must receive your cancellation email at least 24 hours prior to the event start time.
+If METRO does not receive your cancellation email before that deadline, an invoice will be sent to recoup any unpaid fees. 
+
+If you are unable to attend a workshop, you may choose to send another person in your place without penalty. If possible, we request that you notify us in advance.
+ 
+Refunds are provided by credit card or check and will be processed within about four weeks.
+
+## Private Space ##
+METRO will make private space available to nursing mothers upon request. Please contact us at events [at] metro [dot] org to make a reservation.
+
+## Contact Information ##
+Please contact our events staff by email to events [at] metro [dot] org with any additional questions or inquiries.
