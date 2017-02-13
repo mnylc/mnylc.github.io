@@ -31,6 +31,8 @@ Please see our list of current members [here.]({{ '/assets/docs/Spring_2016_Memb
 
 In accordance with Article II Section 9 of the Metro Bylaws “Dues for each category of membership shall be set by majority vote of the members based on recommendations of the Board of Trustees.” Until further action by the Board, the following annual dues schedule will be in effect. All dues assume non-profit status of member. For-profit membership rates are available upon request. 
 
+To become a METRO member, please complete this [form.](https://www.google.com/url?q=https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScdl5-ktEFGNhXXEn4bAF54Blbu8wraOFRshnR42LSWpjwAMQ/viewform&sa=D&ust=1487006619450000&usg=AFQjCNFapEQ3uj1NJ24wWw9pPylQBsq2_Q)
+
 
 |  Annual operating expenditures of membership units (salaries, materials and other expenses)  |  Annual Dues                | 
 |  ------------------------------------------  |  ----------------------  | 
@@ -72,7 +74,9 @@ Annual Fees for myMETRO Membership are
 * $250 for a 3-year professional membership
 * $500 for lifetime membership
 
+We offer 50% discounts on Individual Memberships for students, retirees, and professionals in transition. Three year memberships are available to current students for $125.00. 
 
+If you are interested in joining us as a myMETRO member, please complete this [form.](https://www.google.com/url?q=https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScPUztmBGK57i5wOmupenzG1DPg_M52QdXr06WDNaad1w9VDA/viewform&sa=D&ust=1487006619451000&usg=AFQjCNH3KzsNaQ8nKqlw5xpChnkyiHvWHA) One of our staff members will be in touch with you to follow up on your membership submission.
 
 
 
