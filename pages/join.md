@@ -9,6 +9,8 @@ For nearly 50 years, METRO’s state-of-the-art training, services, and networki
 
 Join over 250 libraries, archives, and museums in New York City and Westchester county as a member of METRO. Get access to grant programs, resource sharing, vendor discounts, and registration discounts on professional development for your institution's employees.
 
+Please see our list of current members [here.]({{ '/assets/docs/Spring_2016_Member_Directory_and_Delivery_Roster.pdf' | prepend: site.baseurl }}) Note: if your institution is listed here, you are considered a member of METRO.
+
 ### Benefits
 
 * Digital Services
@@ -27,19 +29,18 @@ Join over 250 libraries, archives, and museums in New York City and Westchester 
 
 ### Membership Fees
 
-In accordance with Article II Section 9 of the Metro Bylaws “Dues for each category ofmembership shall be set by majority vote of the members based on recommendations of the Board of Trustees.” Until further action by the Board, the following annual dues schedule will be in effect. All dues assume non-profit status of member. For-profit membership rates are available upon request. 
+In accordance with Article II Section 9 of the Metro Bylaws “Dues for each category of membership shall be set by majority vote of the members based on recommendations of the Board of Trustees.” Until further action by the Board, the following annual dues schedule will be in effect. All dues assume non-profit status of member. For-profit membership rates are available upon request. 
 
-The links in the table below take you to a subscription form at Zoho, our subscription provider.
 
 |  Annual operating expenditures of membership units (salaries, materials and other expenses)  |  Annual Dues                | 
 |  ------------------------------------------  |  ----------------------  | 
-|  Between $50,000 and $99,000     | [$494](https://subscriptions.zoho.com/subscribe/de50ca02d6dbffb85eeac4f2336c4c166a2bba0f6b053217afe8ded60e8a6aa6/institution50to99)            | 
-|    Between $100,000 and $249,000     |  [$790](https://subscriptions.zoho.com/subscribe/de50ca02d6dbffb85eeac4f2336c4c166a2bba0f6b053217afe8ded60e8a6aa6/institution100000to249000)            | 
-|  Between $250,000 and $499,000     |  [$1,087](https://subscriptions.zoho.com/subscribe/de50ca02d6dbffb85eeac4f2336c4c166a2bba0f6b053217afe8ded60e8a6aa6/institution100000to249000)            | 
-|  Between $500,000 and $749,000    |  [$1,483](https://subscriptions.zoho.com/subscribe/de50ca02d6dbffb85eeac4f2336c4c166a2bba0f6b053217afe8ded60e8a6aa6/institution750k-999k)            | 
-|  Between $750,000 and $999,000      |  [$1,977](https://subscriptions.zoho.com/subscribe/de50ca02d6dbffb85eeac4f2336c4c166a2bba0f6b053217afe8ded60e8a6aa6/institution1m-2m)            | 
-|  Between $1,000,000 and $2,000,000 |  [$2,966](https://subscriptions.zoho.com/subscribe/de50ca02d6dbffb85eeac4f2336c4c166a2bba0f6b053217afe8ded60e8a6aa6/institution1m-2m)            | 
-|   Over $2,000,000                  |  [$3,954](https://subscriptions.zoho.com/subscribe/de50ca02d6dbffb85eeac4f2336c4c166a2bba0f6b053217afe8ded60e8a6aa6/institution2mplus)            | 
+|  Between $50,000 and $99,000     | $494            | 
+|    Between $100,000 and $249,000     |  $790            | 
+|  Between $250,000 and $499,000     |  $1,087            | 
+|  Between $500,000 and $749,000    |  $1,483            | 
+|  Between $750,000 and $999,000      |  $1,977            | 
+|  Between $1,000,000 and $2,000,000 |  $2,966            | 
+|   Over $2,000,000                  |  $3,954            | 
 
 ### Eligibility
 
@@ -67,11 +68,10 @@ Join more than 300 individual librarians, archivists, and information profession
 
 Annual Fees for myMETRO Membership are
 
-* [$100 for professionals](https://subscriptions.zoho.com/subscribe/de50ca02d6dbffb85eeac4f2336c4c166a2bba0f6b053217afe8ded60e8a6aa6/individual1year)
-* [$250 for a 3-year professional membership](https://subscriptions.zoho.com/subscribe/de50ca02d6dbffb85eeac4f2336c4c166a2bba0f6b053217afe8ded60e8a6aa6/individual3year)
-* [$500 for lifetime membership](https://subscriptions.zoho.com/subscribe/de50ca02d6dbffb85eeac4f2336c4c166a2bba0f6b053217afe8ded60e8a6aa6/individuallifetime)
+* $100 for professionals
+* $250 for a 3-year professional membership
+* $500 for lifetime membership
 
-The links above take you to a subscription form at Zoho, our subscription provider.
 
 
 
