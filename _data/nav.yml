@@ -1,12 +1,24 @@
 - title: 'Services'
   url: '/services'
+  items:
+    - title: "Digital Services"
+      suburl: "/services/digital-services"
+    - title: "Hospital Library Services Program"
+      suburl: "/services/hlsp"
+    - title: "Resource Sharing"
+      suburl: "/services/resource-sharing"
+
 - title: 'Location'
   url: '/location'
+  
 - title: 'Events'
   url: '/events'
+  
 - title: 'Jobs'
   url: '/jobs'
+  
 - title: 'News'
   url: '/news'
+  
 - title: 'Join'
   url: '/join'

@@ -6,3 +6,11 @@
   padding-top: 70px;
   padding-bottom: 70px;
 }
+
+.navbar-shrink .nav li a {
+    color: #990099;
+}
+
+.navbar-shrink .nav li ul.dropdown-menu a:hover {
+    color: #560056;
+}

@@ -1,41 +1,50 @@
 <!-- Navigation -->
 <nav class="navbar navbar-default navbar-fixed-top {% if include.page %} navbar-shrink {% endif %}">
-    <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <!--<a class="navbar-brand page-scroll" href="{{ '/' | prepend: site.baseurl }}"><img src="assets/img/logos/smaller.png"></a>-->
-            <a class="navbar-brand page-scroll" href="{{ '/' | prepend: site.baseurl }}">{{site.title}}</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li class="hidden">
-                    <a href="#page-top"></a>
-                </li>
-                {% for nav in site.data.nav %}
-                  {% assign current = false %}
-                  {% assign navUrl = nav.url | append: '/' %}
-                  {% if navUrl == page.url %}
-                    {% assign current = true %}
-                  {% endif %}
-                  {% if nav.title %}
-                    <li class="{% if current == true %} active {% endif %}">
-                        <a class="page-scroll" href="{{ nav.url | prepend: site.baseurl }}">
-                          {{ nav.title }}
-                        </a>
-                    </li>
-                  {% endif %}
-                {% endfor %}
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header page-scroll">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <!--<a class="navbar-brand page-scroll" href="{{ '/' | prepend: site.baseurl }}"><img src="assets/img/logos/smaller.png"></a>-->
+      <a class="navbar-brand page-scroll" href="{{ '/' | prepend: site.baseurl }}">{{site.title}}</a>
     </div>
-    <!-- /.container-fluid -->
+    
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="hidden">
+          <a href="#page-top"></a>
+        </li>
+        {% for nav in site.data.nav %}
+        {% if nav.items != null %}
+        <li class="dropdown">
+          <a href="{{ nav.url | prepend: site.baseurl }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ nav.title }}<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            {% for item in nav.items %}
+            <li><a href="{{ item.suburl | prepend: site.baseurl }}">{{ item.title }}</a></li>
+            {% endfor %}
+            </ul>
+            </li>
+            {% else %}
+        {% assign current = false %}
+        {% assign navUrl = nav.url | append: '/' %}
+        {% if navUrl == page.url %}
+        {% assign current = true %}
+        {% endif %}
+        {% if nav.title %}
+        <li class="{% if current == true %} active {% endif %}">
+          <a class="page-scroll" href="{{ nav.url | prepend: site.baseurl }}">{{ nav.title }}</a>
+          {% endif %}
+        </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    <!-- /.navbar-collapse -->
+  </div>
+  <!-- /.container-fluid -->
 </nav>
