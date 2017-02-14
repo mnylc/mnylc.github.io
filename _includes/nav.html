@@ -21,7 +21,16 @@
         </li>
         {% for nav in site.data.nav %}
         {% if nav.items != null %}
-        <li class="dropdown">
+        {% assign current = false %}
+        {% assign navElms = nav.url | split: '/' %}
+        {% assign pageElms = page.url | split: '/' %}
+        {% assign navRoot = navElms[1] %}
+        {% assign pageRoot = pageElms[1] %}
+        {% if pageRoot == navRoot %}
+        {% assign current = true %}
+        {% endif %}
+        
+        <li class="dropdown {% if current == true %} active {% endif %}">
           <a href="{{ nav.url | prepend: site.baseurl }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ nav.title }}<span class="caret"></span></a>
           <ul class="dropdown-menu">
             {% for item in nav.items %}
