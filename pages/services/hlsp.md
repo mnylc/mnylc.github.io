@@ -13,13 +13,14 @@ METRO services to hospital and medical center libraries include:
 
 For more information about our HLSP program, please contact Susan Klimley, HLSP Program Manager at sklimley [at] metro [dot] org.
 
-##Grant Opportunities##
+## Grant Opportunities
 METRO distributes funds from the New York State Library to support acquisitions, technology upgrades and interlibrary loan services for hospital libraries.
 
-##Collection Development Grants##
+## Collection Development Grants
+
 Collection development grants are available to METRO's Hospital Library Service Program members. Grant amounts are based on funding available, established need, and current expenditure levels. The NYS HLSP guidelines may be found here.
 
-##Technology Grants##
+## Technology Grants
 Each year, METRO receives funding to support technology needs in hospital libraries. Grants are available to members of METRO's Hospital Library Services Program. 
 
 The application period and guidelines are announced each fall. Applications are reviewed by an ad-hoc committee drawn from the HLSP Advisory Council. 
@@ -27,7 +28,8 @@ The application period and guidelines are announced each fall. Applications are 
 ##Medical Information Service Program Grants##
 Medical Information Service Program grants are available to subsidize costs associated with interlibrary loans involving medical and health related materials. Grants are available to medical or hospital libraries, though other libraries may also be eligible to have the cost of its health-related interlibrary loans subsidized if the National Library of Medicine (NLM) or a Document Delivery Providers (DDP's) provided them. Grant funding is based, in part, on Docline interlibrary loan statistics.
 
-##Our Members##
+## Our Members
+
 - Beth Israel Medical Center, Phillips Library
 - Brookdale Hospital Medical Center, Schwartz Medical Library
 - Calvary Hospital, Medical Library
@@ -75,5 +77,5 @@ Medical Information Service Program grants are available to subsidize costs asso
 - Wyckoff Heights Medical Center, Medical Library
 - Yeshiva University/Albert Einstein College of Medicine, D. Samuel Gottesman Library
 
-##Contact Information##
+## Contact Information
 Our Hospital Library Service Program is managed by Susan Klimley. For information on joining HLSP or for questions related to any of our grant programs, please contact susan at sklimley [at] metro [dot] org or by phone at (212) 228-2320.
