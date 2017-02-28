@@ -10,6 +10,8 @@ We look forward to seeing you at 599, the new home of the Metropolitan New York 
 We are committed to providing a welcoming and productive environment for all. Please check out our [Code of Conduct]({{ "/code-of-conduct/" | prepend: site.baseurl }}) for more information.
 
 Please reach out to us with any event-related questions you might have. Our email address is events [at] metro [dot] org, and our phone number is (212) 228-2320.
+
+{% if site.data.events.events.length > 0 %}
 <ol class="posts">
 {% for e in site.data.events.events %}
 <li>
@@ -26,6 +28,12 @@ Please reach out to us with any event-related questions you might have. Our emai
 	</li>
 {% endfor %}
 </ol>
+{% else %}
+
+## No events are scheduled at this time. Please check back soon. ##
+
+{% endif %}
+
 
 ## Payment Policy ##
 We accept payment by credit card or by invoice. Please note that we do not accept cash payment, on site or otherwise. 
