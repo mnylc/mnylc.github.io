@@ -1,0 +1,46 @@
+<!-- carousel -->
+<a class="anchor" id="metro-carousel"></a>
+<div id="metro_carousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+	{% for circle in site.data.circles %}
+        {% if forloop.index == 1 %}
+        {% assign active_class = "active" %}
+        {% endif %}
+	<div class="item {{ active_class }}">
+            {% if circle.url[0] == '/' %}
+            {% assign url = circle.url | prepend: site.baseurl %}
+            {% else %}
+            {% assign url = circle.url %}
+            {% endif %}
+            <img data-src="holder.js/100px250?theme=social">
+            <div class="container">
+                <div class="carousel-caption">
+	            <a href="{{ url }}">
+                        <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fa fa-{{ circle.icon }} fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a>
+                    <h2>{{ circle.title }}</h2>
+                    <p>{{ circle.description }}</p>
+                </div>
+            </div>
+        </div>
+        {% assign active_class = '' %}
+	{% endfor %}
+    </div>
+    <a class="left carousel-control" href="#metro_carousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true">&lsaquo;</span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#metro_carousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true">&rsaquo;</span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+<!-- - end carousel -->

@@ -14,3 +14,33 @@
 .navbar-shrink .nav li ul.dropdown-menu a:hover {
     color: #560056;
 }
+
+// Class
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#metro_carousel {
+    margin-top: 125px;
+    height: 400px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: gray;
+}
+
+.item {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 305px;
+}
+
+a.anchor {
+    display: block;
+    position: relative;
+    visibility: hidden;
+}
+
+
