@@ -7,72 +7,19 @@
     {% include nav.html %}
     
     <!-- Header -->
-    <style>
-      .slick-prev:before,
-      .slick-next:before {
-      color: black;
-      }
-    </style>
     <header>
       <div class="container">
         <div class="intro-text">
           <div class="intro-heading">Metro</div>
           <div class="intro-lead-in">Where New York's libraries and archives come together to learn, share ideas, and collaborate.</div>
-          <a href="#carousel" class="page-scroll btn btn-xl">Tell Me More</a>
+          <a href="#metro-carousel" class="page-scroll btn btn-xl">Tell Me More</a>
         </div>
       </div>
     </header>
     
-    <section id="carousel">
-      <div class="container">
-        <div id="carousel" class="row carousel">
-	  {% for circle in site.data.circles %}
-	  <div class="col-md-4 col-sm-4 slick-slide">
-            {% if circle.url[0] == '/' %}
-	    <a href="{{ circle.url | prepend: site.baseurl }}">
-              {% else %}
-              <a href="{{ circle.url }}">
-                {% endif %}
-              <div class="text-center">
-                <span class="fa-stack fa-4x">
-                  <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                  <i class="fa fa-{{ circle.icon }} fa-stack-1x fa-inverse"></i>
-                </span>
-              </div>
-              <h2 class="circle-heading text-center">{{ circle.title }}</h2>
-              <p class="text-muted text-center">{{ circle.description }}</p>
-              <p class="text-muted text-center">{{ circle.blurb }}</p>
-	    </a>
-	  </div>
-	  {% endfor %}
-        </div>
-	<!--
-            
-	    <div class="row">
-	      {% for circle in site.data.circles %}
-	      <div class="col-md-4">
-		<a href="{{ circle.url | prepend: site.baseurl }}">
-                  <div class="text-center">
-                    <span class="fa-stack fa-4x">
-                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                      <i class="fa fa-{{ circle.icon }} fa-stack-1x fa-inverse"></i>
-                    </span>
-                  </div>
-                  <h4 class="circle-heading text-center">{{ circle.title }}</h4>
-                  <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-		</a>
-	      </div>
-	      {% endfor %}
-	    </div>
-	    -->
-        
-        {% include projects.html %}
-        
-      </div>
-    </section>
-    
-    
-    {{ content }}
+    {% include carousel.html %}
+
+    {% include projects.html %}
     
     {% include footer.html %}
     
@@ -85,13 +32,5 @@
     <script src="{{ "/assets/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/assets/js/classie.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/assets/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script>
-    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
-    <script type="text/javascript">
-      $(".carousel").slick({
-      dots: true,
-      speed: 500,
-      accessibility: true
-      });
-    </script>
   </body>
 </html>
