@@ -17,7 +17,6 @@
             {% else %}
             {% assign url = circle.url %}
             {% endif %}
-            <img data-src="holder.js/100px250?theme=social">
             <div class="container">
                 <div class="carousel-caption">
 	            <a href="{{ url }}">
@@ -25,9 +24,9 @@
                             <i class="fa fa-circle fa-stack-2x text-primary"></i>
                             <i class="fa fa-{{ circle.icon }} fa-stack-1x fa-inverse"></i>
                         </span>
+                        <h2>{{ circle.title }}</h2>
+                        <p>{{ circle.description }}</p>
                     </a>
-                    <h2>{{ circle.title }}</h2>
-                    <p>{{ circle.description }}</p>
                 </div>
             </div>
         </div>
@@ -35,11 +34,11 @@
 	{% endfor %}
     </div>
     <a class="left carousel-control" href="#metro_carousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true">&lsaquo;</span>
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
     </a>
     <a class="right carousel-control" href="#metro_carousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true">&rsaquo;</span>
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
     </a>
 </div>

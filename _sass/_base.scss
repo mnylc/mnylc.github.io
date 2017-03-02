@@ -34,13 +34,21 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 305px;
+    padding-top: 325px;
 }
 
 a.anchor {
     display: block;
     position: relative;
     visibility: hidden;
+}
+
+.carousel-caption > a {
+    color: #990099;
+}
+
+.portfolio-caption > a {
+    color: #990099;
 }
 
 
