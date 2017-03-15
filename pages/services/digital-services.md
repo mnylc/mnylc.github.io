@@ -2,8 +2,6 @@
 title: Digital Services
 permalink: /services/digital-services
 ---
-<a class="anchor" name="top"/>
-
 [Digital Culture of Metropolitan New York](#dcmny)
 
 [Empire State Digital Network](#esdn)
