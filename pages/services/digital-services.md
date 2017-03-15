@@ -2,30 +2,49 @@
 title: Digital Services
 permalink: /services/digital-services
 ---
+<a class="anchor" name="top"/>
+
+[Digital Culture of Metropolitan New York](#dcmny)
+
+[Empire State Digital Network](#esdn)
+
+[Culture in Transit](#cit)
+
+[Digitization Grant Program](#digi_grants)
+
+[Funded Projects](#projects)
 
 Digital Services represent a major focus of our work at METRO, in large part through the METRO Digitization Grant Program, which has helped fund the creation of over 70 digital collections over the last 10 years. 
 
-## Digital Culture of Metropolitan New York 
+## <a class="anchor" name="dcmny"></a>Digital Culture of Metropolitan New York 
 Digital Culture of Metropolitan New York ([DCMNY](http://dcmny.org)) provides online access to the digital collections of libraries, archives, museums and historical societies located in and around New York City. It is intended to serve as a digital collection hosting service for METRO member institutions, as well as an on-ramp to the Digital Public Library of America ([DPLA](http://dp.la)). For more information, please contact Anne Karle-Zenith at annekz [at] metro [dot] org.
 
-## Empire State Digital Network
+[Back to top](#top)
+
+## <a class="anchor" name="esdn"></a>Empire State Digital Network
 Empire State Digital Network is the first service hub to be created explicitly as a means for sharing New York’s rich digital cultural heritage with the Digital Public Library of America (DPLA). The Network will be administered by the Metropolitan New York Library Council (METRO) in collaboration with eight allied regional library councils collectively working as NY3Rs Association. For more information, please visit the [ESDN website.](http://empirestate.digital)
 
-## Culture In Transit
+[Back to top](#top)
+
+## <a class="anchor" name="cit"></a>Culture In Transit
 While libraries, archives, and partners such as Internet Archive and Google have digitized and made billions of resources available online over the past decades, there is still a long trail of documents, newsletters, photographs, and other materials in the hands of smaller institutions and community members that are in effect invisible because they are not yet available online.
 
 Concluding its first iteration in October 2016, [Culture in Transit](http://www.mnylc.org/cit/) (CIT), a project of METRO in partnership with Queens Library and Brooklyn Public Library, addressed this issue by taking shared digitization technologies and expertise to libraries, archives, and communities throughout the metropolitan New York area to digitize and share the city’s rich cultural heritage online with the world. This project culminated in a [comprehensive toolkit.](https://mnylc.github.io/cit-toolkit/)
 
 CIT was funded by the John S. and James L. Knight Foundation, as part of their Knight News Challenge on Libraries.
 
-## Digitization Grant Program
+[Back to top](#top)
+
+## <a class="anchor" name="digi_grants"></a>Digitization Grant Program
 In January 2005, METRO launched its Digitization Grant Program as an effort to support digitization projects involving significant collections held by METRO member libraries in New York City and Westchester County. This initiative is supported in part by funds from the New York State Regional Bibliographic Databases Program.
 
 Since that time, METRO has awarded approximately $800,000 in grants to support 76 digital projects.
 
 Please note: Funding for digitization projects is on hold at this time. We are currently working on re-envisioning METRO's Digitization grants to more effectively serve the needs of our members. For more information please contact Anne Karle-Zenith, METRO's Digital Services Manager at annekz [at] metro [dot] org.
 
-### Funded Projects
+[Back to top](#top)
+
+### <a class="anchor" name="projects"></a>Funded Projects
 
 ### 2015
 
@@ -399,3 +418,6 @@ METRO
 Margo Padilla  
 Strategic Programs Manager  
 METRO  
+
+[Back to top](#top)
+
