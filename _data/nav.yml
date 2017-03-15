@@ -1,14 +1,16 @@
 - title: 'Services'
   url: '/services'
   items:
+    - title: "Coordinated Collection Development Aid"
+      suburl: "/services/ccda"
     - title: "Digital Services"
       suburl: "/services/digital-services"
     - title: "Hospital Library Services Program"
       suburl: "/services/hlsp"
     - title: "Resource Sharing"
       suburl: "/services/resource-sharing"
-    - title: "Coordinated Collection Development Aid"
-      suburl: "/services/ccda"
+    - title: "Special Interest Groups"
+      suburl: "/projects/sigs"
 
 - title: 'Location'
   url: '/location'
