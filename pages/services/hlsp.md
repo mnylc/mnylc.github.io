@@ -25,7 +25,8 @@ Each year, METRO receives funding to support technology needs in hospital librar
 
 The application period and guidelines are announced each fall. Applications are reviewed by an ad-hoc committee drawn from the HLSP Advisory Council. 
 
-##Medical Information Service Program Grants##
+## Medical Information Service Program Grants
+
 Medical Information Service Program grants are available to subsidize costs associated with interlibrary loans involving medical and health related materials. Grants are available to medical or hospital libraries, though other libraries may also be eligible to have the cost of its health-related interlibrary loans subsidized if the National Library of Medicine (NLM) or a Document Delivery Providers (DDP's) provided them. Grant funding is based, in part, on Docline interlibrary loan statistics.
 
 ## Our Members
