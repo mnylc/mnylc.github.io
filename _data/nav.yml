@@ -7,6 +7,8 @@
       suburl: "/services/digital-services"
     - title: "Hospital Library Services Program"
       suburl: "/services/hlsp"
+    - title: "Hosting Services"
+      suburl: "/services/hostingservices"
     - title: "Resource Sharing"
       suburl: "/services/resource-sharing"
     - title: "Special Interest Groups"
