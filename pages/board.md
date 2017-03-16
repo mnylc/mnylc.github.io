@@ -46,6 +46,11 @@ School of Media Studies
 The New School  
 2015-2018  
 
+**Christopher Platt**  
+Vice President of Library Services  
+The New York Public Library  
+2015-2021  
+
 **Lisa G. Rosenblum**  
 Chief Librarian  
 Brooklyn Public Library  
@@ -56,15 +61,6 @@ Data & Society Research Fellow
 President and Founder at Electronic Resources and Libraries.  
 2015-2018  
 
-**Kelvin Watson**  
-Chief Innovation & Technology Officer  
-Queens Library  
-2015-2019  
-
-**Louis Zacharilla**  
-Co-Founder, Intelligent Community Forum (ICF)  
-2012-2015  
- 
 **Nate Hill**  
 Executive Director  
 Metropolitan New York Library Council (METRO)
