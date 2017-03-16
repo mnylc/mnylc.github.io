@@ -11,7 +11,7 @@ We are committed to providing a welcoming and productive environment for all. Pl
 
 Please reach out to us with any event-related questions you might have. Our email address is events [at] metro [dot] org, and our phone number is (212) 228-2320.
 
-{% if site.data.events.events.length > 0 %}
+{% if site.data.events.events.size > 0 %}
 <ol class="posts">
 {% for e in site.data.events.events %}
 <li>
