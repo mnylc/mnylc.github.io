@@ -2,13 +2,23 @@ html {
     font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+header > div.container-fluid {
+    padding-top: 15%;
+    padding-bottom: 20%;
+}
+
+header.intro-text {
+    padding-top:50px;
+    padding-bottom: 60px;
+}
+
 .post-date {
     font-style: italic;
 }
 
 .projects {
-  padding-top: 70px;
-  padding-bottom: 70px;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
 
 .navbar-shrink .nav li a {
