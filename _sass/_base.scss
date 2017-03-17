@@ -4,12 +4,12 @@ html {
 
 header > div.container-fluid {
     padding-top: 15%;
-    padding-bottom: 20%;
+    padding-bottom: 15%;
 }
 
-header.intro-text {
-    padding-top:25%;
-    padding-bottom: 40%;
+header .intro-text {
+    padding-top:10%;
+    padding-bottom: 10%;
 }
 
 .post-date {
@@ -61,6 +61,10 @@ a.anchor {
 .carousel-caption > a {
     color: #990099;
     text-shadow: none;
+}
+
+div.portfolio-caption {
+    background-image: url("../img/concrete_seamless.png");
 }
 
 .portfolio-caption > a {
