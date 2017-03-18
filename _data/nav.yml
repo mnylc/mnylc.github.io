@@ -28,3 +28,6 @@
   
 - title: 'Join'
   url: '/join'
+  
+- title: 'About'
+  url: '/about'

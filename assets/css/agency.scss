@@ -7,7 +7,6 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-// $primary-color: #fed136;
 
 @import "variables";
 
@@ -17,6 +16,7 @@ body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #333;
+    background-color: #F0F8FF;
 }
 
 .text-muted {
@@ -45,7 +45,7 @@ a.active {
 }
 
 a {
-    color: $primary-color;
+    color: $secondary-color;
 }
 
 a:hover,
@@ -183,13 +183,14 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     color: #fff; //$primary-color;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #fff; //$link-hover-color;
+    color: $primary-color; //$link-hover-color;
 }
 
 .navbar-default .navbar-collapse {
@@ -205,6 +206,10 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
+.navbar-default .navbar-toggle .navbar-brand {
+    color: #fff;
+}
+
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
     background-color: $primary-color;
@@ -215,7 +220,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: $primary-color;
+    color: #fff;
 }
 
 .navbar-shrink .nav li a {
@@ -236,18 +241,18 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
+    color: $primary-color;
     background-color: $link-hover-color;
 }
 
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
-        border: 0;
-        background-color: transparent;
+        background-color: rgba(0, 0, 0, 0.8);
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
+        border-bottom: 4px solid #ff0080;
     }
 
     .navbar-default .navbar-brand {
@@ -268,6 +273,11 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
+        color: #FFF;
+    }
+
+    .navbar-default.navbar-shrink .nav li a {
+        color: #FFF;
     }
 }
 
@@ -285,15 +295,15 @@ header {
 }
 
 header .intro-text {
-    background-color: rgba(0, 0, 0, 0.65);
-    margin-top: 150px;
     margin-bottom: 50px;
-    padding: 2em;
+    margin-right: 10%;
+    margin-left: 10%;
+    color: #000;
 }
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Baloo Bhaina', cursive;
     font-size: 22px;
     //font-style: italic;
     line-height: 22px;
@@ -310,14 +320,14 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 100px;
-        padding-bottom: 50px;
+        padding-top: 20px;
+        padding-bottom: 15px;
     }
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 32px;
+        font-family: 'Baloo Bhaina', cursive;
+        font-size: 45px;
         //font-style: italic;
         line-height: 40px;
     }
@@ -385,7 +395,10 @@ section h3.section-subheading {
     padding: 25px;
     max-width: 400px;
     text-align: center;
-    background-color: #fff;
+    background-image: url(../img/concrete_seamless.png);
+    -webkit-box-shadow: 2px 2px 4px 0px #ccc; 
+    -moz-box-shadow:    2px 2px 4px 0px #ccc; 
+    box-shadow:         2px 2px 4px 0px #ccc;
 }
 
 .portfolio-caption h4 {
@@ -489,12 +502,12 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: $primary-color;
+    background: #e3e3e3;
 }
 
 ::selection {
     text-shadow: none;
-    background: $primary-color;
+    background: #e3e3e3;
 }
 
 img::selection {
