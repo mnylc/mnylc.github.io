@@ -292,6 +292,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+
 }
 
 header .intro-text {
@@ -303,9 +304,8 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: 'Baloo Bhaina', cursive;
+     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
-    //font-style: italic;
     line-height: 22px;
 }
 
@@ -314,7 +314,7 @@ header .intro-text .intro-heading {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 50px;
-    font-weight: 700;
+    //font-weight: 700;
     line-height: 50px;
 }
 
@@ -326,8 +326,8 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: 'Baloo Bhaina', cursive;
-        font-size: 45px;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 36px;
         //font-style: italic;
         line-height: 40px;
     }
