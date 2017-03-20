@@ -28,4 +28,4 @@ We hope you will consider presenting at our conference too! Submit a proposal by
  ** We welcome a broad range of voices and ideas at this year's conference. Please describe how your proposal helps to welcome new or underrepresented ideas or perspectives regarding our profession.
 * Twitter handle (optional)
 
-Any questions? Email Davis Erin Anderson at deanderson [at] metro [dot] org.
+Any questions? Email Davis Erin Anderson at [deanderson@metro.org](mailto:deanderson@metro.org).

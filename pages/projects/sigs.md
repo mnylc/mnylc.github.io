@@ -3,25 +3,24 @@ title: Special Interest Groups
 permalink: /projects/sigs/
 ---
 METRO is proud to support the work of our members through Special Interest Groups. Each group is convened by leaders in our field around a topic of interest to our wider community.
-We currently host the following groups:
 
-## Bibliographic Instruction ##
-[https://sites.google.com/a/metro.org/bisig/](https://sites.google.com/a/metro.org/bisig/)
+## Bibliographic Instruction in Libraries ##
+[https://www.meetup.com/Bibliographic-Instruction-in-Libraries/](https://www.meetup.com/Bibliographic-Instruction-in-Libraries/)
 
-Helen Lane, Convener
+Linda Miles, Organizer
 
 The Bibliographic Instruction Special Interest Group (SIG) is composed of individuals interested in various aspects of library instruction. Meetings throughout the year cover a wide range of instruction topics and offer important opportunities for networking and information sharing. The SIG also provides professional development opportunities through group discussion, and presentations by group members, vendors and others. Topics targeted for future meetings include instruction for targeted groups, distance learning and bibliographic instruction, developing assessment tools, and planning for the future needs of bibliographic instruction.
 
 ## Circulation & Reserves ##
-[https://sites.google.com/a/metro.org/circ-and-reserves/](https://sites.google.com/a/metro.org/circ-and-reserves/)
+[https://www.meetup.com/Circulation-Reserves-in-Libraries/](https://www.meetup.com/Circulation-Reserves-in-Libraries/)
 
-Monique Prince and Deborah Caesar, Conveners
+Monique Prince and Deborah Caesar, Co-organizer
 
 The Circulation & Reserves Special Interest Group brings together individuals interested in discussing issues of shared concern. Possible topics for discussion include managing student and part-time workers, circulation and reserve software, fines and fees, policies, workflow, stacks maintenance, technology loans, assessment, and best practices.
 
 
 ## Code4LibNYC ##
-[https://sites.google.com/a/metro.org/code4libnyc/](https://sites.google.com/a/metro.org/code4libnyc/)
+[https://www.meetup.com/code4libnyc/](https://www.meetup.com/code4libnyc/)
 
 Stephen Klein, Convener
 
@@ -29,7 +28,7 @@ Open to all library staff interested in the coding, deployment, and design of li
 
 
 ## Collective Access User Group ##
-[https://sites.google.com/a/metro.org/collectiveaccess-user-group/](https://sites.google.com/a/metro.org/collectiveaccess-user-group/)
+[https://www.meetup.com/CollectiveAccess-User-Group/](https://www.meetup.com/CollectiveAccess-User-Group/)
 
 Robin Camille Davis, Convener
 
@@ -37,7 +36,7 @@ The CollectiveAccess User Group at METRO was created in 2014. This group meets a
 
 
 ## Economic & Business Librarians ##
-[https://sites.google.com/a/metro.org/metro-s-economics-and-business-special-interest-group/](https://sites.google.com/a/metro.org/metro-s-economics-and-business-special-interest-group/)
+[https://www.meetup.com/Economics-Business-Librarians-Group/](https://www.meetup.com/Economics-Business-Librarians-Group/)
 
 Lucy Heckman and John Balow, Conveners
 
@@ -55,28 +54,29 @@ Through conversation, this SIG will work to ease students’ transition between 
 
 
 ## Interlibrary Loan SIG ##
-[https://sites.google.com/a/metro.org/ill/](https://sites.google.com/a/metro.org/ill/)
+[https://www.meetup.com/Interlibrary-Loan-Interest-Group/](https://www.meetup.com/Interlibrary-Loan-Interest-Group/)
 
 Beth Posner and Emma Raub, Conveners
 
 The Interlibrary Loan (ILL) Special Interest Group (SIG) is composed of individuals involved in strengthening local information resource sharing though interlibrary loan services, document delivery, etc. The group focuses on issues of common interest, such as OCLC, management software systems like ILLiad and CLIO, policies and procedures, technology, best practices, etc.
 
 
+## Librarians for College Readiness ##
+
+[https://www.meetup.com/Librarians-for-College-Readiness/](https://www.meetup.com/Librarians-for-College-Readiness/)
+
+Marifran DeMaine, Organizer
+
+This group provides an opportunity for high school and college librarians to share their experiences. The group will help high school librarians prepare students for college. Academic librarians will gain a better idea of where students are coming from and how they can help.
+
+Through conversation, this SIG will work to ease students’ transition between high school and college. Topics of discussion and presentations include college readiness, the first year college experience, and enhancing critical thinking. Librarians from public and independent schools, college, and universities, as well as support staff, are welcome.
+
 ## Library Assistants and Support Staff ##
 [https://sites.google.com/a/metro.org/lassa/](https://sites.google.com/a/metro.org/lassa/)
 
-Rita Gregory and Mildred Graham, Conveners
+Rita Gregory and Mildred Graham, Co-organizers
 
 The mission of the LASSA SIG is to foster the recognition and support of the professional contributions of all library assistants, support staff and associates through the circulation of information, the availability of education, and constructive dialogue within the library community.
-
-
-## OPEN SIG ##
-[https://sites.google.com/a/metro.org/opensig/](https://sites.google.com/a/metro.org/opensig/)
-
-Kathy Shaughnessy and Gina Robinson, Conveners
-
-Libraries are often the only place that patrons can get access to important proprietary software and resources; however, lifelong information and technology literacy entails being able to apply “library-acquired skills” across work, home, educational, recreational, and civic environments, within ever-changing budget constraints. This SIG welcomes all librarians and information professionals who would like to find/use/share Free & Open Source Software (FOSS) and Open Access (OA) resources, and who are interested in promoting an “open“ resource ecology.
-
 
 ## Outreach and Advocacy ##
 [https://sites.google.com/a/metro.org/oasig/](https://sites.google.com/a/metro.org/oasig/)
@@ -94,41 +94,33 @@ Caroline Fuchs and Michael Handis, Conveners
 To best serve today's patrons, librarians need a broad understanding of the wide spectrum of the arts and popular culture that are of interest to our users. From gaming to comics to cosplay to streaming video, librarians are becoming both advocates of and experts in these non-traditional collections. The Pop Culture SIG aims to engage librarians in a dialogue on the wide range of cultural productions and practices that are redefining library collections and the resulting changes in practice in librarianship. We welcome librarians from all types of libraries to join the discussion.
 
 
-## Reference ##
-[https://sites.google.com/a/metro.org/refsig/](https://sites.google.com/a/metro.org/refsig/)
+## Reference Librarians Interest Group ##
+[https://www.meetup.com/Reference-Librarians-Interest-Group/](https://www.meetup.com/Reference-Librarians-Interest-Group/)
 
-Kate Adler and Shawn(ta) Smith-Cruz, Conveners
+Kate Adler and Shawn(ta) Smith-Cruz, Co-organizers
 
 The Reference Special Interest Group is connects librarians interested in the issues related to the provision of reference services, including the similarities and differences between "reference" and "virtual reference." Our SIG meets quarterly at the offices of METRO to hold informal discussions on issues of our choosing.
 
 
 ## Science, Technology, Medical Librarians ##
-[https://sites.google.com/a/metro.org/stmsig/](https://sites.google.com/a/metro.org/stmsig/)
+[https://www.meetup.com/stmlibrarians/](https://www.meetup.com/stmlibrarians/)
 
-Bruce Slutsky, Convener
+Bruce Slutsky, Organizer
 
 The Special Interest Group (SIG) for Science, Technology and Medical Librarians is composed of individuals from libraries with substantial collections in the physical, life or natural sciences. Through meetings and other events, members work to identify and develop effectives strategies to promote the interests of professionals working in this area and their library organizations.
 
 
-## Social Justice ##
-[https://sites.google.com/a/metro.org/sjsig/](https://sites.google.com/a/metro.org/sjsig/)
+## Social Justice, Libraries, and Archives  ##
+[https://www.meetup.com/Social-Justice-Libraries-Archives/](https://www.meetup.com/Social-Justice-Libraries-Archives/)
 
-Melissa Morrone and Cynthia Tobar, Conveners
+Melissa Morrone and Cynthia Tobar, Co-organizers
 
 The Social Justice Special Interest Group welcomes all librarians, archivists, and other information professionals who are interested in activities on community-centered activism, social movements, and outreach. Through meetings, presentations, discussion groups, and other events, we will reflect on and rethink the intersections of libraries and archives with social justice struggles. Some questions we will explore include: How do the ways we preserve, analyze, document and mobilize our collections, instruction, and services connect with the work of community activists in their fights for racial, economic, and gender justice? What does it mean to have a commitment to social justice in our profession and practice? How does librarianship embrace, challenge, or hinder various forms of access to information, documentation, and archives?
 
 
 ## User Experience (UX) ##
-[https://sites.google.com/a/metro.org/uxsig/](https://sites.google.com/a/metro.org/uxsig/)
+[https://www.meetup.com/UX-in-Libraries/](https://www.meetup.com/UX-in-Libraries/)
 
 Lisa Chow and Sandra Sajonas, Conveners
 
 If you're interested in the usability and user experience of libraries, the UX SIG is for you! Support our SIG for opportunities to collaborate on user experience projects, share ideas and resources, and to give and receive support and advice.
-
-
-## Web Archiving SIG ##
-[https://sites.google.com/a/metro.org/webarchivingsig/](https://sites.google.com/a/metro.org/webarchivingsig/)
-
-Sumitra Duncan and Alex Thurman, Conveners
-
-The Web Archiving Special Interest Group is an inclusive group designed to facilitate growth in the communities forming around initiatives to preserve websites and other online resources. We seek to support professionals in libraries, archives and museums engaged in web archiving, as well as students and others new to the field. With meetings and presentations held throughout the year we will provide a venue for professional development and a forum for open discussion of common interest.

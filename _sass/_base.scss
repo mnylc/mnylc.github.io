@@ -1,8 +1,112 @@
+html {
+    font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header > div.container-fluid {
+    padding-top: 10%;
+    padding-bottom: 15%;
+}
+
+header .intro-lead-in {
+    /* padding-top:5%; */
+    /* padding-bottom: 5%; */
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
 .post-date {
-  font-style: italic;
+    font-style: italic;
 }
 
 .projects {
-  padding-top: 70px;
-  padding-bottom: 70px;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
+
+.navbar-shrink .nav li a {
+    color: #990099;
+}
+
+.navbar-shrink .nav li ul.dropdown-menu a:hover {
+    color: #560056;
+}
+
+// Class
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#metro_carousel {
+    margin-top: 4px;
+    height: 420px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.item {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 325px;
+}
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden;
+}
+
+.carousel-caption > a{
+    color: $primary-color;
+        text-shadow: none;
+}
+
+.carousel-caption h2{
+    letter-spacing: 0.1em;
+    background-color: #000;
+    padding:8px;
+    position:relative;
+    top:180px;
+    font-weight: normal;
+}
+
+.carousel-caption p {
+    color: #fff;
+}
+
+div.portfolio-caption {
+    background-image: url("../img/concrete_seamless.png");
+}
+
+.portfolio-caption > a {
+    color: #0107a5;
+}
+
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    display:block;
+    min-height:300px;
+    border:2px solid #000;
+    height: inherit;
+}
+
+
+
+.dropdown-menu{
+    background-color: #000;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image:none;
+}
+
+
+
+

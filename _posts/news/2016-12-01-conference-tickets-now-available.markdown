@@ -101,4 +101,4 @@ Space in the City: Moving an Archive in Manhattan
 Afternoon Keynote
   * Jeff Goldenson, Library Director at Olin College
 
-Details about the HLSP plenary session will be announced in coming weeks. Questions about this year’s event can be addressed to Davis Erin Anderson at deanderson [at] metro [dot] org.
+Details about the HLSP plenary session will be announced in coming weeks. Questions about this year’s event can be addressed to Davis Erin Anderson at [deanderson@metro.org](mailto:deanderson@metro.org).

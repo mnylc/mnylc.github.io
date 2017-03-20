@@ -9,7 +9,9 @@ We look forward to seeing you at 599, the new home of the Metropolitan New York 
 
 We are committed to providing a welcoming and productive environment for all. Please check out our [Code of Conduct]({{ "/code-of-conduct/" | prepend: site.baseurl }}) for more information.
 
-Please reach out to us with any event-related questions you might have. Our email address is events [at] metro [dot] org, and our phone number is (212) 228-2320.
+Please reach out to us with any event-related questions you might have. Our email address is [events@metro.org](mailto:events@metro.org), and our phone number is (212) 228-2320.
+
+{% if site.data.events.events.size > 0 %}
 <ol class="posts">
 {% for e in site.data.events.events %}
 <li>
@@ -26,3 +28,31 @@ Please reach out to us with any event-related questions you might have. Our emai
 	</li>
 {% endfor %}
 </ol>
+{% else %}
+
+## No events are scheduled at this time. Please check back soon. ##
+
+{% endif %}
+
+
+## Payment Policy ##
+We accept payment by credit card or by invoice. Please note that we do not accept cash payment, on site or otherwise. 
+
+## Workshop Cancellation Policy ##
+METRO reserves the right to cancel any workshop or to substitute instructors. In the event of a cancellation, postponement, or substitution, registrants will be notified in advance (if possible) via email and may receive a full refund of the registration fee.
+
+## Participant Cancellation Policy ##
+All registration cancellations must be submitted in writing to events@metro.org.
+
+In order to receive a refund, we must receive your cancellation email at least 24 hours prior to the event start time.
+If METRO does not receive your cancellation email before that deadline, an invoice will be sent to recoup any unpaid fees. 
+
+If you are unable to attend a workshop, you may choose to send another person in your place without penalty. If possible, we request that you notify us in advance.
+ 
+Refunds are provided by credit card or check and will be processed within about four weeks.
+
+## Private Space ##
+METRO will make private space available to nursing mothers upon request. Please contact us at [events@metro.org](mailto:events@metro.org) to make a reservation.
+
+## Contact Information ##
+Please contact our events staff by email to [events@metro.org](mailto:events@metro.org) with any additional questions or inquiries.

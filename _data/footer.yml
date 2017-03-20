@@ -1,5 +1,3 @@
-- title: 'About'
-  url: '/about'
 - title: 'Board'
   url: '/board'
 - title: 'Contact'
@@ -10,4 +8,8 @@
   url: '/space-rental'
 - title: 'Code of Conduct'
   url: '/code-of-conduct'
+- title: 'Member Directory'
+  url: '/assets/docs/Spring_2016_Member_Directory_and_Delivery_Roster.pdf'
+
+
 

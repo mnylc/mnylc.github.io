@@ -55,6 +55,7 @@ Before joining METRO in 2012, she worked for six years at the University of Mich
 
 ## Susan Klimley
 **Hospital Library Services Manager**
+
 As HLSP Manager, Susan supports METRO in developing, enhancing, and improving the delivery of health-care information between member libraries and healthcare professionals in the region. Susan has significant experience working in health sciences libraries, including work as Director of Health Science Library at Elmhurst Hospital in Queens, and more recently managing electronic resources at the Health Sciences Library of Columbia University. Susan’s work in hospital and health sciences libraries informs her desire to support librarians that strive to meet the information demands of health professionals. Susan holds an MLS from Simmons College.
 
 ## John Mignault
@@ -72,6 +73,15 @@ John worked in corporate development for a number of years for such companies as
 Shelly facilitates the accounting, finance, and human resources functions at METRO. She manages membership dues and workshop fees as well.
 
 Prior to joining METRO, for the past six years, Shelly was an Audit Senior who specialized in non-profit organizations at O’Connor Davies, LLP, a mid-sized accounting and consulting firm based in the New York tri-state area. Shelly obtained a B.S in Accounting from St. Francis College.
+
+## Diego Pino Navarro
+**Repository Developer**
+
+Diego is a pet and human-friendly systems architect and open source software developer from Chile. He enjoys working on Linked Data and Web Semantics, exploring ways of describing and preserving human knowledge, helping others to implement open source digital repository solutions and solving interdisciplinary problems via computer science. 
+
+At METRO, Diego develops and manages our Digital Objects Repository ecosystem, coding and integrating ideas for Islandora and Fedora. He also tries to facilitates this work by providing tools and software solutions for everyday needs. 
+
+Diego is an active Fedora 4 contributor, Islandora and CLAW Committer and recently also Release Manager, being part of the release team for the last few years and maintaining several core modules. When not developing or walking dogs, he likes to build LEGOs, make Wood toys and do hobby research on reef ecosystems.
 
 ## Margo Padilla
 **Strategic Programs Manager**
@@ -94,15 +104,6 @@ Mark is one of our longest-serving staff members, having started at METRO in 200
 Madjalia assists the controller in facilitating accounting, finance, and human resources functions at METRO. She manages operational data, maintains data accuracy, and assists in special projects.
 
 Prior to joining METRO, Madjalia was an Assistant Controller at MOF Microcredit, a partnership company based in Burkina Faso. Madjalia obtained a B.S in Economics and Management from the University of Ouagadougou. She is currently pursuing an MS in Accounting at St. Johns University and preparing for the CPA Exam.
-
-## Chris Stanton
-**Metadata Specialist, Empire State Digital Network**
-
-Chris facilitates the harvesting and ingestion of metadata records from libraries, archives and cultural heritage institutions throughout New York State into the Empire State Digital Network (ESDN) repository for contribution to the Digital Public Library of America (DPLA).
-
-Chris also works on METRO's hosted digital collection service, Digital Culture of Metropolitan New York (dcmny.org), where he is primarily responsible for metadata creation and facilitating the ingest of partner content into the repository.
-
-Prior to joining METRO in 2014, Chris worked for four years as a Collection Description Librarian at the National Library of New Zealand (NLNZ). While in New Zealand, he was involved in the successful implementation of RDA at the National Library and was also a member of the libraries’ BibFrame Working Group. Prior to joining the NLNZ, he worked for two years at the OCLC Office of Research where he was responsible for supporting the F.A.S.T. (Faceted Application of Subject Terminology) project. Chris holds an M.L.I.S. from Kent State University and a B.A. in History from Miami University.
 
 ## Kerri Willette
 **Deputy Director**

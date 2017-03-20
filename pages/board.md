@@ -46,6 +46,11 @@ School of Media Studies
 The New School  
 2015-2018  
 
+**Christopher Platt**  
+Vice President of Library Services  
+The New York Public Library  
+2015-2021  
+
 **Lisa G. Rosenblum**  
 Chief Librarian  
 Brooklyn Public Library  
@@ -56,15 +61,135 @@ Data & Society Research Fellow
 President and Founder at Electronic Resources and Libraries.  
 2015-2018  
 
-**Kelvin Watson**  
-Chief Innovation & Technology Officer  
-Queens Library  
-2015-2019  
-
-**Louis Zacharilla**  
-Co-Founder, Intelligent Community Forum (ICF)  
-2012-2015  
- 
 **Nate Hill**  
 Executive Director  
-Metropolitan New York Library Council (METRO)  
+Metropolitan New York Library Council (METRO)
+
+## 2017 Meeting Dates
+
+* Monday, February 27, 2017 (virtual)
+* Thursday, April 27, 2017
+* Friday, June 30, 2017
+* Thursday, September 7, 2017
+* Monday, November 6, 2017
+* Monday, December 11, 2017 (virtual)
+
+All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
+
+## Board Meeting Agendas & Minutes  
+
+**December 8, 2016**
+
+* [Agenda](12.8.2016_Board_Agenda.pdf)  
+* Minutes (pending)  
+
+**September 15, 2016**
+
+* [Agenda]({{ "/assets/board/09.15.2016BoardAgenda.docx.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/09.15.2016BoardMinutes.docx_EpbLtDa.pdf" | prepend: site.baseurl }})
+
+**September 9, 2016**
+
+* [Agenda]({{ "/assets/board/09.09.2016BoardAgenda.docx.pdf" | prepend: site.baseurl}})
+* [Minutes]({{ "/assets/board/09.09.2016BoardMinutes.docx.pdf" | prepend: site.baseurl}})
+
+**May 23, 2016**
+
+* [Agenda]({{ "/assets/board/Agenda_05-23-2016.pdf" | prepend: site.baseurl}})
+* [Minutes]({{ "/assets/board/05.23.2016BoardMinutes.docx.pdf" | prepend: site.baseurl}})
+
+**February 22, 2016**
+
+* [Agenda]({{ "/assets/board/02.22.2016___Board_Agenda.pdf" | prepend: site.baseurl}})
+* [Minutes]({{ "/assets/board/02.22.2016BoardMinutes.pdf" | prepend: site.baseurl}})
+
+**December 4, 2015**
+
+* [Agenda]({{ "/assets/board/12.04.2015___Board_Agenda_g8NIpq8.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/12.04.2015___Board_Minutes_pmM3K9N.pdf" | prepend: site.baseurl }})
+
+**September 3, 2015**
+
+* [Agenda]({{ "/assets/board/09.03.2015___Board_Agenda.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/09.03.2015-BoardMinutes.pdf" | prepend: site.baseurl }})
+
+**May 28, 2015**
+
+* [Agenda]({{ "/assets/board/05.28.2015___Board_Agenda_L7vyDjE.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/05.23.2016BoardMinutes.docx.pdf" | prepend: site.baseurl }})
+
+**February 17, 2015**
+
+* [Agenda]({{ "/assets/board/02.17.2015___Board_Agenda.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/02.17.2015___Board_Minutes.pd" | prepend: site.baseurl }})
+
+**November 17, 2014**
+
+* [Agenda]({{ "/assets/board/11.17.2014___Board_Agenda.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/11.17.2014___Board_Minutes.pdf" | prepend: site.baseurl }})
+
+**September 9, 2014**
+
+* [Agenda]({{ "/assets/board/09.09.2014___Board_Agenda.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/09.09.2014___Board_Minutes_.pdf" | prepend: site.baseurl }})
+
+**May 12, 2014**
+
+* [Agenda]({{ "/assets/board/05.12.2014___Board_Agenda.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/05.12.2014___Board_Minutes.pdf" | prepend: site.baseurl }})
+
+**February 10, 2014**
+
+* [Minutes]({{ "/assets/board/02.10.2014___Board_Minutes.pdf" | prepend: site.baseurl }})
+
+**November 14, 2013**
+
+* [Agenda]({{ "/assets/board/11.14.2013___Board_Agenda.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/11.14.2013___Board_Minutes.pdf" | prepend: site.baseurl }})
+
+**September 10, 2013**
+
+* [Minutes]({{ "/assets/board/09.10.2013___Board_Minutes.pd" | prepend: site.baseurl }})
+
+**May 10, 2013**
+
+* [Minutes]({{ "/assets/board/METROBoardMinutes20130510.pdf" | prepend: site.baseurl }})
+
+**January 22, 2013**
+
+* [Minutes]({{ "/assets/board/BoardofTrusteesMeetingMinutes20130122.pdf" | prepend: site.baseurl }})
+
+**September 7, 2012**
+
+* [Minutes]({{ "/assets/board/Board_Minutes_20120907_Final.pdf" | prepend: site.baseurl }})
+
+**May 7, 2012**
+
+* [Agenda]({{ "/assets/board/05.07.2012___Board_Agenda_.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/05.07.2012___Board_Minutes.pd" | prepend: site.baseurl }})
+
+**February 10, 2012**
+
+* [Minutes]({{ "/assets/board/BoardMinutes_Final_20120210.pdf" | prepend: site.baseurl }})
+
+**November 10, 2011**
+
+* [Agenda]({{ "/assets/board/11.10.2011_Agenda.pd" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/11.10.2011___Board_Minutes.doc.pdf" | prepend: site.baseurl }})
+
+**September 8, 2011**
+
+* [Agenda]({{ "/assets/board/09.08.11_Agenda.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/BoardMinutes_Final_090811.pdf" | prepend: site.baseurl }})
+
+**May 12, 2011**
+
+* [Agenda]({{ "/assets/board/05-12-2011_Agenda_uAPvn7L.pdf" | prepend: site.baseurl }})
+
+**March 15, 2011**
+
+* [Minutes]({{ "/assets/board/03.15.2011_Minutes_dkDKmQI.pdf" | prepend: site.baseurl }})
+
+**September 20, 2010**
+
+* [Minutes]({{ "/assets/board/09.20.2010_Minutes_7Hhg3Pb.pdf" | prepend: site.baseurl }})

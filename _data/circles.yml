@@ -1,15 +1,15 @@
 - title: METRO fellows blog
   url: 'http://metro.org/fellows'
   icon: 'book'
-  img:
-  description: 'The METRO Fellows are blogging about their experiences.'
-- title: Digital Privacy course
+  img: '/assets/img/bytegeist.png'
+  description: 'The latest news about fellowship projects'
+- title: Digital Privacy Courses
   url: 'http://www.eventbrite.com/e/digital-privacy-hands-on-tactics-and-tools-tickets-27682960480?aff=ebapi'
   icon: 'map-marker'
-  img:
-  description: 'Learn about digital privacy tools in this METRO course.'
-- title: CIT Toolkit
+  img: '/assets/img/privacy-slide.png'
+  description: 'Learn about digital privacy tools in this new METRO course.'
+- title: Digitization Toolkit
   url: 'http://metro.org/cit-toolkit'
   icon: 'calendar'
-  img:
+  img: '/assets/img/slide-one.png'
   description: 'The Culture in Transit team provide a great new site rich with digitization resources.'
