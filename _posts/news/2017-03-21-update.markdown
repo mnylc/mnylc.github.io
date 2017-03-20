@@ -7,3 +7,15 @@ date:   2017-03-21
 METRO’s relocation reached a milestone when staff moved in to 599 last month. After working remotely since our location at 11th street was closed, returning to a typical schedule complete with a commute has been a welcome change of pace.
 
 We’re now rounding out our plans to build out our kitchen area, as well as furnishing our event spaces and our new lab. We look forward to welcoming our members to 599 in the coming months.  
+
+![Moving in.]({{ "/assets/img/news/20170321_moving.jpg" | prepend: site.baseurl }})
+
+![Moving in.]({{ "/assets/img/news/20170321_moving3.jpg" | prepend: site.baseurl }})
+
+![Shelly's office.]({{ "/assets/img/news/20170321_shelly.jpg" | prepend: site.baseurl }})
+
+![Staff space.]({{ "/assets/img/news/20170321_workspace.jpg" | prepend: site.baseurl }})
+
+![Conference room.]({{ "/assets/img/news/20170321_conferenceroom.jpg" | prepend: site.baseurl }})
+
+![Event space.]({{ "/assets/img/news/20170321_eventspace.jpg" | prepend: site.baseurl }})
