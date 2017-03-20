@@ -23,7 +23,7 @@ Please contact us if you have further questions.
 [Back to top](#top)
 
 ## <a class="anchor" name="esdn"></a>Data Services
-Empire State Digital Network is the first service hub to be created explicitly as a means for sharing New York’s rich digital cultural heritage with the Digital Public Library of America (DPLA). The Network will be administered by the Metropolitan New York Library Council (METRO) in collaboration with eight allied regional library councils collectively working as NY3Rs Association. For more information, please visit the [ESDN website.](http://empirestate.digital)
+([Empire State Digital Network](http://search-app-dev.us-west-2.elasticbeanstalk.com/)) is the first service hub to be created explicitly as a means for sharing New York’s rich digital cultural heritage with the Digital Public Library of America (DPLA). The Network will be administered by the Metropolitan New York Library Council (METRO) in collaboration with eight allied regional library councils collectively working as NY3Rs Association.
 
 [Back to top](#top)
 
