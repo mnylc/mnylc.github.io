@@ -1,74 +1,11 @@
 ---
 pagination:
-  object_count: 3
+  object_count: 2
   page_number: 1
   page_size: 50
   page_count: 1
   continuation: eyJwYWdlIjogMn0
 events:
-- name:
-    text: Race Matters Un-conference Debrief
-    html: Race Matters Un-conference Debrief
-  description:
-    text: Let's chat about the Race Matter Un-conference. What did we learn, what
-      could have gone better, and what we might consider doing differently next time
-      around.
-    html: "<P>Let's chat about the Race Matter Un-conference. What did we learn, what
-      could have gone better, and what we might consider doing differently next time
-      around.</P>"
-  id: '32897785161'
-  url: https://www.eventbrite.com/e/race-matters-un-conference-debrief-tickets-32897785161?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-03-17T10:00:00'
-    utc: '2017-03-17T14:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2017-03-17T11:30:00'
-    utc: '2017-03-17T15:30:00Z'
-  created: '2017-03-15T19:06:27Z'
-  changed: '2017-03-15T22:06:47Z'
-  capacity: 12
-  capacity_is_custom: true
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  is_free: true
-  logo_id: '29356826'
-  organizer_id: '8929654067'
-  venue_id: '18667212'
-  category_id: 
-  subcategory_id: 
-  format_id: 
-  resource_uri: https://www.eventbriteapi.com/v3/events/32897785161/
-  logo:
-    crop_mask:
-      top_left:
-        x: 0
-        y: 119
-      width: 1024
-      height: 512
-    original:
-      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29356826%2F160412581493%2F1%2Foriginal.jpg?s=80e958ae5e422f422bd28e6f652b2afe
-      width: 1024
-      height: 682
-    id: '29356826'
-    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29356826%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C119%2C1024%2C512&s=0c4d04ead5c173d9fcf8330dd6f4a4c4
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
 - name:
     text: 19th Annual Library Assistants' Day Celebration
     html: 19th Annual Library Assistants&#39; Day Celebration
