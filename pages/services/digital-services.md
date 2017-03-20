@@ -2,29 +2,32 @@
 title: Digital Services
 permalink: /services/digital-services
 ---
-[Digital Culture of Metropolitan New York](#dcmny)
+[Hosting Services](#dcmny)
 
-[Empire State Digital Network](#esdn)
+[Data Services](#esdn)
 
-[Culture in Transit](#cit)
+[Imaging and Digitization Services](#cit)
 
 [Digitization Grant Program](#digi_grants)
 
 [Funded Projects](#projects)
 
-Digital Services represent a major focus of our work at METRO, in large part through the METRO Digitization Grant Program, which has helped fund the creation of over 70 digital collections over the last 10 years. 
+## <a class="anchor" name="dcmny"></a>Hosting Services 
 
-## <a class="anchor" name="dcmny"></a>Digital Culture of Metropolitan New York 
-Digital Culture of Metropolitan New York ([DCMNY](http://dcmny.org)) provides online access to the digital collections of libraries, archives, museums and historical societies located in and around New York City. It is intended to serve as a digital collection hosting service for METRO member institutions, as well as an on-ramp to the Digital Public Library of America ([DPLA](http://dp.la)). For more information, please contact Anne Karle-Zenith at annekz [at] metro [dot] org.
+METRO works with our member organizations to develop digital asset management solutions that fit almost any use case. With our baseline solution, all of your digital assets are made available as part of a shared repository called the Digital Culture of Metropolitan New York, or ([DCMNY](http://dcmny.org)). DCMNY currently provides access to dozens of METRO members’ digital collections. In addition, DCMNY is an easy on-ramp to the DPLA, meaning the content is discoverable in this greater national context as well.
+
+METRO uses ([Islandora](https://islandora.ca/)), an open-source software configuration that uses Drupal, Solr, and Fedora. Islandora is designed to help institutions and organizations and their audiences collaboratively manage and discover digital assets using a best-practices framework. In addition to our baseline solution, we can also design a customized service plan based on your organization’s resources and needs. METRO never writes any proprietary or hidden code, and we always give you full access to your own system.
+
+Please contact us if you have further questions.
 
 [Back to top](#top)
 
-## <a class="anchor" name="esdn"></a>Empire State Digital Network
+## <a class="anchor" name="esdn"></a>Data Services
 Empire State Digital Network is the first service hub to be created explicitly as a means for sharing New York’s rich digital cultural heritage with the Digital Public Library of America (DPLA). The Network will be administered by the Metropolitan New York Library Council (METRO) in collaboration with eight allied regional library councils collectively working as NY3Rs Association. For more information, please visit the [ESDN website.](http://empirestate.digital)
 
 [Back to top](#top)
 
-## <a class="anchor" name="cit"></a>Culture In Transit
+## <a class="anchor" name="cit"></a>Digitization Services
 While libraries, archives, and partners such as Internet Archive and Google have digitized and made billions of resources available online over the past decades, there is still a long trail of documents, newsletters, photographs, and other materials in the hands of smaller institutions and community members that are in effect invisible because they are not yet available online.
 
 Concluding its first iteration in October 2016, [Culture in Transit](http://www.mnylc.org/cit/) (CIT), a project of METRO in partnership with Queens Library and Brooklyn Public Library, addressed this issue by taking shared digitization technologies and expertise to libraries, archives, and communities throughout the metropolitan New York area to digitize and share the city’s rich cultural heritage online with the world. This project culminated in a [comprehensive toolkit.](https://mnylc.github.io/cit-toolkit/)
