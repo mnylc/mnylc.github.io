@@ -21,4 +21,4 @@ Preference will be given to applicants working at institutions based in New York
 
 Deadline for Applications is Tuesday, January 17th at 5pm.
 
-This project has been funded in whole or in part by the National Library of Medicine (NLM), National Institutes of Health (NIH) under cooperative agreement number UG4LM012342 with the University of Pittsburgh, Health Sciences Library System. For additional information, please contact Angela Thor: athor[at] clrc [dot] org.
+This project has been funded in whole or in part by the National Library of Medicine (NLM), National Institutes of Health (NIH) under cooperative agreement number UG4LM012342 with the University of Pittsburgh, Health Sciences Library System. For additional information, please contact Angela Thor: [athor@clrc.org](mailto:athor@clrc.org).

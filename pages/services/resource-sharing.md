@@ -57,7 +57,7 @@ The first 25 pounds of each shipment is free. Additional weight is charged at th
 Each library must designate a delivery site and a contact person. Additional delivery sites may be arranged at additional cost. 
 Additional delivery dates may be arranged at additional cost. 
 
-Please speak with your METRO Delivery Administrator to set up additional delivery sites and dates. Mark Parson can be reached at marson [at] metro [dot] org. 
+Please speak with your METRO Delivery Administrator to set up additional delivery sites and dates. Mark Parson can be reached at [marson@metro.org](mailto:marson@metro.org). 
 
 ### Site Locations 
 Libraries should designate a single on-site location for pick-up and delivery. (This location should be manned to provide signatures for incoming deliveries and oversee outgoing packages.) Additional pick-up and delivery locations can be arranged on a paid basis. 
@@ -115,4 +115,4 @@ If a package does not arrive as scheduled:
 To initiate a trace, call Mark Parson at (212) 228-2320 ext 121 with the shipping information and the title of the missing item. You can also complete a [claim form](https://www.google.com/url?q=https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLSccaa0esq4won1z4sVGBaW6lMO-QQal1dNd7DvHn7jOazXWFw/viewform&sa=D&ust=1487017912503000&usg=AFQjCNFoC7c-eBkf1tLeHuafYaty7E3bQw) online. Claims for missing resources must be reported within 30 days. This increases the couriers chances of finding any resources that might have gone missing. 
 
 ### Contact Information
-To get set up with our Delivery Program or to report any issues, please contact Mark Parson at mparson [at] metro [dot] org.
+To get set up with our Delivery Program or to report any issues, please contact Mark Parson at [mparson@metro.org](mailto:mparson@metro.org).

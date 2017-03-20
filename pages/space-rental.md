@@ -69,4 +69,4 @@ If you require direct assistance throughout your event, we would be happy to ass
 
 ## Contact Us
 
-To reserve space at 599, please contact us at info [at] metro [dot] org. We look forward to working with you!
+To reserve space at 599, please contact us at [info@metro.org](mailto:info@metro.org). We look forward to working with you!

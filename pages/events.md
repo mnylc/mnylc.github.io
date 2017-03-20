@@ -9,7 +9,7 @@ We look forward to seeing you at 599, the new home of the Metropolitan New York 
 
 We are committed to providing a welcoming and productive environment for all. Please check out our [Code of Conduct]({{ "/code-of-conduct/" | prepend: site.baseurl }}) for more information.
 
-Please reach out to us with any event-related questions you might have. Our email address is events [at] metro [dot] org, and our phone number is (212) 228-2320.
+Please reach out to us with any event-related questions you might have. Our email address is [events@metro.org](mailto:events@metro.org), and our phone number is (212) 228-2320.
 
 {% if site.data.events.events.size > 0 %}
 <ol class="posts">
@@ -52,7 +52,7 @@ If you are unable to attend a workshop, you may choose to send another person in
 Refunds are provided by credit card or check and will be processed within about four weeks.
 
 ## Private Space ##
-METRO will make private space available to nursing mothers upon request. Please contact us at events [at] metro [dot] org to make a reservation.
+METRO will make private space available to nursing mothers upon request. Please contact us at [events@metro.org](mailto:events@metro.org) to make a reservation.
 
 ## Contact Information ##
-Please contact our events staff by email to events [at] metro [dot] org with any additional questions or inquiries.
+Please contact our events staff by email to [events@metro.org](mailto:events@metro.org) with any additional questions or inquiries.

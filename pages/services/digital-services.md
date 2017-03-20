@@ -41,7 +41,7 @@ In January 2005, METRO launched its Digitization Grant Program as an effort to s
 
 Since that time, METRO has awarded approximately $800,000 in grants to support 76 digital projects.
 
-Please note: Funding for digitization projects is on hold at this time. We are currently working on re-envisioning METRO's Digitization grants to more effectively serve the needs of our members. For more information please contact Anne Karle-Zenith, METRO's Digital Services Manager at annekz [at] metro [dot] org.
+Please note: Funding for digitization projects is on hold at this time. We are currently working on re-envisioning METRO's Digitization grants to more effectively serve the needs of our members. For more information please contact Anne Karle-Zenith, METRO's Digital Services Manager at [annekz@metro.org](mailto:annekz@metro.org).
 
 [Back to top](#top)
 
