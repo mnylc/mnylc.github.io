@@ -27,7 +27,7 @@ Please contact us if you have further questions.
 
 [Back to top](#top)
 
-## <a class="anchor" name="cit"></a>Digitization Services
+## <a class="anchor" name="cit"></a>Imaging and Digitization Services
 While libraries, archives, and partners such as Internet Archive and Google have digitized and made billions of resources available online over the past decades, there is still a long trail of documents, newsletters, photographs, and other materials in the hands of smaller institutions and community members that are in effect invisible because they are not yet available online.
 
 Concluding its first iteration in October 2016, [Culture in Transit](http://www.mnylc.org/cit/) (CIT), a project of METRO in partnership with Queens Library and Brooklyn Public Library, addressed this issue by taking shared digitization technologies and expertise to libraries, archives, and communities throughout the metropolitan New York area to digitize and share the city’s rich cultural heritage online with the world. This project culminated in a [comprehensive toolkit.](https://mnylc.github.io/cit-toolkit/)
