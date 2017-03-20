@@ -18,14 +18,10 @@
             {% assign url = circle.url %}
             {% endif %}
             <div class="container">
-                <div class="carousel-caption">
+                <div class="carousel-caption" style="background-image: url({{ circle.img | prepend: site.baseurl }}); background-position: center;background-repeat: no-repeat;">
 	            <a href="{{ url }}">
-                        <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-{{ circle.icon }} fa-stack-1x fa-inverse"></i>
-                        </span>
-                        <h2>{{ circle.title }}</h2>
-                        <p>{{ circle.description }}</p>
+                            <h2>{{ circle.title }}</h2>
+                            <!--<p>{{ circle.description }}</p>-->
                     </a>
                 </div>
             </div>
