@@ -55,6 +55,7 @@ Before joining METRO in 2012, she worked for six years at the University of Mich
 
 ## Susan Klimley
 **Hospital Library Services Manager**
+
 As HLSP Manager, Susan supports METRO in developing, enhancing, and improving the delivery of health-care information between member libraries and healthcare professionals in the region. Susan has significant experience working in health sciences libraries, including work as Director of Health Science Library at Elmhurst Hospital in Queens, and more recently managing electronic resources at the Health Sciences Library of Columbia University. Susan’s work in hospital and health sciences libraries informs her desire to support librarians that strive to meet the information demands of health professionals. Susan holds an MLS from Simmons College.
 
 ## John Mignault
