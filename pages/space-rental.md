@@ -7,7 +7,7 @@ Newly renovated and recently opened, 599 is a state-of-the-art event and meeting
 
 Our 8th floor views offer a panoramic view of midtown New York, a great vantage point for a successful workshop, meeting, or event. 
 
-## Our location
+## Our Location
 
 We are located at 599 11th Avenue at the cross street of 45th and 11th. Our space is located on the 8th floor.
 
@@ -69,4 +69,4 @@ If you require direct assistance throughout your event, we would be happy to ass
 
 ## Contact Us
 
-To reserve space at 599, please contact us at info@metro.org. We look forward to working with you!
+To reserve space at 599, please contact us at info [at] metro [dot] org. We look forward to working with you!
