@@ -2,7 +2,7 @@
 title: METRO | 599
 email: info@metro.org
 description: Where New York's libraries and archives come together to learn, share ideas, and collaborate.
-baseurl: "/metro.org"
+baseurl: "/"
 url: "http://metro.org"
 
 footer:
