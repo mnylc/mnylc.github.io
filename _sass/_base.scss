@@ -2,6 +2,10 @@ html {
     font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+body {
+    padding-top:80px;
+}
+
 header > div.container-fluid {
     padding-top: 10%;
     padding-bottom: 15%;
@@ -62,7 +66,7 @@ a.anchor {
 
 .carousel-caption > a{
     color: $primary-color;
-        text-shadow: none;
+    text-shadow: none;
 }
 
 .carousel-caption h2{
