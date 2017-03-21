@@ -5,7 +5,7 @@
   url: '/services/hostingservices'
   description: 'We can host and support your digital collections.'
 - title: 'Data Services'
-  url: '/projects/esdn'
+  url: '/services/digital-services#esdn'
   description: 'We are the New York State service hub for the Digital Public Library of America.'
 - title: 'Events'
   url: 'https://www.eventbrite.com/o/metropolitan-new-york-library-council-8929654067'
