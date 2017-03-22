@@ -6,7 +6,7 @@ The website for the Metropolitan New York Library Council ([metro.org](http://me
 
 Here are the steps to install:
 
-0. `$ git clone git@github.com:mnylc/metro.org.git && cd metro.org`
+0. `$ git clone git@github.com:mnylc/mnylc.github.io.git && cd mnylc.github.io`
 0. `$ bundle install`
 0. `$ bundle exec jekyll serve --watch`
 
