@@ -55,7 +55,7 @@ The ideal candidate will have:
 
 ### Compensation###
 
-$65,000
+Begins at $65,000
 
 
 ### Location###
