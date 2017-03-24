@@ -29,7 +29,8 @@ body {
 
 p {
     font-size: 14px;
-    line-height: 1.75;
+    line-height: 1.5;
+    margin-bottom:18px;
 }
 
 p.large {
@@ -521,5 +522,14 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: $primary-color;
 }
+/*
+body.url_599studio{ 
+background: url(../img/pano.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+*/
 
 @import "base";
