@@ -7,59 +7,64 @@ permalink: /board/
 
 **Norman J. Jacknis, President**  
 Senior Fellow, Intelligent Community Forum   
-2009-2015
+2005-2020
 
-**Joshua Greenberg, Vice President**  
+**Lisa G. Rosenblum, Vice President**  
+Chief Librarian, Brooklyn Public Library  
+2016-2021  
+
+**Joshua Greenberg, Treasurer**  
 Program Director, Digital Information Technology  
 Alfred P. Sloan Foundation  
-2012-2015   
+2012-2017   
 
 **Patricia C. Skarulis, Secretary**  
 Vice President of Information Systems & Chief Information Officer  
 Memorial Sloan-Kettering Cancer Center  
-2008-2015  
-
-**James G. Neal, Treasurer**  
-University Librarian Emeritus  
-Columbia University  
-2011-2014   
+2007-2017
 
 **LaRuth Gray**  
 Director of External Relations and Information Management  
 Metropolitan Center for Urban Education  
 New York University Steinhardt School of Education  
-2008-2016   
- 
+2008-2018  
+
 **Milan R. Hughston**  
 Chief of Library  
 Museum of Modern Art (MoMA)   
-2012-2015  
+2007-2017
 
 **Mary Lee Kennedy**  
 Chief Library Officer  
 New York Public Library  
-2015-2018  
+2016-2021  
 
 **Shannon Mattern**  
 Associate Professor  
 School of Media Studies  
 The New School  
-2015-2018  
+2016-2021
 
+**Leah Meisterlin**  
+Associate Professor  
+Graduate School of Architecture, Planning, and Preservation
+Columbia University
+2016-2021
+
+**James G. Neal**  
+University Librarian Emeritus  
+Columbia University  
+2011-2021   
+ 
 **Christopher Platt**  
 Vice President of Library Services  
 The New York Public Library  
-2015-2021  
+2016-2021  
 
-**Lisa G. Rosenblum**  
-Chief Librarian  
-Brooklyn Public Library  
-2015-2018  
- 
 **Bonnie Tijerina**  
 Data & Society Research Fellow  
 President and Founder at Electronic Resources and Libraries.  
-2015-2018  
+2015-2020  
 
 **Nate Hill**  
 Executive Director  
@@ -67,7 +72,6 @@ Metropolitan New York Library Council (METRO)
 
 ## 2017 Meeting Dates
 
-* Monday, February 27, 2017 (virtual)
 * Thursday, April 27, 2017
 * Friday, June 30, 2017
 * Thursday, September 7, 2017
