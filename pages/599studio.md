@@ -6,6 +6,31 @@ In March of 2017, we opened our new 8,000 square foot studio called 599 on the w
 
 599 is launching with five service points: a digital forensics station, an imaging station, a recording station, an audio / video transfer station, and a graphic output / print station. We’ll be adding more specifics about our equipment and its availability here soon, so stay in touch!
 
+## Imaging Station
+
+### Flatbed Scanning 
+[The Epson Perfection V600 Photo Scanner](https://epson.com/For-Home/Scanners/Photo/Epson-Perfection-V600-Photo-Scanner/p/B11B198011) and [Epson Expression 11000XL Photo Scanner](https://epson.com/For-Work/Scanners/Photo-and-Graphics/Epson-Expression-11000XL--Photo-Scanner/p/E11000XL-PH)
+create preservation grade image files of archival and library material with our state of the art flatbed scanners.
+
+The Epson V600 is a scanning solution for medium format material up to 8.5 x 11.7", with a maximum resolution of 6400 x 9600 dpi. Our Epson 11000XL features a 2400 x 4800 dpi optical resolution and a 48-bit color depth. The scanner can handle original material as large as 12.0 x 17.0". 
+
+The scanners allow you the ability to digitize a range of archival material, including photographs, manuscript material, documents, pamphlets and newsletters. 
+
+Both scanners also boast the capability to digitize a range of transmissive material and come with a range of transparency units for film scanning. The V600 allows scanning of four 35mm mounted slides, or 12 negatives and it handles medium format film up to 6 x 22cm. The 11000XL features 4 film holders for an easy way to scan 35mm negatives, mounted slides, 120 and 220 medium format transparencies, and 4.0 x 5.0" film. Additionally the transparency unit can be used without film holders to scan non-standard sizes as large as 12.2 x 16.5".
+
+Equipped with Epson’s Silverfast imaging software for better color management and more granular setting options than the built-in Epson software, our flatbed scanning solutions mean you can produce preservation quality image files, with the ability to create access derivatives at our post processing station.
+
+
+### Object Digitization
+[Canon EOS Rebel T5 DSLR Camera](https://www.bhphotovideo.com/c/product/1030209-REG/canon_9126b003_eos_a_rebel_t5_dslr.html) with Macro Lens
+Our Canon EF-S 60mm f/2.8 Macro USM Lens is perfect for object digitization. Have a collection of pin badges, campaign ribbons or medals? Using our tripod and Canon camera with macro lens, you can create high quality, detailed images of small objects in your collection.
+
+Using the macro lens coupled with our [Porta-Trace 10 x 12" LED lightbox](https://www.amazon.com/Porta-Trace-12-inches-Stainless-Lightbox/dp/B0002GRL9U), you also have the capability to digitize a set of lantern slides or oversize glass plate negatives that do not fit on our flatbed scanners. Using Photoshop at our post processing station to invert the negatives to positives, you will have a set of web ready images to expand access to your collections. 
+
+### Image Post Processing
+[Adobe Creative Cloud](http://www.adobe.com/creativecloud.html)
+Software for post-processing of images. Batch edit with Adobe Bridge or Photoshop, create a range of derivatives to suit your needs or work on individual images to crop, resize or manage color and tone. 
+
 ## Graphic Output / Print Station
 
 We have a [Graphtec CE6000 vinyl plotter](http://www.graphtecamerica.com/graphtec-america-products-cutting-plotters-ce6000-4060120-professional-performance) that is available for our members to make high quality, professional decals for exhibits, displays, and countless other uses. Because this is a new service, we have a limited supply of vinyl in 10 different colors that we can make available to you for free. Moving forward, vinyl will be available for a fee, or you can bring your own material as long as it fits the correct specifications for this machine.
