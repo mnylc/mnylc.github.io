@@ -6,13 +6,13 @@ In March of 2017, we opened our new 8,000 square foot studio called 599 on the w
 
 599 is launching with five service points: a digital forensics station, an imaging station, a recording station, an audio / video transfer station, and a graphic output / print station. We’ll be adding more specifics about our equipment and its availability here soon, so stay in touch!
 
-##Graphic Output / Print Station
+## Graphic Output / Print Station
 
 We have a [Graphtec CE6000 vinyl plotter](http://www.graphtecamerica.com/graphtec-america-products-cutting-plotters-ce6000-4060120-professional-performance) that is available for our members to make high quality, professional decals for exhibits, displays, and countless other uses. Because this is a new service, we have a limited supply of vinyl in 10 different colors that we can make available to you for free. Moving forward, vinyl will be available for a fee, or you can bring your own material as long as it fits the correct specifications for this machine.
 
 [Software requirements and tutorial videos](/vinyl).
 
-##Audio Recording
+## Audio Recording
 
 Our [5 x 7 foot VocalBooth Recording Studio and Sound Isolation Booth](http://www.vocalbooth.com/)
 is a stand-alone, pop-up recording studio that filters out outside noise and improves sound quality of recordings. Equipped with a ventilation, outlets, lighting, cable ports, and foam wrapped walls. It is perfect for recording podcasts, voice-overs, and oral histories. 

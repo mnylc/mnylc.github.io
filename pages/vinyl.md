@@ -3,7 +3,7 @@ title: Vinyl Cutter
 permalink: /vinyl
 ---
 
-###If you are using your own computer
+## If you are using your own computer
 
 You are welcome to bring your own machine and plug into the cutter.
 
@@ -11,7 +11,7 @@ If you are an open source wizard and you want to be set up with entirely free to
 
 Otherwise, you'll need to get the [Cutting Master 3 plugin](http://www.graphtecamerica.com/graphtec-america-support-downloads-cutting-plotters-ce6000-series) for Adobe Illustrator or Corel Draw.
 
-###If you are using our setup
+## If you are using our setup
 
 You will have access to Adobe Illustrator and Cutting Master 3. Here is a tutorial on how this software works.
 
