@@ -12,7 +12,7 @@ We have a [Graphtec CE6000 vinyl plotter](http://www.graphtecamerica.com/graphte
 
 [Software requirements and tutorial videos](/vinyl).
 
-##Audio Recording
+## Audio Recording
 
 Our [5 x 7 foot VocalBooth Recording Studio and Sound Isolation Booth](http://www.vocalbooth.com/)
 is a stand-alone, pop-up recording studio that filters out outside noise and improves sound quality of recordings. Equipped with a ventilation, outlets, lighting, cable ports, and foam wrapped walls. It is perfect for recording podcasts, voice-overs, and oral histories. 
