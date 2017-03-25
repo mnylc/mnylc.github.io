@@ -66,6 +66,15 @@ h6 {
     font-weight: 700;
 }
 
+hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 2px dotted #ccc;
+    margin: 1em 0;
+    padding: 0; 
+}
+
 .img-centered {
     margin: 0 auto;
 }
@@ -522,6 +531,7 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: $primary-color;
 }
+
 /*
 body.url_599studio{ 
 background: url(../img/pano.jpg) no-repeat center center fixed; 

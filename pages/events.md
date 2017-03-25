@@ -7,6 +7,8 @@ use_tag: "event"
 ---
 We are committed to providing a welcoming and productive environment for all. Please check out our [Code of Conduct]({{ "/code-of-conduct/" | prepend: site.baseurl }}) for more information. If you have any event-related questions, our email address is [events@metro.org](mailto:events@metro.org), and our phone number is (212) 228-2320.
 
+<hr />
+
 {% if site.data.events.events.size > 0 %}
 <ol class="posts">
 {% for e in site.data.events.events %}
