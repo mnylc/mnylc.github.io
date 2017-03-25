@@ -29,7 +29,8 @@ body {
 
 p {
     font-size: 14px;
-    line-height: 1.75;
+    line-height: 1.5;
+    margin-bottom:18px;
 }
 
 p.large {
@@ -63,6 +64,15 @@ h5,
 h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+}
+
+hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 2px dotted #ccc;
+    margin: 1em 0;
+    padding: 0; 
 }
 
 .img-centered {
@@ -521,5 +531,15 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: $primary-color;
 }
+
+/*
+body.url_599studio{ 
+background: url(../img/pano.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+*/
 
 @import "base";
