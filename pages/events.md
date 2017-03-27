@@ -20,7 +20,7 @@ We are committed to providing a welcoming and productive environment for all. Pl
 	</h3>
 	<div class="post-date">{{ e.start.local | date: "%a, %b %d, %Y, %R %p" }}</div>
 	<br/>
-	<div class="post-excerpt">{{ e.description.text | truncatewords:75 }} </div>
+	<div class="post-excerpt">{{ e.description.html }} </div>
 	<br/>
 	<div><a href="{{ e.url }}">Register</a></div>
 	</li>
@@ -36,7 +36,7 @@ We are committed to providing a welcoming and productive environment for all. Pl
 ## Policies
 
 ### Payment
-We accept payment by credit card or by invoice. Please note that we do not accept cash payment, on site or otherwise. 
+We accept payment by credit card or by invoice. Please note that we do not accept cash payment, on site or otherwise.
 
 ### Workshop Cancellation
 METRO reserves the right to cancel any workshop or to substitute instructors. In the event of a cancellation, postponement, or substitution, registrants will be notified in advance (if possible) via email and may receive a full refund of the registration fee.
