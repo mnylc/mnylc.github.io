@@ -125,7 +125,7 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 **February 17, 2015**
 
 * [Agenda]({{ "/assets/board/02.17.2015___Board_Agenda.pdf" | prepend: site.baseurl }})
-* [Minutes]({{ "/assets/board/02.17.2015___Board_Minutes.pd" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/02.17.2015___Board_Minutes.pdf" | prepend: site.baseurl }})
 
 **November 17, 2014**
 
@@ -153,7 +153,7 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 
 **September 10, 2013**
 
-* [Minutes]({{ "/assets/board/09.10.2013___Board_Minutes.pd" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/09.10.2013___Board_Minutes.pdf" | prepend: site.baseurl }})
 
 **May 10, 2013**
 
@@ -170,7 +170,7 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 **May 7, 2012**
 
 * [Agenda]({{ "/assets/board/05.07.2012___Board_Agenda_.pdf" | prepend: site.baseurl }})
-* [Minutes]({{ "/assets/board/05.07.2012___Board_Minutes.pd" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/05.07.2012___Board_Minutes.pdf" | prepend: site.baseurl }})
 
 **February 10, 2012**
 
@@ -178,7 +178,7 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 
 **November 10, 2011**
 
-* [Agenda]({{ "/assets/board/11.10.2011_Agenda.pd" | prepend: site.baseurl }})
+* [Agenda]({{ "/assets/board/11.10.2011_Agenda.pdf" | prepend: site.baseurl }})
 * [Minutes]({{ "/assets/board/11.10.2011___Board_Minutes.doc.pdf" | prepend: site.baseurl }})
 
 **September 8, 2011**
