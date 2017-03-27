@@ -2,6 +2,15 @@
 layout: post
 title:  "Reference and Instruction Librarian (Instructor or Assistant Professor) - Bronx Community College"
 date:   2017-03-16
+excerpt: "Job Title: Reference and Instructional Design Librarian (Instructor or Assistant Professor) 
+
+Job ID: 16400 
+
+Location: Bronx Community College
+
+Full/Part Time: Full-Time 
+
+Regular/Temporary: Regular "
 ---
 
 ### Description###

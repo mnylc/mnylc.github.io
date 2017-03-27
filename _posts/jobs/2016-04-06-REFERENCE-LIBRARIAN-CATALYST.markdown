@@ -2,6 +2,11 @@
 layout: post
 title:  "Reference Librarian - Catalyst"
 date:   2016-04-06
+excerpt: "Catalyst is looking for a second full-time reference librarian to join our fast-paced Information Center (IC).
+
+Your responsibility as a member of the IC team is to support Catalyst’s mission by providing reference to questions from our 800 supporter organizations, the media, scholars, and the public on a variety of diversity and inclusion topics.
+
+This librarian may also handle copyright and record retention, conduct secondary research, and create clear, concise, and impactful knowledge products in Catalyst’s areas of focus including STEM, men, Millennials in the workplace, LGBT, inclusive leadership, and people of color, among others."
 ---
 
 ### Description###

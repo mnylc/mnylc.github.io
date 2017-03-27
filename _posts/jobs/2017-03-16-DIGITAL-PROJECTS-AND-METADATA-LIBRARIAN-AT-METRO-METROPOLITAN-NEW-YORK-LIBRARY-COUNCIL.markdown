@@ -2,6 +2,14 @@
 layout: post
 title:  "Digital Projects and Metadata Librarian at METRO - Metropolitan New York Library Council"
 date:   2017-03-16
+excerpt: "Located in New York City, the Metropolitan New York Library Council (METRO) is a non-profit organization working to develop and maintain essential library services throughout New York City and Westchester County. The METRO membership consists of a diverse group of over 250 libraries, archives, and information organizations ranging from New York’s largest libraries to small community archives. METRO provides professional development and continuing education opportunities for our membership, in addition to digitization, metadata, and hosting services for digital collections. METRO is also home to the Empire State Digital Network (ESDN), the New York state service hub for the Digital Public Library of America (DPLA).
+
+Reporting to the Deputy Director, the Digital Projects and Metadata Librarian manages data and content ingest for METRO digital projects and oversees processes necessary to contribute metadata records from partner institutions to DPLA. 
+
+The Librarian works closely with METRO’s Digital Services Manager and METRO developers to grow and support METRO’s digital repositories and hosting services. The Librarian is responsible for metadata contribution guidelines for METRO hosted collections and also facilitates the creation and editing of metadata in the Digital Culture of Metropolitan New York (DCMNY) site. The Librarian takes a lead role in developing workflows and procedures for ingesting metadata and associated digital objects into METRO repositories and performs a variety of administrative tasks related to ingest and partner communication.
+The Digital Projects and Metadata Librarian works directly with a variety of partners on issues relating to metadata quality, mapping, ingest and harvesting. The Librarian creates and maintains transformations and mappings for partners in order to facilitate contribution of metadata to DPLA from a variety of content management systems and frameworks. The Librarian maintains data sets in METRO’s aggregation tool and ensures that records are contributed, updated and removed from the DPLA site in a timely manner.
+
+Candidates should be enthusiastic about supporting and expanding access to digital collections from New York libraries, archives and cultural heritage institutions of all sizes. Creativity, flexibility and the ability to follow and anticipate developing technologies will be essential. "
 ---
 
 ### Description###

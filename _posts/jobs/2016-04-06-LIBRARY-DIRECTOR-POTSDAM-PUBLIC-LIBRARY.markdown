@@ -2,6 +2,7 @@
 layout: post
 title:  "Library Director - Potsdam Public Library"
 date:   2016-04-06
+excerpt: "The Board of Trustees of the Potsdam Public Library seeks a dynamic leader to serve as Library Director.  The Director manages a staff of 9 FTE, an annual budget of $560,000 and a service area of 15,000. Located in northern New York, Potsdam is near the Adirondack Park and about a 2-hour drive from Montreal and Ottawa.  Potsdam, home to Clarkson University and SUNY Potsdam, has very affordable housing."
 ---
 
 ### Description###

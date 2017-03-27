@@ -44,6 +44,7 @@ CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
 layout: post
 title:  "#{title} - #{institution}"
 date:   #{frontmatter_datestr}
+excerpt: "#{description}"
 ---
 
 #{"### Description###\n\n" + description + "\n" unless description.eql? ""}

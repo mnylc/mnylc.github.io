@@ -2,6 +2,16 @@
 layout: post
 title:  "Digital Repository Developer - Columbia University Libraries"
 date:   2016-04-06
+excerpt: "Digital Repository Developer
+Columbia University Libraries/Information Services
+
+The Center for Digital Research and Scholarship (CDRS) seeks a motivated, collaborative and forward-thinking full-time Digital Repository Developer to join our team of in-house developers and staff supporting the strategic goals of the organization, with a strong focus on the university's institutional repository program, Academic Commons (academiccommons.columbia.edu). The Digital Repository Developer will work on multiple projects, including regular interactions and collaboration with the team of developers, designers, and project managers across the library's digital programs and technology services. Knowledge of academic repositories, digital libraries, and source control systems will be especially useful as will experience with community-supported open source tools and platforms such as the Fedora Repository Project, Project Blacklight, and the Hydra Project.
+
+The Center for Digital Research and Scholarship (CDRS), a division of the Columbia University Libraries/Information Services, serves the digital research, scholarly communication, and academic publishing needs of the faculty, students, and staff of Columbia University and its affiliates. Our mission is to increase the utility and impact of research produced at Columbia by creating, adapting, implementing, supporting, and sustaining innovative digital tools and publishing platforms for content delivery, discovery, analysis, data curation, and preservation.
+
+As one of the world's leading research universities, Columbia University in the City of New York provides outstanding opportunities to work and grow in a dynamic multicultural intellectual community. The Columbia University Libraries/Information Services comprises a diverse, collegial and engaged staff committed to furthering the University's teaching and research mission through innovation, leadership, collaboration and professionalism.
+
+Columbia University is an Equal Opportunity/Affirmative Action Employer and strongly encourages individuals of all backgrounds and cultures to consider this position."
 ---
 
 ### Description###

@@ -2,6 +2,7 @@
 layout: post
 title:  "Senior Librarian (Music Cataloger) - New York Public Library"
 date:   2016-04-06
+excerpt: "The Senior Librarian will create and update cataloging records for materials in all formats in the areas of music, performing arts and other subjects as needed by the BookOps partners. The Librarian will catalog according to national standards for bibliographic description, classification, name and subject analysis and contribute authority records to national cooperative cataloging programs."
 ---
 
 ### Description###

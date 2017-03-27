@@ -2,6 +2,7 @@
 layout: post
 title:  "Administrative Assistant, Youth Services - Nassau Library System"
 date:   2016-04-06
+excerpt: "We are seeking a high-performing, energetic, flexible, organized self-starter who can support and facilitate the efficient operation of the Youth Services Office."
 ---
 
 ### Description###

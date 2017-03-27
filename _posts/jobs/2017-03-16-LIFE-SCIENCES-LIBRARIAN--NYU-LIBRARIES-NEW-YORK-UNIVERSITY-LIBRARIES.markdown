@@ -2,6 +2,7 @@
 layout: post
 title:  "Life Sciences Librarian - NYU Libraries - New York University Libraries"
 date:   2017-03-16
+excerpt: "NYU Libraries seeks a subject specialist in the life sciences to support the research and teaching programs of faculty, graduate and undergraduate students in biology, environmental sciences, nutrition, and global public health.  This librarian serves as a library liaison with special emphases on building and curating collections in all formats; developing a program of extensive outreach, instruction, consultation, and research support services; and delivering responsive and innovative information services."
 ---
 
 ### Description###

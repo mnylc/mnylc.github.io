@@ -2,6 +2,21 @@
 layout: post
 title:  "Head of Health Sciences Library - Stony Brook University"
 date:   2016-04-06
+excerpt: "Stony Brook University, home to many highly ranked graduate research programs, is located 60 miles from New York City on Long Island's scenic North Shore. Our 1,100-acre campus is home to 24,000 undergraduate, graduate, and doctoral students and more than 13,500 faculty and staff. SBU is a comprehensive research-intensive university and a member of the prestigious Association of American Universities (AAU), which includes 34 public universities among its 62 members. SBU consists of 12 schools and colleges and a teaching hospital that provides state-of-the-art healthcare in the Long Island region. SBU also manages and performs joint research with Brookhaven National Laboratory, the only Department of Energy Laboratory in the Northeast, and shares doctoral programs with Cold Spring Harbor Laboratory, a world-renowned molecular biology institute. Home to the Emerson String Quartet, the Jackson Pollack House in East Hampton, New York, the Mellon Award winning Humanities Institute, and the Southampton Arts Program, and with endeavors that extend to the Turkana Basin Institute in Kenya and the Ranomafana National Park in Madagascar, SBU sustains an international reputation that cuts across the arts, humanities, social sciences, and natural sciences.
+
+Stony Brook Libraries are known for a wide-range of print and digital resources and world-renowned special collections. The Stony Brook Libraries belong to the Association of Research Libraries (ARL), with a Health Sciences Center Library that is a member of the Association of Academic Health Sciences Libraries. The Libraries are engaged in an ambitious and dynamic strategic planning (2015-2018). The collection exceeds 2 million volumes, including e-books, print and electronic holdings of scholarly journal subscriptions, microforms, music recordings, and a sizable map collection. The SBU Libraries include 6 distinct facilities, including Melville Library, Marine and Atmospheric Sciences, Chemistry, Math/Physics, Southampton and Health Sciences Libraries, and SUNY Korea-SBU campus. The University's Libraries stand as the largest academic research library on Long Island, serving as a resource in the local community, state-wide, and nationally and internationally. The Libraries maintain memberships and affiliations in arXiv, Association of Research Libraries, SPARC, Center for Research Libraries, SUNY Connect, DuraSpace (as a SUNY member) the Council on Library and Information Resources, Digital Library Federation, Coalition of Networked Information, EDUCAUSE, Inter-university Consortium for Political and Social Research, Roper Center, OCLC Research Library Partnership, and ORCID through the National Network of the National Libraries of Medicine. The Libraries utilize Ex Libris' Aleph for its integrated library system and have recently deployed EBSCO's Discovery Service, DSpace, Content DM, and Omeka, are used for managing digital assets and a growing Institutional Repository.
+
+Descriptive Title: Head of Health Sciences Library
+REF#: F-9586-16-03-F
+Budget Title: Associate/Full Librarian
+Faculty Position
+Department: University Libraries
+Campus: Stony Brook West Campus/HSC
+Salary: Commensurate with experience
+
+This is a tenure track position. FLSA Exempt position, not eligible for the overtime provisions of the FLSA. Internal and external search to occur simultaneously. Anticipated Start Date: As soon as possible. Applications will be accepted until the position is filled. However, to guarantee consideration, please apply by 04/30/2016. Stony Brook University is 100% tobacco-free as of January 1, 2016. See our policy and learn more at stonybrook.edu/tobaccofree.
+
+The selected candidate must successfully clear a background investigation."
 ---
 
 ### Description###

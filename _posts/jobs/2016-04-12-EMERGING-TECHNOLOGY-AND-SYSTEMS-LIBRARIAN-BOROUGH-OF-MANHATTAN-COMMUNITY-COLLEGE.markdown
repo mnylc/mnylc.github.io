@@ -2,6 +2,23 @@
 layout: post
 title:  "Emerging Technology and Systems Librarian - Borough of Manhattan Community College"
 date:   2016-04-12
+excerpt: "Performs teaching, research and guidance duties in area(s) of expertise. Shares responsibility for committee and department assignments including administrative, supervisory, and other functions.
+
+The Borough of Manhattan Community College (BMCC) is an integral part of the City University of New York (CUNY) with the largest college enrollment in the CUNY system of over 25,000 students. It is strategically located in downtown Manhattan in close proximity to the artistic communities of Tribeca and SoHo, the dynamic downtown financial district, and the center of New York City government at City Hall.
+
+A. Philip Randolph Memorial Library at the Borough of Manhattan Community College is growing and would like to attract new faculty members who will share and contribute to the growth process. We invite applications for an Instructor/Assistant, Associate or Full Professor position in Emerging Technology and Systems Librarian.
+
+Library faculty are expected to provide research support to faculty, students, and staff in person, one on one consultations, via email and chat; participate in library's instruction program; participate in developing collections and acquiring materials in all formats and media. Faculty review Library usage patterns and makes recommendations regarding services; assist in developing and monitoring Library policies and user service standards; supervise and/or train staff, students, and others assigned to the Library. Duties may include some weekend and evening hours. Library faculty are expected to perform related duties as assigned. Research and publication are expected for tenure and promotion.
+
+The successful candidate will further have the ability to manage and support the operation of the library's shared integrated library system (ILS) by maintaining configuration and access tables, creating documentation, maintaining passwords and authorizations; resolving problems relating to records, access, and functionality; and keeping up to-date on system and software issues. The Emerging Technology and Systems Librarian will deliver regular reports generated in the ILS to the Chief Librarian and other library faculty as required. They will collaborate with library departments, campus IT professionals, bibliographic utility vendors, and the CUNY Office of Library Services (OLS) to identify, format, and coordinate the batch loading of vendor-supplied records into the online catalog. The Emerging Technology and Systems Librarian will manage LibGuides, Share Point, and Word Press for the Randolph Library as well as provide staff training for library software applications. The ideal candidate will serve as the library representative on CUNY-wide committees pertaining to information technology; build staff awareness of new and emerging technologies and Identify, evaluate, and recommend the adoption of technologies that improve the Library's physical and virtual presence. They will also advise and assist in efforts to use emerging technologies to build relationships with users and increase awareness of Library resources and services in the campus community
+
+Assistant/Associate/Full Professor:
+
+Supports a college library through providing in-depth consultation with students and faculty and collaboration for the ongoing improvement of instructional programs and practices. Pursues an active scholarly agenda, performs supervisory duties, and participates in college-and university-wide programs and committees as assigned.
+
+Instructor:
+
+Supports a college library through providing in-depth consultation with students and faculty and collaboration for the ongoing improvement of instructional programs and practices."
 ---
 
 ### Description###

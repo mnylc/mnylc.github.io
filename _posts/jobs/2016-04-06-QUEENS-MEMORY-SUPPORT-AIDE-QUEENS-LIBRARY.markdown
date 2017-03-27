@@ -2,6 +2,13 @@
 layout: post
 title:  "Queens Memory Support Aide - Queens Library"
 date:   2016-04-06
+excerpt: "Queens Memory Support Aide is responsible for facilitating the flow of materials donated via the Queens Memory program from initial accession through final processing and public access. Will also be responsible for donor outreach, event promotion and planning, digital asset creation, metadata capture, and communications with staff, volunteers and interns contributing to the processing of materials.  Is responsible for tasks relating to the circulating and reference materials that pass through Metadata Services for preparation and cataloging. 
+
+
+Level: Technical Support Aide II
+Period: full time
+Position Reports To: Digital Archives Manager
+Location: Queens Central Library, Jamaica, NY"
 ---
 
 ### Description###

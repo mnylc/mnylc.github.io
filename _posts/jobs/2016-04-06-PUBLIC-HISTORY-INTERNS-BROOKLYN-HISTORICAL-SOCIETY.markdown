@@ -2,6 +2,19 @@
 layout: post
 title:  "Public History Interns - Brooklyn Historical Society"
 date:   2016-04-06
+excerpt: "Oral History Internship
+Brooklyn Historical Society (BHS) is seeking 2 Oral History Interns for late 2016 who will assist the Oral History Project Archivist with the processing of BHS’s oral history collections as part of Voices of Generations: Investigating Brooklyn’s Cultural Identity, a project to digitize, process, catalogue, and make available online ten oral history collections. 
+
+The internship will provide training and hands-on experience in all stages of processing oral histories: research, rights assessment, auditing, transcribing, indexing, online publishing using digital tools, item-level and collection-level description, and cataloguing. In addition, interns will be among the first to access some of BHS previously unavailable oral history collections that document the diverse histories of Brooklyn. 
+
+Candidates must have taken at least one graduate-level course in oral history, public history, or archival concepts; or be enrolled in a similar course the first semester of the internship to be eligible for the position.
+
+About Voices of Generations: Investigating Brooklyn’s Cultural Identity
+Brooklyn Historical Society’s Voices of Generations: Investigating Brooklyn’s Cultural Identityis a project to digitize, process, and catalogue ten oral history collections that document different ethnic and cultural groups in Brooklyn. Some of these collections date back as early as 1973; and they all demonstrate how diverse communities sought to preserve vital social, political, religious, and even culinary traditions while embracing new identities as Brooklynites, New Yorkers, and Americans.
+
+The chief goals of the project are to digitize and process the collections, catalogue them through item-level descriptions as well as collection-level finding aids, and post as many as possible online using the Oral History Metadata Synchronizer (OHMS)—an innovative online application that makes the content of interviews searchable, and therefore more accessible. A final goal of the project is to use each collection as the basis for increased community and public engagement through outreach, social media, online publishing, and programming.
+
+For more information on our oral history collections, visit [http://brooklynhistory.org/library/wp/library-collections/oralhistory.](http://brooklynhistory.org/library/wp/library-collections/oralhistory.)"
 ---
 
 ### Description###

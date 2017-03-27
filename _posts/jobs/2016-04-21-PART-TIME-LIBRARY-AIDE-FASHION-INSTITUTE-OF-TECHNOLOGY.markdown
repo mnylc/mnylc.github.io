@@ -2,6 +2,17 @@
 layout: post
 title:  "Part Time Library Aide - Fashion Institute of Technology"
 date:   2016-04-21
+excerpt: "The Fashion Institute of Technology (FIT), an internationally renowned college of art and design, business and technology, of the State University of New York, invites nominations and applications for a part time Library Aide.
+
+The Library Aide is responsible for providing general and specialized circulation assistance and services of a to the FIT/SUNY community in a courteous and efficient manner and in accordance with the Library's policies and procedures.
+
+Current Salary Schedule: 88
+Department: Library
+Schedule: Based on the needs of the department
+Tues-Wed 9am-2pm; Friday 11am-6:30pm; Saturday 10am-5pm
+24 hours per week
+
+Work is performed under typical library conditions with requirements for frequent sitting and standing for long periods of time, as well as frequent lifting and carrying of heavy library materials and maneuvering carts full of books.  Ability to sit or stand for long intervals.  Ability to lift up to 50 pounds and push and pull 100 or more pounds."
 ---
 
 ### Description###

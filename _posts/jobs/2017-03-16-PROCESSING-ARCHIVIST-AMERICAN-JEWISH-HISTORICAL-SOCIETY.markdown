@@ -2,6 +2,29 @@
 layout: post
 title:  "Processing Archivist - American Jewish Historical Society"
 date:   2017-03-16
+excerpt: "Performs arrangement, rehousing and basic preservation of the HIAS Records and encodes finding aid.  This is a temporary ( 21 month) position funded by a grant from HIAS, at the American Jewish Historical Society in Manhattan.
+
+
+Date:                         
+February 22, 2017
+
+Department:               
+Library & Archives
+
+Title:                        
+Hebrew Immigrant Aid Society (HIAS) Collection – Processing Archivist
+
+Schedule:                  
+Full Time through end of project, December 2018
+
+FLSA Status:              
+Non-exempt
+
+Supervisor’s Title:         
+Senior Project Archivist
+
+Salary:                       
+TBD depending on experience, with benefits"
 ---
 
 ### Description###

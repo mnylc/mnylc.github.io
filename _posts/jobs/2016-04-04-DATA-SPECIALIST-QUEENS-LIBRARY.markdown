@@ -2,6 +2,23 @@
 layout: post
 title:  "Data Specialist - Queens Library"
 date:   2016-04-04
+excerpt: "The Data Specialist is responsible for database maintenance, batch processes and trouble-shooting activities. Duties include performing record overlays, batch record edits and assisting team to maintain database accuracy. Serve on the team resolving technical issues with the library’s ILS, DAMS and metadata vendors. 
+
+* Maintain a running list of enhancements and bug fixes for these systems.
+
+* Coordinate with ITD staff working to improve the library’s discovery layer.
+
+* Be able to create and enhance MARC, VRA Core and EAD records.
+
+* Coordinate with other staff to stay up-to-date on new developments and best practices in Technical Services. Perform other duties as required.
+
+* Serve on a team preparing for the adoption of Bibframe and other linked data initiatives.
+
+* Generate reports.
+
+The Queens Library is an Equal Opportunity Employer.
+Queens Library is a national and international leader in the delivery of public library service. Innovation and leadership are the hall marks of Queens Library. Our mission is to meet the needs of the community by offering lifelong learning opportunities and ensuring there is a positive impact in the community. Queens Library fulfills its goals by embracing innovation and change. With a history of offering pioneering programs that meet the diverse needs of the most diverse county in the US, Queens Library is a place where innovation and leaders are welcomed.   Queens Library is a private non-profit corporation located in Queens, New York and includes 65 service locations with 1,700 employees.
+Queens Library is the proud recipient of the following awards: 2009 Library Journal, Library of the Year, 2014 ALA/Information Today, Library of the Future, 2013 ULC Top Innovators, 2013 American-Architect’s Building of the Year (Queens Library at Glen Oaks)."
 ---
 
 ### Description###

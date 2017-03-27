@@ -2,6 +2,29 @@
 layout: post
 title:  "Audiovisual Library/Archive Assistant (2 Temporary Positions) - United Nations"
 date:   2016-04-12
+excerpt: "Under the overall supervision of the Chief of the Multimedia Resources Unit of the Audio Visual Services Section, News and Media Division, Department of Public Information and within limits of delegated authority, the contractor is responsible for:
+
+* Provides audiovisual library services support to DPI in the scope of Audiovisual Digitization Project;  
+
+* Identifies and prepares legacy materials for digitization and ingestion into the Media Assets Management System (MAMS) by researching various information sources for relevant material and cross-checking information with author offices as required;
+
+* Liaise with UN staff and external digitization service providers to make sure the digitized items are properly delivered, labeled, complete, and has all minimum required metadata and checksum files as required;
+
+* Keep records from analog and digital audiovisual asset management systems, ensuring that the audiovisual collection items are accurately catalogued and indexed;
+
+* Support all tasks related to quality assurance of digitized records and related metadata to make sure they are complete, accurate and free of errors;
+Updates and further maintains internal databases and datasets related to the digitization project;
+
+* Supports the maintenance of the AV Library website by uploading newly digitized items and metadata to the web using internal policies and procedures;
+Generates statistical and other reports related to the project status and deliverables, as required;
+
+* Performs other duties as assigned.
+
+Level: GS-4
+Period: 9 months
+Position Reports To: Antonio Da Silva
+Location: United Nations, NY, USA
+Starts On: April 25, 2016"
 ---
 
 ### Description###
