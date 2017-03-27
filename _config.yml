@@ -11,6 +11,9 @@ footer:
   phone: 212.228.2320
   fax: 212.228.2598
 
+twitter:
+  username: mnylc
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
 - title: twitter
@@ -60,3 +63,6 @@ attribution:
     source: Rick Kim
     name: agency
     url: https://github.com/y7kim/agency-jekyll-theme
+
+gems:
+  - jekyll-seo-tag
