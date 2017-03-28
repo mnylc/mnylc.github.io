@@ -208,7 +208,7 @@ events:
     local: '2017-04-24T15:00:00'
     utc: '2017-04-24T19:00:00Z'
   created: '2017-03-07T21:22:51Z'
-  changed: '2017-03-14T17:13:10Z'
+  changed: '2017-03-24T17:12:40Z'
   capacity: 54
   capacity_is_custom: true
   status: live
