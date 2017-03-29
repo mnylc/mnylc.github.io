@@ -17,6 +17,6 @@ METRO and XFR Collective have agreed to partner together to design an AV transfe
 
 We believe that this partnership will be of great service to both the NYC and national archival community, the general public, and METRO members. We hope that it will also serve as a model for other new initiatives and partnerships. Stay tuned in coming months for trainings and other opportunities to interact with XFR Collective members and a new AV transfer rack in METRO’s new space! We are thrilled about the possibilities this collaboration provides.
 
-If you would like to get in touch with a question or comment, please email [info@metro.org](mailto:info@metro.org) or [xfrcollective@gmail.com](xfrcollective@gmail.com).
+If you would like to get in touch with a question or comment, please email [info@metro.org](mailto:info@metro.org) or [xfrcollective@gmail.com](mailto:xfrcollective@gmail.com).
 
 
