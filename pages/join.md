@@ -15,6 +15,7 @@ Please see our list of current members [here.]({{ '/assets/docs/Spring_2016_Memb
 
 ### Benefits
 
+* Studio Access
 * Digital Services
 * Grants
 * Resource Sharing

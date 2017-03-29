@@ -5,7 +5,7 @@ date:  2017-03-29
 
 ---
 
-We are excited to announce a new partnership between METRO and [XFR Collective!](https://archive.org/details/xfrcollective) 
+We are excited to announce a new partnership between METRO and [XFR Collective!](https://xfrcollective.wordpress.com/) 
 
 This month, METRO and XFR Collective begin a new partnership designed to support expanded local engagement with audiovisual archival practices in a digital age. The partnership is one of several new initiatives made possible by METRO’s recent relocation to a new, larger space at 599 11th Avenue on the west side of midtown Manhattan. 
 
