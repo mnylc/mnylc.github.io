@@ -9,9 +9,9 @@ We are committed to providing a welcoming and productive environment for all. Pl
 
 <hr />
 
-{% if site.data.events.events.size > 0 %}
+{% if site.data.events.size > 0 %}
 <ol class="posts">
-{% for e in site.data.events.events %}
+{% for e in site.data.events %}
 <li>
     <h3>
 	<a href="{{ e.url }}">

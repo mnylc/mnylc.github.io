@@ -1,11 +1,34 @@
 ---
-pagination:
-  object_count: 2
-  page_number: 1
-  page_size: 50
-  page_count: 1
-  continuation: eyJwYWdlIjogMn0
-events:
+- utc_offset: -14400000
+  time: 1491499800000
+  link: https://www.meetup.com/stmlibrarians/events/238054569/
+  description:
+    html: '<p>1. Esther Jackson, and Samantha D’Acunto of the New York Botanical Gardens
+      Library and Lane Rasberry, Wikipedian-in-Residence at Consumer Reports will
+      talk about their recent experiences with hosting Wikipedia Edit-A-Thons. The
+      most recent event, focused on creating and enhancing biographical articles for
+      women in science.  The event is summarized at <a href="https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/NYBG_January2017"><a
+      href="https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/NYBG_January2017" class="linkified">https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/NYBG_January2017</a></a>. </p>
+      <p>2. Clara Tran and Jamie Saragossi of Stony Brook university - Evaluating
+      the Consistency and Quality of Search Strategies and Methodology in Cochrane
+      Urology Group Systematic Reviews</p> <p>3. Shelly Warwick of Touro Colleges
+      of Osteopathic Medicine and Pharmacy – How academic Medical Librarians can influence
+      the curriculum.  The focus would be on getting involved and being on the curriculum
+      committee to incorporate Health Literacy into the osteopathic medical curriculum.</p>
+      <p>4. Monica Berger of the New York City College of Technology – Predatory Publishing.</p>
+      <p>Location:</p> <p>Leon &amp; Toby Cooperman Library<br/>Room E-114<br/>Hunter
+      College / CUNY<br/>Lexington Ave. &amp; 68th St. </p> <p>I thank John Carey
+      for allowing the SIG to use the facility at Hunter College.  It is still uncertain
+      when METRO’s new facility at 599 11th Avenue.</p> <p>Access to the building
+      will not be an issue for anyone with a CUNY ID, but non-CUNY folks will have
+      to stop by the Visitor''s Center in the lobby of Hunter''s West Building and
+      get a temporary pass.  They will likely require a photo-ID.</p> '
+  name:
+    html: Research Forum for STEM Librarians
+  start:
+    utc: '2017-04-06 13:30:00 -0400'
+    local: '2017-04-06 17:30:00 -0400'
+  url: https://www.meetup.com/stmlibrarians/events/238054569/
 - name:
     text: 19th Annual Library Assistants' Day Celebration
     html: 19th Annual Library Assistants&#39; Day Celebration
@@ -208,7 +231,7 @@ events:
     local: '2017-04-24T15:00:00'
     utc: '2017-04-24T19:00:00Z'
   created: '2017-03-07T21:22:51Z'
-  changed: '2017-03-24T17:12:40Z'
+  changed: '2017-03-29T19:32:34Z'
   capacity: 54
   capacity_is_custom: true
   status: live
