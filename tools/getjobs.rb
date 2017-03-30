@@ -45,6 +45,7 @@ layout: post
 title:  "#{title} - #{institution}"
 date:   #{frontmatter_datestr}
 excerpt: "#{description}"
+tag: job
 ---
 
 #{"### Description###\n\n" + description + "\n" unless description.eql? ""}
