@@ -4,6 +4,7 @@
   {% include head.html %}
 
   <body>
+    
     <a class="anchor" name="top">top</a>
 
     {% include nav.html page=true %}
@@ -11,6 +12,10 @@
     <section class="container">
       <h1>{{ page.title }}</h1>
       {{ content }}
+
+      {% if page.tag == 'job' or page.tag == 'news' %}
+      {% include social_sharing.html %}
+      {% endif %}
     </section>
 
     {% include footer.html %}
