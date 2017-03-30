@@ -15,6 +15,7 @@ Brooklyn Historical Society’s Voices of Generations: Investigating Brooklyn’
 The chief goals of the project are to digitize and process the collections, catalogue them through item-level descriptions as well as collection-level finding aids, and post as many as possible online using the Oral History Metadata Synchronizer (OHMS)—an innovative online application that makes the content of interviews searchable, and therefore more accessible. A final goal of the project is to use each collection as the basis for increased community and public engagement through outreach, social media, online publishing, and programming.
 
 For more information on our oral history collections, visit [http://brooklynhistory.org/library/wp/library-collections/oralhistory.](http://brooklynhistory.org/library/wp/library-collections/oralhistory.)"
+tag: job
 ---
 
 ### Description###

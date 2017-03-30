@@ -3,6 +3,7 @@ layout: post
 title:  "Access Services and Assessment Librarian -- College of Saint Rose - College of Saint Rose"
 date:   2017-03-16
 excerpt: "The College of Saint Rose in Albany, NY invites applications for a full-time, tenure track Access Services and Assessment Librarian to start August 2017.  We are seeking a capable, self-directed individual who is able to effectively oversee access services and implement an assessment program, while also serving as a collegial member of a team of librarians who work together to deliver effective reference and instruction services.  "
+tag: job
 ---
 
 ### Description###

@@ -8,6 +8,7 @@ The Center for Jewish History seeks a project manager for the implementation of 
 Implementation will include preparation for and comprehensive migration from Ex Libris digital asset management system, DigiTool, which currently holds over 1 million digital objects and associated metadata, totaling over 40 TB of material. Implementation will also include training partner staff on the new system, facilitating interoperability between descriptive and preservation systems, and collaboratively developing workflows to support the ongoing deposit of digitized material into the new system.
 
 The Rosetta Implementation and Migration Manager will report to the Senior Manager for Metadata and Discovery. The Metadata and Discovery Services department is tasked with coordinating the interoperability and integration between Center systems that control, describe, preserve, and provide access to the rich physical and digital holdings of the five Partner institutions. The successful candidate will work closely with department members in Metadata and Discovery Services, the Center’s Information Technology department, vendors, and stakeholders in the Center and Partner community to ensure that born-digital and digitized material will be preserved in perpetuity."
+tag: job
 ---
 
 ### Description###

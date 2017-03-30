@@ -3,6 +3,7 @@ layout: post
 title:  "Fashion Institute of Technology - Library Services Specialist (Technologist C) - Fashion Institute of Technology"
 date:   2017-03-16
 excerpt: "The Library Services Specialist provides public service desk coverage, supports the Library's mission and daily operations, and updates and creates content for the unit's web pages. This position is responsible for opening the Library Mondays-Fridays and requires an early morning schedule. Specific duties may include, but are not limited to: Answer patron queries in person or on the phone, regarding library resources, services and campus information; Page materials requested by library patrons and communicate access policies; Assist patrons with the use of print and online catalogs; General bibliographic and physical maintenance of library resources; Create user-friendly user online interfaces, and work on digitization projects; Work in various capacities outside of home unit to accomplish library wide initiatives, such as work at any Library service desk to fill coverage gaps and support marketing and promotion activities. Strong technology skills and knowledge of web design and CMS is a must. Excellent benefits."
+tag: job
 ---
 
 ### Description###

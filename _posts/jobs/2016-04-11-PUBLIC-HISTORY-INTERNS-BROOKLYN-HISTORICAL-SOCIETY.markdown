@@ -13,6 +13,7 @@ About Voices of Generations: Investigating Brooklyn’s Cultural Identity
 Brooklyn Historical Society’s Voices of Generations: Investigating Brooklyn’s Cultural Identityis a project to digitize, process, and catalogue ten oral history collections that document different ethnic and cultural groups in Brooklyn. Some of these collections date back as early as 1973; and they all demonstrate how diverse communities sought to preserve vital social, political, religious, and even culinary traditions while embracing new identities as Brooklynites, New Yorkers, and Americans.
 
 The chief goals of the project are to digitize and process the collections, catalogue them through item-level descriptions as well as collection-level finding aids, and post as many as possible online using the Oral History Metadata Synchronizer (OHMS)—an innovative online application that makes the content of interviews searchable, and therefore more accessible. A final goal of the project is to use each collection as the basis for increased community and public engagement through outreach, social media, online publishing, and programming."
+tag: job
 ---
 
 ### Description###

@@ -25,6 +25,7 @@ Senior Project Archivist
 
 Salary:                       
 TBD depending on experience, with benefits"
+tag: job
 ---
 
 ### Description###

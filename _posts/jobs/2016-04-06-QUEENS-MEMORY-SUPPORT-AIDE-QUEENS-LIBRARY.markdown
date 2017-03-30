@@ -9,6 +9,7 @@ Level: Technical Support Aide II
 Period: full time
 Position Reports To: Digital Archives Manager
 Location: Queens Central Library, Jamaica, NY"
+tag: job
 ---
 
 ### Description###

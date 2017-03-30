@@ -2,6 +2,7 @@
 layout: post
 title:  "Tour NYC Libraries and Archives with METRO and A.R.T. This Fall"
 date:   2016-10-01
+tag:	news
 
 ---
 Metropolitan New York Library Council (METRO) and Archivists Roundtable of New York City (A.R.T.) are visiting libraries and archives in and around NYC this fall! Please join us for one of our fabulous tours.

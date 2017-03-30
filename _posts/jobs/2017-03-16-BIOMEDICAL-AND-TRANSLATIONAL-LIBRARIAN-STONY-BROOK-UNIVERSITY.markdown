@@ -12,6 +12,7 @@ Budget Title: Senior Assistant Librarian/Associate Librarian
 Faculty Position
 Department: Library
 Campus: Stony Brook West Campus/HSC"
+tag: job
 ---
 
 ### Description###

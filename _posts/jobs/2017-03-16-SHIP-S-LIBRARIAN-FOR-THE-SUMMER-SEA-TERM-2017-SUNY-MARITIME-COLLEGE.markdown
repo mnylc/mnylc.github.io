@@ -16,6 +16,7 @@ This is a temporary appointment. FLSA Exempt position, not eligible for the over
 Budget Title: Technical Specialist (CSL)
 
 Salary Grade: NSSL"
+tag: job
 ---
 
 ### Description###

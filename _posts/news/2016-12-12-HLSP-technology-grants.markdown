@@ -2,6 +2,7 @@
 layout: post
 title:  "Apply Now for Our Hospital Library Program Technology Grants"
 date:   2016-12-12
+tag:	news
 
 ---
 

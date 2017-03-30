@@ -2,6 +2,7 @@
 layout: post
 title: METRO Opposes Defunding the Institute of Museum and Library Services (IMLS) 
 date:   2017-03-22
+tag:	news
 
 ---
 Metropolitan New York Library Council (METRO) has been supporting libraries, archives, and community organizations in our city and around the state for more than 50 years. Our membership reflects the depth and richness of New York City; from small community archives to our city’s museums and research institutions, our members are dedicated to documenting the history and culture of our city. 

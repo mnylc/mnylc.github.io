@@ -12,6 +12,7 @@ The Center for Digital Research and Scholarship (CDRS), a division of the Columb
 As one of the world's leading research universities, Columbia University in the City of New York provides outstanding opportunities to work and grow in a dynamic multicultural intellectual community. The Columbia University Libraries/Information Services comprises a diverse, collegial and engaged staff committed to furthering the University's teaching and research mission through innovation, leadership, collaboration and professionalism.
 
 Columbia University is an Equal Opportunity/Affirmative Action Employer and strongly encourages individuals of all backgrounds and cultures to consider this position."
+tag: job
 ---
 
 ### Description###

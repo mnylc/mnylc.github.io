@@ -13,6 +13,7 @@ Tues-Wed 9am-2pm; Friday 11am-6:30pm; Saturday 10am-5pm
 24 hours per week
 
 Work is performed under typical library conditions with requirements for frequent sitting and standing for long periods of time, as well as frequent lifting and carrying of heavy library materials and maneuvering carts full of books.  Ability to sit or stand for long intervals.  Ability to lift up to 50 pounds and push and pull 100 or more pounds."
+tag: job
 ---
 
 ### Description###

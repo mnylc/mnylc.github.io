@@ -2,6 +2,7 @@
 layout: post
 title:  "Update on METRO's New Home"
 date:   2017-03-21
+tag:	news
 
 ---
 METRO’s relocation reached a milestone when staff moved in to 599 last month. After working remotely since our location at 11th street was closed, returning to a typical schedule complete with a commute has been a welcome change of pace.

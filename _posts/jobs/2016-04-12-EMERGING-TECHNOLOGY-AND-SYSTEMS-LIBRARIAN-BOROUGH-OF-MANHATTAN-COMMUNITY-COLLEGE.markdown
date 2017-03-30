@@ -19,6 +19,7 @@ Supports a college library through providing in-depth consultation with students
 Instructor:
 
 Supports a college library through providing in-depth consultation with students and faculty and collaboration for the ongoing improvement of instructional programs and practices."
+tag: job
 ---
 
 ### Description###

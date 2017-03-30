@@ -9,6 +9,7 @@ The METRO Hospital Library Services Program (HLSP) supports the work of more tha
 Reporting to the Deputy Director, the HLSP Manager is a part-time position that supports METRO in helping to develop, enhance, and improve the delivery of health-care information between member libraries and healthcare professionals. The HLSP manager is responsible for the strategic planning and  management of medical library services to HLSP members.
 
 This position requires the ability to travel to member locations throughout the Metropolitan New York region. METRO offers a flexible schedule and the ability to set your own hours. The position will be 8-10 hrs/wk and will pay $20/hour to start with the opportunity to grow the position over time. METRO is a fun and collaborative workplace full of energy and enthusiasm."
+tag: job
 ---
 
 ### Description###

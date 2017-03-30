@@ -2,6 +2,7 @@
 layout: post
 title:  "Unique Documents from the Italian Unification Now Online"
 date:   2016-11-08
+tag:	news
 
 ---
 We are thrilled to announce the tenth and final collection to be digitized as part of the Culture in Transit project is now on [DCMNY](http://dcmny.org/), METRO’s collection hosting platform.

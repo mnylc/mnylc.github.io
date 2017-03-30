@@ -9,6 +9,7 @@ Columbia University Libraries seek a Digitization and Preservation Projects Mana
 
 The Digitization and Preservation Projects Manager manages special projects, primarily larger digitization projects carried by vendors, of published materials, archival collections, and audiovisual materials; also as appropriate, inventory projects and projects to improve the content of CLIO that are related to digitization efforts. The incumbent reports to the Director, Preservation and Digital Conversion Division. 
 "
+tag: job
 ---
 
 ### Description###

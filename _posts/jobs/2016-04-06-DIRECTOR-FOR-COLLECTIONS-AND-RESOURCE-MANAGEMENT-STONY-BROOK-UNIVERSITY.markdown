@@ -17,6 +17,7 @@ Salary: Commensurate with experience
 This is a tenure track position. FLSA Exempt position, not eligible for the overtime provisions of the FLSA. Internal and external search to occur simultaneously. Anticipated Start Date: As soon as possible. Applications will be accepted until the position is filed. However, to guarantee consideration, please apply by 04/13/2016. Stony Brook University is 100% tobacco-free as of January 1, 2016. See our policy and learn more at stonybrook.edu/tobaccofree.
 
 The selected candidate must successfully clear a background investigation."
+tag: job
 ---
 
 ### Description###

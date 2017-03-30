@@ -2,6 +2,7 @@
 layout: post
 title:  "Submit Your Application for Systematic Review Workshops in Syracuse and NYC"
 date:   2016-12-06
+tag:	news
 
 ---
 CLRC and METRO, with support from NN/LM MAR and in partnership with The Taubman Health Sciences Library at the University of Michigan, are pleased to announce that we are now accepting applications for Systematic Review workshops in NYC and Syracuse.

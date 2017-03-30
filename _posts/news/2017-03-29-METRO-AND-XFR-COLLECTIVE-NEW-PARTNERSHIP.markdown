@@ -2,6 +2,7 @@
 layout: post
 title: "METRO and XFR Collective's New Partnership"
 date:  2017-03-29
+tag:	news
 
 ---
 

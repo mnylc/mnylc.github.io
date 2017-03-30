@@ -3,6 +3,7 @@ layout: post
 title:  "Science Reference Associate - NYU Libraries - New York University Libraries"
 date:   2017-03-16
 excerpt: "The Division of Libraries at New York University (NYU) seeks a Reference Associate in the Coles Science Center of Bobst Library to provide a variety of reference and research services to library patrons. "
+tag: job
 ---
 
 ### Description###

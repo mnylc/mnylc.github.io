@@ -5,6 +5,7 @@ date:   2016-04-04
 excerpt: "Schedule: The normal work schedule for this position is seven hours a day, thirty-five hours a week, Monday through Friday from 9 a.m. to 5 p.m. including occasional evening hours. Flexibility in work hours is required to accommodate the Library’s needs and changes in Library hours during intersessions and summer sessions.
  
 Job Summary: The Technical Services Librarian is responsible for the Technical Services and Cataloging operations of the Library.  This includes the supervision of one part-time clerk and several part-time student workers."
+tag: job
 ---
 
 ### Description###

@@ -2,6 +2,7 @@
 layout: post
 title:  "Fedora Camp Comes to NYC"
 date:   2016-09-15
+tag:	news
 
 ---
 Columbia University will host Fedora Camp on Monday, November 28th through Wednesday, November 30.

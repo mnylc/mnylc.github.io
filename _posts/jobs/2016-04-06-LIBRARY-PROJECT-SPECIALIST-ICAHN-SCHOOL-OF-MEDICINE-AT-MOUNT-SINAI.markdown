@@ -12,6 +12,7 @@ Period: July-August 2016
 Location: New York, New York
 Starts On: July 5, 2016
 Salary: $15.00/hour to $15.00/hour"
+tag: job
 ---
 
 ### Description###

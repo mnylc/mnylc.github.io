@@ -10,6 +10,7 @@ The Librarian works closely with METRO’s Digital Services Manager and METRO de
 The Digital Projects and Metadata Librarian works directly with a variety of partners on issues relating to metadata quality, mapping, ingest and harvesting. The Librarian creates and maintains transformations and mappings for partners in order to facilitate contribution of metadata to DPLA from a variety of content management systems and frameworks. The Librarian maintains data sets in METRO’s aggregation tool and ensures that records are contributed, updated and removed from the DPLA site in a timely manner.
 
 Candidates should be enthusiastic about supporting and expanding access to digital collections from New York libraries, archives and cultural heritage institutions of all sizes. Creativity, flexibility and the ability to follow and anticipate developing technologies will be essential. "
+tag: job
 ---
 
 ### Description###

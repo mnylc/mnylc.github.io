@@ -9,6 +9,7 @@ The Rutgers University Libraries, comprising libraries on the University’s Cam
 The Robert Wood Johnson Library of the Health Sciences, located in the heart of Robert Wood Johnson Medical School’s clinical campus in New Brunswick, serves the medical students across all four years, those in graduate medical education programs, and a broad range of faculty in the basic and clinical sciences. In addition, the library serves the academic, clinical, and research programs of the other RBHS schools in New Brunswick / Piscataway including the Graduate School of Biomedical Sciences, School of Public Health, School of Nursing and School of Pharmacy.
 
 Rutgers University offers a competitive salary & comprehensive benefits package. Affirmative Action/Equal Opportunity Employer, M/F/D/V. For more information, visit uhr.rutgers.edu."
+tag: job
 ---
 
 ### Description###

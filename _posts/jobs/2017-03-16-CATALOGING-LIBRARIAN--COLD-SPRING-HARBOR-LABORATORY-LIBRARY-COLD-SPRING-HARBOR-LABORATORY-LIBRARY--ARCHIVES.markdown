@@ -3,6 +3,7 @@ layout: post
 title:  "Cataloging Librarian - Cold Spring Harbor Laboratory Library - Cold Spring Harbor Laboratory Library & Archives"
 date:   2017-03-16
 excerpt: "Cold Spring Harbor Laboratory Library & Archives is presently seeking a part-time Cataloging Librarian."
+tag: job
 ---
 
 ### Description###

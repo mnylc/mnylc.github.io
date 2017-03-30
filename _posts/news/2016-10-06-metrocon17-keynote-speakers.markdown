@@ -2,6 +2,7 @@
 layout: post
 title:  METROcon17 Keynote Speakers
 date:   2016-10-06
+tag:	news
 
 ---
 We're excited to announce the two keynote speakers we will hear from at METRO's 2017 Annual Conference.

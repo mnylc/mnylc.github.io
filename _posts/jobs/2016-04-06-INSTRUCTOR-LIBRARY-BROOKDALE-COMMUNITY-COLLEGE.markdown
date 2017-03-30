@@ -6,6 +6,7 @@ excerpt: "Brookdale Community College (Lincroft, NJ), is seeking an innovative, 
 
 The successful candidate will design, teach, and assess information literacy curricula in partnership with discipline faculty; maintain awareness of current trends and best practices in instructional pedagogy; provide information and research services to a diverse population; engage in collection management activities with both print and digital collections; promote effective, collaborative working relationships with liaison areas; work with discipline faculty to discover and evaluate open educational resources  
 "
+tag: job
 ---
 
 ### Description###

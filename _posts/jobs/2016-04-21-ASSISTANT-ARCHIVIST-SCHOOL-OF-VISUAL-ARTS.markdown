@@ -11,6 +11,7 @@ Working closely with the Archivist, the Assistant Archivist helps to accession, 
 School of Visual Arts (SVA) in New York City is an established leader and innovator in the education of artists. From its inception in 1947, the faculty has been comprised of professionals working in the arts and art-related fields. SVA provides an environment that nurtures creativity, inventiveness and experimentation, enabling students to develop a strong sense of identity and a clear direction of purpose. 
 
 Find out what it’s like to work at SVA.  Visit www.sva.edu/workingatsva  "
+tag: job
 ---
 
 ### Description###

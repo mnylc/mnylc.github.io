@@ -4,6 +4,7 @@ title:  "Instruction & Digital Services Librarian - MCNY"
 date:   2017-03-22
 excerpt: "Metropolitan College of New York (MCNY), a non-profit, regionally accredited college offering associate, bachelor's and master's degrees, and located in Manhattan and in the Bronx, seeks an Instruction & Digital Services Librarian.
 MCNY serves primarily adult learners and has a unique history rooted in Social Justice. We seek a librarian whose passions align with our core mission."
+tag: job
 ---
 
 ### Description###

@@ -11,6 +11,7 @@ St. John’s University seeks an inspiring leader with significant experience ab
 The Dean reports to the Provost and will collaborate with the Academic Deans, and other senior administrators to ensure support and resources to the University’s colleges and schools (College of Liberal Arts and Sciences, School of Education, College of Pharmacy and Health Sciences, Tobin College of Business, College of Professional Studies), and administrative area programs, through both traditional and innovative library resources and services.
 
 This position fosters an environment that facilitates the advancement of research, teaching, and scholarly activities with an understanding of traditional and innovative methods of information dissemination, digital learning, and emerging technologies.  It also works closely with Institutional Advancement to develop community engagement, external partnerships, and alumni activities to vitalize Friends of the Library and other fundraising initiatives. The Dean represents the University Library at regional, national, and international events."
+tag: job
 ---
 
 ### Description###

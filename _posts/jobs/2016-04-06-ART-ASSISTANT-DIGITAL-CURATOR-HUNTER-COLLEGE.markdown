@@ -7,6 +7,7 @@ excerpt: "The Art Assistant Digital Curator position will report to the Digital 
 The Center for Puerto Rican Studies is a research institute dedicated to the study and interpretation of the Puerto Rican experience in the United States, producing and disseminating relevant interdisciplinary research. Centro also collects preserves and provides access to library and archival resources documenting Puerto Rican history and heritage. We seek to link scholarship to social action and policy debates, and to contribute to the betterment of our community and enrichment of Puerto Rican studies. centropr.hunter.cuny.edu
 
 Hunter College, located in the heart of Manhattan, is the largest college in the City University of New York (CUNY). Founded in 1870, it is also one of the oldest public colleges in the country."
+tag: job
 ---
 
 ### Description###

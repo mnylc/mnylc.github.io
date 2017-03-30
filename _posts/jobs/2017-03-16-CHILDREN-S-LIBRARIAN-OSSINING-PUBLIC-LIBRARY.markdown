@@ -6,6 +6,7 @@ excerpt: "Creative and dynamic part -time (up to 17 hours) Children's Librarian 
 
 The hours will include Sundays from 12:45 - 5 pm.
 "
+tag: job
 ---
 
 ### Description###

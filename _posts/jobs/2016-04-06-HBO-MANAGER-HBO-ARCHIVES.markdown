@@ -5,6 +5,7 @@ date:   2016-04-06
 excerpt: "The HBO Archives Manager works in partnership with other managers to plan and implement projects in support of HBO Archives initiatives. This position will also carry out research and provide fulfillment of archive material to external clients, production partners, and HBO original productions.
  
 This candidate must have a proven understanding of digitization & encoding workflows and archive sales."
+tag: job
 ---
 
 ### Description###

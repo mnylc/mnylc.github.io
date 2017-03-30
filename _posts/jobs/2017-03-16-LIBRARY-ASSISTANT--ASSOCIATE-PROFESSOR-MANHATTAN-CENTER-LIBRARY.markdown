@@ -17,6 +17,7 @@ Description
 Librarian: Manhattan Center Library 
 Assistant/Associate Professor (Coordinator of Manhattan Center Library)
 (full time position, starting Summer, 2017)"
+tag: job
 ---
 
 ### Description###

@@ -5,6 +5,7 @@ date:   2017-03-24
 excerpt: "About you:
 
 You love organizing data! You have a passion for problems of governance, use, and knowledge sharing. Schema, taxonomy, and archives are subjects that fire your imagination. You don’t need to have experience in every area listed below, but should be willing to build skills in the rest."
+tag: job
 ---
 
 ### Description###

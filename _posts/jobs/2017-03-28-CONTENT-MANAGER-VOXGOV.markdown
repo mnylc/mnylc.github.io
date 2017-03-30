@@ -7,6 +7,7 @@ Voxgov is fast growing startup company that collects, organizes, and analyzes te
 
 About you
 You are an extremely detail-oriented individual, who can quickly and accurately find and report errors in our content. You have basic computer skills and are comfortable working in front of a computer for long stretches. You are eager to work for a growing start-up and becoming an invaluable member of our team. You are a motivated self-starter."
+tag: job
 ---
 
 ### Description###

@@ -37,6 +37,7 @@ Physical/Environmental Requirements:
 * Indoor environment, working closely with others and also independently. * Occasional exposure to dust and mold.
 
 The New York Society Library is an historic membership library founded in 1754. The Library today is open to all for reading, reference, and selected events, with circulation and other services by subscription. The beautiful landmarked building dates from 1917 and includes reading rooms, spaces for study, book stacks, and the Assunta, Ignazio, Ada and Romano Peluso Exhibition Gallery. The Library has approximately 300,000 volumes and hosts a variety of special events, reading groups, and workshops, as well as the New York City Book Awards."
+tag: job
 ---
 
 ### Description###

@@ -3,6 +3,7 @@ layout: post
 title:  "OFFICE ASSISTANT - R. C. Diocese of Brooklyn Archives"
 date:   2017-03-28
 excerpt: "Provide clerical and administrative support to the Archives office. In addition, this position is responsible for researching and certifying school records. Provide assistance in the safekeeping of permanent records and historically valuable documents. Participate in research activities based on archival materials.  Provide back-up receptionist coverage for the front desk."
+tag: job
 ---
 
 ### Description###
