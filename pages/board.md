@@ -47,9 +47,9 @@ The New School
 
 **Leah Meisterlin**  
 Associate Professor  
-Graduate School of Architecture, Planning, and Preservation
-Columbia University
-2016-2021
+Graduate School of Architecture, Planning, and Preservation  
+Columbia University  
+2016-2021  
 
 **James G. Neal**  
 University Librarian Emeritus  
