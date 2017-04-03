@@ -5,7 +5,7 @@ require 'uri'
 require 'net/http'
 require 'JSON'
 require 'yaml'
-require 'byebug'
+
 eb_token = ENV['EVENTBRITE_TOKEN']
 meetup_token = ENV['MEETUP_TOKEN']
 
@@ -38,9 +38,9 @@ k = JSON.parse(resp)
 
 k.each do |ev|
   ev['start'] = {}
-  ev['start']['utc'] = Time.at(ev['time'] / 1000).to_s
-  local_start = (ev['time'] - ev['utc_offset']) / 1000
-  ev['start']['local'] = Time.at(local_start).to_s
+  start_time = Time.at(ev['time'] / 1000)
+  ev['start']['utc'] = start_time.to_s
+  ev['start']['local'] = start_time.to_s
   ev_desc = ev['description']
   ev['description'] = {}
   ev['description']['html'] = ev_desc
@@ -51,7 +51,6 @@ k.each do |ev|
   j['events'].push(ev)
 end
 
-byebug
 # YAMLize
 j['events'].sort_by! { |h| h['start']['utc'] }
 y = j['events'].to_yaml

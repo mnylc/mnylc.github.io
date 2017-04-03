@@ -18,7 +18,7 @@ We are committed to providing a welcoming and productive environment for all. Pl
       {{ e['name']['html'] }}
     </a>
 	</h3>
-	<div class="post-date">{{ e.start.local | date: "%a, %b %d, %Y, %R %p" }}</div>
+	<div class="post-date">{{ e.start.local | date: "%a, %b %d, %Y, %l:%M %P" }}</div>
 	<br/>
 	<div class="post-excerpt">{{ e.description.html }} </div>
 	<br/>

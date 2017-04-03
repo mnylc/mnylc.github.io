@@ -27,7 +27,7 @@
     html: Research Forum for STEM Librarians
   start:
     utc: '2017-04-06 13:30:00 -0400'
-    local: '2017-04-06 17:30:00 -0400'
+    local: '2017-04-06 13:30:00 -0400'
   url: https://www.meetup.com/stmlibrarians/events/238054569/
 - name:
     text: 19th Annual Library Assistants' Day Celebration
@@ -231,7 +231,7 @@
     local: '2017-04-24T15:00:00'
     utc: '2017-04-24T19:00:00Z'
   created: '2017-03-07T21:22:51Z'
-  changed: '2017-03-29T19:32:34Z'
+  changed: '2017-03-31T15:06:35Z'
   capacity: 54
   capacity_is_custom: true
   status: live
