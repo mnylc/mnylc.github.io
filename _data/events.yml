@@ -1,6 +1,5 @@
 ---
-- utc_offset: -14400000
-  time: 1491499800000
+- time: 1491499800000
   link: https://www.meetup.com/stmlibrarians/events/238054569/
   description:
     html: '<p>1. Esther Jackson, and Samantha D’Acunto of the New York Botanical Gardens
@@ -231,7 +230,7 @@
     local: '2017-04-24T15:00:00'
     utc: '2017-04-24T19:00:00Z'
   created: '2017-03-07T21:22:51Z'
-  changed: '2017-03-31T15:06:35Z'
+  changed: '2017-04-03T15:17:02Z'
   capacity: 54
   capacity_is_custom: true
   status: live
@@ -273,3 +272,22 @@
     aspect_ratio: '2'
     edge_color: "#1b191a"
     edge_color_set: true
+
+- time: 1493764200000
+  link: https://www.meetup.com/Social-Justice-Libraries-Archives/events/238925173/
+  description:
+    html: "<p>Librarians are always organizers--of our collections, our services,
+      and, especially, each other. The past year has seen a surge of library union
+      activism, from a CUNY contract that got big wins for library faculty to the
+      stand against the lockout at LIU Brooklyn. We invite you to join other library
+      union activists in jump-starting solidarity connections across the city. Organizers
+      from CUNY and LIU Brooklyn will lead a planning discussion for steps we can
+      take to strengthen worker organizing in city libraries. Academic, special, school,
+      and public librarians are all welcome.</p> <p>This meeting will be facilitated
+      by Emily Drabinski and Jonathan Cope.</p> "
+  name:
+    html: 'Library Union Activism: Building Solidarity'
+  start:
+    utc: '2017-05-02 18:30:00 -0400'
+    local: '2017-05-02 18:30:00 -0400'
+  url: https://www.meetup.com/Social-Justice-Libraries-Archives/events/238925173/
