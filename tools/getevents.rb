@@ -27,7 +27,7 @@ resp = Net::HTTP.get(uri)
 j = JSON.parse(resp)
 
 # do the same for meetup.
-meetup_uri_str = 'https://api.meetup.com/self/events?photo-host=public&page=20&sig_id=221728975&status=upcoming&only=name,description,link,time,utc_offset&key=' + meetup_token
+meetup_uri_str = 'https://api.meetup.com/self/events?photo-host=public&page=20&status=upcoming&only=name,description,link,time&key=' + meetup_token
 uri = URI(meetup_uri_str)
 
 resp = Net::HTTP.get(uri)
