@@ -4,7 +4,22 @@ permalink: /599studio
 ---
 In March of 2017, we opened our new 8,000 square foot studio called 599 on the west side of midtown Manhattan. 599 is an architectural and programmatic instantiation of a digital library in physical space: we offer tools and resources that empower our members to read, write, and participate on the web. More specifically, our activities are focused on the digitization, description, and presentation of cultural heritage materials. 599 makes the labor and the communities associated with archiving and preservation visible, legible, and accessible; the space itself is a platform for action so that participants can organize to create their own community narratives. 
 
-599 is launching with five service points: a digital forensics station, an imaging station, a recording station, an audio / video transfer station, and a graphic output / print station. We’ll be adding more specifics about our equipment and its availability here soon, so stay in touch!
+599 is launching with five service points: a digital forensics station, a born-digital workstation, an imaging station, a recording station, an audio / video transfer station, and a graphic output / print station. We’ll be adding more specifics about our equipment and its availability here soon, so stay in touch!
+
+## Born-digital Workstation
+
+The born-digital workstation is a Windows 7 (64-bit) CPU with a 3.7 GHz Intel Xeon processor, 32 GB RAM, and a 2TB SATA hard drive. It comes equipped with [BitCurator](https://www.bitcurator.net/), an open-source suite of digital forensics tools, and [ePADD](http://epadd.stanford.edu/epadd/collections), an open-source software package that supports archival processes around the appraisal, ingest, processing, discovery, and delivery of email archives. The following legacy media drives are available to recover archival data:
+
+3.5” floppy disk drive
+5.25” floppy disk drive
+Zip disk drive
+Multimedia and memory cards (found in digital Cameras, MP3 Players, VoiceRecorders, etc.)
+
+## Digital Forensics Workstation
+
+The [Forensic Recovery of Evidence Device](https://www.digitalintelligence.com/products/fred/) (FRED) securely acquires data directly from IDE/EIDE/ATA/SATA/ATAPI/SAS/Firewire/USB hard drives and storage devices, as well as Blu-Ray, CD-ROM, DVD-ROM, Compact Flash, Micro Drives, Smart Media, Memory Stick, Memory Stick Pro, xD Cards, Secure Digital Media and Multimedia Cards. FRED uses FTK Imager and EnCase for analyzing and processing forensic disk captures.
+
+Both the Born-digital and the Digital Forensics workstations come equipped with hardware write blockers: IDE/SATA/SAS/USB 3.0/2.0/Firewire IEEE 1394b, PCIe.
 
 ## Imaging Station
 
