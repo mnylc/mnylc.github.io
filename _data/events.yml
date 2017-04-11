@@ -68,7 +68,7 @@
     local: '2017-04-24T15:00:00'
     utc: '2017-04-24T19:00:00Z'
   created: '2017-03-07T21:22:51Z'
-  changed: '2017-04-07T18:43:35Z'
+  changed: '2017-04-10T15:40:12Z'
   capacity: 54
   capacity_is_custom: true
   status: live
@@ -129,8 +129,10 @@
     local: '2017-05-02 18:30:00 -0400'
   url: https://www.meetup.com/Social-Justice-Libraries-Archives/events/238925173/
 - name:
-    text: 'Gov and Alt-gov Information Sources, Part 1: Legal and Regulatory Research'
-    html: 'Gov and Alt-gov Information Sources, Part 1: Legal and Regulatory Research'
+    text: 'Gov and Alt-gov Information Sources, Part 1: Legislative and Regulatory
+      Research'
+    html: 'Gov and Alt-gov Information Sources, Part 1: Legislative and Regulatory
+      Research'
   description:
     text: "Locating government information is difficult even in the best of times,
       and even more so when the government discontinues support of collection and
@@ -154,7 +156,7 @@
       <P><SPAN>Debbie Rabina is Professor of Library and Information Science at Pratt Institute School of information. Her areas of research and teaching include government information, information law and policy, and information and human rights.</SPAN></P>
       <P><SPAN><BR></SPAN></P>
   id: '33396213975'
-  url: https://www.eventbrite.com/e/gov-and-alt-gov-information-sources-part-1-legal-and-regulatory-research-tickets-33396213975?aff=ebapi
+  url: https://www.eventbrite.com/e/gov-and-alt-gov-information-sources-part-1-legislative-and-regulatory-research-tickets-33396213975?aff=ebapi
   start:
     timezone: America/New_York
     local: '2017-05-24T10:00:00'
@@ -164,7 +166,7 @@
     local: '2017-05-24T13:00:00'
     utc: '2017-05-24T17:00:00Z'
   created: '2017-04-03T15:07:27Z'
-  changed: '2017-04-06T21:03:03Z'
+  changed: '2017-04-10T23:49:45Z'
   capacity: 50
   capacity_is_custom: true
   status: live
@@ -242,7 +244,7 @@
     local: '2017-05-31T13:00:00'
     utc: '2017-05-31T17:00:00Z'
   created: '2017-04-03T15:13:34Z'
-  changed: '2017-04-06T21:01:09Z'
+  changed: '2017-04-10T23:51:51Z'
   capacity: 50
   capacity_is_custom: true
   status: live
