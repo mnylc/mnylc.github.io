@@ -1,5 +1,72 @@
 ---
 - name:
+    text: Designing Multi-Sensory Experiences in the Museum Setting
+    html: Designing Multi-Sensory Experiences in the Museum Setting
+  description:
+    text: |
+      Join us for a relaxed, informal mid-morning talk by Lesley Kadish, Accessibility Program Specialist at the Smithsonian Institution. She'll present on the topic of creative, multi-sensory experiences of archives and museums collections.
+
+      Coffee and snacks will be provided.
+    html: |-
+      <DIV><SPAN>Join us for a relaxed, informal mid-morning talk by Lesley Kadish, Accessibility Program Specialist at the Smithsonian Institution. She'll present on the topic of creative, multi-sensory experiences of archives and museums collections.</SPAN></DIV>
+      <DIV><SPAN></SPAN></DIV>
+      <DIV><SPAN>Coffee and snacks will be provided.</SPAN></DIV>
+      <DIV><SPAN></SPAN></DIV>
+  id: '33631018281'
+  url: https://www.eventbrite.com/e/designing-multi-sensory-experiences-in-the-museum-setting-tickets-33631018281?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-04-19T10:30:00'
+    utc: '2017-04-19T14:30:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-04-19T11:30:00'
+    utc: '2017-04-19T15:30:00Z'
+  created: '2017-04-11T17:10:10Z'
+  changed: '2017-04-11T17:10:14Z'
+  capacity: 50
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: true
+  version: 3.0.0
+  logo_id: '30301849'
+  organizer_id: '8929654067'
+  venue_id: '19169142'
+  category_id: 
+  subcategory_id: 
+  format_id: '2'
+  resource_uri: https://www.eventbriteapi.com/v3/events/33631018281/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30301849%2F160412581493%2F1%2Foriginal.jpg?s=c2361f7344fd91e7ad05b64521d52b27
+      width: 3013
+      height: 1589
+    id: '30301849'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30301849%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=21a1ed12116f8192ef46ce8b0f24d2a5
+    aspect_ratio: '2'
+    edge_color: "#9c9c9c"
+    edge_color_set: true
+- name:
     text: 'Facing the Future: Facilitating Climate Conversations at Your Library'
     html: 'Facing the Future: Facilitating Climate Conversations at Your Library'
   description:
@@ -87,6 +154,7 @@
   is_reserved_seating: false
   source: create_2.0
   is_free: false
+  version: 3.0.0
   logo_id: '29065062'
   organizer_id: '8929654067'
   venue_id: '18667212'
@@ -166,7 +234,7 @@
     local: '2017-05-24T13:00:00'
     utc: '2017-05-24T17:00:00Z'
   created: '2017-04-03T15:07:27Z'
-  changed: '2017-04-10T23:49:45Z'
+  changed: '2017-04-12T11:39:22Z'
   capacity: 50
   capacity_is_custom: true
   status: live
@@ -185,6 +253,7 @@
   is_reserved_seating: false
   source: create_2.0
   is_free: false
+  version: 3.0.0
   logo_id: '29998373'
   organizer_id: '8929654067'
   venue_id: '19050027'
@@ -244,7 +313,7 @@
     local: '2017-05-31T13:00:00'
     utc: '2017-05-31T17:00:00Z'
   created: '2017-04-03T15:13:34Z'
-  changed: '2017-04-10T23:51:51Z'
+  changed: '2017-04-12T11:43:22Z'
   capacity: 50
   capacity_is_custom: true
   status: live
@@ -263,6 +332,7 @@
   is_reserved_seating: false
   source: create_2.0
   is_free: false
+  version: 3.0.0
   logo_id: '29998720'
   organizer_id: '8929654067'
   venue_id: '19050027'
