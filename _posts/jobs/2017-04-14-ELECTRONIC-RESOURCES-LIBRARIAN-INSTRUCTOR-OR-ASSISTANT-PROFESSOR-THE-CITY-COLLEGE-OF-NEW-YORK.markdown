@@ -2,7 +2,7 @@
 layout: post
 title:  "Electronic Resources Librarian (Instructor or Assistant Professor) - The City College of New York"
 date:   2017-04-14
-excerpt: ""
+excerpt: "The City College of New York seeks an energetic, progressive Electronic Resources Librarian with experience in acquiring, licensing, accessing and assessing electronic resources. Reporting to the Associate Dean and Chief Librarian, the person will collaborate to support the City College (CCNY) curriculum through effective integration of e-resources into the library website and promote effective use of e-resources to all college users. Good technical as well as customer service skills are essential to this position."
 tag: job
 ---
 
