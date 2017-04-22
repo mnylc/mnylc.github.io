@@ -2,20 +2,7 @@
 layout: post
 title:  "Librarian I, Children’s Services - White Plains Public Library"
 date:   2017-03-27
-excerpt: "Do you love children’s literature, enjoy keeping abreast of publishing trends, and delight in creating a top-notch collection that will engage readers? Then come join us at the White Plains Public Library.
-
-Due to retirement, the White Plains Public Library has an opening for a Librarian I to work in The Trove, our library for children. One of the busiest public libraries in New York State, the White Plains Public Library values excellent customer service as well as innovation and experimentation in services and programs. 
-
-
-The City of White Plains is located 25 miles north of New York City in Westchester County. Home to 55,000 residents, the City’s population expands to 250,000 every workday as thousands of people travel to the City for work or school. The modern downtown has enjoyed a recent revitalization with expanded shopping and dining options. With a Metro North commuter railroad station and a bus transit center, people from all over Westchester County make White 
-Plains a destination for work, leisure and study. 
-
-The White Plains Public Library serves the City through one facility, located in downtown White Plains. With a staff of 42 FTE, in 2014 the Library attracted nearly 30,000 people to its programs and circulated over 700,000 items. In addition to the Trove, the library for children, in 2013 the Library opened the Edge, an innovative library for teens that includes a digital media lab. The final phase of its capital campaign will create the Hub, with a Learning Commons for adults as well as a café and bookstore. 
-
-The City of White Plains is an Equal Opportunity Employer 
-
-
-"
+excerpt: "Do you love children’s literature, enjoy keeping abreast of publishing trends, and delight in creating a top-notch collection that will engage readers? Then come join us at the White Plains Public Library. Due to retirement, the White Plains Public Library has an opening for a Librarian I to work in..."
 tag: job
 ---
 

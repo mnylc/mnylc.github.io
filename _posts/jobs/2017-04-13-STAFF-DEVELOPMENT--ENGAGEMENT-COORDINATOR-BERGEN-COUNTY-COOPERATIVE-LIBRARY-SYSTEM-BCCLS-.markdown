@@ -2,7 +2,7 @@
 layout: post
 title:  "Staff Development & Engagement Coordinator - Bergen County Cooperative Library System (BCCLS)"
 date:   2017-04-13
-excerpt: "The Bergen County Cooperative Library System (BCCLS) seeks a dynamic individual for its new Staff Development and Engagement Coordinator to serve the approximately 1,500 staff throughout the 77 member libraries of BCCLS. In tandem with its forthcoming Strategic Plan, BCCLS is prioritizing its strong need for central coordination of training opportunities for the full suite of products and services offered to member libraries through the BCCLS office. Innovation is key to growing this important focus of BCCLS."
+excerpt: "The Bergen County Cooperative Library System (BCCLS) seeks a dynamic individual for its new Staff Development and Engagement Coordinator to serve the approximately 1,500 staff throughout the 77 member libraries of BCCLS. In tandem with its forthcoming Strategic Plan, BCCLS is prioritizing its strong need for central coordination of training..."
 tag: job
 ---
 

@@ -2,13 +2,7 @@
 layout: post
 title:  "Professional Development Administrative Assistant - Metropolitan New York Library Council"
 date:   2016-04-06
-excerpt: "Located in New York City, the Metropolitan New York Library Council (METRO) is the largest of nine library councils in the state of New York, with METRO serving all of New York City and Westchester County. METRO offers a wide variety of classes, lectures, events, and other professional development activities for information professionals.
-
-METRO aims to serve as a laboratory and experimental space for our growing membership, combining new developments in librarianship with emerging technologies drawn from parallel fields.
-
-Reporting to the General Manager, the Professional Development Administrative Assistant is a part-time position responsible for implementing, facilitating, and supporting classroom-based and online events provided at METRO as well as assisting with other general administrative duties. This position will provide contact with high-level practitioners across the field and plays a hands-on role in facilitating events that bring up-to-date and relevant information to librarians, archivists, and other information professionals in New York City and Westchester County.
-
-The Professional Development Administrative Assistant will be required to work some evening hours and should have the ability to schedule around the METRO event calendar as needed. The position will be 15-20 hrs/wk and will pay $20/hour. The assistant is invited and encouraged to attend METRO’s workshops and events, all of which offer exciting opportunities to meet people and network with library professionals throughout the metropolitan New York area. METRO is a fun and collaborative workplace full of energy and enthusiasm."
+excerpt: "Located in New York City, the Metropolitan New York Library Council (METRO) is the largest of nine library councils in the state of New York, with METRO serving all of New York City and Westchester County. METRO offers a wide variety of classes, lectures, events, and other professional development activities..."
 tag: job
 ---
 

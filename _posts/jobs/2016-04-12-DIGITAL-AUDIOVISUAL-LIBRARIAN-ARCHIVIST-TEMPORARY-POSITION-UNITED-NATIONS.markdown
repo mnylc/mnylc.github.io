@@ -2,29 +2,7 @@
 layout: post
 title:  "Digital Audiovisual Librarian/Archivist (Temporary Position) - United Nations"
 date:   2016-04-12
-excerpt: "Under the overall supervision of the Chief of the Multimedia Resources Unit of the Audio Visual Services Section, News and Media Division, Department of Public Information and within limits of delegated authority, the contractor is responsible for:
-
-* Provides audiovisual library services support to DPI in the scope of Audiovisual Digitization Project with expertise on digital archiving for both access and preservation;  
-
-* Researches legacy metadata records and updates the Media Assets Management System (MAMS), ensuring that the legacy archive records are accurately catalogued and indexed;
-
-* Selects and curates historic legacy materials for external service digitization and ingestion into MAMS and local backup database and archival systems by researching various information sources for relevant material and cross-checking information with primary information sources as required;
-
-* Supports the functions of quality assurance of digitized audiovisual archives in accordance with UN DPI guidelines, policies and procedures and best practices;
-
-* Supports the UN in establishing and implementing policies, procedures, and standards for digital preservation and accessibility based on best practices and international standards;
-
-* Liaises with DPI Managers and external service providers to make sure the digitization project and all deliverables are provided within expected deadlines;
-
-* Trains and coach UN staff in best practices and workflows for digital AV archives preservation;
-
-* Performs other duties as assigned.
-
-Level: P-3
-Period: 9 months
-Position Reports To: Antonio Da Silva
-Location: United Nations - New York, USA
-Starts On: April 25, 2016"
+excerpt: "Under the overall supervision of the Chief of the Multimedia Resources Unit of the Audio Visual Services Section, News and Media Division, Department of Public Information and within limits of delegated authority, the contractor is responsible for: * Provides audiovisual library services support to DPI in the scope of Audiovisual..."
 tag: job
 ---
 

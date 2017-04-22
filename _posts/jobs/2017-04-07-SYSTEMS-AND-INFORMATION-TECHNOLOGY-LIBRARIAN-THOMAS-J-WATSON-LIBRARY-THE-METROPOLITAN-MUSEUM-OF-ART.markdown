@@ -2,7 +2,7 @@
 layout: post
 title:  "Systems and Information Technology Librarian - Thomas J. Watson Library, The Metropolitan Museum of Art"
 date:   2017-04-07
-excerpt: "The Systems and Information Technology Librarian performs a variety of key activities in Watson Library’s team-based environment. This position administers and maintains the library’s integrated library system and ensures its optimal performance and continuous development; manages the library’s hardware and software applications; and plays an active role in the library’s digital initiatives. This librarian is an active member of several technical services teams and provides reference and research support to library patrons. This position works collaboratively with library staff to regularly assess procedures, and develops strategies for the implementation of technologies to enhance access to the collections, to increase productivity, and to streamline workflows. This position will work collaboratively with the departments of Digital Media and Information Systems and Technology to coordinate and continuously improve library systems and services. This is an opportunity to contribute to the success of an innovative and productive art library while learning and applying new professional skills."
+excerpt: "The Systems and Information Technology Librarian performs a variety of key activities in Watson Library’s team-based environment. This position administers and maintains the library’s integrated library system and ensures its optimal performance and continuous development; manages the library’s hardware and software applications; and plays an active role in the library’s..."
 tag: job
 ---
 

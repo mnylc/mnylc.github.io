@@ -2,7 +2,7 @@
 layout: post
 title:  "Part-Time Temporary Cataloger  - Poets House"
 date:   2017-04-03
-excerpt: "Poets House, a 70,000-item poetry library and literary center in Lower Manhattan, seeks a Part-Time Temporary Cataloger for its unique Reed Foundation Library. The main focus of the position will be to assist in the cataloging of new acquisitions received for Poets House’s annual Poetry Showcase, an annual exhibition of recently published poetry and poetry-related items. The cataloger works under the supervision of the Director of Library and Outreach Services in support of library cataloging and materials processing functions. Work includes materials receiving and distribution functions as well as appropriate record keeping to monitor cataloging and processing efforts, in addition to other duties as assigned."
+excerpt: "Poets House, a 70,000-item poetry library and literary center in Lower Manhattan, seeks a Part-Time Temporary Cataloger for its unique Reed Foundation Library. The main focus of the position will be to assist in the cataloging of new acquisitions received for Poets House’s annual Poetry Showcase, an annual exhibition of..."
 tag: job
 ---
 

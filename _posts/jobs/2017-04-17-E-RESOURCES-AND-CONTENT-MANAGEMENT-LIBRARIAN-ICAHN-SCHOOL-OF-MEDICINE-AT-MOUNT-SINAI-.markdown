@@ -2,7 +2,7 @@
 layout: post
 title:  "E-Resources and Content Management Librarian - Icahn School of Medicine at Mount Sinai "
 date:   2017-04-17
-excerpt: "The E-resources and Content Management Librarian will participate in the ongoing coordination and management of the library’s e-resources, catalog, and discovery system. Under direction of the Assistant Director, this individual will follow emerging technology trends and current best practices in order to anticipate academic users’ needs and preferences in a highly digital and mobile environment. The E-Resources and Content Management Librarian will also participate in the selection, acquisition, and evaluation of electronic library resources."
+excerpt: "The E-resources and Content Management Librarian will participate in the ongoing coordination and management of the library’s e-resources, catalog, and discovery system. Under direction of the Assistant Director, this individual will follow emerging technology trends and current best practices in order to anticipate academic users’ needs and preferences in a..."
 tag: job
 ---
 

@@ -2,11 +2,7 @@
 layout: post
 title:  "Digital Services Librarian - New York Medical College Health Sciences Library"
 date:   2017-04-20
-excerpt: "
-Reporting: Associate Director, User Support, Education, and Research (USER) Services.  
-
-Purpose:  The Digital Services Librarian serves the educational, research and information needs of the University community via the creation and maintenance of web-based interactive content, tutorials, and reference services that extend library education and research assistance to all students, faculty, residents, fellows and employees of New York Medical College. This is a position that requires a technology-minded librarian who will stay abreast of technology trends and provide training, support, service development and implementation in the library relative to innovations.
-"
+excerpt: "Reporting: Associate Director, User Support, Education, and Research (USER) Services. Purpose: The Digital Services Librarian serves the educational, research and information needs of the University community via the creation and maintenance of web-based interactive content, tutorials, and reference services that extend library education and research assistance to all students, faculty,..."
 tag: job
 ---
 

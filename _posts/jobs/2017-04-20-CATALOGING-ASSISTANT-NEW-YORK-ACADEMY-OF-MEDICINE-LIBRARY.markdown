@@ -2,9 +2,7 @@
 layout: post
 title:  "Cataloging Assistant - New York Academy of Medicine Library"
 date:   2017-04-20
-excerpt: "The New York Academy of Medicine Library is looking for a knowledgeable and detail-oriented individual to serve as a Cataloging Assistant for its rare pamphlet collections. The Library’s collection contains a rich variety of formats, including rare books and journals, contemporary monographs and serials, bound manuscripts, archives and archival collections, historical and contemporary pamphlets, blueprints, graphical materials, audio-visual materials, and digital content. 
-The Cataloging Assistant will perform both copy cataloging and original cataloging of pamphlets in the Library’s rare RBS pamphlet collection. These pamphlets are mostly from the 18th century to the early 20th century, and many of them are in foreign languages. Many of the pamphlets have cards in the Library’s printed card catalog that the Cataloging Assistant need to consult. The Cataloging Assistant will also assess the condition of the pamphlets in consultation with the staff in the Library’s conservation lab and participate in the Library’s social media outreach program by writing one or more blog posts about noteworthy pamphlets. The successful applicant will be flexible, detail-oriented, self-directed, and interested in rare book and special collections cataloging. 
-"
+excerpt: "The New York Academy of Medicine Library is looking for a knowledgeable and detail-oriented individual to serve as a Cataloging Assistant for its rare pamphlet collections. The Library’s collection contains a rich variety of formats, including rare books and journals, contemporary monographs and serials, bound manuscripts, archives and archival collections,..."
 tag: job
 ---
 

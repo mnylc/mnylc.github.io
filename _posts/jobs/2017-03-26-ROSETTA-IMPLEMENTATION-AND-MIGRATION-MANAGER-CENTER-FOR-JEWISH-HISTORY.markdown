@@ -2,12 +2,7 @@
 layout: post
 title:  "Rosetta Implementation and Migration Manager - Center for Jewish History"
 date:   2017-03-26
-excerpt: "The Center for Jewish History is a collaborative home to five partner institutions: the American Jewish Historical Society, American Sephardi Federation, Leo Baeck Institute, Yeshiva University Museum and YIVO Institute for Jewish Research. The Center and its five partners serve the worldwide academic communities and the general public with combined holdings of over 30,000 linear feet of archival documents, a half million books, and thousands of photographs, artifacts, paintings and textiles – the largest repository documenting the Jewish experience outside Israel.  The provision of access and preservation oriented services to the collections is core to the Center for Jewish History’s mission on behalf of researchers and the partner organizations.
-The Center for Jewish History seeks a project manager for the implementation of the Ex Libris digital preservation management system, Rosetta.
-
-Implementation will include preparation for and comprehensive migration from Ex Libris digital asset management system, DigiTool, which currently holds over 1 million digital objects and associated metadata, totaling over 40 TB of material. Implementation will also include training partner staff on the new system, facilitating interoperability between descriptive and preservation systems, and collaboratively developing workflows to support the ongoing deposit of digitized material into the new system.
-
-The Rosetta Implementation and Migration Manager will report to the Senior Manager for Metadata and Discovery. The Metadata and Discovery Services department is tasked with coordinating the interoperability and integration between Center systems that control, describe, preserve, and provide access to the rich physical and digital holdings of the five Partner institutions. The successful candidate will work closely with department members in Metadata and Discovery Services, the Center’s Information Technology department, vendors, and stakeholders in the Center and Partner community to ensure that born-digital and digitized material will be preserved in perpetuity."
+excerpt: "The Center for Jewish History is a collaborative home to five partner institutions: the American Jewish Historical Society, American Sephardi Federation, Leo Baeck Institute, Yeshiva University Museum and YIVO Institute for Jewish Research. The Center and its five partners serve the worldwide academic communities and the general public with combined..."
 tag: job
 ---
 

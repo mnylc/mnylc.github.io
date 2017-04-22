@@ -2,18 +2,7 @@
 layout: post
 title:  "Assistant Community Library Manager - Queens Library"
 date:   2016-04-06
-excerpt: "If you are ready to work in the World’s Borough, the Queens Library wants you!
-
-The Queens Library is offering opportunities to work for one of the most dynamic and diverse urban libraries in the world. We are seeking highly-engaged, creative, customer service driven candidates who are eager for an opportunity to enrich lives in one of our 65 service locations.
-
-Queens Library is a renowned leader in providing innovative library and educational services, developing new technology applications and fostering community engagement. Recent accolades include:
-
-    2015 Winner ALA/Gale Cengage Learning & Reference Services Award
-    2014 ALA/Information Today “Library of the Future” Award
-    2013 Library of Congress Literacy Awards “Best Practice”
-    2013 Urban Libraries Council “Top Innovator” Award
-    2009 Library Journal “Library of the Year” Award
-"
+excerpt: "If you are ready to work in the World’s Borough, the Queens Library wants you! The Queens Library is offering opportunities to work for one of the most dynamic and diverse urban libraries in the world. We are seeking highly-engaged, creative, customer service driven candidates who are eager for an..."
 tag: job
 ---
 

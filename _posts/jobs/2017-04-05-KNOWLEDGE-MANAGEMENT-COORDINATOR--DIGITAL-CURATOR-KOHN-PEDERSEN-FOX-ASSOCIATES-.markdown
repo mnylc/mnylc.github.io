@@ -2,11 +2,7 @@
 layout: post
 title:  "Knowledge Management Coordinator / Digital Curator - Kohn Pedersen Fox Associates "
 date:   2017-04-05
-excerpt: "Award-winning global architecture firm headquartered in New York City seeks an organized, detail-oriented, and pro-active Knowledge Management Coordinator with good people skills and 2¬-5 years of working experience, ideally in the A/E/C or Design industries.
-
-Undertaking a brand new role at the firm, s/he will champion knowledge collection, organization, and dissemination for the firm, serving as the information custodian and resource for global practice. The Knowledge Management Coordinator will be the firm’s central resource for information so must be able to work and communicate effectively with multiple parties concurrently. As the firm’s “data champion”, s/he must be exceptionally well organized, detail-oriented and passionate about information management and knowledge sharing. 
-
-KPF is a creative, dynamic, and progressive environment and we seek a like-minded individual that is equally creative, innovative, forward-thinking, as well as communicative and service-oriented to oversee the KPF digital archives and knowledgebase across our offices around the globe. The KPF Knowledge Management Coordinator will work closely with architects, graphic designers, marketing professionals, and other colleagues globally to ensure the collective vital institutional knowledge of the company is captured and remains current and relevant to the firm as a whole. The KPF Knowledge Management Coordinator will also work closely with KPF’s programmers to fully integrate the knowledge capture onto the global intranet and disseminate this knowledge in the most judicious manner. Contributing directly with hands-on programming and UX design would be an advantage. "
+excerpt: "Award-winning global architecture firm headquartered in New York City seeks an organized, detail-oriented, and pro-active Knowledge Management Coordinator with good people skills and 2¬-5 years of working experience, ideally in the A/E/C or Design industries. Undertaking a brand new role at the firm, s/he will champion knowledge collection, organization, and..."
 tag: job
 ---
 

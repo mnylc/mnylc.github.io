@@ -2,7 +2,7 @@
 layout: post
 title:  "Assistant Professor (Coordinator of Instructional Services) - Adelphi University"
 date:   2017-04-10
-excerpt: "Reporting to the Dean of University Libraries, the Coordinator of Instructional Services leads the Adelphi Libraries’ Instruction Program and promotes the advancement and integration of information literacy across the curriculum. The successful candidate will work closely with librarians, teaching faculty, and campus partners to provide students with opportunities to attain information literacy skills necessary for academic success and life-long learning."
+excerpt: "Reporting to the Dean of University Libraries, the Coordinator of Instructional Services leads the Adelphi Libraries’ Instruction Program and promotes the advancement and integration of information literacy across the curriculum. The successful candidate will work closely with librarians, teaching faculty, and campus partners to provide students with opportunities to attain..."
 tag: job
 ---
 

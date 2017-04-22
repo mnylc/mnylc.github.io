@@ -2,11 +2,7 @@
 layout: post
 title:  "Music Librarian - Queens Library"
 date:   2016-04-06
-excerpt: "The schedule for this position will include evenings and Saturdays.
-
-Queens Library is a national and international leader in the delivery of public library service. Innovation and leadership are the hall marks of Queens Library. Our mission is to meet the needs of the community by offering lifelong learning opportunities and ensuring there is a positive impact in the community. Queens Library fulfills its goals by embracing innovation and change. With a history of offering pioneering programs that meet the diverse needs of the most diverse county in the US, Queens Library is a place where innovation and leaders are welcomed. Queens Library a private, non-profit corporation located in Queens, New York and includes 65 service locations with 1,700 employees.
-
-Queens Library is the proud recipient of the following awards: 2009 Library Journal, Library of the Year, 2014 ALA/Information Today, Library of the Future, 2013 ULC Top Innovators, 2013 American-Architect’s Building of the Year (Queens Library at Glen Oaks)."
+excerpt: "The schedule for this position will include evenings and Saturdays. Queens Library is a national and international leader in the delivery of public library service. Innovation and leadership are the hall marks of Queens Library. Our mission is to meet the needs of the community by offering lifelong learning opportunities..."
 tag: job
 ---
 

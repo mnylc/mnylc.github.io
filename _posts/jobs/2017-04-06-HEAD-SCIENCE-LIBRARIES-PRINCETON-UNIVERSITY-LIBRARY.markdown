@@ -2,17 +2,7 @@
 layout: post
 title:  "Head, Science Libraries - Princeton University Library"
 date:   2017-04-06
-excerpt: "Head, Science Libraries
-Princeton University Library
-Princeton, New Jersey
-Requisition D-17-LIB-00007
-
-Princeton University seeks a forward-thinking leader and innovative planner and manager for the position of Head of the Science Libraries. 
-
-The Peter B. Lewis Science Library provides library services and collections for students, faculty, and research staff in Astrophysics, Chemistry, Ecology and Evolutionary Biology, Molecular Biology, Geosciences, Mathematics, Physics, Plasma Physics and Psychology, as well as being a collaborative and welcoming space for undergraduate students in the sciences and across campus. It is also home of the Library’s Map and Geospatial Information Center. The Furth Plasma Physics Library is located at the Princeton Plasma Physics Laboratory at Forrestal Center near main campus. Further information on the Lewis Science Library: [https://library.princeton.edu/lewis](https://library.princeton.edu/lewis)
-
- This position is subject to the University's background check policy. Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, or any other characteristic protected by law.
-"
+excerpt: "Head, Science Libraries Princeton University Library Princeton, New Jersey Requisition D-17-LIB-00007 Princeton University seeks a forward-thinking leader and innovative planner and manager for the position of Head of the Science Libraries. The Peter B. Lewis Science Library provides library services and collections for students, faculty, and research staff in Astrophysics,..."
 tag: job
 ---
 

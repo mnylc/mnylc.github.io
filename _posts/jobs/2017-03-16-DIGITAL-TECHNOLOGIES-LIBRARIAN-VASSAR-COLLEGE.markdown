@@ -2,9 +2,7 @@
 layout: post
 title:  "Digital Technologies Librarian - Vassar College"
 date:   2017-03-16
-excerpt: "The Vassar College Libraries seek a dynamic, collaborative, and innovative library professional for the position of Digital Technologies Librarian.  The incumbent will work alongside faculty members, students, librarians, and IT colleagues across campus and within open-source communities on projects that advance research, teaching, and learning. This position is an excellent opportunity to work within a team to develop and maintain tools, systems, and applications that enhance scholars’ ability to pursue new avenues for learning and research using the Library’s resources and expertise.  The incumbent will also help to implement systems and services that bring library resources to our faculty and student scholars in innovative ways.
-
-Our team is the Digital Scholarship and Technology Services department.  We provide digital scholarship, digital library, repository, and technology services to the Libraries and the College. We work closely with other IT and academic computing groups on campus, and we strive to provide excellent digital services and collections to the Vassar community and beyond.  Our goal is to create the best digital scholarship opportunities possible for our liberal arts college.  We provide a congenial environment, interesting projects, and support for professional development and training."
+excerpt: "The Vassar College Libraries seek a dynamic, collaborative, and innovative library professional for the position of Digital Technologies Librarian. The incumbent will work alongside faculty members, students, librarians, and IT colleagues across campus and within open-source communities on projects that advance research, teaching, and learning. This position is an excellent..."
 tag: job
 ---
 

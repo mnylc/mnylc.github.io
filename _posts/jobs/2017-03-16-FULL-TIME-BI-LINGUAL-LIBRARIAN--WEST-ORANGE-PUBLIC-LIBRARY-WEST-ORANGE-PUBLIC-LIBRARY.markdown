@@ -2,9 +2,7 @@
 layout: post
 title:  "Full Time Bi-Lingual Librarian - West Orange Public Library - West Orange Public Library"
 date:   2017-03-16
-excerpt: " West Orange Public Library is looking for a bi-lingual Spanish/English Librarian to join our staff and provide outreach to West Orange’s thriving Hispanic Community. 
-
-West Orange is a diverse community of around 47,000 people 16 miles from NYC.  29% of West Orange residents are foreign born, and 33% speak a language other than English.  Approximately 43% of those have limited English proficiency.  In total around 16% of West Orange’s population speaks Spanish at home. The largest concentration of Spanish speakers live within walking distance of the library.  We would like a Spanish speaker in order to fully meet the needs of the Hispanic community."
+excerpt: "West Orange Public Library is looking for a bi-lingual Spanish/English Librarian to join our staff and provide outreach to West Orange’s thriving Hispanic Community. West Orange is a diverse community of around 47,000 people 16 miles from NYC. 29% of West Orange residents are foreign born, and 33% speak a..."
 tag: job
 ---
 

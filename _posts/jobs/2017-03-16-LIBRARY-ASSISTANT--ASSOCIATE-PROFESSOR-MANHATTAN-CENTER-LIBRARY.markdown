@@ -2,21 +2,7 @@
 layout: post
 title:  "Library Assistant / Associate Professor - Manhattan Center Library"
 date:   2017-03-16
-excerpt: "Librarian - Asst/Assoc Professor 
-(Coordinator of Manhattan Ctr Library)
-
-Job department/School: Manhattan Library
-FT/PT/Temp: Full time
-openings: 1
-Job Title: Librarian - Asst/Assoc Professor (Coordinator of Manhattan Ctr Library)
-Location: New York City
-
-________________________________________
-
-Description
-Librarian: Manhattan Center Library 
-Assistant/Associate Professor (Coordinator of Manhattan Center Library)
-(full time position, starting Summer, 2017)"
+excerpt: "Librarian - Asst/Assoc Professor (Coordinator of Manhattan Ctr Library) Job department/School: Manhattan Library FT/PT/Temp: Full time openings: 1 Job Title: Librarian - Asst/Assoc Professor (Coordinator of Manhattan Ctr Library) Location: New York City ________________________________________ Description Librarian: Manhattan Center Library Assistant/Associate Professor (Coordinator of Manhattan Center Library) (full time position, starting..."
 tag: job
 ---
 

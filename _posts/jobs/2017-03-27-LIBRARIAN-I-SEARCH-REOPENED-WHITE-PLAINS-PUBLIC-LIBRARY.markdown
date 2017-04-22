@@ -2,19 +2,7 @@
 layout: post
 title:  " Librarian I SEARCH REOPENED - White Plains Public Library"
 date:   2017-03-27
-excerpt: "The White Plains Public Library has a great story to tell. Come and help us share it! 
-
-We have an opening for a Librarian I to help develop our marketing and communications and provide public services to adults. 
-
-Applicants must be available to work evening as well as weekend hours.
-
-The White Plains Public Library serves the community through one, 90,000-square-foot facility, located in downtown White Plains. The Library has undergone a renovation and rebirth in the last decade, beginning with the creation of the Trove, a library for children. In 2013 it opened the Edge, an innovative library for teens that includes a digital media lab. The Hub for adults, with a Learning Commons as well as a café and bookstore, will open in fall, 2017. With a staff of 42 FTE, in 2016 the Library attracted nearly 30,000 people to its programs and circulated over 700,000 items.
-
-The City of White Plains is located 25 miles north of New York City in Westchester County. Home to 55,000 residents, the City’s population expands to 200,000 every workday as people travel to the City for work or school. The modern downtown has enjoyed a revitalization with expanded shopping and dining options. With a Metro North commuter railroad station and a bus transit center, people from all over Westchester County make White Plains a destination for work, leisure and study. 
-
-The City of White Plains is an Equal Opportunity Employer 
-
-"
+excerpt: "The White Plains Public Library has a great story to tell. Come and help us share it! We have an opening for a Librarian I to help develop our marketing and communications and provide public services to adults. Applicants must be available to work evening as well as weekend hours...."
 tag: job
 ---
 

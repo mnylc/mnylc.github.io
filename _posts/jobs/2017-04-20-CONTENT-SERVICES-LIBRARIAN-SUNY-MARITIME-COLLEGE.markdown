@@ -2,7 +2,7 @@
 layout: post
 title:  "Content Services Librarian - SUNY Maritime College"
 date:   2017-04-20
-excerpt: "The Content Services Librarian will create and maintain a collection development strategy to proactively develop a specialized print and electronic collection that supports the research needs of our students, faculty, and staff. The Content Services Librarian will also ensure that the library materials budget is efficiently allocated and aligned with established needs, assess the library's current collections for ongoing relevance and/or historical value and continually assess the effectiveness of the collection via circulation and usage statistics."
+excerpt: "The Content Services Librarian will create and maintain a collection development strategy to proactively develop a specialized print and electronic collection that supports the research needs of our students, faculty, and staff. The Content Services Librarian will also ensure that the library materials budget is efficiently allocated and aligned with..."
 tag: job
 ---
 

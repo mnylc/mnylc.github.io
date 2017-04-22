@@ -2,11 +2,7 @@
 layout: post
 title:  "Digital Projects Coordinator - Hunter College"
 date:   2016-04-06
-excerpt: "The Center for Puerto Rican Studies at Hunter College seeks a technically savvy individual who will contribute to the coordination, development and implementation of Centro’s digital projects. Working under the supervision of the Digital Archivist, the Digital Projects Coordinator will enforce best practices for processing, quality control, content management, and preservation of digital collections according to national standards. This individual will be expected to solve problems, answer questions and provide technical solutions to supervisor and staff, oversee training and supervision of other project team members, maintain statistics and prepare official project reports as requested, and will be responsible for technical aspects of digital project outcomes. The Digital Projects Coordinator will collaborate with both curatorial and technical staff from numerous teams at Centro including the Library & Archive, Media, IT and Oral History.
-
-The Center for Puerto Rican Studies is a research institute dedicated to the study and interpretation of the Puerto Rican experience in the United States, producing and disseminating relevant interdisciplinary research. Centro also collects preserves and provides access to library and archival resources documenting Puerto Rican history and heritage. We seek to link scholarship to social action and policy debates, and to contribute to the betterment of our community and enrichment of Puerto Rican studies. centropr.hunter.cuny.edu
-
-Hunter College, located in the heart of Manhattan, is the largest college in the City University of New York (CUNY). Founded in 1870, it is also one of the oldest public colleges in the country."
+excerpt: "The Center for Puerto Rican Studies at Hunter College seeks a technically savvy individual who will contribute to the coordination, development and implementation of Centro’s digital projects. Working under the supervision of the Digital Archivist, the Digital Projects Coordinator will enforce best practices for processing, quality control, content management, and..."
 tag: job
 ---
 

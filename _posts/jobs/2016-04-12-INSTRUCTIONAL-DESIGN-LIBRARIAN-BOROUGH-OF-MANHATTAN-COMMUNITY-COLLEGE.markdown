@@ -2,23 +2,7 @@
 layout: post
 title:  "Instructional Design Librarian - Borough of Manhattan Community College"
 date:   2016-04-12
-excerpt: "Performs teaching, research and guidance duties in area(s) of expertise. Shares responsibility for committee and department assignments including administrative, supervisory, and other functions.
-
-The Borough of Manhattan Community College (BMCC) is an integral part of the City University of New York (CUNY) with the largest college enrollment in the CUNY system of over 25,000 students. It is strategically located in downtown Manhattan in close proximity to the artistic communities of Tribeca and SoHo, the dynamic downtown financial district, and the center of New York City government at City Hall.
-
-A. Philip Randolph Memorial Library at the Borough of Manhattan Community College is growing and would like to attract new faculty members who will share and contribute to the growth process. We invite applications for an Instructor/Assistant, Associate or Full Professor position in Instructional Design.
-
-Library faculty are expected to provide research support to faculty, students, and staff in person, one on one consultations, via email and chat; participate in library's instruction program; participate in developing collections and acquiring materials in all formats and media. Faculty review Library usage patterns and makes recommendations regarding services; assist in developing and monitoring Library policies and user service standards; supervise and/or train staff, students, and others assigned to the Library. Duties may include some weekend and evening hours. Library faculty are expected to perform related duties as assigned. Research and publication are expected for tenure and promotion.
-
-The successful candidate will further have the ability to work collaboratively and creatively with library and College faculty to plan, develop, and deliver library instruction and provide instructional design support to university faculty. The Instructional Design Librarian will serve a dual role as a librarian supporting faculty, staff, and students through library instruction and research services as well as supporting the College faculty as an instructional design specialist. They will provide one-on-one professional and consulting services to faculty in the design and development of hybrid and fully online courses and will develop and support training activities for best practices of utilizing instructional technology tools and designing online courses. The Instructional Design Librarian will work collaboratively with E-Learning and the E-Learning Librarian to support effective delivery of the College's online courses and will work closely with the Associate Librarian for Public Services to ensure information literacy is included in courses across the College.
-
-Assistant/Associate/Full Professor:
-
-Supports a college library through providing in-depth consultation with students and faculty and collaboration for the ongoing improvement of instructional programs and practices. Pursues an active scholarly agenda, performs supervisory duties, and participates in college-and university-wide programs and committees as assigned.
-
-Instructor:
-
-Supports a college library through providing in-depth consultation with students and faculty and collaboration for the ongoing improvement of instructional programs and practices."
+excerpt: "Performs teaching, research and guidance duties in area(s) of expertise. Shares responsibility for committee and department assignments including administrative, supervisory, and other functions. The Borough of Manhattan Community College (BMCC) is an integral part of the City University of New York (CUNY) with the largest college enrollment in the CUNY..."
 tag: job
 ---
 

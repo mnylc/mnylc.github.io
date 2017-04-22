@@ -2,7 +2,7 @@
 layout: post
 title:  "Systems Administrator - Bergen County Cooperative Library System (BCCLS)"
 date:   2017-04-13
-excerpt: "The Bergen County Cooperative Library System (BCCLS) seeks a Systems Administrator to serve its 77 unique member libraries that own more than 5.8 million items and serve more than 700,000 cardholders within an area of over 1.2 million residents in Bergen, Essex, Hudson and Passaic Counties. The ILS (currently III’s Polaris and its web-based version, Leap) is the most integral core service that BCCLS provides to its member libraries, and this role focuses almost exclusively on the administration and support of this invaluable tool."
+excerpt: "The Bergen County Cooperative Library System (BCCLS) seeks a Systems Administrator to serve its 77 unique member libraries that own more than 5.8 million items and serve more than 700,000 cardholders within an area of over 1.2 million residents in Bergen, Essex, Hudson and Passaic Counties. The ILS (currently III’s..."
 tag: job
 ---
 

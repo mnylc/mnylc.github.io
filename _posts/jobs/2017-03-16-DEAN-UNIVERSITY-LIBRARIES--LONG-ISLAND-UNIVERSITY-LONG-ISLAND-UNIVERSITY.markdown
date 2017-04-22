@@ -2,7 +2,7 @@
 layout: post
 title:  "Dean, University Libraries -- Long Island University - Long Island University"
 date:   2017-03-16
-excerpt: "ounded in 1926, LIU is one of America’s largest and most comprehensive private universities with locations and programs spanning the New York metropolitan area, overseas, and online. With nearly 200,000 alumni worldwide, the university offers more than 500 academic programs and educates more than 23,000 students in New York through accredited programs in Brooklyn, Brookville (LIU Post), Brentwood, Riverhead, and Rockland and Westchester (LIU Hudson). Other academic units include LIU Pharmacy (the Arnold & Marie Schwartz College of Pharmacy and Health Sciences), which prepares students for successful careers in the fields of pharmacy and health care, and LIU Global, which provides a wide range of study abroad options at overseas centers in China and Costa Rica, as well as through programs in Australia, India, South Africa, Taiwan, and Thailand. In addition, LIU hosts NCAA Division I and II athletics as well as the internationally acclaimed Tilles Center for the Performing Arts and George Polk Awards in Journalism."
+excerpt: "ounded in 1926, LIU is one of America’s largest and most comprehensive private universities with locations and programs spanning the New York metropolitan area, overseas, and online. With nearly 200,000 alumni worldwide, the university offers more than 500 academic programs and educates more than 23,000 students in New York through..."
 tag: job
 ---
 

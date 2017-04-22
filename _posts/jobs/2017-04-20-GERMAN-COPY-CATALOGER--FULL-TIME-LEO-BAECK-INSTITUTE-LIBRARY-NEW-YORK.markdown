@@ -2,9 +2,7 @@
 layout: post
 title:  "German Copy Cataloger - full time  - Leo Baeck Institute Library, New York"
 date:   2017-04-20
-excerpt: "The Leo Baeck Institute, located at the Center for Jewish History (15 West 16th Street, New York), is seeking a full time German Copy Cataloger.  
-
-The Leo Baeck Institute is devoted to preserving the history of German-speaking Jews. Its 80,000-volume library and extensive archival and art collections represent the most significant repository of primary source material and scholarship on German-speaking Jewish communities. It is one of five partner organizations at the Center for Jewish History. For more information about the Leo Baeck Institute, please visit our website at [http://www.lbi.org](http://www.lbi.org)"
+excerpt: "The Leo Baeck Institute, located at the Center for Jewish History (15 West 16th Street, New York), is seeking a full time German Copy Cataloger. The Leo Baeck Institute is devoted to preserving the history of German-speaking Jews. Its 80,000-volume library and extensive archival and art collections represent the most..."
 tag: job
 ---
 

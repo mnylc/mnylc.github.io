@@ -2,11 +2,7 @@
 layout: post
 title:  "Library and Research Services Volunteer Internship - Council on Foreign Relations"
 date:   2017-04-06
-excerpt: "CFR’s volunteer internships provide selected interns with professional development and training opportunities in a foreign policy organization, as well as skills training in areas such as writing, research, and project management in a dynamic non-profit setting.
-
-The Council on Foreign Relations has a volunteer internship available in the Library and Research Services Department.  The library is undertaking two large digitization projects of archival photos and videos. The volunteer intern will work together with the library staff to conduct quality control for the Digital Asset Management system and combine resources into metadata files.
-
-This internship will provide the opportunity to learn about digital asset management and metadata creation, as well as to participate in departmental meetings, shadow supervisors and other team members, and attend project meetings. The intern will gain hands-on experience working on a digitization project that features engaging foreign policy content, receive professional development training offered to all CFR interns, and have the option to attend professional networking events with CFR librarians."
+excerpt: "CFR’s volunteer internships provide selected interns with professional development and training opportunities in a foreign policy organization, as well as skills training in areas such as writing, research, and project management in a dynamic non-profit setting. The Council on Foreign Relations has a volunteer internship available in the Library and..."
 tag: job
 ---
 

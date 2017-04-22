@@ -2,15 +2,7 @@
 layout: post
 title:  "Assistant Archivist - School of Visual Arts"
 date:   2016-04-21
-excerpt: "JOB TITLE: Assistant Archivist 
-DEPARTMENT: SVA  Library 
-REPORTS TO: Archivist
-
-Working closely with the Archivist, the Assistant Archivist helps to accession, arrange, describe, preserve and manage the Archives’ collections. The Assistant Archivist plays a key role in helping to oversee the Archives’ various digital initiatives, including developing the implementation of CollectiveAccess, Archive-It, and other tools to describe, preserve, and present archival holdings in digital form. She/he contributes to department planning and strategic development, provides public services and outreach through consultation, instruction and presentation. Additionally, the Assistant Archivist oversees the Archives when the Archivist is out of the office and helps to manage student assistants. 
-
-School of Visual Arts (SVA) in New York City is an established leader and innovator in the education of artists. From its inception in 1947, the faculty has been comprised of professionals working in the arts and art-related fields. SVA provides an environment that nurtures creativity, inventiveness and experimentation, enabling students to develop a strong sense of identity and a clear direction of purpose. 
-
-Find out what it’s like to work at SVA.  Visit www.sva.edu/workingatsva  "
+excerpt: "JOB TITLE: Assistant Archivist DEPARTMENT: SVA Library REPORTS TO: Archivist Working closely with the Archivist, the Assistant Archivist helps to accession, arrange, describe, preserve and manage the Archives’ collections. The Assistant Archivist plays a key role in helping to oversee the Archives’ various digital initiatives, including developing the implementation of..."
 tag: job
 ---
 

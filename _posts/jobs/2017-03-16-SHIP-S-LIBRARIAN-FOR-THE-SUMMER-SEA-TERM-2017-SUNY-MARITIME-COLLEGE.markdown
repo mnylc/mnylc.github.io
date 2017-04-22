@@ -2,20 +2,7 @@
 layout: post
 title:  "Ship's Librarian for the Summer Sea Term 2017 - SUNY Maritime College"
 date:   2017-03-16
-excerpt: "The Stephen B. Luce Library of SUNY Maritime College announces the position of Ship's Librarian aboard the Training Ship EMPIRE STATE VI during the 2016 Summer Sea Term.  The Ship's Librarian serves as the sole information professional and head of the library aboard the ship.  The ship's library serves as the repository of information aboard the ship.  It contains a collection over 3,000 titles and computer terminals with access to academic electronic resources.
-
-Special Notes: The librarian works on a full-time basis as the solo librarian aboard the EMPIRE STATE Training Ship. 
-
-The FULL Cruise appointment will begin May 1, 2017 and end August 11, 2017. However, you may apply and be considered for the following:
-- Cruise A (anticipated May 1, 2017  - June 22, 2017)
-- Cruise B (anticipated June 22, 2017 - August 11, 2017)
-- Full cruise (anticipated May 1, 2017 - August 11, 2017) 
-
-This is a temporary appointment. FLSA Exempt position, not eligible for the overtime provisions of the FLSA. Internal and external search to occur simultaneously.
-
-Budget Title: Technical Specialist (CSL)
-
-Salary Grade: NSSL"
+excerpt: "The Stephen B. Luce Library of SUNY Maritime College announces the position of Ship's Librarian aboard the Training Ship EMPIRE STATE VI during the 2016 Summer Sea Term. The Ship's Librarian serves as the sole information professional and head of the library aboard the ship. The ship's library serves as..."
 tag: job
 ---
 
