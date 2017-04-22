@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 # coding: utf-8
 require 'csv'
+require 'liquid'
 require 'byebug'
 
 CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
@@ -44,7 +45,7 @@ CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
 layout: post
 title:  "#{title} - #{institution}"
 date:   #{frontmatter_datestr}
-excerpt: "#{description}"
+excerpt: "#{ Liquid::Template::parse("{{ desc | strip_html | truncatewords: 50 }}").render({ 'desc' => description}) }"
 tag: job
 ---
 
