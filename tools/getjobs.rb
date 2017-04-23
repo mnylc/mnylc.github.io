@@ -2,7 +2,6 @@
 # coding: utf-8
 require 'csv'
 require 'liquid'
-require 'byebug'
 
 CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
   next if row[0] == 'Timestamp'
@@ -38,7 +37,6 @@ CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
   to_apply = row[9]
   company_info = row[10]
   contact_info = row[11]
-  #  byebug
 
   markdoc = <<HERE
 ---
