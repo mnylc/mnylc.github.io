@@ -38,12 +38,16 @@ CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
   company_info = row[10]
   contact_info = row[11]
 
+  # get a reasonable excerpt from the description.
+  template = Liquid::Template::parse("{{ desc | strip_html | truncatewords: 50 }}")
+  excerpt = template.render({ 'desc' => description })
+
   markdoc = <<HERE
 ---
 layout: post
 title:  "#{title} - #{institution}"
 date:   #{frontmatter_datestr}
-excerpt: "#{ Liquid::Template::parse("{{ desc | strip_html | truncatewords: 50 }}").render({ 'desc' => description}) }"
+excerpt: "#{excerpt}"
 tag: job
 ---
 
