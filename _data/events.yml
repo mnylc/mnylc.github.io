@@ -183,7 +183,7 @@
     local: '2017-05-24T13:00:00'
     utc: '2017-05-24T17:00:00Z'
   created: '2017-04-03T15:07:27Z'
-  changed: '2017-04-24T19:26:52Z'
+  changed: '2017-04-25T19:44:40Z'
   capacity: 50
   capacity_is_custom: true
   status: live
@@ -262,7 +262,7 @@
     local: '2017-05-31T13:00:00'
     utc: '2017-05-31T17:00:00Z'
   created: '2017-04-03T15:13:34Z'
-  changed: '2017-04-24T19:31:47Z'
+  changed: '2017-04-25T19:46:16Z'
   capacity: 50
   capacity_is_custom: true
   status: live
@@ -304,4 +304,70 @@
     url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29998720%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C225%2C900%2C450&s=d3adbca4d576a92ed3313818195264fb
     aspect_ratio: '2'
     edge_color: 
+    edge_color_set: true
+- name:
+    text: LAUNCH PARTY!
+    html: LAUNCH PARTY!
+  description:
+    text: |-
+      Your presence is kindly requested at our launch party on Thursday, June 1. Please join us on the 8th floor of 599 11th Avenue starting at 7:00 p.m. for a celebration with all the fixins.
+      Please RSVP so we know how many cupcakes to bake.
+      We can't wait to show you our new space!
+    html: |-
+      <P><SPAN>Your presence is kindly requested at our launch party on </SPAN><SPAN CLASS="aBn"><SPAN CLASS="aQJ">Thursday, June 1</SPAN></SPAN><SPAN>. Please j</SPAN><SPAN>oin us on the 8th floor of 599 11th Avenue starting at </SPAN><SPAN CLASS="aBn"><SPAN CLASS="aQJ">7:00 p.m.</SPAN></SPAN><SPAN> for a celebration with all the fixins.</SPAN></P>
+      <P>Please RSVP so we know how many cupcakes to bake.</P>
+      <P><SPAN>We can't wait to show you our new space!</SPAN></P>
+  id: '34031579370'
+  url: https://www.eventbrite.com/e/launch-party-tickets-34031579370?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-06-01T19:00:00'
+    utc: '2017-06-01T23:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-06-01T22:00:00'
+    utc: '2017-06-02T02:00:00Z'
+  created: '2017-04-25T13:50:41Z'
+  changed: '2017-04-25T13:53:11Z'
+  capacity: 100
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: true
+  version: 3.0.0
+  logo_id: '30742348'
+  organizer_id: '8929654067'
+  venue_id: '19169142'
+  category_id: 
+  subcategory_id: 
+  format_id: '11'
+  resource_uri: https://www.eventbriteapi.com/v3/events/34031579370/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30742348%2F160412581493%2F1%2Foriginal.jpg?s=56954181ee2b12f2050317fbe79d7dc6
+      width: 3013
+      height: 1589
+    id: '30742348'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30742348%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=77ce7013a268e55e81ba0676add4c076
+    aspect_ratio: '2'
+    edge_color: "#9c9c9c"
     edge_color_set: true
