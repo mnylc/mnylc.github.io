@@ -46,7 +46,7 @@
     local: '2017-04-27T11:00:00'
     utc: '2017-04-27T15:00:00Z'
   created: '2017-04-20T20:28:14Z'
-  changed: '2017-04-20T20:37:47Z'
+  changed: '2017-04-26T17:43:18Z'
   capacity: 40
   capacity_is_custom: true
   status: live
@@ -262,7 +262,7 @@
     local: '2017-05-31T13:00:00'
     utc: '2017-05-31T17:00:00Z'
   created: '2017-04-03T15:13:34Z'
-  changed: '2017-04-25T19:46:16Z'
+  changed: '2017-04-26T18:15:00Z'
   capacity: 50
   capacity_is_custom: true
   status: live
@@ -306,19 +306,18 @@
     edge_color: 
     edge_color_set: true
 - name:
-    text: LAUNCH PARTY!
-    html: LAUNCH PARTY!
+    text: METRO's Launch Party at 599
+    html: METRO&#39;s Launch Party at 599
   description:
-    text: |-
-      Your presence is kindly requested at our launch party on Thursday, June 1. Please join us on the 8th floor of 599 11th Avenue starting at 7:00 p.m. for a celebration with all the fixins.
-      Please RSVP so we know how many cupcakes to bake.
-      We can't wait to show you our new space!
+    text: |
+      METRO members, myMETRO members, & prospective members, your presence is requested at our launch party on Thursday, June 1. Please join us on the 8th floor of 599 11th Avenue starting at 7:00 p.m.
+      Kindly RSVP so that we know how many cookies to bake. 
     html: |-
-      <P><SPAN>Your presence is kindly requested at our launch party on </SPAN><SPAN CLASS="aBn"><SPAN CLASS="aQJ">Thursday, June 1</SPAN></SPAN><SPAN>. Please j</SPAN><SPAN>oin us on the 8th floor of 599 11th Avenue starting at </SPAN><SPAN CLASS="aBn"><SPAN CLASS="aQJ">7:00 p.m.</SPAN></SPAN><SPAN> for a celebration with all the fixins.</SPAN></P>
-      <P>Please RSVP so we know how many cupcakes to bake.</P>
-      <P><SPAN>We can't wait to show you our new space!</SPAN></P>
+      <P><SPAN>METRO members, myMETRO members, &amp; prospective members, your presence is requested at our launch party on </SPAN><SPAN CLASS="aBn"><SPAN CLASS="aQJ">Thursday, June 1</SPAN></SPAN><SPAN>. </SPAN>Please join us on the 8th floor of 599 11th Avenue starting at <SPAN CLASS="aBn"><SPAN CLASS="aQJ">7:00 p.m</SPAN></SPAN>.</P>
+      <P>Kindly RSVP so that we know how many cookies to bake. </P>
+      <P><BR></P>
   id: '34031579370'
-  url: https://www.eventbrite.com/e/launch-party-tickets-34031579370?aff=ebapi
+  url: https://www.eventbrite.com/e/metros-launch-party-at-599-tickets-34031579370?aff=ebapi
   start:
     timezone: America/New_York
     local: '2017-06-01T19:00:00'
@@ -328,8 +327,8 @@
     local: '2017-06-01T22:00:00'
     utc: '2017-06-02T02:00:00Z'
   created: '2017-04-25T13:50:41Z'
-  changed: '2017-04-25T13:53:11Z'
-  capacity: 100
+  changed: '2017-04-26T20:31:43Z'
+  capacity: 150
   capacity_is_custom: true
   status: live
   currency: USD
