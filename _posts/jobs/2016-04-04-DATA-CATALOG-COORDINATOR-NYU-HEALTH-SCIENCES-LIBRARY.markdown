@@ -2,6 +2,8 @@
 layout: post
 title:  "Data Catalog Coordinator - NYU, Health Sciences Library"
 date:   2016-04-04
+excerpt: "NYU Health Sciences Library seeks applicants for the position of Data Catalog Coordinator to plan and conduct outreach efforts promoting the Library’s Data Catalog ([https://datacatalog.med.nyu.edu/)](https://datacatalog.med.nyu.edu/)) to NYU researchers, create and curate metadata describing appropriate researcher datasets, and assist researchers with submitting their own metadata to the Data Catalog. As part..."
+tag: job
 ---
 
 ### Description###

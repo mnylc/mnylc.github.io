@@ -2,6 +2,8 @@
 layout: post
 title:  "Hospital Library Services Program (HLSP) Manager (PT) - Metropolitan New York Library Council"
 date:   2016-04-21
+excerpt: "Located in New York City, the Metropolitan New York Library Council (METRO) is the largest of nine library councils in the state of New York, with METRO serving all of New York City and Westchester County. METRO aims to serve as a laboratory and experimental space for our growing membership,..."
+tag: job
 ---
 
 ### Description###

@@ -7,3 +7,4 @@ _site
 /_posts/jobs/.byebug_history
 /.ruby-version
 /tools/.byebug_history
+.ruby-version

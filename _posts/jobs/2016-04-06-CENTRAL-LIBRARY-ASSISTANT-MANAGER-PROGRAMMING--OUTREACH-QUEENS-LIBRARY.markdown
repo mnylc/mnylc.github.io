@@ -2,6 +2,8 @@
 layout: post
 title:  "Central Library Assistant Manager, Programming & Outreach - Queens Library"
 date:   2016-04-06
+excerpt: "The Central Library Assistant Manager is a member of a cross functional Central Library Management team dedicated to providing customer service across the entire Central Library while assisting the Queens Library Programming/Outreach Manager in employing goals and work plans to manage the daily operations and delivery of Central Library programs..."
+tag: job
 ---
 
 ### Description###

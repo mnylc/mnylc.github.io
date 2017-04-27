@@ -2,6 +2,8 @@
 layout: post
 title:  "Part Time Library Aide - Fashion Institute of Technology"
 date:   2016-04-21
+excerpt: "The Fashion Institute of Technology (FIT), an internationally renowned college of art and design, business and technology, of the State University of New York, invites nominations and applications for a part time Library Aide. The Library Aide is responsible for providing general and specialized circulation assistance and services of a..."
+tag: job
 ---
 
 ### Description###

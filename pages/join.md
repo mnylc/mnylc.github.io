@@ -5,6 +5,8 @@ permalink: /join/
 
 For nearly 50 years, METRO’s state-of-the-art training, services, and networking opportunities have helped our diverse members in New York City and Westchester County stay at the forefront of the latest innovations in the library and archival services fields. We welcome your membership and look forward to working with you!
 
+<hr />
+
 ## Institutional / Corporate Membership
 
 Join over 250 libraries, archives, and museums in New York City and Westchester county as a member of METRO. Get access to grant programs, resource sharing, vendor discounts, and registration discounts on professional development for your institution's employees.
@@ -13,6 +15,7 @@ Please see our list of current members [here.]({{ '/assets/docs/Spring_2016_Memb
 
 ### Benefits
 
+* Studio Access
 * Digital Services
 * Grants
 * Resource Sharing

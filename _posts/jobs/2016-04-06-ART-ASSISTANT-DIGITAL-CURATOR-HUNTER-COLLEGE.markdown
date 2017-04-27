@@ -2,6 +2,8 @@
 layout: post
 title:  "Art Assistant Digital Curator - Hunter College"
 date:   2016-04-06
+excerpt: "The Art Assistant Digital Curator position will report to the Digital Archivist regarding the enhancement and development of digital assets pertaining to archival art collections. The Center for Puerto Rican Studies is a research institute dedicated to the study and interpretation of the Puerto Rican experience in the United States,..."
+tag: job
 ---
 
 ### Description###

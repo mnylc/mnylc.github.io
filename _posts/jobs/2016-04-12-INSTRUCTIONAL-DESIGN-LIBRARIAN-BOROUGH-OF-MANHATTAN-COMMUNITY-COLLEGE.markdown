@@ -2,6 +2,8 @@
 layout: post
 title:  "Instructional Design Librarian - Borough of Manhattan Community College"
 date:   2016-04-12
+excerpt: "Performs teaching, research and guidance duties in area(s) of expertise. Shares responsibility for committee and department assignments including administrative, supervisory, and other functions. The Borough of Manhattan Community College (BMCC) is an integral part of the City University of New York (CUNY) with the largest college enrollment in the CUNY..."
+tag: job
 ---
 
 ### Description###

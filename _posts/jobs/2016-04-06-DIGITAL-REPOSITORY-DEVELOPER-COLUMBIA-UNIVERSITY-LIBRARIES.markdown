@@ -2,6 +2,8 @@
 layout: post
 title:  "Digital Repository Developer - Columbia University Libraries"
 date:   2016-04-06
+excerpt: "Digital Repository Developer Columbia University Libraries/Information Services The Center for Digital Research and Scholarship (CDRS) seeks a motivated, collaborative and forward-thinking full-time Digital Repository Developer to join our team of in-house developers and staff supporting the strategic goals of the organization, with a strong focus on the university's institutional repository..."
+tag: job
 ---
 
 ### Description###

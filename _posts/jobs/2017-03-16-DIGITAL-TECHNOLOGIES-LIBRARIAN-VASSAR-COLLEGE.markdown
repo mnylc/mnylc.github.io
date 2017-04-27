@@ -2,6 +2,8 @@
 layout: post
 title:  "Digital Technologies Librarian - Vassar College"
 date:   2017-03-16
+excerpt: "The Vassar College Libraries seek a dynamic, collaborative, and innovative library professional for the position of Digital Technologies Librarian. The incumbent will work alongside faculty members, students, librarians, and IT colleagues across campus and within open-source communities on projects that advance research, teaching, and learning. This position is an excellent..."
+tag: job
 ---
 
 ### Description###

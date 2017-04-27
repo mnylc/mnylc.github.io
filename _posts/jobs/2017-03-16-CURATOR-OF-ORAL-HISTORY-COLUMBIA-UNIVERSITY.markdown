@@ -2,6 +2,8 @@
 layout: post
 title:  "Curator of Oral History - Columbia University"
 date:   2017-03-16
+excerpt: "The Columbia University Libraries invites nominations and applications for the position of Curator of Oral History, Rare Book & Manuscript Library. The Rare Book & Manuscript Library is Columbia University's largest repository for primary source collections. The range of collections in the RBML span more than 4,000 years and comprise..."
+tag: job
 ---
 
 ### Description###

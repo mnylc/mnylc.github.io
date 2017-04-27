@@ -2,6 +2,8 @@
 layout: post
 title:  "Data Specialist - Queens Library"
 date:   2016-04-04
+excerpt: "The Data Specialist is responsible for database maintenance, batch processes and trouble-shooting activities. Duties include performing record overlays, batch record edits and assisting team to maintain database accuracy. Serve on the team resolving technical issues with the library’s ILS, DAMS and metadata vendors. * Maintain a running list of enhancements..."
+tag: job
 ---
 
 ### Description###

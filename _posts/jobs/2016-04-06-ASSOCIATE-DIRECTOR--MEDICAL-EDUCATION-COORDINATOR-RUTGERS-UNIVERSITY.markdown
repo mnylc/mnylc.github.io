@@ -2,6 +2,8 @@
 layout: post
 title:  "Associate Director & Medical Education Coordinator - Rutgers University"
 date:   2016-04-06
+excerpt: "The position announcement below reflects the organizational structure of Rutgers University Libraries – Health Sciences Libraries. We are recruiting an Associate Director and Medical Education Coordinator whose primary role will be to contribute to the scholarly, academic and research goals of Robert Wood Johnson Medical School and the other New..."
+tag: job
 ---
 
 ### Description###

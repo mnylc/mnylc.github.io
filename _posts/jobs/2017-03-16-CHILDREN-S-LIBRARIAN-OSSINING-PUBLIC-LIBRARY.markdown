@@ -2,6 +2,11 @@
 layout: post
 title:  "Children's Librarian - Ossining Public Library"
 date:   2017-03-16
+excerpt: "Creative and dynamic part -time (up to 17 hours) Children's Librarian wanted for the Ossining Public Library Children's Room team.
+
+The hours will include Sundays from 12:45 - 5 pm.
+"
+tag: job
 ---
 
 ### Description###

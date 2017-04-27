@@ -2,6 +2,8 @@
 layout: post
 title:  "Ship's Librarian for the Summer Sea Term 2017 - SUNY Maritime College"
 date:   2017-03-16
+excerpt: "The Stephen B. Luce Library of SUNY Maritime College announces the position of Ship's Librarian aboard the Training Ship EMPIRE STATE VI during the 2016 Summer Sea Term. The Ship's Librarian serves as the sole information professional and head of the library aboard the ship. The ship's library serves as..."
+tag: job
 ---
 
 ### Description###

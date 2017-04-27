@@ -2,6 +2,8 @@
 layout: post
 title:  "Senior Librarian (Russian Language Cataloger) - New York Public Library"
 date:   2016-04-06
+excerpt: "The Senior Librarian will be responsible for cataloging Russian, English and other language materials for the BookOps member libraries. The Librarian will catalog according to national standards for bibliographic description, classification, name and subject analysis and contribute authority records to national cooperative cataloging programs. "
+tag: job
 ---
 
 ### Description###

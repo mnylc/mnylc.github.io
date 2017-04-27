@@ -2,6 +2,8 @@
 layout: post
 title:  "Digital Audiovisual Librarian/Archivist (Temporary Position) - United Nations"
 date:   2016-04-12
+excerpt: "Under the overall supervision of the Chief of the Multimedia Resources Unit of the Audio Visual Services Section, News and Media Division, Department of Public Information and within limits of delegated authority, the contractor is responsible for: * Provides audiovisual library services support to DPI in the scope of Audiovisual..."
+tag: job
 ---
 
 ### Description###

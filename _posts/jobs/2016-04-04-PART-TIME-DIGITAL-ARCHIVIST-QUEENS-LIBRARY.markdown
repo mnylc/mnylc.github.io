@@ -2,6 +2,8 @@
 layout: post
 title:  "Part-Time Digital Archivist - Queens Library"
 date:   2016-04-04
+excerpt: "The Part-Time Digital Archivist is responsible for processing the library’s digital archives collections. The Part-Time Digital Archivist will train staff, volunteers and interns on digital archives projects and conduct quality control reviews on completed records. This position will also contribute to the curation of digital archives websites and social media..."
+tag: job
 ---
 
 ### Description###

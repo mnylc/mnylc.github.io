@@ -2,6 +2,8 @@
 layout: post
 title:  "Professional Development Administrative Assistant - Metropolitan New York Library Council"
 date:   2016-04-06
+excerpt: "Located in New York City, the Metropolitan New York Library Council (METRO) is the largest of nine library councils in the state of New York, with METRO serving all of New York City and Westchester County. METRO offers a wide variety of classes, lectures, events, and other professional development activities..."
+tag: job
 ---
 
 ### Description###

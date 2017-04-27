@@ -7,67 +7,71 @@ permalink: /board/
 
 **Norman J. Jacknis, President**  
 Senior Fellow, Intelligent Community Forum   
-2009-2015
+2005-2020
 
-**Joshua Greenberg, Vice President**  
+**Lisa G. Rosenblum, Vice President**  
+Chief Librarian, Brooklyn Public Library  
+2016-2021  
+
+**Joshua Greenberg, Treasurer**  
 Program Director, Digital Information Technology  
 Alfred P. Sloan Foundation  
-2012-2015   
+2012-2017   
 
 **Patricia C. Skarulis, Secretary**  
 Vice President of Information Systems & Chief Information Officer  
 Memorial Sloan-Kettering Cancer Center  
-2008-2015  
-
-**James G. Neal, Treasurer**  
-University Librarian Emeritus  
-Columbia University  
-2011-2014   
+2007-2017
 
 **LaRuth Gray**  
 Director of External Relations and Information Management  
 Metropolitan Center for Urban Education  
 New York University Steinhardt School of Education  
-2008-2016   
- 
+2008-2018  
+
 **Milan R. Hughston**  
 Chief of Library  
 Museum of Modern Art (MoMA)   
-2012-2015  
+2007-2017
 
 **Mary Lee Kennedy**  
 Chief Library Officer  
 New York Public Library  
-2015-2018  
+2016-2021  
 
 **Shannon Mattern**  
 Associate Professor  
 School of Media Studies  
 The New School  
-2015-2018  
+2016-2021
 
+**Leah Meisterlin**  
+Associate Professor  
+Graduate School of Architecture, Planning, and Preservation  
+Columbia University  
+2016-2021  
+
+**James G. Neal**  
+University Librarian Emeritus  
+Columbia University  
+2011-2021   
+ 
 **Christopher Platt**  
 Vice President of Library Services  
 The New York Public Library  
-2015-2021  
+2016-2021  
 
-**Lisa G. Rosenblum**  
-Chief Librarian  
-Brooklyn Public Library  
-2015-2018  
- 
 **Bonnie Tijerina**  
 Data & Society Research Fellow  
 President and Founder at Electronic Resources and Libraries.  
-2015-2018  
+2015-2020  
 
 **Nate Hill**  
 Executive Director  
 Metropolitan New York Library Council (METRO)
 
-## 2017 Meeting Dates
+## 2017 Board Meeting Dates
 
-* Monday, February 27, 2017 (virtual)
 * Thursday, April 27, 2017
 * Friday, June 30, 2017
 * Thursday, September 7, 2017
@@ -78,9 +82,13 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 
 ## Board Meeting Agendas & Minutes  
 
+**April 27, 2017**
+
+* [Agenda]({{ "/assets/board/04.27.2017BoardAgenda.pdf" | prepend: site.baseurl }})  
+
 **December 8, 2016**
 
-* [Agenda](12.8.2016_Board_Agenda.pdf)  
+* [Agenda]({{ "/assets/board/12.8.2016_Board_Agenda.pdf" | prepend: site.baseurl }})  
 * Minutes (pending)  
 
 **September 15, 2016**
@@ -121,7 +129,7 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 **February 17, 2015**
 
 * [Agenda]({{ "/assets/board/02.17.2015___Board_Agenda.pdf" | prepend: site.baseurl }})
-* [Minutes]({{ "/assets/board/02.17.2015___Board_Minutes.pd" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/02.17.2015___Board_Minutes.pdf" | prepend: site.baseurl }})
 
 **November 17, 2014**
 
@@ -149,7 +157,7 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 
 **September 10, 2013**
 
-* [Minutes]({{ "/assets/board/09.10.2013___Board_Minutes.pd" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/09.10.2013___Board_Minutes.pdf" | prepend: site.baseurl }})
 
 **May 10, 2013**
 
@@ -166,7 +174,7 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 **May 7, 2012**
 
 * [Agenda]({{ "/assets/board/05.07.2012___Board_Agenda_.pdf" | prepend: site.baseurl }})
-* [Minutes]({{ "/assets/board/05.07.2012___Board_Minutes.pd" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/05.07.2012___Board_Minutes.pdf" | prepend: site.baseurl }})
 
 **February 10, 2012**
 
@@ -174,7 +182,7 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 
 **November 10, 2011**
 
-* [Agenda]({{ "/assets/board/11.10.2011_Agenda.pd" | prepend: site.baseurl }})
+* [Agenda]({{ "/assets/board/11.10.2011_Agenda.pdf" | prepend: site.baseurl }})
 * [Minutes]({{ "/assets/board/11.10.2011___Board_Minutes.doc.pdf" | prepend: site.baseurl }})
 
 **September 8, 2011**

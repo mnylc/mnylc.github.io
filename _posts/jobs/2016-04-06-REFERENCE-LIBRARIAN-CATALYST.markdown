@@ -2,6 +2,8 @@
 layout: post
 title:  "Reference Librarian - Catalyst"
 date:   2016-04-06
+excerpt: "Catalyst is looking for a second full-time reference librarian to join our fast-paced Information Center (IC). Your responsibility as a member of the IC team is to support Catalyst’s mission by providing reference to questions from our 800 supporter organizations, the media, scholars, and the public on a variety of..."
+tag: job
 ---
 
 ### Description###

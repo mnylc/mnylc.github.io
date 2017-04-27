@@ -2,6 +2,8 @@
 layout: post
 title:  "Summer Paid Graduate Internship Program - NYPD"
 date:   2016-04-11
+excerpt: ""
+tag: job
 ---
 
 

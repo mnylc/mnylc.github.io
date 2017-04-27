@@ -2,6 +2,8 @@
 layout: post
 title:  "Head, Resource Management - New York University - New York University"
 date:   2017-03-16
+excerpt: "The New York University Libraries seek a collaborative and knowledgeable professional to serve as the Head of Resource Management, to lead a service-oriented department in the acquisition of research resources in all formats and oversee the quality control, upload, and maintenance of associated metadata. The successful candidate will combine demonstrated..."
+tag: job
 ---
 
 ### Description###

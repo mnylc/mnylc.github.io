@@ -57,7 +57,7 @@ The first 25 pounds of each shipment is free. Additional weight is charged at th
 Each library must designate a delivery site and a contact person. Additional delivery sites may be arranged at additional cost. 
 Additional delivery dates may be arranged at additional cost. 
 
-Please speak with your METRO Delivery Administrator to set up additional delivery sites and dates. Mark Parson can be reached at [marson@metro.org](mailto:marson@metro.org). 
+Please speak with your METRO Delivery Administrator to set up additional delivery sites and dates. Mark Parson can be reached at [mparson@metro.org](mailto:mparson@metro.org). 
 
 ### Site Locations 
 Libraries should designate a single on-site location for pick-up and delivery. (This location should be manned to provide signatures for incoming deliveries and oversee outgoing packages.) Additional pick-up and delivery locations can be arranged on a paid basis. 

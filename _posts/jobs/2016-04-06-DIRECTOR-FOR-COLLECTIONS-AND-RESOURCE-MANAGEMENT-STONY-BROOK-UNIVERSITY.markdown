@@ -2,6 +2,8 @@
 layout: post
 title:  "Director for Collections and Resource Management - Stony Brook University"
 date:   2016-04-06
+excerpt: "Stony Brook University, home to many highly ranked graduate research programs, is located 60 miles from New York City on Long Island's scenic North Shore. Our 1,100-acre campus is home to 24,000 undergraduate, graduate, and doctoral students and more than 13,500 faculty and staff. SBU is a comprehensive research-intensive university..."
+tag: job
 ---
 
 ### Description###

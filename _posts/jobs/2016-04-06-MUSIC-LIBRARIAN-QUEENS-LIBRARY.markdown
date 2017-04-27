@@ -2,6 +2,8 @@
 layout: post
 title:  "Music Librarian - Queens Library"
 date:   2016-04-06
+excerpt: "The schedule for this position will include evenings and Saturdays. Queens Library is a national and international leader in the delivery of public library service. Innovation and leadership are the hall marks of Queens Library. Our mission is to meet the needs of the community by offering lifelong learning opportunities..."
+tag: job
 ---
 
 ### Description###

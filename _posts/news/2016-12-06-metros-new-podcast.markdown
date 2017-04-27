@@ -2,6 +2,7 @@
 layout: post
 title:  "METRO's New Podcast!"
 date:   2016-12-06
+tag:	news
 
 ---
 Our new podcast Library Bytegeist debuted on November 15! Hosted by METRO Fellow Molly Schwartz, [Library Bytegeist](https://soundcloud.com/librarybytegeist) is a collection of audio stories about the libraries, archives, and museums of New York City.

@@ -2,6 +2,8 @@
 layout: post
 title:  "Assistant Archivist - School of Visual Arts"
 date:   2016-04-21
+excerpt: "JOB TITLE: Assistant Archivist DEPARTMENT: SVA Library REPORTS TO: Archivist Working closely with the Archivist, the Assistant Archivist helps to accession, arrange, describe, preserve and manage the Archives’ collections. The Assistant Archivist plays a key role in helping to oversee the Archives’ various digital initiatives, including developing the implementation of..."
+tag: job
 ---
 
 ### Description###

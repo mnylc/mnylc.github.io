@@ -2,6 +2,8 @@
 layout: post
 title:  "Technical Services Librarian - St. Francis College"
 date:   2016-04-04
+excerpt: "Schedule: The normal work schedule for this position is seven hours a day, thirty-five hours a week, Monday through Friday from 9 a.m. to 5 p.m. including occasional evening hours. Flexibility in work hours is required to accommodate the Library’s needs and changes in Library hours during intersessions and summer..."
+tag: job
 ---
 
 ### Description###

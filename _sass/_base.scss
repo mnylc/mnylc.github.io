@@ -1,5 +1,17 @@
+html, body {
+    height: 100%;
+}
+
 html {
     font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+    padding-top: 40px;
+}
+
+#homepage {
+    padding-top:80px;
 }
 
 header > div.container-fluid {
@@ -28,14 +40,7 @@ header .intro-lead-in {
 }
 
 .navbar-shrink .nav li ul.dropdown-menu a:hover {
-    color: #560056;
-}
-
-// Class
-.center-block {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    color: #5EDCE4;
 }
 
 #metro_carousel {
@@ -62,7 +67,7 @@ a.anchor {
 
 .carousel-caption > a{
     color: $primary-color;
-        text-shadow: none;
+    text-shadow: none;
 }
 
 .carousel-caption h2{
@@ -83,7 +88,7 @@ div.portfolio-caption {
 }
 
 .portfolio-caption > a {
-    color: #0107a5;
+    color: $primary-color;
 }
 
 .carousel-caption{

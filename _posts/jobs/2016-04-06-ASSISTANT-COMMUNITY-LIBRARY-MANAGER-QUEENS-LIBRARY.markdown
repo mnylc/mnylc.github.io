@@ -2,6 +2,8 @@
 layout: post
 title:  "Assistant Community Library Manager - Queens Library"
 date:   2016-04-06
+excerpt: "If you are ready to work in the World’s Borough, the Queens Library wants you! The Queens Library is offering opportunities to work for one of the most dynamic and diverse urban libraries in the world. We are seeking highly-engaged, creative, customer service driven candidates who are eager for an..."
+tag: job
 ---
 
 ### Description###

@@ -2,6 +2,8 @@
 layout: post
 title:  "Library Assistant IV - NYU, Health Sciences Library"
 date:   2016-04-04
+excerpt: "NYU Health Sciences Library seeks applicants for the position of Library Assistant IV to provide expert customer service both electronically and in-person from the newly renovated NYU Health Sciences Library facility, scheduled to open in spring 2016. The Library Assistant IV will assist other library staff in processing Interlibrary Loan..."
+tag: job
 ---
 
 ### Description###

@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # coding: utf-8
 require 'csv'
-require 'byebug'
+require 'liquid'
 
 CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
   next if row[0] == 'Timestamp'
@@ -37,13 +37,18 @@ CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
   to_apply = row[9]
   company_info = row[10]
   contact_info = row[11]
-  #  byebug
+
+  # get a reasonable excerpt from the description.
+  template = Liquid::Template::parse("{{ desc | strip_html | truncatewords: 50 }}")
+  excerpt = template.render({ 'desc' => description })
 
   markdoc = <<HERE
 ---
 layout: post
 title:  "#{title} - #{institution}"
 date:   #{frontmatter_datestr}
+excerpt: "#{excerpt}"
+tag: job
 ---
 
 #{"### Description###\n\n" + description + "\n" unless description.eql? ""}

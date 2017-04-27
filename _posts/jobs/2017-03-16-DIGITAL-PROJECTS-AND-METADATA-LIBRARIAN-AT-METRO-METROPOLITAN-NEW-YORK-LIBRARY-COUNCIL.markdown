@@ -2,6 +2,8 @@
 layout: post
 title:  "Digital Projects and Metadata Librarian at METRO - Metropolitan New York Library Council"
 date:   2017-03-16
+excerpt: "Located in New York City, the Metropolitan New York Library Council (METRO) is a non-profit organization working to develop and maintain essential library services throughout New York City and Westchester County. The METRO membership consists of a diverse group of over 250 libraries, archives, and information organizations ranging from New..."
+tag: job
 ---
 
 ### Description###
@@ -55,7 +57,7 @@ The ideal candidate will have:
 
 ### Compensation###
 
-Begins at $65,000
+$65,000
 
 
 ### Location###

@@ -2,6 +2,8 @@
 layout: post
 title:  "Digital Projects Coordinator - Hunter College"
 date:   2016-04-06
+excerpt: "The Center for Puerto Rican Studies at Hunter College seeks a technically savvy individual who will contribute to the coordination, development and implementation of Centro’s digital projects. Working under the supervision of the Digital Archivist, the Digital Projects Coordinator will enforce best practices for processing, quality control, content management, and..."
+tag: job
 ---
 
 ### Description###

@@ -2,6 +2,8 @@
 layout: post
 title:  "Project Archivist - Wildlife Conservation Society"
 date:   2016-04-06
+excerpt: "The Wildlife Conservation Society [WCS] Archives is seeking a highly motivated and energetic individual for a full-time, 12-month Project Archivist grant-funded position beginning July 2016. Founded in 1895 as the New York Zoological Society [NYZS], WCS is committed to saving wildlife and wild places worldwide. This initiative is carried out..."
+tag: job
 ---
 
 ### Description###

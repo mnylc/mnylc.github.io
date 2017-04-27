@@ -2,6 +2,8 @@
 layout: post
 title:  "Part-Time Bibliographic Assistant - The New York Society Library"
 date:   2016-04-21
+excerpt: "The Library is seeking a Part-Time Bibliographic Assistant. The position reports to the Head of Cataloging and Special Collections. The successful candidate will have some library experience (preferred). Responsibilities include: * Creating labels for library materials * Assisting in the maintenance of the online catalog * Creating and editing item..."
+tag: job
 ---
 
 ### Description###

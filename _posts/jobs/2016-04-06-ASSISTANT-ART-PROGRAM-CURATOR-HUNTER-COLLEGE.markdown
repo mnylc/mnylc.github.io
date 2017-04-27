@@ -2,6 +2,8 @@
 layout: post
 title:  "Assistant Art Program Curator - Hunter College"
 date:   2016-04-06
+excerpt: "The Assistant Art Program Curator position will report to the Senior Archivist on matters pertaining to the exhibition program. The Center for Puerto Rican Studies is a research institute dedicated to the study and interpretation of the Puerto Rican experience in the United States, producing and disseminating relevant interdisciplinary research...."
+tag: job
 ---
 
 ### Description###

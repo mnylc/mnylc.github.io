@@ -1,111 +1,60 @@
 ---
-pagination:
-  object_count: 2
-  page_number: 1
-  page_size: 50
-  page_count: 1
-  continuation: eyJwYWdlIjogMn0
-events:
 - name:
-    text: 19th Annual Library Assistants' Day Celebration
-    html: 19th Annual Library Assistants&#39; Day Celebration
+    text: 'Libraries on the Move: How Aarhus Library Meets Citizens Where They Are'
+    html: 'Libraries on the Move: How Aarhus Library Meets Citizens Where They Are'
   description:
-    text: "METRO's Library Assistants, Support Staff & Associates / Special Interest
-      Group\n19th ANNUAL LIBRARY ASSISTANTS’ DAY CELEBRATION \n# It’s All About U\n \n8:30-9:30
-      -- Registration & Refreshments\n\n9:30-9:40 -- Queens Library President and
-      CEO, Dennis M. Walcott (Introduction by Caron James)\n\n9:40-9:50 -- Welcome
-      & Introduction, by Val Colon\n\n9:50-10:00 -- Reading of Library Assistants
-      Day Proclamation, by Arlene Quammie\n\n10:00-10:10 -- Queens Executive Director,
-      Langston Hughes Library, Mikisha T. Morris, Ed. D. (Introduction by Dr. Cheryl
-      Marriott)\n\n10:10-10:20 -- METRO’s Community Engagement Manager, Davis Erin
-      Anderson (Introduction by Anthony Wyche)\n\n10:20-10:30 -- Presentation of the
-      39th Annual NYSLAA Conference in Liverpool, NY June 7-9, 2017 by Pamela Van
-      Duyne   \n\n10:30-10:40 -- Break\n\n10:40-10:50 -- Keynote Speaker: Anthony
-      M. Harman (Introduction by Nina Manning)\n\n10:50-11:50 -- Keynote Speaker:
-      Anthony M. Harmon, Director of Community & Parent Outreach, United Federation
-      of Teachers  \n\n11:50-12:15 -- Raffles, by Rita Gregory \n\n12:15-1:30 -- Lunch\n\n1:30-1:40
-      -- Direction to workshops\n\n1:40-2:40 -- Workshop selections:  \nA. Customer
-      Service\nPresenter: Manny Figueroa, Talent Development & Training Manager, Queens
-      Library\nB. Stress Management\nPresenter: Marzena Ermler, Career Services Manager,
-      New York Public Library\nStress is a natural part of life, but chronic stress
-      can take a toll on your physical and mental well-being. In this workshop, you’ll
-      learn how to resiliently manage stress. Marzena Ermler, SIBL Career Coach, will
-      present an overview of different techniques and tools based on the most recent
-      discoveries in brain science, so you can manage stressors and become more productive
-      and in control of difficult situations.\nC.  Social Media in the Library\nPresenter: 
-      Val Colon, President, Local 1930\nAn informal discussion on the importance of
-      Social Media in the library, now and beyond.\n\n2:40-2:50  --  Break      \n\n2:50-3:00
-      -- Introduction of Panel Discussion, by Rita Gregory\n\n3:00-4:00 -- Panelists:
-      Val Colon, Dr. Cheryl Marriott, Arlene Quammie, Anthony Wyche\n\n4:00-4:30 -- Conclusion,
-      Raffle, Evaluation, Rita Gregory         "
+    text: |-
+      Join us for a presentation and Q & A on an Aarhus Library project that uses design thinking tools to co-create mobile library units that meet citizens where they are.
+      Helene Bruhn Schvartzman, Project Manager & Consultant on Civic Engagement at Aarhus Public Libraries will discuss how the mobile units served as mobile platforms for dialogue about, and observation of, needs and resources in local communities. 
+      This talk will tackle the following questions:
+
+
+      How might design thinking methods be a motor for creating dynamic and empathic library services?
+
+
+      How might we “do library” close to, and together with, citizens and partners?
+
+
+      How might the library become more agile and flexible to meet and understand the needs of non-users?
+
+
+      This talk is presented free of charge. Breakfast snacks and coffee will be provided.
     html: |-
-      <P CLASS="MsoNormal">METRO's Library Assistants, Support Staff &amp; Associates / Special Interest Group</P>
-      <P><STRONG>19th ANNUAL LIBRARY ASSISTANTS’ DAY CELEBRATION </STRONG></P>
-      <P># It’s All About U</P>
-      <P CLASS="MsoNormal"> </P>
-      <P CLASS="MsoNormal">8:30-9:30 -- Registration &amp; Refreshments</P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>9:30-9:40 -- Queens Library President and CEO, Dennis M. Walcott (Introduction by Caron James)</SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>9:40-9:50 -- Welcome &amp; Introduction, by Val Colon</SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>9:50-10:00 -- Reading of Library Assistants Day Proclamation, by Arlene Quammie</SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>10:00-10:10 -- Queens Executive Director, Langston Hughes Library, Mikisha T. Morris, Ed. D. (Introduction by Dr. Cheryl Marriott)</SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>10:10-10:20 -- METRO’s Community Engagement Manager, Davis Erin Anderson (Introduction by Anthony Wyche)</SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>10:20-10:30 -- Presentation of the 39th Annual NYSLAA Conference in Liverpool, NY June 7-9, 2017 by Pamela Van Duyne   </SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>10:30-10:40 -- Break</SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>10:40-10:50 -- Keynote Speaker: Anthony M. Harman (Introduction by Nina Manning)</SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>10:50-11:50 -- Keynote Speaker: Anthony M. Harmon, Director of Community &amp; Parent Outreach, United Federation of Teachers  </SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>11:50-12:15 -- Raffles, by Rita Gregory </SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>12:15-1:30 -- Lunch</SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>1:30-1:40 -- Direction to workshops</SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>1:40-2:40 -- Workshop selections<I>:  </I></SPAN></P>
-      <P CLASS="MsoNormal"><SPAN>A. Customer Service</SPAN></P>
-      <P CLASS="MsoNormal"><SPAN>Presenter<I>: </I>Manny Figueroa, Talent Development &amp; Training Manager, Queens Library</SPAN></P>
-      <P CLASS="MsoNormal"><SPAN>B.<I> </I>Stress Management</SPAN></P>
-      <P CLASS="MsoNormal"><SPAN>Presenter: Marzena Ermler, Career Services Manager, New York Public Library</SPAN></P>
-      <P CLASS="MsoNormal"><SPAN>Stress is a natural part of life, but chronic stress can take a toll on your physical and mental well-being. In this workshop, you’ll learn how to resiliently manage stress. Marzena Ermler, SIBL Career Coach, will present an overview of different techniques and tools based on the most recent discoveries in brain science, so you can manage stressors and become more productive and in control of difficult situations.</SPAN></P>
-      <P CLASS="MsoNormal"><SPAN>C<I>.  </I>Social Media in the Library</SPAN></P>
-      <P CLASS="MsoNormal"><SPAN>Presenter:  Val Colon, President, Local 1930</SPAN></P>
-      <P CLASS="MsoNormal"><SPAN><SPAN>An informal discussion on the importance of Social Media in the library, now and beyond.</SPAN></SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal">2:40-2:50  --  Break      </P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>2:50-3:00 -- Introduction of Panel Discussion, by Rita Gregory</SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>3:00-4:00 -- Panelists<I>:</I> Val Colon, Dr. Cheryl Marriott, Arlene Quammie, Anthony Wyche</SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P CLASS="MsoNormal"><SPAN>4:00-4:30 -- Conclusion, Raffle, Evaluation, Rita Gregory         </SPAN></P>
-  id: '32637568847'
-  url: https://www.eventbrite.com/e/19th-annual-library-assistants-day-celebration-tickets-32637568847?aff=ebapi
+      <P><SPAN>Join us for a presentation and Q &amp; A </SPAN>on an Aarhus Library project that uses design thinking tools to co-create mobile library units that <SPAN>meet citizens where they are</SPAN>.</P>
+      <P><SPAN>Helene Bruhn Schvartzman, </SPAN><SPAN>Project Manager &amp; Consultant on Civic Engagement at </SPAN><SPAN>Aarhus Public Libraries will discuss how the mobile units</SPAN> served as mobile platforms for dialogue about, and observation of, needs and resources in local communities. </P>
+      <P>This talk will tackle the following questions:</P>
+      <UL>
+      <LI>
+      <P>How might design thinking methods be a motor for creating dynamic and empathic library services?</P>
+      </LI>
+      <LI>
+      <P>How might we <I>“do library” </I><SPAN>close to, and together with, citizens and partners?</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>How might the library become more agile and flexible to meet and understand the needs of non-users?</SPAN></P>
+      </LI>
+      </UL>
+      <P>This talk is presented free of charge. Breakfast snacks and coffee will be provided.</P>
+  id: '33907437057'
+  url: https://www.eventbrite.com/e/libraries-on-the-move-how-aarhus-library-meets-citizens-where-they-are-tickets-33907437057?aff=ebapi
   start:
     timezone: America/New_York
-    local: '2017-04-13T08:30:00'
-    utc: '2017-04-13T12:30:00Z'
+    local: '2017-04-27T10:00:00'
+    utc: '2017-04-27T14:00:00Z'
   end:
     timezone: America/New_York
-    local: '2017-04-13T16:30:00'
-    utc: '2017-04-13T20:30:00Z'
-  created: '2017-03-07T22:04:30Z'
-  changed: '2017-03-09T18:18:51Z'
-  capacity: 125
+    local: '2017-04-27T11:00:00'
+    utc: '2017-04-27T15:00:00Z'
+  created: '2017-04-20T20:28:14Z'
+  changed: '2017-04-26T17:43:18Z'
+  capacity: 40
   capacity_is_custom: true
   status: live
   currency: USD
   listed: true
   shareable: true
   online_event: false
-  tx_time_limit: 600
+  tx_time_limit: 900
   hide_start_date: false
   hide_end_date: false
   locale: en_US
@@ -116,100 +65,126 @@ events:
   is_reserved_seating: false
   source: create_2.0
   is_free: true
-  logo_id: '29066952'
+  version: 3.0.0
+  logo_id: '30611321'
   organizer_id: '8929654067'
-  venue_id: '18668008'
+  venue_id: '19292373'
   category_id: 
   subcategory_id: 
-  format_id: '1'
-  resource_uri: https://www.eventbriteapi.com/v3/events/32637568847/
+  format_id: '2'
+  resource_uri: https://www.eventbriteapi.com/v3/events/33907437057/
   logo:
     crop_mask:
       top_left:
         x: 0
-        y: 1040
-      width: 4160
-      height: 2080
+        y: 1244
+      width: 3024
+      height: 1512
     original:
-      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29066952%2F160412581493%2F1%2Foriginal.jpg?s=aef978a36ebd89247d852a5027c29e13
-      width: 4160
-      height: 4160
-    id: '29066952'
-    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29066952%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1040%2C4160%2C2080&s=8cd3cced96a563a84592245bc9626658
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30611321%2F160412581493%2F1%2Foriginal.jpg?s=dc0b697fb3d4a4277e732779ddfe50f1
+      width: 3024
+      height: 3024
+    id: '30611321'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30611321%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1244%2C3024%2C1512&s=5f1f3a7ac8252ca966c62be5b1406ea7
     aspect_ratio: '2'
-    edge_color: "#1b191a"
+    edge_color: "#a7a7a7"
     edge_color_set: true
-- name:
-    text: 'Facing the Future: Facilitating Climate Conversations at Your Library'
-    html: 'Facing the Future: Facilitating Climate Conversations at Your Library'
+- time: 1493764200000
+  link: https://www.meetup.com/Social-Justice-Libraries-Archives/events/238925173/
   description:
-    text: |-
-      From the news that earth surface temperatures hit a record high in 2016, to a presidential administration that denies the effect fossil fuels play in climate change, we are inundated with stories and images about climate change. And yet authentic face-to-face conversations about climate change (with family, friends, neighbors, colleagues) are rare. According to the Yale Program on Climate Change Communication, “more than half of those who are interested in global warming or think the issue is important ‘rarely’ or ‘never’ talk about it with family and friends.” 
-      In this workshop, participants will learn why dialogue about climate change is critical to creating a brighter future, and how librarians can facilitate dialogues that empower our communities to be better equipped to respond, adapt, and mitigate the effects.This interactive, experiential training will guide you through the creation of a “Climate Communications Toolbox” you can use to facilitate dialogue and host “Climate Conversations” within your library community. You will:
-
-
-      Learn how to create and host “Climate Conversations” at your library.
-
-
-      Share ideas for archiving and exhibiting artifacts created in workshops.
-
-
-      Brainstorm ideas for building community partnerships.
-
-
-      Learn why resilience and social capital are critical for communities to thrive and endure, and how libraries can help communities build both.
-
-
-      Experience mindfulness exercises as a tool for “re-wiring” the brain to stabilize the nervous system.
-
-
-      Explore your own thoughts and feelings about climate change through storytelling and reflective writing.
-
-
-
-      About our instructors
-      A 2017 Library Journal Mover & Shaker, Madeleine Charney is the Sustainability Studies Librarian at the University of Massachusetts Amherst Libraries. In 2015, she helped launch Talking Truth: Finding Your Voice Around the Climate Crisis, a highly collaborative, campus-wide project that facilitates contemplative experiences in which to explore this global threat.  She is co-founder of SustainRT: Libraries Fostering Resilient Communities, the newest round table under ALA, and serves as Immediate Past Coordinator. She is a Master Gardener, certified in Permaculture Design, a practitioner of herbal kitchen medicine and helped start up her local chapter of Mothers Out Front: Mobilizing for a Liveable Climate. Madeleine holds an MLS from University of Rhode Island (1991) and an MA in Sustainable Landscape Planning and Design (2003).
-      Jodi Shaw is a Senior Librarian at Brooklyn Public Library (BPL) where she conducts programming, reader’s advisory/reference services, school outreach and collection maintenance. Cross-departmental collaborations include serving on BPL's Children’s Steering and Collection Development Committees. In 2016 she was elected Coordinator-Elect of the ALA sustainability Round Table, where she works to support library initiatives aimed at fostering sustainability and community resiliency. She received her MLIS from Pratt Institute in 2015 where she received the Senior Leadership Award from the Pratt Office of Student Life. Jodi is an avid urban cyclist, film buff, meditator, and mother of twin boys. She is deeply passionate about organizational culture, public service, servant leadership and fostering community resiliency through dialogue, outreach and strategic coalition-building.
+    html: "<p>Librarians are always organizers--of our collections, our services,
+      and, especially, each other. The past year has seen a surge of library union
+      activism, from a CUNY contract that got big wins for library faculty to the
+      stand against the lockout at LIU Brooklyn. We invite you to join other library
+      union activists in jump-starting solidarity connections across the city. Organizers
+      from CUNY and LIU Brooklyn will lead a planning discussion for steps we can
+      take to strengthen worker organizing in city libraries. Academic, special, school,
+      and public librarians are all welcome.</p> <p>This meeting will be facilitated
+      by Emily Drabinski and Jonathan Cope.</p> "
+  name:
+    html: 'Library Union Activism: Building Solidarity'
+  start:
+    utc: '2017-05-02 18:30:00 -0400'
+    local: '2017-05-02 18:30:00 -0400'
+  url: https://www.meetup.com/Social-Justice-Libraries-Archives/events/238925173/
+- time: 1494424800000
+  link: https://www.meetup.com/Reference-Librarians-Interest-Group/events/239246489/
+  description:
+    html: "<p><b>Spring Reference SIG Meeting &amp; Call for Submissions:<br/>Urgent
+      Reference in Trumps America<br/>Wednesday, May 10th, 2017; 10am - 12pm</b></p>
+      <p>We welcome submissions for Lightning Round presentations on the theme of
+      Urgent Reference in a post-Trump climate.</p> <p>Students and patrons are approaching
+      the reference desk at a time abuzz with questions of misinformation &amp; disinformation
+      &amp; accusations of “fake news” &amp; “alternative facts.” Providing reference
+      has become differently urgent as the stakes for a Critical Information Literacy
+      -  for an informed citizenry at a time when the very definitions of “information”
+      and “literacy” are called into question - are suddenly, jarringly high.</p>
+      <p>This spring the METRO Reference SIG will focus on Reference Work in this
+      new climate. We believe that Reference Librarianship, in particular, is now,
+      and has always been an avenue for “care work.”  We seek to create a climate
+      to come together and discuss our practice, showcase tools for research, interrogate
+      systemic and evolving needs and to brainstorm and support one another in finding
+      solutions.</p> <p><b>Urgent Reference as it relates to:</b></p> <p>• News related
+      to the Trump administration in general</p> <p>• Healthcare/Affordable Care Act </p>
+      <p>• Issues on Immigration Legislation </p> <p>• Executive Orders and governmental
+      procedures </p> <p>• Working through “fake news” /”alternative” “facts” with
+      students </p> <p>• Determining the best ways to supply students with tools for
+      informed responses, etc.</p> <p><b>We consider Urgent Reference to mean reference
+      work that directly:</b></p> <p>• Seeks to uncover current events </p> <p>• Sources
+      news and various forms of media </p> <p>• Can differentiate between Right and
+      Left politics </p> <p>• Provides support to vulnerable communities </p> <p>• Provides
+      support to activist communities </p> <p>• Provides Critical Data Literacy </p>
+      <p>• Has a hand on the pulse of controversy</p> <p>Presentations should be 10
+      minutes each.  A group discussion will follow the presentations. Send one paragraph
+      descriptions of your presentation, detailing topics covered and if you will
+      have slides to kadler@mcny.edu &amp; ssmith4@gc.cuny.edu by April 30th 2016.<br/>Confirmations
+      will arrive by May 5th, 2017. </p> "
+  name:
+    html: 'Urgent Reference in Trumps America: Spring Reference SIG Meeting & Call'
+  start:
+    utc: '2017-05-10 10:00:00 -0400'
+    local: '2017-05-10 10:00:00 -0400'
+  url: https://www.meetup.com/Reference-Librarians-Interest-Group/events/239246489/
+- name:
+    text: 'Gov and Alt-gov Information Sources, Part 1: Legislative and Regulatory
+      Research'
+    html: 'Gov and Alt-gov Information Sources, Part 1: Legislative and Regulatory
+      Research'
+  description:
+    text: "Locating government information is difficult even in the best of times,
+      and even more so when the government discontinues support of collection and
+      dissemination of government information\nLed by Professor Debbie Rabina, this
+      workshop will teach participants to locate government information from official
+      (government) sources as well as sources made available through library and community
+      projects that focus on collection and digitization of government information.
+      We will focus on identifying sources and establishing credibility and authenticity
+      of sources outside the .gov domain.\nPart 2 of this two-part series takes place
+      on May 31, 2017. If you register for both sessions, please contact us at events@metro.org
+      for your discount code.\n\nInstructor’s Bio: \nDebbie Rabina is Professor of
+      Library and Information Science at Pratt Institute School of information. Her
+      areas of research and teaching include government information, information law
+      and policy, and information and human rights.\n"
     html: |-
-      <P>From the news that earth surface temperatures hit a record high in 2016, to a presidential administration that denies the effect fossil fuels play in climate change, we are inundated with stories and images about climate change. And yet authentic face-to-face conversations about climate change (with family, friends, neighbors, colleagues) are rare. According to the Yale Program on Climate Change Communication, “more than half of those who are interested in global warming or think the issue is important ‘rarely’ or ‘never’ talk about it with family and friends.” </P>
-      <P><SPAN>In this workshop, participants will learn why dialogue about climate change is critical to creating a brighter future, and how librarians can facilitate dialogues that empower our communities to be better equipped to respond, adapt, and mitigate the effects.</SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>This interactive, experiential training will guide you through the creation of a “Climate Communications Toolbox” you can use to facilitate dialogue and host “Climate Conversations” within your library community. </SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>You will:</SPAN><SPAN><BR CLASS="kix-line-break"></SPAN></P>
-      <UL>
-      <LI>
-      <P><SPAN>Learn how to create and host “Climate Conversations” at your library.</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Share ideas for archiving and exhibiting artifacts created in workshops.</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Brainstorm ideas for building community partnerships.</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Learn why resilience and social capital are critical for communities to thrive and endure, and how libraries can help communities build both.</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Experience mindfulness exercises as a tool for “re-wiring” the brain to stabilize the nervous system.</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Explore your own thoughts and feelings about climate change through storytelling and reflective writing.</SPAN></P>
-      </LI>
-      </UL>
-      <P><BR></P>
-      <P><STRONG>About our instructors</STRONG></P>
-      <P>A <A HREF="http://lj.libraryjournal.com/2017/03/people/movers-shakers-2017/madeleine-charney-movers-shakers-2017-innovators/" TARGET="_blank" TITLE="http://lj.libraryjournal.com/2017/03/people/movers-shakers-2017/madeleine-charney-movers-shakers-2017-innovators/" REL="noreferrer noopener nofollow noopener noreferrer nofollow">2017 Library Journal Mover &amp; Shaker</A>, Madeleine Charney is the Sustainability Studies Librarian at the University of Massachusetts Amherst Libraries. In 2015, she helped launch Talking Truth: Finding Your Voice Around the Climate Crisis, a highly collaborative, campus-wide project that facilitates contemplative experiences in which to explore this global threat.  She is co-founder of SustainRT: Libraries Fostering Resilient Communities, the newest round table under ALA, and serves as Immediate Past Coordinator. She is a Master Gardener, certified in Permaculture Design, a practitioner of herbal kitchen medicine and helped start up her local chapter of Mothers Out Front: Mobilizing for a Liveable Climate. Madeleine holds an MLS from University of Rhode Island (1991) and an MA in Sustainable Landscape Planning and Design (2003).</P>
-      <P>Jodi Shaw is a Senior Librarian at Brooklyn Public Library (BPL) where she conducts programming, reader’s advisory/reference services, school outreach and collection maintenance. Cross-departmental collaborations include serving on BPL's Children’s Steering and Collection Development Committees. In 2016 she was elected Coordinator-Elect of the ALA sustainability Round Table, where she works to support library initiatives aimed at fostering sustainability and community resiliency. She received her MLIS from Pratt Institute in 2015 where she received the Senior Leadership Award from the Pratt Office of Student Life. Jodi is an avid urban cyclist, film buff, meditator, and mother of twin boys. She is deeply passionate about<STRONG> </STRONG>organizational culture, public service, servant leadership and fostering community resiliency through dialogue, outreach and strategic coalition-building.</P>
-  id: '32636538766'
-  url: https://www.eventbrite.com/e/facing-the-future-facilitating-climate-conversations-at-your-library-tickets-32636538766?aff=ebapi
+      <P><SPAN>Locating government information is difficult even in the best of times, and even more so when the government discontinues support of collection and dissemination of government information</SPAN></P>
+      <P><SPAN>Led by Professor Debbie Rabina, t</SPAN><SPAN>his workshop will teach participants to locate government information from official (government) sources as well as sources made available through library and community projects that focus on collection and digitization of government information. We will focus on identifying sources and establishing credibility and authenticity of sources outside the .gov domain.</SPAN></P>
+      <P><SPAN>Part 2 of this two-part series takes place on May 31, 2017. If you register for both sessions, please contact us at </SPAN><A HREF="mailto:events@metro.org" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>events@metro.org</SPAN></A><SPAN> for your discount code.</SPAN></P>
+      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
+      <H3><SPAN>Instructor’s Bio: </SPAN></H3>
+      <P><SPAN>Debbie Rabina is Professor of Library and Information Science at Pratt Institute School of information. Her areas of research and teaching include government information, information law and policy, and information and human rights.</SPAN></P>
+      <P><SPAN><BR></SPAN></P>
+  id: '33396213975'
+  url: https://www.eventbrite.com/e/gov-and-alt-gov-information-sources-part-1-legislative-and-regulatory-research-tickets-33396213975?aff=ebapi
   start:
     timezone: America/New_York
-    local: '2017-04-24T10:00:00'
-    utc: '2017-04-24T14:00:00Z'
+    local: '2017-05-24T10:00:00'
+    utc: '2017-05-24T14:00:00Z'
   end:
     timezone: America/New_York
-    local: '2017-04-24T15:00:00'
-    utc: '2017-04-24T19:00:00Z'
-  created: '2017-03-07T21:22:51Z'
-  changed: '2017-03-14T17:13:10Z'
-  capacity: 54
+    local: '2017-05-24T13:00:00'
+    utc: '2017-05-24T17:00:00Z'
+  created: '2017-04-03T15:07:27Z'
+  changed: '2017-04-25T19:44:40Z'
+  capacity: 50
   capacity_is_custom: true
   status: live
   currency: USD
@@ -227,26 +202,171 @@ events:
   is_reserved_seating: false
   source: create_2.0
   is_free: false
-  logo_id: '29065062'
+  version: 3.0.0
+  logo_id: '29998373'
   organizer_id: '8929654067'
-  venue_id: '18667212'
+  venue_id: '19050027'
   category_id: 
   subcategory_id: 
   format_id: 
-  resource_uri: https://www.eventbriteapi.com/v3/events/32636538766/
+  resource_uri: https://www.eventbriteapi.com/v3/events/33396213975/
   logo:
     crop_mask:
       top_left:
         x: 0
-        y: 1040
-      width: 4160
-      height: 2080
+        y: 225
+      width: 900
+      height: 450
     original:
-      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29065062%2F160412581493%2F1%2Foriginal.jpg?s=e99d68e287b740830940796350feb598
-      width: 4160
-      height: 4160
-    id: '29065062'
-    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29065062%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1040%2C4160%2C2080&s=ba49c231ea97f724f08c9835421ba227
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29998373%2F160412581493%2F1%2Foriginal.jpg?s=9f0d32e4e859723a5a61cb2737a794df
+      width: 900
+      height: 900
+    id: '29998373'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29998373%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C225%2C900%2C450&s=3bf7a07e830b4ed9ca4872b9504e56c4
     aspect_ratio: '2'
-    edge_color: "#1b191a"
+    edge_color: 
+    edge_color_set: true
+- name:
+    text: 'Gov and Alt-gov Information Sources, Part 2: Scientific and Technical information '
+    html: 'Gov and Alt-gov Information Sources, Part 2: Scientific and Technical information '
+  description:
+    text: "Locating government information is difficult even in the best of times,
+      and even more so when the government discontinues support of collection and
+      dissemination of government information\nLed by Professor Debbie Rabina, this
+      workshop will teach participants to locate government information from official
+      (government) sources as well as sources made available through library and community
+      projects that focus on collection and digitization of government information.
+      We will focus on identifying sources and establishing credibility and authenticity
+      of sources outside the .gov domain.\nPart 1 of this two-part series takes place
+      on May 24, 2017. If you register for both sessions, please contact us at events@metro.org
+      for your discount code.\n\nInstructor’s Bio: \nDebbie Rabina is Professor of
+      Library and Information Science at Pratt Institute School of information. Her
+      areas of research and teaching include government information, information law
+      and policy, and information and human rights.\n"
+    html: |-
+      <P><SPAN>Locating government information is difficult even in the best of times, and even more so when the government discontinues support of collection and dissemination of government information</SPAN></P>
+      <P><SPAN>Led by Professor Debbie Rabina, t</SPAN><SPAN>his workshop will teach participants to locate government information from official (government) sources as well as sources made available through library and community projects that focus on collection and digitization of government information. We will focus on identifying sources and establishing credibility and authenticity of sources outside the .gov domain.</SPAN></P>
+      <P><SPAN><SPAN>Part 1 of this two-part series takes place on May 24, 2017. If you register for both sessions, please contact us at </SPAN><A HREF="mailto:events@metro.org" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>events@metro.org</SPAN></A><SPAN> for your discount code.</SPAN></SPAN></P>
+      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
+      <H3><SPAN>Instructor’s Bio: </SPAN></H3>
+      <P><SPAN>Debbie Rabina is Professor of Library and Information Science at Pratt Institute School of information. Her areas of research and teaching include government information, information law and policy, and information and human rights.</SPAN></P>
+      <P><SPAN><BR></SPAN></P>
+  id: '33396387494'
+  url: https://www.eventbrite.com/e/gov-and-alt-gov-information-sources-part-2-scientific-and-technical-information-tickets-33396387494?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-05-31T10:00:00'
+    utc: '2017-05-31T14:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-05-31T13:00:00'
+    utc: '2017-05-31T17:00:00Z'
+  created: '2017-04-03T15:13:34Z'
+  changed: '2017-04-26T18:15:00Z'
+  capacity: 50
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: false
+  version: 3.0.0
+  logo_id: '29998720'
+  organizer_id: '8929654067'
+  venue_id: '19050027'
+  category_id: 
+  subcategory_id: 
+  format_id: 
+  resource_uri: https://www.eventbriteapi.com/v3/events/33396387494/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 225
+      width: 900
+      height: 450
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29998720%2F160412581493%2F1%2Foriginal.jpg?s=590fa9ac36b3d4153cafb4cbef637e44
+      width: 900
+      height: 900
+    id: '29998720'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29998720%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C225%2C900%2C450&s=d3adbca4d576a92ed3313818195264fb
+    aspect_ratio: '2'
+    edge_color: 
+    edge_color_set: true
+- name:
+    text: METRO's Launch Party at 599
+    html: METRO&#39;s Launch Party at 599
+  description:
+    text: |
+      METRO members, myMETRO members, & prospective members, your presence is requested at our launch party on Thursday, June 1. Please join us on the 8th floor of 599 11th Avenue starting at 7:00 p.m.
+      Kindly RSVP so that we know how many cookies to bake. 
+    html: |-
+      <P><SPAN>METRO members, myMETRO members, &amp; prospective members, your presence is requested at our launch party on </SPAN><SPAN CLASS="aBn"><SPAN CLASS="aQJ">Thursday, June 1</SPAN></SPAN><SPAN>. </SPAN>Please join us on the 8th floor of 599 11th Avenue starting at <SPAN CLASS="aBn"><SPAN CLASS="aQJ">7:00 p.m</SPAN></SPAN>.</P>
+      <P>Kindly RSVP so that we know how many cookies to bake. </P>
+      <P><BR></P>
+  id: '34031579370'
+  url: https://www.eventbrite.com/e/metros-launch-party-at-599-tickets-34031579370?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-06-01T19:00:00'
+    utc: '2017-06-01T23:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-06-01T22:00:00'
+    utc: '2017-06-02T02:00:00Z'
+  created: '2017-04-25T13:50:41Z'
+  changed: '2017-04-26T20:31:43Z'
+  capacity: 150
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: true
+  version: 3.0.0
+  logo_id: '30742348'
+  organizer_id: '8929654067'
+  venue_id: '19169142'
+  category_id: 
+  subcategory_id: 
+  format_id: '11'
+  resource_uri: https://www.eventbriteapi.com/v3/events/34031579370/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30742348%2F160412581493%2F1%2Foriginal.jpg?s=56954181ee2b12f2050317fbe79d7dc6
+      width: 3013
+      height: 1589
+    id: '30742348'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30742348%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=77ce7013a268e55e81ba0676add4c076
+    aspect_ratio: '2'
+    edge_color: "#9c9c9c"
     edge_color_set: true

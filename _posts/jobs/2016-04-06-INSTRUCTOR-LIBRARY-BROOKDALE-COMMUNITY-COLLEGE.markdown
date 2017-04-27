@@ -2,6 +2,8 @@
 layout: post
 title:  "Instructor, Library - Brookdale Community College"
 date:   2016-04-06
+excerpt: "Brookdale Community College (Lincroft, NJ), is seeking an innovative, collaborative, and engaging librarian with teaching experience to join our team. The successful candidate will design, teach, and assess information literacy curricula in partnership with discipline faculty; maintain awareness of current trends and best practices in instructional pedagogy; provide information and..."
+tag: job
 ---
 
 ### Description###

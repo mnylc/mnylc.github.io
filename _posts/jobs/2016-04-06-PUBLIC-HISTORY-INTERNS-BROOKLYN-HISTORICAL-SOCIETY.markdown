@@ -2,6 +2,8 @@
 layout: post
 title:  "Public History Interns - Brooklyn Historical Society"
 date:   2016-04-06
+excerpt: "Oral History Internship Brooklyn Historical Society (BHS) is seeking 2 Oral History Interns for late 2016 who will assist the Oral History Project Archivist with the processing of BHS’s oral history collections as part of Voices of Generations: Investigating Brooklyn’s Cultural Identity, a project to digitize, process, catalogue, and make..."
+tag: job
 ---
 
 ### Description###

@@ -2,6 +2,8 @@
 layout: post
 title:  "Information Literacy Instructors - Bramson ORT College"
 date:   2016-04-07
+excerpt: "Bramson ORT College is a growing, 2 yr. college with campuses in Forest Hills, Queens and Bensonhurst, Brooklyn. We are recruiting Adjunct Information Instructors for the Summer term and beyond to teach a required 2 credit Information Literacy course. It is a 15 week long course. Classes are held during..."
+tag: job
 ---
 
 ### Description###

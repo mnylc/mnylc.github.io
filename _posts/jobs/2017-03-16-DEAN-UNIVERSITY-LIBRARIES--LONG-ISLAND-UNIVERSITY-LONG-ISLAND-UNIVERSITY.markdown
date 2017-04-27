@@ -2,6 +2,8 @@
 layout: post
 title:  "Dean, University Libraries -- Long Island University - Long Island University"
 date:   2017-03-16
+excerpt: "ounded in 1926, LIU is one of America’s largest and most comprehensive private universities with locations and programs spanning the New York metropolitan area, overseas, and online. With nearly 200,000 alumni worldwide, the university offers more than 500 academic programs and educates more than 23,000 students in New York through..."
+tag: job
 ---
 
 ### Description###

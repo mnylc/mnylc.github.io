@@ -2,6 +2,7 @@
 layout: post
 title:  "A New Home for METRO"
 date:   2016-07-27
+tag:	news
 
 ---
 Metropolitan New York Library Council, a non-profit organization founded in 1960 that develops, maintains, and augments essential library services throughout New York City and Westchester County, has been located in the Union Square area at 11th and Broadway since 1990. Our membership currently consists of a diverse group of over 250 libraries, archives, museums and other information organizations ranging from New York’s largest libraries to small community archives, and we are growing and expanding all the time.

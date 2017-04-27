@@ -2,6 +2,8 @@
 layout: post
 title:  "Dean of the University Libraries - St. John's University"
 date:   2016-04-06
+excerpt: "St. John’s University, a private, Catholic, doctoral university, invites applications and nominations for the position of Dean of University Libraries. The Dean of University Libraries serves as the senior administrative and academic officer of the University Libraries and is responsible for the innovative vision, strategic direction, policy development, and management..."
+tag: job
 ---
 
 ### Description###

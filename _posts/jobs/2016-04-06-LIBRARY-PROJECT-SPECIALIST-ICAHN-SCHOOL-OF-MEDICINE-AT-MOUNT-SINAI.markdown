@@ -2,6 +2,8 @@
 layout: post
 title:  "Library Project Specialist - Icahn School of Medicine at Mount Sinai"
 date:   2016-04-06
+excerpt: "The Levy Library at the Icahn School of Medicine at Mount Sinai is offering a temporary Library Project Specialist position for the summer for students enrolled in ALA accredited library and information science graduate programs. We seek a candidate who is interested in pursuing a career in academic librarianship and..."
+tag: job
 ---
 
 ### Description###

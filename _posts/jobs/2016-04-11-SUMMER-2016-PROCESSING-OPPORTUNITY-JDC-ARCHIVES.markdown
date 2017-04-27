@@ -2,6 +2,8 @@
 layout: post
 title:  "Summer 2016 Processing Opportunity - JDC Archives"
 date:   2016-04-11
+excerpt: "The JDC Archives is the institutional repository of the American Jewish Joint Distribution Committee (JDC), the world’s leading Jewish humanitarian assistance organization since its founding in 1914. Holding over 3 miles of records documenting JDC’s global rescue, relief, and renewal work in over 90 countries during the past century, the..."
+tag: job
 ---
 
 ### Description###

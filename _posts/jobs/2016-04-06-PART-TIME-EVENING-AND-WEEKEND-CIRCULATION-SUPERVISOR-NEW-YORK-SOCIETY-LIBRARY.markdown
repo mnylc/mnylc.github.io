@@ -2,6 +2,8 @@
 layout: post
 title:  "Part-Time Evening and Weekend Circulation Supervisor - New York Society Library"
 date:   2016-04-06
+excerpt: "The Library is seeking a Part-Time Evening and Weekend Circulation Supervisor. The position reports to the Head of Circulation. This is a part-time professional position, from Tuesday through Thursday, 5–8 PM and Saturday-Sunday, 11 AM–5 PM. The New York Society Library is an Equal Opportunity Employer. Physical/Environmental Requirements Physical: Sitting:..."
+tag: job
 ---
 
 ### Description###

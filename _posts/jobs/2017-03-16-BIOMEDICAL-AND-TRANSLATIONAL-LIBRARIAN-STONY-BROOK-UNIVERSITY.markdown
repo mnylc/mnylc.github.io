@@ -2,6 +2,8 @@
 layout: post
 title:  "Biomedical and Translational Librarian - Stony Brook University"
 date:   2017-03-16
+excerpt: "Campus Description: Stony Brook University, home to many highly ranked graduate research programs, is located 60 miles from New York City on Long Island's scenic North Shore. Our 1,100-acre campus is home to 24,000 undergraduate, graduate, and doctoral students and more than 13,500 faculty and staff. SBU is a comprehensive..."
+tag: job
 ---
 
 ### Description###

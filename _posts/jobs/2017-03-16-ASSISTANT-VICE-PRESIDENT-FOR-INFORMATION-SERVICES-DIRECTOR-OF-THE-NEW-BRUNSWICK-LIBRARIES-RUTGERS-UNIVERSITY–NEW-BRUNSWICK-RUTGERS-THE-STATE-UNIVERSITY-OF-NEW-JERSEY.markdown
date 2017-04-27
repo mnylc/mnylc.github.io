@@ -2,6 +2,8 @@
 layout: post
 title:  "Assistant Vice President for Information Services, Director of the New Brunswick Libraries - Rutgers University–New Brunswick, Rutgers, The State University of New Jersey"
 date:   2017-03-16
+excerpt: "Rutgers University–New Brunswick, Rutgers, The State University of New Jersey, seeks an experienced and accomplished library leader to serve as Assistant Vice President for Information Services, Director of New Brunswick Libraries. This position has an essential role, providing leadership for fifteen libraries and centers, including Special Collections and University Archives,..."
+tag: job
 ---
 
 ### Description###

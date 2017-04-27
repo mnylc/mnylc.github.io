@@ -2,6 +2,8 @@
 layout: post
 title:  "Digitization and Preservation Projects Manager - Columbia University"
 date:   2016-04-07
+excerpt: "Digitization and Preservation Projects Manager (3 Year Temporary Position) Columbia University Libraries/Information Services Columbia University Libraries seek a Digitization and Preservation Projects Manager in the Preservation and Digital Conversion Division of the Libraries for a temporary three year appointment. The Digitization and Preservation Projects Manager manages special projects, primarily larger..."
+tag: job
 ---
 
 ### Description###
