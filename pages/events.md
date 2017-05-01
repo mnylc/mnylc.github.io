@@ -7,6 +7,8 @@ use_tag: "event"
 ---
 We are committed to providing a welcoming and productive environment for all. Please check out our [Code of Conduct]({{ "/code-of-conduct/" | prepend: site.baseurl }}) for more information. If you have any event-related questions, our email address is [events@metro.org](mailto:events@metro.org), and our phone number is (212) 228-2320.
 
+For virtual, on-demand learning, take a look at tutorials offered by [lynda.com](http://lynda.com/) and request free access [here.](https://docs.google.com/forms/d/e/1FAIpQLSex4Y3mWpBdnc_24ULgISj6Jr8Ww_URqFNI82u3Q6aQB5xyeg/viewform?usp=sf_link)
+
 <hr />
 
 {% if site.data.events.size > 0 %}
