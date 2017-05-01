@@ -1,94 +1,4 @@
 ---
-- name:
-    text: 'Libraries on the Move: How Aarhus Library Meets Citizens Where They Are'
-    html: 'Libraries on the Move: How Aarhus Library Meets Citizens Where They Are'
-  description:
-    text: |-
-      Join us for a presentation and Q & A on an Aarhus Library project that uses design thinking tools to co-create mobile library units that meet citizens where they are.
-      Helene Bruhn Schvartzman, Project Manager & Consultant on Civic Engagement at Aarhus Public Libraries will discuss how the mobile units served as mobile platforms for dialogue about, and observation of, needs and resources in local communities. 
-      This talk will tackle the following questions:
-
-
-      How might design thinking methods be a motor for creating dynamic and empathic library services?
-
-
-      How might we “do library” close to, and together with, citizens and partners?
-
-
-      How might the library become more agile and flexible to meet and understand the needs of non-users?
-
-
-      This talk is presented free of charge. Breakfast snacks and coffee will be provided.
-    html: |-
-      <P><SPAN>Join us for a presentation and Q &amp; A </SPAN>on an Aarhus Library project that uses design thinking tools to co-create mobile library units that <SPAN>meet citizens where they are</SPAN>.</P>
-      <P><SPAN>Helene Bruhn Schvartzman, </SPAN><SPAN>Project Manager &amp; Consultant on Civic Engagement at </SPAN><SPAN>Aarhus Public Libraries will discuss how the mobile units</SPAN> served as mobile platforms for dialogue about, and observation of, needs and resources in local communities. </P>
-      <P>This talk will tackle the following questions:</P>
-      <UL>
-      <LI>
-      <P>How might design thinking methods be a motor for creating dynamic and empathic library services?</P>
-      </LI>
-      <LI>
-      <P>How might we <I>“do library” </I><SPAN>close to, and together with, citizens and partners?</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>How might the library become more agile and flexible to meet and understand the needs of non-users?</SPAN></P>
-      </LI>
-      </UL>
-      <P>This talk is presented free of charge. Breakfast snacks and coffee will be provided.</P>
-  id: '33907437057'
-  url: https://www.eventbrite.com/e/libraries-on-the-move-how-aarhus-library-meets-citizens-where-they-are-tickets-33907437057?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-04-27T10:00:00'
-    utc: '2017-04-27T14:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2017-04-27T11:00:00'
-    utc: '2017-04-27T15:00:00Z'
-  created: '2017-04-20T20:28:14Z'
-  changed: '2017-04-26T17:43:18Z'
-  capacity: 40
-  capacity_is_custom: true
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 900
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  is_free: true
-  version: 3.0.0
-  logo_id: '30611321'
-  organizer_id: '8929654067'
-  venue_id: '19292373'
-  category_id: 
-  subcategory_id: 
-  format_id: '2'
-  resource_uri: https://www.eventbriteapi.com/v3/events/33907437057/
-  logo:
-    crop_mask:
-      top_left:
-        x: 0
-        y: 1244
-      width: 3024
-      height: 1512
-    original:
-      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30611321%2F160412581493%2F1%2Foriginal.jpg?s=dc0b697fb3d4a4277e732779ddfe50f1
-      width: 3024
-      height: 3024
-    id: '30611321'
-    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30611321%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C1244%2C3024%2C1512&s=5f1f3a7ac8252ca966c62be5b1406ea7
-    aspect_ratio: '2'
-    edge_color: "#a7a7a7"
-    edge_color_set: true
 - time: 1493764200000
   link: https://www.meetup.com/Social-Justice-Libraries-Archives/events/238925173/
   description:
@@ -262,7 +172,7 @@
     local: '2017-05-31T13:00:00'
     utc: '2017-05-31T17:00:00Z'
   created: '2017-04-03T15:13:34Z'
-  changed: '2017-04-26T18:15:00Z'
+  changed: '2017-05-01T10:54:32Z'
   capacity: 50
   capacity_is_custom: true
   status: live
