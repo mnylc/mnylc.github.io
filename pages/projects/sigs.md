@@ -1,5 +1,5 @@
 ---
-title: Special Interest Groups
+title: METRO Meetups
 permalink: /projects/sigs/
 ---
 METRO is proud to support the work of our members through Special Interest Groups. Each group is convened by leaders in our field around a topic of interest to our wider community.
@@ -14,7 +14,7 @@ The Bibliographic Instruction Special Interest Group (SIG) is composed of indivi
 ## Circulation & Reserves ##
 [https://www.meetup.com/Circulation-Reserves-in-Libraries/](https://www.meetup.com/Circulation-Reserves-in-Libraries/)
 
-Monique Prince and Deborah Caesar, Co-organizer
+Monique Prince and Deborah Caesar, Co-organizers
 
 The Circulation & Reserves Special Interest Group brings together individuals interested in discussing issues of shared concern. Possible topics for discussion include managing student and part-time workers, circulation and reserve software, fines and fees, policies, workflow, stacks maintenance, technology loans, assessment, and best practices.
 
@@ -22,7 +22,7 @@ The Circulation & Reserves Special Interest Group brings together individuals in
 ## Code4LibNYC ##
 [https://www.meetup.com/code4libnyc/](https://www.meetup.com/code4libnyc/)
 
-Stephen Klein, Convener
+Stephen Klein, Organizer
 
 Open to all library staff interested in the coding, deployment, and design of library software, systems, and web services. This local chapter of Code4Lib, known as Code4LibNYC, aspires to channel the spirit of the national organization. We were formerly known as the "Library 2.0" SIG at METRO. We want to provide a forum for software and web developers and programmers, who work at area libraries, to discuss their ongoing projects.
 
@@ -30,7 +30,7 @@ Open to all library staff interested in the coding, deployment, and design of li
 ## Collective Access User Group ##
 [https://www.meetup.com/CollectiveAccess-User-Group/](https://www.meetup.com/CollectiveAccess-User-Group/)
 
-Robin Camille Davis, Convener
+Robin Camille Davis, Organizer
 
 The CollectiveAccess User Group at METRO was created in 2014. This group meets at METRO on a quarterly basis to discuss projects created with CollectiveAccess, development aspects related to the platform, and solutions for utilizing open source technology to manage collections.
 
@@ -38,25 +38,16 @@ The CollectiveAccess User Group at METRO was created in 2014. This group meets a
 ## Economic & Business Librarians ##
 [https://www.meetup.com/Economics-Business-Librarians-Group/](https://www.meetup.com/Economics-Business-Librarians-Group/)
 
-Lucy Heckman and John Balow, Conveners
+Lucy Heckman and John Balow, Organizers
 
 This SIG brings together public, academic, and special librarians with a background and/or interest in business librarianship to discuss new resources or best practices in the field.
 
 
-## High School to College Transition ##
-[https://sites.google.com/a/metro.org/hs2ct/](https://sites.google.com/a/metro.org/hs2ct/)
 
-Marifran DeMaine, Convener
-
-The High School to College Transition SIG provides an opportunity for high school and college librarians to share their experiences. The group will help high school librarians prepare students for college. Academic librarians will gain a better idea of where students are coming from and how they can help.
-
-Through conversation, this SIG will work to ease students’ transition between high school and college. Topics of discussion and presentations include college readiness, the first year college experience, and enhancing critical thinking. Librarians from public and independent schools, college, and universities, as well as support staff, are welcome.
-
-
-## Interlibrary Loan SIG ##
+## Interlibrary Loan ##
 [https://www.meetup.com/Interlibrary-Loan-Interest-Group/](https://www.meetup.com/Interlibrary-Loan-Interest-Group/)
 
-Beth Posner and Emma Raub, Conveners
+Beth Posner and Emma Raub, Co-organizers
 
 The Interlibrary Loan (ILL) Special Interest Group (SIG) is composed of individuals involved in strengthening local information resource sharing though interlibrary loan services, document delivery, etc. The group focuses on issues of common interest, such as OCLC, management software systems like ILLiad and CLIO, policies and procedures, technology, best practices, etc.
 
@@ -65,7 +56,7 @@ The Interlibrary Loan (ILL) Special Interest Group (SIG) is composed of individu
 
 [https://www.meetup.com/Librarians-for-College-Readiness/](https://www.meetup.com/Librarians-for-College-Readiness/)
 
-Marifran DeMaine, Organizer
+Marifran DeMaine, Carl Andrews, Leanne Ellis, Co-organizers
 
 This group provides an opportunity for high school and college librarians to share their experiences. The group will help high school librarians prepare students for college. Academic librarians will gain a better idea of where students are coming from and how they can help.
 
@@ -81,15 +72,15 @@ The mission of the LASSA SIG is to foster the recognition and support of the pro
 ## Outreach and Advocacy ##
 [https://sites.google.com/a/metro.org/oasig/](https://sites.google.com/a/metro.org/oasig/)
 
-Carl Andrews and Mark Aaron Polger, Conveners
+Carl Andrews and Mark Aaron Polger, Co-organizers
 
-The Outreach and Advocacy SIG discusses innovative methods to advocate for programs, services, and staff. Topics of discussion include developing outreach goals, establishing your library's identity, creating a successful library campaign from start to finish, lemonading a library disaster into something positive, developing assessment tools to conduct community analysis, building partnership, and crafting visual materials.
+The Outreach and Advocacy group discusses innovative methods to advocate for programs, services, and staff. Topics of discussion include developing outreach goals, establishing your library's identity, creating a successful library campaign from start to finish, lemonading a library disaster into something positive, developing assessment tools to conduct community analysis, building partnership, and crafting visual materials.
 
 
-## Pop Culture SIG ##
+## Pop Culture ##
 [https://sites.google.com/a/metro.org/pop-culture-sig/](https://sites.google.com/a/metro.org/pop-culture-sig/)
 
-Caroline Fuchs and Michael Handis, Conveners
+Caroline Fuchs and Michael Handis, Co-organizers
 
 To best serve today's patrons, librarians need a broad understanding of the wide spectrum of the arts and popular culture that are of interest to our users. From gaming to comics to cosplay to streaming video, librarians are becoming both advocates of and experts in these non-traditional collections. The Pop Culture SIG aims to engage librarians in a dialogue on the wide range of cultural productions and practices that are redefining library collections and the resulting changes in practice in librarianship. We welcome librarians from all types of libraries to join the discussion.
 
@@ -118,9 +109,9 @@ Melissa Morrone and Cynthia Tobar, Co-organizers
 The Social Justice Special Interest Group welcomes all librarians, archivists, and other information professionals who are interested in activities on community-centered activism, social movements, and outreach. Through meetings, presentations, discussion groups, and other events, we will reflect on and rethink the intersections of libraries and archives with social justice struggles. Some questions we will explore include: How do the ways we preserve, analyze, document and mobilize our collections, instruction, and services connect with the work of community activists in their fights for racial, economic, and gender justice? What does it mean to have a commitment to social justice in our profession and practice? How does librarianship embrace, challenge, or hinder various forms of access to information, documentation, and archives?
 
 
-## User Experience (UX) ##
+## User Experience (UX) in Libraries ##
 [https://www.meetup.com/UX-in-Libraries/](https://www.meetup.com/UX-in-Libraries/)
 
-Lisa Chow and Sandra Sajonas, Conveners
+Lisa Chow and Sandra Sajonas, Co-organizers
 
 If you're interested in the usability and user experience of libraries, the UX SIG is for you! Support our SIG for opportunities to collaborate on user experience projects, share ideas and resources, and to give and receive support and advice.
