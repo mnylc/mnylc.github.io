@@ -118,6 +118,36 @@
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
+- time: 1495728000000
+  link: https://www.meetup.com/Outreach-Advocacy-in-Libraries-Archives/events/239753368/
+  description:
+    html: '<p><b>METRO Outreach and Advocacy Special Interest Group (OASIG) Spring
+      Meeting</b></p> <p><b><i>Outreach to Vulnerable Members of the Community</i></b></p>
+      <p><b>Thurs May 25, 2017, 12pm-2pm</b></p> <p><br/>Academic and Public Libraries
+      engage with the community in promoting our value by providing information services
+      to empower our users. We strive to be inclusive and to serve the needs of all
+      community members, including vulnerable members of the population.  The theme
+      of our Spring 2017 METRO Outreach and Advocacy SIG meeting is <i>Outreach to
+      Vulnerable Members of our Community</i>.</p> <p>Join us on Thurs May 25, 2017
+      from 12pm-2pm at the new METRO headquarters where <b><i>Assistant Professor
+      &amp; Archivist </i></b><b><i>Cynthia Tobar</i></b> (Bronx Community College
+      Library, CUNY) will discuss how she helps connect with the community by providing
+      information services to Undocumented Students.</p> <p>When:      Thurs May 25,
+      2017, 12pm to 2pm</p> <p>Where:    METRO’s new location, 599 11th Avenue, 8th
+      Floor, corner W45th street</p> <p>RSVP by Wed 05/24</p> <p><b>Refreshments will
+      be served!!!</b></p> <p>If you have any questions, please email the <b>METRO
+      co-conveners Mark Aaron Polger or Carl Andrews</b> at <a href="mailto:markaaron.polger@csi.cuny.edu">markaaron.polger@csi.cuny.edu</a>
+      or <a href="mailto:Carl.Andrews@bcc.cuny.edu">Carl.Andrews@bcc.cuny.edu</a></p>
+      <p>Please note also that all attendees of METRO discussion groups are expected
+      to abide by METRO’s community expectations <a href="http://metro.org/community-expectations/"><a
+      href="http://metro.org/community-expectations/" class="linkified">http://metro.org/community-expectations/</a></a>
+       </p> '
+  name:
+    html: Outreach to Vulnerable Members of the Community
+  start:
+    utc: '2017-05-25 12:00:00 -0400'
+    local: '2017-05-25 12:00:00 -0400'
+  url: https://www.meetup.com/Outreach-Advocacy-in-Libraries-Archives/events/239753368/
 - name:
     text: 'Gov and Alt-gov Information Sources, Part 2: Scientific and Technical information '
     html: 'Gov and Alt-gov Information Sources, Part 2: Scientific and Technical information '
