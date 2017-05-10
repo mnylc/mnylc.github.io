@@ -9,4 +9,4 @@ Do you want strategies for helping library patrons understand vulnerabilities in
 
 At the Data Privacy Project, librarians, community activists, tech experts, educators, and researchers have developed learning modules and curriculum materials to support library staff. Handouts and slideshows can be adapted for trainings in any type of library, and on the Data Privacy Project website people can view a historical timeline, data flows diagrams, and a risk assessment exercise with sample patron profiles. All our training material is available under a Share Alike 4.0 Creative Commons license.
 
-You can find these resources at http://www.dataprivacyproject.org/.
+You can find these resources at [http://www.dataprivacyproject.org/](http://www.dataprivacyproject.org/)
