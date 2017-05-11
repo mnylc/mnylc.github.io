@@ -12,3 +12,6 @@ METRO advances library and knowledge-management services in New York City, Westc
 ## Governance
 
 METRO is managed and governed by an elected [Board of Trustees]({{ "/board/" | prepend: site.baseurl }}) and program areas receive direct input from METRO's Advisory Councils. METRO's day-to-day operations are managed by a team of specialists in areas of the library and archives field.
+
+## Plan of Service
+[2016-2021 plan of service (.pdf)]({{ "/assets/docs/5_yr_plan_of_service.pdf" | prepend: site.baseurl }})
