@@ -13,5 +13,12 @@ METRO advances library and knowledge-management services in New York City, Westc
 
 METRO is managed and governed by an elected [Board of Trustees]({{ "/board/" | prepend: site.baseurl }}) and program areas receive direct input from METRO's Advisory Councils. METRO's day-to-day operations are managed by a team of specialists in areas of the library and archives field.
 
+## Published Annual Reports:
+[2014-2015 annual report (.pdf)]({{ "/assets/docs/annualreports/Annual_Report_2014-2015.pdf" | prepend: site.baseurl }})  
+[2013-2014 annual report (.pdf)]({{ "/assets/docs/annualreports/Annual_Report_2013-2014.pdf" | prepend: site.baseurl }})  
+[2012-2013 annual report (.pdf)]({{ "/assets/docs/annualreports/Annual_Report_2012-2013.pdf" | prepend: site.baseurl }})  
+[2011-2012 annual report (.pdf)]({{ "/assets/docs/annualreports/Annual_Report_2011-2012.pdf" | prepend: site.baseurl }})  
+[2010-2011 annual report (.pdf)]({{ "/assets/docs/annualreports/Annual_Report_2010-2011.pdf" | prepend: site.baseurl }})  
+
 ## Plan of Service
 [2016-2021 plan of service (.pdf)]({{ "/assets/docs/5_yr_plan_of_service.pdf" | prepend: site.baseurl }})
