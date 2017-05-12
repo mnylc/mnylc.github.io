@@ -1,6 +1,6 @@
 ---
 title: METRO Meetups
-permalink: /projects/sigs/
+permalink: /projects/meetups/
 ---
 METRO is proud to support the work of our members through Special Interest Groups. Each group is convened by leaders in our field around a topic of interest to our wider community.
 
