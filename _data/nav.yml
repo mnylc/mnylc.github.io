@@ -9,8 +9,8 @@
       suburl: "/services/hlsp"
     - title: "Resource Sharing"
       suburl: "/services/resource-sharing"
-    - title: "Special Interest Groups"
-      suburl: "/projects/sigs"
+    - title: "Meetups"
+      suburl: "/projects/meetups"
 
 - title: 'Location'
   url: '/location'
