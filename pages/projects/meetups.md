@@ -105,10 +105,10 @@ Bruce Slutsky, Organizer
 The Special Interest Group (SIG) for Science, Technology and Medical Librarians is composed of individuals from libraries with substantial collections in the physical, life or natural sciences. Through meetings and other events, members work to identify and develop effectives strategies to promote the interests of professionals working in this area and their library organizations.
 
 
-## Social Justice, Libraries, and Archives  ##
+## Racial and Social Justice in Libraries, and Archives  ##
 [https://www.meetup.com/Social-Justice-Libraries-Archives/](https://www.meetup.com/Social-Justice-Libraries-Archives/)
 
-Melissa Morrone and Cynthia Tobar, Co-organizers
+Diana Moronta and Julia Marden, Co-organizers
 
 The Social Justice Special Interest Group welcomes all librarians, archivists, and other information professionals who are interested in activities on community-centered activism, social movements, and outreach. Through meetings, presentations, discussion groups, and other events, we will reflect on and rethink the intersections of libraries and archives with social justice struggles. Some questions we will explore include: How do the ways we preserve, analyze, document and mobilize our collections, instruction, and services connect with the work of community activists in their fights for racial, economic, and gender justice? What does it mean to have a commitment to social justice in our profession and practice? How does librarianship embrace, challenge, or hinder various forms of access to information, documentation, and archives?
 
