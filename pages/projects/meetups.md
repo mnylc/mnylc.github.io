@@ -101,10 +101,10 @@ Bruce Slutsky, Organizer
 The Special Interest Group (SIG) for Science, Technology and Medical Librarians is composed of individuals from libraries with substantial collections in the physical, life or natural sciences. Through meetings and other events, members work to identify and develop effectives strategies to promote the interests of professionals working in this area and their library organizations.
 
 
-## Social Justice, Libraries, and Archives  ##
+## Racial and Social Justice in Libraries, and Archives  ##
 [https://www.meetup.com/Social-Justice-Libraries-Archives/](https://www.meetup.com/Social-Justice-Libraries-Archives/)
 
-Melissa Morrone and Cynthia Tobar, Co-organizers
+Diana Moronta and Julia Marden, Co-organizers
 
 The Social Justice Special Interest Group welcomes all librarians, archivists, and other information professionals who are interested in activities on community-centered activism, social movements, and outreach. Through meetings, presentations, discussion groups, and other events, we will reflect on and rethink the intersections of libraries and archives with social justice struggles. Some questions we will explore include: How do the ways we preserve, analyze, document and mobilize our collections, instruction, and services connect with the work of community activists in their fights for racial, economic, and gender justice? What does it mean to have a commitment to social justice in our profession and practice? How does librarianship embrace, challenge, or hinder various forms of access to information, documentation, and archives?
 
@@ -115,3 +115,10 @@ The Social Justice Special Interest Group welcomes all librarians, archivists, a
 Lisa Chow and Sandra Sajonas, Co-organizers
 
 If you're interested in the usability and user experience of libraries, the UX SIG is for you! Support our SIG for opportunities to collaborate on user experience projects, share ideas and resources, and to give and receive support and advice.
+
+## Web Archiving Interest Group ##
+[https://www.meetup.com/metro-web-archiving/](https://www.meetup.com/metro-web-archiving/)
+
+Sumitra Duncan and Alex Thurman, Co-organizers
+
+Hosted by Metropolitan New York Library Council, the Web Archiving Interest Group is an inclusive group designed to facilitate growth in the communities forming around initiatives to preserve websites and other online resources. We seek to support professionals in libraries, archives and museums engaged in web archiving, as well as students and others new to the field. With meetings and presentations held throughout the year we will provide a venue for professional development and a forum for open discussion of common interest.
