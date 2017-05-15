@@ -1,6 +1,10 @@
 ---
 title: METRO Meetups
+<<<<<<< HEAD:pages/projects/sigs.md
 permalink: /projects/sigs/
+=======
+permalink: /projects/meetups/
+>>>>>>> master:pages/projects/meetups.md
 ---
 METRO is proud to support the work of our members through Special Interest Groups. Each group is convened by leaders in our field around a topic of interest to our wider community.
 
@@ -115,3 +119,11 @@ The Social Justice Special Interest Group welcomes all librarians, archivists, a
 Lisa Chow and Sandra Sajonas, Co-organizers
 
 If you're interested in the usability and user experience of libraries, the UX SIG is for you! Support our SIG for opportunities to collaborate on user experience projects, share ideas and resources, and to give and receive support and advice.
+
+
+## Web Archiving Interest Group ##
+[https://www.meetup.com/metro-web-archiving/](https://www.meetup.com/metro-web-archiving/)
+
+Sumitra Duncan and Alex Thurman, Co-organizers
+
+Hosted by Metropolitan New York Library Council, the Web Archiving Interest Group is an inclusive group designed to facilitate growth in the communities forming around initiatives to preserve websites and other online resources. We seek to support professionals in libraries, archives and museums engaged in web archiving, as well as students and others new to the field. With meetings and presentations held throughout the year we will provide a venue for professional development and a forum for open discussion of common interest.

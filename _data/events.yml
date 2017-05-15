@@ -1,60 +1,76 @@
 ---
-- time: 1493764200000
-  link: https://www.meetup.com/Social-Justice-Libraries-Archives/events/238925173/
+- name:
+    text: 'Establishing a Tor Network: Lessons from Lebanon (NH) Library & The Library
+      Freedom Project'
+    html: 'Establishing a Tor Network: Lessons from Lebanon (NH) Library &amp; The
+      Library Freedom Project'
   description:
-    html: "<p>Librarians are always organizers--of our collections, our services,
-      and, especially, each other. The past year has seen a surge of library union
-      activism, from a CUNY contract that got big wins for library faculty to the
-      stand against the lockout at LIU Brooklyn. We invite you to join other library
-      union activists in jump-starting solidarity connections across the city. Organizers
-      from CUNY and LIU Brooklyn will lead a planning discussion for steps we can
-      take to strengthen worker organizing in city libraries. Academic, special, school,
-      and public librarians are all welcome.</p> <p>This meeting will be facilitated
-      by Emily Drabinski and Jonathan Cope.</p> "
-  name:
-    html: 'Library Union Activism: Building Solidarity'
+    text: |-
+      Libraries have long been concerned with protecting the privacy of users from prying eyes, but the internet is changing much of that. Job sites, online retailers, and a myriad other outlets collect sensitive data from our patrons. A reversal of privacy protections coming from the federal government means that ISPs can sell our data to the highest bidder. Simply put, our right to privacy is under threat.
+      What can libraries do to continue to protect our users’ sensitive data? How can we ensure that our users’ data stays safe? Are Tor relays a viable option?
+      In 2015, Library Freedom Project and Lebanon Libraries set up a Tor relay to address these issues. Join us for a talk with Chuck McAndrew to find out how Tor works, how to get your community on board, and what your library can do to support global internet freedom.
+      *
+      Chuck is a librarian and digital privacy advocate. In his role as the IT Librarian at the Lebanon Public Libraries (New Hampshire), he works to promote access to information, privacy, and intellectual freedom within libraries. He has worked as an auto mechanic, a sword maker, and served as a US Marine. He strongly believes in the power of technology to empower individuals and works to make it more accessible to everyone.
+    html: |-
+      <P><SPAN>Libraries have long been concerned with protecting the privacy of users from prying eyes, but the internet is changing much of that. </SPAN>Job sites, online retailers, and a myriad other outlets collect sensitive data from our patrons. A reversal of privacy protections coming from the federal government means that ISPs can sell our data to the highest bidder. Simply put, our right to privacy is under threat.</P>
+      <P><SPAN>What can libraries do to continue to protect our users’ sensitive data? How can we ensure that our users’ data stays safe? Are Tor relays a viable option?</SPAN></P>
+      <P><SPAN>In 2015, Library Freedom Project and Lebanon Libraries set up a Tor relay to address these issues. Join us for a talk with Chuck McAndrew to find out how Tor works, how to get your community on board, and what your library can do to support global internet freedom.</SPAN></P>
+      <P><SPAN>*</SPAN></P>
+      <P><SPAN><SPAN>Chuck is a librarian and digital privacy advocate. In his role as the IT Librarian at the Lebanon Public Libraries (New Hampshire), he works to promote access to information, privacy, and intellectual freedom within libraries. He has worked as an auto mechanic, a sword maker, and served as a US Marine. He strongly believes in the power of technology to empower individuals and works to make it more accessible to everyone.</SPAN></SPAN></P>
+  id: '34515564984'
+  url: https://www.eventbrite.com/e/establishing-a-tor-network-lessons-from-lebanon-nh-library-the-library-freedom-project-tickets-34515564984?aff=ebapi
   start:
-    utc: '2017-05-02 18:30:00 -0400'
-    local: '2017-05-02 18:30:00 -0400'
-  url: https://www.meetup.com/Social-Justice-Libraries-Archives/events/238925173/
-- time: 1494424800000
-  link: https://www.meetup.com/Reference-Librarians-Interest-Group/events/239246489/
-  description:
-    html: "<p><b>Spring Reference SIG Meeting &amp; Call for Submissions:<br/>Urgent
-      Reference in Trumps America<br/>Wednesday, May 10th, 2017; 10am - 12pm</b></p>
-      <p>We welcome submissions for Lightning Round presentations on the theme of
-      Urgent Reference in a post-Trump climate.</p> <p>Students and patrons are approaching
-      the reference desk at a time abuzz with questions of misinformation &amp; disinformation
-      &amp; accusations of “fake news” &amp; “alternative facts.” Providing reference
-      has become differently urgent as the stakes for a Critical Information Literacy
-      -  for an informed citizenry at a time when the very definitions of “information”
-      and “literacy” are called into question - are suddenly, jarringly high.</p>
-      <p>This spring the METRO Reference SIG will focus on Reference Work in this
-      new climate. We believe that Reference Librarianship, in particular, is now,
-      and has always been an avenue for “care work.”  We seek to create a climate
-      to come together and discuss our practice, showcase tools for research, interrogate
-      systemic and evolving needs and to brainstorm and support one another in finding
-      solutions.</p> <p><b>Urgent Reference as it relates to:</b></p> <p>• News related
-      to the Trump administration in general</p> <p>• Healthcare/Affordable Care Act </p>
-      <p>• Issues on Immigration Legislation </p> <p>• Executive Orders and governmental
-      procedures </p> <p>• Working through “fake news” /”alternative” “facts” with
-      students </p> <p>• Determining the best ways to supply students with tools for
-      informed responses, etc.</p> <p><b>We consider Urgent Reference to mean reference
-      work that directly:</b></p> <p>• Seeks to uncover current events </p> <p>• Sources
-      news and various forms of media </p> <p>• Can differentiate between Right and
-      Left politics </p> <p>• Provides support to vulnerable communities </p> <p>• Provides
-      support to activist communities </p> <p>• Provides Critical Data Literacy </p>
-      <p>• Has a hand on the pulse of controversy</p> <p>Presentations should be 10
-      minutes each.  A group discussion will follow the presentations. Send one paragraph
-      descriptions of your presentation, detailing topics covered and if you will
-      have slides to kadler@mcny.edu &amp; ssmith4@gc.cuny.edu by April 30th 2016.<br/>Confirmations
-      will arrive by May 5th, 2017. </p> "
-  name:
-    html: 'Urgent Reference in Trumps America: Spring Reference SIG Meeting & Call'
-  start:
-    utc: '2017-05-10 10:00:00 -0400'
-    local: '2017-05-10 10:00:00 -0400'
-  url: https://www.meetup.com/Reference-Librarians-Interest-Group/events/239246489/
+    timezone: America/New_York
+    local: '2017-05-17T16:00:00'
+    utc: '2017-05-17T20:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-05-17T17:00:00'
+    utc: '2017-05-17T21:00:00Z'
+  created: '2017-05-10T17:06:43Z'
+  changed: '2017-05-11T15:01:32Z'
+  capacity: 40
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: true
+  version: 3.0.0
+  logo_id: '31283282'
+  organizer_id: '8929654067'
+  venue_id: '19292373'
+  category_id: 
+  subcategory_id: 
+  format_id: '2'
+  resource_uri: https://www.eventbriteapi.com/v3/events/34515564984/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31283282%2F160412581493%2F1%2Foriginal.jpg?s=717bd6733d70c31eba294a06d0ab8883
+      width: 3013
+      height: 1589
+    id: '31283282'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31283282%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=2ad9b78e222c514d85276334bfd4b452
+    aspect_ratio: '2'
+    edge_color: "#9c9c9c"
+    edge_color_set: true
 - name:
     text: 'Gov and Alt-gov Information Sources, Part 1: Legislative and Regulatory
       Research'
@@ -93,7 +109,7 @@
     local: '2017-05-24T13:00:00'
     utc: '2017-05-24T17:00:00Z'
   created: '2017-04-03T15:07:27Z'
-  changed: '2017-04-25T19:44:40Z'
+  changed: '2017-05-08T14:51:07Z'
   capacity: 50
   capacity_is_custom: true
   status: live
@@ -136,6 +152,36 @@
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
+- time: 1495728000000
+  link: https://www.meetup.com/Outreach-Advocacy-in-Libraries-Archives/events/239753368/
+  description:
+    html: '<p><b>METRO Outreach and Advocacy Special Interest Group (OASIG) Spring
+      Meeting</b></p> <p><b><i>Outreach to Vulnerable Members of the Community</i></b></p>
+      <p><b>Thurs May 25, 2017, 12pm-2pm</b></p> <p><br/>Academic and Public Libraries
+      engage with the community in promoting our value by providing information services
+      to empower our users. We strive to be inclusive and to serve the needs of all
+      community members, including vulnerable members of the population.  The theme
+      of our Spring 2017 METRO Outreach and Advocacy SIG meeting is <i>Outreach to
+      Vulnerable Members of our Community</i>.</p> <p>Join us on Thurs May 25, 2017
+      from 12pm-2pm at the new METRO headquarters where <b><i>Assistant Professor
+      &amp; Archivist </i></b><b><i>Cynthia Tobar</i></b> (Bronx Community College
+      Library, CUNY) will discuss how she helps connect with the community by providing
+      information services to Undocumented Students.</p> <p>When:      Thurs May 25,
+      2017, 12pm to 2pm</p> <p>Where:    METRO’s new location, 599 11th Avenue, 8th
+      Floor, corner W45th street</p> <p>RSVP by Wed 05/24</p> <p><b>Refreshments will
+      be served!!!</b></p> <p>If you have any questions, please email the <b>METRO
+      co-conveners Mark Aaron Polger or Carl Andrews</b> at <a href="mailto:markaaron.polger@csi.cuny.edu">markaaron.polger@csi.cuny.edu</a>
+      or <a href="mailto:Carl.Andrews@bcc.cuny.edu">Carl.Andrews@bcc.cuny.edu</a></p>
+      <p>Please note also that all attendees of METRO discussion groups are expected
+      to abide by METRO’s community expectations <a href="http://metro.org/community-expectations/"><a
+      href="http://metro.org/community-expectations/" class="linkified">http://metro.org/community-expectations/</a></a>
+       </p> '
+  name:
+    html: Outreach to Vulnerable Members of the Community
+  start:
+    utc: '2017-05-25 12:00:00 -0400'
+    local: '2017-05-25 12:00:00 -0400'
+  url: https://www.meetup.com/Outreach-Advocacy-in-Libraries-Archives/events/239753368/
 - name:
     text: 'Gov and Alt-gov Information Sources, Part 2: Scientific and Technical information '
     html: 'Gov and Alt-gov Information Sources, Part 2: Scientific and Technical information '
@@ -172,7 +218,7 @@
     local: '2017-05-31T13:00:00'
     utc: '2017-05-31T17:00:00Z'
   created: '2017-04-03T15:13:34Z'
-  changed: '2017-05-01T10:54:32Z'
+  changed: '2017-05-10T19:19:01Z'
   capacity: 50
   capacity_is_custom: true
   status: live
@@ -214,69 +260,4 @@
     url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29998720%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C225%2C900%2C450&s=d3adbca4d576a92ed3313818195264fb
     aspect_ratio: '2'
     edge_color: 
-    edge_color_set: true
-- name:
-    text: METRO's Launch Party at 599
-    html: METRO&#39;s Launch Party at 599
-  description:
-    text: |
-      METRO members, myMETRO members, & prospective members, your presence is requested at our launch party on Thursday, June 1. Please join us on the 8th floor of 599 11th Avenue starting at 7:00 p.m.
-      Kindly RSVP so that we know how many cookies to bake. 
-    html: |-
-      <P><SPAN>METRO members, myMETRO members, &amp; prospective members, your presence is requested at our launch party on </SPAN><SPAN CLASS="aBn"><SPAN CLASS="aQJ">Thursday, June 1</SPAN></SPAN><SPAN>. </SPAN>Please join us on the 8th floor of 599 11th Avenue starting at <SPAN CLASS="aBn"><SPAN CLASS="aQJ">7:00 p.m</SPAN></SPAN>.</P>
-      <P>Kindly RSVP so that we know how many cookies to bake. </P>
-      <P><BR></P>
-  id: '34031579370'
-  url: https://www.eventbrite.com/e/metros-launch-party-at-599-tickets-34031579370?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-06-01T19:00:00'
-    utc: '2017-06-01T23:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2017-06-01T22:00:00'
-    utc: '2017-06-02T02:00:00Z'
-  created: '2017-04-25T13:50:41Z'
-  changed: '2017-04-26T20:31:43Z'
-  capacity: 150
-  capacity_is_custom: true
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 900
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  is_free: true
-  version: 3.0.0
-  logo_id: '30742348'
-  organizer_id: '8929654067'
-  venue_id: '19169142'
-  category_id: 
-  subcategory_id: 
-  format_id: '11'
-  resource_uri: https://www.eventbriteapi.com/v3/events/34031579370/
-  logo:
-    crop_mask:
-      top_left:
-        x: 0
-        y: 41
-      width: 3012
-      height: 1506
-    original:
-      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30742348%2F160412581493%2F1%2Foriginal.jpg?s=56954181ee2b12f2050317fbe79d7dc6
-      width: 3013
-      height: 1589
-    id: '30742348'
-    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30742348%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=77ce7013a268e55e81ba0676add4c076
-    aspect_ratio: '2'
-    edge_color: "#9c9c9c"
     edge_color_set: true
