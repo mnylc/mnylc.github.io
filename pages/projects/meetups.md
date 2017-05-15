@@ -4,10 +4,10 @@ permalink: /projects/meetups/
 ---
 METRO is proud to support the work of our members through Special Interest Groups. Each group is convened by leaders in our field around a topic of interest to our wider community.
 
-## Bibliographic Instruction in Libraries ##
-[https://www.meetup.com/Bibliographic-Instruction-in-Libraries/](https://www.meetup.com/Bibliographic-Instruction-in-Libraries/)
+## Library instruction ##
+[https://www.meetup.com/LibraryInstruction/](https://www.meetup.com/LibraryInstruction/)
 
-Linda Miles, Organizer
+Linda Miles and Helen Lane, Co-organizers
 
 The Bibliographic Instruction Special Interest Group (SIG) is composed of individuals interested in various aspects of library instruction. Meetings throughout the year cover a wide range of instruction topics and offer important opportunities for networking and information sharing. The SIG also provides professional development opportunities through group discussion, and presentations by group members, vendors and others. Topics targeted for future meetings include instruction for targeted groups, distance learning and bibliographic instruction, developing assessment tools, and planning for the future needs of bibliographic instruction.
 
@@ -96,7 +96,7 @@ The Reference Special Interest Group is connects librarians interested in the is
 ## Science, Technology, Medical Librarians ##
 [https://www.meetup.com/stmlibrarians/](https://www.meetup.com/stmlibrarians/)
 
-Bruce Slutsky, Organizer
+Bruce Slutsky and John Carey, Co-organizers
 
 The Special Interest Group (SIG) for Science, Technology and Medical Librarians is composed of individuals from libraries with substantial collections in the physical, life or natural sciences. Through meetings and other events, members work to identify and develop effectives strategies to promote the interests of professionals working in this area and their library organizations.
 
