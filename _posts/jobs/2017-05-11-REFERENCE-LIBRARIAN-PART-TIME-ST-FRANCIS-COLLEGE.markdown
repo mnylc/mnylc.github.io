@@ -14,7 +14,7 @@ tag: job
 Responsible for all Reference Desk services.
 Responsible for the operation of the Library when no Full-Time Librarian is in attendance, including, but not limited to, the supervision of one part-time clerk and several part-time student workers.
 
-
+Hours are approximately 28 hours per month consisting of alternate Saturdays and Tuesday and Thursday evenings. Possible additional hours may be available during exam weeks.
 
 
 ### Responsibilities###
