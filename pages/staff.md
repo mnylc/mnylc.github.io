@@ -47,11 +47,11 @@ Laura works closely with METRO leadership and program managers to identify, coll
 Laura joined METRO in February 2010 after receiving her B.A. in History from Tufts University. She also holds a Master of Public Administration degree in Non-profit Management from New York University's Robert F. Wagner Graduate School of Public Service.
 
 ## Anne Karle-Zenith
-**Digital Services Manager**
+**Associate Director of Business Development**
 
-Anne manages the suite of digital services at METRO, including METRO's Digitization Grant Program and managed resources, training and referral services associated with digitization, digital preservation, and emerging technologies issues.
+As a member of METRO’s Administrative team, Anne serves as liaison between METRO members, METRO leadership and relevant METRO staff to define, develop, evaluate and sustain services and grant funding opportunities for METRO members. Previously, Anne served for 5 years as METRO’s Digital Services Manager, managing METRO’s digitization grant program, digital collection hosting service, and digital imaging services. 
 
-Before joining METRO in 2012, she worked for six years at the University of Michigan Library, where she managed a project to build a copyright review management system for works in the HathiTrust Digital Library. During her first 3 years at Michigan, she served as project coordinator for the UM/Google Books partnership to digitize the Library’s collections. She also worked for two years as a Metadata & Cataloging Librarian at Michigan State University Libraries. She graduated in 2003 from the University of Michigan School of Information with a specialization in Library Services. Before becoming a librarian she worked in the music industry, licensing music as well as other copyrighted works for use in advertising, film, television and other media.
+Before joining METRO in 2012, Anne worked for six years at the University of Michigan Library, where she managed a project to build a copyright review management system for works in the HathiTrust Digital Library, and as project coordinator for the UM/Google Books partnership to digitize the Library’s collections. She also worked for two years as a Metadata & Cataloging Librarian at Michigan State University Libraries. She graduated twice from the University of Michigan, with an undergrad degree in Business Administration, and a MSI degree from the School of Information, with a Specialization in Library Services. Before becoming a librarian she worked in the music industry, licensing music as well as other copyrighted works for use in advertising, film, television and other media.
 
 ## Susan Klimley
 **Hospital Library Services Manager**
