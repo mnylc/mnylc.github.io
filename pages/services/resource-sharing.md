@@ -2,6 +2,11 @@
 title: Resource Sharing
 permalink: /services/resource-sharing/
 ---
+
+[Schedule an on-demand pick-up](https://docs.google.com/a/metro.org/forms/d/1fh9gPhY8s8rYM_Wa_PFkmCXqNGxVnMGhHVKR1jnlOb0/edit)
+
+g[Report an issue](https://docs.google.com/forms/d/15S1FoeEHWEKjeM2mz9HRb_393NFeucDaMJoCIGgTweI/viewform?edit_requested=true)
+
 METRO has developed and maintains unsurpassed services to facilitate resource sharing among our member libraries. Our resource sharing services open the world of knowledge to patrons of our member libraries by providing access to collections around New York City and Westchester County.
 
 We facilitate resource sharing through our Referral Card Program and our Delivery Program. Read on for more.
