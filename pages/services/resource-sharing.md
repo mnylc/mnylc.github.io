@@ -3,13 +3,19 @@ title: Resource Sharing
 permalink: /services/resource-sharing/
 ---
 
-[Schedule an on-demand pick-up](https://docs.google.com/a/metro.org/forms/d/1fh9gPhY8s8rYM_Wa_PFkmCXqNGxVnMGhHVKR1jnlOb0/edit)
 
-[Report an issue](https://docs.google.com/forms/d/15S1FoeEHWEKjeM2mz9HRb_393NFeucDaMJoCIGgTweI/viewform?edit_requested=true)
-
-METRO has developed and maintains unsurpassed services to facilitate resource sharing among our member libraries. Our resource sharing services open the world of knowledge to patrons of our member libraries by providing access to collections around New York City and Westchester County.
+METRO has developed and maintains resource sharing services among our member libraries. Our resource sharing services open the world of knowledge to patrons of our member libraries by providing access to collections around New York City and Westchester County.
 
 We facilitate resource sharing through our Referral Card Program and our Delivery Program. Read on for more.
+
+Quick links for our Delivery Services:
+
+* [Schedule an on-demand pick-up](https://docs.google.com/a/metro.org/forms/d/1fh9gPhY8s8rYM_Wa_PFkmCXqNGxVnMGhHVKR1jnlOb0/edit)
+
+* [Report an issue](https://docs.google.com/forms/d/15S1FoeEHWEKjeM2mz9HRb_393NFeucDaMJoCIGgTweI/viewform?edit_requested=true)
+
+* [Submit a claim for a lost item](https://docs.google.com/forms/d/e/1FAIpQLSccaa0esq4won1z4sVGBaW6lMO-QQal1dNd7DvHn7jOazXWFw/viewform?usp=sf_link)
+
 
 ## Referral Cards
 The METRO Referral Card system makes it easier for students and researchers to locate materials or research onsite at METRO member libraries.
@@ -62,7 +68,7 @@ The first 25 pounds of each shipment is free. Additional weight is charged at th
 Each library must designate a delivery site and a contact person. Additional delivery sites may be arranged at additional cost. 
 Additional delivery dates may be arranged at additional cost. 
 
-Please speak with your METRO Delivery Administrator to set up additional delivery sites and dates. Mark Parson can be reached at [mparson@metro.org](mailto:mparson@metro.org). 
+We also provide on-demand pick-ups. [Schedule an on-demand pick-up with this form](https://docs.google.com/a/metro.org/forms/d/1fh9gPhY8s8rYM_Wa_PFkmCXqNGxVnMGhHVKR1jnlOb0/edit).
 
 ### Site Locations 
 Libraries should designate a single on-site location for pick-up and delivery. (This location should be manned to provide signatures for incoming deliveries and oversee outgoing packages.) Additional pick-up and delivery locations can be arranged on a paid basis. 
