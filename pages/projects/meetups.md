@@ -7,9 +7,9 @@ METRO is proud to support the work of our members through Special Interest Group
 ## Library instruction ##
 [https://www.meetup.com/LibraryInstruction/](https://www.meetup.com/LibraryInstruction/)
 
-Linda Miles and Helen Lane, Co-organizers
+Linda Miles and Haruko Yamauchi, Co-organizers
 
-The Bibliographic Instruction Special Interest Group (SIG) is composed of individuals interested in various aspects of library instruction. Meetings throughout the year cover a wide range of instruction topics and offer important opportunities for networking and information sharing. The SIG also provides professional development opportunities through group discussion, and presentations by group members, vendors and others. Topics targeted for future meetings include instruction for targeted groups, distance learning and bibliographic instruction, developing assessment tools, and planning for the future needs of bibliographic instruction.
+Learn about a wide range of topics related to library instruction and meet to network and share information. Potential topics include navigating, implementing, and assessing ACRL's Framework for Information Literacy, instruction for targeted groups, library instruction in distance learning settings, developing assessment tools, and planning for the future of library instruction.
 
 ## Circulation & Reserves ##
 [https://www.meetup.com/Circulation-Reserves-in-Libraries/](https://www.meetup.com/Circulation-Reserves-in-Libraries/)
