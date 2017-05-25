@@ -1,85 +1,4 @@
 ---
-- name:
-    text: 'Gov and Alt-gov Information Sources, Part 1: Legislative and Regulatory
-      Research'
-    html: 'Gov and Alt-gov Information Sources, Part 1: Legislative and Regulatory
-      Research'
-  description:
-    text: "Locating government information is difficult even in the best of times,
-      and even more so when the government discontinues support of collection and
-      dissemination of government information\nLed by Professor Debbie Rabina, this
-      workshop will teach participants to locate government information from official
-      (government) sources as well as sources made available through library and community
-      projects that focus on collection and digitization of government information.
-      We will focus on identifying sources and establishing credibility and authenticity
-      of sources outside the .gov domain.\nPart 2 of this two-part series takes place
-      on May 31, 2017. If you register for both sessions, please contact us at events@metro.org
-      for your discount code.\n\nInstructor’s Bio: \nDebbie Rabina is Professor of
-      Library and Information Science at Pratt Institute School of information. Her
-      areas of research and teaching include government information, information law
-      and policy, and information and human rights.\n"
-    html: |-
-      <P><SPAN>Locating government information is difficult even in the best of times, and even more so when the government discontinues support of collection and dissemination of government information</SPAN></P>
-      <P><SPAN>Led by Professor Debbie Rabina, t</SPAN><SPAN>his workshop will teach participants to locate government information from official (government) sources as well as sources made available through library and community projects that focus on collection and digitization of government information. We will focus on identifying sources and establishing credibility and authenticity of sources outside the .gov domain.</SPAN></P>
-      <P><SPAN>Part 2 of this two-part series takes place on May 31, 2017. If you register for both sessions, please contact us at </SPAN><A HREF="mailto:events@metro.org" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>events@metro.org</SPAN></A><SPAN> for your discount code.</SPAN></P>
-      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
-      <H3><SPAN>Instructor’s Bio: </SPAN></H3>
-      <P><SPAN>Debbie Rabina is Professor of Library and Information Science at Pratt Institute School of information. Her areas of research and teaching include government information, information law and policy, and information and human rights.</SPAN></P>
-      <P><SPAN><BR></SPAN></P>
-  id: '33396213975'
-  url: https://www.eventbrite.com/e/gov-and-alt-gov-information-sources-part-1-legislative-and-regulatory-research-tickets-33396213975?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-05-24T10:00:00'
-    utc: '2017-05-24T14:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2017-05-24T13:00:00'
-    utc: '2017-05-24T17:00:00Z'
-  created: '2017-04-03T15:07:27Z'
-  changed: '2017-05-22T18:54:19Z'
-  capacity: 50
-  capacity_is_custom: true
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 600
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  is_free: false
-  version: 3.0.0
-  logo_id: '29998373'
-  organizer_id: '8929654067'
-  venue_id: '19050027'
-  category_id: 
-  subcategory_id: 
-  format_id: 
-  resource_uri: https://www.eventbriteapi.com/v3/events/33396213975/
-  logo:
-    crop_mask:
-      top_left:
-        x: 0
-        y: 225
-      width: 900
-      height: 450
-    original:
-      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29998373%2F160412581493%2F1%2Foriginal.jpg?s=9f0d32e4e859723a5a61cb2737a794df
-      width: 900
-      height: 900
-    id: '29998373'
-    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29998373%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C225%2C900%2C450&s=3bf7a07e830b4ed9ca4872b9504e56c4
-    aspect_ratio: '2'
-    edge_color: 
-    edge_color_set: true
 - time: 1495728000000
   link: https://www.meetup.com/Outreach-Advocacy-in-Libraries-Archives/events/239753368/
   description:
@@ -146,7 +65,7 @@
     local: '2017-05-31T13:00:00'
     utc: '2017-05-31T17:00:00Z'
   created: '2017-04-03T15:13:34Z'
-  changed: '2017-05-23T14:25:06Z'
+  changed: '2017-05-24T14:04:44Z'
   capacity: 50
   capacity_is_custom: true
   status: live
@@ -201,3 +120,329 @@
     utc: '2017-06-13 16:30:00 -0400'
     local: '2017-06-13 16:30:00 -0400'
   url: https://www.meetup.com/Librarians-for-College-Readiness/events/240040065/
+- name:
+    text: Intro to Open Data
+    html: Intro to Open Data
+  description:
+    text: |-
+      Using New York City’s own open data portal as a teaching example, participants will be introduced to open data as a reference and research tool. Together we will practice effective search strategies, explore use cases, and build skills in critical evaluation. Through discussion, we will explore explicit and implicit biases, identify data quality issues, and consider how data, like all sources of information, requires a certain level of scrutiny. 
+      Participants will:
+
+      explore ways in which patrons can access, understand, and create with open data
+      learn search strategies for finding usable datasets on NYC Open Data
+      download a dataset to explore in Google Sheets.  
+
+      Pizza, salad, and beverages will be provided at this workshop.
+      About our instructor:
+      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
+    html: |-
+      <P CLASS="m_6272638849391432294inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Using New York City’s own open data portal as a teaching example, participants will be introduced to open data as a reference and research tool. Together we will practice effective search strategies, explore use cases, and build skills in critical evaluation. Through discussion, we will explore explicit and implicit biases, identify data quality issues, and consider how data, like all sources of information, requires a certain level of scrutiny. <BR></P>
+      <P CLASS="m_6272638849391432294inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will:</P>
+      <UL>
+      <LI>explore ways in which patrons can access, understand, and create with open data</LI>
+      <LI>learn search strategies for finding usable datasets on NYC Open Data</LI>
+      <LI>download a dataset to explore in Google Sheets.  </LI>
+      </UL>
+      <P>Pizza, salad, and beverages will be provided at this workshop.</P>
+      <P><STRONG>About our instructor:</STRONG></P>
+      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
+  id: '34858399411'
+  url: https://www.eventbrite.com/e/intro-to-open-data-tickets-34858399411?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-07-11T18:00:00'
+    utc: '2017-07-11T22:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-07-11T21:00:00'
+    utc: '2017-07-12T01:00:00Z'
+  created: '2017-05-24T16:03:01Z'
+  changed: '2017-05-24T16:06:13Z'
+  capacity: 36
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: false
+  version: 3.0.0
+  logo_id: '31732740'
+  organizer_id: '8929654067'
+  venue_id: '19746348'
+  category_id: 
+  subcategory_id: 
+  format_id: '9'
+  resource_uri: https://www.eventbriteapi.com/v3/events/34858399411/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31732740%2F160412581493%2F1%2Foriginal.jpg?s=f4cfa9fe95b5b4d61fac78ce4fdaa315
+      width: 3013
+      height: 1589
+    id: '31732740'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31732740%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=6274e3beba0c776047aa79e36b5a2819
+    aspect_ratio: '2'
+    edge_color: "#9c9c9c"
+    edge_color_set: true
+- name:
+    text: Intro to Data Visualization
+    html: Intro to Data Visualization
+  description:
+    text: |-
+      Participants will gain hands-on exposure to the fundamentals of data visualization, and create their own data viz using a dataset from the NYC Open Data portal.
+      Together we’ll explore CARTO and Google Sheets, free tools for creating charts, graphs and maps. We’ll discuss best practices for information visualization, how to critically evaluate the charts and graphs you see in news stories, and how to enable patrons to use these resources and build data visualization skills.
+      Participants will:
+
+      explore user interfaces for creating data visualizations in CARTO and Google Sheets
+      download a dataset from NYC Open Data
+      create meaningful visualizations 
+
+      Pizza, salad, and beverages will be provided at this workshop.
+      About our instructor:
+      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
+    html: |-
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will gain hands-on exposure to the fundamentals of data visualization, and create their own data viz using a dataset from the NYC Open Data portal.</P>
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Together we’ll explore CARTO and Google Sheets, free tools for creating charts, graphs and maps. We’ll discuss best practices for information visualization, how to critically evaluate the charts and graphs you see in news stories, and how to enable patrons to use these resources and build data visualization skills.</P>
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will:</P>
+      <UL>
+      <LI>explore user interfaces for creating data visualizations in CARTO and Google Sheets</LI>
+      <LI>download a dataset from NYC Open Data</LI>
+      <LI>create meaningful visualizations </LI>
+      </UL>
+      <P>Pizza, salad, and beverages will be provided at this workshop.</P>
+      <P><STRONG>About our instructor:</STRONG></P>
+      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
+  id: '34860329183'
+  url: https://www.eventbrite.com/e/intro-to-data-visualization-tickets-34860329183?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-07-18T18:00:00'
+    utc: '2017-07-18T22:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-07-18T21:00:00'
+    utc: '2017-07-19T01:00:00Z'
+  created: '2017-05-24T17:09:51Z'
+  changed: '2017-05-24T17:21:49Z'
+  capacity: 36
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: false
+  version: 3.0.0
+  logo_id: '31735742'
+  organizer_id: '8929654067'
+  venue_id: '19746348'
+  category_id: 
+  subcategory_id: 
+  format_id: '9'
+  resource_uri: https://www.eventbriteapi.com/v3/events/34860329183/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31735742%2F160412581493%2F1%2Foriginal.jpg?s=add8dbb43a4f8874c6025282c10aad9d
+      width: 3013
+      height: 1589
+    id: '31735742'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31735742%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=817c9ec6e723594a20d9058e56361100
+    aspect_ratio: '2'
+    edge_color: "#9c9c9c"
+    edge_color_set: true
+- name:
+    text: Intro to Data Analysis with R
+    html: Intro to Data Analysis with R
+  description:
+    text: |-
+      Participants will build on critical data literacy skills from previous workshops and begin to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights. 
+      Participants will:
+
+      Download and install R and RStudio
+      Navigate the RStudio interface 
+      Explore a dataset from NYC Open Data. 
+
+      No previous programming experience required! 
+      Pizza, salad, and beverages will be provided at this workshop.
+      About our instructor:
+      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
+    html: |-
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will build on critical data literacy skills from previous workshops and begin to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights. <BR></P>
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will:</P>
+      <UL>
+      <LI>Download and install R and RStudio</LI>
+      <LI>Navigate the RStudio interface <BR></LI>
+      <LI>Explore a dataset from NYC Open Data. </LI>
+      </UL>
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal"><I>No previous programming experience required!</I><SPAN> </SPAN><BR></P>
+      <P>Pizza, salad, and beverages will be provided at this workshop.</P>
+      <P><STRONG>About our instructor:</STRONG></P>
+      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
+  id: '34860365291'
+  url: https://www.eventbrite.com/e/intro-to-data-analysis-with-r-tickets-34860365291?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-09-12T18:00:00'
+    utc: '2017-09-12T22:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-09-12T21:00:00'
+    utc: '2017-09-13T01:00:00Z'
+  created: '2017-05-24T17:11:41Z'
+  changed: '2017-05-24T17:12:14Z'
+  capacity: 36
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: false
+  version: 3.0.0
+  logo_id: '31735807'
+  organizer_id: '8929654067'
+  venue_id: '19746348'
+  category_id: 
+  subcategory_id: 
+  format_id: '9'
+  resource_uri: https://www.eventbriteapi.com/v3/events/34860365291/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31735807%2F160412581493%2F1%2Foriginal.jpg?s=5d3ecb592f772aebc658a9a27cda3a65
+      width: 3013
+      height: 1589
+    id: '31735807'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31735807%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=1f29d193f5436d0ea4129ec11c6ebc17
+    aspect_ratio: '2'
+    edge_color: "#9c9c9c"
+    edge_color_set: true
+- name:
+    text: Intro to Data Analysis with Python
+    html: Intro to Data Analysis with Python
+  description:
+    text: |-
+      Participants will build on critical data literacy skills from previous workshops and begin to explore open data using Python, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use Python to aid their research, explore data sets and discover insights. 
+      Participants will:
+
+      Download and install Python and supporting software
+      Learn basic commands for exploring data
+      Explore a dataset from NYC Open Data 
+
+      No previous programming experience required!
+      Pizza, salad, and beverages will be provided at this workshop.
+      About our instructor:
+      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
+    html: |-
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will build on critical data literacy skills from previous workshops and begin to explore open data using Python, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use Python to aid their research, explore data sets and discover insights. <BR></P>
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will:</P>
+      <UL>
+      <LI>Download and install Python and supporting software</LI>
+      <LI>Learn basic commands for exploring data</LI>
+      <LI>Explore a dataset from NYC Open Data <BR></LI>
+      </UL>
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal"><I>No previous programming experience required!</I><BR></P>
+      <P>Pizza, salad, and beverages will be provided at this workshop.</P>
+      <P><STRONG>About our instructor:</STRONG></P>
+      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
+  id: '34860393375'
+  url: https://www.eventbrite.com/e/intro-to-data-analysis-with-python-tickets-34860393375?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-09-26T18:00:00'
+    utc: '2017-09-26T22:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-09-26T21:00:00'
+    utc: '2017-09-27T01:00:00Z'
+  created: '2017-05-24T17:12:30Z'
+  changed: '2017-05-24T17:17:10Z'
+  capacity: 36
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: false
+  version: 3.0.0
+  logo_id: '31735844'
+  organizer_id: '8929654067'
+  venue_id: '19746348'
+  category_id: 
+  subcategory_id: 
+  format_id: '9'
+  resource_uri: https://www.eventbriteapi.com/v3/events/34860393375/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31735844%2F160412581493%2F1%2Foriginal.jpg?s=83601ed4146bceb93f559e9e47f1e8da
+      width: 3013
+      height: 1589
+    id: '31735844'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31735844%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=6a366a264240226fadc2f9dd27bd5267
+    aspect_ratio: '2'
+    edge_color: "#9c9c9c"
+    edge_color_set: true
