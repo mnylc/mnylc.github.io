@@ -32,20 +32,20 @@ Please see our [list of current members.]({{ '/members' | prepend: site.baseurl 
 
 ### Membership Fees
 
-In accordance with Article II Section 9 of the Metro Bylaws “Dues for each category of membership shall be set by majority vote of the members based on recommendations of the Board of Trustees.” Until further action by the Board, the following annual dues schedule will be in effect. All dues assume non-profit status of member. For-profit membership rates are available upon request. 
+In accordance with Article II Section 9 of the Metro Bylaws “Dues for each category of membership shall be set by majority vote of the members based on recommendations of the Board of Trustees.” Until further action by the Board, the following annual dues schedule will be in effect. All dues assume non-profit status of member. For-profit membership rates are available upon request.
 
 To become a METRO member, please complete this <a href="https://www.google.com/url?q=https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScdl5-ktEFGNhXXEn4bAF54Blbu8wraOFRshnR42LSWpjwAMQ/viewform&sa=D&ust=1487006619450000&usg=AFQjCNFapEQ3uj1NJ24wWw9pPylQBsq2_Q" target="_blank">form.</a>
 
 
-|  Annual operating expenditures of membership units (salaries, materials and other expenses)  |  Annual Dues                | 
-|  ------------------------------------------  |  ----------------------  | 
-|  Between $50,000 and $99,000     | $494            | 
-|    Between $100,000 and $249,000     |  $790            | 
-|  Between $250,000 and $499,000     |  $1,087            | 
-|  Between $500,000 and $749,000    |  $1,483            | 
-|  Between $750,000 and $999,000      |  $1,977            | 
-|  Between $1,000,000 and $2,000,000 |  $2,966            | 
-|   Over $2,000,000                  |  $3,954            | 
+|  Annual operating expenditures of membership units (salaries, materials and other expenses)  |  Annual Dues                |
+|  ------------------------------------------  |  ----------------------  |
+|  Between $50,000 and $99,000     | $494            |
+|    Between $100,000 and $249,000     |  $790            |
+|  Between $250,000 and $499,000     |  $1,087            |
+|  Between $500,000 and $749,000    |  $1,483            |
+|  Between $750,000 and $999,000      |  $1,977            |
+|  Between $1,000,000 and $2,000,000 |  $2,966            |
+|   Over $2,000,000                  |  $3,954            |
 
 ### Eligibility
 
@@ -59,7 +59,7 @@ For purposes of membership in METRO, a library is defined as an entity that prov
 
 ## myMETRO Individual Membership
 
-Join more than 300 individual librarians, archivists, and information professionals as a myMETRO Member. Benefits include scholarships to conferences of your choosing, access to Lynda.com, our exclusive career services packages, and much more.
+Join more than 300 individual librarians, archivists, and information professionals as a myMETRO Member. 
 
 ### Benefits of myMETRO Membership
 
@@ -77,9 +77,6 @@ Annual Fees for myMETRO Membership are
 * $250 for a 3-year professional membership
 * $500 for lifetime membership
 
-We offer 50% discounts on Individual Memberships for students, retirees, and professionals in transition. Three year memberships are available to current students for $125.00. 
+We offer 50% discounts on Individual Memberships for students, retirees, and professionals in transition. Three year memberships are available to current students for $125.00.
 
 If you are interested in joining us as a myMETRO member, please complete this <a href="https://www.google.com/url?q=https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScPUztmBGK57i5wOmupenzG1DPg_M52QdXr06WDNaad1w9VDA/viewform&sa=D&ust=1487006619451000&usg=AFQjCNH3KzsNaQ8nKqlw5xpChnkyiHvWHA" target="_blank">form.</a> One of our staff members will be in touch with you to follow up on your membership submission.
-
-
-
