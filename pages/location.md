@@ -24,6 +24,9 @@ For additional subway information, visit the [MTA Web site.](http://www.mta.info
 * M50 (Crosstown on 49th and 50th Streets)
 For additional bus information, visit the [MTA Web site.](http://www.mta.info)
 
+## Citi Bike
+There is a Citi Bike station located just one block away at 46th Street and 11th Avenue. [Directions for biking](http://www.nyc.gov/html/dot/html/bicyclists/bikemaps.shtml) are available from New York City's DOT.
+
 ## Parking
 We recommend parking in one of the nearby garages. The following parking garages are all near 599 (call garages for prices):
 
