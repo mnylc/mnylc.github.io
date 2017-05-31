@@ -3,9 +3,9 @@ title: Location
 permalink: /location/
 ---
 
-599, home of the Metropolitan New York Library Council, is located on the 8th floor of 599 Eleventh Avenue (between 44th Street and 45th Street). 
+599, home of the Metropolitan New York Library Council, is located on the 8th floor of 599 Eleventh Avenue (between 44th Street and 45th Street).
 
-To access 599, simply take the elevator up to the 8th floor. We are open between the hours of 10:00 a.m. and 6:00 p.m. from Monday through Thursday, and on weeknights and weekends during scheduled events. 
+To access 599, simply take the elevator up to the 8th floor. We are open between the hours of 10:00 a.m. and 6:00 p.m. from Monday through Thursday, and on weeknights and weekends during scheduled events.
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.9684986038774!2d-73.99952148459352!3d40.76271757932634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2584e6357ca61%3A0x52ea4e7dc02ca2ba!2s599+11th+Ave%2C+New+York%2C+NY+10036!5e0!3m2!1sen!2sus!4v1482177461504" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -23,6 +23,9 @@ For additional subway information, visit the [MTA Web site.](http://www.mta.info
 * M12 (12th Avenue and 11th Avenue)
 * M50 (Crosstown on 49th and 50th Streets)
 For additional bus information, visit the [MTA Web site.](http://www.mta.info)
+
+## Citi Bike
+There is a Citi Bike station located just one block away from 599 at 46th Street and 11th Avenue. [Directions for biking](http://www.nyc.gov/html/dot/html/bicyclists/bikemaps.shtml) are available from New York City's DOT.
 
 ## Parking
 We recommend parking in one of the nearby garages. The following parking garages are all near 599 (call garages for prices):
