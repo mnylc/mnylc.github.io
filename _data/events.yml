@@ -131,7 +131,7 @@
     local: '2017-07-10T17:00:00'
     utc: '2017-07-10T21:00:00Z'
   created: '2017-05-26T14:10:12Z'
-  changed: '2017-05-26T14:46:33Z'
+  changed: '2017-05-31T20:26:00Z'
   capacity: 30
   capacity_is_custom: true
   status: live
@@ -211,7 +211,7 @@
     local: '2017-07-11T21:00:00'
     utc: '2017-07-12T01:00:00Z'
   created: '2017-05-24T16:03:01Z'
-  changed: '2017-05-31T04:54:04Z'
+  changed: '2017-05-31T19:18:24Z'
   capacity: 36
   capacity_is_custom: true
   status: live
