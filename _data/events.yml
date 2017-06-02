@@ -1,69 +1,4 @@
 ---
-- name:
-    text: METRO's Launch Party at 599
-    html: METRO&#39;s Launch Party at 599
-  description:
-    text: |
-      METRO members, myMETRO members, & prospective members, your presence is requested at our launch party on Thursday, June 1. Please join us on the 8th floor of 599 11th Avenue starting at 7:00 p.m.
-      Kindly RSVP so that we know how many cookies to bake. 
-    html: |-
-      <P><SPAN>METRO members, myMETRO members, &amp; prospective members, your presence is requested at our launch party on </SPAN><SPAN CLASS="aBn"><SPAN CLASS="aQJ">Thursday, June 1</SPAN></SPAN><SPAN>. </SPAN>Please join us on the 8th floor of 599 11th Avenue starting at <SPAN CLASS="aBn"><SPAN CLASS="aQJ">7:00 p.m</SPAN></SPAN>.</P>
-      <P>Kindly RSVP so that we know how many cookies to bake. </P>
-      <P><BR></P>
-  id: '34031579370'
-  url: https://www.eventbrite.com/e/metros-launch-party-at-599-tickets-34031579370?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-06-01T19:00:00'
-    utc: '2017-06-01T23:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2017-06-01T22:00:00'
-    utc: '2017-06-02T02:00:00Z'
-  created: '2017-04-25T13:50:41Z'
-  changed: '2017-05-25T18:07:39Z'
-  capacity: 225
-  capacity_is_custom: true
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 900
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  is_free: true
-  version: 3.0.0
-  logo_id: '30742348'
-  organizer_id: '8929654067'
-  venue_id: '19169142'
-  category_id: 
-  subcategory_id: 
-  format_id: '11'
-  resource_uri: https://www.eventbriteapi.com/v3/events/34031579370/
-  logo:
-    crop_mask:
-      top_left:
-        x: 0
-        y: 41
-      width: 3012
-      height: 1506
-    original:
-      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30742348%2F160412581493%2F1%2Foriginal.jpg?s=56954181ee2b12f2050317fbe79d7dc6
-      width: 3013
-      height: 1589
-    id: '30742348'
-    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30742348%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=77ce7013a268e55e81ba0676add4c076
-    aspect_ratio: '2'
-    edge_color: "#9c9c9c"
-    edge_color_set: true
 - time: 1497385800000
   link: https://www.meetup.com/Librarians-for-College-Readiness/events/240040065/
   description:
@@ -131,7 +66,7 @@
     local: '2017-07-10T17:00:00'
     utc: '2017-07-10T21:00:00Z'
   created: '2017-05-26T14:10:12Z'
-  changed: '2017-05-31T20:26:00Z'
+  changed: '2017-06-01T19:32:16Z'
   capacity: 30
   capacity_is_custom: true
   status: live
