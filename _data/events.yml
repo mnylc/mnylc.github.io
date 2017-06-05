@@ -12,6 +12,73 @@
     local: '2017-06-13 16:30:00 -0400'
   url: https://www.meetup.com/Librarians-for-College-Readiness/events/240040065/
 - name:
+    text: 'Navigating Gender in the Library: Strategies for Communication & Empathy'
+    html: 'Navigating Gender in the Library: Strategies for Communication &amp; Empathy'
+  description:
+    text: |-
+      Join us in this interactive workshop as we practice communication skills to promote gender equity and empathy in your workplace. We will engage in a series of team-building exercises and discussions focused on sharing experiences, building confidence, and deconstructing the systems that perpetuate inequities in our field. The exercises will consist of one-on-one and group conversations, games, and scenario-testing improvisation. 
+      At the end of the workshop, participants will have the tools to:
+
+      Recognize structures of gender inequity in the workplace
+      Communicate their value to coworkers, supervisors, and patrons
+      Practice empathy and flexibility in everyday conversations
+
+
+      About our instructors:
+      Laura Childs has her MSLIS from Pratt Institute. Her mission is to transform perceptions and increase public understanding of librarians and libraries. You can find her recently published article, "To Uphold and Resist: Protecting Intellectual Freedom through Progressive Librarianship," in The Serials Librarian. During the day, she manages information at a non-profit organization.
+      Peter Rossetti is a life design strategist and graphic designer who helps people uncover their vision and goals. Peter is focused on creating opportunities for experiential learning and facilitates workshops on how design and creativity can improve lives. He is the President of AIGA Brand Central, a professional design organization that serves the branding community in the NYC Metro area.
+    html: |-
+      <P>Join us in this interactive workshop as we practice communication skills to promote gender equity and empathy in your workplace. We will engage in a series of team-building exercises and discussions focused on sharing experiences, building confidence, and deconstructing the systems that perpetuate inequities in our field. The exercises will consist of one-on-one and group conversations, games, and scenario-testing improvisation. </P>
+      <P CLASS="MsoNormal"><SPAN>At the end of the workshop, participants will have the tools to:</SPAN></P>
+      <UL>
+      <LI><SPAN>Recognize structures of gender inequity in the workplace</SPAN></LI>
+      <LI><SPAN><SPAN></SPAN></SPAN><SPAN>Communicate their value to coworkers, supervisors, and patrons</SPAN></LI>
+      <LI><SPAN><SPAN></SPAN></SPAN><SPAN>Practice empathy and flexibility in everyday conversations</SPAN></LI>
+      </UL>
+      <P><STRONG></STRONG></P>
+      <P><STRONG>About our instructors:</STRONG></P>
+      <P><SPAN>Laura Childs has her MSLIS from Pratt Institute. Her mission is to transform perceptions and increase public understanding of librarians and libraries. You can find her recently published article, "To Uphold and Resist: Protecting Intellectual Freedom through Progressive Librarianship," in <I>The Serials Librarian</I>. During the day, she manages information at a non-profit organization.</SPAN></P>
+      <P>Peter Rossetti is a life design strategist and graphic designer who helps people uncover their vision and goals. Peter is focused on creating opportunities for experiential learning and facilitates workshops on how design and creativity can improve lives. He is the President of AIGA Brand Central, a professional design organization that serves the branding community in the NYC Metro area.</P>
+  id: '35093593884'
+  url: https://www.eventbrite.com/e/navigating-gender-in-the-library-strategies-for-communication-empathy-tickets-35093593884?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-06-29T18:00:00'
+    utc: '2017-06-29T22:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-06-29T21:00:00'
+    utc: '2017-06-30T01:00:00Z'
+  created: '2017-06-02T20:43:43Z'
+  changed: '2017-06-02T20:43:46Z'
+  capacity: 40
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: false
+  version: 3.0.0
+  logo_id: 
+  organizer_id: '8929654067'
+  venue_id: '19862662'
+  category_id: 
+  subcategory_id: 
+  format_id: 
+  resource_uri: https://www.eventbriteapi.com/v3/events/35093593884/
+  logo: 
+- name:
     text: An Archivists' Guide to Matroska
     html: An Archivists&#39; Guide to Matroska
   description:
