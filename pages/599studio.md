@@ -60,9 +60,6 @@ is a stand-alone, pop-up recording studio that filters out outside noise and imp
 [3 Blue Yeti Microphones](http://www.bluemic.com/products/yeti/)
 Studio-quality USB microphones, outfitted with pop filters and suspension arms to soften those "p-pops" and table noises.
 
-[MOTU 4pre 6x8 Hybrid FireWire USB 2.0 Audio Interface](http://www.motu.com/products/motuaudio/4pre)
-An audio interface that lets you record on all three microphones at the same time to separate tracks. Such an editing life saver!
-
 [Izotope RX Plugin](https://www.izotope.com/en/products/repair-and-edit/rx-plug-in-pack.html)
 Software for post-production audio cleaning. De-noising, de-humming, de-clicking ...
 
