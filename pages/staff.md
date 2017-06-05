@@ -98,6 +98,15 @@ Mark Parson provides critical support for a wide range of activities at METRO. I
 
 Mark is one of our longest-serving staff members, having started at METRO in 2006.
 
+## Molly Schwartz
+**Studio Manager, Imaging and Recording Specialist**
+
+Molly manages METRO's studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station.
+
+Molly first joined METRO as part of the first METRO fellowship cohort in 2016. She moved to New York City from the Nordics, where she completed one year of a PhD in Media and Communications at Malmö University and Fulbright grant at the Aalto University Media Lab in Helsinki. She was part of the inaugural cohort of National Digital Stewardship Residents in Washington, D.C. and worked at the U.S. State Department as a data analyst.
+
+Molly holds an MLS with a specialization in Archives, Records and Information Management from the University of Maryland at College Park and a BA/MA in History from the Johns Hopkins University.
+
 ## Madjalia Seynou
 **Assistant Controller**
 
