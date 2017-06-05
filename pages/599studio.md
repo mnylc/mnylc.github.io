@@ -65,3 +65,9 @@ Software for post-production audio cleaning. De-noising, de-humming, de-clicking
 
 [Reaper](http://www.reaper.fm/)
 Audio recording, editing, and mixing software.
+
+[Yamaha HS5 speakers](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
+Industry standard stereo speakers that let you play back your recordings and mixes on an ideal sonic platform.
+
+[ARTcessories HeadAmp 4](http://artproaudio.com/headphone_amps/product/headamp_4/) 
+Head amp for 4 sets of headphones.
