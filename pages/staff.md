@@ -30,15 +30,6 @@ Before joining METRO in 2014, Kyle was Office Manager at Jeanne Collins & Associ
 
 Kyle received a B.A. in communication, with a focus on radio and TV, from William Paterson University in New Jersey.
 
-## Caroline Catchpole
-**Digitization Specialist**
-
-Caroline was originally hired by METRO to facilitate mobile digitization for Culture in Transit, a project funded by the John S. and James L. Knight Foundation. Now Caroline provides on-going digitization services to cultural heritage institutions throughout the Metropolitan New York area. She is responsible for digital capture, metadata creation and/or training, as well as tracking and assessment, project outreach and communication.
-
-Caroline has worked in the archives and library sector for 10 years with a special focus on the digitization of cultural heritage material and increasing access to archives since 2009. Most recently she served as Archivist for the Wallace Correspondence Project at the Natural History Museum in London. This project, funded by the Andrew Mellon Foundation, sought to digitize the correspondence and assorted manuscripts of nineteenth century naturalist, Alfred Russel Wallace and place the digitized content online.
-
-Caroline obtained a Postgraduate Diploma in Archives and Records Management from University College London and a B.A. in History from the University of Essex.
-
 ## Laura Forshay
 **Strategic Evaluation and Data Impact Manager**
 
@@ -49,14 +40,9 @@ Laura joined METRO in February 2010 after receiving her B.A. in History from Tuf
 ## Anne Karle-Zenith
 **Associate Director of Business Development**
 
-As a member of METRO’s Administrative team, Anne serves as liaison between METRO members, METRO leadership and relevant METRO staff to define, develop, evaluate and sustain services and grant funding opportunities for METRO members. Previously, Anne served for 5 years as METRO’s Digital Services Manager, managing METRO’s digitization grant program, digital collection hosting service, and digital imaging services. 
+As a member of METRO’s Administrative team, Anne serves as liaison between METRO members, METRO leadership and relevant METRO staff to define, develop, evaluate and sustain services and grant funding opportunities for METRO members. Previously, Anne served for 5 years as METRO’s Digital Services Manager, managing METRO’s digitization grant program, digital collection hosting service, and digital imaging services.
 
 Before joining METRO in 2012, Anne worked for six years at the University of Michigan Library, where she managed a project to build a copyright review management system for works in the HathiTrust Digital Library, and as project coordinator for the UM/Google Books partnership to digitize the Library’s collections. She also worked for two years as a Metadata & Cataloging Librarian at Michigan State University Libraries. She graduated twice from the University of Michigan, with an undergrad degree in Business Administration, and a MSI degree from the School of Information, with a Specialization in Library Services. Before becoming a librarian she worked in the music industry, licensing music as well as other copyrighted works for use in advertising, film, television and other media.
-
-## Susan Klimley
-**Hospital Library Services Manager**
-
-As HLSP Manager, Susan supports METRO in developing, enhancing, and improving the delivery of health-care information between member libraries and healthcare professionals in the region. Susan has significant experience working in health sciences libraries, including work as Director of Health Science Library at Elmhurst Hospital in Queens, and more recently managing electronic resources at the Health Sciences Library of Columbia University. Susan’s work in hospital and health sciences libraries informs her desire to support librarians that strive to meet the information demands of health professionals. Susan holds an MLS from Simmons College.
 
 ## John Mignault
 **Technology Specialist, Empire State Digital Network**
@@ -77,9 +63,9 @@ Prior to joining METRO, for the past six years, Shelly was an Audit Senior who s
 ## Diego Pino Navarro
 **Repository Developer**
 
-Diego is a pet and human-friendly systems architect and open source software developer from Chile. He enjoys working on Linked Data and Web Semantics, exploring ways of describing and preserving human knowledge, helping others to implement open source digital repository solutions and solving interdisciplinary problems via computer science. 
+Diego is a pet and human-friendly systems architect and open source software developer from Chile. He enjoys working on Linked Data and Web Semantics, exploring ways of describing and preserving human knowledge, helping others to implement open source digital repository solutions and solving interdisciplinary problems via computer science.
 
-At METRO, Diego develops and manages our Digital Objects Repository ecosystem, coding and integrating ideas for Islandora and Fedora. He also tries to facilitates this work by providing tools and software solutions for everyday needs. 
+At METRO, Diego develops and manages our Digital Objects Repository ecosystem, coding and integrating ideas for Islandora and Fedora. He also tries to facilitates this work by providing tools and software solutions for everyday needs.
 
 Diego is an active Fedora 4 contributor, Islandora and CLAW Committer and recently also Release Manager, being part of the release team for the last few years and maintaining several core modules. When not developing or walking dogs, he likes to build LEGOs, make Wood toys and do hobby research on reef ecosystems.
 
