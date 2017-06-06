@@ -35,7 +35,7 @@
       <LI><SPAN><SPAN></SPAN></SPAN><SPAN>Communicate their value to coworkers, supervisors, and patrons</SPAN></LI>
       <LI><SPAN><SPAN></SPAN></SPAN><SPAN>Practice empathy and flexibility in everyday conversations</SPAN></LI>
       </UL>
-      <P><STRONG></STRONG></P>
+      <P><BR></P>
       <P><STRONG>About our instructors:</STRONG></P>
       <P><SPAN>Laura Childs has her MSLIS from Pratt Institute. Her mission is to transform perceptions and increase public understanding of librarians and libraries. You can find her recently published article, "To Uphold and Resist: Protecting Intellectual Freedom through Progressive Librarianship," in <I>The Serials Librarian</I>. During the day, she manages information at a non-profit organization.</SPAN></P>
       <P>Peter Rossetti is a life design strategist and graphic designer who helps people uncover their vision and goals. Peter is focused on creating opportunities for experiential learning and facilitates workshops on how design and creativity can improve lives. He is the President of AIGA Brand Central, a professional design organization that serves the branding community in the NYC Metro area.</P>
@@ -50,7 +50,7 @@
     local: '2017-06-29T21:00:00'
     utc: '2017-06-30T01:00:00Z'
   created: '2017-06-02T20:43:43Z'
-  changed: '2017-06-02T20:43:46Z'
+  changed: '2017-06-05T16:41:54Z'
   capacity: 40
   capacity_is_custom: true
   status: live
@@ -70,14 +70,29 @@
   source: create_2.0
   is_free: false
   version: 3.0.0
-  logo_id: 
+  logo_id: '32073009'
   organizer_id: '8929654067'
   venue_id: '19862662'
   category_id: 
   subcategory_id: 
   format_id: 
   resource_uri: https://www.eventbriteapi.com/v3/events/35093593884/
-  logo: 
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32073009%2F160412581493%2F1%2Foriginal.jpg?s=0f9e14d4f86300d3695a98f8727242ab
+      width: 3013
+      height: 1589
+    id: '32073009'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32073009%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=d365343865b634bb385eff3534ee19f8
+    aspect_ratio: '2'
+    edge_color: "#9c9c9c"
+    edge_color_set: true
 - name:
     text: An Archivists' Guide to Matroska
     html: An Archivists&#39; Guide to Matroska
@@ -213,7 +228,7 @@
     local: '2017-07-11T21:00:00'
     utc: '2017-07-12T01:00:00Z'
   created: '2017-05-24T16:03:01Z'
-  changed: '2017-05-31T19:18:24Z'
+  changed: '2017-06-05T22:19:30Z'
   capacity: 36
   capacity_is_custom: true
   status: live
