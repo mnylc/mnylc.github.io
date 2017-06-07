@@ -64,7 +64,7 @@ Studio-quality USB microphones, outfitted with pop filters and suspension arms t
 Software for post-production audio cleaning. De-noising, de-humming, de-clicking ...
 
 [Reaper](http://www.reaper.fm/)
-Audio recording, editing, and mixing software.
+Digital Audio Workstation (DAW) for audio recording, editing, and mixing.
 
 [Yamaha HS5 speakers](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
 Industry standard stereo speakers that let you play back your recordings and mixes on an ideal sonic platform.
