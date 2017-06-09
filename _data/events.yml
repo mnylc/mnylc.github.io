@@ -148,7 +148,7 @@
     local: '2017-07-10T17:00:00'
     utc: '2017-07-10T21:00:00Z'
   created: '2017-05-26T14:10:12Z'
-  changed: '2017-06-07T20:39:01Z'
+  changed: '2017-06-08T13:55:51Z'
   capacity: 30
   capacity_is_custom: true
   status: live
@@ -228,7 +228,7 @@
     local: '2017-07-11T21:00:00'
     utc: '2017-07-12T01:00:00Z'
   created: '2017-05-24T16:03:01Z'
-  changed: '2017-06-07T16:05:00Z'
+  changed: '2017-06-08T20:22:36Z'
   capacity: 36
   capacity_is_custom: true
   status: live
@@ -310,7 +310,7 @@
     local: '2017-07-18T21:00:00'
     utc: '2017-07-19T01:00:00Z'
   created: '2017-05-24T17:09:51Z'
-  changed: '2017-06-07T16:07:23Z'
+  changed: '2017-06-08T18:57:28Z'
   capacity: 36
   capacity_is_custom: true
   status: live
@@ -401,7 +401,7 @@
     local: '2017-08-02T17:00:00'
     utc: '2017-08-02T21:00:00Z'
   created: '2017-06-02T21:01:18Z'
-  changed: '2017-06-07T16:24:20Z'
+  changed: '2017-06-08T15:37:56Z'
   capacity: 50
   capacity_is_custom: true
   status: live
@@ -483,7 +483,7 @@
     local: '2017-09-12T21:00:00'
     utc: '2017-09-13T01:00:00Z'
   created: '2017-05-24T17:11:41Z'
-  changed: '2017-05-30T16:47:01Z'
+  changed: '2017-06-08T19:02:35Z'
   capacity: 36
   capacity_is_custom: true
   status: live
@@ -565,7 +565,7 @@
     local: '2017-09-26T21:00:00'
     utc: '2017-09-27T01:00:00Z'
   created: '2017-05-24T17:12:30Z'
-  changed: '2017-05-30T16:48:11Z'
+  changed: '2017-06-08T19:08:11Z'
   capacity: 36
   capacity_is_custom: true
   status: live
