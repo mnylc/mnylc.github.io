@@ -4,7 +4,6 @@ require 'googleauth'
 require 'googleauth/stores/file_token_store'
 
 require 'fileutils'
-require 'byebug'
 
 OOB_URI = 'urn:ietf:wg:oauth:2.0:oob'
 APPLICATION_NAME = 'jobs-sheet'
@@ -45,7 +44,6 @@ end
 service = Google::Apis::DriveV3::DriveService.new
 service.client_options.application_name = APPLICATION_NAME
 service.authorization = authorize
-byebug
 response = service.export_file('1yaB6o_69qYn3859wUCAog3riDHpJqSMuFhjlg_yVvWc', 'text/csv') 
 File.write("addajob.csv", response)
 
