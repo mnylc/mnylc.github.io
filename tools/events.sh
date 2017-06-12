@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 source .event_tokens.sh
 git pull origin master
+rbnev local 2.3.1
 ./getevents.rb
 git add -A
 git commit -m 'Update events (from script)'
