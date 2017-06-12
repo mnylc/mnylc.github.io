@@ -2,6 +2,7 @@
 # coding: utf-8
 require 'csv'
 require 'liquid'
+require 'byebug'
 
 CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
   next if row[0] == 'Timestamp'
@@ -14,29 +15,30 @@ CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
       x
     end
   end
+  
   datebits = row[0].split(' ')[0].split('/')
   datestr = datebits[0] + ' ' + datebits[1].rjust(2, '0')
   datestr += ' ' + datebits[2].rjust(2, '0')
   frontmatter_datestr = datestr.tr(' ', '-')
-  title = row[1]
-  institution = row[2]
-  description = row[3]
-  description.gsub!('\*', "\n*") unless description.nil?
-  description.gsub!(/(.)\n\*/, "\\1\n\n*") unless description.nil?
+  title = row[1].nil? ? "" : row[1]
+  institution = row[2].nil? ? "" : row[2]
+  description = row[3].nil? ? "" : row[3]
+  description.nil? ? "" : description.gsub!('\*', "\n*") 
+  description.nil? ? "" : description.gsub!(/(.)\n\*/, "\\1\n\n*") 
   resps = row[4]
-  resps.gsub!('\*', "\n*") unless resps.nil?
-  resps.gsub!(/(.)\n\*/, "\\1\n\n*") unless resps.nil?
-  qualifications = row[5]
-  qualifications.gsub!('\*', "\n*") unless qualifications.nil?
-  qualifications.gsub!(/(.)\n\*/, "\\1\n\n*") unless qualifications.nil?
+  resps.nil? ? resps = "" : resps.gsub!('\*', "\n*") 
+  resps.nil? ? resps = "" : resps.gsub!(/(.)\n\*/, "\\1\n\n*")  
+  qualifications = row[5].nil? ? "" : row[5]
+  qualifications.nil? ? qualifications = "" : qualifications.gsub!('\*', "\n*") 
+  qualifications.nil? ? qualifications = "" : qualifications.gsub!(/(.)\n\*/, "\\1\n\n*")  
   compensation = row[6]
-  compensation.gsub!('\*', "\n*") unless compensation.nil?
-  compensation.gsub!(/(.)\n\*/, "\\1\n\n*") unless compensation.nil?
-  location = row[7]
-  url = row[8]
-  to_apply = row[9]
-  company_info = row[10]
-  contact_info = row[11]
+  compensation.nil? ? compensation = "" : compensation.gsub!('\*', "\n*") 
+  compensation.nil? ? compensation = "" : compensation.gsub!(/(.)\n\*/, "\\1\n\n*") 
+  location = row[7].nil? ? "" : row[7]
+  url = row[8].nil? ? "" : row[8]
+  to_apply = row[9].nil? ? "" : row[9]
+  company_info = row[10].nil? ? "" : row[10]
+  contact_info = row[11].nil? ? "" : row[11]
 
   # get a reasonable excerpt from the description.
   template = Liquid::Template::parse("{{ desc | strip_html | truncatewords: 50 }}")
@@ -75,7 +77,7 @@ HERE
   jfname.gsub!('--', '-')
   jfname += '.markdown'
 
-  jobfile = File.open(jfname, 'w')
+  jobfile = File.open("../_posts/jobs/" + jfname, 'w')
   jobfile.puts markdoc
   jobfile.close
 end
