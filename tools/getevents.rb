@@ -10,7 +10,7 @@ eb_token = ENV['EVENTBRITE_TOKEN']
 meetup_token = ENV['MEETUP_TOKEN']
 
 # events data file.
-fname = 'events.yml'
+fname = '../_data/events.yml'
 eventfile = File.open(fname, 'w')
 
 # get the time for Eventbrite URL.
