@@ -8,3 +8,4 @@ _site
 /.ruby-version
 /tools/.byebug_history
 .ruby-version
+client_secret.json
