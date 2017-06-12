@@ -10,3 +10,4 @@ _site
 .ruby-version
 client_secret.json
 /tools/addajob.csv
+/tools/.event_tokens.sh
