@@ -9,3 +9,4 @@ _site
 /tools/.byebug_history
 .ruby-version
 client_secret.json
+/tools/addajob.csv
