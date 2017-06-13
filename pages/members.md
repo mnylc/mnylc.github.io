@@ -84,11 +84,9 @@ Fordham University -  Westchester (Delivery Site)
 Fordham University - Quinn (Delivery Site)  
 Fordham University School of Law (Delivery Site)  
 Forest Hills Hospital  
-French Institute  Alliance Francaise  
 Frick Collection, The  
 General Society of Mechanics and Tradesmen  
 General Theological Seminary  
-Globe Institute of Technology  
 Grolier Club of New York  
 Guttman Community College, CUNY  
 Harlem Hospital Medical Center  
@@ -132,7 +130,6 @@ Long Island Jewish Medical Center
 Long Island University/Brooklyn   
 Lutheran Medical Center  
 Maimonides Medical Center  
-Mandl, The College of Allied Health  
 Manhattan College  
 Manhattan Psychiatric Center  
 Manhattan School of Music  
@@ -165,7 +162,6 @@ New York Academy of Medicine
 New York Automotive and Diesel Institute  
 New York Blood Center  
 New York Botanical Garden  
-New York Career Institute  
 New York City College of Technology, CUNY  
 New York City Department of Health & Mental Hygiene  
 New York City Department of Records   
@@ -204,7 +200,6 @@ Pace University
 Pace University (Delivery Site)  
 Pace University, New York Civic Center Campus (Delivery Site)  
 Pacific College of Oriental Medicine, New York  
-Phelps Memorial Hospital Center  
 Pilsudski Institute of America  
 Planned Parenthood Federation of America  
 Plaza College  
@@ -235,7 +230,6 @@ Saint John's University - Staten Island Campus (Delivery Site)
 Saint Joseph's College  
 Saint Luke's Roosevelt Hospital / Roosevelt Division  
 Saint Luke's Roosevelt Hospital / St. Luke's Division  
-Saint Paul's School of Nursing  
 Saint Peter's University  
 Saint Vladimir's Orthodox Theological Seminary  
 Sarah Lawrence College  
@@ -267,7 +261,6 @@ Torah Umesorah
 Touro College  
 Touro College (Delivery Site)  
 Touro College of Osteopathic Medicine (Delivery Site)  
-Union Club  
 United Federation of Teachers  
 United Hospital Fund of New York  
 United Nations  
