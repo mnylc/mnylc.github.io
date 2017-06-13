@@ -12,6 +12,76 @@
     local: '2017-06-13 16:30:00 -0400'
   url: https://www.meetup.com/Librarians-for-College-Readiness/events/240040065/
 - name:
+    text: 'Cementing Legislative Support for E.U.''s Libraries: Notes from the Reading
+      & Writing Foundation'
+    html: 'Cementing Legislative Support for E.U.&#39;s Libraries: Notes from the
+      Reading &amp; Writing Foundation'
+  description:
+    text: |-
+      Cementing Legislative Support for E.U.'s Libraries: Notes from the Reading & Writing Foundation
+      Please join us to hear from Ilona Kish, program director of Reading & Writing Foundation (located in Brussels, Belgium). She'll discuss what it takes to build effective Europe-wide advocacy initiatives and legislative support for libraries, including a debrief on what elements work (and do not work!) for their initiative.
+      In this talk, Ilona will demonstrate some of the material collected during a tour of 15 countries and libraries and will cover basic EU policies as a point of comparison with the ways in which the U.S. operates.
+      Reading & Writing Foundation has built a network of legislators that support the work of Public Libraries across the EU. The foundation has created effective messaging that can be used across the 65,000 Public Libraries in 28 different member’s states, with almost as many languages between them. This year, Reading & Writing Foundation worked to coordinate advocacy on copyright during a legislative review.
+    html: |-
+      <P><STRONG>Cementing Legislative Support for E.U.'s Libraries: Notes from the Reading &amp; Writing Foundation</STRONG></P>
+      <P>Please join us to hear from Ilona Kish, program director of Reading &amp; Writing Foundation (located in <SPAN>Brussels, Belgium</SPAN>). She'll discuss what it takes to build effective Europe-wide advocacy initiatives and legislative support for libraries, including a debrief on what elements work (and do not work!) for their initiative.</P>
+      <P>In this talk, Ilona will demonstrate some of the material collected during a tour of 15 countries and libraries and will cover basic EU policies as a point of comparison with the ways in which the U.S. operates.</P>
+      <P>Reading &amp; Writing Foundation has built a network of legislators that support the work of Public Libraries across the EU. The foundation has created effective messaging that can be used across the 65,000 Public Libraries in 28 different member’s states, with almost as many languages between them. This year, Reading &amp; Writing Foundation worked to coordinate advocacy on copyright during a legislative review.</P>
+  id: '35353378908'
+  url: https://www.eventbrite.com/e/cementing-legislative-support-for-eus-libraries-notes-from-the-reading-writing-foundation-tickets-35353378908?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-06-21T13:00:00'
+    utc: '2017-06-21T17:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-06-21T14:00:00'
+    utc: '2017-06-21T18:00:00Z'
+  created: '2017-06-12T17:53:21Z'
+  changed: '2017-06-12T19:36:42Z'
+  capacity: 20
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: true
+  version: 3.0.0
+  logo_id: '32300967'
+  organizer_id: '8929654067'
+  venue_id: '19862861'
+  category_id: 
+  subcategory_id: 
+  format_id: '2'
+  resource_uri: https://www.eventbriteapi.com/v3/events/35353378908/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32300967%2F160412581493%2F1%2Foriginal.jpg?s=61073b9c7909219e014b7e9b59dce083
+      width: 3013
+      height: 1589
+    id: '32300967'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32300967%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=576373207959f6c4a1dc27916a5f25f8
+    aspect_ratio: '2'
+    edge_color: 
+    edge_color_set: true
+- name:
     text: 'Navigating Gender in the Library: Strategies for Communication & Empathy'
     html: 'Navigating Gender in the Library: Strategies for Communication &amp; Empathy'
   description:
@@ -50,7 +120,7 @@
     local: '2017-06-29T21:00:00'
     utc: '2017-06-30T01:00:00Z'
   created: '2017-06-02T20:43:43Z'
-  changed: '2017-06-06T19:21:15Z'
+  changed: '2017-06-12T23:34:10Z'
   capacity: 40
   capacity_is_custom: true
   status: live
@@ -352,74 +422,6 @@
     url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31735742%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=817c9ec6e723594a20d9058e56361100
     aspect_ratio: '2'
     edge_color: "#9c9c9c"
-    edge_color_set: true
-- name:
-    text: 'Cementing Legislative Support for E.U.''s Libraries: A Review of Reading
-      & Writing Foundation Initiative'
-    html: 'Cementing Legislative Support for E.U.&#39;s Libraries: A Review of Reading
-      &amp; Writing Foundation Initiative'
-  description:
-    text: |-
-      Please join us to hear from Ilona Kish, program director of Reading & Writing Foundation (located in Brussels, Belgium). She'll discuss what it takes to build effective Europe-wide advocacy initiatives and legislative support for libraries, including a debrief on what elements work (and do not work!) for their initiative.
-      In this talk, Ilona will demonstrate some of the material collected during a tour of 15 countries and libraries and will cover basic EU policies as a point of comparison with the ways in which the U.S. operates.
-      Reading & Writing Foundation has built a network of legislators that support the work of Public Libraries across the EU. The foundation has created effective messaging that can be used across the 65,000 Public Libraries in 28 different member’s states, with almost as many languages between them. This year, Reading & Writing Foundation worked to coordinate advocacy on copyright during a legislative review.
-    html: |-
-      <P>Please join us to hear from Ilona Kish, program director of Reading &amp; Writing Foundation (located in <SPAN>Brussels, Belgium</SPAN>). She'll discuss what it takes to build effective Europe-wide advocacy initiatives and legislative support for libraries, including a debrief on what elements work (and do not work!) for their initiative.</P>
-      <P>In this talk, Ilona will demonstrate some of the material collected during a tour of 15 countries and libraries and will cover basic EU policies as a point of comparison with the ways in which the U.S. operates.</P>
-      <P>Reading &amp; Writing Foundation has built a network of legislators that support the work of Public Libraries across the EU. The foundation has created effective messaging that can be used across the 65,000 Public Libraries in 28 different member’s states, with almost as many languages between them. This year, Reading &amp; Writing Foundation worked to coordinate advocacy on copyright during a legislative review.</P>
-  id: '35353378908'
-  url: https://www.eventbrite.com/e/cementing-legislative-support-for-eus-libraries-a-review-of-reading-writing-foundation-initiative-tickets-35353378908?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-07-22T19:00:00'
-    utc: '2017-07-22T23:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2017-07-22T22:00:00'
-    utc: '2017-07-23T02:00:00Z'
-  created: '2017-06-12T17:53:21Z'
-  changed: '2017-06-12T17:54:59Z'
-  capacity: 20
-  capacity_is_custom: true
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 900
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  is_free: true
-  version: 3.0.0
-  logo_id: '32300967'
-  organizer_id: '8929654067'
-  venue_id: 
-  category_id: 
-  subcategory_id: 
-  format_id: '2'
-  resource_uri: https://www.eventbriteapi.com/v3/events/35353378908/
-  logo:
-    crop_mask:
-      top_left:
-        x: 0
-        y: 41
-      width: 3012
-      height: 1506
-    original:
-      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32300967%2F160412581493%2F1%2Foriginal.jpg?s=61073b9c7909219e014b7e9b59dce083
-      width: 3013
-      height: 1589
-    id: '32300967'
-    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32300967%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=576373207959f6c4a1dc27916a5f25f8
-    aspect_ratio: '2'
-    edge_color: 
     edge_color_set: true
 - name:
     text: " Introduction to GitHub for Librarians and Archivists "
