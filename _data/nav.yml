@@ -11,6 +11,8 @@
       suburl: "/services/resource-sharing"
     - title: "Meetups"
       suburl: "/projects/meetups"
+    - title: "599 Studio Services"
+      suburl: "/services/599studio"
 
 - title: 'Location'
   url: '/location'
