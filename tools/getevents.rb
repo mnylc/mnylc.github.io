@@ -3,7 +3,7 @@
 require 'time'
 require 'uri'
 require 'net/http'
-require 'JSON'
+require 'json'
 require 'yaml'
 
 eb_token = ENV['EVENTBRITE_TOKEN']
