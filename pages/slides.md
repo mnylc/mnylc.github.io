@@ -8,11 +8,11 @@ use_tag: "event"
 {% if site.data.events.size > 0 %}
 {% for e in site.data.events %}
 <section>
-<a href="{{ e.url }}">
+<h5><a href="{{ e.url }}">
       {{ e['name']['html'] }}
-    </a>
-	<p>{{ e.start.local | date: "%a, %b %d, %Y, %l:%M %P" }}</p>
-	<p style="font-size:75%;">{{ e.description.html }} </p>
+    </a></h5>
+	<h6>{{ e.start.local | date: "%a, %b %d, %Y, %l:%M %P" }}</h6>
+	<div>{{ e.description.html  | strip_html | truncatewords: 50 }}</div>
 	</section>
 {% endfor %}
 {% endif %}
