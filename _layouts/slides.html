@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="{{ '/assets/css/reveal.css' | prepend: site.baseurl }}"/>
+    <link rel="stylesheet" href="{{ '/assets/css/theme/night.css' | prepend: site.baseurl }}"/>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+	{{ content }}
+      </div>
+    </div>
+    <script src="{{ '/assets/js/reveal.js' | prepend: site.baseurl }}"></script>
+    <script>
+      Reveal.initialize({
+      defaultTiming: 15,
+      autoSlide: 10000,
+      loop: true,
+      controls: false,
+      });
+    </script>
+  </body>
+</html>
