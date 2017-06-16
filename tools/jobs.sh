@@ -5,7 +5,7 @@ rbenv local 2.3.1
 ./getjobscsv.rb
 ./getjobs.rb ./addajob.csv
 git add -A
-git commit -m "Update jobs from script."
+git commit -m "Update jobs (from script)"
 git push origin master
 
 
