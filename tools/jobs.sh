@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
-git pull origin master
 rbenv local 2.3.1
+cd ~/Documents/mnylc.github.io/tools
+git pull origin master
 ./getjobscsv.rb
 ./getjobs.rb ./addajob.csv
 git add -A
