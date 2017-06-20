@@ -1,6 +1,6 @@
 ---
 title: Slides
-permalink: /slides/
+permalink: /dhsb0bckj/
 layout: slides
 
 use_tag: "event"
