@@ -69,6 +69,65 @@
     aspect_ratio: '2'
     edge_color: 
     edge_color_set: true
+- time: 1498701600000
+  link: https://www.meetup.com/code4libnyc/events/240212092/
+  description:
+    html: "<p>After a short dormancy, Code4Lib has planned its first meetup at METRO's
+      new location!</p> <p><br/><a href=\"https://islandora.ca/content/islandora-7x-19-has-release-manager-diego-pino\">Diego
+      Pino</a>, software developer at <a href=\"http://metro.org/l\">METRO</a>, has
+      generously volunteered his time to set-up environments to introduce folks to
+      <a href=\"https://islandora.ca/\">Islandora</a> 7.x, a <a href=\"https://www.drupal.org/\">Drupal</a>,
+      <a href=\"http://fedorarepository.org/\">Fedora</a> &amp; <a href=\"https://www.drupal.org/project/apachesolr\">Solr
+      </a>stack based ecosystem, used by libraries for their institutional repository
+      platform. This will be a thunderous (slower than lightning) talk and workshop,
+      introducing attendees to the specific Drupal environment that supports Islandora,
+      where Diego will quickly explain the<a href=\"https://en.wikipedia.org/wiki/List_of_Apache%E2%80%93MySQL%E2%80%93PHP_packages\">
+      Digital Object model used,</a> the <a href=\"https://en.wikipedia.org/wiki/List_of_Apache%E2%80%93MySQL%E2%80%93PHP_packages\">AMP
+      (apache, MYSQL, PHP)</a> prerequisites, the particulars of the Drupal setup
+      (<a href=\"https://www.drupal.org/project/project_module\">modules</a>) and
+      then explain how he gets Drupal to interact with Fedora and Solr (Tomcat). Finally,
+      he will provide virtual environments for each attendee, so they can reverse
+      engineer their install to more fully understand the configuration. </p> <p>Intended
+      for all with minimal shell skills. </p> <p>\n\n\nBring:    Fully functional
+      laptop (laptops not supplied)</p> <p>Preinstall:  <a href=\"https://www.virtualbox.org/wiki/Downloads\"><a
+      href=\"https://www.virtualbox.org/wiki/Downloads\" class=\"linkified\">https://www.virtualbox.org/wiki/Downloads</a></a>
+       (we will be providing a VM to download and load)</p> <p>Capacity:  28 people</p> "
+  name:
+    html: Islandora
+  start:
+    utc: '2017-06-28 22:00:00 -0400'
+    local: '2017-06-28 22:00:00 -0400'
+  url: https://www.meetup.com/code4libnyc/events/240212092/
+- time: 1498744800000
+  link: https://www.meetup.com/CollectiveAccess-User-Group/events/240002366/
+  description:
+    html: '<p>At our summer meeting, Julia Weist and Seth Kaufman will demo features
+      of the newest version of CollectiveAccess (<a href="http://docs.collectiveaccess.org/wiki/Release_Notes_for_Pawtucket2_1.7">Pawtucket2</a>
+      and <a href="http://docs.collectiveaccess.org/wiki/Release_Notes_for_Providence_1.7">Providence
+      1.7</a>), updated just weeks ago. These updates include a new mobile-friendly
+      user interface, highly configurable search/browse interfaces, back-end updates,
+      and many other fresh features. Join us at METRO''s new space for this exciting
+      demo and Q&amp;A.</p> <p><br/>The CollectiveAccess User Group is open to anybody
+      with an interest in the CollectiveAccess software. This meeting will be most
+      relevant for those who are currently working with CollectiveAccess.</p> <p><br/>—</p>
+      <p>About the presenters:</p> <p><br/>• <b>Julia Weist </b>is a Senior Consultant
+      at Whirl-i-Gig. Since joining the CollectiveAccess team in 2010, Julia has designed
+      and deployed collection management systems for a wide range of institutions
+      in the museum, library, archival, corporate and non-profit sectors. Prior to
+      Whirl-i-Gig Julia was a Librarian at the New York Society Library. Julia''s
+      sculptural work has been exhibited internationally and she actively writes and
+      presents on the intersection of art and cultural informatics.</p> <p><b>• Seth
+      Kaufman</b> founded Whirl-i-Gig in 1995 with a background in civil engineering,
+      computer science and graphic design. In addition to his two decades of experience
+      developing software tools for a variety of industries and applications, Seth
+      has also taught digital design and programming. Since 2003, Seth has been the
+      lead developer and architect of CollectiveAccess.</p> '
+  name:
+    html: 'Demo & discussion: New features in CollectiveAccess 1.7'
+  start:
+    utc: '2017-06-29 10:00:00 -0400'
+    local: '2017-06-29 10:00:00 -0400'
+  url: https://www.meetup.com/CollectiveAccess-User-Group/events/240002366/
 - name:
     text: 'Navigating Gender in the Library: Strategies for Communication & Empathy'
     html: 'Navigating Gender in the Library: Strategies for Communication &amp; Empathy'
@@ -249,6 +308,17 @@
     aspect_ratio: '2'
     edge_color: "#9c9c9c"
     edge_color_set: true
+- time: 1499797800000
+  link: https://www.meetup.com/metro-web-archiving/events/240240222/
+  description:
+    html: "<p>Save-the-date of <b>Tuesday, July 11th, 2017 (2:30-4:00pm)</b> for the
+      METRO Web Archiving group's summer MeetUp. Detailed agenda to follow.</p> "
+  name:
+    html: METRO Web Archiving Summer MeetUp
+  start:
+    utc: '2017-07-11 14:30:00 -0400'
+    local: '2017-07-11 14:30:00 -0400'
+  url: https://www.meetup.com/metro-web-archiving/events/240240222/
 - name:
     text: Intro to Open Data
     html: Intro to Open Data
