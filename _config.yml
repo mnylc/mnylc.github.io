@@ -68,5 +68,3 @@ gems:
   - jekyll-seo-tag
 
 google_analytics: UA-96398579-1
-
-exclude: [tools]
