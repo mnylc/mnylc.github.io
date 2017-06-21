@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 rbenv local 2.3.1
-cd ~/Documents/mnylc.github.io/tools
+cd ~/Documents/git/mnylc.github.io/_tools
 source .event_tokens.sh
 git pull origin master
 ./getevents.rb
