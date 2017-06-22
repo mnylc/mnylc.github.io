@@ -39,14 +39,14 @@ To become a METRO member, please complete this <a href="https://www.google.com/u
 
 |  Annual operating expenditures of membership units (salaries, materials and other expenses)  |  Annual Dues                |
 |  ------------------------------------------  |  ----------------------  |
-|  Under $50,000  | $296            |
-|  Between $50,000 and $99,000     | $494            |
-|    Between $100,000 and $249,000     |  $790            |
-|  Between $250,000 and $499,000     |  $1,087            |
-|  Between $500,000 and $749,000    |  $1,483            |
-|  Between $750,000 and $999,000      |  $1,977            |
-|  Between $1,000,000 and $2,000,000 |  $2,966            |
-|   Over $2,000,000                  |  $3,954            |
+|  Under $50,000  | $308            |
+|  Between $50,000 and $99,000     | $514            |
+|    Between $100,000 and $249,000     |  $822            |
+|  Between $250,000 and $499,000     |  $1,130            |
+|  Between $500,000 and $749,000    |  $1,542            |
+|  Between $750,000 and $999,000      |  $2,056            |
+|  Between $1,000,000 and $2,000,000 |  $3,085            |
+|   Over $2,000,000                  |  $4,112            |
 
 ### Eligibility
 
