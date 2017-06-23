@@ -122,8 +122,7 @@ Montefiore at New Rochelle
 Montefiore Medical Center  
 Mount Sinai Medical Center  
 Museum of Jewish Heritage -- A Living Memorial to the Holocaust  
-Museum of Modern Art  
-Natural History Magazine (AMNH) (Delivery Site)  
+Museum of Modern Art   
 New School  
 New York Academy of Art  
 New York Academy of Medicine  
