@@ -45,7 +45,7 @@ As a member of METRO’s Administrative team, Anne serves as liaison between MET
 Before joining METRO in 2012, Anne worked for six years at the University of Michigan Library, where she managed a project to build a copyright review management system for works in the HathiTrust Digital Library, and as project coordinator for the UM/Google Books partnership to digitize the Library’s collections. She also worked for two years as a Metadata & Cataloging Librarian at Michigan State University Libraries. She graduated twice from the University of Michigan, with an undergrad degree in Business Administration, and a MSI degree from the School of Information, with a Specialization in Library Services. Before becoming a librarian she worked in the music industry, licensing music as well as other copyrighted works for use in advertising, film, television and other media.
 
 ## John Mignault
-**Technology Specialist, Empire State Digital Network**
+**Software Developer**
 
 John is the Technology Specialist for the Empire State Digital Network (ESDN), a statewide service hub for the Digital Public Library of America (DPLA).
 
@@ -61,7 +61,7 @@ Shelly facilitates the accounting, finance, and human resources functions at MET
 Prior to joining METRO, for the past six years, Shelly was an Audit Senior who specialized in non-profit organizations at O’Connor Davies, LLP, a mid-sized accounting and consulting firm based in the New York tri-state area. Shelly obtained a B.S in Accounting from St. Francis College.
 
 ## Diego Pino Navarro
-**Repository Developer**
+**Software Developer**
 
 Diego is a pet and human-friendly systems architect and open source software developer from Chile. He enjoys working on Linked Data and Web Semantics, exploring ways of describing and preserving human knowledge, helping others to implement open source digital repository solutions and solving interdisciplinary problems via computer science.
 
@@ -70,7 +70,7 @@ At METRO, Diego develops and manages our Digital Objects Repository ecosystem, c
 Diego is an active Fedora 4 contributor, Islandora and CLAW Committer and recently also Release Manager, being part of the release team for the last few years and maintaining several core modules. When not developing or walking dogs, he likes to build LEGOs, make Wood toys and do hobby research on reef ecosystems.
 
 ## Margo Padilla
-**Strategic Programs Manager**
+**Manager of Archival Solutions**
 
 Margo manages METRO's strategic initiatives, including program development, emerging technologies and member services, and other special events and projects to support METRO’s strategic goals.
 
