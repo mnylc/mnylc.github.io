@@ -4,19 +4,24 @@ permalink: /services/599studio
 ---
 Come use our studio services on the 8th floor at 599 11th Ave! Read more about the equipment available at each of our 5 workstations further down on this page. Fill out the accompanying interest forms to book a time to use the stations. Please contact the Studio Manager, Molly Schwartz, with any comments or questions: mschwartz@metro.org.
 
-### [Audio Workstation (recording and editing)](#audio-workstation)
+1. ### Audio Workstation (recording and editing)
+    [Book a session with this form](https://airtable.com/embed/shrI3cJL6NSHh4uiv?backgroundColor=cyan)
+    
+    [Read more about our audio services](#audio-workstation)
 
-[Book a session.](https://airtable.com/embed/shrI3cJL6NSHh4uiv?backgroundColor=cyan)
+2. ### Digitization Services
+   [Send an inquiry with this form](https://airtable.com/embed/shr4tXGpVx7db0FcI?backgroundColor=cyan)
+   
+   [Read more about our digitization services and scanning equipment](#digi-workstation)
 
-### [Digitization Workstation](#digi-workstation)
+3. ### Media Migration and Recovery Services
+   [Send an inquiry with this form](https://airtable.com/embed/shr2aXLzQoqNIsrQ0?backgroundColor=cyan)
+   
+   [Read more about our media migration and recovery equipment](#media-migration)
 
-[Book a service.](https://airtable.com/embed/shr4tXGpVx7db0FcI?backgroundColor=cyan)
+4. ### Graphic Output / Print Station
+   [Read more about our vinyl cutter](#graphic-output)
 
-### [Media Migration and Recovery Workstation](#media-migration)
-
-[Book a service.](https://airtable.com/embed/shr2aXLzQoqNIsrQ0?backgroundColor=cyan)
-
-### [Graphic Output / Print Station](#graphic-output)
 We also have a couple of desktop computers available with software for image, audio, and video post-processing.
 
 ## The Story Behind the Studio
@@ -26,6 +31,11 @@ In March of 2017, we opened our new 8,000 square foot studio called 599 on the w
 <a class="anchor" name="audio-workstation"></a>
 
 ## Audio Workstation (recording and editing)
+
+Pricing:
+* General: $50 / hour
+* Non-profits: $30 / hour
+* METRO members: $20 / hour
 
 Our [5 x 7 foot VocalBooth Recording Studio and Sound Isolation Booth](http://www.vocalbooth.com/)
 is a stand-alone, pop-up recording studio that filters out outside noise and improves sound quality of recordings. Equipped with a ventilation, outlets, lighting, cable ports, and foam wrapped walls. It is perfect for recording podcasts, voice-overs, and oral histories. 
@@ -45,15 +55,13 @@ Industry standard stereo speakers that let you play back your recordings and mix
 [ARTcessories HeadAmp 4](http://artproaudio.com/headphone_amps/product/headamp_4/) 
 Head amp for 4 sets of headphones.
 
-Fill out this form to book a session. 
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrI3cJL6NSHh4uiv?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+[Fill out this form to book a session.](https://airtable.com/embed/shrI3cJL6NSHh4uiv?backgroundColor=cyan) 
 
 [Back to top](#top)
 
 <a class="anchor" name="digi-workstation"></a>
 
-## Digitization Workstation
+## Digitization Services
 
 ### Flatbed Scanning 
 [The Epson Perfection V600 Photo Scanner](https://epson.com/For-Home/Scanners/Photo/Epson-Perfection-V600-Photo-Scanner/p/B11B198011) and [Epson Expression 11000XL Photo Scanner](https://epson.com/For-Work/Scanners/Photo-and-Graphics/Epson-Expression-11000XL--Photo-Scanner/p/E11000XL-PH)
@@ -77,15 +85,13 @@ Using the macro lens coupled with our [Porta-Trace 10 x 12" LED lightbox](https:
 [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html)
 Software for post-processing of images. Batch edit with Adobe Bridge or Photoshop, create a range of derivatives to suit your needs or work on individual images to crop, resize or manage color and tone. 
 
-Fill out this form to book a service.
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr4tXGpVx7db0FcI?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+[Fill out this form to book a service.](https://airtable.com/embed/shr4tXGpVx7db0FcI?backgroundColor=cyan)
 
 [Back to top](#top)
 
 <a class="anchor" name="media-migration"></a>
 
-## Media Migration and Recovery Workstation
+## Media Migration and Recovery Services
 
 ### Digital Forensics Workstation
 
@@ -102,9 +108,7 @@ The born-digital workstation is a Windows 7 (64-bit) CPU with a 3.7 GHz Intel Xe
 Zip disk drive
 Multimedia and memory cards (found in digital Cameras, MP3 Players, VoiceRecorders, etc.)
 
-Fill out this form to book a service.
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr2aXLzQoqNIsrQ0?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+[Fill out this form to book a service.](https://airtable.com/embed/shr2aXLzQoqNIsrQ0?backgroundColor=cyan)
 
 [Back to top](#top)
 
