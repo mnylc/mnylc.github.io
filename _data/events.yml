@@ -1,5 +1,5 @@
 ---
-- time: 1498701600000
+- time: 1498658400000
   link: https://www.meetup.com/code4libnyc/events/240212092/
   description:
     html: "<p>After a short dormancy, Code4Lib has planned its first meetup at METRO's
@@ -25,8 +25,8 @@
   name:
     html: Islandora
   start:
-    utc: '2017-06-28 22:00:00 -0400'
-    local: '2017-06-28 22:00:00 -0400'
+    utc: '2017-06-28 10:00:00 -0400'
+    local: '2017-06-28 10:00:00 -0400'
   url: https://www.meetup.com/code4libnyc/events/240212092/
 - time: 1498744800000
   link: https://www.meetup.com/CollectiveAccess-User-Group/events/240002366/
@@ -59,10 +59,11 @@
     local: '2017-06-29 10:00:00 -0400'
   url: https://www.meetup.com/CollectiveAccess-User-Group/events/240002366/
 - name:
-    text: 'Navigating Gender in the Library: Strategies for Communication & Empathy'
-    html: 'Navigating Gender in the Library: Strategies for Communication &amp; Empathy'
+    text: 'TO BE RESCHEDULED Navigating Gender in the Library: Strategies for Communication'
+    html: 'TO BE RESCHEDULED Navigating Gender in the Library: Strategies for Communication'
   description:
     text: |-
+      Navigating Gender in the Library: Strategies for Communication & Empathy
       Join us in this interactive workshop as we practice communication skills to promote gender equity and empathy in your workplace. We will engage in a series of team-building exercises and discussions focused on sharing experiences, building confidence, and deconstructing the systems that perpetuate inequities in our field. The exercises will consist of one-on-one and group conversations, games, and scenario-testing improvisation. 
       At the end of the workshop, participants will have the tools to:
 
@@ -75,6 +76,7 @@
       Laura Childs has her MSLIS from Pratt Institute. Her mission is to transform perceptions and increase public understanding of librarians and libraries. You can find her recently published article, "To Uphold and Resist: Protecting Intellectual Freedom through Progressive Librarianship," in The Serials Librarian. During the day, she manages information at a non-profit organization.
       Peter Rossetti is a life design strategist and graphic designer who helps people uncover their vision and goals. Peter is focused on creating opportunities for experiential learning and facilitates workshops on how design and creativity can improve lives. He is the President of AIGA Brand Central, a professional design organization that serves the branding community in the NYC Metro area.
     html: |-
+      <P><STRONG>Navigating Gender in the Library: Strategies for Communication &amp; Empathy</STRONG></P>
       <P>Join us in this interactive workshop as we practice communication skills to promote gender equity and empathy in your workplace. We will engage in a series of team-building exercises and discussions focused on sharing experiences, building confidence, and deconstructing the systems that perpetuate inequities in our field. The exercises will consist of one-on-one and group conversations, games, and scenario-testing improvisation. </P>
       <P CLASS="MsoNormal"><SPAN>At the end of the workshop, participants will have the tools to:</SPAN></P>
       <UL>
@@ -87,7 +89,7 @@
       <P><SPAN>Laura Childs has her MSLIS from Pratt Institute. Her mission is to transform perceptions and increase public understanding of librarians and libraries. You can find her recently published article, "To Uphold and Resist: Protecting Intellectual Freedom through Progressive Librarianship," in <I>The Serials Librarian</I>. During the day, she manages information at a non-profit organization.</SPAN></P>
       <P>Peter Rossetti is a life design strategist and graphic designer who helps people uncover their vision and goals. Peter is focused on creating opportunities for experiential learning and facilitates workshops on how design and creativity can improve lives. He is the President of AIGA Brand Central, a professional design organization that serves the branding community in the NYC Metro area.</P>
   id: '35093593884'
-  url: https://www.eventbrite.com/e/navigating-gender-in-the-library-strategies-for-communication-empathy-tickets-35093593884?aff=ebapi
+  url: https://www.eventbrite.com/e/to-be-rescheduled-navigating-gender-in-the-library-strategies-for-communication-tickets-35093593884?aff=ebapi
   start:
     timezone: America/New_York
     local: '2017-06-29T18:00:00'
@@ -97,7 +99,7 @@
     local: '2017-06-29T21:00:00'
     utc: '2017-06-30T01:00:00Z'
   created: '2017-06-02T20:43:43Z'
-  changed: '2017-06-12T23:34:10Z'
+  changed: '2017-06-26T14:21:49Z'
   capacity: 40
   capacity_is_custom: true
   status: live
@@ -195,7 +197,7 @@
     local: '2017-07-10T17:00:00'
     utc: '2017-07-10T21:00:00Z'
   created: '2017-05-26T14:10:12Z'
-  changed: '2017-06-22T17:38:45Z'
+  changed: '2017-06-26T19:00:19Z'
   capacity: 30
   capacity_is_custom: true
   status: live
@@ -450,7 +452,7 @@
     local: '2017-07-18T21:00:00'
     utc: '2017-07-19T01:00:00Z'
   created: '2017-05-24T17:09:51Z'
-  changed: '2017-06-23T21:09:13Z'
+  changed: '2017-06-26T20:52:13Z'
   capacity: 36
   capacity_is_custom: true
   status: live
@@ -562,7 +564,7 @@
     local: '2017-08-02T17:00:00'
     utc: '2017-08-02T21:00:00Z'
   created: '2017-06-02T21:01:18Z'
-  changed: '2017-06-26T13:49:26Z'
+  changed: '2017-06-26T21:05:52Z'
   capacity: 50
   capacity_is_custom: true
   status: live
