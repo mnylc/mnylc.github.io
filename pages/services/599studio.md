@@ -4,22 +4,22 @@ permalink: /services/599studio
 ---
 Come use our studio services on the 8th floor at 599 11th Ave! Read more about the equipment available at each of our 5 workstations further down on this page. Fill out the accompanying interest forms to book a time to use the stations. Please contact the Studio Manager, Molly Schwartz, with any comments or questions: mschwartz@metro.org.
 
-1. ### Audio Workstation (recording and editing)
+1. ### Audio Recording and Editing
     [Book a session with this form](https://airtable.com/embed/shrI3cJL6NSHh4uiv?backgroundColor=cyan)
     
     [Read more about our audio services](#audio-workstation)
 
-2. ### Digitization Services
+2. ### Digitization 
    [Send an inquiry with this form](https://airtable.com/embed/shr4tXGpVx7db0FcI?backgroundColor=cyan)
    
    [Read more about our digitization services and scanning equipment](#digi-workstation)
 
-3. ### Media Migration and Recovery Services
+3. ### Media Migration and Recovery 
    [Send an inquiry with this form](https://airtable.com/embed/shr2aXLzQoqNIsrQ0?backgroundColor=cyan)
    
    [Read more about our media migration and recovery equipment](#media-migration)
 
-4. ### Graphic Output / Print Station
+4. ### Graphic Output / Printing
    [Read more about our vinyl cutter](#graphic-output)
 
 We also have a couple of desktop computers available with software for image, audio, and video post-processing.
