@@ -5,21 +5,16 @@ permalink: /services/599studio
 Come use our studio services on the 8th floor at 599 11th Ave! Read more about the equipment available at each of our 5 workstations further down on this page. Fill out the accompanying interest forms to book a time to use the stations. Please contact the Studio Manager, Molly Schwartz, with any comments or questions: mschwartz@metro.org.
 
 ### [Audio Workstation (recording and editing)](#audio-workstation)
-Fill out this form to book a session. 
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrI3cJL6NSHh4uiv?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-### [Digitization Workstation](#digitization-workstation)
-Fill out this form to book a service.
+[Book a session.](https://airtable.com/embed/shrI3cJL6NSHh4uiv?backgroundColor=cyan)
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr4tXGpVx7db0FcI?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+### [Digitization Workstation](#digi-workstation)
+
+[Book a service.](https://airtable.com/embed/shr4tXGpVx7db0FcI?backgroundColor=cyan)
 
 ### [Media Migration and Recovery Workstation](#media-migration)
-Fill out this form to book a service.
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr2aXLzQoqNIsrQ0?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-### A/V Media Transfer
-[Read more about our partnership with the XFR Collective.](http://metro.org/news/METRO-AND-XFR-COLLECTIVE-NEW-PARTNERSHIP)
+[Book a service.](https://airtable.com/embed/shr2aXLzQoqNIsrQ0?backgroundColor=cyan)
 
 ### [Graphic Output / Print Station](#graphic-output)
 We also have a couple of desktop computers available with software for image, audio, and video post-processing.
@@ -50,7 +45,13 @@ Industry standard stereo speakers that let you play back your recordings and mix
 [ARTcessories HeadAmp 4](http://artproaudio.com/headphone_amps/product/headamp_4/) 
 Head amp for 4 sets of headphones.
 
-<a class="anchor" name="digitization-workstation"/>
+Fill out this form to book a session. 
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrI3cJL6NSHh4uiv?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+[Back to top](#top)
+
+<a class="anchor" name="digi-workstation"></a>
 
 ## Digitization Workstation
 
@@ -76,6 +77,12 @@ Using the macro lens coupled with our [Porta-Trace 10 x 12" LED lightbox](https:
 [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html)
 Software for post-processing of images. Batch edit with Adobe Bridge or Photoshop, create a range of derivatives to suit your needs or work on individual images to crop, resize or manage color and tone. 
 
+Fill out this form to book a service.
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr4tXGpVx7db0FcI?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+[Back to top](#top)
+
 <a class="anchor" name="media-migration"></a>
 
 ## Media Migration and Recovery Workstation
@@ -95,6 +102,12 @@ The born-digital workstation is a Windows 7 (64-bit) CPU with a 3.7 GHz Intel Xe
 Zip disk drive
 Multimedia and memory cards (found in digital Cameras, MP3 Players, VoiceRecorders, etc.)
 
+Fill out this form to book a service.
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr2aXLzQoqNIsrQ0?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+[Back to top](#top)
+
 <a class="anchor" name="graphic-output"/>
 
 ## Graphic Output / Print Station
@@ -102,5 +115,7 @@ Multimedia and memory cards (found in digital Cameras, MP3 Players, VoiceRecorde
 We have a [Graphtec CE6000 vinyl plotter](http://www.graphtecamerica.com/graphtec-america-products-cutting-plotters-ce6000-4060120-professional-performance) that is available for our members to make high quality, professional decals for exhibits, displays, and countless other uses. Because this is a new service, we have a limited supply of vinyl in 10 different colors that we can make available to you for free. Moving forward, vinyl will be available for a fee, or you can bring your own material as long as it fits the correct specifications for this machine.
 
 [Software requirements and tutorial videos](/vinyl).
+
+[Back to top](#top)
 
 
