@@ -1,33 +1,4 @@
 ---
-- time: 1498658400000
-  link: https://www.meetup.com/code4libnyc/events/240212092/
-  description:
-    html: "<p>After a short dormancy, Code4Lib has planned its first meetup at METRO's
-      new location!</p> <p><br/><a href=\"https://islandora.ca/content/islandora-7x-19-has-release-manager-diego-pino\">Diego
-      Pino</a>, software developer at <a href=\"http://metro.org/l\">METRO</a>, has
-      generously volunteered his time to set-up environments to introduce folks to
-      <a href=\"https://islandora.ca/\">Islandora</a> 7.x, a <a href=\"https://www.drupal.org/\">Drupal</a>,
-      <a href=\"http://fedorarepository.org/\">Fedora</a> &amp; <a href=\"https://www.drupal.org/project/apachesolr\">Solr
-      </a>stack based ecosystem, used by libraries for their institutional repository
-      platform. This will be a thunderous (slower than lightning) talk and workshop,
-      introducing attendees to the specific Drupal environment that supports Islandora,
-      where Diego will quickly explain the<a href=\"https://en.wikipedia.org/wiki/List_of_Apache%E2%80%93MySQL%E2%80%93PHP_packages\">
-      Digital Object model used,</a> the <a href=\"https://en.wikipedia.org/wiki/List_of_Apache%E2%80%93MySQL%E2%80%93PHP_packages\">AMP
-      (apache, MYSQL, PHP)</a> prerequisites, the particulars of the Drupal setup
-      (<a href=\"https://www.drupal.org/project/project_module\">modules</a>) and
-      then explain how he gets Drupal to interact with Fedora and Solr (Tomcat). Finally,
-      he will provide virtual environments for each attendee, so they can reverse
-      engineer their install to more fully understand the configuration. </p> <p>Intended
-      for all with minimal shell skills. </p> <p>\n\n\nBring:    Fully functional
-      laptop (laptops not supplied)</p> <p>Preinstall:  <a href=\"https://www.virtualbox.org/wiki/Downloads\"><a
-      href=\"https://www.virtualbox.org/wiki/Downloads\" class=\"linkified\">https://www.virtualbox.org/wiki/Downloads</a></a>
-       (we will be providing a VM to download and load)</p> <p>Capacity:  28 people</p> "
-  name:
-    html: Islandora
-  start:
-    utc: '2017-06-28 10:00:00 -0400'
-    local: '2017-06-28 10:00:00 -0400'
-  url: https://www.meetup.com/code4libnyc/events/240212092/
 - time: 1498744800000
   link: https://www.meetup.com/CollectiveAccess-User-Group/events/240002366/
   description:
@@ -197,7 +168,7 @@
     local: '2017-07-10T17:00:00'
     utc: '2017-07-10T21:00:00Z'
   created: '2017-05-26T14:10:12Z'
-  changed: '2017-06-26T19:00:19Z'
+  changed: '2017-06-28T21:38:35Z'
   capacity: 30
   capacity_is_custom: true
   status: live
@@ -452,7 +423,7 @@
     local: '2017-07-18T21:00:00'
     utc: '2017-07-19T01:00:00Z'
   created: '2017-05-24T17:09:51Z'
-  changed: '2017-06-27T16:30:13Z'
+  changed: '2017-06-28T18:02:58Z'
   capacity: 36
   capacity_is_custom: true
   status: live
@@ -564,7 +535,7 @@
     local: '2017-08-02T17:00:00'
     utc: '2017-08-02T21:00:00Z'
   created: '2017-06-02T21:01:18Z'
-  changed: '2017-06-27T13:29:55Z'
+  changed: '2017-06-29T01:00:25Z'
   capacity: 50
   capacity_is_custom: true
   status: live
