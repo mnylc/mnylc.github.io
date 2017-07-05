@@ -377,6 +377,21 @@
     utc: '2017-07-19 16:30:00 -0400'
     local: '2017-07-19 16:30:00 -0400'
   url: https://www.meetup.com/racial-and-social-justice-in-the-library/events/240973378/
+- time: 1501164000000
+  link: https://www.meetup.com/UX-in-Libraries/events/241202319/
+  description:
+    html: "<p>Meet at 10am in front of Amazon Books located on the 3rd floor of the
+      Shops at Columbus Circle.</p> <p>Amazon just opened its first NYC brick and
+      mortar store at Columbus Circle. Join us for our informal summer METRO UX meetup
+      where we'll do a self-guided tour of Amazon Books. Afterwards, we'll head to
+      Central Park for a picnic or Whole Foods (if bad weather) and discuss our observations
+      and thoughts over lunch. Feel free to bring a brown bag lunch.</p> "
+  name:
+    html: 'METRO UX Summer Meetup: Amazon Books Self-Guided Tour'
+  start:
+    utc: '2017-07-27 10:00:00 -0400'
+    local: '2017-07-27 10:00:00 -0400'
+  url: https://www.meetup.com/UX-in-Libraries/events/241202319/
 - name:
     text: " Introduction to GitHub for Librarians and Archivists "
     html: " Introduction to GitHub for Librarians and Archivists "
