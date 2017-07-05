@@ -1,118 +1,4 @@
 ---
-- time: 1498744800000
-  link: https://www.meetup.com/CollectiveAccess-User-Group/events/240002366/
-  description:
-    html: '<p>At our summer meeting, Julia Weist and Seth Kaufman will demo features
-      of the newest version of CollectiveAccess (<a href="http://docs.collectiveaccess.org/wiki/Release_Notes_for_Pawtucket2_1.7">Pawtucket2</a>
-      and <a href="http://docs.collectiveaccess.org/wiki/Release_Notes_for_Providence_1.7">Providence
-      1.7</a>), updated just weeks ago. These updates include a new mobile-friendly
-      user interface, highly configurable search/browse interfaces, back-end updates,
-      and many other fresh features. Join us at METRO''s new space for this exciting
-      demo and Q&amp;A.</p> <p><br/>The CollectiveAccess User Group is open to anybody
-      with an interest in the CollectiveAccess software. This meeting will be most
-      relevant for those who are currently working with CollectiveAccess.</p> <p><br/>—</p>
-      <p>About the presenters:</p> <p><br/>• <b>Julia Weist </b>is a Senior Consultant
-      at Whirl-i-Gig. Since joining the CollectiveAccess team in 2010, Julia has designed
-      and deployed collection management systems for a wide range of institutions
-      in the museum, library, archival, corporate and non-profit sectors. Prior to
-      Whirl-i-Gig Julia was a Librarian at the New York Society Library. Julia''s
-      sculptural work has been exhibited internationally and she actively writes and
-      presents on the intersection of art and cultural informatics.</p> <p><b>• Seth
-      Kaufman</b> founded Whirl-i-Gig in 1995 with a background in civil engineering,
-      computer science and graphic design. In addition to his two decades of experience
-      developing software tools for a variety of industries and applications, Seth
-      has also taught digital design and programming. Since 2003, Seth has been the
-      lead developer and architect of CollectiveAccess.</p> '
-  name:
-    html: 'Demo & discussion: New features in CollectiveAccess 1.7'
-  start:
-    utc: '2017-06-29 10:00:00 -0400'
-    local: '2017-06-29 10:00:00 -0400'
-  url: https://www.meetup.com/CollectiveAccess-User-Group/events/240002366/
-- name:
-    text: 'TO BE RESCHEDULED Navigating Gender in the Library: Strategies for Communication'
-    html: 'TO BE RESCHEDULED Navigating Gender in the Library: Strategies for Communication'
-  description:
-    text: |-
-      Navigating Gender in the Library: Strategies for Communication & Empathy
-      Join us in this interactive workshop as we practice communication skills to promote gender equity and empathy in your workplace. We will engage in a series of team-building exercises and discussions focused on sharing experiences, building confidence, and deconstructing the systems that perpetuate inequities in our field. The exercises will consist of one-on-one and group conversations, games, and scenario-testing improvisation. 
-      At the end of the workshop, participants will have the tools to:
-
-      Recognize structures of gender inequity in the workplace
-      Communicate their value to coworkers, supervisors, and patrons
-      Practice empathy and flexibility in everyday conversations
-
-
-      About our instructors:
-      Laura Childs has her MSLIS from Pratt Institute. Her mission is to transform perceptions and increase public understanding of librarians and libraries. You can find her recently published article, "To Uphold and Resist: Protecting Intellectual Freedom through Progressive Librarianship," in The Serials Librarian. During the day, she manages information at a non-profit organization.
-      Peter Rossetti is a life design strategist and graphic designer who helps people uncover their vision and goals. Peter is focused on creating opportunities for experiential learning and facilitates workshops on how design and creativity can improve lives. He is the President of AIGA Brand Central, a professional design organization that serves the branding community in the NYC Metro area.
-    html: |-
-      <P><STRONG>Navigating Gender in the Library: Strategies for Communication &amp; Empathy</STRONG></P>
-      <P>Join us in this interactive workshop as we practice communication skills to promote gender equity and empathy in your workplace. We will engage in a series of team-building exercises and discussions focused on sharing experiences, building confidence, and deconstructing the systems that perpetuate inequities in our field. The exercises will consist of one-on-one and group conversations, games, and scenario-testing improvisation. </P>
-      <P CLASS="MsoNormal"><SPAN>At the end of the workshop, participants will have the tools to:</SPAN></P>
-      <UL>
-      <LI><SPAN>Recognize structures of gender inequity in the workplace</SPAN></LI>
-      <LI><SPAN><SPAN></SPAN></SPAN><SPAN>Communicate their value to coworkers, supervisors, and patrons</SPAN></LI>
-      <LI><SPAN><SPAN></SPAN></SPAN><SPAN>Practice empathy and flexibility in everyday conversations</SPAN></LI>
-      </UL>
-      <P><BR></P>
-      <P><STRONG>About our instructors:</STRONG></P>
-      <P><SPAN>Laura Childs has her MSLIS from Pratt Institute. Her mission is to transform perceptions and increase public understanding of librarians and libraries. You can find her recently published article, "To Uphold and Resist: Protecting Intellectual Freedom through Progressive Librarianship," in <I>The Serials Librarian</I>. During the day, she manages information at a non-profit organization.</SPAN></P>
-      <P>Peter Rossetti is a life design strategist and graphic designer who helps people uncover their vision and goals. Peter is focused on creating opportunities for experiential learning and facilitates workshops on how design and creativity can improve lives. He is the President of AIGA Brand Central, a professional design organization that serves the branding community in the NYC Metro area.</P>
-  id: '35093593884'
-  url: https://www.eventbrite.com/e/to-be-rescheduled-navigating-gender-in-the-library-strategies-for-communication-tickets-35093593884?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-06-29T18:00:00'
-    utc: '2017-06-29T22:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2017-06-29T21:00:00'
-    utc: '2017-06-30T01:00:00Z'
-  created: '2017-06-02T20:43:43Z'
-  changed: '2017-06-26T14:21:49Z'
-  capacity: 40
-  capacity_is_custom: true
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 900
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  is_free: false
-  version: 3.0.0
-  logo_id: '32073009'
-  organizer_id: '8929654067'
-  venue_id: '19862662'
-  category_id: 
-  subcategory_id: 
-  format_id: 
-  resource_uri: https://www.eventbriteapi.com/v3/events/35093593884/
-  logo:
-    crop_mask:
-      top_left:
-        x: 0
-        y: 41
-      width: 3012
-      height: 1506
-    original:
-      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32073009%2F160412581493%2F1%2Foriginal.jpg?s=0f9e14d4f86300d3695a98f8727242ab
-      width: 3013
-      height: 1589
-    id: '32073009'
-    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32073009%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=d365343865b634bb385eff3534ee19f8
-    aspect_ratio: '2'
-    edge_color: "#9c9c9c"
-    edge_color_set: true
 - name:
     text: An Archivists' Guide to Matroska
     html: An Archivists&#39; Guide to Matroska
@@ -168,7 +54,7 @@
     local: '2017-07-10T17:00:00'
     utc: '2017-07-10T21:00:00Z'
   created: '2017-05-26T14:10:12Z'
-  changed: '2017-06-28T21:38:35Z'
+  changed: '2017-06-30T03:18:30Z'
   capacity: 30
   capacity_is_custom: true
   status: live
@@ -215,7 +101,11 @@
   link: https://www.meetup.com/metro-web-archiving/events/240240222/
   description:
     html: "<p>Save-the-date of <b>Tuesday, July 11th, 2017 (2:30-4:00pm)</b> for the
-      METRO Web Archiving group's summer MeetUp. Detailed agenda to follow.</p> "
+      METRO Web Archiving group's summer MeetUp. </p> <p>Our agenda for the meeting:</p>
+      <p>• Welcome from hosts + introductions </p> <p><br/>• Group members: brief
+      descriptions of work, experience, and interest in web archiving</p> <p><br/>•
+      Discussion of future focus of the METRO Web Archiving MeetUp Group and considerations
+      for expanding scope to digital preservation focus</p> "
   name:
     html: METRO Web Archiving Summer MeetUp
   start:
@@ -341,7 +231,7 @@
     local: '2017-07-14T16:00:00'
     utc: '2017-07-14T20:00:00Z'
   created: '2017-06-08T20:30:32Z'
-  changed: '2017-06-24T14:30:04Z'
+  changed: '2017-07-03T16:07:23Z'
   capacity: 60
   capacity_is_custom: true
   status: live
@@ -423,7 +313,7 @@
     local: '2017-07-18T21:00:00'
     utc: '2017-07-19T01:00:00Z'
   created: '2017-05-24T17:09:51Z'
-  changed: '2017-06-28T18:02:58Z'
+  changed: '2017-06-30T12:49:26Z'
   capacity: 36
   capacity_is_custom: true
   status: live
@@ -535,7 +425,7 @@
     local: '2017-08-02T17:00:00'
     utc: '2017-08-02T21:00:00Z'
   created: '2017-06-02T21:01:18Z'
-  changed: '2017-06-29T01:00:25Z'
+  changed: '2017-07-03T17:54:44Z'
   capacity: 50
   capacity_is_custom: true
   status: live
@@ -617,7 +507,7 @@
     local: '2017-09-12T21:00:00'
     utc: '2017-09-13T01:00:00Z'
   created: '2017-05-24T17:11:41Z'
-  changed: '2017-06-22T19:12:06Z'
+  changed: '2017-06-29T19:08:03Z'
   capacity: 36
   capacity_is_custom: true
   status: live
@@ -699,7 +589,7 @@
     local: '2017-09-26T21:00:00'
     utc: '2017-09-27T01:00:00Z'
   created: '2017-05-24T17:12:30Z'
-  changed: '2017-06-08T19:08:11Z'
+  changed: '2017-06-29T19:09:28Z'
   capacity: 36
   capacity_is_custom: true
   status: live
