@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Associate University Librarian for Technical and Digital Services - Wesleyan University "
+title:  "Associate Univeristy Librarian for Technical and Digital Services - Wesleyan Universty "
 date:   2017-05-05
 excerpt: "Wesleyan University Libraries seek a dynamic and innovative leader for the position of Associate University Librarian for Technical and Digital Services. This position reports to the Caleb T. Winchester University Librarian, works closely with the Senior Library Management Team and serves as Librarian-in-Charge in absence of the University Librarian This..."
 tag: job
@@ -53,7 +53,7 @@ Preferred Qualifications:
 
 ### Compensation###
 
-Commensurate with experience
+Commensurate wtih experience
 
 
 ### Location###

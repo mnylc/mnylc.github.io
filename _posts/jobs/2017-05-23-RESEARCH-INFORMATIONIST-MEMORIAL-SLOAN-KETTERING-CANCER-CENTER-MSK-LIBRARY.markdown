@@ -2,17 +2,13 @@
 layout: post
 title:  "Research Informationist - Memorial Sloan Kettering Cancer Center (MSK) Library"
 date:   2017-05-23
-excerpt: "Position: 12-month contract from date of hire Work week: 37.5 hrs Library Hours of Operation: 8:00 am to 7:00 pm, Monday – Friday The MSK Library is a continuously evolving facility and virtual library, supporting physicians, researchers, nurses, health care professionals, students, and our patient community. Only those candidates who..."
+excerpt: "Position: 12-month contract from date of hire. Work week: 37.5 hrs. Library Hours of Operation: 8:00 am to 7:00 pm, Monday – Friday. The MSK Library is a continuously evolving facility and virtual library, supporting physicians, researchers, nurses, health care professionals, students, and our patient community. Only those candidates who..."
 tag: job
 ---
 
 ### Description###
 
-Position: 12-month contract from date of hire
-Work week: 37.5 hrs 
-Library Hours of Operation: 8:00 am to 7:00 pm, Monday – Friday
-
-The MSK Library is a continuously evolving facility and virtual library, supporting physicians, researchers, nurses, health care professionals, students, and our patient community. Only those candidates who are tech savvy and embrace a challenging environment need apply.
+Position: 12-month contract from date of hire. Work week: 37.5 hrs. Library Hours of Operation: 8:00 am to 7:00 pm, Monday – Friday. The MSK Library is a continuously evolving facility and virtual library, supporting physicians, researchers, nurses, health care professionals, students, and our patient community. Only those candidates who are tech savvy and embrace a challenging environment need apply.
 
 
 ### Responsibilities###

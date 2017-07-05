@@ -1,7 +1,7 @@
-q---
+---
 layout: post
 title:  "Adjunct Librarian/Reference-Instruction - Lehman College (CUNY)"
-date:   7-03-2017
+date:   2017-07-03
 excerpt: "CITY UNIVERSITY OF NEW YORK JOB OPPORTUNITY Lehman College, Bronx, New York Title: Adjunct Librarian/Reference-Instruction Location/Department: Library College Website: [http://www.lehman.edu](http://www.lehman.edu) Closing Date: Until filled – review of applications will begin immediately POSITION DESCRIPTION AND DUTIES The Adjunct Reference Librarian will work part-time during the Fall 2017 semester. The candidate will..."
 tag: job
 ---

@@ -17,8 +17,8 @@ CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
   end
   
   datebits = row[0].split(' ')[0].split('/')
-  datestr = datebits[0] + ' ' + datebits[1].rjust(2, '0')
-  datestr += ' ' + datebits[2].rjust(2, '0')
+  datestr = datebits[2] + ' ' + datebits[0].rjust(2, '0')
+  datestr += ' ' + datebits[1].rjust(2, '0')
   frontmatter_datestr = datestr.tr(' ', '-')
   title = row[1].nil? ? "" : row[1]
   institution = row[2].nil? ? "" : row[2]

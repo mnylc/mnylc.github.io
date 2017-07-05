@@ -14,7 +14,7 @@ MCNY serves primarily adult learners and has a unique history rooted in Social J
 
 ### Responsibilities###
 
- The Instruction & Digital Services Librarian (I/DSL) will support at  our Manhattan and Bronx locations, working largely out of the  MCNY Bronx Extension Center (BEC).  The I/DSL will be the library’s primary point person, working closely with the Director of the Library, faculty,  and academic support staff  to develop and provide substantive and tailored library services. The I/DSL will take the lead on maintaining, developing, and assessing the digital presence of the MCNY Library, as well as representing the library on college committees related to technology.  At both locations, the  I/DSL will provide face to face and virtual reference; develop and conduct in-class information literacy sessions,  and assist with collection development and library programming.
+The Instruction & Digital Services Librarian (I/DSL) will support at our Manhattan and Bronx locations, working largely out of the MCNY Bronx Extension Center (BEC). The I/DSL will be the library’s primary point person at the BEC, working closely with the Director of the Library, faculty, and academic support staff to develop and provide substantive and tailored library services. At both locations, the I/DSL will provide face to face and virtual reference; develop and conduct in-class information literacy sessions, and assist with collection development and library programming. The I/DSL will take the lead on maintaining, developing, and assessing the digital presence of the MCNY Library, as well as representing the library on college committees related to technology.
 
 
 ### Qualifications###
