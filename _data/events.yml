@@ -484,6 +484,182 @@
     edge_color: "#9c9c9c"
     edge_color_set: true
 - name:
+    text: Reporting Systems Are Dead (Long Live Reporting)
+    html: Reporting Systems Are Dead (Long Live Reporting)
+  description:
+    text: |-
+      Reporting Systems Are Dead (Long Live Reporting)
+      Project managers at all levels are used to generating outputs reports. But how often do formatting requirements and content guidelines really highlight the outcomes of our projects? We find ourselves reiterating information, often in varying formats for individual funders, only to see these reports filed away by the funder after we submit them, never to see the light of day.
+      In this workshop, we will discuss outputs currently requested by funders, and compare notes on the ways in which these outputs match the outcomes of the project. We'll discuss how we can work to build more meaning into our (admittedly often dull) grant reports. 
+      Our facilitators will introduce participants to Global Grand Central, a social platform that "makes reporting fun, constructive, inspiring, long-term, connected, and social." 
+      By the end of this workshop, participants will be able to:
+
+      establish their own hub profiles
+      write activity reports 
+      share their feedback on the platform
+
+      Participants are welcome to bring their own device or to borrow one of METRO's laptops.
+      About our facilitators:
+      Natalie Milbrodt leads Queens Library’s Metadata Services division. In 2010, Milbrodt developed the Queens Memory program to collect images and stories from residents for the library’s digital archives.  Milbrodt graduated in 2000 from Michigan State University with a BA in Interdisciplinary Humanities and a Specialization in Film Studies. Before joining the library profession, she worked for film production, design and marketing firms in both creative and management roles. 
+    html: |-
+      <P><STRONG>Reporting Systems Are Dead (Long Live Reporting)</STRONG></P>
+      <P>Project managers at all levels are used to generating outputs reports. But how often do formatting requirements and content guidelines <I>really</I> highlight the outcomes of our projects? We find ourselves reiterating information, often in varying formats for individual funders, only to see these reports filed away by the funder after we submit them, never to see the light of day.</P>
+      <DIV>In this workshop, we will discuss outputs currently requested by funders, and compare notes on the ways in which these outputs match the outcomes of the project. We'll discuss how we can work to build more meaning into our (admittedly often dull) grant reports. </DIV>
+      <P>Our facilitators will introduce participants to Global Grand Central, a social platform that "makes reporting fun, constructive, inspiring, long-term, connected, and social." </P>
+      <P>By the end of this workshop, participants will be able to:</P>
+      <UL>
+      <LI><SPAN>establish their own hub profiles</SPAN></LI>
+      <LI><SPAN>write activity reports </SPAN></LI>
+      <LI><SPAN>share their feedback on the platform</SPAN></LI>
+      </UL>
+      <P><SPAN>Participants are welcome to bring their own device or to borrow one of METRO's laptops.</SPAN></P>
+      <P><STRONG>About our facilitators:</STRONG></P>
+      <P>Natalie Milbrodt leads Queens Library’s Metadata Services division. In 2010, Milbrodt developed the Queens Memory program to collect images and stories from residents for the library’s digital archives.  Milbrodt graduated in 2000 from Michigan State University with a BA in Interdisciplinary Humanities and a Specialization in Film Studies. Before joining the library profession, she worked for film production, design and marketing firms in both creative and management roles. </P>
+  id: '36012524430'
+  url: https://www.eventbrite.com/e/reporting-systems-are-dead-long-live-reporting-tickets-36012524430?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-08-14T14:00:00'
+    utc: '2017-08-14T18:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-08-14T17:00:00'
+    utc: '2017-08-14T21:00:00Z'
+  created: '2017-07-07T20:04:37Z'
+  changed: '2017-07-07T20:19:25Z'
+  capacity: 40
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: false
+  version: 3.0.0
+  logo_id: '33049708'
+  organizer_id: '8929654067'
+  venue_id: '19939420'
+  category_id: 
+  subcategory_id: 
+  format_id: '9'
+  resource_uri: https://www.eventbriteapi.com/v3/events/36012524430/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F33049708%2F160412581493%2F1%2Foriginal.jpg?s=184d25f8013532e1a77f3e6b1365cd01
+      width: 3013
+      height: 1589
+    id: '33049708'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F33049708%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=9dee5d230961f5c7a86c3e4984adaeea
+    aspect_ratio: '2'
+    edge_color: "#9c9c9c"
+    edge_color_set: true
+- name:
+    text: A Linked Data Workflow with OpenRefine
+    html: A Linked Data Workflow with OpenRefine
+  description:
+    text: |-
+      A Linked Data Workflow with OpenRefine
+      OpenRefine is a popular data wrangling tool among librarians and archivists. This workshop will cover the basics of data-cleaning and how to create interoperable linked data with OpenRefine.
+      Topics covered include:
+
+      Introduction to linked data;
+      Data-cleaning with OpenRefine and Power Tools for Google Sheets;
+      Using OpenRefine for name entity reconciliation, for example to VIAF, Wikidata, and Library of Congress identifiers;
+      Discussion of metadata enrichment with linked open data.
+
+      The workshop is designed to serve all levels of practitioners interested in adding linked data to their records or creating linked data. Participants will be given exercises to complete a common reconciliation workflow, starting with the export of data from a MySQL database and then cleaning the data, to reconciling data and importing the results.
+      Laptops will be required for this class. Please bring your own, or sign up to borrow one of METRO's when you RSVP for this workshop.
+      About our instructors
+      Alexandra Provo is the Digital Production Editor for the Enhanced Networked Monographs project at NYU. She was the 2015-2016 Kress Fellow in Art Librarianship at Yale University and has been the project manager for two linked open data projects: Drawings of the Florentine Painters and the Linked Jazz Project. From 2012-2013, shewas a photograph cataloger at Harvard University’s Villa I Tatti. She holds an MSLIS from Pratt Institute and a BA in art history from Wesleyan University.
+      Carlos Acevedo is the Digital Asset Manager at The Jewish Museum. He has performed metadata enrichment using linked open data as a contributor to the Drawings of the Florentine Painters project as well as in his previous role as a Metadata Specialist Consultant for Artsy.net. He holds an MSLIS from the Pratt Institute with an Advanced Certificate in User Experience.
+      Karen Hwang is the Digital Projects and Metadata Librarian at METRO. Her research as a member of Linked Jazz and as a 2016-2017 METRO Fellow focuses on cultural heritage and DH applications for Semantic Web technologies. Past affiliations as a data specialist and archivist include artasiamerica.org at the Asian American Arts Centre, Interference Archive, and the Laboratory for Experimental and Applied Phycology at Brooklyn College.
+    html: |-
+      <P><SPAN>A Linked Data Workflow with OpenRefine</SPAN></P>
+      <P><SPAN>OpenRefine is a popular data wrangling tool among librarians and archivists. This workshop will cover the basics of data-cleaning and how to create interoperable linked data with OpenRefine.</SPAN></P>
+      <P>Topics covered include:</P>
+      <UL>
+      <LI>Introduction to linked data;</LI>
+      <LI>Data-cleaning with OpenRefine and Power Tools for Google Sheets;</LI>
+      <LI>Using OpenRefine for name entity reconciliation, for example to VIAF, Wikidata, and Library of Congress identifiers;</LI>
+      <LI>Discussion of metadata enrichment with linked open data.</LI>
+      </UL>
+      <P><SPAN>The workshop is designed to serve all levels of practitioners interested in adding linked data to their records or creating linked data. Participants will be given exercises to complete a common reconciliation workflow, starting with the export of data from a MySQL database and then cleaning the data, to reconciling data and importing the results.</SPAN></P>
+      <P>Laptops will be required for this class. Please bring your own, or sign up to borrow one of METRO's when you RSVP for this workshop.</P>
+      <P><STRONG>About our instructors</STRONG></P>
+      <P>Alexandra Provo is the Digital Production Editor for the Enhanced Networked Monographs project at NYU. She was the 2015-2016 Kress Fellow in Art Librarianship at Yale University and has been the project manager for two linked open data projects: Drawings of the Florentine Painters and the Linked Jazz Project. From 2012-2013, she<BR>was a photograph cataloger at Harvard University’s Villa I Tatti. She holds an MSLIS from Pratt Institute and a BA in art history from Wesleyan University.</P>
+      <P>Carlos Acevedo is the Digital Asset Manager at The Jewish Museum. He has performed metadata enrichment using linked open data as a contributor to the Drawings of the Florentine Painters project as well as in his previous role as a Metadata Specialist Consultant for Artsy.net. He holds an MSLIS from the Pratt Institute with an Advanced Certificate in User Experience.</P>
+      <P>Karen Hwang is the Digital Projects and Metadata Librarian at METRO. Her research as a member of Linked Jazz and as a 2016-2017 METRO Fellow focuses on cultural heritage and DH applications for Semantic Web technologies. Past affiliations as a data specialist and archivist include artasiamerica.org at the Asian American Arts Centre, Interference Archive, and the Laboratory for Experimental and Applied Phycology at Brooklyn College.</P>
+  id: '36013215497'
+  url: https://www.eventbrite.com/e/a-linked-data-workflow-with-openrefine-tickets-36013215497?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-08-28T14:00:00'
+    utc: '2017-08-28T18:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-08-28T17:00:00'
+    utc: '2017-08-28T21:00:00Z'
+  created: '2017-07-07T20:29:49Z'
+  changed: '2017-07-07T20:29:52Z'
+  capacity: 40
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: false
+  version: 3.0.0
+  logo_id: '33050531'
+  organizer_id: '8929654067'
+  venue_id: '19939420'
+  category_id: 
+  subcategory_id: 
+  format_id: '9'
+  resource_uri: https://www.eventbriteapi.com/v3/events/36013215497/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F33050531%2F160412581493%2F1%2Foriginal.jpg?s=25d427834de6b8079461f29897a4579b
+      width: 3013
+      height: 1589
+    id: '33050531'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F33050531%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=3bfed3e26bcd8f2a9a355712701fd7f8
+    aspect_ratio: '2'
+    edge_color: 
+    edge_color_set: true
+- name:
     text: Intro to Data Analysis with R
     html: Intro to Data Analysis with R
   description:
@@ -646,4 +822,70 @@
     url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31735844%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=6a366a264240226fadc2f9dd27bd5267
     aspect_ratio: '2'
     edge_color: "#9c9c9c"
+    edge_color_set: true
+- name:
+    text: 'Organizing Your Workplace: Basics'
+    html: 'Organizing Your Workplace: Basics'
+  description:
+    text: |-
+      In an era of unprecedented attacks on information workers, how can we mobilize to advocate for our own wages and working conditions? The facilitators will use their experience organizing during the faculty lockout at LIU Brooklyn in September 2016 to inform participatory activities that will help attendees understand the basics of union organizing in their own workplaces.The first half of the session will introduce the basics of getting to know your workplace. Union organizing relies on understanding who is in your unit, what their workplace needs and priorities are, and their level of engagement and commitment to union activity. Central to this process are lists of members that can be regularly updated and assessed as organizing and action proceeds. It is also critical to understand where members are in the organization so that connections between people can be made. Maps can be useful tools for this work. Attendees will leave with the beginnings of a list and map for further organizing.The second half of the session will focus on the organizing conversation. These are conversations where unit members come to understand shared concerns and begin to strategize for taking action. Attendees will gain hands on practice engaging the five steps of the organizing conversation.We expect attendees will leave the session with new tools to reinvigorate their engagement with workplace justice issues whether they are currently in a union or considering forming one.
+      About our instructors:
+      Eamon Tewell is Reference & Instruction Librarian at Long Island University Brooklyn, where he is a proud member of the Long Island University Faculty Federation, Local 3998, NYSUT/AFT, AFL-CIO. He received his MLIS from Drexel University and his MA in Media Studies from LIU Brooklyn. Eamon has published and presented on the topics of critical information literacy, popular media in library instruction, and televisual representations of libraries.
+    html: |-
+      <P><SPAN>In an era of unprecedented attacks on information workers, how can we mobilize to advocate for our own wages and working conditions? The facilitators will use their experience organizing during the faculty lockout at LIU Brooklyn in September 2016 to inform participatory activities that will help attendees understand the basics of union organizing in their own workplaces.</SPAN><BR><BR><SPAN>The first half of the session will introduce the basics of getting to know your workplace. Union organizing relies on understanding who is in your unit, what their workplace needs and priorities are, and their level of engagement and commitment to union activity. Central to this process are lists of members that can be regularly updated and assessed as organizing and action proceeds. It is also critical to understand where members are in the organization so that connections between people can be made. Maps can be useful tools for this work. Attendees will leave with the beginnings of a list and map for further organizing.</SPAN><BR><BR><SPAN>The second half of the session will focus on the organizing conversation. These are conversations where unit members come to understand shared concerns and begin to strategize for taking action. Attendees will gain hands on practice engaging the five steps of the organizing conversation.</SPAN><BR><BR><SPAN>We expect attendees will leave the session with new tools to reinvigorate their engagement with workplace justice issues whether they are currently in a union or considering forming one.</SPAN></P>
+      <P><STRONG>About our instructors:</STRONG></P>
+      <P><SPAN>Eamon Tewell is Reference &amp; Instruction Librarian at Long Island University Brooklyn, where he is a proud member of the Long Island University Faculty Federation, Local 3998, NYSUT/AFT, AFL-CIO. He received his MLIS from Drexel University and his MA in Media Studies from LIU Brooklyn. Eamon has published and presented on the topics of critical information literacy, popular media in library instruction, and televisual representations of libraries.</SPAN></P>
+  id: '36013127233'
+  url: https://www.eventbrite.com/e/organizing-your-workplace-basics-tickets-36013127233?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-09-27T14:00:00'
+    utc: '2017-09-27T18:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-09-27T17:00:00'
+    utc: '2017-09-27T21:00:00Z'
+  created: '2017-07-07T20:24:45Z'
+  changed: '2017-07-07T20:24:48Z'
+  capacity: 40
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: false
+  version: 3.0.0
+  logo_id: '33050376'
+  organizer_id: '8929654067'
+  venue_id: '19939420'
+  category_id: 
+  subcategory_id: 
+  format_id: '9'
+  resource_uri: https://www.eventbriteapi.com/v3/events/36013127233/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F33050376%2F160412581493%2F1%2Foriginal.jpg?s=b780184407d31c4f8676f44d106822ee
+      width: 3013
+      height: 1589
+    id: '33050376'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F33050376%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=59f09a21600c429e4deaf69067723522
+    aspect_ratio: '2'
+    edge_color: 
     edge_color_set: true
