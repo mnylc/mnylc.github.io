@@ -1,19 +1,4 @@
 ---
-- time: 1499797800000
-  link: https://www.meetup.com/metro-web-archiving/events/240240222/
-  description:
-    html: "<p>Save-the-date of <b>Tuesday, July 11th, 2017 (2:30-4:00pm)</b> for the
-      METRO Web Archiving group's summer MeetUp. </p> <p>Our agenda for the meeting:</p>
-      <p>• Welcome from hosts + introductions </p> <p><br/>• Group members: brief
-      descriptions of work, experience, and interest in web archiving</p> <p><br/>•
-      Discussion of future focus of the METRO Web Archiving MeetUp Group and considerations
-      for expanding scope to digital preservation focus</p> "
-  name:
-    html: METRO Web Archiving Summer MeetUp
-  start:
-    utc: '2017-07-11 14:30:00 -0400'
-    local: '2017-07-11 14:30:00 -0400'
-  url: https://www.meetup.com/metro-web-archiving/events/240240222/
 - name:
     text: Intro to Open Data
     html: Intro to Open Data
@@ -51,7 +36,7 @@
     local: '2017-07-11T21:00:00'
     utc: '2017-07-12T01:00:00Z'
   created: '2017-05-24T16:03:01Z'
-  changed: '2017-07-11T01:30:32Z'
+  changed: '2017-07-11T20:55:03Z'
   capacity: 36
   capacity_is_custom: true
   status: live
@@ -396,7 +381,7 @@
       Create more engaging reports, built for public and professional audiences
       Share their feedback on the platform
 
-      Participants are welcome to bring their own device or to borrow one of METRO's laptops.About our facilitators:Natalie Milbrodt leads Queens Library’s Metadata Services division. She is also a contributor to Global Grand Central. In 2010, Milbrodt developed the Queens Memory program to collect images and stories from residents for the library’s digital archives. Milbrodt graduated in 2000 from Michigan State University with a BA in Interdisciplinary Humanities and a Specialization in Film Studies. Before joining the library profession, she worked for film production, design and marketing firms in both creative and management roles.Marcus Haraldsson is the Project Leader for Global Grand Central. Based in Stockholm, Sweden, Haraldsson is a journalist and photographer with a background in peace and conflict research. His Bordr project was the subject of exhibitions in South Africa, Sweden, and the United States.
+      Participants are welcome to bring their own device or to borrow one of METRO's laptops.About our facilitators:Natalie Milbrodt leads Queens Library’s Metadata Services division. She is also a contributor to Global Grand Central. In 2010, Milbrodt developed the Queens Memory program to collect images and stories from residents for the library’s digital archives. Milbrodt graduated in 2000 from Michigan State University with a BA in Interdisciplinary Humanities and a Specialization in Film Studies. Before joining the library profession, she worked for film production, design and marketing firms in both creative and management roles.Marcus Haraldsson is the coordinator of Global Grand Central. His research interest explores open digital solutions, new organization models, and pooling of resources – seeking to socialize evaluation routines to improve practice, research, and policy for inclusion. In 2011- 2012 Haraldsson was a Fulbright scholar in Political Journalism at Columbia University in New York City, he has a Masters degree in Peace and Conflict Research from Uppsala University (2003) and has worked as a journalist in more than 20 countries.
     html: |-
       <P>Project managers at all levels are used to generating reports on the outcomes of funded projects. But how often do formatting requirements and content guidelines really highlight the most significant outcomes of our projects? And how often are we able to share and reuse the content we work so hard to generate in these reports? We find ourselves repeating the same information about our work in slightly different formats, only to see these reports filed away by funders, never to see the light of day.<BR><BR>In this workshop, we will discuss outputs currently requested by funders, and review the ways in which these outputs match the outcomes of the project. We'll discuss how we can work to build more meaning into our (admittedly often dull) grant reports, how we might make them reusable, attractive portfolios of our work, and how we might learn from colleagues creating similar reports.<BR><BR>Our facilitators will introduce participants to Global Grand Central, a social platform that "makes reporting fun, constructive, inspiring, long-term, connected, and social." The platform began in Europe and has reached the conclusion of a two-year design process driven by community practitioners. Now, the platform is expanding to a global audience and its developers are eager to hear from METRO members about gaps we perceive in the ways we’re now able to share methods and outcomes from our work with colleagues, funders, and the people we serve.<BR><BR>By the end of this workshop, participants will be able to:<BR></P>
       <UL>
@@ -404,7 +389,7 @@
       <LI>Create more engaging reports, built for public and professional audiences</LI>
       <LI>Share their feedback on the platform</LI>
       </UL>
-      <P><BR>Participants are welcome to bring their own device or to borrow one of METRO's laptops.<BR><BR><STRONG>About our facilitators:</STRONG><BR>Natalie Milbrodt leads Queens Library’s Metadata Services division. She is also a contributor to Global Grand Central. In 2010, Milbrodt developed the Queens Memory program to collect images and stories from residents for the library’s digital archives. Milbrodt graduated in 2000 from Michigan State University with a BA in Interdisciplinary Humanities and a Specialization in Film Studies. Before joining the library profession, she worked for film production, design and marketing firms in both creative and management roles.<BR><BR>Marcus Haraldsson is the Project Leader for Global Grand Central. Based in Stockholm, Sweden, Haraldsson is a journalist and photographer with a background in peace and conflict research. His Bordr project was the subject of exhibitions in South Africa, Sweden, and the United States.<BR></P>
+      <P><BR>Participants are welcome to bring their own device or to borrow one of METRO's laptops.<BR><BR><STRONG>About our facilitators:</STRONG><BR>Natalie Milbrodt leads Queens Library’s Metadata Services division. She is also a contributor to Global Grand Central. In 2010, Milbrodt developed the Queens Memory program to collect images and stories from residents for the library’s digital archives. Milbrodt graduated in 2000 from Michigan State University with a BA in Interdisciplinary Humanities and a Specialization in Film Studies. Before joining the library profession, she worked for film production, design and marketing firms in both creative and management roles.<BR><BR><SPAN>Marcus Haraldsson is the coordinator of Global Grand Central. His research interest explores open digital solutions, new organization models, and pooling of resources – seeking to socialize evaluation routines to improve practice, research, and policy for inclusion. In 2011- 2012 Haraldsson was a Fulbright scholar in Political Journalism at Columbia University in New York City, he has a Masters degree in Peace and Conflict Research from Uppsala University (2003) and has worked as a journalist in more than 20 countries.</SPAN><BR></P>
   id: '36012524430'
   url: https://www.eventbrite.com/e/reporting-systems-are-dead-long-live-reporting-tickets-36012524430?aff=ebapi
   start:
@@ -416,7 +401,7 @@
     local: '2017-08-14T17:00:00'
     utc: '2017-08-14T21:00:00Z'
   created: '2017-07-07T20:04:37Z'
-  changed: '2017-07-10T19:02:06Z'
+  changed: '2017-07-11T19:30:21Z'
   capacity: 40
   capacity_is_custom: true
   status: live
