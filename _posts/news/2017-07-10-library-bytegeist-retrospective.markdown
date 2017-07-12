@@ -10,7 +10,7 @@ tag:	news
 * [telephone-booths-turned-wifi-kiosks on the streets of NYC](https://soundcloud.com/librarybytegeist/shannonmattern)
 * [a volunteer collective of AV experts trying to save decaying magnetic media in their free time](https://soundcloud.com/librarybytegeist/rachelmattson)
 * [what it’s like to run a Tor relay from a library](https://soundcloud.com/librarybytegeist/6-talking-privacy-with-librarians)
-* [librarians dealing with people use their computers to watch porn]9https://soundcloud.com/librarybytegeist/11-talking-internet-filters-in-public-libraries)
+* [librarians dealing with people use their computers to watch porn](https://soundcloud.com/librarybytegeist/11-talking-internet-filters-in-public-libraries)
 
 Library Bytegeist was born as a kind of hacked solution to a logistical roadblock.
 
