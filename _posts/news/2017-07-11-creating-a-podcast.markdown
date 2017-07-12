@@ -6,7 +6,7 @@ tag:	news
 
 ---
 
-Since it wasn’t clear whether or not [Library Bytegeist] would continue after the end of Molly’s fellowship at METRO, the entire process of creating the podcast was as DIY and iterative as possible.
+Since it wasn’t clear whether or not [Library Bytegeist](https://soundcloud.com/librarybytegeist) would continue after the end of Molly’s fellowship at METRO, the entire process of creating the podcast was as DIY and iterative as possible.
 
 Here are the basics:
 
