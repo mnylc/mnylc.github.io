@@ -37,6 +37,19 @@ Laura works closely with METRO leadership and program managers to identify, coll
 
 Laura joined METRO in February 2010 after receiving her B.A. in History from Tufts University. She also holds a Master of Public Administration degree in Non-profit Management from New York University's Robert F. Wagner Graduate School of Public Service.
 
+## Karen Li-Lun Hwang
+**Digital Projects & Metadata Librarian**
+
+Karen facilitates the harvesting and ingestion of metadata records from libraries, archives and cultural heritage institutions throughout New York State for contribution to the Digital Public Library of America (DPLA). She also assists member institutions with hosted collections on METRO’s digital collections site Digital Culture of Metropolitan New York (DCMNY).
+
+Prior to joining METRO in 2017, Karen worked on digital projects and as a data specialist throughout New York City in various local
+community archives and on national alternative energy projects. Her current research focuses on the application of Semantic Web
+technologies to cultural heritage materials, which she has explored both as a member of Linked Jazz and in her work as a 2016-2017 METRO
+Research Fellow.
+
+Karen is a 2014-2015 ALA Spectrum Scholar. She holds an MLIS from Pratt Institute’s School of Information and a B.A. in art history from
+UCLA. She is a hiker, a coder, a new mother, and a practitioner of tai-chi.
+
 ## Anne Karle-Zenith
 **Associate Director of Business Development**
 
