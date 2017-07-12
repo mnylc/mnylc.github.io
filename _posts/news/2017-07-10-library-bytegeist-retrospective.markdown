@@ -7,10 +7,10 @@ tag:	news
 ---
 [Library Bytegeist](https://soundcloud.com/librarybytegeist) is a podcast that tells audio stories about the libraries and archives of New York. Our 11 episodes have run the gamut, with stories of:
 
-* telephone-booths-turned-wifi-kiosks on the streets of NYC
-* a volunteer collective of AV experts trying to save decaying magnetic media in their free time
-* what it’s like to run a Tor relay from a library
-* librarians dealing with people use their computers to watch porn
+* [telephone-booths-turned-wifi-kiosks on the streets of NYC](https://soundcloud.com/librarybytegeist/shannonmattern)
+* [a volunteer collective of AV experts trying to save decaying magnetic media in their free time](https://soundcloud.com/librarybytegeist/rachelmattson)
+* [what it’s like to run a Tor relay from a library](https://soundcloud.com/librarybytegeist/6-talking-privacy-with-librarians)
+* [librarians dealing with people use their computers to watch porn]9https://soundcloud.com/librarybytegeist/11-talking-internet-filters-in-public-libraries)
 
 Library Bytegeist was born as a kind of hacked solution to a logistical roadblock.
 
