@@ -120,7 +120,7 @@
     local: '2017-07-18T21:00:00'
     utc: '2017-07-19T01:00:00Z'
   created: '2017-05-24T17:09:51Z'
-  changed: '2017-07-13T01:08:54Z'
+  changed: '2017-07-13T20:53:31Z'
   capacity: 28
   capacity_is_custom: true
   status: live
@@ -411,7 +411,7 @@
     local: '2017-08-28T17:00:00'
     utc: '2017-08-28T21:00:00Z'
   created: '2017-07-07T20:29:49Z'
-  changed: '2017-07-12T21:39:31Z'
+  changed: '2017-07-13T20:54:47Z'
   capacity: 40
   capacity_is_custom: true
   status: live
@@ -455,6 +455,88 @@
     edge_color: 
     edge_color_set: true
 - name:
+    text: Intro to Data Analysis with R
+    html: Intro to Data Analysis with R
+  description:
+    text: |-
+      Participants will build on critical data literacy skills by begining to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights. 
+      Participants will:
+
+      Download and install R and RStudio
+      Navigate the RStudio interface 
+      Explore a dataset from NYC Open Data. 
+
+      No previous programming experience required! 
+      Pizza, salad, and beverages will be provided at this workshop.
+      About our instructor:
+      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
+    html: |-
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will build on critical data literacy skills by begining to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights. <BR></P>
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will:</P>
+      <UL>
+      <LI>Download and install R and RStudio</LI>
+      <LI>Navigate the RStudio interface <BR></LI>
+      <LI>Explore a dataset from NYC Open Data. </LI>
+      </UL>
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal"><I>No previous programming experience required!</I><SPAN> </SPAN><BR></P>
+      <P>Pizza, salad, and beverages will be provided at this workshop.</P>
+      <P><STRONG>About our instructor:</STRONG></P>
+      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
+  id: '34860365291'
+  url: https://www.eventbrite.com/e/intro-to-data-analysis-with-r-tickets-34860365291?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-09-12T18:00:00'
+    utc: '2017-09-12T22:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-09-12T21:00:00'
+    utc: '2017-09-13T01:00:00Z'
+  created: '2017-05-24T17:11:41Z'
+  changed: '2017-07-13T21:00:22Z'
+  capacity: 28
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: false
+  version: 3.0.0
+  logo_id: '31735807'
+  organizer_id: '8929654067'
+  venue_id: '19746348'
+  category_id: 
+  subcategory_id: 
+  format_id: '9'
+  resource_uri: https://www.eventbriteapi.com/v3/events/34860365291/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31735807%2F160412581493%2F1%2Foriginal.jpg?s=5d3ecb592f772aebc658a9a27cda3a65
+      width: 3013
+      height: 1589
+    id: '31735807'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31735807%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=1f29d193f5436d0ea4129ec11c6ebc17
+    aspect_ratio: '2'
+    edge_color: "#9c9c9c"
+    edge_color_set: true
+- name:
     text: 'Organizing Your Workplace: Basics'
     html: 'Organizing Your Workplace: Basics'
   description:
@@ -462,10 +544,12 @@
       In an era of unprecedented attacks on information workers, how can we mobilize to advocate for our own wages and working conditions? The facilitators will use their experience organizing during the faculty lockout at LIU Brooklyn in September 2016 to inform participatory activities that will help attendees understand the basics of union organizing in their own workplaces.The first half of the session will introduce the basics of getting to know your workplace. Union organizing relies on understanding who is in your unit, what their workplace needs and priorities are, and their level of engagement and commitment to union activity. Central to this process are lists of members that can be regularly updated and assessed as organizing and action proceeds. It is also critical to understand where members are in the organization so that connections between people can be made. Maps can be useful tools for this work. Attendees will leave with the beginnings of a list and map for further organizing.The second half of the session will focus on the organizing conversation. These are conversations where unit members come to understand shared concerns and begin to strategize for taking action. Attendees will gain hands on practice engaging the five steps of the organizing conversation.We expect attendees will leave the session with new tools to reinvigorate their engagement with workplace justice issues whether they are currently in a union or considering forming one.
       About our instructors:
       Eamon Tewell is Reference & Instruction Librarian at Long Island University Brooklyn, where he is a proud member of the Long Island University Faculty Federation, Local 3998, NYSUT/AFT, AFL-CIO. He received his MLIS from Drexel University and his MA in Media Studies from LIU Brooklyn. Eamon has published and presented on the topics of critical information literacy, popular media in library instruction, and televisual representations of libraries.
+      Emily Drabinski is Associate Professor and Coordinator of Library Instruction at LIU Brooklyn. She is secretary of the Long Island University Faculty Federation. Emily sits on the board of Radical Teacher, a journal of socialist, feminist, and anti-racist teaching practice and edits Gender & Sexuality in Information Studies, a book series from Library Juice Press/Litwin Books. 
     html: |-
       <P><SPAN>In an era of unprecedented attacks on information workers, how can we mobilize to advocate for our own wages and working conditions? The facilitators will use their experience organizing during the faculty lockout at LIU Brooklyn in September 2016 to inform participatory activities that will help attendees understand the basics of union organizing in their own workplaces.</SPAN><BR><BR><SPAN>The first half of the session will introduce the basics of getting to know your workplace. Union organizing relies on understanding who is in your unit, what their workplace needs and priorities are, and their level of engagement and commitment to union activity. Central to this process are lists of members that can be regularly updated and assessed as organizing and action proceeds. It is also critical to understand where members are in the organization so that connections between people can be made. Maps can be useful tools for this work. Attendees will leave with the beginnings of a list and map for further organizing.</SPAN><BR><BR><SPAN>The second half of the session will focus on the organizing conversation. These are conversations where unit members come to understand shared concerns and begin to strategize for taking action. Attendees will gain hands on practice engaging the five steps of the organizing conversation.</SPAN><BR><BR><SPAN>We expect attendees will leave the session with new tools to reinvigorate their engagement with workplace justice issues whether they are currently in a union or considering forming one.</SPAN></P>
       <P><STRONG>About our instructors:</STRONG></P>
       <P><SPAN>Eamon Tewell is Reference &amp; Instruction Librarian at Long Island University Brooklyn, where he is a proud member of the Long Island University Faculty Federation, Local 3998, NYSUT/AFT, AFL-CIO. He received his MLIS from Drexel University and his MA in Media Studies from LIU Brooklyn. Eamon has published and presented on the topics of critical information literacy, popular media in library instruction, and televisual representations of libraries.</SPAN></P>
+      <P><SPAN CLASS="il">Emily</SPAN><SPAN> Drabinski is Associate Professor and Coordinator of Library Instruction at LIU Brooklyn. She is secretary of the Long Island University Faculty Federation. </SPAN><SPAN CLASS="il">Emily</SPAN><SPAN> sits on the board of Radical Teacher, a journal of socialist, feminist, and anti-racist teaching practice and edits Gender &amp; Sexuality in Information Studies, a book series from Library Juice Press/Litwin Books. </SPAN></P>
   id: '36013127233'
   url: https://www.eventbrite.com/e/organizing-your-workplace-basics-tickets-36013127233?aff=ebapi
   start:
@@ -477,8 +561,8 @@
     local: '2017-09-22T17:00:00'
     utc: '2017-09-22T21:00:00Z'
   created: '2017-07-07T20:24:45Z'
-  changed: '2017-07-10T16:47:47Z'
-  capacity: 40
+  changed: '2017-07-13T21:01:00Z'
+  capacity: 28
   capacity_is_custom: true
   status: live
   currency: USD
@@ -519,4 +603,86 @@
     url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F33050376%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=59f09a21600c429e4deaf69067723522
     aspect_ratio: '2'
     edge_color: 
+    edge_color_set: true
+- name:
+    text: Intro to Data Analysis with Python
+    html: Intro to Data Analysis with Python
+  description:
+    text: |-
+      Participants will build on critical data literacy skills from previous workshops and begin to explore open data using Python, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use Python to aid their research, explore data sets and discover insights. 
+      Participants will:
+
+      Download and install Python and supporting software
+      Learn basic commands for exploring data
+      Explore a dataset from NYC Open Data 
+
+      No previous programming experience required!
+      Pizza, salad, and beverages will be provided at this workshop.
+      About our instructor:
+      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
+    html: |-
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will build on critical data literacy skills from previous workshops and begin to explore open data using Python, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use Python to aid their research, explore data sets and discover insights. <BR></P>
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will:</P>
+      <UL>
+      <LI>Download and install Python and supporting software</LI>
+      <LI>Learn basic commands for exploring data</LI>
+      <LI>Explore a dataset from NYC Open Data <BR></LI>
+      </UL>
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal"><I>No previous programming experience required!</I><BR></P>
+      <P>Pizza, salad, and beverages will be provided at this workshop.</P>
+      <P><STRONG>About our instructor:</STRONG></P>
+      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
+  id: '34860393375'
+  url: https://www.eventbrite.com/e/intro-to-data-analysis-with-python-tickets-34860393375?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-09-26T18:00:00'
+    utc: '2017-09-26T22:00:00Z'
+  end:
+    timezone: America/New_York
+    local: '2017-09-26T21:00:00'
+    utc: '2017-09-27T01:00:00Z'
+  created: '2017-05-24T17:12:30Z'
+  changed: '2017-07-13T21:02:09Z'
+  capacity: 28
+  capacity_is_custom: true
+  status: live
+  currency: USD
+  listed: true
+  shareable: true
+  online_event: false
+  tx_time_limit: 900
+  hide_start_date: false
+  hide_end_date: false
+  locale: en_US
+  is_locked: false
+  privacy_setting: unlocked
+  is_series: false
+  is_series_parent: false
+  is_reserved_seating: false
+  source: create_2.0
+  is_free: false
+  version: 3.0.0
+  logo_id: '31735844'
+  organizer_id: '8929654067'
+  venue_id: '19746348'
+  category_id: 
+  subcategory_id: 
+  format_id: '9'
+  resource_uri: https://www.eventbriteapi.com/v3/events/34860393375/
+  logo:
+    crop_mask:
+      top_left:
+        x: 0
+        y: 41
+      width: 3012
+      height: 1506
+    original:
+      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31735844%2F160412581493%2F1%2Foriginal.jpg?s=83601ed4146bceb93f559e9e47f1e8da
+      width: 3013
+      height: 1589
+    id: '31735844'
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31735844%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=6a366a264240226fadc2f9dd27bd5267
+    aspect_ratio: '2'
+    edge_color: "#9c9c9c"
     edge_color_set: true
