@@ -1,87 +1,5 @@
 ---
 - name:
-    text: 'Media Literacy in the "Post-truth" Era: Arming our patrons against the
-      scourge of fake news'
-    html: 'Media Literacy in the &#34;Post-truth&#34; Era: Arming our patrons against
-      the scourge of fake news'
-  description:
-    text: |-
-      Join us for an interactive workshop on combating “fake news” and promoting media literacy in the “post-truth” era. We will discuss our experiences leading an information literacy teach-in titled “Don’t Take the Clickbait: Practical Ways to Recognize and Fight Fake News” at Purchase College, SUNY. We will also invite participants to share their experiences and brainstorm ways to engage patrons from a variety of backgrounds and political orientations. This workshop aims to offer solutions for fighting the spread of “fake news,” rather than merely identifying the problem.
-       At the end of this workshop, participants will have the tools to:
-
-      Use hands-on activities to promote critical thinking about news sources
-      Help and encourage library patrons to fight the spread of fake news and misinformation
-      View  “fake news” programming through the lens of critical literacy and the ACRL Framework for Information Literacy
-
-      About our instructors:
-      Darcy I. Gervasio is an Associate Librarian and the Coordinator of Reference Services at Purchase College Library, SUNY.  She manages in-person and virtual reference services for the Library and serves as an instruction librarian and subject liaison for social sciences. Darcy holds a BA in Creative Writing and French from Oberlin College and an MA in Library & Information Studies from the University of Wisconsin-Madison. She has published articles and conference papers on text message reference, “slow” assessment, and providing library outreach to the Occupy Wall Street movement. Her research interests include: critical information literacy, assessment, virtual reference, and radical reference. 
-      Emily Carlin is the Outreach, Reference, and Instruction Librarian at Purchase College Library, SUNY. She is a subject liaison for the natural and social sciences. Emily holds a BA in Logic from Smith College, an MA in Philosophy from Indiana University, and an MA in Information Science and Learning Technology from the University of Missouri. Her research interests include library services for people with disabilities, assistive technology, and critical information literacy.
-    html: |-
-      <P CLASS="MsoNormal"><SPAN>Join us for an interactive workshop on combating “fake news” and promoting media literacy in the “post-truth” era. We will discuss our experiences leading an information literacy teach-in titled “Don’t Take the Clickbait: Practical Ways to Recognize and Fight Fake News” at Purchase College, SUNY. We will also invite participants to share their experiences and brainstorm ways to engage patrons from a variety of backgrounds and political orientations. This workshop aims to offer solutions for fighting the spread of “fake news,” rather than merely identifying the problem.<SPAN></SPAN><SPAN></SPAN></SPAN></P>
-      <P CLASS="MsoNormal"><SPAN><SPAN></SPAN> A</SPAN>t the end of this workshop, participants will have the tools to:</P>
-      <UL>
-      <LI>Use hands-on activities to promote critical thinking about news sources</LI>
-      <LI>Help and encourage library patrons to fight the spread of fake news and misinformation</LI>
-      <LI>View  “fake news” programming through the lens of critical literacy and the ACRL Framework for Information Literacy</LI>
-      </UL>
-      <P CLASS="MsoNormal"><STRONG>About our instructors:</STRONG></P>
-      <P CLASS="MsoNormal">Darcy I. Gervasio is an Associate Librarian and the Coordinator of Reference Services at Purchase College Library, SUNY.  She manages in-person and virtual reference services for the Library and serves as an instruction librarian and subject liaison for social sciences. Darcy holds a BA in Creative Writing and French from Oberlin College and an MA in Library &amp; Information Studies from the University of Wisconsin-Madison. She has published articles and conference papers on text message reference, “slow” assessment, and providing library outreach to the Occupy Wall Street movement. Her research interests include: critical information literacy, assessment, virtual reference, and radical reference. </P>
-      <P CLASS="MsoNormal"><SPAN>Emily Carlin is the Outreach, Reference, and Instruction Librarian at Purchase College Library, SUNY. She is a subject liaison for the natural and social sciences. Emily holds a BA in Logic from Smith College, an MA in Philosophy from Indiana University, and an MA in Information Science and Learning Technology from the University of Missouri. Her research interests include library services for people with disabilities, assistive technology, and critical information literacy.</SPAN></P>
-  id: '35247323694'
-  url: https://www.eventbrite.com/e/media-literacy-in-the-post-truth-era-arming-our-patrons-against-the-scourge-of-fake-news-tickets-35247323694?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-07-14T13:00:00'
-    utc: '2017-07-14T17:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2017-07-14T16:00:00'
-    utc: '2017-07-14T20:00:00Z'
-  created: '2017-06-08T20:30:32Z'
-  changed: '2017-07-14T13:32:52Z'
-  capacity: 60
-  capacity_is_custom: true
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 900
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  is_free: false
-  version: 3.0.0
-  logo_id: '32213880'
-  organizer_id: '8929654067'
-  venue_id: '19939420'
-  category_id: 
-  subcategory_id: 
-  format_id: '9'
-  resource_uri: https://www.eventbriteapi.com/v3/events/35247323694/
-  logo:
-    crop_mask:
-      top_left:
-        x: 0
-        y: 41
-      width: 3012
-      height: 1506
-    original:
-      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32213880%2F160412581493%2F1%2Foriginal.jpg?s=7f99d4260fe8846c955607530fbc965d
-      width: 3013
-      height: 1589
-    id: '32213880'
-    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32213880%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=1050be9efaa37a0e133b6f5bfbdf2ae6
-    aspect_ratio: '2'
-    edge_color: "#9c9c9c"
-    edge_color_set: true
-- name:
     text: Intro to Data Visualization
     html: Intro to Data Visualization
   description:
@@ -120,7 +38,7 @@
     local: '2017-07-18T21:00:00'
     utc: '2017-07-19T01:00:00Z'
   created: '2017-05-24T17:09:51Z'
-  changed: '2017-07-14T10:33:55Z'
+  changed: '2017-07-14T17:47:28Z'
   capacity: 28
   capacity_is_custom: true
   status: live
@@ -411,7 +329,7 @@
     local: '2017-08-28T17:00:00'
     utc: '2017-08-28T21:00:00Z'
   created: '2017-07-07T20:29:49Z'
-  changed: '2017-07-14T15:11:57Z'
+  changed: '2017-07-14T19:50:39Z'
   capacity: 40
   capacity_is_custom: true
   status: live
