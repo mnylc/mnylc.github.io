@@ -1,86 +1,4 @@
 ---
-- name:
-    text: Intro to Data Visualization
-    html: Intro to Data Visualization
-  description:
-    text: |-
-      Participants will gain hands-on exposure to the fundamentals of data visualization, and create their own data viz using a dataset from the NYC Open Data portal.
-      Together we’ll explore CARTO and Google Sheets, free tools for creating charts, graphs and maps. We’ll discuss best practices for information visualization, how to critically evaluate the charts and graphs you see in news stories, and how to enable patrons to use these resources and build data visualization skills.
-      Participants will:
-
-      explore user interfaces for creating data visualizations in CARTO and Google Sheets
-      download a dataset from NYC Open Data
-      create meaningful visualizations 
-
-      Pizza, salad, and beverages will be provided at this workshop.
-      About our instructor:
-      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
-    html: |-
-      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will gain hands-on exposure to the fundamentals of data visualization, and create their own data viz using a dataset from the NYC Open Data portal.</P>
-      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Together we’ll explore CARTO and Google Sheets, free tools for creating charts, graphs and maps. We’ll discuss best practices for information visualization, how to critically evaluate the charts and graphs you see in news stories, and how to enable patrons to use these resources and build data visualization skills.</P>
-      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will:</P>
-      <UL>
-      <LI>explore user interfaces for creating data visualizations in CARTO and Google Sheets</LI>
-      <LI>download a dataset from NYC Open Data</LI>
-      <LI>create meaningful visualizations </LI>
-      </UL>
-      <P>Pizza, salad, and beverages will be provided at this workshop.</P>
-      <P><STRONG>About our instructor:</STRONG></P>
-      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
-  id: '34860329183'
-  url: https://www.eventbrite.com/e/intro-to-data-visualization-tickets-34860329183?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-07-18T18:00:00'
-    utc: '2017-07-18T22:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2017-07-18T21:00:00'
-    utc: '2017-07-19T01:00:00Z'
-  created: '2017-05-24T17:09:51Z'
-  changed: '2017-07-14T17:47:28Z'
-  capacity: 28
-  capacity_is_custom: true
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 900
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  is_free: false
-  version: 3.0.0
-  logo_id: '31735742'
-  organizer_id: '8929654067'
-  venue_id: '19746348'
-  category_id: 
-  subcategory_id: 
-  format_id: '9'
-  resource_uri: https://www.eventbriteapi.com/v3/events/34860329183/
-  logo:
-    crop_mask:
-      top_left:
-        x: 0
-        y: 41
-      width: 3012
-      height: 1506
-    original:
-      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31735742%2F160412581493%2F1%2Foriginal.jpg?s=add8dbb43a4f8874c6025282c10aad9d
-      width: 3013
-      height: 1589
-    id: '31735742'
-    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31735742%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=817c9ec6e723594a20d9058e56361100
-    aspect_ratio: '2'
-    edge_color: "#9c9c9c"
-    edge_color_set: true
 - time: 1500496200000
   link: https://www.meetup.com/racial-and-social-justice-in-the-library/events/240973378/
   description:
@@ -118,97 +36,6 @@
     local: '2017-07-27 10:00:00 -0400'
   url: https://www.meetup.com/UX-in-Libraries/events/241202319/
 - name:
-    text: " Introduction to GitHub for Librarians and Archivists "
-    html: " Introduction to GitHub for Librarians and Archivists "
-  description:
-    text: "This workshop will serve as an introduction to GitHub, the graphical user
-      interface of Git, a distributed revision control system. We'll provide examples
-      of GitHub usage in the library and archives field, including open-source software
-      development, workflow documentation, and online reference guides. An in-depth
-      introduction to the functionality and usage of GitHub in both the browser and
-      desktop application will be provided.\nAfter attending this workshop, you will:
-      \n\nknow what GitHub is, how it is used in the library and archives world, and
-      be able to use it in your own work\nbe able to define and identify key functionalities
-      of GitHub\nbe able to create your own repositories, branches, and commit changes
-      through pull requests using both the desktop application and within the browser\nhave
-      list of resources and examples of GitHub in order to further your learning\n\nPrior
-      experience using GitHub is not necessary for this training. Please join us if
-      you are interested in using this technology for collaboration and managing digital
-      workflows.\nAbout our instructors:\nDinah Handel is currently the Mass Digitization
-      Coordinator at the New York Public Library. She previously worked for CUNY TV
-      and the Barnard College Archives and Special Collections, and is a member of
-      XFR Collective. She holds an MLIS from Pratt Institute.\nEthan Gates is a graduate
-      of NYU's M.A. program in Moving Image Archiving and Preservation and is now
-      the program's resident Technician. He previously worked at the Amherst College
-      Center for Russian Culture, and is also currently a member of XFR Collective."
-    html: |-
-      <P>This workshop will serve as an introduction to GitHub, the graphical user interface of Git, a distributed revision control system. We'll provide examples of GitHub usage in the library and archives field, including open-source software development, workflow documentation, and online reference guides. An in-depth introduction to the functionality and usage of GitHub in both the browser and desktop application will be provided.</P>
-      <P>After attending this workshop, you will: <BR></P>
-      <UL>
-      <LI>know what GitHub is, how it is used in the library and archives world, and be able to use it in your own work</LI>
-      <LI>be able to define and identify key functionalities of GitHub</LI>
-      <LI>be able to create your own repositories, branches, and commit changes through pull requests using both the desktop application and within the browser</LI>
-      <LI>have list of resources and examples of GitHub in order to further your learning</LI>
-      </UL>
-      <P>Prior experience using GitHub is not necessary for this training. Please join us if you are interested in using this technology for collaboration and managing digital workflows.</P>
-      <P><BR><STRONG>About our instructors:</STRONG></P>
-      <P>Dinah Handel is currently the Mass Digitization Coordinator at the New York Public Library. She previously worked for CUNY TV and the Barnard College Archives and Special Collections, and is a member of XFR Collective. She holds an MLIS from Pratt Institute.</P>
-      <P>Ethan Gates is a graduate of NYU's M.A. program in Moving Image Archiving and Preservation and is now the program's resident Technician. He previously worked at the Amherst College Center for Russian Culture, and is also currently a member of XFR Collective.</P>
-  id: '35093995084'
-  url: https://www.eventbrite.com/e/introduction-to-github-for-librarians-and-archivists-tickets-35093995084?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-08-02T14:00:00'
-    utc: '2017-08-02T18:00:00Z'
-  end:
-    timezone: America/New_York
-    local: '2017-08-02T17:00:00'
-    utc: '2017-08-02T21:00:00Z'
-  created: '2017-06-02T21:01:18Z'
-  changed: '2017-07-10T15:28:22Z'
-  capacity: 28
-  capacity_is_custom: true
-  status: live
-  currency: USD
-  listed: true
-  shareable: true
-  online_event: false
-  tx_time_limit: 900
-  hide_start_date: false
-  hide_end_date: false
-  locale: en_US
-  is_locked: false
-  privacy_setting: unlocked
-  is_series: false
-  is_series_parent: false
-  is_reserved_seating: false
-  source: create_2.0
-  is_free: false
-  version: 3.0.0
-  logo_id: '32135680'
-  organizer_id: '8929654067'
-  venue_id: '19862861'
-  category_id: 
-  subcategory_id: 
-  format_id: 
-  resource_uri: https://www.eventbriteapi.com/v3/events/35093995084/
-  logo:
-    crop_mask:
-      top_left:
-        x: 0
-        y: 41
-      width: 3012
-      height: 1506
-    original:
-      url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32135680%2F160412581493%2F1%2Foriginal.jpg?s=26c4d8bb65753890aaf82516dc6b0fe8
-      width: 3013
-      height: 1589
-    id: '32135680'
-    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32135680%2F160412581493%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C41%2C3012%2C1506&s=cbff79eee91c8bcfb166f60bd9469e13
-    aspect_ratio: '2'
-    edge_color: "#9c9c9c"
-    edge_color_set: true
-- name:
     text: Reporting Systems Are Dead (Long Live Reporting)
     html: Reporting Systems Are Dead (Long Live Reporting)
   description:
@@ -239,8 +66,8 @@
     local: '2017-08-14T17:00:00'
     utc: '2017-08-14T21:00:00Z'
   created: '2017-07-07T20:04:37Z'
-  changed: '2017-07-11T19:30:21Z'
-  capacity: 40
+  changed: '2017-07-14T22:03:50Z'
+  capacity: 28
   capacity_is_custom: true
   status: live
   currency: USD
@@ -329,8 +156,8 @@
     local: '2017-08-28T17:00:00'
     utc: '2017-08-28T21:00:00Z'
   created: '2017-07-07T20:29:49Z'
-  changed: '2017-07-14T19:50:39Z'
-  capacity: 40
+  changed: '2017-07-14T22:04:26Z'
+  capacity: 28
   capacity_is_custom: true
   status: live
   currency: USD
