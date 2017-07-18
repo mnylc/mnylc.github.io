@@ -156,7 +156,7 @@
     local: '2017-08-28T17:00:00'
     utc: '2017-08-28T21:00:00Z'
   created: '2017-07-07T20:29:49Z'
-  changed: '2017-07-17T14:04:03Z'
+  changed: '2017-07-18T15:05:30Z'
   capacity: 28
   capacity_is_custom: true
   status: live
