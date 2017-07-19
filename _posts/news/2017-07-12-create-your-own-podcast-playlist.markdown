@@ -14,7 +14,7 @@ A couple you should check out:
 Hosted by a group of five librarians (who are also friends) who podcast about books that they read from a randomly selected genre every month. They did a [live  episode](http://bookclub4m.tumblr.com/post/162870952657/time-for-a-special-bonus-episode-which-apparently) from the ALA annual conference in Chicago
 
 ## The Book Squad
-Produced out of Lawrence Public Library. The hosts just released a []“bonus length” episode](https://soundcloud.com/user-254416180/ep-06-parable-of-the-sower-vs-1984-i-am-not-your-negro-and-more-bonus-edition). They engage in a fun toe-to-toe discussion in “she Said/she Said” about Parable of the Sower by Octavia Butler PLUS a discussion of the new documentary, I Am Not Your Negro.
+Produced out of Lawrence Public Library. The hosts just released a [“bonus length” episode](https://soundcloud.com/user-254416180/ep-06-parable-of-the-sower-vs-1984-i-am-not-your-negro-and-more-bonus-edition). They engage in a fun toe-to-toe discussion in “she Said/she Said” about Parable of the Sower by Octavia Butler PLUS a discussion of the new documentary, I Am Not Your Negro.
 
 ## The Secret Stacks
 A podcast all about comics and libraries hosted by Kristin LaLonde and Thomas Maluck. The hosts recently posted [an episode](http://www.secretstacks.com/episode-31-get-out-of-your-silo/) called “Get Out of Your Silo” in which they discuss  library conferences they have attended, as well as Thomas’ Wonder Woman movie experience.
