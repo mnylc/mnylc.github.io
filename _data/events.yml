@@ -1,25 +1,4 @@
 ---
-- time: 1500496200000
-  link: https://www.meetup.com/racial-and-social-justice-in-the-library/events/240973378/
-  description:
-    html: '<p>Hello Everyone,</p> <p>I am excited to announce our first Racial and
-      Social Justice Meet and Greet on July 19th. This will be an informal meeting
-      to introduce ourselves and share our ideas for the group, as well as listen
-      to your feedback.</p> <p>See you there!</p> <p>Hola a todos!</p> <p>Esta nota
-      es para anunciar nuestro primer encuentro de Justicia Racial y Social en la
-      biblioteca Meetup este Julio 19 de 4:30 a 6:30 de la tarde. Este primer encuentro
-      será informal a fines de introducir las co-organizadoras del grupo, sus ideas
-      y al mismo tiempo conversar y escuchar opiniones e ideas de nuestros miembros.</p>
-      <p>Los esperamos!</p> <p>When/Cuando: Wednesday, July 19th, 4:30 to 6:30</p>
-      <p>Where/Donde: METRO, 599 11th Avenue (between 44th &amp; 45th Streets), 8th
-      floor ( directions ( <a href="http://metro.org/location/" class="linkified">http://metro.org/location/</a>
-      ))</p> '
-  name:
-    html: Racial and Social justice meet and greet!
-  start:
-    utc: '2017-07-19 16:30:00 -0400'
-    local: '2017-07-19 16:30:00 -0400'
-  url: https://www.meetup.com/racial-and-social-justice-in-the-library/events/240973378/
 - time: 1501164000000
   link: https://www.meetup.com/UX-in-Libraries/events/241202319/
   description:
@@ -68,7 +47,7 @@
     local: '2017-08-14T17:00:00'
     utc: '2017-08-14T21:00:00Z'
   created: '2017-07-07T20:04:37Z'
-  changed: '2017-07-14T22:03:50Z'
+  changed: '2017-07-19T22:27:30Z'
   capacity: 28
   capacity_is_custom: true
   status: live
