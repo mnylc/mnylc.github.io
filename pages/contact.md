@@ -4,7 +4,7 @@ permalink: /contact/
 ---
 
 **email**  
-info@metro.org  
+[info@metro.org](mailto:metro.org)  
 
 **phone**  
 212-228-2320  
