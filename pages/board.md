@@ -186,5 +186,6 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 
 **February 10, 2012**
 
+* [Agenda]({{ "/assets/board/02.10.2012BoardAgenda.pdf" | prepend: site.baseurl }})
 * [Minutes]({{ "/assets/board/BoardMinutes_Final_20120210.pdf" | prepend: site.baseurl }})
 
