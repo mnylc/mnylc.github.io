@@ -186,24 +186,3 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 
 * [Minutes]({{ "/assets/board/BoardMinutes_Final_20120210.pdf" | prepend: site.baseurl }})
 
-**November 10, 2011**
-
-* [Agenda]({{ "/assets/board/11.10.2011_Agenda.pdf" | prepend: site.baseurl }})
-* [Minutes]({{ "/assets/board/11.10.2011___Board_Minutes.doc.pdf" | prepend: site.baseurl }})
-
-**September 8, 2011**
-
-* [Agenda]({{ "/assets/board/09.08.11_Agenda.pdf" | prepend: site.baseurl }})
-* [Minutes]({{ "/assets/board/BoardMinutes_Final_090811.pdf" | prepend: site.baseurl }})
-
-**May 12, 2011**
-
-* [Agenda]({{ "/assets/board/05-12-2011_Agenda_uAPvn7L.pdf" | prepend: site.baseurl }})
-
-**March 15, 2011**
-
-* [Minutes]({{ "/assets/board/03.15.2011_Minutes_dkDKmQI.pdf" | prepend: site.baseurl }})
-
-**September 20, 2010**
-
-* [Minutes]({{ "/assets/board/09.20.2010_Minutes_7Hhg3Pb.pdf" | prepend: site.baseurl }})
