@@ -29,10 +29,10 @@ Senior Vice President
 Queens Public Library  
 2017-2022  
 
-**Stephen Bury**
-Andrew W. Mellon Chief Librarian
-Frick Art Reference Library
-2017-2022 
+**Stephen Bury**  
+Andrew W. Mellon Chief Librarian  
+Frick Art Reference Library   
+2017-2022
 
 **LaRuth Gray**  
 Director of External Relations and Information Management  
