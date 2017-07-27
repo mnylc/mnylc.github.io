@@ -25,6 +25,7 @@ Memorial Sloan-Kettering Cancer Center
 
 **Nick Buron**
 Chief Librarian
+
 Senior Vice President
 Queens Public Library
 2017-2022
@@ -204,4 +205,3 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 
 * [Agenda]({{ "/assets/board/02.10.2012BoardAgenda.pdf" | prepend: site.baseurl }})
 * [Minutes]({{ "/assets/board/BoardMinutes_Final_20120210.pdf" | prepend: site.baseurl }})
-
