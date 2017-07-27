@@ -24,10 +24,13 @@ Memorial Sloan-Kettering Cancer Center
 2007-2017
 
 **Nick Buron**
+
 Chief Librarian
 
 Senior Vice President
+
 Queens Public Library
+
 2017-2022
 
 **Stephen Bury**
