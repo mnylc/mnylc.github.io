@@ -23,10 +23,11 @@ Vice President of Information Systems & Chief Information Officer
 Memorial Sloan-Kettering Cancer Center  
 2007-2017
 
-**Patricia C. Skarulis, Secretary**  
-Vice President of Information Systems & Chief Information Officer  
-Memorial Sloan-Kettering Cancer Center  
-2007-2017
+**Nick Buron**  
+Chief Librarian  
+Senior Vice President
+Queens Public Library  
+2017-2022
 
 **Patricia C. Skarulis, Secretary**  
 Vice President of Information Systems & Chief Information Officer  
