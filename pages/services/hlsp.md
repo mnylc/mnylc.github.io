@@ -11,7 +11,7 @@ METRO services to hospital and medical center libraries include:
 - An annual conference session focused on current issues related to health and medical library issues
 - Free or discounted access to databases 
 
-For more information about our HLSP program, please contact Susan Klimley, HLSP Program Manager at [sklimley@metro.org](mailto:sklimley@metro.org).
+For more information about our HLSP program, please contact us at [info@metro.org](mailto:info@metro.org).
 
 ## Grant Opportunities
 METRO distributes funds from the New York State Library to support acquisitions, technology upgrades and interlibrary loan services for hospital libraries.
@@ -85,4 +85,4 @@ Next application cycle opens Spring 2018.
 - Yeshiva University/Albert Einstein College of Medicine, D. Samuel Gottesman Library
 
 ## Contact Information
-Our Hospital Library Service Program is managed by Susan Klimley. For information on joining HLSP or for questions related to any of our grant programs, please contact susan at [sklimley@metro.org](mailto:sklimley@metro.org) or by phone at (212) 228-2320.
+For information on joining HLSP or for questions related to any of our grant programs, please contact us at [info@metro.org](mailto:info@metro.org) or by phone at (212) 228-2320.
