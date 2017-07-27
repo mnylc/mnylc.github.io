@@ -170,7 +170,6 @@ Queens College, CUNY
 Queens Hospital Center  
 Queensborough Community College, CUNY  
 Relay Graduate School of Education  
-Renee and Chaim Gross Foundation   
 Rockefeller Archive Center  
 Rockefeller University  
 Russell Sage Foundation  
@@ -227,4 +226,3 @@ Wyckoff Heights Medical Center
 Yeshiva University   
 YIVO Institute for Jewish Research  
 York College, CUNY  
-
