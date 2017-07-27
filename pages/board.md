@@ -23,14 +23,14 @@ Vice President of Information Systems & Chief Information Officer
 Memorial Sloan-Kettering Cancer Center  
 2007-2017
 
-**Nick Buron**  
-Chief Librarian  
-Senior Vice President 
-Queens Public Library 
+**Nick Buron**
+Chief Librarian
+Senior Vice President
+Queens Public Library
 2017-2022
 
-**Stephen Bury**  
-Andrew W. Mellon Chief Librarian  
+**Stephen Bury**
+Andrew W. Mellon Chief Librarian
 Frick Art Reference Library
 2017-2022 
 
