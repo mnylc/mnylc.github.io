@@ -83,6 +83,8 @@ Metropolitan New York Library Council (METRO)
 
 ## 2017 Board Meeting Dates
 
+* Monday, February 27, 2017
+* Thursday, April 27, 2017
 * Friday, July 28, 2017 (virtual)
 * Thursday, September 7, 2017
 * Monday, November 6, 2017
