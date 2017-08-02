@@ -41,7 +41,8 @@
         {% if navUrl == page.url %}
         {% assign current = true %}
         {% endif %}
-        {% if nav.title %}
+        {% if nav.title == 'Home' and page.url =='/'%}
+	{% else %}
         <li class="{% if current == true %} active {% endif %}">
           <a class="page-scroll" href="{{ nav.url | prepend: site.baseurl }}">{{ nav.title }}</a>
           {% endif %}
