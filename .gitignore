@@ -12,3 +12,4 @@ client_secret.json
 /tools/addajob.csv
 /tools/.event_tokens.sh
 /_tools/addajob.csv
+_data/events.yml
