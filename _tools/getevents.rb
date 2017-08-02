@@ -27,14 +27,17 @@ resp = Net::HTTP.get(uri)
 j = JSON.parse(resp)
 
 l = []
-wanted_keys = [ 'start', 'description', 'name', 'url' ]
-j['events'].each do | ev |
-  h = ev.select { | key, _ | wanted_keys.include? key }
+wanted_keys = %w[start description name url]
+j['events'].each do |ev|
+  h = ev.select { |key, _| wanted_keys.include? key }
   l.push(h)
 end
 
 # do the same for meetup.
-meetup_uri_str = 'https://api.meetup.com/self/events?photo-host=public&page=20&status=upcoming&only=name,description,link,time&key=' + meetup_token
+meetup_uri_str = 'https://api.meetup.com/self/events'
+meetup_uri_str += '?photo-host=public&page=20'
+meetup_uri_str += '&status=upcoming&only=name,description,link,time&key='
+meetup_uri_str += meetup_token
 uri = URI(meetup_uri_str)
 
 resp = Net::HTTP.get(uri)
@@ -54,7 +57,7 @@ k.each do |ev|
   ev_name = ev['name']
   ev['name'] = {}
   ev['name']['html'] = ev_name
-  ev['url'] =ev['link']
+  ev['url'] = ev['link']
   l.push(ev)
 end
 
