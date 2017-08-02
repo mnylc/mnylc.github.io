@@ -34,19 +34,19 @@
             <li><a href="{{ item.suburl | prepend: site.baseurl }}">{{ item.title }}</a></li>
             {% endfor %}
             </ul>
-            </li>
             {% else %}
         {% assign current = false %}
         {% assign navUrl = nav.url | append: '/' %}
         {% if navUrl == page.url %}
         {% assign current = true %}
         {% endif %}
-        {% if nav.title == 'Home' and page.url =='/'%}
+          {% if nav.title == 'Home' and page.url =='/'%}
+	  <li></li>
 	{% else %}
         <li class="{% if current == true %} active {% endif %}">
           <a class="page-scroll" href="{{ nav.url | prepend: site.baseurl }}">{{ nav.title }}</a>
-          {% endif %}
         </li>
+          {% endif %}
         {% endif %}
         {% endfor %}
       </ul>
