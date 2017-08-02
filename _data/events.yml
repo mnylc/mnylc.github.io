@@ -33,7 +33,6 @@
     html: A Linked Data Workflow with OpenRefine
   description:
     text: |-
-      A Linked Data Workflow with OpenRefine
       OpenRefine is a popular data wrangling tool among librarians and archivists. This workshop will cover the basics of data-cleaning and how to create interoperable linked data with OpenRefine.
       Topics covered include:
 
@@ -42,15 +41,14 @@
       Using OpenRefine for name entity reconciliation, for example to VIAF, Wikidata, and Library of Congress identifiers;
       Discussion of metadata enrichment with linked open data.
 
-      This workshop is designed to serve all levels of practitioners interested in adding linked data to their records or creating linked data. Participants will have an opportunity to complete a common reconciliation workflow, starting with the export of data from a MySQL database, cleaning the data, and finally reconciling data and importing the results.
+      This workshop is designed to serve all levels of practitioners interested in adding linked data to their records or creating linked data. Participants will have an opportunity to complete a common reconciliation workflow, starting with an export of data from a MySQL database, cleaning the data, and finally reconciling data and importing the results.
       Laptops will be required for this class. Please bring your own, or sign up to borrow one of METRO's when you RSVP for this workshop.
       About our instructors
       Alexandra Provo is the Digital Production Editor for the Enhanced Networked Monographs project at NYU. She was the 2015-2016 Kress Fellow in Art Librarianship at Yale University and has been the project manager for two linked open data projects: Drawings of the Florentine Painters and the Linked Jazz Project. From 2012-2013, shewas a photograph cataloger at Harvard University’s Villa I Tatti. She holds an MSLIS from Pratt Institute and a BA in art history from Wesleyan University.
       Carlos Acevedo is the Digital Asset Manager at The Jewish Museum. He has performed metadata enrichment using linked open data as a contributor to the Drawings of the Florentine Painters project as well as in his previous role as a Metadata Specialist Consultant for Artsy.net. He holds an MSLIS from the Pratt Institute with an Advanced Certificate in User Experience.
       Karen Hwang is the Digital Projects and Metadata Librarian at METRO. Her research as a member of Linked Jazz and as a 2016-2017 METRO Fellow focuses on cultural heritage and DH applications for Semantic Web technologies. Past affiliations as a data specialist and archivist include artasiamerica.org at the Asian American Arts Centre, Interference Archive, and the Laboratory for Experimental and Applied Phycology at Brooklyn College.
     html: |-
-      <P><SPAN>A Linked Data Workflow with OpenRefine</SPAN></P>
-      <P><SPAN>OpenRefine is a popular data wrangling tool among librarians and archivists. This workshop will cover the basics of data-cleaning and how to create interoperable linked data with OpenRefine.</SPAN></P>
+      <P>OpenRefine is a popular data wrangling tool among librarians and archivists. This workshop will cover the basics of data-cleaning and how to create interoperable linked data with OpenRefine.</P>
       <P>Topics covered include:</P>
       <UL>
       <LI>Introduction to linked data;</LI>
@@ -58,7 +56,7 @@
       <LI>Using OpenRefine for name entity reconciliation, for example to VIAF, Wikidata, and Library of Congress identifiers;</LI>
       <LI>Discussion of metadata enrichment with linked open data.</LI>
       </UL>
-      <P><SPAN>This workshop is designed to serve all levels of practitioners interested in adding linked data to their records or creating linked data. Participants will have an opportunity to complete a common reconciliation workflow, starting with the export of data from a MySQL database, cleaning the data, and finally reconciling data and importing the results.</SPAN></P>
+      <P><SPAN>This workshop is designed to serve all levels of practitioners interested in adding linked data to their records or creating linked data. Participants will have an opportunity to complete a common reconciliation workflow, starting with an export of data from a MySQL database, cleaning the data, and finally reconciling data and importing the results.</SPAN></P>
       <P>Laptops will be required for this class. Please bring your own, or sign up to borrow one of METRO's when you RSVP for this workshop.</P>
       <P><STRONG>About our instructors</STRONG></P>
       <P>Alexandra Provo is the Digital Production Editor for the Enhanced Networked Monographs project at NYU. She was the 2015-2016 Kress Fellow in Art Librarianship at Yale University and has been the project manager for two linked open data projects: Drawings of the Florentine Painters and the Linked Jazz Project. From 2012-2013, she<BR>was a photograph cataloger at Harvard University’s Villa I Tatti. She holds an MSLIS from Pratt Institute and a BA in art history from Wesleyan University.</P>
