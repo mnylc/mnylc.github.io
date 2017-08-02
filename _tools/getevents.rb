@@ -26,6 +26,13 @@ resp = Net::HTTP.get(uri)
 
 j = JSON.parse(resp)
 
+l = []
+wanted_keys = [ 'start', 'description', 'name', 'url' ]
+j['events'].each do | ev |
+  h = ev.select { | key, _ | wanted_keys.include? key }
+  l.push(h)
+end
+
 # do the same for meetup.
 meetup_uri_str = 'https://api.meetup.com/self/events?photo-host=public&page=20&status=upcoming&only=name,description,link,time&key=' + meetup_token
 uri = URI(meetup_uri_str)
@@ -48,12 +55,12 @@ k.each do |ev|
   ev['name'] = {}
   ev['name']['html'] = ev_name
   ev['url'] =ev['link']
-  j['events'].push(ev)
+  l.push(ev)
 end
 
 # YAMLize
-j['events'].sort_by! { |h| h['start']['utc'] }
-y = j['events'].to_yaml
+l.sort_by! { |h| h['start']['utc'] }
+y = l.to_yaml
 
 # write to file and done.
 eventfile.puts y
