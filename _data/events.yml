@@ -70,28 +70,28 @@
 - time: 1504211400000
   link: https://www.meetup.com/racial-and-social-justice-in-the-library/events/242253619/
   description:
-    html: '<p>Hello everyone, it was great to see to some of you at our July Meetup!
+    html: '<p>Hello everyone, it was great to see some of you at our July Meetup!
        We had such a productive meeting and I am glad to say that we are ready to
       move forward with a concrete action towards racial justice in libraries and
       archives:</p> <p>• Creating a toolkit to hire and retain POC in libraries and
-      archives</p> <p>     •Outreach</p> <p>     •Resources for hiring managers</p>
+      archives.</p> <p>     •Outreach</p> <p>     •Resources for hiring managers</p>
       <p>     • Skills for combating deafness to racism in libraries</p> <p>As a first
       step to tackling this big project, you’re invited to join a discussion about
       hiring and retention in our profession, centered around recent events in Evanston
       Public Library. Check out these resources and come ready to share, listen, and
-      learn:</p> <p><br/>Rice, T. ( 207, March 08) Dajae Coleman Foundation.  <b>Evanston
+      learn:</p> <p>• Rice, T. ( 207, March 08) Dajae Coleman Foundation.  <b>Evanston
       Library Deserves New Leadership.</b>  <a href="https://www.facebook.com/DC3F1/posts/660403997497016?pnref=story"><a
       href="https://www.facebook.com/DC3F1/posts/660403997497016?pnref=story" class="linkified">https://www.facebook.com/DC3F1/posts/660403997497016?pnref=story</a></a></p>
-      <p><br/>Wilson, J.K. (2017, June 06). <b>Censorship at the Evanston Public Library.</b>
+      <p>• Wilson, J.K. (2017, June 06). <b>Censorship at the Evanston Public Library.</b>
       <a href="https://academeblog.org/2017/06/05/censorship-at-the-evanston-public-library/"><a
       href="https://academeblog.org/2017/06/05/censorship-at-the-evanston-public-library/"
       class="linkified">https://academeblog.org/2017/06/05/censorship-at-the-evanston-public-library/</a></a></p>
-      <p><br/>Jarrett, M. D. (2017, June 26). <b>I am leaving the Archival Profession:
+      <p>• Jarrett, M. D. (2017, June 26). <b>I am leaving the Archival Profession:
       It''s Better this Way.</b><a href="https://medium.com/on-archivy/im-leaving-the-archival-profession-it-s-better-this-way-ed631c6d72fe"><a
       href="https://medium.com/on-archivy/im-leaving-the-archival-profession-it-s-better-this-way-ed631c6d72fe"
       class="linkified">https://medium.com/on-archivy/im-leaving-the-archival-profession-it-s-better-this-way-ed631c6d72fe</a></a></p>
-      <p><br/>Know someone who should be part of this initiative?  Invite them to
-      join the Meetup!</p> <p><br/>Hope to see you there!</p> '
+      <p>Know someone who should be part of this initiative?  Invite them to join
+      the Meetup!</p> <p><br/>Hope to see you there!</p> '
   name:
     html: Racial and Social Justice Meetup
   start:
@@ -272,6 +272,60 @@
     timezone: America/New_York
     local: '2017-09-26T18:00:00'
     utc: '2017-09-26T22:00:00Z'
+- name:
+    text: 'Sound Advice: Practices for Producing & Managing Audio Content'
+    html: 'Sound Advice: Practices for Producing &amp; Managing Audio Content'
+  description:
+    text: |
+      Sound Advice: Affordable, Responsible Practices for Producing and Managing Audio Content
+      This workshop will cover the ways in which oral historians, podcasters, and recorders of public presentations can best prepare their materials for archival ingest.
+      Brett Dion, our workshop instructor, will recommend best practices for applying budget-minded audio technology during recording, post-production, and storage. He will discuss interview environments, microphone placement, audio basics and troubleshooting, file formats, recording gear, metadata, alternatives to outsourcing transcription, and working with the Oral History Metadata Synchronizer.
+      Participants will learn:
+
+
+      how to prepare for an audio recording, including best practices, good practices and best-to-avoid practices
+
+
+      recommended approaches to preserving master recordings, plus editing and compressing derivative copies
+
+
+      indexing the recording content as an alternative to transcription
+
+
+      the basics of the Oral History Metadata Synchronizer
+
+
+      Laptops are required for this course.
+      About our instructor
+      In October 2015, Brooklyn Historical Society hired Brett Dion as Oral History Project Archivist. With funding for the project from the National Historical Publications and Records Commission (NHPRC), Brett was responsible for processing and describing the Voices of Generations: Investigating Brooklyn’s Cultural Identity oral history collections and managing a processing team of three interns. Prior to BHS, Brett worked as a Registrar and Archives Technician for the New York Transit Museum where he maintained records for collections and processed, cataloged and digitized photographs, maps, artifacts, film and video, and other materials for the museum’s collection management system and exhibitions. Brett has twelve years of digitization experience, including magnetic tape, and holds a BA in Communications from Hofstra University and a Masters of Science with Archives Certification from Pratt Institute’s School of Information & Library Science, where he graduated with distinction.
+    html: |-
+      <P><STRONG>Sound Advice: Affordable, Responsible Practices for Producing and Managing Audio Content</STRONG></P>
+      <P>This workshop will cover the ways in which oral historians, podcasters, and recorders of public presentations can best prepare their materials for archival ingest.</P>
+      <P><SPAN>Brett Dion, our workshop instructor, will recommend best practices for applying budget-minded audio technology during recording, post-production, and storage. He will discuss interview environments, microphone placement, audio basics and troubleshooting, file formats, recording gear, metadata, alternatives to outsourcing transcription, and working with the Oral History Metadata Synchronizer.</SPAN></P>
+      <P><SPAN>Participants will learn:</SPAN><SPAN><BR CLASS="kix-line-break"></SPAN></P>
+      <UL>
+      <LI>
+      <P><SPAN>how to prepare for an audio recording, including best practices, good practices and best-to-avoid practices</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>recommended approaches to preserving master recordings, plus editing and compressing derivative copies</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>indexing the recording content as an alternative to transcription</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>the basics of the Oral History Metadata Synchronizer</SPAN></P>
+      </LI>
+      </UL>
+      <P>Laptops are required for this course.</P>
+      <P><STRONG>About our instructor</STRONG></P>
+      <P><SPAN>In October 2015, Brooklyn Historical Society hired Brett Dion as Oral History Project Archivist. With funding for the project from the National Historical Publications and Records Commission (NHPRC), Brett was responsible for processing and describing the Voices of Generations: Investigating Brooklyn’s Cultural Identity oral history collections and managing a processing team of three interns. Prior to BHS, Brett worked as a Registrar and Archives Technician for the New York Transit Museum where he maintained records for collections and processed, cataloged and digitized photographs, maps, artifacts, film and video, and other materials for the museum’s collection management system and exhibitions. Brett has twelve years of digitization experience, including magnetic tape, and holds a BA in Communications from Hofstra University and a Masters of Science with Archives Certification from Pratt Institute’s School of Information &amp; Library Science, where he graduated with distinction.</SPAN></P>
+      <P><SPAN><BR></SPAN></P>
+  url: https://www.eventbrite.com/e/sound-advice-practices-for-producing-managing-audio-content-tickets-36761679172?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-10-04T16:00:00'
+    utc: '2017-10-04T20:00:00Z'
 - name:
     text: 'Navigating Gender in the Library: Strategies for Communication'
     html: 'Navigating Gender in the Library: Strategies for Communication'
