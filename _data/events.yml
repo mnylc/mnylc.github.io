@@ -332,7 +332,7 @@
   description:
     text: |-
       Navigating Gender in the Library: Strategies for Communication & Empathy
-      Join us in this interactive workshop as we practice communication skills to promote gender equity and empathy in your workplace. We will engage in a series of team-building exercises and discussions focused on sharing experiences, building confidence, and deconstructing the systems that perpetuate inequities in our field. The exercises will consist of one-on-one and group conversations, games, and scenario-testing improvisation. 
+      Join us in this interactive workshop as we practice communication skills to promote gender equity and empathy in your workplace. We will engage in a series of team-building exercises and discussions focused on sharing experiences, building confidence, and deconstructing the systems that perpetuate inequities in our field. 
       At the end of the workshop, participants will have the tools to:
 
       Recognize structures of gender inequity in the workplace
@@ -345,7 +345,7 @@
       Peter Rossetti is a life design strategist and graphic designer who helps people uncover their vision and goals. Peter is focused on creating opportunities for experiential learning and facilitates workshops on how design and creativity can improve lives. He is the President of AIGA Brand Central, a professional design organization that serves the branding community in the NYC Metro area.
     html: |-
       <P><STRONG>Navigating Gender in the Library: Strategies for Communication &amp; Empathy</STRONG></P>
-      <P>Join us in this interactive workshop as we practice communication skills to promote gender equity and empathy in your workplace. We will engage in a series of team-building exercises and discussions focused on sharing experiences, building confidence, and deconstructing the systems that perpetuate inequities in our field. The exercises will consist of one-on-one and group conversations, games, and scenario-testing improvisation. </P>
+      <P>Join us in this interactive workshop as we practice communication skills to promote gender equity and empathy in your workplace. We will engage in a series of team-building exercises and discussions focused on sharing experiences, building confidence, and deconstructing the systems that perpetuate inequities in our field. </P>
       <P CLASS="MsoNormal"><SPAN>At the end of the workshop, participants will have the tools to:</SPAN></P>
       <UL>
       <LI><SPAN>Recognize structures of gender inequity in the workplace</SPAN></LI>
@@ -361,6 +361,53 @@
     timezone: America/New_York
     local: '2017-10-23T14:00:00'
     utc: '2017-10-23T18:00:00Z'
+- name:
+    text: 'Project Management: First Principles'
+    html: 'Project Management: First Principles'
+  description:
+    text: |2-
+
+      Project Management. 
+
+      Those words can carry an intimidating aura of official methodologies and tools you’re ‘supposed’ to use, words like Agile, Kanban, Jira, gantt charts. However, successful project management is often simpler than these terms would imply. It all boils down to good communication and information management - practices librarians are especially skilled at. 
+
+
+      In this workshop, we’ll peel back the jargon around project management to get back to these first principles of communication and information management, and how they are expressed in good project management artifacts, routines, and tools. We’ll also work through case study exercises together.
+
+      By understanding what is fundementally important to project management, you’ll be able to adapt your style and assess the right tools for different situations as the context demands, because projects and project management approaches aren’t one-size fits all.
+
+      After this session, participants will:
+
+      Have an understanding that project management requires good communication and information management
+      Know how to assess the right tools for their project
+      Know how to produce good written artifacts like meeting notes, project charters, and plans + practice good habits
+
+      About our instructor:
+      Ara Kim has spent her career pursuing interests in linguistics, culture, technology, and organizational behavior and has held a number of leadership positions at the intersection of these subjects. She is a co-founder of Related Works, a sustainable business building well-designed tools for cultural institutions to manage their digital materials, and consults on operational process at places like Data and Society and The Public Laboratory for Open Technology and Science. Previously, she held various product and project management positions at NYPL Labs, Google, and Etsy.
+    html: |-
+      <DIV>
+      <DIV>Project Management. </DIV>
+      <DIV><SPAN><BR></SPAN></DIV>
+      <DIV><SPAN>Those words can carry an intimidating aura of official methodologies and tools you’re ‘supposed’ to use, words like Agile, Kanban, Jira, gantt charts. However, successful project management is often simpler than these terms would imply. It all boils down to good communication and information management - practices librarians are especially skilled at. </SPAN></DIV>
+      </DIV>
+      <DIV><SPAN><BR></SPAN></DIV>
+      <DIV><SPAN>In this workshop, we’ll peel back the jargon around project management to get back to these first principles of communication and information management, and how they are expressed in good project management artifacts, routines, and tools. We’ll also work through case study exercises together.</SPAN></DIV>
+      <DIV><SPAN><BR></SPAN></DIV>
+      <DIV><SPAN>By understanding what is fundementally important to project management, you’ll be able to adapt your style and assess the right tools for different situations as the context demands, because projects and project management approaches aren’t one-size fits all.</SPAN><BR></DIV>
+      <DIV><SPAN><BR></SPAN></DIV>
+      <P><SPAN>After this session, participants will:</SPAN></P>
+      <UL>
+      <LI>Have an understanding that project management requires good communication and information management</LI>
+      <LI>Know how to assess the right tools for their project</LI>
+      <LI>Know how to produce good written artifacts like meeting notes, project charters, and plans + practice good habits</LI>
+      </UL>
+      <P>About our instructor:</P>
+      <P><SPAN>Ara Kim</SPAN><SPAN> </SPAN><SPAN>has spent her career pursuing interests in linguistics, culture, technology, and organizational behavior and has held a number of leadership positions at the intersection of these subjects. She is a co-founder of Related Works, a sustainable business building well-designed tools for cultural institutions to manage their digital materials, and consults on operational process at places like Data and Society and The Public Laboratory for Open Technology and Science. Previously, she held various product and project management positions at NYPL Labs, Google, and Etsy.</SPAN></P>
+  url: https://www.eventbrite.com/e/project-management-first-principles-tickets-36832495987?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-11-02T10:00:00'
+    utc: '2017-11-02T14:00:00Z'
 - name:
     text: The Universal Elements of Good Design
     html: The Universal Elements of Good Design
