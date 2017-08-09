@@ -10,7 +10,7 @@ American Jewish Joint Distribution Committee
 American Museum of Natural History  
 Andrew W. Mellon Foundation  
 Argento New Music Project  
-ARLIS NA New York<!---
+ARLIS NA New York <!---
 Art Resources Transfer
 -->ASA Institute  
 Asian American Arts Centre (AAAC)  
