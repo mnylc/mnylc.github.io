@@ -10,10 +10,10 @@ American Jewish Joint Distribution Committee
 American Museum of Natural History  
 Andrew W. Mellon Foundation  
 Argento New Music Project  
-ARLIS NA New York
-<!---
+ARLIS NA New York<!---
 Art Resources Transfer
--->ASA Institute  
+-->  
+ASA Institute  
 Asian American Arts Centre (AAAC)  
 Bank Street College of Education  
 Bard Graduate Center: Decorative Arts, Design History, Material Culture  
