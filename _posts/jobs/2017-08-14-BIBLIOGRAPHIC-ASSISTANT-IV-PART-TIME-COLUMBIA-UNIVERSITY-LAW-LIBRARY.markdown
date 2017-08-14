@@ -4,7 +4,7 @@ title:  "Bibliographic Assistant IV (Part-Time) - Columbia University Law Librar
 date:   2017-08-14
 excerpt: "The Diamond Law Library at Columbia University seeks a part-time Bibliographic Assistant IV. Primarily responsible for all aspects of binding preparation and processing for serials, monographs and fragile items in need of preservation. Additional responsibility for preparing materials for off-site storage. 
 
-Schedule: Monday-Friday, 9AM-2PM   "
+Schedule: Monday-Thursday, 9AM-2PM   "
 tag: job
 ---
 
@@ -12,7 +12,7 @@ tag: job
 
 The Diamond Law Library at Columbia University seeks a part-time Bibliographic Assistant IV. Primarily responsible for all aspects of binding preparation and processing for serials, monographs and fragile items in need of preservation. Additional responsibility for preparing materials for off-site storage. 
 
-Schedule: Monday-Friday, 9AM-2PM   
+Schedule: Monday-Thursday, 9AM-2PM   
 
 
 ### Responsibilities###
@@ -52,7 +52,7 @@ New York, NY 10027 USA
 
 ### To Apply###
 
-[https://jobs.columbia.edu/applicants/Central?quickFind=164158](https://jobs.columbia.edu/applicants/Central?quickFind=164158)
+[https://jobs.columbia.edu/applicants/Central?quickFind=164175](https://jobs.columbia.edu/applicants/Central?quickFind=164175)
 
 
 
