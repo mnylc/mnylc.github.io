@@ -1,34 +1,5 @@
 ---
 - name:
-    text: Reporting Systems Are Dead (Long Live Reporting)
-    html: Reporting Systems Are Dead (Long Live Reporting)
-  description:
-    text: |-
-      Project managers at all levels have to generate reports on the outcomes of funded projects. But how often do these reports - often weighed down by formatting requirements and usually filed away by funders never to see the light of day - really highlight the most significant outcomes of our projects? And how often are we able to share and meaningfully discuss our hard earned lessons with peers and colleagues?
-      In this workshop, we will discuss outputs currently requested by funders, and review the ways in which these outputs match the outcomes of the project. We'll discuss how we can work to build more meaning into our grant reports, how we might make them reusable, attractive portfolios of our work, and how we might learn from colleagues creating similar reports.
-      Our facilitators will introduce participants to Global Grand Central, a social platform that "makes reporting fun, constructive, inspiring, long-term, connected, and social." The platform began in Europe and has reached the conclusion of a two-year design process driven by community practitioners. Now, the platform is expanding to a global audience and its developers are eager to hear from METRO members about gaps we perceive in the ways we’re now able to share methods and outcomes from our work with colleagues, funders, and the people we serve.By the end of this workshop, participants will be able to:
-
-      Establish their own (free) hub profiles on Global Grand Central
-      Create more engaging reports, built for public and professional audiences
-      Share their feedback on the platform
-
-      Participants are welcome to bring their own device or to borrow one of METRO's laptops.About our facilitators:Natalie Milbrodt leads Queens Library’s Metadata Services division. She is also a contributor to Global Grand Central. In 2010, Milbrodt developed the Queens Memory program to collect images and stories from residents for the library’s digital archives. Milbrodt graduated in 2000 from Michigan State University with a BA in Interdisciplinary Humanities and a Specialization in Film Studies. Before joining the library profession, she worked for film production, design and marketing firms in both creative and management roles.Marcus Haraldsson is the coordinator of Global Grand Central. His research interest explores open digital solutions, new organization models, and pooling of resources – seeking to socialize evaluation routines to improve practice, research, and policy for inclusion. In 2011- 2012 Haraldsson was a Fulbright scholar in Political Journalism at Columbia University in New York City, he has a Masters degree in Peace and Conflict Research from Uppsala University (2003) and has worked as a journalist in more than 20 countries.
-    html: |-
-      <P>Project managers at all levels have to generate reports on the outcomes of funded projects. But how often do these reports - often weighed down by formatting requirements and usually filed away by funders never to see the light of day - really highlight the most significant outcomes of our projects? And how often are we able to share and meaningfully discuss our hard earned lessons with peers and colleagues?</P>
-      <P>In this workshop, we will discuss outputs currently requested by funders, and review the ways in which these outputs match the outcomes of the project. We'll discuss how we can work to build more meaning into our grant reports, how we might make them reusable, attractive portfolios of our work, and how we might learn from colleagues creating similar reports.</P>
-      <P>Our facilitators will introduce participants to Global Grand Central, a social platform that "makes reporting fun, constructive, inspiring, long-term, connected, and social." The platform began in Europe and has reached the conclusion of a two-year design process driven by community practitioners. Now, the platform is expanding to a global audience and its developers are eager to hear from METRO members about gaps we perceive in the ways we’re now able to share methods and outcomes from our work with colleagues, funders, and the people we serve.<BR><BR>By the end of this workshop, participants will be able to:<BR></P>
-      <UL>
-      <LI>Establish their own (free) hub profiles on Global Grand Central</LI>
-      <LI>Create more engaging reports, built for public and professional audiences</LI>
-      <LI>Share their feedback on the platform</LI>
-      </UL>
-      <P><BR>Participants are welcome to bring their own device or to borrow one of METRO's laptops.<BR><BR><STRONG>About our facilitators:</STRONG><BR>Natalie Milbrodt leads Queens Library’s Metadata Services division. She is also a contributor to Global Grand Central. In 2010, Milbrodt developed the Queens Memory program to collect images and stories from residents for the library’s digital archives. Milbrodt graduated in 2000 from Michigan State University with a BA in Interdisciplinary Humanities and a Specialization in Film Studies. Before joining the library profession, she worked for film production, design and marketing firms in both creative and management roles.<BR><BR><SPAN>Marcus Haraldsson is the coordinator of Global Grand Central. His research interest explores open digital solutions, new organization models, and pooling of resources – seeking to socialize evaluation routines to improve practice, research, and policy for inclusion. In 2011- 2012 Haraldsson was a Fulbright scholar in Political Journalism at Columbia University in New York City, he has a Masters degree in Peace and Conflict Research from Uppsala University (2003) and has worked as a journalist in more than 20 countries.</SPAN><BR></P>
-  url: https://www.eventbrite.com/e/reporting-systems-are-dead-long-live-reporting-tickets-36012524430?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-08-14T14:00:00'
-    utc: '2017-08-14T18:00:00Z'
-- name:
     text: A Linked Data Workflow with OpenRefine
     html: A Linked Data Workflow with OpenRefine
   description:
