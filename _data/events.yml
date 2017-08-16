@@ -211,6 +211,26 @@
     local: '2017-09-22T14:00:00'
     utc: '2017-09-22T18:00:00Z'
 - name:
+    text: METRO Hospital Library Services Program (HLSP) Meeting
+    html: METRO Hospital Library Services Program (HLSP) Meeting
+  description:
+    text: This has been a big year of change and transition for METRO. Given our recent
+      move and other program shifts, we are excited to convene our first meeting of HLSP members
+      and stakeholders in our new space at 599 11th Ave., 8th Floor. Please join us
+      to discuss and give feedback on METRO's current HLSP program offerings and future
+      directions! 
+    html: <P><SPAN>This has been a big year of change and transition for METRO. Given
+      our recent move and other program shifts, we are excited to convene our</SPAN><SPAN> first </SPAN><SPAN
+      CLASS="m_-4557129265386823340gmail-il">meeting</SPAN><SPAN> of </SPAN><SPAN
+      CLASS="m_-4557129265386823340gmail-il">HLSP</SPAN><SPAN> members and stakeholders
+      in our new space at 599 11th Ave., 8th Floor. Please join us to discuss and
+      give feedback on METRO's current HLSP program offerings and future directions! </SPAN></P>
+  url: https://www.eventbrite.com/e/metro-hospital-library-services-program-hlsp-meeting-tickets-37074299227?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-09-25T10:00:00'
+    utc: '2017-09-25T14:00:00Z'
+- name:
     text: Intro to Data Analysis with Python
     html: Intro to Data Analysis with Python
   description:
