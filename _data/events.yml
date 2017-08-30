@@ -30,6 +30,24 @@
     utc: '2017-08-31 16:30:00 -0400'
     local: '2017-08-31 16:30:00 -0400'
   url: https://www.meetup.com/racial-and-social-justice-in-the-library/events/242253619/
+- time: 1505149200000
+  link: https://www.meetup.com/metro-web-archiving/events/242648576/
+  description:
+    html: '<p>The program will feature Karl Rainer-Blumenthal of Archive-It presenting
+      on technical aspects of web archiving capture tools with a focus on approaches
+      to difficult-to-capture Web content. The latter half of the meeting will focus
+      on discussion among attendees about their approaches to capturing this content.
+      Cases studies of successes and failures are welcome in this part of the meeting.<br/>We
+      hope many of you are able to attend; if interested, please RSVP by September
+      6 via Meetup or by using the below linked form, as the METRO space reserved
+      for the event can accommodate a limited number of attendees.</p> <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfGSaz8vchG6HFK48VLPfgOCHD5t4tOZLwJ9Hb4mxH488mgTg/viewform"
+      class="linkified">https://docs.google.com/forms/d/e/1FAIpQLSfGSaz8vchG6HFK48VLPfgOCHD5t4tOZLwJ9Hb4mxH488mgTg/viewform</a></p> '
+  name:
+    html: Joint Meeting of New York City & Mid-Atlantic Archive-It partner groups.
+  start:
+    utc: '2017-09-11 13:00:00 -0400'
+    local: '2017-09-11 13:00:00 -0400'
+  url: https://www.meetup.com/metro-web-archiving/events/242648576/
 - name:
     text: Intro to Data Analysis with R
     html: Intro to Data Analysis with R
