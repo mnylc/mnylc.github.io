@@ -225,6 +225,31 @@
     local: '2017-09-26T18:00:00'
     utc: '2017-09-26T22:00:00Z'
 - name:
+    text: METRO Studio Open House
+    html: METRO Studio Open House
+  description:
+    text: |-
+      Join us for the first METRO Studio Open House Thursday, where we'll play, hang out, watch, and listen together.This month, we'll have a podcast listening party! We have three short libraries-in-NYC-related podcasts lined up that we can listen to and discuss together.The schedule will be as follows:
+
+      5:30 - 6:00: arrive and mingle
+      6:00 - 7:00: podcast listening party / experiment with equipment
+      7:00 - 7:30: mingle and wrap up
+
+      Light refreshments will be served. We hope to see you there!
+    html: |-
+      <P><SPAN>Join us for the first METRO Studio Open House Thursday, wh</SPAN><SPAN>ere we'll play, hang out, watch, and listen together.</SPAN><BR><BR><SPAN>This month, we'll have a podcast listening party! We have three short libraries-in-NYC-related podcasts lined up that we can listen to and discuss together.</SPAN><BR><BR><SPAN>The schedule will be as follows:</SPAN></P>
+      <UL>
+      <LI><SPAN CLASS="aQJ">5:30 - 6:00:</SPAN> arrive and mingle</LI>
+      <LI><SPAN CLASS="aQJ">6:00 - 7:00:</SPAN><SPAN> podcast listening party / experiment with equipment</SPAN></LI>
+      <LI><SPAN CLASS="aQJ">7:00 - 7:30:</SPAN> mingle and wrap up</LI>
+      </UL>
+      <P>Light refreshments will be served. We hope to see you there!</P>
+  url: https://www.eventbrite.com/e/metro-studio-open-house-tickets-37453984877?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-09-28T17:30:00'
+    utc: '2017-09-28T21:30:00Z'
+- name:
     text: 'Sound Advice: Practices for Producing & Managing Audio Content'
     html: 'Sound Advice: Practices for Producing &amp; Managing Audio Content'
   description:
