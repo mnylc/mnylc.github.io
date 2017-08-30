@@ -164,13 +164,14 @@ Plaza College
 Polytechnic Institute of NYU  
 Population Council  
 Pratt Institute Brooklyn  
-Pratt Institute in Manhattan  
+Pratt Institute Manhattan  
 Putnam Northern Westchester BOCES SLS  
 Queens Borough Public Library  
 Queens College, CUNY  
 Queens Hospital Center  
 Queensborough Community College, CUNY  
-Relay Graduate School of Education  
+Relay Graduate School of Education
+Richmond University Medical Center
 Rockefeller Archive Center  
 Rockefeller University  
 Russell Sage Foundation  
