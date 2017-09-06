@@ -5,6 +5,8 @@ permalink: /join/
 
 For nearly 50 years, METRO’s state-of-the-art training, services, and networking opportunities have helped our diverse members in New York City and Westchester County stay at the forefront of the latest innovations in the library and archival services fields. We welcome your membership and look forward to working with you!
 
+To become a METRO member, please complete this <a href="https://www.google.com/url?q=https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScdl5-ktEFGNhXXEn4bAF54Blbu8wraOFRshnR42LSWpjwAMQ/viewform&sa=D&ust=1487006619450000&usg=AFQjCNFapEQ3uj1NJ24wWw9pPylQBsq2_Q" target="_blank">form.</a>
+
 Please see our [list of current members.]({{ '/members' | prepend: site.baseurl }}) A copy of this list in PDF format is available [here.]({{ '/assets/docs/Spring_2016_Member_Directory_and_Delivery_Roster.pdf' | prepend: site.baseurl }}) Note: if your institution is listed here, you are considered a member of METRO.
 
 <hr />
@@ -50,9 +52,6 @@ This membership category is open to any businesses that do not qualify as non-pr
 ## Membership Fees
 
 In accordance with Article II Section 9 of the Metro Bylaws “Dues for each category of membership shall be set by majority vote of the members based on recommendations of the Board of Trustees.” Until further action by the Board, the following annual dues schedule will be in effect. All dues assume non-profit status of member. For-profit membership rates are available upon request.
-
-To become a METRO member, please complete this <a href="https://www.google.com/url?q=https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScdl5-ktEFGNhXXEn4bAF54Blbu8wraOFRshnR42LSWpjwAMQ/viewform&sa=D&ust=1487006619450000&usg=AFQjCNFapEQ3uj1NJ24wWw9pPylQBsq2_Q" target="_blank">form.</a>
-
 
 |  Annual operating expenditures of membership units (salaries, materials and other expenses)  |  Annual Dues                |
 |  ------------------------------------------  |  ----------------------  |
