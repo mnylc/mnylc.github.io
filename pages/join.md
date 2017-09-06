@@ -33,7 +33,7 @@ This membership category is open to any businesses that do not qualify as non-pr
 
 ## Benefits
 
-|   | Member  | Hospital Member | Non-Profit Member | Corporate Member  |
+| Benefit | Member  | Hospital Member | Non-Profit Member | Corporate Member  |
 | ------- | ------- | ------- | ------- | ------- |
 | Event discounts | Y | Y | Y | Y |
 | Rental discounts | Y | Y | Y | Y |
@@ -47,6 +47,7 @@ This membership category is open to any businesses that do not qualify as non-pr
 | Medical Information Services and Technology Grants |  | Y* |  |  |
 | HLSP technology grants |  | Y* |  |  |
 | HLSP collection development grants |  | Y* |  |  |
+
 *other restrictions may apply
 
 ## Membership Fees
