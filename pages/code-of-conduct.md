@@ -13,7 +13,7 @@ At METRO, we strive to:
 
 To this end, we ask that all participants in METRO's online and offline resources adhere to the following expectations:
 
-Treat METRO staff, event attendees, and speakers with respect.
+Treat METRO staff, speakers, and participants with respect.
 
 * Participation in discussions and activities should be respectful at all times. Please refrain from making inappropriate comments, asking excessive and/or unrelated questions, and sharing confidential information. Exercise tolerance of the perspectives and opinions of all present.
 * Professional Development is made possible by our speakers and instructors. Please be respectful of their time, energy, and personal space while at METRO. Make every effort to arrive on time for instruction. In the Training Center, be sure to silence all cell phones, tablets, and other potentially distracting devices, and use discretion in your use of social media.
