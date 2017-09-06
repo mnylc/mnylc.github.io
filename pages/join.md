@@ -31,23 +31,21 @@ This membership category is open to any businesses that do not qualify as non-pr
 
 ## Benefits
 
-* Studio Access
-* Digital Services
-* Grants
-* Resource Sharing
-* Vendor Discounts
-* Professional Development
-* Access to lynda.com
-* Special Interest Groups
-* Meeting Spaces
-* Fellowship Program
-* Discussion Lists
-* Coordinated Collection Development Aid for College and University Libraries
-* Collection Development Grants, Technology Grants, and Medical Information Services Program Grants for Hospital Library members
-
 |   | Member  | Hospital Member | Non-Profit Member | Corporate Member  |
 | ------- | ------- | ------- | ------- | ------- |
 | Event discounts | Y | Y | Y | Y |
+| Rental discounts | Y | Y | Y | Y |
+| Meetup Groups | Y | Y | Y | Y |
+| lynda.com | Y | Y | Y | Y |
+| Open Studio Hours | Y | Y | Y | Y |
+| Audio Booth rental discount | Y | Y | Y | Y |
+| Digitization Grants | Y | Y | Y* |  |
+| Delivery | Y |  |  |  |
+| Coordinated Collection Developemnt Aid for College and University Libraries | Y* |  |  |  |
+| Medical Information Services and Technology Grants |  | Y* |  |  |
+| HLSP technology grants |  | Y* |  |  |
+| HLSP collection development grants |  | Y* |  |  |
+*other restrictions may apply
 
 ## Membership Fees
 
