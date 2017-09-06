@@ -170,8 +170,8 @@ Queens Borough Public Library
 Queens College, CUNY  
 Queens Hospital Center  
 Queensborough Community College, CUNY  
-Relay Graduate School of Education
-Richmond University Medical Center
+Relay Graduate School of Education  
+Richmond University Medical Center  
 Rockefeller Archive Center  
 Rockefeller University  
 Russell Sage Foundation  
