@@ -2,7 +2,7 @@
 layout: post
 title:  "Digital Project Archivist - SUNY Maritime College"
 date:   2017-08-15
-excerpt: "The Stephen B. Luce Library of Maritime College seeks to hire a digital project archivist to oversee the digitization process in conjunction with a National Parks Service Maritime Heritage grant, "Telling the Stories of Sailors' Snug Harbor." The two year grant will allow the library to digitize at least 4,000..."
+excerpt: "The Stephen B. Luce Library of Maritime College seeks to hire a digital project archivist to oversee the digitization process in conjunction with a National Parks Service Maritime Heritage grant, \"Telling the Stories of Sailors' Snug Harbor.\" The two year grant will allow the library to digitize at least 4,000..."
 tag: job
 ---
 
