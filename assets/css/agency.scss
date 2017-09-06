@@ -258,7 +258,7 @@ fieldset[disabled] .btn-xl.active {
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
-        background-color: rgba(0, 0, 0, 0.8);
+        background-color: #000;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -306,13 +306,15 @@ header {
 }
 
 header .intro-text {
-    margin-bottom: 50px;
+    margin-top: 50px;
     margin-right: 10%;
     margin-left: 10%;
     color: #000;
 }
 
 header .intro-text .intro-lead-in {
+    background-color: rgba(255,255,255,.7);
+    padding: 20px;
     margin-bottom: 25px;
      font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
@@ -330,7 +332,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 20px;
+        padding-top: 180px;
         padding-bottom: 15px;
     }
 
@@ -530,6 +532,13 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: $primary-color;
+}
+
+.newsletter{
+    text-align:center;
+    padding:20px;
+    width:100%;
+    background-color:#000;
 }
 
 /*
