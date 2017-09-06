@@ -25,7 +25,7 @@ The METRO Hospital Library Services Program (HLSP) supports the work of hospital
 
 ### Non-Profit Members
 
-Associate Membership is open to any non-profit organization regardless of their geographic location or their official status as a library. Because METRO receives funding from New York State’s Office of Cultural Education to support specific programs, Associate Members are not eligible for some of the programs and services that Members are.
+Non-Profit Membership is open to any non-profit organization regardless of their geographic location or their official status as a library. Because METRO receives funding from New York State’s Office of Cultural Education to support specific programs, Associate Members are not eligible for some of the programs and services that Members are.
 
 ### Corporate Members
 
