@@ -43,6 +43,7 @@ CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
   # get a reasonable excerpt from the description.
   template = Liquid::Template::parse("{{ desc | strip_html | xml_escape | truncatewords: 50 }}")
   excerpt = template.render({ 'desc' => description })
+  excerpt.gsub!('"', '\\"')
 
   markdoc = <<HERE
 ---
