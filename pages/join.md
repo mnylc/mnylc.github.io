@@ -17,7 +17,7 @@ Please see our [list of current members.]({{ '/members' | prepend: site.baseurl 
 
 To qualify as Members organizations must be located in New York City or Westchester County. 
 
-In addition, eligibility for Membership requires that an organization operates a library.  For purposes of membership in METRO, a library is defined as an entity that provides reference and research services and has a separate and independent budget. Libraries include, but are not limited to, archives, public libraries, public elementary school or secondary school libraries, academic libraries, museum libraries, research libraries, and private libraries, provided they are eligible to be considered libraries. METRO does not certify or evaluate individual libraries except against our own membership criteria.
+In addition, eligibility for Membership requires that an organization operates a library.  For purposes of membership in METRO, a library is defined as an entity that provides reference and research services and has a separate and independent budget. Libraries include, but are not limited to, archives, public libraries, public elementary school or secondary school libraries, academic libraries, museum libraries, research libraries, and private libraries. METRO does not certify or evaluate individual libraries except against our own membership criteria.
 
 ### Hospital Members
 
