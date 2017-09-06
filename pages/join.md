@@ -45,6 +45,9 @@ This membership category is open to any businesses that do not qualify as non-pr
 * Coordinated Collection Development Aid for College and University Libraries
 * Collection Development Grants, Technology Grants, and Medical Information Services Program Grants for Hospital Library members
 
+|   | Member  | Hospital Member | Non-Profit Member | Corporate Member  |
+| ------- | ------- | ------- | ------- | ------- |
+| Event discounts | Y | Y | Y | Y |
 
 ## Membership Fees
 
