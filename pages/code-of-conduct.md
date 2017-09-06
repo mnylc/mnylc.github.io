@@ -6,16 +6,17 @@ permalink: /code-of-conduct/
 At METRO, we strive to:
 
 * Offer an organized calendar of diverse and relevant training and networking events to our membership community
+* Provide online venues on which our members can share their events, resources, and ideas
 * Support a free and open exchange of ideas within a safe and respectful learning environment
-* Inform attendees and instructors of all available METRO resources
-Ensure that event expectations are met, to what extent possible
+* Inform online and offline participants and instructors of all available METRO resources
+* Ensure that program expectations are met, to what extent possible
 
-To this end, we ask that all visitors to METRO adhere to the following expectations:
+To this end, we ask that all participants in METRO's online and offline resources adhere to the following expectations:
 
 Treat METRO staff, event attendees, and speakers with respect.
 
-* Participation in discussions and activities should be respectful at all times.Please refrain from making inappropriate comments, asking excessive and/or unrelated questions, and sharing confidential information. Exercise tolerance of the perspectives and opinions of all present.
-* Professional Development is made possible by our speakers and instructors.Please be respectful of their time, energy, and personal space while at METRO. Make every effort to arrive on time for instruction. In the Training Center, be sure to silence all cell phones, tablets, and other potentially distracting devices, and use discretion in your use of social media.
+* Participation in discussions and activities should be respectful at all times. Please refrain from making inappropriate comments, asking excessive and/or unrelated questions, and sharing confidential information. Exercise tolerance of the perspectives and opinions of all present.
+* Professional Development is made possible by our speakers and instructors. Please be respectful of their time, energy, and personal space while at METRO. Make every effort to arrive on time for instruction. In the Training Center, be sure to silence all cell phones, tablets, and other potentially distracting devices, and use discretion in your use of social media.
 * Workshops and events at METRO take place within a working office environment. Please be considerate and take any phone calls lasting more than 2 minutes down to the lobby. If you’d like to see a METRO staff member while you are here, please make an appointment ahead of time or let our front desk staff check on his or her availability.
 * METRO has a zero-tolerance policy for all verbal, physical, and sexual harassment. Anyone who is asked to stop a hostile or harassing behavior is expected to comply immediately.
 
