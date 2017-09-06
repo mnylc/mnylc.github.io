@@ -10,6 +10,8 @@ Our office can be reached at (212) 228-2320 or at [info@metro.org.](mailto:info@
 ## Nate Hill
 **Executive Director**
 
+nhill@metro.org
+
 Nate grew up in upstate New York and began his career in libraries at Brooklyn Public Library’s Stone Avenue Branch. After almost ten years of service and several different roles within Brooklyn Public Library, he relocated to Silicon Valley to retrain and re-tool as a web designer and developer for the San Jose Public Library. Before joining METRO in June 2015, Nate served as Deputy Director of the Chattanooga Public Library, where he led the 4th Floor project, a 12,000 square foot library loft space featuring a public access makerspace, civic laboratory, and gigabit laboratory.
 
 Nate was named a "Mover and Shaker" by Library Journal in 2012. He earned his undergraduate degree in art from Skidmore College and an MLIS from Pratt Institute’s School of Information and Library Science. When he’s not busy library-ing, Nate enjoys hiking, camping, art, design, and tinkering alongside his wife and kids.
@@ -17,12 +19,16 @@ Nate was named a "Mover and Shaker" by Library Journal in 2012. He earned his un
 ## Davis Erin Anderson
 **Community Engagement Manager**
 
+deanderson@metro.org
+
 As Community Engagement Manager, Davis works to extend METRO's presence into the digital realm. She keeps METRO's friends, followers, and connections up to date on issues relevant to METRO by posting to social media channels and by writing and editing content for metro.org. She also works directly with METRO's Special Interest Groups, ensuring that METRO members have a forum for issues of importance to their careers.
 
 A graduate of Pratt Institute's School of Information and Library Science, Davis also holds two degrees in music performance. Prior to joining METRO, she worked for five years in the library at Boosey & Hawkes, a premiere classical music publishing company. An active member of SLA, Davis is a recipient of SLA’s Rising Star Award and is honored to have been included in Library Journal’s Movers & Shakers Class of 2012.
 
 ## Kyle Brown
 **General Manager**
+
+kbrown@metro.org
 
 Kyle manages METRO’s member programs and services. In addition, he manages METRO's office facility, assisting the Executive Director in ensuring the METRO office is run effectively and efficiently.
 
@@ -33,12 +39,16 @@ Kyle received a B.A. in communication, with a focus on radio and TV, from Willia
 ## Laura Forshay
 **Strategic Evaluation and Data Impact Manager**
 
+lforshay@metro.org
+
 Laura works closely with METRO leadership and program managers to identify, collect, and analyze relevant performance data in support of program evaluation and improvement.
 
 Laura joined METRO in February 2010 after receiving her B.A. in History from Tufts University. She also holds a Master of Public Administration degree in Non-profit Management from New York University's Robert F. Wagner Graduate School of Public Service.
 
 ## Karen Li-Lun Hwang
 **Digital Projects & Metadata Librarian**
+
+khwang@metro.org
 
 Karen facilitates the harvesting and ingestion of metadata records from libraries, archives and cultural heritage institutions throughout New York State for contribution to the Digital Public Library of America (DPLA). She also assists member institutions with hosted collections on METRO’s digital collections site Digital Culture of Metropolitan New York (DCMNY).
 
@@ -53,12 +63,16 @@ UCLA. She is a hiker, a coder, a new mother, and a practitioner of tai-chi.
 ## Anne Karle-Zenith
 **Associate Director of Business Development**
 
+annekz@metro.org
+
 As a member of METRO’s Administrative team, Anne serves as liaison between METRO members, METRO leadership and relevant METRO staff to define, develop, evaluate and sustain services and grant funding opportunities for METRO members. Previously, Anne served for 5 years as METRO’s Digital Services Manager, managing METRO’s digitization grant program, digital collection hosting service, and digital imaging services.
 
 Before joining METRO in 2012, Anne worked for six years at the University of Michigan Library, where she managed a project to build a copyright review management system for works in the HathiTrust Digital Library, and as project coordinator for the UM/Google Books partnership to digitize the Library’s collections. She also worked for two years as a Metadata & Cataloging Librarian at Michigan State University Libraries. She graduated twice from the University of Michigan, with an undergrad degree in Business Administration, and a MSI degree from the School of Information, with a Specialization in Library Services. Before becoming a librarian she worked in the music industry, licensing music as well as other copyrighted works for use in advertising, film, television and other media.
 
 ## John Mignault
 **Software Developer**
+
+jmignault@metro.org
 
 John is the Technology Specialist for the Empire State Digital Network (ESDN), a statewide service hub for the Digital Public Library of America (DPLA).
 
@@ -69,12 +83,16 @@ John worked in corporate development for a number of years for such companies as
 ## Shelly Mohammed
 **Controller**
 
+smohammed@metro.org
+
 Shelly facilitates the accounting, finance, and human resources functions at METRO. She manages membership dues and workshop fees as well.
 
 Prior to joining METRO, for the past six years, Shelly was an Audit Senior who specialized in non-profit organizations at O’Connor Davies, LLP, a mid-sized accounting and consulting firm based in the New York tri-state area. Shelly obtained a B.S in Accounting from St. Francis College.
 
 ## Diego Pino Navarro
 **Software Developer**
+
+dpino@metro.org
 
 Diego is a pet and human-friendly systems architect and open source software developer from Chile. He enjoys working on Linked Data and Web Semantics, exploring ways of describing and preserving human knowledge, helping others to implement open source digital repository solutions and solving interdisciplinary problems via computer science.
 
@@ -85,6 +103,8 @@ Diego is an active Fedora 4 contributor, Islandora and CLAW Committer and recent
 ## Margo Padilla
 **Manager of Archival Solutions**
 
+mpadilla@metro.org
+
 Margo manages METRO's strategic initiatives, including program development, emerging technologies and member services, and other special events and projects to support METRO’s strategic goals.
 
 Before joining METRO in 2014, she was a resident in the inaugural cohort of the National Digital Stewardship Residency program, working at the University of Maryland Libraries and Maryland Institute for Technology in the Humanities on access policies, reference procedures, and research support for born-digital collections. Prior to that, she worked for seven years at The Bancroft Library at the University of California, Berkeley on digital projects and initiatives.
@@ -93,12 +113,16 @@ Margo received her MLIS with a concentration in Management, Digitization, and Pr
 ## Mark Parson
 **Delivery Services Coordinator/Administrative Support Assistant**
 
+mparson@metro.org
+
 Mark Parson provides critical support for a wide range of activities at METRO. In addition to working with our delivery service team to ensure that our member institutions receive quality service from our METROCard program, he helps develop and maintain METRO e-mail lists, handles room set-up for METRO events, and administers the Coordinated Collection Development Aid (CCDA) program.
 
 Mark is one of our longest-serving staff members, having started at METRO in 2006.
 
 ## Molly Schwartz
 **Studio Manager, Imaging and Recording Specialist**
+
+mschwartz@metro.org
 
 Molly manages METRO's studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station. She is also the host and producer of METRO's podcast, [Library Bytegeist](https://soundcloud.com/librarybytegeist).
 
@@ -109,12 +133,16 @@ Molly holds an MLS with a specialization in Archives, Records and Information Ma
 ## Madjalia Seynou
 **Assistant Controller**
 
+mseynou@metro.org
+
 Madjalia assists the controller in facilitating accounting, finance, and human resources functions at METRO. She manages operational data, maintains data accuracy, and assists in special projects.
 
 Prior to joining METRO, Madjalia was an Assistant Controller at MOF Microcredit, a partnership company based in Burkina Faso. Madjalia obtained a B.S in Economics and Management from the University of Ouagadougou. She is currently pursuing an MS in Accounting at St. Johns University and preparing for the CPA Exam.
 
 ## Kerri Willette
 **Deputy Director**
+
+kwillette@metro.org
 
 Kerri partners closely with everyone on staff to grow and enhance METRO's organizational infrastructure. In addition to her administrative role at METRO, Kerri coordinates activities of the Empire State Digital Network (ESDN), a statewide service hub for the Digital Public Library of America (DPLA).
 
