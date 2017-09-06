@@ -202,9 +202,9 @@ SUNY Maritime College
 SUNY Westchester Community College  
 Swedish Institute  
 TCI College of Technology   
-Teachers College/ Columbia University 
-The Frick Collection 
-The Grolier Club of New York 
+Teachers College/ Columbia University   
+The Frick Collection   
+The Grolier Club of New York   
 The Morgan Library & Museum  
 The Winthrop Group, Inc.  
 Thirteen/WNET  
