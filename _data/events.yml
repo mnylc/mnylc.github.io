@@ -155,8 +155,8 @@
     local: '2017-09-13T10:00:00'
     utc: '2017-09-13T14:00:00Z'
 - name:
-    text: Labor Organizing for Information Workers
-    html: Labor Organizing for Information Workers
+    text: 'CANCELLED: Labor Organizing for Information Workers'
+    html: 'CANCELLED: Labor Organizing for Information Workers'
   description:
     text: |-
       In an era of unprecedented attacks on information workers, how can we mobilize to advocate for our own wages and working conditions? The facilitators will use their experience organizing during the faculty lockout at LIU Brooklyn in September 2016 to inform participatory activities that will help attendees understand the basics of union organizing in their own workplaces.The first half of the session will introduce the basics of getting to know your workplace. Union organizing relies on understanding who is in your unit, what their workplace needs and priorities are, and their level of engagement and commitment to union activity. Central to this process are lists of members that can be regularly updated and assessed as organizing and action proceeds. It is also critical to understand where members are in the organization so that connections between people can be made. Maps can be useful tools for this work. Attendees will leave with the beginnings of a list and map for further organizing.The second half of the session will focus on the organizing conversation. These are conversations where unit members come to understand shared concerns and begin to strategize for taking action. Attendees will gain hands on practice engaging the five steps of the organizing conversation.We expect attendees will leave the session with new tools to reinvigorate their engagement with workplace justice issues whether they are currently in a union or considering forming one.
@@ -168,7 +168,7 @@
       <P><STRONG>About our instructors:</STRONG></P>
       <P><SPAN>Eamon Tewell is Reference &amp; Instruction Librarian at Long Island University Brooklyn, where he is a proud member of the Long Island University Faculty Federation, Local 3998, NYSUT/AFT, AFL-CIO. He received his MLIS from Drexel University and his MA in Media Studies from LIU Brooklyn. Eamon has published and presented on the topics of critical information literacy, popular media in library instruction, and televisual representations of libraries.</SPAN></P>
       <P><SPAN CLASS="il">Emily</SPAN><SPAN> Drabinski is Associate Professor and Coordinator of Library Instruction at LIU Brooklyn. She is secretary of the Long Island University Faculty Federation. </SPAN><SPAN CLASS="il">Emily</SPAN><SPAN> sits on the board of Radical Teacher, a journal of socialist, feminist, and anti-racist teaching practice and edits Gender &amp; Sexuality in Information Studies, a book series from Library Juice Press/Litwin Books. </SPAN></P>
-  url: https://www.eventbrite.com/e/labor-organizing-for-information-workers-tickets-36013127233?aff=ebapi
+  url: https://www.eventbrite.com/e/cancelled-labor-organizing-for-information-workers-tickets-36013127233?aff=ebapi
   start:
     timezone: America/New_York
     local: '2017-09-22T14:00:00'
