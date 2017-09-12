@@ -81,7 +81,7 @@ All items must be appropriately wrapped and sealed in tearproof envelopes, sturd
 Contact us if you have any questions about shipping.
 
 ### Sending Items
-Check our [Delivery Roster]({{ "/assets/docs/Fall 2017 Directory.pdf" | prepend: site.baseurl }}) before shipping. This way you can verify that a receiving institution is a current participant in METRO’s Delivery Service.
+Check our [Delivery Roster]({{ "/assets/docs/Fall_2017_Directory.pdf" | prepend: site.baseurl }}) before shipping. This way you can verify that a receiving institution is a current participant in METRO’s Delivery Service.
 
 Attach only one shipping label per package. Labels must contain the following:
 
