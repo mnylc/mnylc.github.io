@@ -1,20 +1,5 @@
 ---
 - name:
-    text: " Introduction to METRO’s new Audiovisual Digitization Rack with XFR Collective"
-    html: " Introduction to METRO’s new Audiovisual Digitization Rack with XFR Collective"
-  description:
-    text: |-
-      Join members of the XFR Collective for an interactive introduction to METRO’s brand new A/V digitization station. Participants will be introduced to principles of audiovisual digitization - including format identification, best practices for preservation level digitization, and basic digitization workflows. Participants will also learn how to book an appointment to use METRO’s new rack.
-      This session will be hands-on and interactive; bring all your questions! All are welcome, regardless of experience level.
-    html: |-
-      <P>Join members of the XFR Collective for an interactive introduction to METRO’s brand new A/V digitization station. Participants will be introduced to principles of audiovisual digitization - including format identification, best practices for preservation level digitization, and basic digitization workflows. Participants will also learn how to book an appointment to use METRO’s new rack.</P>
-      <P>This session will be hands-on and interactive; bring all your questions! All are welcome, regardless of experience level.</P>
-  url: https://www.eventbrite.com/e/introduction-to-metros-new-audiovisual-digitization-rack-with-xfr-collective-tickets-37501326477?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-09-11T18:00:00'
-    utc: '2017-09-11T22:00:00Z'
-- name:
     text: Intro to Data Analysis with R
     html: Intro to Data Analysis with R
   description:
