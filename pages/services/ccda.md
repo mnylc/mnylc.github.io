@@ -3,7 +3,6 @@ title: Coordinated Collection Development Aid
 permalink: /services/ccda/
 ---
 New York State recognizes the contributions academic libraries make to state and regional resource sharing. The CCDA program provides annual grants to academic libraries at public and not-for-profit colleges, universities, and community colleges. Since 1981, academic libraries in the METRO region have received more than $8 million in coordinated collection development aid from this program.
-[METRO'S CCDA Plan] (http://archive.metro.org/metros-ccda-plan/)
  
 ## Who is Eligible?
 CCDA funding is available to academic libraries that are eligible to receive State aid and that meet certain other eligibility criteria. They must be a member of a reference and research library resources system, and must fully participate in interlibrary loan and other resource sharing programs.
