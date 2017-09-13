@@ -23,7 +23,7 @@ METRO’s CCDA Plan may be revised periodically to reflect changes in member ins
 
 METRO administers CCDA funds to approximately seventy-six academic libraries in its membership. Participating libraries collect materials in multiple formats in the following subject areas:
 
-| Institution | Format |
+| Institution | Subject Areas |
 |-------------|--------|
 | American Academy of Dramatic Arts | Dramatic Arts |  
 | Bank Street College of Education | Child Development, Child Psychology, Children's Literature, Education, Early Childhood Education, Elementary Education, Museum Education |
