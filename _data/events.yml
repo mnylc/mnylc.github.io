@@ -1,38 +1,5 @@
 ---
 - name:
-    text: Intro to Data Analysis with R
-    html: Intro to Data Analysis with R
-  description:
-    text: |-
-      Participants will build on critical data literacy skills by begining to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights. 
-      Participants will:
-
-      Download and install R and RStudio
-      Navigate the RStudio interface 
-      Explore a dataset from NYC Open Data. 
-
-      No previous programming experience required! 
-      Pizza, salad, and beverages will be provided at this workshop.
-      About our instructor:
-      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
-    html: |-
-      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will build on critical data literacy skills by begining to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights. <BR></P>
-      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will:</P>
-      <UL>
-      <LI>Download and install R and RStudio</LI>
-      <LI>Navigate the RStudio interface <BR></LI>
-      <LI>Explore a dataset from NYC Open Data. </LI>
-      </UL>
-      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal"><I>No previous programming experience required!</I><SPAN> </SPAN><BR></P>
-      <P>Pizza, salad, and beverages will be provided at this workshop.</P>
-      <P><STRONG>About our instructor:</STRONG></P>
-      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
-  url: https://www.eventbrite.com/e/intro-to-data-analysis-with-r-tickets-34860365291?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-09-12T18:00:00'
-    utc: '2017-09-12T22:00:00Z'
-- name:
     text: 'Bibliographic Data as Linked Open Data: The BIBFRAME initiative'
     html: 'Bibliographic Data as Linked Open Data: The BIBFRAME initiative'
   description:
