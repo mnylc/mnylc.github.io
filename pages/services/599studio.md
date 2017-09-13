@@ -110,7 +110,7 @@ The rack in METRO's studio has decks that can handle the following formats:
 * Compact Audio Cassette
 * ¼ inch Audiotape Reels
 
-You will need to determine which AV formats you have and make sure they do not display signs of mold or sticky-shed syndrome before you come in for an appointment. If you have any questions please email mschwartz@metro.org or xfrcollective@gmail.com. 
+You will need to determine which AV formats you have and make sure they do not display signs of mold or [sticky-shed syndrome](https://en.wikipedia.org/wiki/Sticky-shed_syndrome) before you come in for an appointment. If you have any questions please email mschwartz@metro.org or xfrcollective@gmail.com. 
 
 [Fill out this form to book a service.](https://airtable.com/shrEMIIX0VYaKTc5c)
 
