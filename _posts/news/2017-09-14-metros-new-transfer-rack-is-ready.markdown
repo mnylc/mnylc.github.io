@@ -19,4 +19,4 @@ The rack in METRO’s studio has decks that can handle the following formats:
 * Compact Audio Cassette
 * ¼ inch Audiotape Reels
 
-If you are interested in using the rack for any of your projects please fill out our inquiry form  and we will get back to you! Find this form and all of our workflow documentation on the Studio page of METRO's website under the "AV Media Transfer" section.
+If you are interested in using the rack for any of your projects please fill out our [inquiry form](https://airtable.com/shrEMIIX0VYaKTc5c)  and we will get back to you! Find this form and all of our [workflow documentation](https://docs.google.com/document/d/1MSyAroe0YGXvE-wIksrRFFOWxuu5Nk3ZnJatq11Is3o/edit) on the [Studio page]({{ '/services/599studio' | prepend: site.baseurl }}) of METRO's website under the "AV Media Transfer" section.
