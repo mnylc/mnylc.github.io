@@ -19,6 +19,18 @@
     timezone: America/New_York
     local: '2017-09-25T10:00:00'
     utc: '2017-09-25T14:00:00Z'
+- time: 1506634200000
+  link: https://www.meetup.com/NYC-Audio-Meetup/events/243500289/
+  description:
+    html: '<p>You can sign up for this open house at METRO in our event on Eventbrite:
+      <a href="https://www.eventbrite.com/e/metro-studio-open-house-tickets-37453984877"
+      class="linkified">https://www.eventbrite.com/e/metro-studio-open-house-tickets-37453984877</a></p> '
+  name:
+    html: Check out METRO's studio and listen to some library-related podcasts
+  start:
+    utc: '2017-09-28 17:30:00 -0400'
+    local: '2017-09-28 17:30:00 -0400'
+  url: https://www.meetup.com/NYC-Audio-Meetup/events/243500289/
 - name:
     text: METRO Studio Open House
     html: METRO Studio Open House
@@ -133,6 +145,99 @@
     timezone: America/New_York
     local: '2017-10-23T14:00:00'
     utc: '2017-10-23T18:00:00Z'
+- name:
+    text: Community Engagement 101
+    html: Community Engagement 101
+  description:
+    text: "Go beyond the survey and into meaningful dialogue! Join us in this interactive
+      workshop as we will learn multiple approaches and techniques to engage with
+      library patrons, and collaborate, listen and learn. Explore how community engagement
+      can improve library services, collections, and help libraries understand how
+      their work is really seen by the community.  \nIn this workshop, we’re going
+      to break up our time into two parts. First, we’ll focus on clarifying what community
+      engagement is from the lens of a library; walk through the preparation process
+      for these types of experiences, including setting goals, choosing the appropriate
+      framework, identifying stakeholders, planning and logistics. Then, we will introduce
+      the role of the facilitator, introducing opportunities to guide the conversation
+      and set expectations. Throughout the workshop, we will use a participatory model
+      to demonstrate tips and tricks for planning an engagement experience. \nAt the
+      end of the workshop, participants will have the tools to:\n\n\nset achievable
+      goals and objectives for the engagement  \n\n\nselect the most appropriate type
+      of experience for your desired outcomes\n\n\ndetermine best practices for planning
+      a successful experience with consideration for your context\n\n\nmanage expectations
+      while leading productive conversations\n\n\n------\nThis class is a series of
+      professional development trainings to empower METRO members to better engage
+      with their patrons, facilitate community conversations around timely or controversial
+      topics, and make more space in libraries for the productive exchange and evaluation
+      of differing ideas and information. Each class stands alone but will work as
+      a series as they build upon each other.  \nNovember 16th: Supporting Productive
+      Conversations\nWant to host a conversation in your library but aren’t sure how
+      to get started? How do you create space for a productive discussion? This training
+      will help you build your skills for facilitating roundtable meetings and other
+      public discourse in your library. \nDecember 7th: Participatory Decision Making\nLibraries
+      both large and small need to garner input from donors, patrons, and other community
+      stakeholders when making important decisions. This training will help you build
+      a toolkit of techniques and approaches for facilitating productive brainstorms,
+      planning, and decision-making meetings.  \n------\nAbout our instructor\nKristina
+      Drury is a social entrepreneur, designer, and educator. Her mission-driven firm, TYTHEdesign,
+      uses the lens of design and strategy to support social good organizations develop
+      creative solutions, build their capacity and enhance their impact. Under her
+      leadership TYTHE has increased the community impact of over 100 local and global
+      social good organizations including the NYC Dept. of Education, Brooklyn Public
+      Library, The Earth Institute and California State Library System.\nMost recently,
+      she has been recognized as an Innovation Expert for UNDP and selected to present
+      at Clinton Global Initiative University’s annual conference.  As an educator,
+      she has taught classes, workshops and training to build the capacity of over
+      2000 change-makers, civic servants, leaders, and entrepreneurs. Her teaching
+      and speaking experience includes engagements at the Cooper Hewitt, Harvard and
+      Columbia."
+    html: |-
+      <P><SPAN>Go beyond the survey and into meaningful dialogue! Join us in this interactive workshop as we will learn multiple approaches and techniques to engage with library patrons, and collaborate, listen and learn. Explore how community engagement can improve library services, collections, and help libraries understand how their work is really seen by the community.  </SPAN></P>
+      <P>In this workshop, we’re going to break up our time into two parts. First, we’ll focus on clarifying what community engagement is from the lens of a library; walk through the preparation process for these types of experiences, including setting goals, choosing the appropriate framework, identifying stakeholders, planning and logistics. Then, we will introduce the role of the facilitator, introducing opportunities to guide the conversation and set expectations. Throughout the workshop, we will use a participatory model to demonstrate tips and tricks for planning an engagement experience. </P>
+      <P>At the end of the workshop, participants will have the tools to:</P>
+      <UL>
+      <LI>
+      <P><SPAN>set achievable goals and objectives for the engagement  </SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>select the most appropriate type of experience for your desired outcomes</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>determine best practices for planning a successful experience with consideration for your context</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>manage expectations while leading productive conversations</SPAN></P>
+      </LI>
+      </UL>
+      <P>------</P>
+      <P>This class is a series of professional development trainings to empower METRO members to better engage with their patrons, facilitate community conversations around timely or controversial topics, and make more space in libraries for the productive exchange and evaluation of differing ideas and information. Each class stands alone but will work as a series as they build upon each other.  </P>
+      <P><STRONG>November 16th: Supporting Productive Conversations</STRONG></P>
+      <P><SPAN>Want to host a conversation in your library but aren’t sure how to get started? How do you create space for a productive discussion? This training will help you build your skills for facilitating roundtable meetings and other public discourse in your library. </SPAN></P>
+      <P><STRONG>December 7th: Participatory Decision Making</STRONG></P>
+      <P><SPAN>Libraries both large and small need to garner input from donors, patrons, and other community stakeholders when making important decisions. This training will help you build a toolkit of techniques and approaches for facilitating productive brainstorms, planning, and decision-making meetings.  </SPAN></P>
+      <P>------</P>
+      <P><STRONG>About our instructor</STRONG></P>
+      <P><SPAN>Kristina Drury is a social entrepreneur, designer, and educator. Her mission-driven firm, </SPAN><A HREF="http://www.tythe-design.com/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>TYTHEdesign</SPAN></A><SPAN>, uses the lens of design and strategy to support social good organizations develop creative solutions, build their capacity and enhance their impact. Under her leadership TYTHE has increased the community impact of over 100 local and global social good organizations including the NYC Dept. of Education, Brooklyn Public Library, The Earth Institute and California State Library System.</SPAN></P>
+      <P>Most recently, she has been recognized as an Innovation Expert for UNDP and selected to present at Clinton Global Initiative University’s annual conference.  As an educator, she has taught classes, workshops and training to build the capacity of over 2000 change-makers, civic servants, leaders, and entrepreneurs. Her teaching and speaking experience includes engagements at the Cooper Hewitt, Harvard and Columbia.</P>
+  url: https://www.eventbrite.com/e/community-engagement-101-tickets-38059871099?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-10-26T10:00:00'
+    utc: '2017-10-26T14:00:00Z'
+- time: 1509384600000
+  link: https://www.meetup.com/stmlibrarians/events/243473577/
+  description:
+    html: "<p>1. Fred Stoss<br/>Preparedness Matters: Library Roles in Planning for
+      Disaster</p> <p>2. Ellie Irons and Anne Percoco<br/>Next Epoch Seed Library:
+      An Archive of Weedy Species</p> <p>3. Aruna Magier:<br/>Water, Land, and Forests:
+      Documenting India’s Environmental Activism</p> <p>4. Robert Chen:<br/>Enabling
+      Interdisciplinary Use of Scientific Data on Human Interactions in the Environment</p> "
+  name:
+    html: Libraries, the Environment, and Sustainability
+  start:
+    utc: '2017-10-30 13:30:00 -0400'
+    local: '2017-10-30 13:30:00 -0400'
+  url: https://www.meetup.com/stmlibrarians/events/243473577/
 - name:
     text: 'Project Management: First Principles'
     html: 'Project Management: First Principles'
@@ -261,6 +366,79 @@
     local: '2017-11-15T10:00:00'
     utc: '2017-11-15T15:00:00Z'
 - name:
+    text: Supporting Productive Conversations
+    html: Supporting Productive Conversations
+  description:
+    text: "Want to host a conversation in your library but aren’t sure how to get
+      started? Want to invite speakers in to share diverse or opposing viewpoints?
+       How do you create space for a productive discussion? This training will help
+      you build your skills for facilitating roundtable meetings, workshops and other
+      public discourse in your library. \nIn this workshop, we’ll first focus on clarifying
+      the role of the facilitator with a focus on identifying opportunities to guide
+      the conversation. Then we’ll focus on the role of the facilitator in group settings
+      and how to use specific tools/techniques to lead productive conversations; tackle
+      common facilitation challenges, and manage group dynamics. Throughout the workshop,
+      we will uses a participatory model to demonstrate tips and tricks for planning
+      an engagement experience. \nAt the end of the workshop, participants will have
+      the strategies and techniques to:\n\n\nfor being a strong facilitator and leader
+      including how to set ground rules. \n\n\ndetermine how to encourage participation
+      and keep the conversation flowing \n\n\nnavigate the challenges of neutrality
+      and managing difficult participants\n\n\nanticipate and navigate tricky group
+      dynamics before and during session\n\n\n------\nThis class is a series of professional
+      development trainings to empower METRO members to better engage with their patrons,
+      facilitate community conversations around timely or controversial topics, and
+      make more space in libraries for the productive exchange and evaluation of differing
+      ideas and information. Each class stands alone but will work as a series as
+      they build upon each other.\nNovember 16th: Participatory Decision Making \nLibraries
+      large and small need to garner input from donors, patrons, and other community
+      stakeholders when making important decisions. This training will help you build
+      a toolkit of techniques and approaches for facilitating productive brainstorms,
+      planning, and decision-making meetings.  \n------\nAbout our instructor\nKristina
+      Drury is a social entrepreneur, designer, and educator. Her mission-driven firm, TYTHEdesign,
+      uses the lens of design and strategy to support social good organizations develop
+      creative solutions, build their capacity and enhance their impact. Under her
+      leadership TYTHE has increased the community impact of over 100 local and global
+      social good organizations including the NYC Dept. of Education, Brooklyn Public
+      Library, The Earth Institute and California State Library System.\nMost recently,
+      she has been recognized as an Innovation Expert for UNDP and selected to present
+      at Clinton Global Initiative University’s annual conference.  As an educator,
+      she has taught classes, workshops and training to build the capacity of over
+      2000 change-makers, civic servants, leaders, and entrepreneurs. Her teaching
+      and speaking experience includes engagements at the Cooper Hewitt, Harvard and
+      Columbia.\n"
+    html: |-
+      <P><SPAN>Want to host a conversation in your library but aren’t sure how to get started? Want to invite speakers in to share diverse or opposing viewpoints?  How do you create space for a productive discussion? This training will help you build your skills for facilitating roundtable meetings, workshops and other public discourse in your library. </SPAN></P>
+      <P>In this workshop, we’ll first focus on clarifying the role of the facilitator with a focus on identifying opportunities to guide the conversation. Then we’ll focus on the role of the facilitator in group settings and how to use specific tools/techniques to lead productive conversations; tackle common facilitation challenges, and manage group dynamics. Throughout the workshop, we will uses a participatory model to demonstrate tips and tricks for planning an engagement experience. </P>
+      <P><SPAN>At the end of the workshop, participants will have the strategies and techniques to:</SPAN></P>
+      <UL>
+      <LI>
+      <P><SPAN>for being a strong facilitator and leader including how to set ground rules. </SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>determine how to encourage participation and keep the conversation flowing </SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>navigate the challenges of neutrality and managing difficult participants</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>anticipate and navigate tricky group dynamics before and during session</SPAN></P>
+      </LI>
+      </UL>
+      <P>------</P>
+      <P>This class is a series of professional development trainings to empower METRO members to better engage with their patrons, facilitate community conversations around timely or controversial topics, and make more space in libraries for the productive exchange and evaluation of differing ideas and information. Each class stands alone but will work as a series as they build upon each other.</P>
+      <P><STRONG>November 16th: Participatory Decision Making </STRONG></P>
+      <P><SPAN>Libraries large and small need to garner input from donors, patrons, and other community stakeholders when making important decisions. This training will help you build a toolkit of techniques and approaches for facilitating productive brainstorms, planning, and decision-making meetings.  </SPAN></P>
+      <P>------</P>
+      <P><STRONG>About our instructor</STRONG></P>
+      <P><SPAN>Kristina Drury is a social entrepreneur, designer, and educator. Her mission-driven firm, </SPAN><A HREF="http://www.tythe-design.com/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>TYTHEdesign</SPAN></A><SPAN>, uses the lens of design and strategy to support social good organizations develop creative solutions, build their capacity and enhance their impact. Under her leadership TYTHE has increased the community impact of over 100 local and global social good organizations including the NYC Dept. of Education, Brooklyn Public Library, The Earth Institute and California State Library System.</SPAN></P>
+      <P>Most recently, she has been recognized as an Innovation Expert for UNDP and selected to present at Clinton Global Initiative University’s annual conference.  As an educator, she has taught classes, workshops and training to build the capacity of over 2000 change-makers, civic servants, leaders, and entrepreneurs. Her teaching and speaking experience includes engagements at the Cooper Hewitt, Harvard and Columbia.</P>
+      <P><SPAN><BR></SPAN></P>
+  url: https://www.eventbrite.com/e/supporting-productive-conversations-tickets-38060019543?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-11-16T10:00:00'
+    utc: '2017-11-16T15:00:00Z'
+- name:
     text: The Universal Elements of Good Design
     html: The Universal Elements of Good Design
   description:
@@ -317,3 +495,58 @@
     timezone: America/New_York
     local: '2017-12-04T10:00:00'
     utc: '2017-12-04T15:00:00Z'
+- name:
+    text: 'Participatory Decision Making '
+    html: 'Participatory Decision Making '
+  description:
+    text: "Libraries both large and small need to garner input from donors, patrons,
+      and other community stakeholders when making important decisions. This training
+      will help you build a toolkit of techniques and approaches for facilitating
+      productive brainstorms, planning, and decision-making meetings.  \nIn this workshop,
+      we’ll first focus on clarifying the collaborative participatory decision-making
+      process; interactively demonstrating how to lead a series of activities and
+      methodologies, best practices for setting and managing expectations, while supporting
+      productive conversations.  Then we’ll outline how these types of activities
+      fit into a problem-solving process, the typical information it collects, strengths
+      and limitations, and using the mapping process to generate ideas and lead productive
+      conversations.\nAt the end of the workshop, participants will have the tools
+      to:\n\n\nuse and lead different methodologies and activities for group decision-making\n\n\nto
+      arrive at a consensus (and when not to) \n\n\nto guide pivoting conversations
+      while addressing constraints \n\n\n------\nAbout our instructor\nKristina Drury
+      is a social entrepreneur, designer, and educator. Her mission-driven firm, TYTHEdesign,
+      uses the lens of design and strategy to support social good organizations develop
+      creative solutions, build their capacity and enhance their impact. Under her
+      leadership TYTHE has increased the community impact of over 100 local and global
+      social good organizations including the NYC Dept. of Education, Brooklyn Public
+      Library, The Earth Institute and California State Library System.\nMost recently,
+      she has been recognized as an Innovation Expert for UNDP and selected to present
+      at Clinton Global Initiative University’s annual conference.  As an educator,
+      she has taught classes, workshops and training to build the capacity of over
+      2000 change-makers, civic servants, leaders, and entrepreneurs. Her teaching
+      and speaking experience includes engagements at the Cooper Hewitt, Harvard and
+      Columbia.\n"
+    html: |-
+      <P><SPAN>Libraries both large and small need to garner input from donors, patrons, and other community stakeholders when making important decisions. This training will help you build a toolkit of techniques and approaches for facilitating productive brainstorms, planning, and decision-making meetings.  </SPAN></P>
+      <P>In this workshop, we’ll first focus on clarifying the collaborative participatory decision-making process; interactively demonstrating how to lead a series of activities and methodologies, best practices for setting and managing expectations, while supporting productive conversations.  Then we’ll outline how these types of activities fit into a problem-solving process, the typical information it collects, strengths and limitations, and using the mapping process to generate ideas and lead productive conversations.</P>
+      <P>At the end of the workshop, participants will have the tools to:</P>
+      <UL>
+      <LI>
+      <P><SPAN>use and lead different methodologies and activities for group decision-making</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>to arrive at a consensus (and when not to) </SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>to guide pivoting conversations while addressing constraints </SPAN></P>
+      </LI>
+      </UL>
+      <P>------</P>
+      <P><STRONG>About our instructor</STRONG></P>
+      <P><SPAN>Kristina Drury is a social entrepreneur, designer, and educator. Her mission-driven firm, </SPAN><A HREF="http://www.tythe-design.com/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>TYTHEdesign</SPAN></A><SPAN>, uses the lens of design and strategy to support social good organizations develop creative solutions, build their capacity and enhance their impact. Under her leadership TYTHE has increased the community impact of over 100 local and global social good organizations including the NYC Dept. of Education, Brooklyn Public Library, The Earth Institute and California State Library System.</SPAN></P>
+      <P>Most recently, she has been recognized as an Innovation Expert for UNDP and selected to present at Clinton Global Initiative University’s annual conference.  As an educator, she has taught classes, workshops and training to build the capacity of over 2000 change-makers, civic servants, leaders, and entrepreneurs. Her teaching and speaking experience includes engagements at the Cooper Hewitt, Harvard and Columbia.</P>
+      <P><SPAN><BR></SPAN></P>
+  url: https://www.eventbrite.com/e/participatory-decision-making-tickets-38060131879?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-12-07T10:00:00'
+    utc: '2017-12-07T15:00:00Z'
