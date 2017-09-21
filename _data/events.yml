@@ -143,6 +143,44 @@
     timezone: America/New_York
     local: '2017-10-04T16:00:00'
     utc: '2017-10-04T20:00:00Z'
+- time: 1507921200000
+  link: https://www.meetup.com/racial-and-social-justice-in-the-library/events/243559479/
+  description:
+    html: "<p><b>JOIN US!</b></p> <p>We're training on how to use the IDEAL wiki,
+      a brand new resource available through METRO, and continuing to work on our
+      ongoing project:</p> <p>\n\n<i>Create a toolkit for hiring and retaining a more
+      diverse workforce, and create avenues for library workers from marginalized
+      backgrounds to rise to leadership roles, through outreach, resources for people
+      involved in hiring decisions, and tips for building an inclusive workplace (including
+      strategies for listening, building self-awareness of structural whiteness, and
+      strategies for institutional transformation -- including funders and boards)<br/></i></p>
+      <p>Big project, right!? We're excited to work with you to make this happen.</p>
+      <p><br/><b>No prior knowledge is needed.</b> Here's what you can expect:</p>
+      <p><br/>• Learn to use the wiki with a Wikipedian Expert!</p> <p><br/>• Help
+      us develop community guidelines for using the IDEAL wiki and developing our
+      toolkit together.</p> <p><br/>• Build skills for collaborative creation and
+      productive racial and social justice work.</p> <p><br/><b>ABOUT THE WIKI</b></p>
+      <p><br/><a href=\"http://www.mnylc.org/ideal/index.php?title=Main_Page\">IDEAL</a>
+      is a wiki-based resource highlighting the organizations, individuals, events,
+      and projects with social justice initiatives in the library and information
+      science fields. Join this growing network and help us to build this community-based
+      tool by attending our Social Justice in LIS Wikimedia edit-a-thon. Participants
+      of all skill levels are welcome. Join this community and hone your wiki editing
+      skills as we collaborate on this important project.</p> <p>This resource is
+      an ongoing, collectively created project that aims to bring together professionals
+      at all levels and across the information fields who are interested in activism
+      related to Social Justice, Diversity, and Inclusion.</p> <p><br/><b><i>Technology
+      Requirements</i></b>: If possible, bring your web-enabled device. A limited
+      quantity of laptops are available for loan during this event for a $10 rental
+      fee. Please bring $10 cash or check for the laptop loan if needed. If this fee
+      presents a hardship, please contact Davis Erin Anderson by emailing <a href=\"mailto:deanderson@metro.org\">deanderson@metro.org</a>.
+       </p> <p>Participate virtually by following us on Twitter: #IDEALWIKI</p> "
+  name:
+    html: Join In!  Social Justice in LIS Wikimedia Edit-a-Thon
+  start:
+    utc: '2017-10-13 15:00:00 -0400'
+    local: '2017-10-13 15:00:00 -0400'
+  url: https://www.meetup.com/racial-and-social-justice-in-the-library/events/243559479/
 - name:
     text: 'Navigating Gender in the Library: Strategies for Communication'
     html: 'Navigating Gender in the Library: Strategies for Communication'
