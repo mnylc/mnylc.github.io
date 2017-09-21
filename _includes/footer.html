@@ -9,7 +9,6 @@
         {{ line.line }}<br/>
         {% endfor %}
           Phone: <a href="tel: {{ site.footer.phone }}">{{ site.footer.phone }}</a><br/>
-        Fax: <a href="fax: {{ site.footer.fax }}">{{ site.footer.fax }}</a>
         <p style="padding-top: 10px;">
           {% for srv in site.social %}
           <a href="{{ srv.url }}"><img src="{{ srv.img | prepend: site.baseurl }}" height="25px"/></a>

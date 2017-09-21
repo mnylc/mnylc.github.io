@@ -1,178 +1,4 @@
 ---
-- time: 1505149200000
-  link: https://www.meetup.com/metro-web-archiving/events/242648576/
-  description:
-    html: '<p>The program will feature Karl Rainer-Blumenthal of Archive-It presenting
-      on technical aspects of web archiving capture tools with a focus on approaches
-      to difficult-to-capture Web content. The latter half of the meeting will focus
-      on discussion among attendees about their approaches to capturing this content.
-      Cases studies of successes and failures are welcome in this part of the meeting.<br/>We
-      hope many of you are able to attend; if interested, please RSVP by September
-      6 via Meetup or by using the below linked form, as the METRO space reserved
-      for the event can accommodate a limited number of attendees.</p> <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfGSaz8vchG6HFK48VLPfgOCHD5t4tOZLwJ9Hb4mxH488mgTg/viewform"
-      class="linkified">https://docs.google.com/forms/d/e/1FAIpQLSfGSaz8vchG6HFK48VLPfgOCHD5t4tOZLwJ9Hb4mxH488mgTg/viewform</a></p> '
-  name:
-    html: Joint Meeting of New York City & Mid-Atlantic Archive-It partner groups.
-  start:
-    utc: '2017-09-11 13:00:00 -0400'
-    local: '2017-09-11 13:00:00 -0400'
-  url: https://www.meetup.com/metro-web-archiving/events/242648576/
-- name:
-    text: " Introduction to METRO’s new Audiovisual Digitization Rack with XFR Collective"
-    html: " Introduction to METRO’s new Audiovisual Digitization Rack with XFR Collective"
-  description:
-    text: |-
-      Join members of the XFR Collective for an interactive introduction to METRO’s brand new A/V digitization station. Participants will be introduced to principles of audiovisual digitization - including format identification, best practices for preservation level digitization, and basic digitization workflows. Participants will also learn how to book an appointment to use METRO’s new rack.
-      This session will be hands-on and interactive; bring all your questions! All are welcome, regardless of experience level.
-    html: |-
-      <P>Join members of the XFR Collective for an interactive introduction to METRO’s brand new A/V digitization station. Participants will be introduced to principles of audiovisual digitization - including format identification, best practices for preservation level digitization, and basic digitization workflows. Participants will also learn how to book an appointment to use METRO’s new rack.</P>
-      <P>This session will be hands-on and interactive; bring all your questions! All are welcome, regardless of experience level.</P>
-  url: https://www.eventbrite.com/e/introduction-to-metros-new-audiovisual-digitization-rack-with-xfr-collective-tickets-37501326477?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-09-11T18:00:00'
-    utc: '2017-09-11T22:00:00Z'
-- name:
-    text: Intro to Data Analysis with R
-    html: Intro to Data Analysis with R
-  description:
-    text: |-
-      Participants will build on critical data literacy skills by begining to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights. 
-      Participants will:
-
-      Download and install R and RStudio
-      Navigate the RStudio interface 
-      Explore a dataset from NYC Open Data. 
-
-      No previous programming experience required! 
-      Pizza, salad, and beverages will be provided at this workshop.
-      About our instructor:
-      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
-    html: |-
-      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will build on critical data literacy skills by begining to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights. <BR></P>
-      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will:</P>
-      <UL>
-      <LI>Download and install R and RStudio</LI>
-      <LI>Navigate the RStudio interface <BR></LI>
-      <LI>Explore a dataset from NYC Open Data. </LI>
-      </UL>
-      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal"><I>No previous programming experience required!</I><SPAN> </SPAN><BR></P>
-      <P>Pizza, salad, and beverages will be provided at this workshop.</P>
-      <P><STRONG>About our instructor:</STRONG></P>
-      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
-  url: https://www.eventbrite.com/e/intro-to-data-analysis-with-r-tickets-34860365291?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-09-12T18:00:00'
-    utc: '2017-09-12T22:00:00Z'
-- name:
-    text: 'Bibliographic Data as Linked Open Data: The BIBFRAME initiative'
-    html: 'Bibliographic Data as Linked Open Data: The BIBFRAME initiative'
-  description:
-    text: "Libraries have a long history of sharing metadata since 1968, primarily
-      because of the widely implemented MARC 21 formats. With new ways to share information
-      and the promise of enhancing discovery on the Semantic Web, libraries and other
-      cultural heritage institutions have explored how to make their bibliographic
-      data and vocabularies available as Linked Open Data to expose their information
-      resources more easily to the wider world of the Web. Because of the large infrastructure
-      in place that supports creating, sharing and managing bibliographic data built
-      around MARC, replacing it is a monumental task requiring world-wide input and
-      experimentation.  In 2011, the Library of Congress embarked on an initiative
-      to move rich bibliographic data into a Linked Data model with the Bibliographic
-      Framework Initiative (BIBFRAME), providing a framework and language to replace
-      MARC. \nThe Bibliographic Framework Initiative (BIBFRAME) is both a general
-      model for expressing and connecting bibliographic data utilizing Linked Data
-      principles as well as a framework for describing information objects that intends
-      to be compatible with previous bibliographic practices. After early experimentation,
-      the initiative has matured and several projects are experimenting with its vocabulary
-      and related ones, and developing tools to support it. This session introduces
-      Linked Data concepts relevant to bibliographic data and how MARC records could
-      be envisioned as Linked Data statements. It traces the development of BIBFRAME
-      since the release of its initial data model and version 1 of the BIBFRAME vocabulary,
-      provides an overview of the BIBFRAME vocabulary version 2.0, and demonstrates
-      tools that transform MARC records and enable creation of BIBFRAME descriptions.\nA
-      case study of experimentation will be presented. ArtFrame, which is led by Columbia
-      University Libraries, is a domain-specific sub-project of Linked Data for Production
-      (LD4P), a Mellon-funded cross-institutional effort aimed at piloting the production
-      of linked data in libraries. The ArtFrame vocabulary is an extension of BIBFRAME
-      and LD4P/LD4L-Lab's bibliotek-o ontologies to describe works of art (both two-dimensional
-      and three-dimensional) natively as linked data. Columbia University staff and
-      the ArtFrame extension group have collected use cases arising in art cataloging,
-      evaluated how well these use cases can be expressed using BIBFRAME and bibliotek-o
-      and developed alternative proposals as deemed necessary. The group is currently
-      working on developing the ontology files and an application profile.\nThis event
-      is intended for professionals and students who are interested in learning about
-      the evolution of BIBFRAME, how it models bibliographic data as Linked Data,
-      and plans for experimenting and implementing a Linked Data compatible bibliographic
-      vocabulary.\nWho should attend: Librarians, archivists, and museum professionals
-      who are involved in creating or maintaining metadata for their resources as
-      well as students investigating bibliographic data in a Linked Data framework.
-      A familiarity with MARC is assumed.\nPlease bring laptops if available.\nAfter
-      attending this workshop, you will:\n\n\nUnderstand the principles of Linked
-      Data and how a bibliographic record could be deconstructed into Linked Data
-      statements\n\n\nGain knowledge of the BIBFRAME model and how it applies to different
-      types of information resources\n\n\nObtain an overview of the BIBFRAME vocabulary
-      and how it is extended by other Linked Data compatible vocabularies and ontologies\n\n\nSee
-      how existing MARC records are transformed to BIBFRAME\n\n\nLearn about projects
-      that are experimenting with BIBFRAME and related ontologies \n\n\nInstructor
-      Bio:\nRebecca Guenther has 35 years of experience in national libraries, primarily
-      working on library technology standards related to digital libraries. Most of
-      her professional life has been at the Library of Congress developing national
-      and international standards related to metadata. She is currently a consultant
-      on metadata issues and teaching metadata in NYU’s Moving Image Archiving and
-      Preservation Program. Some of her recent clients include the Library of Congress,
-      the New York Art Resources Consortium, and the National Book Foundation."
-    html: |-
-      <P><SPAN>Libraries have a long history of sharing metadata since 1968, primarily because of the widely implemented MARC 21 formats. With new ways to share information and the promise of enhancing discovery on the Semantic Web, libraries and other cultural heritage institutions have explored how to make their bibliographic data and vocabularies available as Linked Open Data to expose their information resources more easily to the wider world of the Web. Because of the large infrastructure in place that supports creating, sharing and managing bibliographic data built around MARC, replacing it is a monumental task requiring world-wide input and experimentation.  In 2011, the Library of Congress embarked on an initiative to move rich bibliographic data into a Linked Data model with the Bibliographic Framework Initiative (BIBFRAME), providing a framework and language to replace MARC. </SPAN></P>
-      <P>The Bibliographic Framework Initiative (BIBFRAME) is both a general model for expressing and connecting bibliographic data utilizing Linked Data principles as well as a framework for describing information objects that intends to be compatible with previous bibliographic practices. After early experimentation, the initiative has matured and several projects are experimenting with its vocabulary and related ones, and developing tools to support it. This session introduces Linked Data concepts relevant to bibliographic data and how MARC records could be envisioned as Linked Data statements. It traces the development of BIBFRAME since the release of its initial data model and version 1 of the BIBFRAME vocabulary, provides an overview of the BIBFRAME vocabulary version 2.0, and demonstrates tools that transform MARC records and enable creation of BIBFRAME descriptions.</P>
-      <P>A case study of experimentation will be presented. <A HREF="https://wiki.duraspace.org/display/LD4P/ArtFrame" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">ArtFrame</A>, which is led by Columbia University Libraries, is a domain-specific sub-project of <A HREF="https://wiki.duraspace.org/pages/viewpage.action?pageId=74515029" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">Linked Data for Production (LD4P)</A>, a Mellon-funded cross-institutional effort aimed at piloting the production of linked data in libraries. The ArtFrame vocabulary is an extension of BIBFRAME and LD4P/LD4L-Lab's bibliotek-o ontologies to describe works of art (both two-dimensional and three-dimensional) natively as linked data. Columbia University staff and the ArtFrame extension group have collected use cases arising in art cataloging, evaluated how well these use cases can be expressed using BIBFRAME and bibliotek-o and developed alternative proposals as deemed necessary. The group is currently working on developing the ontology files and an application profile.</P>
-      <P>This event is intended for professionals and students who are interested in learning about the evolution of BIBFRAME, how it models bibliographic data as Linked Data, and plans for experimenting and implementing a Linked Data compatible bibliographic vocabulary.</P>
-      <P><STRONG>Who should attend:</STRONG> Librarians, archivists, and museum professionals who are involved in creating or maintaining metadata for their resources as well as students investigating bibliographic data in a Linked Data framework. A familiarity with MARC is assumed.</P>
-      <P>Please bring laptops if available.</P>
-      <P><STRONG>After attending this workshop, you will:</STRONG></P>
-      <UL>
-      <LI>
-      <P><SPAN>Understand the principles of Linked Data and how a bibliographic record could be deconstructed into Linked Data statements</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Gain knowledge of the BIBFRAME model and how it applies to different types of information resources</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Obtain an overview of the BIBFRAME vocabulary and how it is extended by other Linked Data compatible vocabularies and ontologies</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>See how existing MARC records are transformed to BIBFRAME</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Learn about projects that are experimenting with BIBFRAME and related ontologies </SPAN></P>
-      </LI>
-      </UL>
-      <P><STRONG>Instructor Bio:</STRONG></P>
-      <P>Rebecca Guenther has 35 years of experience in national libraries, primarily working on library technology standards related to digital libraries. Most of her professional life has been at the Library of Congress developing national and international standards related to metadata. She is currently a consultant on metadata issues and teaching metadata in NYU’s Moving Image Archiving and Preservation Program. Some of her recent clients include the Library of Congress, the New York Art Resources Consortium, and the National Book Foundation.</P>
-  url: https://www.eventbrite.com/e/bibliographic-data-as-linked-open-data-the-bibframe-initiative-tickets-36692811186?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-09-13T10:00:00'
-    utc: '2017-09-13T14:00:00Z'
-- name:
-    text: Labor Organizing for Information Workers
-    html: Labor Organizing for Information Workers
-  description:
-    text: |-
-      In an era of unprecedented attacks on information workers, how can we mobilize to advocate for our own wages and working conditions? The facilitators will use their experience organizing during the faculty lockout at LIU Brooklyn in September 2016 to inform participatory activities that will help attendees understand the basics of union organizing in their own workplaces.The first half of the session will introduce the basics of getting to know your workplace. Union organizing relies on understanding who is in your unit, what their workplace needs and priorities are, and their level of engagement and commitment to union activity. Central to this process are lists of members that can be regularly updated and assessed as organizing and action proceeds. It is also critical to understand where members are in the organization so that connections between people can be made. Maps can be useful tools for this work. Attendees will leave with the beginnings of a list and map for further organizing.The second half of the session will focus on the organizing conversation. These are conversations where unit members come to understand shared concerns and begin to strategize for taking action. Attendees will gain hands on practice engaging the five steps of the organizing conversation.We expect attendees will leave the session with new tools to reinvigorate their engagement with workplace justice issues whether they are currently in a union or considering forming one.
-      About our instructors:
-      Eamon Tewell is Reference & Instruction Librarian at Long Island University Brooklyn, where he is a proud member of the Long Island University Faculty Federation, Local 3998, NYSUT/AFT, AFL-CIO. He received his MLIS from Drexel University and his MA in Media Studies from LIU Brooklyn. Eamon has published and presented on the topics of critical information literacy, popular media in library instruction, and televisual representations of libraries.
-      Emily Drabinski is Associate Professor and Coordinator of Library Instruction at LIU Brooklyn. She is secretary of the Long Island University Faculty Federation. Emily sits on the board of Radical Teacher, a journal of socialist, feminist, and anti-racist teaching practice and edits Gender & Sexuality in Information Studies, a book series from Library Juice Press/Litwin Books. 
-    html: |-
-      <P><SPAN>In an era of unprecedented attacks on information workers, how can we mobilize to advocate for our own wages and working conditions? The facilitators will use their experience organizing during the faculty lockout at LIU Brooklyn in September 2016 to inform participatory activities that will help attendees understand the basics of union organizing in their own workplaces.</SPAN><BR><BR><SPAN>The first half of the session will introduce the basics of getting to know your workplace. Union organizing relies on understanding who is in your unit, what their workplace needs and priorities are, and their level of engagement and commitment to union activity. Central to this process are lists of members that can be regularly updated and assessed as organizing and action proceeds. It is also critical to understand where members are in the organization so that connections between people can be made. Maps can be useful tools for this work. Attendees will leave with the beginnings of a list and map for further organizing.</SPAN><BR><BR><SPAN>The second half of the session will focus on the organizing conversation. These are conversations where unit members come to understand shared concerns and begin to strategize for taking action. Attendees will gain hands on practice engaging the five steps of the organizing conversation.</SPAN><BR><BR><SPAN>We expect attendees will leave the session with new tools to reinvigorate their engagement with workplace justice issues whether they are currently in a union or considering forming one.</SPAN></P>
-      <P><STRONG>About our instructors:</STRONG></P>
-      <P><SPAN>Eamon Tewell is Reference &amp; Instruction Librarian at Long Island University Brooklyn, where he is a proud member of the Long Island University Faculty Federation, Local 3998, NYSUT/AFT, AFL-CIO. He received his MLIS from Drexel University and his MA in Media Studies from LIU Brooklyn. Eamon has published and presented on the topics of critical information literacy, popular media in library instruction, and televisual representations of libraries.</SPAN></P>
-      <P><SPAN CLASS="il">Emily</SPAN><SPAN> Drabinski is Associate Professor and Coordinator of Library Instruction at LIU Brooklyn. She is secretary of the Long Island University Faculty Federation. </SPAN><SPAN CLASS="il">Emily</SPAN><SPAN> sits on the board of Radical Teacher, a journal of socialist, feminist, and anti-racist teaching practice and edits Gender &amp; Sexuality in Information Studies, a book series from Library Juice Press/Litwin Books. </SPAN></P>
-  url: https://www.eventbrite.com/e/labor-organizing-for-information-workers-tickets-36013127233?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-09-22T14:00:00'
-    utc: '2017-09-22T18:00:00Z'
 - name:
     text: METRO Hospital Library Services Program (HLSP) Meeting
     html: METRO Hospital Library Services Program (HLSP) Meeting
@@ -226,6 +52,18 @@
     timezone: America/New_York
     local: '2017-09-26T18:00:00'
     utc: '2017-09-26T22:00:00Z'
+- time: 1506634200000
+  link: https://www.meetup.com/NYC-Audio-Meetup/events/243500289/
+  description:
+    html: '<p>You can sign up for this open house at METRO in our event on Eventbrite:
+      <a href="https://www.eventbrite.com/e/metro-studio-open-house-tickets-37453984877"
+      class="linkified">https://www.eventbrite.com/e/metro-studio-open-house-tickets-37453984877</a></p> '
+  name:
+    html: Check out METRO's studio and listen to some library-related podcasts
+  start:
+    utc: '2017-09-28 17:30:00 -0400'
+    local: '2017-09-28 17:30:00 -0400'
+  url: https://www.meetup.com/NYC-Audio-Meetup/events/243500289/
 - name:
     text: METRO Studio Open House
     html: METRO Studio Open House
@@ -306,76 +144,6 @@
     local: '2017-10-04T16:00:00'
     utc: '2017-10-04T20:00:00Z'
 - name:
-    text: 'Survive and Thrive:  Business Strategy for Sustaining Your Innovative Projects
-      and Programs'
-    html: 'Survive and Thrive:  Business Strategy for Sustaining Your Innovative Projects
-      and Programs'
-  description:
-    text: "Survive and Thrive: Business Strategy for Unlocking the Value of Your Innovative
-      Projects and ProgramsTuesday, October 10 from 10:00 - 5:00 and Wednesday, October
-      11 from 10:00 - 5:00\r\nLeaders of innovative initiatives know that getting
-      approval and funding to build something new is only the beginning! Once a new
-      digital collection, project, or other innovative service is launched, how will
-      you keep it going? What will “fund” its ongoing growth?\r\nThis two-day workshop
-      is geared towards those who face this question. You may be leading or considering
-      undertaking a new initiative, or evaluating an existing one. This workshop will
-      offer a fresh look at some key factors in what makes great projects tick.  We
-      will explore the importance of assessing user needs, examining the broader environment,
-      and pinpointing the “value” your project can offer. Then, together we will brainstorm
-      how this value can be translated into ways to obtain the financial and non-financial
-      resources you need.\r\nAttendees will… \r\n\r\n\r\nGain a holistic view of what
-      sustainability strategy should encompass\r\n\r\n\r\nDevelop a working hypothesis
-      about what will make their project sustainable\r\n\r\n\r\nStart working with
-      some useful tools and exercises to help them test & refine their ideas\r\n\r\n\r\nParticipants
-      should come with either an existing or potential project in mind. There will
-      be a brief reading to do prior to the workshop.  \r\nAbout our instructor:\r\nThis
-      session will be led by Nancy Maron, founder of BlueSky to BluePrint, a strategic
-      research and consulting organization specializing in helping leaders in the
-      academic and cultural sectors navigate change. Nancy was previously Program
-      Director of Sustainability and Scholarly Communications at Ithaka S+R, where
-      she and her team conducted provocative and insightful studies on funding models
-      and sustainability strategies for digital initiatives. Today, her consulting
-      clients include academic libraries, publishers, library leaders of digital initiatives,
-      and digital preservation services.  Since 2012, Nancy has served as President
-      of the Board of Trustees of the Yonkers Public Library, a three-branch system
-      serving a city of 200,000. For more information, see http://blueskytoblueprint.com/"
-    html: "<P><STRONG>Survive and Thrive: Business Strategy for Unlocking the Value
-      of Your Innovative Projects and Programs</STRONG><BR><EM>Tuesday, October 10
-      from 10:00 - 5:00 and Wednesday, October 11 from 10:00 - 5:00</EM></P>\r\n<P><SPAN>Leaders
-      of innovative initiatives know that getting approval and funding to build something
-      new is only the beginning! Once a new digital collection, project, or other
-      innovative service is launched, how will you keep it going? What will “fund”
-      its ongoing growth?</SPAN></P>\r\n<P><SPAN>This two-day workshop is geared towards
-      those who face this question. You may be leading or considering undertaking
-      a new initiative, or evaluating an existing one. This workshop will offer a
-      fresh look at some key factors in what makes great projects tick.  We will explore
-      the importance of assessing user needs, examining the broader environment, and
-      pinpointing the “value” your project can offer. Then, together we will brainstorm
-      how this value can be translated into ways to obtain the financial and non-financial
-      resources you need.</SPAN></P>\r\n<P><SPAN>Attendees will… </SPAN></P>\r\n<UL>\r\n<LI>\r\n<P><SPAN>Gain
-      a holistic view of what sustainability strategy should encompass</SPAN></P>\r\n</LI>\r\n<LI>\r\n<P><SPAN>Develop
-      a working hypothesis about what will make their project sustainable</SPAN></P>\r\n</LI>\r\n<LI>\r\n<P><SPAN>Start
-      working with some useful tools and exercises to help them test &amp; refine
-      their ideas</SPAN></P>\r\n</LI>\r\n</UL>\r\n<P>Participants should come with
-      either an existing or potential project in mind. There will be a brief reading
-      to do prior to the workshop.  </P>\r\n<P><SPAN><SPAN><BR><STRONG>About our instructor:</STRONG></SPAN></SPAN></P>\r\n<P><SPAN><SPAN>This
-      session will be led by Nancy Maron, founder of BlueSky to BluePrint, a strategic
-      research and consulting organization specializing in helping leaders in the
-      academic and cultural sectors navigate change. Nancy was previously Program
-      Director of Sustainability and Scholarly Communications at Ithaka S+R, where
-      she and her team conducted provocative and insightful studies on funding models
-      and sustainability strategies for digital initiatives. Today, her consulting
-      clients include academic libraries, publishers, library leaders of digital initiatives,
-      and digital preservation services.  Since 2012, Nancy has served as President
-      of the Board of Trustees of the Yonkers Public Library, a three-branch system
-      serving a city of 200,000. For more information, see </SPAN><SPAN><A HREF=\"http://blueskytoblueprint.com/\"
-      TARGET=\"_blank\" REL=\"noopener noreferrer nofollow\">http://blueskytoblueprint.com/</A></SPAN></SPAN></P>"
-  url: https://www.eventbrite.com/e/survive-and-thrive-business-strategy-for-sustaining-your-innovative-projects-and-programs-tickets-37257858257?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-10-10T10:00:00'
-    utc: '2017-10-10T14:00:00Z'
-- name:
     text: 'Navigating Gender in the Library: Strategies for Communication'
     html: 'Navigating Gender in the Library: Strategies for Communication'
   description:
@@ -410,6 +178,99 @@
     timezone: America/New_York
     local: '2017-10-23T14:00:00'
     utc: '2017-10-23T18:00:00Z'
+- name:
+    text: Community Engagement 101
+    html: Community Engagement 101
+  description:
+    text: "Go beyond the survey and into meaningful dialogue! Join us in this interactive
+      workshop as we will learn multiple approaches and techniques to engage with
+      library patrons, and collaborate, listen and learn. Explore how community engagement
+      can improve library services, collections, and help libraries understand how
+      their work is really seen by the community.  \nIn this workshop, we’re going
+      to break up our time into two parts. First, we’ll focus on clarifying what community
+      engagement is from the lens of a library; walk through the preparation process
+      for these types of experiences, including setting goals, choosing the appropriate
+      framework, identifying stakeholders, planning and logistics. Then, we will introduce
+      the role of the facilitator, introducing opportunities to guide the conversation
+      and set expectations. Throughout the workshop, we will use a participatory model
+      to demonstrate tips and tricks for planning an engagement experience. \nAt the
+      end of the workshop, participants will have the tools to:\n\n\nset achievable
+      goals and objectives for the engagement  \n\n\nselect the most appropriate type
+      of experience for your desired outcomes\n\n\ndetermine best practices for planning
+      a successful experience with consideration for your context\n\n\nmanage expectations
+      while leading productive conversations\n\n\n------\nThis class is a series of
+      professional development trainings to empower METRO members to better engage
+      with their patrons, facilitate community conversations around timely or controversial
+      topics, and make more space in libraries for the productive exchange and evaluation
+      of differing ideas and information. Each class stands alone but will work as
+      a series as they build upon each other.  \nNovember 16th: Supporting Productive
+      Conversations\nWant to host a conversation in your library but aren’t sure how
+      to get started? How do you create space for a productive discussion? This training
+      will help you build your skills for facilitating roundtable meetings and other
+      public discourse in your library. \nDecember 7th: Participatory Decision Making\nLibraries
+      both large and small need to garner input from donors, patrons, and other community
+      stakeholders when making important decisions. This training will help you build
+      a toolkit of techniques and approaches for facilitating productive brainstorms,
+      planning, and decision-making meetings.  \n------\nAbout our instructor\nKristina
+      Drury is a social entrepreneur, designer, and educator. Her mission-driven firm, TYTHEdesign,
+      uses the lens of design and strategy to support social good organizations develop
+      creative solutions, build their capacity and enhance their impact. Under her
+      leadership TYTHE has increased the community impact of over 100 local and global
+      social good organizations including the NYC Dept. of Education, Brooklyn Public
+      Library, The Earth Institute and California State Library System.\nMost recently,
+      she has been recognized as an Innovation Expert for UNDP and selected to present
+      at Clinton Global Initiative University’s annual conference.  As an educator,
+      she has taught classes, workshops and training to build the capacity of over
+      2000 change-makers, civic servants, leaders, and entrepreneurs. Her teaching
+      and speaking experience includes engagements at the Cooper Hewitt, Harvard and
+      Columbia."
+    html: |-
+      <P><SPAN>Go beyond the survey and into meaningful dialogue! Join us in this interactive workshop as we will learn multiple approaches and techniques to engage with library patrons, and collaborate, listen and learn. Explore how community engagement can improve library services, collections, and help libraries understand how their work is really seen by the community.  </SPAN></P>
+      <P>In this workshop, we’re going to break up our time into two parts. First, we’ll focus on clarifying what community engagement is from the lens of a library; walk through the preparation process for these types of experiences, including setting goals, choosing the appropriate framework, identifying stakeholders, planning and logistics. Then, we will introduce the role of the facilitator, introducing opportunities to guide the conversation and set expectations. Throughout the workshop, we will use a participatory model to demonstrate tips and tricks for planning an engagement experience. </P>
+      <P>At the end of the workshop, participants will have the tools to:</P>
+      <UL>
+      <LI>
+      <P><SPAN>set achievable goals and objectives for the engagement  </SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>select the most appropriate type of experience for your desired outcomes</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>determine best practices for planning a successful experience with consideration for your context</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>manage expectations while leading productive conversations</SPAN></P>
+      </LI>
+      </UL>
+      <P>------</P>
+      <P>This class is a series of professional development trainings to empower METRO members to better engage with their patrons, facilitate community conversations around timely or controversial topics, and make more space in libraries for the productive exchange and evaluation of differing ideas and information. Each class stands alone but will work as a series as they build upon each other.  </P>
+      <P><STRONG>November 16th: Supporting Productive Conversations</STRONG></P>
+      <P><SPAN>Want to host a conversation in your library but aren’t sure how to get started? How do you create space for a productive discussion? This training will help you build your skills for facilitating roundtable meetings and other public discourse in your library. </SPAN></P>
+      <P><STRONG>December 7th: Participatory Decision Making</STRONG></P>
+      <P><SPAN>Libraries both large and small need to garner input from donors, patrons, and other community stakeholders when making important decisions. This training will help you build a toolkit of techniques and approaches for facilitating productive brainstorms, planning, and decision-making meetings.  </SPAN></P>
+      <P>------</P>
+      <P><STRONG>About our instructor</STRONG></P>
+      <P><SPAN>Kristina Drury is a social entrepreneur, designer, and educator. Her mission-driven firm, </SPAN><A HREF="http://www.tythe-design.com/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>TYTHEdesign</SPAN></A><SPAN>, uses the lens of design and strategy to support social good organizations develop creative solutions, build their capacity and enhance their impact. Under her leadership TYTHE has increased the community impact of over 100 local and global social good organizations including the NYC Dept. of Education, Brooklyn Public Library, The Earth Institute and California State Library System.</SPAN></P>
+      <P>Most recently, she has been recognized as an Innovation Expert for UNDP and selected to present at Clinton Global Initiative University’s annual conference.  As an educator, she has taught classes, workshops and training to build the capacity of over 2000 change-makers, civic servants, leaders, and entrepreneurs. Her teaching and speaking experience includes engagements at the Cooper Hewitt, Harvard and Columbia.</P>
+  url: https://www.eventbrite.com/e/community-engagement-101-tickets-38059871099?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-10-26T10:00:00'
+    utc: '2017-10-26T14:00:00Z'
+- time: 1509384600000
+  link: https://www.meetup.com/stmlibrarians/events/243473577/
+  description:
+    html: "<p>1. Fred Stoss<br/>Preparedness Matters: Library Roles in Planning for
+      Disaster</p> <p>2. Ellie Irons and Anne Percoco<br/>Next Epoch Seed Library:
+      An Archive of Weedy Species</p> <p>3. Aruna Magier:<br/>Water, Land, and Forests:
+      Documenting India’s Environmental Activism</p> <p>4. Robert Chen:<br/>Enabling
+      Interdisciplinary Use of Scientific Data on Human Interactions in the Environment</p> "
+  name:
+    html: Libraries, the Environment, and Sustainability
+  start:
+    utc: '2017-10-30 13:30:00 -0400'
+    local: '2017-10-30 13:30:00 -0400'
+  url: https://www.meetup.com/stmlibrarians/events/243473577/
 - name:
     text: 'Project Management: First Principles'
     html: 'Project Management: First Principles'
@@ -538,6 +399,79 @@
     local: '2017-11-15T10:00:00'
     utc: '2017-11-15T15:00:00Z'
 - name:
+    text: Supporting Productive Conversations
+    html: Supporting Productive Conversations
+  description:
+    text: "Want to host a conversation in your library but aren’t sure how to get
+      started? Want to invite speakers in to share diverse or opposing viewpoints?
+       How do you create space for a productive discussion? This training will help
+      you build your skills for facilitating roundtable meetings, workshops and other
+      public discourse in your library. \nIn this workshop, we’ll first focus on clarifying
+      the role of the facilitator with a focus on identifying opportunities to guide
+      the conversation. Then we’ll focus on the role of the facilitator in group settings
+      and how to use specific tools/techniques to lead productive conversations; tackle
+      common facilitation challenges, and manage group dynamics. Throughout the workshop,
+      we will uses a participatory model to demonstrate tips and tricks for planning
+      an engagement experience. \nAt the end of the workshop, participants will have
+      the strategies and techniques to:\n\n\nfor being a strong facilitator and leader
+      including how to set ground rules. \n\n\ndetermine how to encourage participation
+      and keep the conversation flowing \n\n\nnavigate the challenges of neutrality
+      and managing difficult participants\n\n\nanticipate and navigate tricky group
+      dynamics before and during session\n\n\n------\nThis class is a series of professional
+      development trainings to empower METRO members to better engage with their patrons,
+      facilitate community conversations around timely or controversial topics, and
+      make more space in libraries for the productive exchange and evaluation of differing
+      ideas and information. Each class stands alone but will work as a series as
+      they build upon each other.\nNovember 16th: Participatory Decision Making \nLibraries
+      large and small need to garner input from donors, patrons, and other community
+      stakeholders when making important decisions. This training will help you build
+      a toolkit of techniques and approaches for facilitating productive brainstorms,
+      planning, and decision-making meetings.  \n------\nAbout our instructor\nKristina
+      Drury is a social entrepreneur, designer, and educator. Her mission-driven firm, TYTHEdesign,
+      uses the lens of design and strategy to support social good organizations develop
+      creative solutions, build their capacity and enhance their impact. Under her
+      leadership TYTHE has increased the community impact of over 100 local and global
+      social good organizations including the NYC Dept. of Education, Brooklyn Public
+      Library, The Earth Institute and California State Library System.\nMost recently,
+      she has been recognized as an Innovation Expert for UNDP and selected to present
+      at Clinton Global Initiative University’s annual conference.  As an educator,
+      she has taught classes, workshops and training to build the capacity of over
+      2000 change-makers, civic servants, leaders, and entrepreneurs. Her teaching
+      and speaking experience includes engagements at the Cooper Hewitt, Harvard and
+      Columbia.\n"
+    html: |-
+      <P><SPAN>Want to host a conversation in your library but aren’t sure how to get started? Want to invite speakers in to share diverse or opposing viewpoints?  How do you create space for a productive discussion? This training will help you build your skills for facilitating roundtable meetings, workshops and other public discourse in your library. </SPAN></P>
+      <P>In this workshop, we’ll first focus on clarifying the role of the facilitator with a focus on identifying opportunities to guide the conversation. Then we’ll focus on the role of the facilitator in group settings and how to use specific tools/techniques to lead productive conversations; tackle common facilitation challenges, and manage group dynamics. Throughout the workshop, we will uses a participatory model to demonstrate tips and tricks for planning an engagement experience. </P>
+      <P><SPAN>At the end of the workshop, participants will have the strategies and techniques to:</SPAN></P>
+      <UL>
+      <LI>
+      <P><SPAN>for being a strong facilitator and leader including how to set ground rules. </SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>determine how to encourage participation and keep the conversation flowing </SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>navigate the challenges of neutrality and managing difficult participants</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>anticipate and navigate tricky group dynamics before and during session</SPAN></P>
+      </LI>
+      </UL>
+      <P>------</P>
+      <P>This class is a series of professional development trainings to empower METRO members to better engage with their patrons, facilitate community conversations around timely or controversial topics, and make more space in libraries for the productive exchange and evaluation of differing ideas and information. Each class stands alone but will work as a series as they build upon each other.</P>
+      <P><STRONG>November 16th: Participatory Decision Making </STRONG></P>
+      <P><SPAN>Libraries large and small need to garner input from donors, patrons, and other community stakeholders when making important decisions. This training will help you build a toolkit of techniques and approaches for facilitating productive brainstorms, planning, and decision-making meetings.  </SPAN></P>
+      <P>------</P>
+      <P><STRONG>About our instructor</STRONG></P>
+      <P><SPAN>Kristina Drury is a social entrepreneur, designer, and educator. Her mission-driven firm, </SPAN><A HREF="http://www.tythe-design.com/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>TYTHEdesign</SPAN></A><SPAN>, uses the lens of design and strategy to support social good organizations develop creative solutions, build their capacity and enhance their impact. Under her leadership TYTHE has increased the community impact of over 100 local and global social good organizations including the NYC Dept. of Education, Brooklyn Public Library, The Earth Institute and California State Library System.</SPAN></P>
+      <P>Most recently, she has been recognized as an Innovation Expert for UNDP and selected to present at Clinton Global Initiative University’s annual conference.  As an educator, she has taught classes, workshops and training to build the capacity of over 2000 change-makers, civic servants, leaders, and entrepreneurs. Her teaching and speaking experience includes engagements at the Cooper Hewitt, Harvard and Columbia.</P>
+      <P><SPAN><BR></SPAN></P>
+  url: https://www.eventbrite.com/e/supporting-productive-conversations-tickets-38060019543?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-11-16T10:00:00'
+    utc: '2017-11-16T15:00:00Z'
+- name:
     text: The Universal Elements of Good Design
     html: The Universal Elements of Good Design
   description:
@@ -594,3 +528,58 @@
     timezone: America/New_York
     local: '2017-12-04T10:00:00'
     utc: '2017-12-04T15:00:00Z'
+- name:
+    text: 'Participatory Decision Making '
+    html: 'Participatory Decision Making '
+  description:
+    text: "Libraries both large and small need to garner input from donors, patrons,
+      and other community stakeholders when making important decisions. This training
+      will help you build a toolkit of techniques and approaches for facilitating
+      productive brainstorms, planning, and decision-making meetings.  \nIn this workshop,
+      we’ll first focus on clarifying the collaborative participatory decision-making
+      process; interactively demonstrating how to lead a series of activities and
+      methodologies, best practices for setting and managing expectations, while supporting
+      productive conversations.  Then we’ll outline how these types of activities
+      fit into a problem-solving process, the typical information it collects, strengths
+      and limitations, and using the mapping process to generate ideas and lead productive
+      conversations.\nAt the end of the workshop, participants will have the tools
+      to:\n\n\nuse and lead different methodologies and activities for group decision-making\n\n\nto
+      arrive at a consensus (and when not to) \n\n\nto guide pivoting conversations
+      while addressing constraints \n\n\n------\nAbout our instructor\nKristina Drury
+      is a social entrepreneur, designer, and educator. Her mission-driven firm, TYTHEdesign,
+      uses the lens of design and strategy to support social good organizations develop
+      creative solutions, build their capacity and enhance their impact. Under her
+      leadership TYTHE has increased the community impact of over 100 local and global
+      social good organizations including the NYC Dept. of Education, Brooklyn Public
+      Library, The Earth Institute and California State Library System.\nMost recently,
+      she has been recognized as an Innovation Expert for UNDP and selected to present
+      at Clinton Global Initiative University’s annual conference.  As an educator,
+      she has taught classes, workshops and training to build the capacity of over
+      2000 change-makers, civic servants, leaders, and entrepreneurs. Her teaching
+      and speaking experience includes engagements at the Cooper Hewitt, Harvard and
+      Columbia.\n"
+    html: |-
+      <P><SPAN>Libraries both large and small need to garner input from donors, patrons, and other community stakeholders when making important decisions. This training will help you build a toolkit of techniques and approaches for facilitating productive brainstorms, planning, and decision-making meetings.  </SPAN></P>
+      <P>In this workshop, we’ll first focus on clarifying the collaborative participatory decision-making process; interactively demonstrating how to lead a series of activities and methodologies, best practices for setting and managing expectations, while supporting productive conversations.  Then we’ll outline how these types of activities fit into a problem-solving process, the typical information it collects, strengths and limitations, and using the mapping process to generate ideas and lead productive conversations.</P>
+      <P>At the end of the workshop, participants will have the tools to:</P>
+      <UL>
+      <LI>
+      <P><SPAN>use and lead different methodologies and activities for group decision-making</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>to arrive at a consensus (and when not to) </SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>to guide pivoting conversations while addressing constraints </SPAN></P>
+      </LI>
+      </UL>
+      <P>------</P>
+      <P><STRONG>About our instructor</STRONG></P>
+      <P><SPAN>Kristina Drury is a social entrepreneur, designer, and educator. Her mission-driven firm, </SPAN><A HREF="http://www.tythe-design.com/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>TYTHEdesign</SPAN></A><SPAN>, uses the lens of design and strategy to support social good organizations develop creative solutions, build their capacity and enhance their impact. Under her leadership TYTHE has increased the community impact of over 100 local and global social good organizations including the NYC Dept. of Education, Brooklyn Public Library, The Earth Institute and California State Library System.</SPAN></P>
+      <P>Most recently, she has been recognized as an Innovation Expert for UNDP and selected to present at Clinton Global Initiative University’s annual conference.  As an educator, she has taught classes, workshops and training to build the capacity of over 2000 change-makers, civic servants, leaders, and entrepreneurs. Her teaching and speaking experience includes engagements at the Cooper Hewitt, Harvard and Columbia.</P>
+      <P><SPAN><BR></SPAN></P>
+  url: https://www.eventbrite.com/e/participatory-decision-making-tickets-38060131879?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-12-07T10:00:00'
+    utc: '2017-12-07T15:00:00Z'

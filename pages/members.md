@@ -170,8 +170,8 @@ Queens Borough Public Library
 Queens College, CUNY  
 Queens Hospital Center  
 Queensborough Community College, CUNY  
-Relay Graduate School of Education
-Richmond University Medical Center
+Relay Graduate School of Education  
+Richmond University Medical Center  
 Rockefeller Archive Center  
 Rockefeller University  
 Russell Sage Foundation  
@@ -202,9 +202,9 @@ SUNY Maritime College
 SUNY Westchester Community College  
 Swedish Institute  
 TCI College of Technology   
-Teachers College/ Columbia University 
-The Frick Collection 
-The Grolier Club of New York 
+Teachers College/ Columbia University   
+The Frick Collection   
+The Grolier Club of New York   
 The Morgan Library & Museum  
 The Winthrop Group, Inc.  
 Thirteen/WNET  

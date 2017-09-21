@@ -13,13 +13,20 @@ Come use our studio services on the 8th floor at 599 11th Ave! Read more about t
    [Send an inquiry with this form](https://airtable.com/embed/shr4tXGpVx7db0FcI?backgroundColor=cyan)
    
    [Read more about our digitization services and scanning equipment](#digi-workstation)
+   
+3. ### AV Media Transfer  
+   [Send an inquiry with this form](https://airtable.com/shrEMIIX0VYaKTc5c)
+   
+   [Read more about our AV media transfer equipment](#av-transfer)
+   
+   [View the full AV Media Transfer Station documentation and workflow](https://docs.google.com/document/d/1MSyAroe0YGXvE-wIksrRFFOWxuu5Nk3ZnJatq11Is3o/edit?usp=sharing)
 
-3. ### Media Migration and Recovery 
+4. ### Media Migration and Recovery 
    [Send an inquiry with this form](https://airtable.com/embed/shr2aXLzQoqNIsrQ0?backgroundColor=cyan)
    
    [Read more about our media migration and recovery equipment](#media-migration)
 
-4. ### Graphic Output / Printing
+5. ### Graphic Output / Printing
    [Read more about our vinyl cutter](#graphic-output)
 
 We also have a couple of desktop computers available with software for image, audio, and video post-processing.
@@ -88,6 +95,26 @@ Software for post-processing of images. Batch edit with Adobe Bridge or Photosho
 [Fill out this form to book a service.](https://airtable.com/embed/shr4tXGpVx7db0FcI?backgroundColor=cyan)
 
 [Back to top](#top)
+
+<a class="anchor" name="av-transfer"></a>
+
+## AV Media Transfer Services
+
+At METRO's transfer station you can migrate your unstable audio and video media to digital, preservation-level files. Our rack is unique in that it supports audio-to-digital video transfer, digital-to-digital video transfer, and audio transfer. The transfer rack and workflows were built and created by the [XFR Collective](https://xfrcollective.wordpress.com/) as part of their [partnership with METRO.](http://metro.org/news/METRO-AND-XFR-COLLECTIVE-NEW-PARTNERSHIP)
+
+The rack in METRO's studio has decks that can handle the following formats:
+* VHS videotape
+* U-Matic (also called ¾ inch) videotape
+* Betacam videotape
+* DVCam and miniDV
+* Compact Audio Cassette
+* ¼ inch Audiotape Reels
+
+You will need to determine which AV formats you have and make sure they do not display signs of mold or [sticky-shed syndrome](https://en.wikipedia.org/wiki/Sticky-shed_syndrome) before you come in for an appointment. If you have any questions please email mschwartz@metro.org or xfrcollective@gmail.com. 
+
+[Fill out this form to book a service.](https://airtable.com/shrEMIIX0VYaKTc5c)
+
+[Read the full AV Transfer Station workflow and documentation.](https://docs.google.com/document/d/1MSyAroe0YGXvE-wIksrRFFOWxuu5Nk3ZnJatq11Is3o/edit?usp=sharing) 
 
 <a class="anchor" name="media-migration"></a>
 
