@@ -19,6 +19,39 @@
     timezone: America/New_York
     local: '2017-09-25T10:00:00'
     utc: '2017-09-25T14:00:00Z'
+- name:
+    text: Intro to Data Analysis with Python
+    html: Intro to Data Analysis with Python
+  description:
+    text: |-
+      Participants will build on critical data literacy skills from previous workshops and begin to explore open data using Python, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use Python to aid their research, explore data sets and discover insights. 
+      Participants will:
+
+      Download and install Python and supporting software
+      Learn basic commands for exploring data
+      Explore a dataset from NYC Open Data 
+
+      No previous programming experience required!
+      Pizza, salad, and beverages will be provided at this workshop.
+      About our instructor:
+      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
+    html: |-
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will build on critical data literacy skills from previous workshops and begin to explore open data using Python, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use Python to aid their research, explore data sets and discover insights. <BR></P>
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will:</P>
+      <UL>
+      <LI>Download and install Python and supporting software</LI>
+      <LI>Learn basic commands for exploring data</LI>
+      <LI>Explore a dataset from NYC Open Data <BR></LI>
+      </UL>
+      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal"><I>No previous programming experience required!</I><BR></P>
+      <P>Pizza, salad, and beverages will be provided at this workshop.</P>
+      <P><STRONG>About our instructor:</STRONG></P>
+      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
+  url: https://www.eventbrite.com/e/intro-to-data-analysis-with-python-tickets-34860393375?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-09-26T18:00:00'
+    utc: '2017-09-26T22:00:00Z'
 - time: 1506634200000
   link: https://www.meetup.com/NYC-Audio-Meetup/events/243500289/
   description:
@@ -110,6 +143,23 @@
     timezone: America/New_York
     local: '2017-10-04T16:00:00'
     utc: '2017-10-04T20:00:00Z'
+- name:
+    text: 'The New Mutants: Superheroes and the Radical Imagination of American Comics'
+    html: 'The New Mutants: Superheroes and the Radical Imagination of American Comics'
+  description:
+    text: |-
+      In 1964, noted literary critic Leslie Fiedler described American youth as “new mutants,” social rebels severing their attachments to American culture to remake themselves in their own image. In this talk, Ramzi Fawaz explores how 1960s comic book creators, anticipating Fiedler, began to morph American superheroes from icons of nationalism and white masculinity into actual mutant outcasts, defined by their genetic difference from ordinary humanity.
+      These powerful misfits and “freaks” soon came to embody the social and political aspirations of America’s most marginalized groups, including women, racial and sexual minorities, and the working classes. Examining a range of comic book series including the Justice League of America, The Fantastic Four, and The X-Men, Fawaz shows how these comics provided readers an exceptionally diverse range of new characters and creative worlds to interact with while modeling ways of bridging divides of race, species, kin and kind for their mutual flourishing and the good of the world.
+      About our speaker: Ramzi Fawaz is assistant professor of English at the University of Wisconsin, Madison. He is the author of The New Mutants: Superheroes and the Radical Imagination of American Comics (NYU Press, 2016), which won the 2012 Center for Lesbian and Gay Studies Fellowship Award for best first book manuscript in LGBT Studies. His work has been published in numerous journals including American Literature, GLQ, ASAP/Journal, Feminist Studies, and Callaloo. He is currently co-editing a special issue of American Literature with Darieck Scott titled "Queer About Comics," and a special issue of GLQ with Shanté Smalls titled "Queers Read This: LGBTQ Literature Now."
+    html: |-
+      <P>In 1964, noted literary critic Leslie Fiedler described American youth as “new mutants,” social rebels severing their attachments to American culture to remake themselves in their own image. In this talk, Ramzi Fawaz explores how 1960s comic book creators, anticipating Fiedler, began to morph American superheroes from icons of nationalism and white masculinity into actual mutant outcasts, defined by their genetic difference from ordinary humanity.</P>
+      <P>These powerful misfits and “freaks” soon came to embody the social and political aspirations of America’s most marginalized groups, including women, racial and sexual minorities, and the working classes. Examining a range of comic book series including the Justice League of America, The Fantastic Four, and The X-Men, Fawaz shows how these comics provided readers an exceptionally diverse range of new characters and creative worlds to interact with while modeling ways of bridging divides of race, species, kin and kind for their mutual flourishing and the good of the world.</P>
+      <P>About our speaker: <BR>Ramzi Fawaz is assistant professor of English at the University of Wisconsin, Madison. He is the author of The New Mutants: Superheroes and the Radical Imagination of American Comics (NYU Press, 2016), which won the 2012 Center for Lesbian and Gay Studies Fellowship Award for best first book manuscript in LGBT Studies. His work has been published in numerous journals including American Literature, GLQ, ASAP/Journal, Feminist Studies, and Callaloo. He is currently co-editing a special issue of American Literature with Darieck Scott titled "Queer About Comics," and a special issue of GLQ with Shanté Smalls titled "Queers Read This: LGBTQ Literature Now."</P>
+  url: https://www.eventbrite.com/e/the-new-mutants-superheroes-and-the-radical-imagination-of-american-comics-tickets-37942394724?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-10-06T16:30:00'
+    utc: '2017-10-06T20:30:00Z'
 - time: 1507921200000
   link: https://www.meetup.com/racial-and-social-justice-in-the-library/events/243559479/
   description:
@@ -276,6 +326,43 @@
     utc: '2017-10-30 13:30:00 -0400'
     local: '2017-10-30 13:30:00 -0400'
   url: https://www.meetup.com/stmlibrarians/events/243473577/
+- name:
+    text: Developing a Culturally Responsive Literacy (or Library?) Lens
+    html: Developing a Culturally Responsive Literacy (or Library?) Lens
+  description:
+    text: |-
+      Using prominent texts from the field of culturally relevant education -- particularly literacy education, as well as anecdotes from everyday life, and library and teaching experiences -- this course will prepare library workers and educators to build awareness about race, class, gender, sexuality and develop language to engage in conversations around these topics in their workplaces and communities. This workshops will help participants advocate for all people’s access to relevant materials, create meaningful programs, and enhance day-to-day library practice.
+      By the end of this session, participants will be able to:
+
+      Situate themselves within US cultural context and a local context
+      Reflect on how texts have shaped their personal identity and how it can shape those of students and patrons
+      Reflect on daily work experiences as a mode of professional learning about cultural context
+      Develop an understanding of why and how to think critically about text choices   
+      Brainstorm strategies for bringing these practices into their local contexts and workplaces
+      Practice having conversations about challenging issues in libraries
+
+      About our facilitators
+      Jessica Hochman is an assistant professor at Pratt Institute School of Information. She teaches courses on teaching and learning in libraries, whether and how to use technology for instruction, and intersectionality. Research interests include the nexus of youth culture and technology, informal literacy practices, discourses of teaching and teachers, and feminist theory and practice. 
+      Tonya Leslie is an educational consultant specializing in culturally responsive practices for schools, libraries and other educational organizations. She has a PhD in teaching and learning from NYU where she worked at the Metropolitan Center for Research and Transformation of Schools supporting school districts nationally to develop strategies for closing achievement gaps and improving systems for equitable outcomes. Her research explores how multiple literacies influence identity development and academic resilience. Currently, Leslie works with educational publishers like Scholastic to build strategies for the development of diverse texts.
+    html: |-
+      <P>Using prominent texts from the field of culturally relevant education -- particularly literacy education, as well as anecdotes from everyday life, and library and teaching experiences -- this course will prepare library workers and educators to build awareness about race, class, gender, sexuality and develop language to engage in conversations around these topics in their workplaces and communities. This workshops will help participants advocate for all people’s access to relevant materials, create meaningful programs, and enhance day-to-day library practice.</P>
+      <P>By the end of this session, participants will be able to:</P>
+      <UL>
+      <LI>Situate themselves within US cultural context and a local context</LI>
+      <LI>Reflect on how texts have shaped their personal identity and how it can shape those of students and patrons</LI>
+      <LI>Reflect on daily work experiences as a mode of professional learning about cultural context</LI>
+      <LI>Develop an understanding of why and how to think critically about text choices   </LI>
+      <LI>Brainstorm strategies for bringing these practices into their local contexts and workplaces</LI>
+      <LI>Practice having conversations about challenging issues in libraries</LI>
+      </UL>
+      <P><STRONG>About our facilitators</STRONG></P>
+      <P><SPAN><SPAN>Jessica Hochman is an assistant professor at Pratt Institute School of Information. She teaches courses on teaching and learning in libraries, whether and how to use technology for instruction, and intersectionality. Research interests include the nexus of youth culture and technology, informal literacy practices, discourses of teaching and teachers, and feminist theory and practice. </SPAN></SPAN></P>
+      <P><SPAN>Tonya Leslie is an educational consultant specializing in culturally responsive practices for schools, libraries and other educational organizations. She has a PhD in teaching and learning from NYU where she worked at the Metropolitan Center for Research and Transformation of Schools </SPAN><SPAN>supporting school districts nationally to develop strategies for closing achievement gaps and improving systems for equitable outcomes. </SPAN><SPAN>Her research explores how multiple literacies influence identity development and academic resilience. Currently, Leslie works with educational publishers like Scholastic to build strategies for the development of diverse texts.</SPAN></P>
+  url: https://www.eventbrite.com/e/developing-a-culturally-responsive-literacy-or-library-lens-tickets-37942685594?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-10-31T10:00:00'
+    utc: '2017-10-31T14:00:00Z'
 - name:
     text: 'Project Management: First Principles'
     html: 'Project Management: First Principles'
