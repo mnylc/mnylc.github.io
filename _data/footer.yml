@@ -1,15 +1,17 @@
+- title: 'Staff'
+  url: '/staff'
 - title: 'Board'
   url: '/board'
 - title: 'Contact'
   url: '/contact'
-- title: 'Staff'
-  url: '/staff'
+- title: 'Location'
+  url: '/location'
 - title: 'Space Rental'
   url: '/space-rental'
-- title: 'Code of Conduct'
-  url: '/code-of-conduct'
 - title: 'Member Directory'
   url: '/assets/docs/Fall2017Directory.pdf'
+- title: 'Code of Conduct'
+  url: '/code-of-conduct'
 
 
 
