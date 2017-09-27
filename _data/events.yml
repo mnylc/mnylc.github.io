@@ -1,50 +1,5 @@
 ---
 - name:
-    text: Intro to Data Analysis with Python
-    html: Intro to Data Analysis with Python
-  description:
-    text: |-
-      Participants will build on critical data literacy skills from previous workshops and begin to explore open data using Python, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use Python to aid their research, explore data sets and discover insights. 
-      Participants will:
-
-      Download and install Python and supporting software
-      Learn basic commands for exploring data
-      Explore a dataset from NYC Open Data 
-
-      No previous programming experience required!
-      Pizza, salad, and beverages will be provided at this workshop.
-      About our instructor:
-      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
-    html: |-
-      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will build on critical data literacy skills from previous workshops and begin to explore open data using Python, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use Python to aid their research, explore data sets and discover insights. <BR></P>
-      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal">Participants will:</P>
-      <UL>
-      <LI>Download and install Python and supporting software</LI>
-      <LI>Learn basic commands for exploring data</LI>
-      <LI>Explore a dataset from NYC Open Data <BR></LI>
-      </UL>
-      <P CLASS="m_2989492293979046974inbox-inbox-m_-4059860651488773250inbox-inbox-TPNormal"><I>No previous programming experience required!</I><BR></P>
-      <P>Pizza, salad, and beverages will be provided at this workshop.</P>
-      <P><STRONG>About our instructor:</STRONG></P>
-      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
-  url: https://www.eventbrite.com/e/intro-to-data-analysis-with-python-tickets-34860393375?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-09-26T18:00:00'
-    utc: '2017-09-26T22:00:00Z'
-- time: 1506634200000
-  link: https://www.meetup.com/NYC-Audio-Meetup/events/243500289/
-  description:
-    html: '<p>You can sign up for this open house at METRO in our event on Eventbrite:
-      <a href="https://www.eventbrite.com/e/metro-studio-open-house-tickets-37453984877"
-      class="linkified">https://www.eventbrite.com/e/metro-studio-open-house-tickets-37453984877</a></p> '
-  name:
-    html: Check out METRO's studio and listen to some library-related podcasts
-  start:
-    utc: '2017-09-28 17:30:00 -0400'
-    local: '2017-09-28 17:30:00 -0400'
-  url: https://www.meetup.com/NYC-Audio-Meetup/events/243500289/
-- name:
     text: METRO Studio Open House
     html: METRO Studio Open House
   description:
@@ -292,6 +247,51 @@
     timezone: America/New_York
     local: '2017-10-26T10:00:00'
     utc: '2017-10-26T14:00:00Z'
+- name:
+    text: 'Podcast Production 101: Creating, Editing, and Sharing Audio Recordings'
+    html: 'Podcast Production 101: Creating, Editing, and Sharing Audio Recordings'
+  description:
+    text: |-
+      Embrace the possibilities of audio storytelling with this 3-part podcasting workshop at METRO Library Council! Join us on three Thursday nights this fall from 6:00 p.m. - 9:00 p.m.:
+
+      October 26
+      November 2
+      November 16
+
+      This class will cover the basics of creating a podcast, from recording and editing to transcription and dissemination. You will come away with tools and examples to help you get started recording interviews, structuring narratives, editing large volumes of tape, and using archival sound.
+      The skills you learn in the class will be applicable for podcasting, oral history, and audio documentary projects. The workshop is appropriate for beginners and those with some level of recording experience who are looking to learn more about the craft of structuring audio stories.
+      By the end of this workshop, you can expect to be able to:
+
+      create a short audio recording
+      edit sound files
+      share your podcast with the world!
+
+      We will work through a short homework assignment during our "week off" from this course.
+      About our instructor
+      Anne Pope is a freelance audio engineer, media maker, and educator with over 20 years of experience working in media production. Her clients have included the New York Times, Conde Nast, BBC, The Guardian, AOL/Huffington post, and History Channel. For the past 3 years she has been recording, editing, and mixing programs for WNYC's award-winning daily news segments.
+    html: |-
+      <P><SPAN>Embrace the possibilities of audio storytelling with this 3-part podcasting workshop at METRO Library Council! Join us on three Thursday nights this fall from 6:00 p.m. - 9:00 p.m.:</SPAN></P>
+      <UL>
+      <LI>October 26</LI>
+      <LI>November 2</LI>
+      <LI>November 16</LI>
+      </UL>
+      <P>This class will cover the basics of creating a podcast, from recording and editing to transcription and dissemination. You will come away with tools and examples to help you get started recording interviews, structuring narratives, editing large volumes of tape, and using archival sound.</P>
+      <P><SPAN>The skills you learn in the class will be applicable for podcasting, oral history, and audio documentary projects. The workshop is appropriate for beginners and those with some level of recording experience who are looking to learn more about the craft of structuring audio stories.</SPAN></P>
+      <P>By the end of this workshop, you can expect to be able to:</P>
+      <UL>
+      <LI>create a short audio recording</LI>
+      <LI>edit sound files</LI>
+      <LI>share your podcast with the world!</LI>
+      </UL>
+      <P>We will work through a short homework assignment during our "week off" from this course.</P>
+      <P><STRONG>About our instructor</STRONG></P>
+      <P>Anne Pope is a freelance audio engineer, media maker, and educator with over 20 years of experience working in media production. Her clients have included the New York Times, Conde Nast, BBC, The Guardian, AOL/Huffington post, and History Channel. For the past 3 years she has been recording, editing, and mixing programs for WNYC's award-winning daily news segments.</P>
+  url: https://www.eventbrite.com/e/podcast-production-101-creating-editing-and-sharing-audio-recordings-tickets-38306059455?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-10-26T19:00:00'
+    utc: '2017-10-26T23:00:00Z'
 - time: 1509384600000
   link: https://www.meetup.com/stmlibrarians/events/243473577/
   description:
