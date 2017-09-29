@@ -1,30 +1,5 @@
 ---
 - name:
-    text: METRO Studio Open House
-    html: METRO Studio Open House
-  description:
-    text: |-
-      Join us for the first METRO Studio Open House Thursday, where we'll play, hang out, watch, and listen together.This month, we'll have a podcast listening party! We have three short libraries-in-NYC-related podcasts lined up that we can listen to and discuss together.The schedule will be as follows:
-
-      5:30 - 6:00: arrive and mingle
-      6:00 - 7:00: podcast listening party / experiment with equipment
-      7:00 - 7:30: mingle and wrap up
-
-      Light refreshments will be served. We hope to see you there!
-    html: |-
-      <P><SPAN>Join us for the first METRO Studio Open House Thursday, wh</SPAN><SPAN>ere we'll play, hang out, watch, and listen together.</SPAN><BR><BR><SPAN>This month, we'll have a podcast listening party! We have three short libraries-in-NYC-related podcasts lined up that we can listen to and discuss together.</SPAN><BR><BR><SPAN>The schedule will be as follows:</SPAN></P>
-      <UL>
-      <LI><SPAN CLASS="aQJ">5:30 - 6:00:</SPAN> arrive and mingle</LI>
-      <LI><SPAN CLASS="aQJ">6:00 - 7:00:</SPAN><SPAN> podcast listening party / experiment with equipment</SPAN></LI>
-      <LI><SPAN CLASS="aQJ">7:00 - 7:30:</SPAN> mingle and wrap up</LI>
-      </UL>
-      <P>Light refreshments will be served. We hope to see you there!</P>
-  url: https://www.eventbrite.com/e/metro-studio-open-house-tickets-37453984877?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-09-28T17:30:00'
-    utc: '2017-09-28T21:30:00Z'
-- name:
     text: 'Sound Advice: Practices for Producing & Managing Audio Content'
     html: 'Sound Advice: Practices for Producing &amp; Managing Audio Content'
   description:
@@ -133,6 +108,30 @@
     utc: '2017-10-13 15:00:00 -0400'
     local: '2017-10-13 15:00:00 -0400'
   url: https://www.meetup.com/racial-and-social-justice-in-the-library/events/243559479/
+- name:
+    text: METRO Studio Open House
+    html: METRO Studio Open House
+  description:
+    text: "Join us for the second METRO Studio Open House, where we'll hang out and
+      learn together.\nThis month, we'll be celebrating New York Archives Week! The
+      METRO Studio provides equipment at five workstations for education, training,
+      and use by members of the libraries, archives, and museums community. \nStations
+      include: Audio Recording and Editing, Digitization, AV Media Transfer, Media
+      Migration and Recovery, and Graphic Output/Printing.\nThe METRO Open House is
+      a great time to get familiarized with our equipment and learn more about our
+      services. METRO staff will be present to assist with use of equipment at each
+      of our stations so you can get started on a project of your own! Demonstrations
+      and activities will take place throughout the day."
+    html: |-
+      <P><SPAN><SPAN>Join us for the second METRO Studio Open House, wh</SPAN><SPAN>ere we'll hang out and learn together.</SPAN></SPAN></P>
+      <P><SPAN><SPAN>This month, we'll be celebrating New York Archives Week! <SPAN>The METRO Studio provides equipment at five workstations for education, training, and use by members of the libraries, archives, and museums community. </SPAN></SPAN></SPAN></P>
+      <P><SPAN><SPAN><SPAN>Stations include: </SPAN></SPAN></SPAN>Audio Recording and Editing, Digitization, AV Media Transfer, Media Migration and Recovery, and Graphic Output/Printing.</P>
+      <P>The METRO Open House is a great time to get familiarized with our equipment and learn more about our services. METRO staff will be present to assist with use of equipment at each of our stations so you can get started on a project of your own! Demonstrations and activities will take place throughout the day.</P>
+  url: https://www.eventbrite.com/e/metro-studio-open-house-tickets-38346813351?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2017-10-20T13:00:00'
+    utc: '2017-10-20T17:00:00Z'
 - name:
     text: 'Navigating Gender in the Library: Strategies for Communication'
     html: 'Navigating Gender in the Library: Strategies for Communication'
