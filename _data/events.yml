@@ -38,41 +38,6 @@
     local: '2017-10-13 15:00:00 -0400'
   url: https://www.meetup.com/racial-and-social-justice-in-the-library/events/243559479/
 - name:
-    text: 'Navigating Gender in the Library: Strategies for Communication'
-    html: 'Navigating Gender in the Library: Strategies for Communication'
-  description:
-    text: |-
-      Navigating Gender in the Library: Strategies for Communication & Empathy
-      Join us in this interactive workshop as we practice communication skills to promote gender equity and empathy in your workplace. We will engage in a series of team-building exercises and discussions focused on sharing experiences, building confidence, and deconstructing the systems that perpetuate inequities in our field. 
-      At the end of the workshop, participants will have the tools to:
-
-      Recognize structures of gender inequity in the workplace
-      Communicate their value to coworkers, supervisors, and patrons
-      Practice empathy and flexibility in everyday conversations
-
-
-      About our instructors:
-      Laura Childs has her MSLIS from Pratt Institute. Her mission is to transform perceptions and increase public understanding of librarians and libraries. You can find her recently published article, "To Uphold and Resist: Protecting Intellectual Freedom through Progressive Librarianship," in The Serials Librarian. During the day, she manages information at a non-profit organization.
-      Peter Rossetti is a life design strategist and graphic designer who helps people uncover their vision and goals. Peter is focused on creating opportunities for experiential learning and facilitates workshops on how design and creativity can improve lives. He is the President of AIGA Brand Central, a professional design organization that serves the branding community in the NYC Metro area.
-    html: |-
-      <P><STRONG>Navigating Gender in the Library: Strategies for Communication &amp; Empathy</STRONG></P>
-      <P>Join us in this interactive workshop as we practice communication skills to promote gender equity and empathy in your workplace. We will engage in a series of team-building exercises and discussions focused on sharing experiences, building confidence, and deconstructing the systems that perpetuate inequities in our field. </P>
-      <P CLASS="MsoNormal"><SPAN>At the end of the workshop, participants will have the tools to:</SPAN></P>
-      <UL>
-      <LI><SPAN>Recognize structures of gender inequity in the workplace</SPAN></LI>
-      <LI><SPAN><SPAN></SPAN></SPAN><SPAN>Communicate their value to coworkers, supervisors, and patrons</SPAN></LI>
-      <LI><SPAN><SPAN></SPAN></SPAN><SPAN>Practice empathy and flexibility in everyday conversations</SPAN></LI>
-      </UL>
-      <P><BR></P>
-      <P><STRONG>About our instructors:</STRONG></P>
-      <P><SPAN>Laura Childs has her MSLIS from Pratt Institute. Her mission is to transform perceptions and increase public understanding of librarians and libraries. You can find her recently published article, "To Uphold and Resist: Protecting Intellectual Freedom through Progressive Librarianship," in <I>The Serials Librarian</I>. During the day, she manages information at a non-profit organization.</SPAN></P>
-      <P>Peter Rossetti is a life design strategist and graphic designer who helps people uncover their vision and goals. Peter is focused on creating opportunities for experiential learning and facilitates workshops on how design and creativity can improve lives. He is the President of AIGA Brand Central, a professional design organization that serves the branding community in the NYC Metro area.</P>
-  url: https://www.eventbrite.com/e/navigating-gender-in-the-library-strategies-for-communication-tickets-35093593884?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2017-10-23T14:00:00'
-    utc: '2017-10-23T18:00:00Z'
-- name:
     text: METRO Studio Open House
     html: METRO Studio Open House
   description:
