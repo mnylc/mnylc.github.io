@@ -18,7 +18,7 @@ We're now accepting presentation proposals on facets of library & archives work 
 * The ethics of unpaid internships
 * Money, social power, and class
 
-Please [submit your presentation proposals](https://docs.google.com/forms/d/e/1FAIpQLScmBkltSdy_cpgL4sHj9OO2-aLYtWdbgEQMLMAwG7m5NSWrAQ/viewform?usp=sf_link) by midnight on Friday, October 13.
+Please [submit your presentation proposals](https://docs.google.com/forms/d/e/1FAIpQLScmBkltSdy_cpgL4sHj9OO2-aLYtWdbgEQMLMAwG7m5NSWrAQ/viewform?usp=sf_link) by midnight on Friday, November 3.
 
 We are also seeking individuals who would like to join our planning committee for this event. In addition to reviewing and selecting proposals to be presented day-of, you’ll be asked to provide feedback on how we might build interaction and dialogue into this event. We're offering a small stipend; please [apply here](https://docs.google.com/forms/d/e/1FAIpQLSej-LkFvPVE3YPvUro9SL1w3-r4C0I8YEcqk1FfRPyqbvjD3Q/viewform?usp=sf_link) by Friday, September 15.
 
