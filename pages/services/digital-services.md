@@ -6,8 +6,6 @@ permalink: /services/digital-services
 
 [Data Services](#esdn)
 
-[Studio Services](#cit)
-
 [Digitization Grant Program](#digi_grants)
 
 [Funded Projects](#projects)
