@@ -46,8 +46,6 @@ Museum of Modern Art (MoMA)
 2007-2017
 
 **Mary Lee Kennedy**  
-Chief Library Officer  
-New York Public Library  
 2016-2021  
 
 **Shannon Mattern**  
