@@ -41,8 +41,7 @@ New York University Steinhardt School of Education
 2008-2018  
 
 **Milan R. Hughston**  
-Chief of Library  
-Museum of Modern Art (MoMA)   
+Art Information Specialist  
 2007-2017
 
 **Mary Lee Kennedy**  
