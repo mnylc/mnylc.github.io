@@ -45,7 +45,7 @@ Chief of Library
 Museum of Modern Art (MoMA)   
 2007-2017
 
-**Mary Lee Kennedy** 
+**Mary Lee Kennedy**
 Principal, The Kennedy Group 
 2016-2021  
 
