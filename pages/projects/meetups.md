@@ -2,7 +2,9 @@
 title: METRO Meetups
 permalink: /projects/meetups/
 ---
-METRO is proud to support the work of our members through Special Interest Groups. Each group is convened by leaders in our field around a topic of interest to our wider community.
+METRO is proud to support the work of our members through our METRO Meetups program. Each group is convened by leaders in our field around a topic of interest to our wider community. 
+
+Curious about organizing a Meetup? [Check out our program guidelines](https://docs.google.com/document/d/1IHJzo1OEb9qMW96k2lnfQYhBWX7-oCiqFS29QOkvKYQ/edit?usp=sharing).
 
 
 ## Code4LibNYC ##
@@ -41,7 +43,7 @@ This group comes together to share ideas, questions, and experiences from our te
 
 [https://www.meetup.com/Librarians-for-College-Readiness/](https://www.meetup.com/Librarians-for-College-Readiness/)
 
-Marifran DeMaine, Carl Andrews, Leanne Ellis, Co-organizers
+Leanne Ellis, Organizer
 
 This group provides an opportunity for high school and college librarians to share their experiences. The group will help high school librarians prepare students for college. Academic librarians will gain a better idea of where students are coming from and how they can help.
 
@@ -51,7 +53,7 @@ Through conversation, this SIG will work to ease students’ transition between 
 ## Library Assistants and Support Staff ##
 [https://sites.google.com/a/metro.org/lassa/](https://sites.google.com/a/metro.org/lassa/)
 
-Rita Gregory and Mildred Graham, Co-organizers
+Anthony Wyche and Valentine Colon, Co-organizers
 
 The mission of the LASSA SIG is to foster the recognition and support of the professional contributions of all library assistants, support staff and associates through the circulation of information, the availability of education, and constructive dialogue within the library community.
 
