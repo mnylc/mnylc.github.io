@@ -40,18 +40,6 @@
     utc: '2017-10-25 10:00:00 -0400'
     local: '2017-10-25 10:00:00 -0400'
   url: https://www.meetup.com/Economics-Business-Librarians-Group/events/242032183/
-- time: 1508961600000
-  link: https://www.meetup.com/Librarians-for-College-Readiness/events/243884073/
-  description:
-    html: "<p>Hope you can attend this first meeting for 2017 of the Librarians for
-      College Readiness Meetup!  </p> <p>\n\n\nPlease email me any agenda items you
-      would like to discuss!</p> <p>\n\n\nThanks!</p> <p>\n\n\nLeanne (LEllis3@schools.nyc.gov)</p> "
-  name:
-    html: Librarians for College Readiness Meetup for 2017-2018
-  start:
-    utc: '2017-10-25 16:00:00 -0400'
-    local: '2017-10-25 16:00:00 -0400'
-  url: https://www.meetup.com/Librarians-for-College-Readiness/events/243884073/
 - name:
     text: 'Podcast Production 101: Creating, Editing, and Sharing Audio Recordings'
     html: 'Podcast Production 101: Creating, Editing, and Sharing Audio Recordings'
