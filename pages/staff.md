@@ -137,7 +137,7 @@ mseynou@metro.org
 
 Madjalia assists the controller in facilitating accounting, finance, and human resources functions at METRO. She manages operational data, maintains data accuracy, and assists in special projects.
 
-Prior to joining METRO, Madjalia was an Assistant Controller at MOF Microcredit, a partnership company based in Burkina Faso. Madjalia obtained a B.S in Economics and Management from the University of Ouagadougou and an MS in Accounting from St. Johns University.
+Prior to joining METRO, Madjalia was an Assistant Controller at MOF Microcredit, a partnership company based in Burkina Faso. Madjalia obtained a B.S in Economics and Management from the University of Ouagadougou, and an MS in Accounting from St. John's University.
 
 ## Kerri Willette
 **Deputy Director**
