@@ -16,6 +16,9 @@
     - title: "599 Studio Services"
       suburl: "/services/599studio"
 
+- title: 'Projects'
+  url: '/projects'
+  
 - title: 'Events'
   url: '/events'
   
