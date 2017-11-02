@@ -1,6 +1,6 @@
 ---
 title: METRO Meetups
-permalink: /projects/meetups/
+permalink: /services/meetups/
 ---
 METRO is proud to support the work of our members through our METRO Meetups program. Each group is convened by leaders in our field around a topic of interest to our wider community. 
 
