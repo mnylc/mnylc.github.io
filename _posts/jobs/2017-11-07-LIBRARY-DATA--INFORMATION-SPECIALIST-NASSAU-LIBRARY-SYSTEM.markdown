@@ -40,7 +40,7 @@ Uniondale, NY, USA
 
 ### URL###
 
-View the complete job description at: [https://www.nassaulibrary.org/careers.](https://www.nassaulibrary.org/careers.)
+View the complete job description at: [https://www.nassaulibrary.org/careers](https://www.nassaulibrary.org/careers)
 
 ### To Apply###
 
