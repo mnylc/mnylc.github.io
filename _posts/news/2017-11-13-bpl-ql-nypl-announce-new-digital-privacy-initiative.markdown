@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Brooklyn Public Library, Queens Library, and The New York Public Library Announce a New Digital Privacy Initiative"
+title:  "A New Digital Privacy Initiative"
 date:   2017-11-13
 tag:	news
 
 ---
-For Immediate Release
 
-New York, NY (October 23, 2017) - Brooklyn Public Library, The New York Public Library, Queens Library, and Metropolitan New York Library Council (METRO) are pleased to announce a new initiative that will bring resources and information regarding digital privacy and data security to New York City’s public library staff. 
+Brooklyn Public Library, The New York Public Library, Queens Library, and Metropolitan New York Library Council (METRO) are pleased to announce a new initiative that will bring resources and information regarding digital privacy and data security to New York City’s public library staff. 
 
 **NYC Digital Safety: Privacy & Security** is a partnership between New York City’s three library systems and METRO, a library resources council serving NYC and Westchester County. With support from the City of New York Mayor’s Office of the Chief Technology Officer, the project will ensure that NYC residents can rely on public libraries for their questions about internet privacy and security. 
 
@@ -41,4 +40,5 @@ Founded in 1896, **Queens Library** transforms lives by cultivating intellectual
 ## About METRO
 Metropolitan New York Library Council (METRO) is a non-profit organization where New York’s libraries and archives come together to learn, share ideas, and collaborate. We work with our membership to develop and maintain essential services throughout New York City and Westchester County. METRO is the most populous of nine reference and research resource councils, known as the Empire State Library Network (ESLN), in New York State.
 
+For more information about this iniative, please contact Davis Erin Anderson, Program Manager - Technology, Culture, and Libraries, METRO at deanderson@metro.org or by phone at 212-228-2320 x. 7122.
 
