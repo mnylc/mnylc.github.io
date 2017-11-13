@@ -40,7 +40,7 @@ Founded in 1896, **Queens Library** transforms lives by cultivating intellectual
 ## About METRO
 Metropolitan New York Library Council (METRO) is a non-profit organization where New York’s libraries and archives come together to learn, share ideas, and collaborate. We work with our membership to develop and maintain essential services throughout New York City and Westchester County. METRO is the most populous of nine reference and research resource councils, known as the Empire State Library Network (ESLN), in New York State.
 
-###
+---
 
 For more information about this iniative, please contact Davis Erin Anderson, Program Manager - Technology, Culture, and Libraries, METRO at deanderson@metro.org or by phone at 212-228-2320 x. 7122.
 
