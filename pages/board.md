@@ -85,8 +85,8 @@ Metropolitan New York Library Council (METRO)
 * Thursday, April 27, 2017
 * Friday, July 28, 2017 (virtual)
 * Thursday, September 7, 2017
-* **Monday, November 6, 2017**
-* Monday, December 11, 2017 (virtual)
+* Monday, November 6, 2017
+* **Monday, December 11, 2017** (virtual)
 
 All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 
