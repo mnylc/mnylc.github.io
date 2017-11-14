@@ -66,7 +66,7 @@
       We’ll also briefly talk about the components that make modern search engines like Google orders of magnitude more intelligent and resilient than these classic technique
 
       About our instructor:
-      Gio has been working with data, architecting systems, and leading teams of engineers for over a decade. He’s currently a co-founder at Related Works (www.relatedworks.io), which aims to build simple, intelligent products that help cultural institutions share their collections with the world. Previously he worked as a Staff Engineer at Etsy, where he lead the Search Ranking and Search Experience teams.
+      Gio has been working with data, architecting systems, and leading teams of engineers for over a decade. He’s currently a co-founder at Related Works (www.relatedworks.io), which aims to build simple, intelligent products that help cultural institutions share their collections with the world. Previously he worked as a Staff Engineer at Etsy, where he led the Search Ranking and Search Experience teams.
     html: |-
       <P><SPAN>It’s in your browser. Your operating system. Your phone. Your car. Your automated home assistant. And of course, it’s on your institution's public website. </SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>Search is everywhere. </SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>But most users, and even most administrators or engineers, know very little about what happens behind the scenes when you type something into that proverbial textbox. </SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>In this talk we’ll take a deep dive to understand how Search works from the ground up. We’ll cover classic information retrieval subjects like:</SPAN></P>
       <UL>
@@ -101,7 +101,7 @@
       <P><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>We’ll also briefly talk about the components that make modern search engines like Google orders of magnitude more intelligent and resilient than these classic technique</SPAN></P>
       <P><SPAN><BR></SPAN></P>
       <P><STRONG>About our instructor:</STRONG></P>
-      <P><SPAN>Gio has been working with data, architecting systems, and leading teams of engineers for over a decade. He’s currently a co-founder at Related Works (www.relatedworks.io), which aims to build simple, intelligent products that help cultural institutions share their collections with the world. Previously he worked as a Staff Engineer at Etsy, where he lead the Search Ranking and Search Experience teams.</SPAN></P>
+      <P><SPAN>Gio has been working with data, architecting systems, and leading teams of engineers for over a decade. He’s currently a co-founder at Related Works (www.relatedworks.io), which aims to build simple, intelligent products that help cultural institutions share their collections with the world. Previously he worked as a Staff Engineer at Etsy, where he led the Search Ranking and Search Experience teams.</SPAN></P>
       <P><SPAN><BR></SPAN></P>
   url: https://www.eventbrite.com/e/how-do-search-engines-work-tickets-36518876944?aff=ebapi
   start:
