@@ -5,7 +5,7 @@ date:   2017-11-15
 tag:	news
 
 ---
-*It has been one year since we posted the first episode of METRO’s [Library Bytegeist](https://soundcloud.com/librarybytegeist/) podcast. Fittingly, Molly Schwartz, our Studio Manager who also hosts and produces Library Bytegiest (LB), created a “year in review” for the podcast’s [14th episode](https://soundcloud.com/librarybytegeist/14-bye-bye-bytegeist-a-year-in-review).* 
+*It has been one year since we posted the first episode of METRO’s [Library Bytegeist](https://soundcloud.com/librarybytegeist/) podcast. Fittingly, Molly Schwartz, our Studio Manager who also hosts and produces Library Bytegeist (LB), created a “year in review” for the podcast’s [14th episode](https://soundcloud.com/librarybytegeist/14-bye-bye-bytegeist-a-year-in-review).* 
 
 *Join Molly as she looks back at the year gone by with audio snippets from past episodes, a short history of how the podcast came into being, and a reflection on all of the changes that METRO has been through in the past year. This episode includes a couple of announcements about what’s in store for the future of LB... so listen away and stay tuned!*
 
