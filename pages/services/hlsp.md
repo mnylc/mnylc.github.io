@@ -27,11 +27,11 @@ The NYS HLSP guidelines may be found [here](http://archive.metro.org/new-york-st
 For more information on HLSP Collection Development grants, contact Nathalie Reid, [nreid@metro.org](mailto:nreid@metro.org).  
   
 ## Technology Grants
-Each year, METRO receives funding to support technology needs in hospital libraries. Grants are available to members of METRO's Hospital Library Services Program. 
+Each year, METRO receives funding to support technology needs in hospital libraries. Grants are available to members of METRO's Hospital Library Services Program. Applications are reviewed by an ad-hoc committee drawn from the HLSP Advisory Council. 
 
-The application period and guidelines are announced each fall. Applications are reviewed by an ad-hoc committee drawn from the HLSP Advisory Council. 
+The application period and guidelines will be announced soon.  
 
-Next application cycle opens Fall 2017.
+For more information on HLSP Technology grants, contact Nathalie Reid, [nreid@metro.org](mailto:nreid@metro.org).  
 
 ## Medical Information Service Program Grants
 
