@@ -11,8 +11,6 @@ METRO services to hospital and medical center libraries include:
 - An annual conference session focused on current issues related to health and medical library issues
 - Free or discounted access to databases 
 
-For more information about our HLSP program, please contact Nathalie Reid, [nreid@metro.org](mailto:nreid@metro.org).
-
 ## Grant Opportunities
 METRO distributes funds from the New York State Library to support acquisitions, technology upgrades and interlibrary loan services for hospital libraries.
 
@@ -24,14 +22,10 @@ Applications are currently open and can be found [here](http://bit.ly/HLSPCDG). 
   
 The NYS HLSP guidelines may be found [here](http://archive.metro.org/new-york-state-hospital-library-services-program/).  
   
-For more information on HLSP Collection Development grants, contact Nathalie Reid, [nreid@metro.org](mailto:nreid@metro.org).  
-  
 ## Technology Grants
 Each year, METRO receives funding to support technology needs in hospital libraries. Grants are available to members of METRO's Hospital Library Services Program. Applications are reviewed by an ad-hoc committee drawn from the HLSP Advisory Council. 
 
 The application period and guidelines will be announced soon.  
-
-For more information on HLSP Technology grants, contact Nathalie Reid, [nreid@metro.org](mailto:nreid@metro.org).  
 
 ## Medical Information Service Program Grants
 
