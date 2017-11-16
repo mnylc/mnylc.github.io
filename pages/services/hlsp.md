@@ -25,7 +25,7 @@ The NYS HLSP guidelines may be found [here]({{ '/services/nyshlsp' | prepend: si
 ## Technology Grants
 Each year, METRO receives funding to support technology needs in hospital libraries. Grants are available to members of METRO's Hospital Library Services Program. Applications are reviewed by an ad-hoc committee drawn from the HLSP Advisory Council. 
 
-The application period and guidelines will be announced soon.  
+The application period and guidelines will be announced January 2018.  
 
 ## Medical Information Service Program Grants
 
