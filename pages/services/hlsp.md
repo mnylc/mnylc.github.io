@@ -24,8 +24,8 @@ Applications are currently open and can be found [here](http://bit.ly/HLSPCDG). 
   
 The NYS HLSP guidelines may be found [here](http://archive.metro.org/new-york-state-hospital-library-services-program/).  
   
-Next application cycle opens Fall 2017.
-
+For more information on HLSP Collection Development grants, contact Nathalie Reid, [nreid@metro.org](mailto:nreid@metro.org).  
+  
 ## Technology Grants
 Each year, METRO receives funding to support technology needs in hospital libraries. Grants are available to members of METRO's Hospital Library Services Program. 
 
