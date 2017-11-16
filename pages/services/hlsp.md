@@ -89,4 +89,4 @@ Next application cycle opens Spring 2018.
 - Yeshiva University/Albert Einstein College of Medicine, D. Samuel Gottesman Library
 
 ## Contact Information
-For information on joining HLSP or for questions related to any of our grant programs, please contact us at [info@metro.org](mailto:info@metro.org) or by phone at (212) 228-2320.
+For information on joining HLSP or for questions related to any of our grant programs, please contact Nathalie Reid, [nreid@metro.org] (mailto:nreid@metro.org).
