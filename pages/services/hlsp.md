@@ -18,7 +18,7 @@ METRO distributes funds from the New York State Library to support acquisitions,
 
 ## Collection Development Grants
 
-Collection development grants are available to METRO's Hospital Library Service Program members. Grant amounts are based on funding available, established need, and current expenditure levels. The NYS HLSP guidelines may be found here.
+Collection development grants are available to METRO's Hospital Library Service Program members. Grant amounts are based on funding available, established need, and current expenditure levels. The NYS HLSP guidelines may be found [here](https://archive.metro.org/new-york-state-hospital-library-services-program/).
 
 Next application cycle opens Fall 2017.
 
