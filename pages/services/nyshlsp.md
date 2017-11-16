@@ -1,6 +1,6 @@
 ---
 title: "New York State Hospital Library Services Program"
-permalink: /nyshlsp/
+permalink: /services/nyshlsp/
 ---
 ## Guidelines for the Use of Hospital Library Services Program Funds (Revised April 2016)
 

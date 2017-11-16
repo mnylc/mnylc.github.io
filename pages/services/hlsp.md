@@ -20,7 +20,7 @@ Collection development grants are available to METRO's Hospital Library Service 
 
 Applications are currently open and can be found [here](http://bit.ly/HLSPCDG). The deadline for submission is December 20, 2017.  
   
-The NYS HLSP guidelines may be found [here](http://archive.metro.org/new-york-state-hospital-library-services-program/).  
+The NYS HLSP guidelines may be found [here]({{ '/services/nyshlsp' | prepend: site.baseurl }})
   
 ## Technology Grants
 Each year, METRO receives funding to support technology needs in hospital libraries. Grants are available to members of METRO's Hospital Library Services Program. Applications are reviewed by an ad-hoc committee drawn from the HLSP Advisory Council. 
