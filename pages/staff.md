@@ -119,6 +119,15 @@ Mark Parson provides critical support for a wide range of activities at METRO. I
 
 Mark is one of our longest-serving staff members, having started at METRO in 2006.
 
+## Nathalie Reid
+**Hospital Library Services Program (HLSP) Manager**
+
+nreid@metro.org
+
+As the Hospital Library Services and Program Manager, Nathalie works with member organizations to provide new resources and services for users. She coordinates and administers METRO's HLSP and MISP grant programs. She also runs the HLSP Advisory Council, and plans workshops, trainings, and events for the program.
+ 
+Prior to her work at METRO, Nathalie was the Data Services and Technology Librarian for the National Networks of the Library of Medicine where she maintained the digital content related to data literacy. She was an active participant in Library Carpentry where she was trained in GitHub, Tableau,  OpenRefine, Voyant, [Import.io](http://import.io), R, and Python. Nathalie also worked for the National Center for Child Traumatic Stress for six years where she managed and developed website content for [NCTSN.org](http://nctsn.org) as well as social media campaigns. She is an active member the Medical Library Association where she presents at annual conferences and publishes in organizational publications.
+
 ## Molly Schwartz
 **Studio Manager, Imaging and Recording Specialist**
 
