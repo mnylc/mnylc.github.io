@@ -44,7 +44,7 @@ Next application cycle opens Spring 2018.
 - Flushing Hospital Medical Center, Medical Library
 - Coler-Goldwater Memorial Hospital, Health Sciences Library
 - Hospital for Joint Diseases Orthopaedic Institute, Herman Robbins Medical Library
-- Hospital for Special Surgery, Barrett Memorial Library
+- Hospital for Special Surgery, Kim Barrett Memorial Library
 - Jamaica Hospital Medical Center, Medical Library
 - Kingsbrook Jewish Medical Center, Medical Library
 - Lenox Hill Hospital, Leopold Health Sciences Library
