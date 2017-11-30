@@ -44,7 +44,7 @@ Coordinates public relations programs for Research and Instructional Services; p
 
 * Seeks college-wide partnerships both internal and external to the classroom to develop and reinforce students' information literacy
 
-Information Literacy / Instructional Services
+**Information Literacy / Instructional Services**  
 Creates engaging opportunities to promote information literacy across the curriculum. In conjunction with the Instructional Services and Assessment Librarian, fosters a culture of assessment. Cultivates relevant and innovative methods to incorporate information literacy standards within instructional sessions.
 
 * Leads research workshops and library orientations, and initiates opportunities to promote information literacy across the curriculum
@@ -55,21 +55,21 @@ Creates engaging opportunities to promote information literacy across the curric
 
 * Works regular weekly shifts at the Research Services Desk, including answering patron questions in person, by phone, and electronically (e.g. chat/email/text "Ask the Library" service.); trains and supervises new librarians and reference assistants at the desk
 
-Web Presence and Special Technology Projects
+**Web Presence and Special Technology Projects**  
 Recommends new applications to deliver digital content to users
 
 * Collaborates with the Library's web development manager to maintain and develop web pages and content; determines content of the Library's pages for RIS to reflect current policies and services
 
 * Collaborates with the Emerging Technologies Librarian to develop innovative modules and multimedia teaching tools
 
-Liaison and Collection Development
+**Liaison and Collection Development**  
 Serves as the point person for assigned subject areas and academic department liaisons with regard to information and referrals for all Library services.
 
 * Reviews and evaluates relevant library resources
 
 * Participates in the Library Liaison program by marketing services and resources; creates and maintains connections with classroom faculty
 
-FACULTY RESPONSIBILITIES AND PROFESSIONAL DEVELOPMENT
+**FACULTY RESPONSIBILITIES AND PROFESSIONAL DEVELOPMENT**  
 Represents the Library at college-wide events and meetings, participates in collegial mentorship, and pursues professional growth.
 
 * Participates in library faculty meetings, library governance and campus-wide initiatives and committees
@@ -86,15 +86,15 @@ Represents the Library at college-wide events and meetings, participates in coll
 
 * Participates in professional development activities to maintain professional competencies
 
-SPECIAL ASSIGNMENTS
+**SPECIAL ASSIGNMENTS**  
 Special assignments in the RIS Unit have included website migration, web content development and information architecture; integrated library systems (Aleph) administration; and specialty outreach to academic departments.
 
-Requirements:
+**Requirements:**  
 ALA accredited MLS and 6 years of progressively responsible library professional experience (academic experience preferred) providing instruction and research services, 5 years of which demonstrate management and supervisory experience that supports strategic thinking, motivating and leading teams.
 
 Demonstrated strong supervisory and team management skills; demonstrated ability to understand the implications of new technology within the library environment; proficiency with information resources in a variety of formats and subject areas; teaching or library instruction experience; familiarity with a variety of teaching concepts, learning styles, and instructional technologies; experience with providing reference and research services to patrons (especially college students and faculty). Excellent organizational, interpersonal, and oral and written communication skills; ability to embrace a diverse environment with a strong commitment to public service. A leader that develops, implements, and executes projects in a highly collaborative environment; demonstrated aptitude for learning emerging technologies and web applications; commitment to data-informed decision-making.
 
-Additional Information:
+**Additional Information:**  
 Non-Classroom Faculty position
 
 Salary depending on experience
@@ -127,7 +127,7 @@ The Fashion Institute of Technology offers exceptional benefits to our full time
 
 To learn more about our generous employee benefits please go to [http://www.fitnyc.edu/hr/benefits/full-time/](http://www.fitnyc.edu/hr/benefits/full-time/)
 
-Application Instructions:
+**Application Instructions:**  
 to apply online, please visit:
 [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=91659](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=91659)
 
