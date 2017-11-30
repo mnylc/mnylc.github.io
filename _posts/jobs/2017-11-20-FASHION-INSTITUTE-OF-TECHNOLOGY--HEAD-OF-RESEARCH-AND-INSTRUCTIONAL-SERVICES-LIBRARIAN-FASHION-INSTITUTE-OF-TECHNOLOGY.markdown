@@ -2,7 +2,7 @@
 layout: post
 title:  "Fashion Institute of Technology - Head of Research and Instructional Services Librarian - Fashion Institute of Technology"
 date:   2017-11-20
-excerpt: "About Fashion Institute of Technology: The Fashion Institute of Technology (FIT), an internationally renowned college of art and design, business and technology, of the State University of New York, invites nominations and applications for a Head of Research and Instructional Services Librarian. Job Description: PURPOSE OF THE JOB The Head..."
+excerpt: "About Fashion Institute of Technology: The Fashion Institute of Technology (FIT), an internationally renowned college of art and design, business and technology, of the State University of New York, invites nominations and applications for a Head of Research and Instructional Services Librarian. **Job Description: PURPOSE OF THE JOB** The Head..."
 tag: job
 ---
 
@@ -12,15 +12,15 @@ About Fashion Institute of Technology:
 The Fashion Institute of Technology (FIT), an internationally renowned college of art and design, business and technology, of the State University of New York, invites nominations and applications for a Head of Research and Instructional Services Librarian.
 
 
-Job Description:
-PURPOSE OF THE JOB
+**Job Description:
+PURPOSE OF THE JOB**  
 The Head of the Research and Instructional Services (RIS) Unit provides vision and strategic direction for instruction and research services offered by the FIT Library.
 
-DESCRIPTION OF THE JOB
+**DESCRIPTION OF THE JOB**  
 The Head of the Research and Instructional Services leads and participates in establishing goals, fostering continuous improvement, managing change, and demonstrating best practices in professional service, support, and assistance to FIT students, faculty, and other researchers.
 The incumbent supervises Research and Instructional Services personnel: full-time and part-time faculty librarians and staff in a unit that operates seven days a week inclusive of evenings.
 
-DUTIES & RESPONSIBILITIES
+**DUTIES & RESPONSIBILITIES**  
 Unit Oversight and Management
 The incumbent fosters a workplace environment that promotes and supports productivity, creativity, innovation, collaboration, ongoing improvement, diversity, inclusion and student-centeredness.
 
@@ -32,7 +32,7 @@ The incumbent fosters a workplace environment that promotes and supports product
 
 * Reviews and assesses unit personnel work performance
 
-Outreach
+**Outreach**  
 Encourages and facilitates partnerships between library and classroom faculty. Collaborates with all library faculty to foster dynamic engagement and integrate information literacy across the curriculum.
 Coordinates public relations programs for Research and Instructional Services; promotes library instruction and information literacy programs; develops instructional and promotional materials, including web-based tutorials
 
