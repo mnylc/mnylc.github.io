@@ -203,7 +203,8 @@ SUNY Westchester Community College
 Swedish Institute  
 TCI College of Technology   
 Teachers College/ Columbia University   
-The Frick Collection   
+The Frick Collection  
+The Chancellor Robert R Livingston Masonic Library  
 The Grolier Club of New York   
 The Morgan Library & Museum  
 The Winthrop Group, Inc.  
