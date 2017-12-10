@@ -79,7 +79,7 @@ President and Founder at Electronic Resources and Libraries.
 Executive Director  
 Metropolitan New York Library Council (METRO)
 
-## 2017/18 Board Meeting Dates
+## 2017-18 Board Meeting Dates
 
 * **Monday, December 11, 2017** (virtual)
 * Tuesday, February 27, 2018
