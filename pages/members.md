@@ -191,6 +191,7 @@ School of Visual Arts
 Shevchenko Scientific Society  
 Sing Sing Correctional Facility  
 Solomon R. Guggenheim Museum Library  
+Somers High School  
 Sotheby's Institute of Art - New York  
 Southern Westchester BOCES School Library System  
 Special Libraries Association, New York Chapter  
