@@ -57,6 +57,8 @@ Next application cycle opens Spring 2018.
 - Montefiore at New Rochelle 
 - Montefiore Medical Center/Tishman Learning Center, Health Sciences Library
 - Mount Sinai Medical Center, Levy Library
+- New York City Dept. of Health & Mental Hygiene
+- New York College of Podiatric Medicine
 - New York Eye & Ear Infirmary, Samuels Medical Library
 - New York Hospital Medical Center of Queens, Health Education Library
 - New York Hospital/Cornell Medical Center, Westchester Division, Medical Library
