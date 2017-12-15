@@ -59,3 +59,155 @@
     timezone: America/New_York
     local: '2018-02-05T18:00:00'
     utc: '2018-02-05T23:00:00Z'
+- name:
+    text: 'New Web Literacy Tools for Learners, Part 1: Reading the Web'
+    html: 'New Web Literacy Tools for Learners, Part 1: Reading the Web'
+  description:
+    text: |+
+      Join us for a fun and engaging train-the-trainer workshop developing on Web Literacy skills! We'll present new and expanded activities from the Mozilla Foundation and explore new modes of assessing learners' newfound skills.
+
+      The first of three workshops, this event will focus on reading the web, including:
+       
+
+
+      evaluating the quality and trustworthiness of information on the web
+      understanding how the web functions as a system
+      developing an awareness of how information is indexed and retrieved
+
+       
+      This workshop is great for educators and for learners who are interested in using the web more effectively.
+      With support from the Mozilla Foundation, this workshop is presented free of charge.
+
+      About our facilitators: 
+
+      Molly manages METRO’s studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station. She is also the host and producer of METRO’s podcast, Library Bytegeist.
+      Davis Erin Anderson, Program Manager - Technology, Culture, and Libraries, leads and works on projects that investigate the intersection of today's online environment on libraries. She is a Mozilla Web Literacy Leader.
+
+    html: |-
+      <DIV><SPAN>Join us for a fun and engaging train-the-trainer workshop developing on Web Literacy skills! We'll present new and expanded activities from the Mozilla Foundation and explore new modes of assessing learners' newfound skills.</SPAN></DIV>
+      <DIV><BR></DIV>
+      <DIV><SPAN>The first of three workshops, this event will focus on reading the web, including:</SPAN></DIV>
+      <DIV> </DIV>
+      <DIV>
+      <UL>
+      <LI><SPAN>evaluating the quality and trustworthiness of information on the web</SPAN></LI>
+      <LI><SPAN>understanding how the web functions as a system</SPAN></LI>
+      <LI><SPAN>developing an awareness of how information is indexed and retrieved</SPAN></LI>
+      </UL>
+      <DIV> </DIV>
+      <DIV><SPAN>This workshop is great for educators and for learners who are interested in using the web more effectively.</SPAN></DIV>
+      <BR CLASS="m_839311931634950470gmail-Apple-interchange-newline"><SPAN>With support from the Mozilla Foundation, this workshop is presented free of charge.</SPAN></DIV>
+      <DIV><BR></DIV>
+      <DIV><SPAN>About our facilitators: </SPAN></DIV>
+      <DIV>
+      <P><SPAN>Molly manages METRO’s studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station. She is also the host and producer of METRO’s podcast, Library Bytegeist.</SPAN></P>
+      <P><SPAN>Davis Erin Anderson, Program Manager - Technology, Culture, and Libraries, leads and works on projects that investigate the intersection of today's online environment on libraries. She is a Mozilla Web Literacy Leader.</SPAN></P>
+      </DIV>
+      <P><BR></P>
+  url: https://www.eventbrite.com/e/new-web-literacy-tools-for-learners-part-1-reading-the-web-tickets-41336439403?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2018-02-06T10:00:00'
+    utc: '2018-02-06T15:00:00Z'
+- name:
+    text: 'New Web Literacy Tools for Learners, Part 2: Writing the Web'
+    html: 'New Web Literacy Tools for Learners, Part 2: Writing the Web'
+  description:
+    text: |+
+      Join us for a fun and engaging train-the-trainer workshop developing on Web Literacy skills! We'll present new and expanded activities from the Mozilla Foundation and explore new modes of assessing learners' newfound skills.
+
+      The second of three workshops, this event will focus on reading the web, including:
+
+
+      understanding the basics of html through offline and online activities
+      creating your first web page
+      learning how content management systems work
+
+      This workshop is great for educators and for learners who are interested in using the web more effectively.
+
+      With support from the Mozilla Foundation, this workshop is presented free of charge.
+
+
+      About our facilitators:
+
+      Molly manages METRO’s studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station. She is also the host and producer of METRO’s podcast, Library Bytegeist.
+      Davis Erin Anderson, Program Manager - Technology, Culture, and Libraries, leads and works on projects that investigate the intersection of today's online environment on libraries. She is a Mozilla Web Literacy Leader.
+
+
+    html: |-
+      <DIV>Join us for a fun and engaging train-the-trainer workshop developing on Web Literacy skills! We'll present new and expanded activities from the Mozilla Foundation and explore new modes of assessing learners' newfound skills.</DIV>
+      <DIV><BR></DIV>
+      <DIV>The second of three workshops, this event will focus on reading the web, including:</DIV>
+      <DIV>
+      <UL>
+      <LI>understanding the basics of html through offline and online activities</LI>
+      <LI>creating your first web page</LI>
+      <LI>learning how content management systems work</LI>
+      </UL>
+      <DIV>This workshop is great for educators and for learners who are interested in using the web more effectively.<BR></DIV>
+      <DIV><BR></DIV>
+      <DIV>With support from the Mozilla Foundation, this workshop is presented free of charge.</DIV>
+      <DIV></DIV>
+      <DIV>
+      <DIV><SPAN>About our facilitators:</SPAN></DIV>
+      <DIV>
+      <P><SPAN>Molly manages METRO’s studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station. She is also the host and producer of METRO’s podcast, Library Bytegeist.</SPAN></P>
+      <P><SPAN>Davis Erin Anderson, Program Manager - Technology, Culture, and Libraries, leads and works on projects that investigate the intersection of today's online environment on libraries. She is a Mozilla Web Literacy Leader.</SPAN></P>
+      </DIV>
+      </DIV>
+      </DIV>
+  url: https://www.eventbrite.com/e/new-web-literacy-tools-for-learners-part-2-writing-the-web-tickets-41336592862?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2018-02-20T10:00:00'
+    utc: '2018-02-20T15:00:00Z'
+- name:
+    text: 'New Web Literacy Tools for Learners, Part 3: Participating the Web'
+    html: 'New Web Literacy Tools for Learners, Part 3: Participating the Web'
+  description:
+    text: |+
+      Join us for a fun and engaging train-the-trainer workshop developing on Web Literacy skills! We'll present new and expanded activities from the Mozilla Foundation and explore new modes of assessing learners' newfound skills.
+
+      The third of three workshops, this event will focus on reading the web, including:
+
+
+      Creating, exploring, and personalizing digital images as a tool for communication
+      Curating and sharing information online
+      Understanding how to work together via the web
+
+      This workshop is great for educators and for learners who are interested in using the web more effectively.
+      With support from the Mozilla Foundation, this workshop is presented free of charge.
+
+
+      About our facilitators:
+
+      Molly manages METRO’s studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station. She is also the host and producer of METRO’s podcast, Library Bytegeist.
+      Davis Erin Anderson, Program Manager - Technology, Culture, and Libraries, leads and works on projects that investigate the intersection of today's online environment on libraries. She is a Mozilla Web Literacy Leader.
+
+
+    html: |-
+      <DIV>Join us for a fun and engaging train-the-trainer workshop developing on Web Literacy skills! We'll present new and expanded activities from the Mozilla Foundation and explore new modes of assessing learners' newfound skills.</DIV>
+      <DIV><BR></DIV>
+      <DIV>The third of three workshops, this event will focus on reading the web, including:</DIV>
+      <DIV>
+      <UL>
+      <LI>Creating, exploring, and personalizing digital images as a tool for communication</LI>
+      <LI>Curating and sharing information online</LI>
+      <LI>Understanding how to work together via the web</LI>
+      </UL>
+      <DIV>This workshop is great for educators and for learners who are interested in using the web more effectively.<BR></DIV>
+      <DIV><BR CLASS="m_-9128363476832690975gmail-Apple-interchange-newline">With support from the Mozilla Foundation, this workshop is presented free of charge.</DIV>
+      <DIV></DIV>
+      <DIV>
+      <DIV><SPAN>About our facilitators:</SPAN></DIV>
+      <DIV>
+      <P><SPAN>Molly manages METRO’s studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station. She is also the host and producer of METRO’s podcast, Library Bytegeist.</SPAN></P>
+      <P><SPAN>Davis Erin Anderson, Program Manager - Technology, Culture, and Libraries, leads and works on projects that investigate the intersection of today's online environment on libraries. She is a Mozilla Web Literacy Leader.</SPAN></P>
+      </DIV>
+      </DIV>
+      </DIV>
+  url: https://www.eventbrite.com/e/new-web-literacy-tools-for-learners-part-3-participating-the-web-tickets-41336645018?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2018-02-27T10:00:00'
+    utc: '2018-02-27T15:00:00Z'
