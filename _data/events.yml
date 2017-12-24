@@ -1,5 +1,32 @@
 ---
 - name:
+    text: 'METRO Studio Orientation: Vinyl Plotter and Audio Stations'
+    html: 'METRO Studio Orientation: Vinyl Plotter and Audio Stations'
+  description:
+    text: |-
+      Come by for a tour of the METRO Studio! The tour will include an overview of our stations and available equipment. Then, stick around for introductory demos on how to print out decals on our vinyl plotter and how to record oral histories in the sound booth. The evening will close with some free time for testing out equipment.
+      Agenda:
+
+      4:00 PM - Studio tour with Molly Schwartz
+      4:30 PM - Vinyl plotter demo with Laura Forshay
+      5:00 PM - Free time to practice using the vinyl plotter and recording interviews in the sound booth (free of charge)
+
+      We hope to see you there!
+    html: |-
+      <P>Come by for a tour of the METRO Studio! The tour will include an overview of our stations and available equipment. Then, stick around for introductory demos on how to print out decals on our vinyl plotter and how to record oral histories in the sound booth. The evening will close with some free time for testing out equipment.</P>
+      <P>Agenda:<BR></P>
+      <UL>
+      <LI>4:00 PM - Studio tour with Molly Schwartz</LI>
+      <LI>4:30 PM - Vinyl plotter demo with Laura Forshay</LI>
+      <LI>5:00 PM - Free time to practice using the vinyl plotter and recording interviews in the sound booth (free of charge)</LI>
+      </UL>
+      <P>We hope to see you there!</P>
+  url: https://www.eventbrite.com/e/metro-studio-orientation-vinyl-plotter-and-audio-stations-tickets-41508846076?aff=ebapi
+  start:
+    timezone: America/New_York
+    local: '2018-01-29T16:00:00'
+    utc: '2018-01-29T21:00:00Z'
+- name:
     text: Libraries in the Context of Capitalism
     html: Libraries in the Context of Capitalism
   description:
