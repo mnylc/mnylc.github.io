@@ -215,7 +215,7 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 **May 7, 2012**
 
 * [Agenda]({{ "/assets/board/2012_05_07_Agenda.pdf" | prepend: site.baseurl }})
-* [Minutes]({{ "/assets/board/2012_05_07_2012_Minutes.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/2012_05_07_Minutes.pdf" | prepend: site.baseurl }})
 
 **February 10, 2012**
 
