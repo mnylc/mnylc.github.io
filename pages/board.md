@@ -163,8 +163,8 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 
 **February 17, 2015**
 
-* [Agenda]({{ "/assets/board/02.17.2015___Board_Agenda.pdf" | prepend: site.baseurl }})
-* [Minutes]({{ "/assets/board/02.17.2015___Board_Minutes.pdf" | prepend: site.baseurl }})
+* [Agenda]({{ "/assets/board/2015_02_17_Agenda.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/2015_02_17_Minutes.pdf" | prepend: site.baseurl }})
 
 **November 17, 2014**
 
