@@ -9,9 +9,9 @@ permalink: /board/
 Senior Fellow, Intelligent Community Forum   
 2005-2020
 
-**Lisa G. Rosenblum, Vice President**  
+<!---**Lisa G. Rosenblum, Vice President**  
 Chief Librarian, Brooklyn Public Library  
-2016-2021  
+2016-2021-->    
 
 **Joshua Greenberg, Treasurer**  
 Program Director, Digital Information Technology  
