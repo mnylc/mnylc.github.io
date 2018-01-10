@@ -204,8 +204,8 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 
 **January 22, 2013**
 
-* [Agenda]({{ "/assets/board/01.22.2013BoardAgenda.pdf" | prepend: site.baseurl }})
-* [Minutes]({{ "/assets/board/BoardofTrusteesMeetingMinutes20130122.pdf" | prepend: site.baseurl }})
+* [Agenda]({{ "/assets/board/2013_01_22_Agenda.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/2013_01_22_Minutes.pdf" | prepend: site.baseurl }})
 
 **September 7, 2012**
 
