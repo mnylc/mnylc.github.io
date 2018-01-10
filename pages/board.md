@@ -133,8 +133,8 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 
 **September 9, 2016**
 
-* [Agenda]({{ "/assets/board/09.09.2016BoardAgenda.docx.pdf" | prepend: site.baseurl}})
-* [Minutes]({{ "/assets/board/09.09.2016BoardMinutes.docx.pdf" | prepend: site.baseurl}})
+* [Agenda]({{ "/assets/board/2016_09_09_Agenda.pdf" | prepend: site.baseurl}})
+* [Minutes]({{ "/assets/board/2016_09_09_Minutes.pdf" | prepend: site.baseurl}})
 
 **May 23, 2016**
 
