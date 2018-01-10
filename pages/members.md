@@ -6,6 +6,7 @@ permalink: /members/
 ACRL, NY  
 ADELPHI University  
 American Foundation for the Blind  
+American Jewish Historical Society  
 American Jewish Joint Distribution Committee  
 American Museum of Natural History  
 Andrew W. Mellon Foundation  
