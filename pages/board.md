@@ -138,18 +138,18 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 
 **May 23, 2016**
 
-* [Agenda]({{ "/assets/board/Agenda_05-23-2016.pdf" | prepend: site.baseurl}})
-* [Minutes]({{ "/assets/board/05.23.2016BoardMinutes.docx.pdf" | prepend: site.baseurl}})
+* [Agenda]({{ "/assets/board/2016_05_23_Agenda.pdf" | prepend: site.baseurl}})
+* [Minutes]({{ "/assets/board/2016_05_23_Minutes.pdf" | prepend: site.baseurl}})
 
 **February 22, 2016**
 
-* [Agenda]({{ "/assets/board/02.22.2016___Board_Agenda.pdf" | prepend: site.baseurl}})
-* [Minutes]({{ "/assets/board/02.22.2016BoardMinutes.pdf" | prepend: site.baseurl}})
+* [Agenda]({{ "/assets/board/2016_02_22_Agenda.pdf" | prepend: site.baseurl}})
+* [Minutes]({{ "/assets/board/2016_02_22_Minutes.pdf" | prepend: site.baseurl}})
 
 **December 4, 2015**
 
-* [Agenda]({{ "/assets/board/12.04.2015___Board_Agenda_g8NIpq8.pdf" | prepend: site.baseurl }})
-* [Minutes]({{ "/assets/board/12.04.2015___Board_Minutes_pmM3K9N.pdf" | prepend: site.baseurl }})
+* [Agenda]({{ "/assets/board/2015_12_04_Agenda.pdf" | prepend: site.baseurl }})
+* [Minutes]({{ "/assets/board/2015_12_04_Minutes.pdf" | prepend: site.baseurl }})
 
 **September 3, 2015**
 
