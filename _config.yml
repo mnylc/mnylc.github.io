@@ -63,7 +63,7 @@ attribution:
     name: agency
     url: https://github.com/y7kim/agency-jekyll-theme
 
-gems:
+plugins:
   - jekyll-seo-tag
 
 google_analytics: UA-96398579-1
