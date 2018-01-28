@@ -194,56 +194,6 @@
     local: '2018-02-05T18:00:00'
     utc: '2018-02-05T23:00:00Z'
 - name:
-    text: 'New Web Literacy Tools for Learners, Part 3: Participating the Web'
-    html: 'New Web Literacy Tools for Learners, Part 3: Participating the Web'
-  description:
-    text: |+
-      Join us for a fun and engaging train-the-trainer workshop developing on Web Literacy skills! We'll present new and expanded activities from the Mozilla Foundation and explore new modes of assessing learners' newfound skills.
-
-      The third of three workshops, this event will focus on reading the web, including:
-
-
-      Creating, exploring, and personalizing digital images as a tool for communication
-      Curating and sharing information online
-      Understanding how to work together via the web
-
-      This workshop is great for educators and for learners who are interested in using the web more effectively.
-      With support from the Mozilla Foundation, this workshop is presented free of charge.
-
-
-      About our facilitators:
-
-      Molly manages METRO’s studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station. She is also the host and producer of METRO’s podcast, Library Bytegeist.
-      Davis Erin Anderson, Program Manager - Technology, Culture, and Libraries, leads and works on projects that investigate the intersection of today's online environment on libraries. She is a Mozilla Web Literacy Leader.
-
-
-    html: |-
-      <DIV>Join us for a fun and engaging train-the-trainer workshop developing on Web Literacy skills! We'll present new and expanded activities from the Mozilla Foundation and explore new modes of assessing learners' newfound skills.</DIV>
-      <DIV><BR></DIV>
-      <DIV>The third of three workshops, this event will focus on reading the web, including:</DIV>
-      <DIV>
-      <UL>
-      <LI>Creating, exploring, and personalizing digital images as a tool for communication</LI>
-      <LI>Curating and sharing information online</LI>
-      <LI>Understanding how to work together via the web</LI>
-      </UL>
-      <DIV>This workshop is great for educators and for learners who are interested in using the web more effectively.<BR></DIV>
-      <DIV><BR CLASS="m_-9128363476832690975gmail-Apple-interchange-newline">With support from the Mozilla Foundation, this workshop is presented free of charge.</DIV>
-      <DIV></DIV>
-      <DIV>
-      <DIV><SPAN>About our facilitators:</SPAN></DIV>
-      <DIV>
-      <P><SPAN>Molly manages METRO’s studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station. She is also the host and producer of METRO’s podcast, Library Bytegeist.</SPAN></P>
-      <P><SPAN>Davis Erin Anderson, Program Manager - Technology, Culture, and Libraries, leads and works on projects that investigate the intersection of today's online environment on libraries. She is a Mozilla Web Literacy Leader.</SPAN></P>
-      </DIV>
-      </DIV>
-      </DIV>
-  url: https://www.eventbrite.com/e/new-web-literacy-tools-for-learners-part-3-participating-the-web-tickets-41336645018?aff=ebapi
-  start:
-    timezone: America/New_York
-    local: '2018-02-27T10:00:00'
-    utc: '2018-02-27T15:00:00Z'
-- name:
     text: Using and Improving NYC Open Data Dictionaries
     html: Using and Improving NYC Open Data Dictionaries
   description:
