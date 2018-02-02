@@ -79,7 +79,7 @@ Contact Mark Parson, [mparson@metro.org](mailto:mparson@metro.org), if you have 
 Check our [Delivery Roster]({{ "/assets/docs/Fall2017Directory.pdf" | prepend: site.baseurl }}) before shipping. This way you can verify that a receiving institution is a current participant in METRO’s Delivery Service.
 
 ### Receiver requirements
-A representative of the receiving library must sign for all shipments at the time of delivery. Messengers are unable to leave a package without a receipt signature. The receiving library must verify both the number of packages received and the sending/receiving numbers are correct.
+A representative of the receiving library must sign for all shipments at the time of delivery. Couriers are unable to leave a package without a receipt signature. 
 
 ### Missed Pick-ups
 In the (rare) instance when a messenger does not arrive for scheduled pick-up, please contact METRO as soon as possible. If you used the On-Demand request form, simply resubmit the form. Where possible, METRO will arrange a special pick up.
