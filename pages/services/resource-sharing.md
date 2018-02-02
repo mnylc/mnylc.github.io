@@ -69,11 +69,11 @@ Libraries should designate a single on-site location for pick-up and delivery. T
 incoming deliveries and oversee outgoing packages.
 
 ### Shipping & Packaging Requirements
-A wide variety of materials including books, journals, magazines, copies, CDs, DVDs, or any type of bound material may be shipped through the service. You may not ship equipment or furniture through the service. 
+A wide variety of materials including books, journals, magazines, copies, CDs, DVDs, or any type of bound material may be shipped through the service. You may not ship equipment or furniture. 
 
-All items must be appropriately wrapped and sealed in tearproof envelopes, sturdy bags, or boxes. Note that the first 25 pounds of each shipment is free. Additional weight is charged at the rate of 16 cents a pound.
+All items must be appropriately wrapped and sealed in tearproof envelopes, sturdy bags, or boxes. The first 25 pounds of each shipment is free. Over 25 pounds, additional weight charges will apply.
 
-Contact us if you have any questions about shipping.
+[Contact](mailto:info@metro.org) us if you have any questions about shipping.
 
 ### Sending Items
 Check our [Delivery Roster]({{ "/assets/docs/Fall2017Directory.pdf" | prepend: site.baseurl }}) before shipping. This way you can verify that a receiving institution is a current participant in METRO’s Delivery Service.
