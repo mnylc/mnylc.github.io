@@ -10,7 +10,7 @@ We facilitate resource sharing through our Referral Card Program and our Deliver
 
 Quick links for our Delivery Services:
 
-* [Schedule an on-demand pick-up](https://docs.google.com/a/metro.org/forms/d/1fh9gPhY8s8rYM_Wa_PFkmCXqNGxVnMGhHVKR1jnlOb0/edit)
+* [Schedule a pick-up](https://order.deluxedelivery.com/login.aspx)
 
 * [Report an issue](https://docs.google.com/forms/d/15S1FoeEHWEKjeM2mz9HRb_393NFeucDaMJoCIGgTweI/viewform?edit_requested=true)
 
@@ -21,9 +21,9 @@ Quick links for our Delivery Services:
 The METRO Referral Card system makes it easier for students and researchers to locate materials or research onsite at METRO member libraries.
 
 ### Overview
-Yellow Cards allow patrons to search for a specific book or any other item at another METRO member institution. Blue cards allow users to search across entire subject areas at METRO member libraries
+Yellow Cards allow patrons to search for a specific book or any other item at another METRO member institution. Blue cards allow users to search across entire subject areas at METRO member libraries.
 
-Both types of METRO cards are available by order. Please contact Mark Parson at (212) 228-2320, extension 121.  
+Both types of METRO cards are available by order. Please contact Mark Parson at (212) 228-2320, extension 7121.  
 
 ### How to Use Yellow Cards
 The Yellow Card gives library users access to individual titles from other METRO member libraries. 
@@ -35,7 +35,8 @@ To participate in this program, library users must:
 
   2. Identify a library that has the title available using OCLC, WorldCat, Docline, or related resources
 
-  3. Check the library's listing in the METRO Directory of Members. (Remember: access restrictions may apply)
+  3. Check the library's listing in the [METRO Member Directory]({{ "/assets/docs/Fall2017Directory.pdf" | prepend: site.baseurl }}).
+  (Remember: access restrictions may apply)
 
   4. Call or email the holding library to verify that the title is available and to confirm any access restrictions
 
