@@ -73,21 +73,11 @@ A wide variety of materials including books, journals, magazines, copies, CDs, D
 
 All items must be appropriately wrapped and sealed in tearproof envelopes, sturdy bags, or boxes. The first 25 pounds of each shipment is free. Over 25 pounds, additional weight charges will apply.
 
-Contact Mark Parson, [mparson@metro.org](mailto:mparson@metro.org), or call (212) 228-2320 ext 7121 with any questions.
-
 ### Sending Items
 Check our [Delivery Roster]({{ "/assets/docs/Fall2017Directory.pdf" | prepend: site.baseurl }}) before shipping. This way you can verify that a receiving institution is a current participant in METRO’s Delivery Service.
 
 ### Receiver requirements
 A representative of the receiving library must sign for all shipments at the time of delivery. Couriers are unable to leave a package without a receipt signature. 
 
-### Non-delivery or Missing Items
-If a package does not arrive as scheduled:
-
-* Find out when the item was picked up from the sending library.
-* Check to see that the item has not been shelved without being checked in.
-
-To initiate a trace, call Mark Parson at (212) 228-2320 ext 121 with the shipping information and the title of the missing item. You can also complete a [claim form](https://www.google.com/url?q=https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLSccaa0esq4won1z4sVGBaW6lMO-QQal1dNd7DvHn7jOazXWFw/viewform&sa=D&ust=1487017912503000&usg=AFQjCNFoC7c-eBkf1tLeHuafYaty7E3bQw) online. Claims for missing resources must be reported within 30 days. This increases the couriers chances of finding any resources that might have gone missing. 
-
 ### Contact Information
-To get set up with our Delivery Program or to report any issues, please contact Mark Parson at [mparson@metro.org](mailto:mparson@metro.org).
+To get set up with our Delivery Program or to report any issues, please contact Mark Parson at [mparson@metro.org](mailto:mparson@metro.org), or call (212) 228-2320 ext 7121.
