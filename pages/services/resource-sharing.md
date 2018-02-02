@@ -48,7 +48,8 @@ Instructions to the Host Library: Before facilitating access to a title for a pa
 Blue Cards provide patrons with access to collections at participating host libraries. To access this program, users must:
 
 1. Verify that a host library has a strong collection in your subject area
-2. Confirm in the METRO Directory of Members that the library is a Blue Card program participant
+2. Confirm in the [METRO Member Directory]({{ "/assets/docs/Fall2017Directory.pdf" | prepend: site.baseurl }}).that the library is a
+Blue Card program participant
 3. Contact the host library to confirm any restrictions on access to collections
 4. The host library determines the length of time that a user may have access to a collection.
 
