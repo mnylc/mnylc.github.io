@@ -23,7 +23,7 @@ The METRO Referral Card system makes it easier for students and researchers to l
 ### Overview
 Yellow Cards allow patrons to search for a specific book or any other item at another METRO member institution. Blue cards allow users to search across entire subject areas at METRO member libraries.
 
-Both types of METRO cards are available by order. Please contact Mark Parson at (212) 228-2320, extension 7121.  
+Both types of METRO cards are available by order. Please contact Mark Parson at [mparson@metro.org](mailto:mparson@metro.org), or (212) 228-2320 ext 7121.  
 
 ### How to Use Yellow Cards
 The Yellow Card gives library users access to individual titles from other METRO member libraries. 
@@ -80,4 +80,4 @@ Check our [Delivery Roster]({{ "/assets/docs/Fall2017Directory.pdf" | prepend: s
 A representative of the receiving library must sign for all shipments at the time of delivery. Couriers are unable to leave a package without a receipt signature. 
 
 ### Contact Information
-To get set up with our Delivery Program or to report any issues, please contact Mark Parson at [mparson@metro.org](mailto:mparson@metro.org), or call (212) 228-2320 ext 7121
+To get set up with our Delivery Program or to report any issues, please contact Mark Parson at [mparson@metro.org](mailto:mparson@metro.org), or (212) 228-2320 ext 7121.
