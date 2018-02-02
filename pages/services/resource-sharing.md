@@ -58,18 +58,14 @@ Blue Cards do not give users unlimited access to another library's collections a
 Instructions to the Host Library: Before facilitating access to a title for a patron through the Blue Card Program, a contact at the host library should confirm the card information and collect the card from the user. The host library should submit all cards received to METRO at the end of each month.
  
 ## Delivery Service
-METRO maintains a same-day delivery service among our member libraries. Delivery service ensures that our members can count on efficient access to items from collections throughout METRO's service area. 
+METRO maintains next-day, Mon-Fri delivery service among our member libraries. Delivery service ensures that our members can count on
+efficient access to items from collections throughout METRO's service area. METRO Delivery is a free membership benefit with the
+following restrictions:
 
-METRO Delivery is a free membership benefit with the following restrictions:
-
-The first 25 pounds of each shipment is free. Additional weight is charged at the rate of 16 cents a pound.
-Each library must designate a delivery site and a contact person. Additional delivery sites may be arranged at additional cost. 
-Additional delivery dates may be arranged at additional cost. 
-
-We also provide on-demand pick-ups. [Schedule an on-demand pick-up with this form](https://docs.google.com/a/metro.org/forms/d/1fh9gPhY8s8rYM_Wa_PFkmCXqNGxVnMGhHVKR1jnlOb0/edit).
+Each library must designate a delivery site and a contact person. Additional delivery sites may be arranged at additional cost. There are additional fees for packages over 25 pounds. 
 
 ### Site Locations 
-Libraries should designate a single on-site location for pick-up and delivery. (This location should be manned to provide signatures for incoming deliveries and oversee outgoing packages.) Additional pick-up and delivery locations can be arranged on a paid basis. 
+Libraries should designate a single on-site location for pick-up and delivery. (This location should be manned to provide signatures for incoming deliveries and oversee outgoing packages.)
 
 ### Shipping & Packaging Requirements
 A wide variety of materials including books, journals, magazines, copies, CDs, DVDs, or any type of bound material may be shipped through the service. You may not ship equipment or furniture through the service. 
