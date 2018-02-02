@@ -65,7 +65,8 @@ following restrictions:
 Each library must designate a delivery site and a contact person. Additional delivery sites may be arranged at additional cost. There are additional fees for packages over 25 pounds. 
 
 ### Site Locations 
-Libraries should designate a single on-site location for pick-up and delivery. (This location should be manned to provide signatures for incoming deliveries and oversee outgoing packages.)
+Libraries should designate a single on-site location for pick-up and delivery. This location should be staffed to provide signatures for
+incoming deliveries and oversee outgoing packages.
 
 ### Shipping & Packaging Requirements
 A wide variety of materials including books, journals, magazines, copies, CDs, DVDs, or any type of bound material may be shipped through the service. You may not ship equipment or furniture through the service. 
