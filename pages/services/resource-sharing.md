@@ -32,14 +32,10 @@ To participate in this program, library users must:
 
 
   1. Verify that the desired title is not available in your library or in the public library system
-
   2. Identify a library that has the title available using OCLC, WorldCat, Docline, or related resources
-
   3. Check the library's listing in the [METRO Member Directory]({{ "/assets/docs/Fall2017Directory.pdf" | prepend: site.baseurl }}).
   (Remember: access restrictions may apply)
-
   4. Call or email the holding library to verify that the title is available and to confirm any access restrictions
-
   5. Fill out the card completely, including the source of verification
 
 
