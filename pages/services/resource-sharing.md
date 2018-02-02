@@ -73,7 +73,7 @@ A wide variety of materials including books, journals, magazines, copies, CDs, D
 
 All items must be appropriately wrapped and sealed in tearproof envelopes, sturdy bags, or boxes. The first 25 pounds of each shipment is free. Over 25 pounds, additional weight charges will apply.
 
-[Contact](mailto:info@metro.org) us if you have any questions about shipping.
+[Contact](mailto:mparson@metro.org) us if you have any questions about shipping.
 
 ### Sending Items
 Check our [Delivery Roster]({{ "/assets/docs/Fall2017Directory.pdf" | prepend: site.baseurl }}) before shipping. This way you can verify that a receiving institution is a current participant in METRO’s Delivery Service.
