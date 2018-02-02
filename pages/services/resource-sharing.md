@@ -73,7 +73,7 @@ A wide variety of materials including books, journals, magazines, copies, CDs, D
 
 All items must be appropriately wrapped and sealed in tearproof envelopes, sturdy bags, or boxes. The first 25 pounds of each shipment is free. Over 25 pounds, additional weight charges will apply.
 
-Contact Mark Parson, [mparson@metro.org](mailto:mparson@metro.org), if you have any questions.
+Contact Mark Parson, [mparson@metro.org](mailto:mparson@metro.org), or call (212) 228-2320 ext 7121 with any questions.
 
 ### Sending Items
 Check our [Delivery Roster]({{ "/assets/docs/Fall2017Directory.pdf" | prepend: site.baseurl }}) before shipping. This way you can verify that a receiving institution is a current participant in METRO’s Delivery Service.
@@ -81,11 +81,6 @@ Check our [Delivery Roster]({{ "/assets/docs/Fall2017Directory.pdf" | prepend: s
 ### Receiver requirements
 A representative of the receiving library must sign for all shipments at the time of delivery. Couriers are unable to leave a package without a receipt signature. 
 
-### Missed Pick-ups
-In the (rare) instance when a messenger does not arrive for scheduled pick-up, please contact METRO as soon as possible. If you used the On-Demand request form, simply resubmit the form. Where possible, METRO will arrange a special pick up.
-
-Report problems to us with the [Delivery Issue Report form](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSc5Y1TVsgJ-BU967wL7bBB8xIaDUf4fS4JhmPHictGhBvfSlQ/viewform&sa=D&ust=1487017912501000&usg=AFQjCNGGNRHXPNJwt1uiWlmxlqU8l8HrJw) or call Mark Parson at (212) 228-2320 ext 121.
- 
 ### Non-delivery or Missing Items
 If a package does not arrive as scheduled:
 
