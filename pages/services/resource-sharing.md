@@ -73,37 +73,11 @@ A wide variety of materials including books, journals, magazines, copies, CDs, D
 
 All items must be appropriately wrapped and sealed in tearproof envelopes, sturdy bags, or boxes. The first 25 pounds of each shipment is free. Over 25 pounds, additional weight charges will apply.
 
-Contact Mark Parson, [mparson@metro.org](mailto:mparson@metro.org) if you have any questions about shipping.
+Contact Mark Parson, [mparson@metro.org](mailto:mparson@metro.org), if you have any questions.
 
 ### Sending Items
 Check our [Delivery Roster]({{ "/assets/docs/Fall2017Directory.pdf" | prepend: site.baseurl }}) before shipping. This way you can verify that a receiving institution is a current participant in METRO’s Delivery Service.
 
-Attach only one shipping label per package. Labels must contain the following:
-
-Your institution’s name and address (upper lefthand corner)
-Complete address for the receiving institution as it is listed in the Delivery Roster (centered)
-The METRO delivery number of your institution > The receiving institution's delivery number (center, bold and in large print)
-
-![Example delivery label]({{ "/assets/img/Delivery_Label_Example.jpg" | prepend: site.baseurl }})
-
-### Transaction Numbers
-Each package on the METRO Shipping Log must include a unique transaction number. Complete and accurate transaction numbers are essential for delivery and record keeping.
-
-Transaction numbers are comprised of your library’s delivery number, the receiving library’s delivery number, the pickup date, and package number. A complete transaction number looks like this: 154 >224-0117-1 
-
-| 154 >  | 224  | 0117  | -1  |
-|---|---|---|---|
-| Your site number | Recipient’s site number | Date (MMDD) | Package Number |
-
-### Shipping Log
-Delivery service participants must prepare a shipping log for each scheduled delivery/pick-up day they have outgoing packages. Remember to keep track of your shipments using our METRO Log-sheet.
-
-The messenger should confirm each package against the log sheet and then sign and date at the bottom as designated. This serves as the official receipt of pick-up. For each package that is to be shipped, you should record the following information on the log sheet:
-
-1. Transaction number
-2. Destination (Receiving Institution's Name)
-3. Brief description of contents and content titles
- 
 ### Receiver requirements
 A representative of the receiving library must sign for all shipments at the time of delivery. Messengers are unable to leave a package without a receipt signature. The receiving library must verify both the number of packages received and the sending/receiving numbers are correct.
 
