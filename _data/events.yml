@@ -83,7 +83,7 @@
       Molly manages METRO’s studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station. She is also the host and producer of METRO’s podcast, Library Bytegeist.
       Davis Erin Anderson, Program Manager - Technology, Culture, and Libraries, leads and works on projects that investigate the intersection of today's online environment on libraries. She is a Mozilla Web Literacy Leader.
 
-    html: |-
+    html: |
       <DIV><SPAN>Join us for a fun and engaging train-the-trainer workshop on developing Web Literacy skills! We'll present new and expanded activities from the Mozilla Foundation and explore new modes of assessing learners' newfound skills.</SPAN></DIV>
       <DIV><BR></DIV>
       <DIV><SPAN>The first of three workshops, this event will focus on reading the web, including:</SPAN></DIV>
@@ -103,7 +103,6 @@
       <P><SPAN>Molly manages METRO’s studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station. She is also the host and producer of METRO’s podcast, Library Bytegeist.</SPAN></P>
       <P><SPAN>Davis Erin Anderson, Program Manager - Technology, Culture, and Libraries, leads and works on projects that investigate the intersection of today's online environment on libraries. She is a Mozilla Web Literacy Leader.</SPAN></P>
       </DIV>
-      <P><BR></P>
   url: https://www.eventbrite.com/e/new-web-literacy-tools-for-learners-part-1-reading-the-web-tickets-41336439403
   start:
     timezone: America/New_York
@@ -239,19 +238,18 @@
       Shira Peltzman is the Digital Archivist for the University of California, Los Angeles (UCLA) Library, where she leads the development of a sustainable preservation program for born-digital archival material. Shira received her Master’s degree in Moving Image Archiving and Preservation from New York University’s Tisch School of the Arts, and was a member of the inaugural cohort of the National Digital Stewardship Residency in New York (NDSR-NY). 
 
 
-    html: |-
+    html: |+
       <P><STRONG>Improving Descriptive Practices for Born-Digital Material in an Archival Context</STRONG></P>
       <P><SPAN><SPAN>Creating archival finding aids for born-digital that adequately express the quality, quantity, and usability of the material has been challenging for digital archives practitioners. This is partially due to the fact that existing national and international standards that guide archival description (DACS, ISAD(G)) are designed to be content-neutral, and don't address the unique set of needs inherent to born-digital content. The lack of guidance in this area has resulted in finding aids that vary substantially across--and even within--organizations: different elements are used to express similar information; disparate units of measure are used to indicate size and extent; wording is frequently vague or misleading; and crucial processing information was routinely excluded from finding aids altogether.</SPAN><BR><BR><SPAN>To improve the clarity, usefulness, and consistency of finding aids across campuses, digital archivists from throughout the University of California system worked together to develop a UC-wide standard standard for born-digital archival description. In addition to establishing a required minimum baseline for archival description in finding aids, these guidelines offer a controlled vocabulary for source media, metadata crosswalks to DACS, EAD, EAD3, MARC, RDA, and ISAD(G), and examples of description for element found within a standard finding. This day-long workshop will introduce participants to the UC Guidelines for Born-Digital Archival Description and enable them to translate this standard into practice at their own institutions. Through a series of hands-on exercises, participants will develop the skill set necessary to create more accurate, transparent, and effective archival finding aids for the born-digital material that they steward. </SPAN><BR><BR><STRONG>Who should attend:</STRONG><BR><BR><SPAN>This workshop is for anyone who is currently working or who anticipates working with born-digital material in an archival context. The workshop will ensure that practitioners leave with the skills and resources necessary to adequately express the quality, quantity, and usability of digital material in their collections. The workshop has broad applicability, and will accommodate participants who have minimal experience with processing digital material as well as those who have been working with born-digital materials for some time.</SPAN><BR><BR></SPAN></P>
       <P><SPAN><SPAN><STRONG>What to bring:</STRONG></SPAN></SPAN></P>
       <UL>
       <LI><SPAN>A laptop (or click </SPAN><A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A><SPAN> to borrow one of METRO's for $5.00)</SPAN></LI>
       </UL>
-      <P><BR></P>
+
       <P><STRONG>Abour Our Instructor</STRONG></P>
       <P><SPAN>Shira Peltzman is the Digital Archivist for the University of California, Los Angeles (UCLA) Library, where she leads the development of a sustainable preservation program for born-digital archival material. Shira received her Master’s degree in Moving Image Archiving and Preservation from New York University’s Tisch School of the Arts, and was a member of the inaugural cohort of the National Digital Stewardship Residency in New York (NDSR-NY). </SPAN></P>
-      <P><BR></P>
-      <HR>
-      <P><BR></P>
+
+
   url: https://www.eventbrite.com/e/improving-descriptive-practices-for-born-digital-material-in-an-archival-context-tickets-42790362125
   start:
     timezone: America/New_York
@@ -343,7 +341,7 @@
       balance of power in data-driven research.\n\nWorkshop fees:Fees for this event
       are $40 for METRO members and $80 for non-members. If you’re in need of a subsidized
       ticket in order to attend this event, please email us at events@metro.org.\n\n"
-    html: |-
+    html: |+
       <P><STRONG>Using and Improving NYC Open Data Dictionaries<BR></STRONG>NYC Open Data Week 2018<BR><BR></P>
       <P><SPAN>METRO is thrilled to be a part of NYC Open Data week this year!</SPAN></P>
       <P><SPAN>Join us on Wednesday, March 7 from 10:00 a.m. until 2:00 p.m. for a workshop on a critical element of NYC’s open data sets: the data dictionary. Home to key information written by data owners, data dictionaries communicate elements of each data set: column names, descriptions, and values.</SPAN></P>
@@ -364,16 +362,15 @@
       </UL>
       <P><SPAN>This workshop is ideal for public librarians who are interested in helping their patrons access NYC Open Data and academic librarians who may have had experience with data dictionaries in scholarly work. </SPAN><SPAN><BR CLASS="kix-line-break"><BR CLASS="kix-line-break"></SPAN></P>
       <P><SPAN>Coffee, tea, and snacks will be provided. Please feel free to bring a brown bag lunch.</SPAN></P>
-      <P><BR></P>
+
       <P><SPAN><SPAN><STRONG>What to Bring:</STRONG><BR></SPAN></SPAN></P>
       <UL>
       <LI>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's for $5.00)<BR><BR></LI>
       </UL>
       <P><SPAN><STRONG>Facilitator Biography:</STRONG><BR></SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. With her firm, Tiny Panther Consulting, she brings data librarian services to the public, teaching data literacy workshops and helping socially-minded organizations collect and analyze data with the communities they serve. Julia commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</P>
-      <P><BR></P>
+
       <P><SPAN><STRONG>Workshop fees:</STRONG><BR></SPAN>Fees for this event are $40 for METRO members and $80 for non-members. If you’re in need of a subsidized ticket in order to attend this event, please email us at <A HREF="mailto:events@metro.org" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">events@metro.org</A>.<BR><BR><BR></P>
-      <HR>
-      <P><BR></P>
+
   url: https://www.eventbrite.com/e/using-and-improving-nyc-open-data-dictionaries-tickets-42473856448
   start:
     timezone: America/New_York
@@ -461,9 +458,9 @@
       Current, noting the rapid changes happening to one Brooklyn neighborhood.\n\n\nWhat
       to bring\n\nA pencil and paper\nAny projects or interview questions that you're
       already working on\n\n\n\n"
-    html: |-
+    html: |+
       <P><STRONG>A Practical Lesson in Stronger Interviewing for Audio Recording</STRONG></P>
-      <P><BR></P>
+
       <P><STRONG></STRONG>Stories make people real instead of statistics. If audio quality is not good, or if interviews do not capture a mood or emotion well, listeners will tune out. To leverage the power of the human voice and reach an audience in a media-savvy world, it makes a difference to get it right. This workshop will teach oral historians and library podcasters how to conduct a strong interview. It can be difficult to get a great recording, and interviewing is an essential element that often gets overlooked. With a few tips and tricks, participants can improve their recording skills to get a deeper result.</P>
       <DIV><BR><SPAN>This workshop will cover the following topics: </SPAN></DIV>
       <DIV><SPAN>1) microphone placement and recording levels; </SPAN></DIV>
@@ -481,9 +478,8 @@
       <LI>A pencil and paper</LI>
       <LI>Any projects or interview questions that you're already working on</LI>
       </UL>
-      <P><BR></P>
-      <HR>
-      <P><BR></P>
+
+
   url: https://www.eventbrite.com/e/a-practical-lesson-in-stronger-interviewing-for-audio-recording-tickets-42506774908
   start:
     timezone: America/New_York
@@ -544,9 +540,9 @@
       <P><STRONG>Abour Our Instructors</STRONG></P>
       <P><SPAN><SPAN>​​Sheryl Ramer is Dire</SPAN><SPAN>ctor of the health science library at New York City Health + Hospitals / Elmhurst. She is </SPAN><SPAN>an integral member of the hospital’s Workforce Development committee, which promotes employee engagement, and the Collaborativ</SPAN><SPAN>e Care committee, which improves patient experience. </SPAN><SPAN>Sheryl </SPAN><SPAN>identified the need for </SPAN><SPAN>and piloted a program with</SPAN><SPAN> CE Direct, </SPAN><SPAN>an online educational product for health care professionals</SPAN><SPAN>. The pilot </SPAN><SPAN>persuaded</SPAN><SPAN> the</SPAN><SPAN> </SPAN><SPAN>administration to</SPAN><SPAN> </SPAN><SPAN>purchase</SPAN><SPAN> CE Direct for all hospital employees. </SPAN><SPAN>She</SPAN><SPAN> will soon</SPAN><SPAN> be featured in the hospital newsletter describing her </SPAN><SPAN>continuous qual</SPAN><SPAN>ity improvement </SPAN><SPAN>in the library and her work with the </SPAN><SPAN>3D printer, </SPAN><SPAN>which was </SPAN><SPAN>purchased wit</SPAN><SPAN>h a grant from METRO.</SPAN></SPAN></P>
       <P><SPAN>Deborah is the Chief Medical Librarian at NYC Health + Hospitals/Queens, where she has worked for the past 6 years. Recently, she has become involved in hospital-wide initiatives to apply strategic deployment to population health management. Her professional interests include healthcare delivery reform &amp; information discovery in the digital age. She currently serves as President of BQSIMB Health Sciences Librarians.</SPAN><BR><BR></P>
-      <P><BR></P>
-      <HR>
-      <P><BR></P>
+
+
+
       <P><SPAN>This event is co-sponsored by METRO and BQSIMB (Brooklyn, Queens, Staten Island, Manhattan and the Bronx Health Sciences Librarians). To learn more about BQSIMB, visit their website at <A HREF="http://www.bqsimb.org/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">http://www.bqsimb.org/</A>.</SPAN></P>
   url: https://www.eventbrite.com/e/how-to-take-the-lead-leveraging-your-role-as-a-problem-solver-in-your-institution-tickets-42356314878
   start:

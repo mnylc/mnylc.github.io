@@ -31,6 +31,8 @@ l = []
 wanted_keys = %w[start description name url]
 j['events'].each do |ev|
   h = ev.select { |key, _| wanted_keys.include? key }
+  h['description']['html'].gsub!('<P><BR></P>', '')
+  h['description']['html'].gsub!('<HR>', '')
   l.push(h)
 end
 
