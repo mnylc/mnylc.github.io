@@ -30,6 +30,7 @@ We are committed to providing a welcoming and productive environment for all. Pl
 	<div class="post-excerpt">{{ e.description.html }} </div>
 	<br/>
 	<div><a href="{{ e.url }}">Register</a></div> <p/><p/><p/><p/><p/><p/>
+	<hr/>
 	</li>
 {% endfor %}
 </ol>
