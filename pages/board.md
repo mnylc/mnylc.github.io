@@ -66,7 +66,7 @@ Columbia University
 2011-2021   
  
 **Christopher Platt**  
-Vice President of Library Services  
+Chief Branch Library Officer  
 The New York Public Library  
 2016-2021  
 
