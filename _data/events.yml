@@ -1,57 +1,5 @@
 ---
 - name:
-    text: 'New Web Literacy Tools for Learners, Part 2: Writing the Web'
-    html: 'New Web Literacy Tools for Learners, Part 2: Writing the Web'
-  description:
-    text: |+
-      Join us for a fun and engaging train-the-trainer workshop developing on Web Literacy skills! We'll present new and expanded activities from the Mozilla Foundation and explore new modes of assessing learners' newfound skills.
-
-      The second of three workshops, this event will focus on reading the web, including:
-
-
-      understanding the basics of html through offline and online activities
-      creating your first web page
-      learning how content management systems work
-
-      This workshop is great for educators and for learners who are interested in using the web more effectively.
-
-      With support from the Mozilla Foundation, this workshop is presented free of charge.
-
-
-      About our facilitators:
-
-      Molly manages METRO’s studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station. She is also the host and producer of METRO’s podcast, Library Bytegeist.
-      Davis Erin Anderson, Program Manager - Technology, Culture, and Libraries, leads and works on projects that investigate the intersection of today's online environment on libraries. She is a Mozilla Web Literacy Leader.
-
-
-    html: |-
-      <DIV>Join us for a fun and engaging train-the-trainer workshop developing on Web Literacy skills! We'll present new and expanded activities from the Mozilla Foundation and explore new modes of assessing learners' newfound skills.</DIV>
-      <DIV><BR></DIV>
-      <DIV>The second of three workshops, this event will focus on reading the web, including:</DIV>
-      <DIV>
-      <UL>
-      <LI>understanding the basics of html through offline and online activities</LI>
-      <LI>creating your first web page</LI>
-      <LI>learning how content management systems work</LI>
-      </UL>
-      <DIV>This workshop is great for educators and for learners who are interested in using the web more effectively.<BR></DIV>
-      <DIV><BR></DIV>
-      <DIV>With support from the Mozilla Foundation, this workshop is presented free of charge.</DIV>
-      <DIV><BR></DIV>
-      <DIV>
-      <DIV><SPAN>About our facilitators:</SPAN></DIV>
-      <DIV>
-      <P><SPAN>Molly manages METRO’s studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station. She is also the host and producer of METRO’s podcast, Library Bytegeist.</SPAN></P>
-      <P><SPAN>Davis Erin Anderson, Program Manager - Technology, Culture, and Libraries, leads and works on projects that investigate the intersection of today's online environment on libraries. She is a Mozilla Web Literacy Leader.</SPAN></P>
-      </DIV>
-      </DIV>
-      </DIV>
-  url: https://www.eventbrite.com/e/new-web-literacy-tools-for-learners-part-2-writing-the-web-tickets-41336592862
-  start:
-    timezone: America/New_York
-    local: '2018-02-20T10:00:00'
-    utc: '2018-02-20T15:00:00Z'
-- name:
     text: Improving Descriptive Practices for Born-Digital Material in an Archival
       Context
     html: Improving Descriptive Practices for Born-Digital Material in an Archival
@@ -381,6 +329,62 @@
     timezone: America/New_York
     local: '2018-03-30T09:00:00'
     utc: '2018-03-30T13:00:00Z'
+- name:
+    text: 'Every Story, a Phantom: A Poetic Study of Erasure, Compression, and White
+      Space'
+    html: 'Every Story, a Phantom: A Poetic Study of Erasure, Compression, and White
+      Space'
+  description:
+    text: "Every Story, a Phantom: A Poetic Study of Erasure, Compression, and White
+      Space\n\nErasure, compression, redaction, and impermanence are topics that librarians
+      and archivists confront in their everyday work. This workshop will be an interactive,
+      generative look at “erasure texts” and what they tell us about how information
+      gets condensed, saved, lost, and reinterpreted over time. We will looks at works
+      by poets like Mary Ruefle and Robin Coste Lewis, and consider the legacies of
+      poets like Sappho whose work survives only in fragments. By investigating texts
+      that have been redacted into new texts, we will ask questions about the permanence
+      of texts, how to understand and document the revision process, and the material
+      nature of the poetic page. This workshop will include several original writing
+      exercises. \nLearning objectives include participants:\n1. encountering erasure
+      as a poetics, with a broad view of its history and current practices;\n2. developing
+      new revision strategies based on erasure, with an emphasis on compression and
+      redaction;\n3. and introducing subtext and depth into their poems by negotiated
+      what is said versus what is left unsaid.\nWhile no prerequisite knowledge or
+      experience is required for this workshop, a general, readerly interest and/or
+      knowledge of poetry will be helpful.\n\nWhat to bring:\n\n\nA pencil and paper\n\n\nAbout
+      our instructor:\nEmilia Phillips is the author of three poetry collections from
+      the University of Akron Press, most recently Empty Clip (2018) and Groundspeed
+      (2016), and three chapbooks, most recently Beneath the Ice Fish Like Souls Look
+      Alike (Bull City Press, 2015). Her poems and lyric essays appear widely in literary
+      publications including Agni, Boston Review, Ploughshares, Poem-a-Day, Poetry,
+      and elsewhere. She’s an assistant professor in the MFA Writing Program and the
+      Department of English at the University of North Carolina at Greensboro.\n\n\n\n"
+    html: |+
+      <P><STRONG><SPAN>Every Story, a Phantom: </SPAN>A Poetic Study of Erasure, Compression, and White Space</STRONG></P>
+
+      <P><SPAN>Erasure, compression, redaction, and impermanence are topics that librarians and archivists confront in their everyday work. This workshop will be an interactive, generative look at “erasure texts” and what they tell us about how information gets condensed, saved, lost, and reinterpreted over time. We will looks at works by poets like Mary Ruefle and Robin Coste Lewis, and consider the legacies of poets like Sappho whose work survives only in fragments. By investigating texts that have been redacted into new texts, we will ask questions about the permanence of texts, how to understand and document the revision process, and the material nature of the poetic page. This workshop will include several original writing exercises. </SPAN></P>
+      <P><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>Learning objectives include participants:</SPAN></P>
+      <P>1. encountering erasure as a poetics, with a broad view of its history and current practices;</P>
+      <P>2. developing new revision strategies based on erasure, with an emphasis on compression and redaction;</P>
+      <P>3. and introducing subtext and depth into their poems by negotiated what is said versus what is left unsaid.</P>
+      <P><BR>While no prerequisite knowledge or experience is required for this workshop, a general, readerly interest and/or knowledge of poetry will be helpful.</P>
+
+      <P><STRONG>What to bring:</STRONG></P>
+      <UL>
+      <LI>
+      <P><SPAN>A pencil and paper</SPAN></P>
+      </LI>
+      </UL>
+      <P><BR><STRONG>About our instructor:</STRONG></P>
+      <P><SPAN>Emilia Phillips is the author of three poetry collections from the University of Akron Press, most recently Empty Clip (2018) and Groundspeed (2016), and three chapbooks, most recently Beneath the Ice Fish Like Souls Look Alike (Bull City Press, 2015). Her poems and lyric essays appear widely in literary publications including Agni, Boston Review, Ploughshares, Poem-a-Day, Poetry, and elsewhere. She’s an assistant professor in the MFA Writing Program and the Department of English at the University of North Carolina at Greensboro.</SPAN></P>
+      <P><SPAN><BR></SPAN></P>
+
+
+  url: https://www.eventbrite.com/e/every-story-a-phantom-a-poetic-study-of-erasure-compression-and-white-space-tickets-43351117359
+  start:
+    timezone: America/New_York
+    local: '2018-04-09T16:00:00'
+    utc: '2018-04-09T20:00:00Z'
 - name:
     text: 'Teaching Research Data Management and Reproducibility: Ways to Engage Your
       Community in Research Stewardship'
