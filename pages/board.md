@@ -16,7 +16,7 @@ Chief Librarian, Brooklyn Public Library
 **Joshua Greenberg, Treasurer**  
 Program Director, Digital Information Technology  
 Alfred P. Sloan Foundation  
-2012-2017   
+2012-2022   
 
 **Patricia C. Skarulis, Secretary**  
 Vice President of Information Systems & Chief Information Officer  
@@ -42,7 +42,7 @@ New York University Steinhardt School of Education
 
 **Milan R. Hughston**  
 Art Information Specialist  
-2007-2017
+2007-2022
 
 **Mary Lee Kennedy**  
 Principal, The Kennedy Group  
