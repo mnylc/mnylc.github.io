@@ -303,6 +303,65 @@
     local: '2018-03-12T09:00:00'
     utc: '2018-03-12T13:00:00Z'
 - name:
+    text: 'Photography & Photoshop Essentials, Part 1: Essential Lighting Techniques
+      for 3D Objects and Flat Art'
+    html: 'Photography &amp; Photoshop Essentials, Part 1: Essential Lighting Techniques
+      for 3D Objects and Flat Art'
+  description:
+    text: |+
+      Photography & Photoshop Essentials, Part 1:Essential Lighting Techniques for 3D Objects and Flat Art
+      We are putting more and more of our cultural heritage objects online as digital images. Learn how to photograph 2- and 3- dimensional objects in a way that captures and enhances the detail and beauty of the originals. In this session we will cover techniques that you can apply to online exhibits, promotional materials, or digitization work.
+      The first in a series of three workshops centered on photography and photoshop, this session will give participants an introductory understanding of essential lighting techniques for 3D objects and flat art. Topics covered will include:
+
+
+      Understanding light
+
+
+      Types of light sources
+
+
+      Direct light vs. diffused light
+
+
+      Lighting techniques for three-dimensional objects
+
+
+      Lighting techniques for two-dimensional objects and flat art
+
+
+      No prerequisite knowledge or experience is required for this session. Students are encouraged to bring their own cameras in order to participate in hands-on exercises throughout the workshop.
+      About our instructor:Oscar Frasser is a professional image-maker and storyteller with a focus on human rights human rights issues and Latin American topics. With over 20 years of experience as a photographer, cinematographer and filmmaker, Oscar has worked extensively in the areas of documentary filmmaking, photojournalism, media education and advertising. Oscar has won multiple awards in both the United States and internationally for his films and photo exhibitions. Oscar is currently specializing his cinematography work with drones, teaching as an Adjunct Professor of Filmmaking­ at The New School and working as a freelancer in video and photojournalism for the Associated Press at the United Nations and Notimex, a National News Agency of Mexico.
+
+    html: |+
+      <P><STRONG>Photography &amp; Photoshop Essentials, Part 1:<BR>Essential Lighting Techniques for 3D Objects and Flat Art</STRONG></P>
+      <P>We are putting more and more of our cultural heritage objects online as digital images. Learn how to photograph 2- and 3- dimensional objects in a way that captures and enhances the detail and beauty of the originals. In this session we will cover techniques that you can apply to online exhibits, promotional materials, or digitization work.</P>
+      <P>The first in a series of three workshops centered on photography and photoshop, this session will give participants an introductory understanding of essential lighting techniques for 3D objects and flat art. Topics covered will include:</P>
+      <UL>
+      <LI>
+      <P><SPAN>Understanding light</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Types of light sources</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Direct light vs. diffused light</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Lighting techniques for three-dimensional objects</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Lighting techniques for two-dimensional objects and flat art</SPAN></P>
+      </LI>
+      </UL>
+      <P>No prerequisite knowledge or experience is required for this session. Students are encouraged to bring their own cameras in order to participate in hands-on exercises throughout the workshop.</P>
+      <P><BR><STRONG>About our instructor:<BR></STRONG>Oscar Frasser is a professional image-maker and storyteller with a focus on human rights human rights issues and Latin American topics. With over 20 years of experience as a photographer, cinematographer and filmmaker, Oscar has worked extensively in the areas of documentary filmmaking, photojournalism, media education and advertising. Oscar has won multiple awards in both the United States and internationally for his films and photo exhibitions. Oscar is currently specializing his cinematography work with drones, teaching as an Adjunct Professor of Filmmaking­ at The New School and working as a freelancer in video and photojournalism for the Associated Press at the United Nations and Notimex, a National News Agency of Mexico.</P>
+
+  url: https://www.eventbrite.com/e/photography-photoshop-essentials-part-1-essential-lighting-techniques-for-3d-objects-and-flat-art-tickets-43406411746
+  start:
+    timezone: America/New_York
+    local: '2018-03-15T17:00:00'
+    utc: '2018-03-15T21:00:00Z'
+- name:
     text: 'How to Take the Lead: Leveraging your role as a problem-solver in your
       institution'
     html: 'How to Take the Lead: Leveraging your role as a problem-solver in your
@@ -450,3 +509,134 @@
     timezone: America/New_York
     local: '2018-04-16T13:00:00'
     utc: '2018-04-16T17:00:00Z'
+- name:
+    text: 'Intro to Code: Javascript, data, and poetry'
+    html: 'Intro to Code: Javascript, data, and poetry'
+  description:
+    text: |+
+      Intro to Code: Javascript, data, and poetry
+      This workshop is a beginner-friendly introduction to coding as a hands-on, sketch-driven exploration of basic computer concepts. We'll use Javascript to learn how to create data types and program control flow (i.e., loops, if statements), how data enters and exits a computer, and to build a basic understanding of computing concepts. Awareness of the shifting boundary between human and computer language teaches us how computers excel and how we can shape the flexible parts of our ideas to make our lives easier. The workshop will culminate with writing our own Markov chains and poetry zines generated from literary texts from Project Gutenberg.
+
+      Students will learn the basic vocabulary of computer code, basic javascript, how to make an interactive HTML page, and how to parse and store data that comes in from the internet.
+
+      This workshop is for students who have experience with computers like using a keyboard and navigating your way around folders. However, no coding experience is required.
+
+      Topics covered will include:
+
+
+      What is code? Human and computer languages
+
+
+      Peeking inside of files - the rich text file format
+
+
+      HTML and CSS in under 5 minutes
+
+
+      3 things computers can do in a program: storage, algebra/compare, and control flow
+
+
+      Interactive javascript applications inside of HTML files
+
+
+
+      Text games
+
+
+      Drawing with the mouse
+
+
+
+      Fetching data from the internet with JQuery
+
+
+      Generative content with Markov chains
+
+
+
+      What to bring:
+
+
+      A laptop (or click here to borrow one of METRO's for $5.00). Windows, Mac, or Linux are all good. Chromebooks won't work as local file storage is required.Please have the following two programs pre-loaded:
+
+
+
+      Sublime Text: https://www.sublimetext.com/
+
+
+      Chrome Browser: https://www.google.com/chrome/
+
+
+
+
+      About our instructor:
+      Robby Kraft is an creative engineer and instructor at Parsons School of Design and the School for Poetic Computation. He codes creative interactive visualization tools and installations and works on new origami designs and the mathematics of folding.
+
+
+
+    html: |+
+      <P><STRONG>Intro to Code: Javascript, data, and poetry</STRONG></P>
+      <P><SPAN>This workshop is a beginner-friendly introduction to coding as a hands-on, sketch-driven exploration of basic computer concepts. We'll use Javascript to learn how to create data types and program control flow (i.e., loops, if statements), how data enters and exits a computer, and to build a basic understanding of computing concepts. Awareness of the shifting boundary between human and computer language teaches us how computers excel and how we can shape the flexible parts of our ideas to make our lives easier. The workshop will culminate with writing our own Markov chains and poetry zines generated from literary texts from Project Gutenberg.</SPAN></P>
+      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
+      <P><SPAN>Students will learn the basic vocabulary of computer code, basic javascript, how to make an interactive HTML page, and how to parse and store data that comes in from the internet.</SPAN></P>
+      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
+      <P><SPAN>This workshop is for students who have experience with computers like using a keyboard and navigating your way around folders. However, no coding experience is required.</SPAN></P>
+      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
+      <P><STRONG>Topics covered will include:</STRONG></P>
+      <UL>
+      <LI>
+      <P><SPAN>What is code? Human and computer languages</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Peeking inside of files - the rich text file format</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>HTML and CSS in under 5 minutes</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>3 things computers can do in a program: storage, algebra/compare, and control flow</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Interactive javascript applications inside of HTML files</SPAN></P>
+      </LI>
+      <UL>
+      <LI>
+      <P><SPAN>Text games</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Drawing with the mouse</SPAN></P>
+      </LI>
+      </UL>
+      <LI>
+      <P><SPAN>Fetching data from the internet with JQuery</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Generative content with Markov chains</SPAN></P>
+      </LI>
+      </UL>
+      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
+      <P><STRONG>What to bring:</STRONG></P>
+      <UL>
+      <LI>
+      <P><SPAN>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's for $5.00). </SPAN><SPAN>Windows, Mac, or Linux are all good. Chromebooks won't work as local file storage is required.</SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>Please have the following two programs pre-loaded:</SPAN></P>
+      </LI>
+      <UL>
+      <LI>
+      <P><SPAN>Sublime Text: </SPAN><A HREF="https://www.sublimetext.com/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>https://www.sublimetext.com/</SPAN></A></P>
+      </LI>
+      <LI>
+      <P><SPAN>Chrome Browser: </SPAN><A HREF="https://www.google.com/chrome/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>https://www.google.com/chrome/</SPAN></A></P>
+      </LI>
+      </UL>
+      </UL>
+      <P><SPAN><BR CLASS="kix-line-break"></SPAN></P>
+      <P><STRONG>About our instructor:</STRONG></P>
+      <P><SPAN>Robby Kraft is an creative engineer and instructor at Parsons School of Design and the School for Poetic Computation. He codes creative interactive visualization tools and installations and works on new origami designs and the mathematics of folding.</SPAN></P>
+
+
+
+  url: https://www.eventbrite.com/e/intro-to-code-javascript-data-and-poetry-tickets-43444920928
+  start:
+    timezone: America/New_York
+    local: '2018-05-07T10:00:00'
+    utc: '2018-05-07T14:00:00Z'
