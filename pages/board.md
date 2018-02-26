@@ -72,7 +72,7 @@ The New York Public Library
 
 **Bonnie Tijerina**  
 Data & Society Research Fellow  
-President and Founder at Electronic Resources and Libraries.  
+President and Founder at Electronic Resources and Libraries  
 2015-2020  
 
 **Nate Hill**  
