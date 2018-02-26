@@ -75,7 +75,6 @@ Join more than 300 individual librarians, archivists, and information profession
 * Special rates to all METRO workshops
 * Free seats at Lynda.com
 * Eligibility to participate in the annual myMETRO Researchers project
-* Access to library referral cards
 * Discounts on professional publications like Library Journal and Library Hotline
 
 ### Membership Fees
