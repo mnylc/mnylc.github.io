@@ -378,25 +378,6 @@
     local: '2018-04-09T16:00:00'
     utc: '2018-04-09T20:00:00Z'
 - name:
-    text: Private Event
-    html: Private Event
-  description:
-    text: |+
-      Description here.
-
-
-
-    html: |+
-      <P><STRONG>Description here.</STRONG></P>
-
-
-
-  url: https://www.eventbrite.com/e/private-event-tickets-43627070743
-  start:
-    timezone: America/New_York
-    local: '2018-04-13T15:00:00'
-    utc: '2018-04-13T19:00:00Z'
-- name:
     text: 'Teaching Research Data Management and Reproducibility: Ways to Engage Your
       Community in Research Stewardship'
     html: 'Teaching Research Data Management and Reproducibility: Ways to Engage Your
@@ -457,6 +438,25 @@
     timezone: America/New_York
     local: '2018-04-16T13:00:00'
     utc: '2018-04-16T17:00:00Z'
+- name:
+    text: Private Event
+    html: Private Event
+  description:
+    text: "End your busy week and join us for happy hour at METRO/599 on Friday, April
+      20th. \nAt 5:00 PM, Nate will give a brief overview of the facilities, events,
+      programs, and equipment available in our Hell's Kitchen studio. Drinks and snacks
+      will be available.\n Looking forward to seeing you all!\n\n\n"
+    html: |+
+      <P><SPAN>End your busy week and join us for happy hour at METRO/599 on Friday, </SPAN><SPAN CLASS="aBn"><SPAN CLASS="aQJ">April 20th</SPAN></SPAN><SPAN>. </SPAN></P>
+      <P><SPAN>At </SPAN><SPAN CLASS="aBn"><SPAN CLASS="aQJ">5:00 PM,</SPAN></SPAN><SPAN> Nate will give a brief overview of the facilities, events, programs, and equipment available in our Hell's Kitchen studio. Drinks and snacks will be available.</SPAN></P>
+      <P><SPAN> Looking forward to seeing you all!</SPAN></P>
+
+
+  url: https://www.eventbrite.com/e/private-event-tickets-43627070743
+  start:
+    timezone: America/New_York
+    local: '2018-04-20T16:00:00'
+    utc: '2018-04-20T20:00:00Z'
 - name:
     text: 'Intro to Code: Javascript, data, and poetry'
     html: 'Intro to Code: Javascript, data, and poetry'
