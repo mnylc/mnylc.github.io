@@ -1,22 +1,4 @@
 ---
-- time: 1519848000000
-  link: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/247315858/
-  description:
-    html: "<p>• What we'll do<br/>Please mark your calendars for the next Library
-      Resource Sharing: Circulation, Interlibrary Loan, and Reserves Special Interest
-      Group Meeting and the METRO offices on February 28. This meeting will focus
-      on topics in Circulation and Reserves. We have a casual discussion-group format
-      and attendees suggest topics of interest, including staffing and training, policies
-      and best practices, new initiatives, challenges, successes, reserves/copyright,
-      and more. My co-convener, Deborah Caesar (NYU) and I hope that you are able
-      to attend!</p> <p>Monique Prince<br/>Access Services Manager<br/>Baruch College</p>
-      <p>• What to bring</p> <p>• Important to know</p> "
-  name:
-    html: Circulation and Reserves Winter Special Interest Group
-  start:
-    utc: '2018-02-28 15:00:00 -0500'
-    local: '2018-02-28 15:00:00 -0500'
-  url: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/247315858/
 - name:
     text: Using and Improving NYC Open Data Dictionaries
     html: Using and Improving NYC Open Data Dictionaries
