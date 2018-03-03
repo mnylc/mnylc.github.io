@@ -18,7 +18,7 @@ t = Time.new.xmlschema
 tt = t.to_s[0..-7] + 'Z'
 
 # build the uri and then get the data.
-eb_uri_str = 'https://www.eventbriteapi.com/v3/organizers/8929654067/events/?status=live&token=' + eb_token
+eb_uri_str = 'https://www.eventbriteapi.com/v3/organizers/8929654067/events/?status=live&only_public=true&token=' + eb_token
 # eb_uri_str = 'https://www.eventbriteapi.com/v3/events/search/?organizer.id=8929654067&start_date.range_start='
 # eb_uri_str += tt + '&token=' + eb_token
 uri = URI(eb_uri_str)
