@@ -2,13 +2,13 @@
 layout: post
 title:  "Assistant Librarian (Part-time)  - New York School of Interior Design"
 date:   2018-03-01
-excerpt: "Professional Exempt (Part-time & temporary 3-month term only, with a possibility of renewal) Overview: Reporting to the Director of the Library, the Assistant Librarian supports the day-to day operations of the Library’s public services and the two materials libraries. S/he is an integral part of the Library’s public services team..."
+excerpt: "Part-time & temporary 3-month term only, with a possibility of renewal Overview: Reporting to the Director of the Library, the Assistant Librarian supports the day-to day operations of the Library’s public services and the two materials libraries. S/he is an integral part of the Library’s public services team for providing..."
 tag: job
 ---
 
 ### Description###
 
-Professional Exempt (Part-time & temporary 3-month term only, with a possibility of renewal)
+Part-time & temporary 3-month term only, with a possibility of renewal
 
 Overview: 
 Reporting to the Director of the Library, the Assistant Librarian supports the day-to day operations of the Library’s public services and the two materials libraries. S/he is an integral part of the Library’s public services team for providing instructional, reference, and circulating services to library users. During the closing shifts and in the absence of the Librarian, s/he manages the Library’s circulation and reference desk and supervises student workers. The Assistant Librarian performs a variety of system maintenance tasks, such as updating the Library’s website and online subject guides and maintaining other electronic tools and platforms pertaining to public services. S/he may need to perform tasks and projects related to the NYSID Archives & Special Collections.
@@ -30,21 +30,23 @@ Reporting to the Director of the Library, the Assistant Librarian supports the d
 
 ### Qualifications###
 
-•	MLS from an ALA-accredited institution (candidates pursuing an MLS degree at an ALA-accredited institution will also be considered).
-•	Bachelors in art history, fine arts, design, or architecture preferred.
-•	Some circulation and reference experience in an academic and research library environment highly desirable.
-•	Experience using an integrated library system, particularly its circulation module, desirable.
-•	Proficiency in WordPress, LibGuides, Omeka, and other library and information technologies pertaining to library public and instructional services.
-•	Strong technical skills of evaluating and employing a variety of new Web tools, systems platforms, and social media channels to facilitate and promote library services and operations.
-•	Proficiency in MS Office Suite, particularly Word, Excel, and PowerPoint.
-•	Excellent oral and written communication skills for lectures, presentations, and working with library/archives users and staff.
-•	Professional committee memberships/activities in related organizations, such as ARLIS/NA, VRA, AASL, ALA, or ACRL, desirable.
-•	Ability to work independently, be flexible, have high attention to detail; a proactive problem solver.
-•	Friendly, with strong service orientation and good people skills.
-•	Former teaching or library instruction experience highly desirable.
-•	A commitment to user-oriented library services.
-•	General knowledge of art, architecture, and design research resources preferred.
-
+•        MLS from an ALA-accredited institution (candidates pursuing an MLS degree at an ALA-accredited institution will also be considered).
+•        Bachelors in art history, fine arts, design, or architecture preferred.
+•        Some circulation and reference experience in an academic and research library environment highly desirable.
+•        Experience using an integrated library system, particularly its circulation module, desirable.
+•        Proficiency in WordPress, LibGuides, Omeka, and other library and information technologies pertaining to library public and instructional services.
+•        Strong technical skills of evaluating and employing a variety of new Web tools, systems platforms, and social media channels to facilitate and promote library services and operations.
+•        Proficiency in MS Office Suite, particularly Word, Excel, and PowerPoint.
+•        Excellent oral and written communication skills for lectures, presentations, and working with library/archives users and staff.
+•        Professional committee memberships/activities in related organizations, such as ARLIS/NA, VRA, AASL, ALA, or ACRL, desirable.
+•        Ability to work independently, be flexible, have high attention to detail; a proactive problem solver.
+•        Friendly, with strong service orientation and good people skills.
+•        Former teaching or library instruction experience highly desirable.
+•        A commitment to user-oriented library services.
+•        General knowledge of art, architecture, and design research resources preferred.
+Working conditions:
+·         Required to cover evening and/or weekend hours during the academic school year.
+·         Ability to perform physical activities associated with library collections.
 
 
 ### Compensation###
