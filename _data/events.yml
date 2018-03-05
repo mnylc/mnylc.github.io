@@ -393,7 +393,6 @@
 
       This workshop will teach the basics of operating within a creative landscape that requires manipulation and creation of assets for print and digital media. Participants will gain an overall understanding of the tools available in Adobe’s Creative Suite and how they work together to create usable, quality content.
 
-
       Need to edit a photo, prepare files for a printer, or make a GIF? The workshop will cover:
       Photoshop Basics - Uses and Goals
 
@@ -415,7 +414,7 @@
       What to bring:
 
 
-      A laptop (or click here to borrow one of METRO's for $5.00). Please have Adobe CC suite pre-loaded. The 7-day free trial version is available for download here. 
+      A laptop (or click here to borrow one of METRO's for $5.00). Please have Adobe Creative Suite pre-loaded. If you don't own a license, you can download a free, 7-day trial version of Creative Cloud here. 
 
 
 
@@ -426,9 +425,8 @@
 
     html: |+
       <P><STRONG>Working in the Digital Art Landscape</STRONG></P>
-      <P><SPAN></SPAN></P>
-      <P><SPAN>This workshop will teach the basics of operating within a creative landscape that requires manipulation and creation of assets for print and digital media. Participants will gain an overall understanding of the tools available in Adobe’s Creative Suite and how they work together to create usable, quality content.</SPAN></P>
 
+      <P><SPAN>This workshop will teach the basics of operating within a creative landscape that requires manipulation and creation of assets for print and digital media. Participants will gain an overall understanding of the tools available in Adobe’s Creative Suite and how they work together to create usable, quality content.</SPAN></P>
 
       <P>Need to edit a photo, prepare files for a printer, or make a GIF? The workshop will cover:</P>
       <P>Photoshop Basics - Uses and Goals<BR></P>
@@ -451,7 +449,7 @@
       <P><STRONG>What to bring:</STRONG></P>
       <UL>
       <LI>
-      <P>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's for $5.00). <BR CLASS="kix-line-break"><BR CLASS="kix-line-break">Please have Adobe CC suite pre-loaded. The 7-day free trial version is available for download <A HREF="https://creative.adobe.com/products/download/creative-cloud" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A>. </P>
+      <P>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's for $5.00). <BR CLASS="kix-line-break"><BR CLASS="kix-line-break">Please have Adobe Creative Suite pre-loaded. If you don't own a license, you can download a free, 7-day trial version of Creative Cloud <A HREF="https://creative.adobe.com/products/download/creative-cloud" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A>. </P>
       </LI>
       </UL>
       <P><SPAN><BR CLASS="kix-line-break"></SPAN></P>
@@ -582,6 +580,25 @@
     timezone: America/New_York
     local: '2018-04-16T13:00:00'
     utc: '2018-04-16T17:00:00Z'
+- time: 1524060000000
+  link: https://www.meetup.com/Economics-Business-Librarians-Group/events/248301617/
+  description:
+    html: "<p>• What we'll do<br/>METRO Economics and Business Librarians Special
+      Interest Group: Tour of the Federal Reserve Bank of New York</p> <p>On April
+      18, 2018, the METRO SIG Economics and Business Librarians Special Interest Group
+      is sponsoring a tour of the Federal Reserve Bank of New York, from 10 AM to
+      12 noon. The Federal Reserve Bank of New York is located at 33 Liberty Street.
+      We will meet at 9:30 AM. Please bring a valid, government-issued ID for admission.
+      Please register no later than April 7, 2018. Please take the opportunity to
+      visit and tour the Federal Reserve Bank of New York!</p> <p>• What to bring<br/>Please
+      bring valid, government-issued ID for admission</p> <p>• Important to know<br/>Tickets
+      will be issued in early April</p> "
+  name:
+    html: Tour of Federal Reserve Bank of New York
+  start:
+    utc: '2018-04-18 10:00:00 -0400'
+    local: '2018-04-18 10:00:00 -0400'
+  url: https://www.meetup.com/Economics-Business-Librarians-Group/events/248301617/
 - name:
     text: 'Intro to Code: Javascript, data, and poetry'
     html: 'Intro to Code: Javascript, data, and poetry'
