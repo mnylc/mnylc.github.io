@@ -44,9 +44,12 @@ Reporting to the Director of the Library, the Assistant Librarian supports the d
 •        Former teaching or library instruction experience highly desirable.
 •        A commitment to user-oriented library services.
 •        General knowledge of art, architecture, and design research resources preferred.
-Working conditions:
-·         Required to cover evening and/or weekend hours during the academic school year.
-·         Ability to perform physical activities associated with library collections.
+
+#### Working conditions
+
++ Required to cover evening and/or weekend hours during the academic school year.
+
++ Ability to perform physical activities associated with library collections.
 
 
 ### Compensation###
