@@ -13,42 +13,73 @@ The College of New Rochelle invites applications for the position of Access Serv
 
 ### Responsibilities###
 
-•	Manage all Access Services functions including circulation, reserves and inter-library loan using the Library’s integrated library system, OCLC, and related systems
-•	Communicates and enforces the department’s policies and procedures
-•	Maintains patron database in library management system
-•	Hires, supervises, trains and evaluates the department’s full time employees and adjuncts
-•	Responsible for scheduling all part time assistants, evening and weekend staff assigned to the Access Services department
-•	Provides leadership and regular training sessions for circulation staff (all campuses) and also conducts workshops for students in the use of library applications
-•	Participates in the evaluation and review of new work processes and tools
-•	Assesses current services and identifies improvements by analyzing user data and national academic library trends
-•	Compiles statistics, analyzes data, and prepares reports relating to areas of responsibility in support of departmental and library goals
-•	Provides leadership in identifying and adapting technology to department needs
-•	Oversees stack maintenance, inventory projects and general participation in collection development activities
-•	Provides input on all Access Services Policies and issues to the Dean
-•	Participates in Library and College Committees
-•	Provides research support to students and faculty in academic departments and schools through consultations, instruction sessions, and in-person and virtual reference services
-•	 Works with vendors or other units that support library operations, such as collection development, Library IT, facilities maintenance, and security
-•	 Participates in professional activities outside of CNR and monitors developments and best practices elsewhere to help ensure the excellence of CNR’s collections and research support services
-•	Conducts general library tours, participates in Orientation sessions and serves as Personal Librarian to first year students
-•	Expected to participate and contribute to the professional growth and development of the College community as per the Faculty Handbook
-•	Participate in the ongoing development of  a robust library information literacy program
+
+• 	Manage all Access Services functions including circulation, reserves and inter-library loan using the Library’s integrated library system, OCLC, and related systems
+
+• 	Communicates and enforces the department’s policies and procedures
+
+• 	Maintains patron database in library management system
+
+• 	Hires, supervises, trains and evaluates the department’s full time employees and adjuncts
+
+• 	Responsible for scheduling all part time assistants, evening and weekend staff assigned to the Access Services department
+
+• 	Provides leadership and regular training sessions for circulation staff (all campuses) and also conducts workshops for students in the use of library applications
+
+• 	Participates in the evaluation and review of new work processes and tools
+
+• 	Assesses current services and identifies improvements by analyzing user data and national academic library trends
+
+• 	Compiles statistics, analyzes data, and prepares reports relating to areas of responsibility in support of departmental and library goals
+
+• 	Provides leadership in identifying and adapting technology to department needs
+
+• 	Oversees stack maintenance, inventory projects and general participation in collection development activities
+
+• 	Provides input on all Access Services Policies and issues to the Dean
+
+• 	Participates in Library and College Committees
+
+• 	Provides research support to students and faculty in academic departments and schools through consultations, instruction sessions, and in-person and virtual reference services
+
+• 	 Works with vendors or other units that support library operations, such as collection development, Library IT, facilities maintenance, and security
+
+• 	 Participates in professional activities outside of CNR and monitors developments and best practices elsewhere to help ensure the excellence of CNR’s collections and research support services
+
+• 	Conducts general library tours, participates in Orientation sessions and serves as Personal Librarian to first year students
+
+• 	Expected to participate and contribute to the professional growth and development of the College community as per the Faculty Handbook
+
+• 	Participate in the ongoing development of  a robust library information literacy program
 
 
 
 ### Qualifications###
 
-•	Master’s degree in Library and Information Science from an A.L.A. accredited institution 
-•	Ability to deliver and promote excellent customer service 
-•	Supervisory and training experience
-•	Experience with online public access catalogs, ILL functions, basic copyright law, and policies and procedures related to public service, print and electronic resources 
-•	Sensitivity to working in a diverse work environment
-•	Ability to solve problems effectively and exercise good judgment
-•	Adaptable, flexible and strong organizational skills
-•	Ability to function both as a team member and a team leader
-•	Technological proficiency
-•	Second subject Master’s degree preferred
-•	Experience with Innovative Interfaces Inc., Banner, OCLC and Springshare products
-•	Previous academic library experience
+
+• 	Master’s degree in Library and Information Science from an A.L.A. accredited institution 
+
+• 	Ability to deliver and promote excellent customer service 
+
+• 	Supervisory and training experience
+
+• 	Experience with online public access catalogs, ILL functions, basic copyright law, and policies and procedures related to public service, print and electronic resources 
+
+• 	Sensitivity to working in a diverse work environment
+
+• 	Ability to solve problems effectively and exercise good judgment
+
+• 	Adaptable, flexible and strong organizational skills
+
+• 	Ability to function both as a team member and a team leader
+
+• 	Technological proficiency
+
+• 	Second subject Master’s degree preferred
+
+• 	Experience with Innovative Interfaces Inc., Banner, OCLC and Springshare products
+
+• 	Previous academic library experience
 
 
 

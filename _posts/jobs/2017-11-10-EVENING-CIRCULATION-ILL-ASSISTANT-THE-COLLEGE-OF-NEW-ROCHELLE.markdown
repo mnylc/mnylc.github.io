@@ -13,26 +13,41 @@ Gill Library at The College of New Rochelle invites applications for the positio
 
 ### Responsibilities###
 
-•	Provides evening Circulation Desk coverage which may include weekends and certain holidays as well as extended hours during final exam periods if needed
-•	Assists library users in person or by phone with circulation matters 
-•	Uses all library technology necessary to fulfill job duties
-•	Shows patrons proper use of, troubleshoots and maintains library equipment, such as photocopiers, printers, etc.
-•	Process outgoing and incoming interlibrary loan requests for all campuses; manage Gill Library's participation in OCLC/ILLiad, the document delivery system; maintain records and prepares statistical reports on ILL activity.
-•	Train and supervise student aides assigned to the Interlibrary Loan Department (ILL) in the use of Millennium, Odyssey, FirstSearch and OCLC/ILLiad for both Lending and Borrowing.
-•	Update manuals, amend, and streamline operational procedures as necessary.
-•	Prepare timely invoices and notify patrons or institutions of overdue materials. Implement fees for photocopies and contact Acquisitions Department for cost/charges of lost books.
-•	Attend and participate in OCLC/ILLiad on-site training and online webinars.
-•	Shares responsibility for recordkeeping, and performs clerical tasks as needed
-•	Retrieves, shelves, and organizes library materials, which involves bending and lifting
-•	Supervises student workers in their tasks and reinforces their training as appropriate
+
+• 	Provides evening Circulation Desk coverage which may include weekends and certain holidays as well as extended hours during final exam periods if needed
+
+• 	Assists library users in person or by phone with circulation matters 
+
+• 	Uses all library technology necessary to fulfill job duties
+
+• 	Shows patrons proper use of, troubleshoots and maintains library equipment, such as photocopiers, printers, etc.
+
+• 	Process outgoing and incoming interlibrary loan requests for all campuses; manage Gill Library's participation in OCLC/ILLiad, the document delivery system; maintain records and prepares statistical reports on ILL activity.
+
+• 	Train and supervise student aides assigned to the Interlibrary Loan Department (ILL) in the use of Millennium, Odyssey, FirstSearch and OCLC/ILLiad for both Lending and Borrowing.
+
+• 	Update manuals, amend, and streamline operational procedures as necessary.
+
+• 	Prepare timely invoices and notify patrons or institutions of overdue materials. Implement fees for photocopies and contact Acquisitions Department for cost/charges of lost books.
+
+• 	Attend and participate in OCLC/ILLiad on-site training and online webinars.
+
+• 	Shares responsibility for recordkeeping, and performs clerical tasks as needed
+
+• 	Retrieves, shelves, and organizes library materials, which involves bending and lifting
+
+• 	Supervises student workers in their tasks and reinforces their training as appropriate
 
 
 
 ### Qualifications###
 
-•	Bachelor degree; Library experience and excellent customer service skills required.
-•	Proficient in MS Office (Word, Excel, PowerPoint). Experience with OCLC/ILLiad, Millennium, and Library systems required. 
-•	Professional attire required; Punctual, reliable, flexible. Strong communication skills 
+
+• 	Bachelor degree; Library experience and excellent customer service skills required.
+
+• 	Proficient in MS Office (Word, Excel, PowerPoint). Experience with OCLC/ILLiad, Millennium, and Library systems required. 
+
+• 	Professional attire required; Punctual, reliable, flexible. Strong communication skills 
 
 
 

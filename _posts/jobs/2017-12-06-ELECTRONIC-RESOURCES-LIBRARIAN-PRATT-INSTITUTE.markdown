@@ -21,32 +21,52 @@ POSITION RESPONSIBILITIES:
 
 Resource Management
 Provide leadership in the coordination and management of e-resource collections:
-•	Maintain access to e-resources on and off campus
-•	Maintain e-resource management systems
-•	Manage metadata related to open access resources
-•	Research terms of licenses
-•	Subscription activation and invoicing
-•	Subscription renewals
+
+• 	Maintain access to e-resources on and off campus
+
+• 	Maintain e-resource management systems
+
+• 	Manage metadata related to open access resources
+
+• 	Research terms of licenses
+
+• 	Subscription activation and invoicing
+
+• 	Subscription renewals
 Resource Evaluation
 Assist in the collection development of e-resources and serial subscriptions:
-•	Collect, distribute, and analyze usage statistics and other data
-•	Make recommendations regarding vendors, resources, platforms, and format of information
-•	Set up database trials and coordinate related outreach and facilitating feedback
-•	Work with the Serials Maintenance Technician and subject selectors to coordinate print & electronic serials subscriptions and the evaluation thereof
-•	Stay current with emerging trends and issues involving digital and electronic resources and serial publications
+
+• 	Collect, distribute, and analyze usage statistics and other data
+
+• 	Make recommendations regarding vendors, resources, platforms, and format of information
+
+• 	Set up database trials and coordinate related outreach and facilitating feedback
+
+• 	Work with the Serials Maintenance Technician and subject selectors to coordinate print & electronic serials subscriptions and the evaluation thereof
+
+• 	Stay current with emerging trends and issues involving digital and electronic resources and serial publications
 Resource Access & Discovery
 Ensure usability of e-resource platforms and ease of access to e-resource content:
-•	Act as contact person for outages, platform updates, access problems, purchase requests and solicitations
-•	Integrate content into a discovery service
-•	Work with other campus departments to ensure efficiencies in the libraries’ electronic resources, Web presence and ADA compliance
+
+• 	Act as contact person for outages, platform updates, access problems, purchase requests and solicitations
+
+• 	Integrate content into a discovery service
+
+• 	Work with other campus departments to ensure efficiencies in the libraries’ electronic resources, Web presence and ADA compliance
 The Library & The Institute
 Perform faculty related service within the Libraries and for the Institute:
-•	Participate in providing reference service and library instruction to individuals and groups, including library faculty and staff
-•	Serve on Institute and Library-wide committees.
-•	Participate in outreach efforts to assigned liaison areas
-•	Collection development and management of assigned subject areas
-•	Meet requirements for promotion and tenure
-•	Perform other duties and special projects as assigned
+
+• 	Participate in providing reference service and library instruction to individuals and groups, including library faculty and staff
+
+• 	Serve on Institute and Library-wide committees.
+
+• 	Participate in outreach efforts to assigned liaison areas
+
+• 	Collection development and management of assigned subject areas
+
+• 	Meet requirements for promotion and tenure
+
+• 	Perform other duties and special projects as assigned
 
 
 
@@ -55,21 +75,32 @@ Perform faculty related service within the Libraries and for the Institute:
 QUALIFICATIONS:
 
 Education:
-•	ALA accredited Master’s degree in Library Science or equivalent
+
+• 	ALA accredited Master’s degree in Library Science or equivalent
 Experience:
-•	3 years library experience
+
+• 	3 years library experience
  
 Skills:
-•	Demonstrated knowledge of SUSHI protocol and COUNTER standards.
-•	Demonstrated facility with spreadsheet software and experience doing data cleanup.
-•	Familiarity with electronic resources management tools such as Serial Solutions, EZ Proxy, and iii Electronic Resource Management
-•	Strong organizational skills and the ability to set and modify work priorities independently with a high degree of initiative
-•	Excellent oral and written communication skills
-•	Knowledge of principles of diversity and inclusion; ability to work well with diverse populations; and demonstrated level of cultural competence
+
+• 	Demonstrated knowledge of SUSHI protocol and COUNTER standards.
+
+• 	Demonstrated facility with spreadsheet software and experience doing data cleanup.
+
+• 	Familiarity with electronic resources management tools such as Serial Solutions, EZ Proxy, and iii Electronic Resource Management
+
+• 	Strong organizational skills and the ability to set and modify work priorities independently with a high degree of initiative
+
+• 	Excellent oral and written communication skills
+
+• 	Knowledge of principles of diversity and inclusion; ability to work well with diverse populations; and demonstrated level of cultural competence
 Other
-•	Strong organizational skills and the ability to set and modify work priorities independently with a high degree of initiative
-•	Excellent oral and written communication skills
-•	Knowledge of principles of diversity and inclusion; ability to work well with diverse populations; and demonstrated level of cultural competence
+
+• 	Strong organizational skills and the ability to set and modify work priorities independently with a high degree of initiative
+
+• 	Excellent oral and written communication skills
+
+• 	Knowledge of principles of diversity and inclusion; ability to work well with diverse populations; and demonstrated level of cultural competence
 
 
 

@@ -13,39 +13,64 @@ The E-resources and Content Management Librarian will participate in the ongoing
 
 ### Responsibilities###
 
-•	Manages and maintains timely access to all digital library resources including subscription databases, e-books, e-journals, full-text article links, and other e-resources.
-•	Performs cataloging activities and projects related to both print and e-resources.
-•	Serves as administrator of the integrated library system, OCLC's World Share Management Service (WMS).
-•	Coordinates trial, acquisition and renewal activities with publishers/vendors and staff.
-•	Applies knowledge of best practices for discoverability of library resources to improve tools and workflows
-•	Communicates successfully with vendors and publishers.
-•	Assists with the selection of new resources and ongoing review of current electronic resources.
-•	Assists with troubleshooting of the Library’s licensed e-resources, including e-books, e-journals, & databases.
-•	Delivers high-level customer service, including answering questions, recommending resources, providing instruction and/or educational sessions to users.  Continually seeks new ways to improve efficiency and customer service.  
-•	Performs special library projects in support of Library services.
-•	Participates on Library working groups/committees.
+
+• 	Manages and maintains timely access to all digital library resources including subscription databases, e-books, e-journals, full-text article links, and other e-resources.
+
+• 	Performs cataloging activities and projects related to both print and e-resources.
+
+• 	Serves as administrator of the integrated library system, OCLC's World Share Management Service (WMS).
+
+• 	Coordinates trial, acquisition and renewal activities with publishers/vendors and staff.
+
+• 	Applies knowledge of best practices for discoverability of library resources to improve tools and workflows
+
+• 	Communicates successfully with vendors and publishers.
+
+• 	Assists with the selection of new resources and ongoing review of current electronic resources.
+
+• 	Assists with troubleshooting of the Library’s licensed e-resources, including e-books, e-journals, & databases.
+
+• 	Delivers high-level customer service, including answering questions, recommending resources, providing instruction and/or educational sessions to users.  Continually seeks new ways to improve efficiency and customer service.  
+
+• 	Performs special library projects in support of Library services.
+
+• 	Participates on Library working groups/committees.
 
 
 ### Qualifications###
 
 Required Skills and Experience:
 Experience with OCLC World Share and Connexion strongly preferred.
-•	Experience with MARC bibliographic and authorities formats and OCLC cataloging standards. 
-•	Working knowledge of Integrated Library Systems, EZProxy, SerialsSolutions, and other related resource management services strongly preferred.
-•	Knowledge of NLM cataloging and classification standards.
-•	Skills in developing, implementing, and monitoring policies, procedures, and workflows.
-•	Knowledge of best practices for managing access to electronic resources.
-•	Skills in utilizing computer technology used for communication, data gathering and reporting.
-•	Familiarity with LibGuides and LibAnswers a plus.
-•	Demonstrated commitment to service for students, staff and faculty and willingness to actively collaborate with colleagues in the Library and across the campus community.
-•	Demonstrated strong customer service skills.
-•	Demonstrated problem-solving skills and ability to quickly learn new skills. 
+
+• 	Experience with MARC bibliographic and authorities formats and OCLC cataloging standards. 
+
+• 	Working knowledge of Integrated Library Systems, EZProxy, SerialsSolutions, and other related resource management services strongly preferred.
+
+• 	Knowledge of NLM cataloging and classification standards.
+
+• 	Skills in developing, implementing, and monitoring policies, procedures, and workflows.
+
+• 	Knowledge of best practices for managing access to electronic resources.
+
+• 	Skills in utilizing computer technology used for communication, data gathering and reporting.
+
+• 	Familiarity with LibGuides and LibAnswers a plus.
+
+• 	Demonstrated commitment to service for students, staff and faculty and willingness to actively collaborate with colleagues in the Library and across the campus community.
+
+• 	Demonstrated strong customer service skills.
+
+• 	Demonstrated problem-solving skills and ability to quickly learn new skills. 
 
 Preferred Skills and Experience:
-•	Experience with OCLC World Share and Connexion 
-•	Experience with MARC bibliographic and authorities formats and OCLC cataloging standards. 
-•	Familiarity with SpringShare’s LipApps Product Suite
-•	Knowledge of best practices for managing access to electronic resources.
+
+• 	Experience with OCLC World Share and Connexion 
+
+• 	Experience with MARC bibliographic and authorities formats and OCLC cataloging standards. 
+
+• 	Familiarity with SpringShare’s LipApps Product Suite
+
+• 	Knowledge of best practices for managing access to electronic resources.
 
 
 

@@ -18,29 +18,50 @@ Manages general daily operations of the Edward Blank YIVO Vilna Collections Proj
 
 RESPONSIBILITIES INCLUDE:
 
-•	Create archival and library work assignments for project, including staff and interns 
-•	Maintain project schedules - monthly, yearly, and 7-year project work plan
-•	Maintain annual and multi-year project budgets for NY and Vilnius sides of the project, including a combined budget
-•	Track project expenses
-•	Process invoices, including wire transfers to Lithuania
-•	Maintain list of archival collections and their status
-•	Maintain up-to-date workflow, authority lists, and guidelines for archival and library work 
-•	Maintain list of closed collections and distribute bi-monthly Track work of archivists and librarians 
-•	Convene regular workflow meetings with the  lead members of archival and library team and informational meetings of the entire team
-•	Integrate all of the components of the project into a unified work plan and produce integrated reports for team, CEO, CFO 
-•	Assist with the preparation of grant proposals related to the Project
-•	Maintain and update folders with essential project documents
-•	Serve as liaison to the digitization vendors
-•	Coordinate  hiring and training of personnel for the project, purchase and installation of digitization and other equipment in coordination with the Director of the Archives and Library and Director of the Digital Initiatives
-•	Schedule courier pickups and deliveries
-•	Schedule regular conference calls with the Lithuanian partners
 
-•	Coordinate ingestion of digital files into the Digital Assets Management system of the Center for Jewish History (CJH) and their transfer to the Edward Blank YIVO Vilna Collections online portal
-•	Monitor digital storage requirements
+• 	Create archival and library work assignments for project, including staff and interns 
 
-•	Work with the Director of the Digital Initiatives and the Director of the Library and Archives on the Project’s website portal 
-•	Work on customizing and adaptation of the collection management platforms (Archon/Archives Space, Aleph) for the Project;
-•	Serve as liaison to CJH in all relevant project matters
+• 	Maintain project schedules - monthly, yearly, and 7-year project work plan
+
+• 	Maintain annual and multi-year project budgets for NY and Vilnius sides of the project, including a combined budget
+
+• 	Track project expenses
+
+• 	Process invoices, including wire transfers to Lithuania
+
+• 	Maintain list of archival collections and their status
+
+• 	Maintain up-to-date workflow, authority lists, and guidelines for archival and library work 
+
+• 	Maintain list of closed collections and distribute bi-monthly Track work of archivists and librarians 
+
+• 	Convene regular workflow meetings with the  lead members of archival and library team and informational meetings of the entire team
+
+• 	Integrate all of the components of the project into a unified work plan and produce integrated reports for team, CEO, CFO 
+
+• 	Assist with the preparation of grant proposals related to the Project
+
+• 	Maintain and update folders with essential project documents
+
+• 	Serve as liaison to the digitization vendors
+
+• 	Coordinate  hiring and training of personnel for the project, purchase and installation of digitization and other equipment in coordination with the Director of the Archives and Library and Director of the Digital Initiatives
+
+• 	Schedule courier pickups and deliveries
+
+• 	Schedule regular conference calls with the Lithuanian partners
+
+
+• 	Coordinate ingestion of digital files into the Digital Assets Management system of the Center for Jewish History (CJH) and their transfer to the Edward Blank YIVO Vilna Collections online portal
+
+• 	Monitor digital storage requirements
+
+
+• 	Work with the Director of the Digital Initiatives and the Director of the Library and Archives on the Project’s website portal 
+
+• 	Work on customizing and adaptation of the collection management platforms (Archon/Archives Space, Aleph) for the Project;
+
+• 	Serve as liaison to CJH in all relevant project matters
 
 
 
@@ -50,21 +71,34 @@ Education and training:
 Master’s degree in Library Information Science from ALA-accredited institution with concentration on archives, and additional professional development.
 
 Work experience: 
-• At least 5 years of full time professional work in a special library or archival setting processing large collections, and several years’ experience in supervising other employees’ work and collaboration within a major library or archives’ project
-• Minimum of 3 years of professional metadata creation in an academic or research institution;
-• Significant experience in managing project budgets;
-• Significant experience in managing digitization and digital preservation projects;
-• Experience of work with principles and details of authority control;
-• Experience of work with collection management systems.
+
+•  At least 5 years of full time professional work in a special library or archival setting processing large collections, and several years’ experience in supervising other employees’ work and collaboration within a major library or archives’ project
+
+•  Minimum of 3 years of professional metadata creation in an academic or research institution;
+
+•  Significant experience in managing project budgets;
+
+•  Significant experience in managing digitization and digital preservation projects;
+
+•  Experience of work with principles and details of authority control;
+
+•  Experience of work with collection management systems.
 
 Skills and abilities:
-• Demonstrated knowledge of MARC, DACS, METS, Dublin Core, EAD and other metadata formats and standards; 
-• Knowledge of discovery tools and related metadata practices in a library or archival context;
-• Knowledge of XML and HTML, of digitization protocols, and principles of web design;
-• Proficiency in MS Word suite; 
-• Excellent written and verbal communication skills;
-• Must work well as a part of a team, including the international project partners;
-• Foreign language skills (Russian, Yiddish, Hebrew, Polish, Lithuanian) are a plus.
+
+•  Demonstrated knowledge of MARC, DACS, METS, Dublin Core, EAD and other metadata formats and standards; 
+
+•  Knowledge of discovery tools and related metadata practices in a library or archival context;
+
+•  Knowledge of XML and HTML, of digitization protocols, and principles of web design;
+
+•  Proficiency in MS Word suite; 
+
+•  Excellent written and verbal communication skills;
+
+•  Must work well as a part of a team, including the international project partners;
+
+•  Foreign language skills (Russian, Yiddish, Hebrew, Polish, Lithuanian) are a plus.
 
 
 

@@ -32,9 +32,12 @@ The MLIS intern is also expected to help program staff as needed. This may inclu
 
 ### Qualifications###
 
-• Be a current MLIS student or recent graduate of a MLIS program;
-• Have excellent organizational and time management skills; and
-• Have excellent search skills using electronic sources, with focus on academic databases and open access sources such as data.gov. A strong understanding of electronic records and information management is needed for this position.
+
+•  Be a current MLIS student or recent graduate of a MLIS program;
+
+•  Have excellent organizational and time management skills; and
+
+•  Have excellent search skills using electronic sources, with focus on academic databases and open access sources such as data.gov. A strong understanding of electronic records and information management is needed for this position.
 
 Optional: We recommend that students applying have completed courses in Information Sources and Service (i.e., advanced training in searching scholarly databases and other reference sources), as well as Records Management (i.e., training in contemporary approaches to records and information lifecycles) prior to this internship. Alternatively, candidates may be enrolled in these courses at the time of the internship. 
 

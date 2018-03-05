@@ -18,23 +18,34 @@ Minimum of 3 days a week required, 4-5 days preferred. Days and hours of work ar
 
 ### Responsibilities###
 
-•	Apply technical and descriptive skills, as well as user-centered perspectives, interests, and search methods, to edit existing metadata in Collective Access in accordance with professional best practices and standards.
-•	Assign proper titles, descriptions, captions, and other access points to digitized photograph collection; assign relevant subjects headings using Library of Congress Subject headings. Ensure copyright and ownership information, as well as other pertinent information on the back of the photograph is captured in the catalog record.
-•	Perform batch edits to assign Library of Congress Subject headings to Publications.
-•	Prepare legacy data and finding aids in various formats for import into Collective Access.
+
+• 	Apply technical and descriptive skills, as well as user-centered perspectives, interests, and search methods, to edit existing metadata in Collective Access in accordance with professional best practices and standards.
+
+• 	Assign proper titles, descriptions, captions, and other access points to digitized photograph collection; assign relevant subjects headings using Library of Congress Subject headings. Ensure copyright and ownership information, as well as other pertinent information on the back of the photograph is captured in the catalog record.
+
+• 	Perform batch edits to assign Library of Congress Subject headings to Publications.
+
+• 	Prepare legacy data and finding aids in various formats for import into Collective Access.
 
 
 
 ### Qualifications###
 
 
-•	Student enrolled in Graduate Library Science, Information Science, or Archives program. 
-•	Knowledge of metadata processing and description standards and best practices.
-•	Experience cataloging in a digital content management system or OPAC, preferably Collective Access.
-•	Demonstrated knowledge of handling archival and cultural collections, particularly photographs.
-•	Ability to work in a fast-moving and flexible team environment.
-•	Excellent written and verbal communication skills. 
-•	Proficiency in working with MS Office, particularly Excel. 
+
+• 	Student enrolled in Graduate Library Science, Information Science, or Archives program. 
+
+• 	Knowledge of metadata processing and description standards and best practices.
+
+• 	Experience cataloging in a digital content management system or OPAC, preferably Collective Access.
+
+• 	Demonstrated knowledge of handling archival and cultural collections, particularly photographs.
+
+• 	Ability to work in a fast-moving and flexible team environment.
+
+• 	Excellent written and verbal communication skills. 
+
+• 	Proficiency in working with MS Office, particularly Excel. 
 
 
 

@@ -14,26 +14,37 @@ The John Jay College Library is seeking a librarian to assist with the college-w
 ### Responsibilities###
 
 Responsibilities include:
-•	Working with teaching faculty to choose open educational resources and library resources to aid in classroom learning.
-•	Planning and leading workshops on open and alternative educational resources.
-•	May involve designing, remixing, and developing open educational resources using platforms such as WordPress, CMS LibGuides, Lumen Learning, Scalar, and Open-Stax-CNX as well as other Content Management Systems (CMS).
-•	Training faculty to use the above platforms, to search Library resources, and use other technology tools. 
-•	Coordinating with the  Reference Librarians to identify open educational resources as well as library licensed resources.
+
+• 	Working with teaching faculty to choose open educational resources and library resources to aid in classroom learning.
+
+• 	Planning and leading workshops on open and alternative educational resources.
+
+• 	May involve designing, remixing, and developing open educational resources using platforms such as WordPress, CMS LibGuides, Lumen Learning, Scalar, and Open-Stax-CNX as well as other Content Management Systems (CMS).
+
+• 	Training faculty to use the above platforms, to search Library resources, and use other technology tools. 
+
+• 	Coordinating with the  Reference Librarians to identify open educational resources as well as library licensed resources.
 
 
 
 ### Qualifications###
 
 Preferred Qualifications:
-•	Experience using and/or creating OERs and OER platforms and repositories
-•	CUNY experience
+
+• 	Experience using and/or creating OERs and OER platforms and repositories
+
+• 	CUNY experience
 
 Minimum Qualifications:
 
-•	MLS/MLIS from an ALA-accredited program, or currently enrolled in an MLS/MLIS ALA accredited program
-•	Successful candidates will have demonstrated abilities to identify Library licensed resources and to instruct others in efficient searching and retrieval of Library licensed content, and to effectively use a variety of computer software programs. Skilled in using web and media based technologies for education such as but not limited to Adobe Creative Suite applications, HTML, WordPress, Google DRIVE and Widget applications. Working with a wide range of multimedia software including audio, video hosting services such as Vimeo, or YouTube, web, Screencast-O-Matic, animation, photographs and social media and the ability to customize packaged software. Awareness of open access publishing and licensing and copyright issues. 
-•	Experience designing and offering educational workshops targeting classroom faculty.
-•	Excellent oral and written communication skills, organizational skills and attention to detail. The ability to work effectively, both independently and collaboratively, in a collegial environment. The ability to prioritize and meet deadlines and apply critical thinking skills to various technologies.
+
+• 	MLS/MLIS from an ALA-accredited program, or currently enrolled in an MLS/MLIS ALA accredited program
+
+• 	Successful candidates will have demonstrated abilities to identify Library licensed resources and to instruct others in efficient searching and retrieval of Library licensed content, and to effectively use a variety of computer software programs. Skilled in using web and media based technologies for education such as but not limited to Adobe Creative Suite applications, HTML, WordPress, Google DRIVE and Widget applications. Working with a wide range of multimedia software including audio, video hosting services such as Vimeo, or YouTube, web, Screencast-O-Matic, animation, photographs and social media and the ability to customize packaged software. Awareness of open access publishing and licensing and copyright issues. 
+
+• 	Experience designing and offering educational workshops targeting classroom faculty.
+
+• 	Excellent oral and written communication skills, organizational skills and attention to detail. The ability to work effectively, both independently and collaboratively, in a collegial environment. The ability to prioritize and meet deadlines and apply critical thinking skills to various technologies.
 
 
 

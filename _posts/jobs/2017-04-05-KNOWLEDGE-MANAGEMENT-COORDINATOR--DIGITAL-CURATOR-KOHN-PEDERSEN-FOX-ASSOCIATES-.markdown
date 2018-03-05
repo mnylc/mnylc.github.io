@@ -17,24 +17,37 @@ KPF is a creative, dynamic, and progressive environment and we seek a like-minde
 
 ### Responsibilities###
 
-•	Managing the project database, the digital resource library, establishing protocols for data collection, cataloguing and curation and ensuring relevancy, timeliness and accuracy of data
-•	Managing project data archiving, including conversion from paper to digital and extraction of data and content
-•	Harvesting data, information, content and assets from architectural projects including post-occupancy data and metrics
-•	Coordinating the knowledge sharing effort (announcements, seminars, trainings, etc.) for pro-active internal dissemination of information
-•	Performing research and analysis (internal and external data) for projects and pursuits including trends, benchmarks, best practices, etc.
+
+• 	Managing the project database, the digital resource library, establishing protocols for data collection, cataloguing and curation and ensuring relevancy, timeliness and accuracy of data
+
+• 	Managing project data archiving, including conversion from paper to digital and extraction of data and content
+
+• 	Harvesting data, information, content and assets from architectural projects including post-occupancy data and metrics
+
+• 	Coordinating the knowledge sharing effort (announcements, seminars, trainings, etc.) for pro-active internal dissemination of information
+
+• 	Performing research and analysis (internal and external data) for projects and pursuits including trends, benchmarks, best practices, etc.
 
 
 
 ### Qualifications###
 
-•	Deep knowledge of data management, metadata, organization and cataloging structures
-•	Experience with database technologies
-•	Familiarity with data visualization and analytics approaches useful
-•	Knowledge of Content Management Systems (CMS), SharePoint preferred
-•	Comfort with various software applications and strong overall technology skills
-•	Some programming skills desirable (Java, XML, AngularJS, SQL)
-•	Excellent oral and written communication skills
-•	Excellent interpersonal and organizational skills 
+
+• 	Deep knowledge of data management, metadata, organization and cataloging structures
+
+• 	Experience with database technologies
+
+• 	Familiarity with data visualization and analytics approaches useful
+
+• 	Knowledge of Content Management Systems (CMS), SharePoint preferred
+
+• 	Comfort with various software applications and strong overall technology skills
+
+• 	Some programming skills desirable (Java, XML, AngularJS, SQL)
+
+• 	Excellent oral and written communication skills
+
+• 	Excellent interpersonal and organizational skills 
 
 
 

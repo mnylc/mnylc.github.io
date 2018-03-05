@@ -14,12 +14,18 @@ The Bergen County Cooperative Library System (BCCLS) seeks a dynamic individual 
 ### Responsibilities###
 
 ●      Plans, coordinates and conducts a variety of training sessions offered through BCCLS for member library staff
-•	Creates and publishes training materials
-•	Communicates regularly with the BCCLS membership to determine training needs
-•	Actively seeks opportunities for training from external sources when necessary
-•	Acts as main contact with external organizations interested in holding events and programs throughout BCCLS
-•	Serves on BCCLS committees as assigned by the Executive Director
-•	Other duties as assigned
+
+• 	Creates and publishes training materials
+
+• 	Communicates regularly with the BCCLS membership to determine training needs
+
+• 	Actively seeks opportunities for training from external sources when necessary
+
+• 	Acts as main contact with external organizations interested in holding events and programs throughout BCCLS
+
+• 	Serves on BCCLS committees as assigned by the Executive Director
+
+• 	Other duties as assigned
 
 
 

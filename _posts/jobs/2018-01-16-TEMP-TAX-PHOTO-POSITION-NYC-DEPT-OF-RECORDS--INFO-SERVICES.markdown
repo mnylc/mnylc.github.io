@@ -21,15 +21,22 @@ The archival technician position calls for computer literate individuals who ide
 ### Qualifications###
 
 Required Skills:
-•	Familiarity with Adobe Photoshop and Adobe Bridge
-•	Familiarity with Microsoft Access and Microsoft Excel
-•	Ability to set goals and milestones, and meet multiple deadlines
-•	Detail oriented
+
+• 	Familiarity with Adobe Photoshop and Adobe Bridge
+
+• 	Familiarity with Microsoft Access and Microsoft Excel
+
+• 	Ability to set goals and milestones, and meet multiple deadlines
+
+• 	Detail oriented
 
 Preferred Skills:
-•	An understanding of modern archival and/or information science theory, standards, and practices and their implementation
-•	Knowledge of the New York City geography and history
-•	Previous experience working with handwritten documents and maps
+
+• 	An understanding of modern archival and/or information science theory, standards, and practices and their implementation
+
+• 	Knowledge of the New York City geography and history
+
+• 	Previous experience working with handwritten documents and maps
 
 
 

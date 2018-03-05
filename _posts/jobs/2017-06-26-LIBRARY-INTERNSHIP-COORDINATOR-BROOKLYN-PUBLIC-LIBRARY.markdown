@@ -16,38 +16,65 @@ Under the direction of the Manager of Volunteer Resources, the Library Internshi
 
 ### Responsibilities###
 
-•	Managing project timeline, outcomes, and events
-•	Coordinating with school and community partners, as well as BPL’s Young Adult Librarians, to assist in the identification and recruitment of high school interns
-•	Managing purchasing, documenting expenditures, and tracking of overall budget
-•	Managing the recruitment and application process for the three phases of  School-Year and Summer Interns, including creating text for recruitment fliers and facilitating recruitment visits at schools
-•	Scheduling training activities for interns and BPL librarian and staff mentors, including coordination of external workshop providers
-•	Coordinating and managing workshops, forums, field trips, chat sessions, guest presenters and program showcases
-•	Facilitating trainings and orientations as needed
-•	Coordinating placement of  interns
-•	Providing oversight of  intern and mentor relationships and ensuring the experience is enriching, challenging and rewarding for both students and librarians
-•	Assisting with writing and submitting articles for publication in industry journals
-•	Conference participation
-•	Collecting and organizing data required for program evaluation 
-•	Processing intern stipends
-•	Processing letters of recommendation as needed
-•	Maintaining on-going contact with interns after their internships end to assess their educational and professional pursuits
+
+• 	Managing project timeline, outcomes, and events
+
+• 	Coordinating with school and community partners, as well as BPL’s Young Adult Librarians, to assist in the identification and recruitment of high school interns
+
+• 	Managing purchasing, documenting expenditures, and tracking of overall budget
+
+• 	Managing the recruitment and application process for the three phases of  School-Year and Summer Interns, including creating text for recruitment fliers and facilitating recruitment visits at schools
+
+• 	Scheduling training activities for interns and BPL librarian and staff mentors, including coordination of external workshop providers
+
+• 	Coordinating and managing workshops, forums, field trips, chat sessions, guest presenters and program showcases
+
+• 	Facilitating trainings and orientations as needed
+
+• 	Coordinating placement of  interns
+
+• 	Providing oversight of  intern and mentor relationships and ensuring the experience is enriching, challenging and rewarding for both students and librarians
+
+• 	Assisting with writing and submitting articles for publication in industry journals
+
+• 	Conference participation
+
+• 	Collecting and organizing data required for program evaluation 
+
+• 	Processing intern stipends
+
+• 	Processing letters of recommendation as needed
+
+• 	Maintaining on-going contact with interns after their internships end to assess their educational and professional pursuits
 
 
 
 ### Qualifications###
 
-•	Minimum Master’s Degree in relevant subject area (M.L.S., M.A. or New York State Teachers Certification preferred)
-•	Minimum 2 years work experience (including teaching experience, work with youth and/or experience coordinating an after-school educational program)
-•	Background in volunteer, or intern coordination a plus
-•	Project management, or library program development a plus
-•	Bilingual language skills a plus
-•	Excellent verbal and written skills
-•	Highly organized and detail-oriented
-•	Excellent interpersonal and presentation skills
-•	Computer skills, including Microsoft Office;
-•	Available to work some evenings and/or weekends
-•	Ability to work well under minimal supervision
-•	Flexibility and willingness to travel within the NYC Metro area.
+
+• 	Minimum Master’s Degree in relevant subject area (M.L.S., M.A. or New York State Teachers Certification preferred)
+
+• 	Minimum 2 years work experience (including teaching experience, work with youth and/or experience coordinating an after-school educational program)
+
+• 	Background in volunteer, or intern coordination a plus
+
+• 	Project management, or library program development a plus
+
+• 	Bilingual language skills a plus
+
+• 	Excellent verbal and written skills
+
+• 	Highly organized and detail-oriented
+
+• 	Excellent interpersonal and presentation skills
+
+• 	Computer skills, including Microsoft Office;
+
+• 	Available to work some evenings and/or weekends
+
+• 	Ability to work well under minimal supervision
+
+• 	Flexibility and willingness to travel within the NYC Metro area.
 
 
 

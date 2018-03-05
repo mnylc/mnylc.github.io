@@ -19,33 +19,52 @@ We are flexible as to the time commitment, in part because we aren’t sure how 
 ### Responsibilities###
 
 We are looking for someone who can:
-•	evaluate records for preservation and retention - some may be fragile and need careful handling, repair or conservation;
-•	suggest and implement a collection management system such as Collective Access;
-•	catalogue the collection and manage information and records;
-•	maintain a user-friendly, computer-aided search system;
-•	physically process the collection, as necessary, including refoldering and rehousing portions of it;
-•	identify ways of protecting and preserving collections;
-•	advise on the ongoing organization and storage of material.
+
+• 	evaluate records for preservation and retention - some may be fragile and need careful handling, repair or conservation;
+
+• 	suggest and implement a collection management system such as Collective Access;
+
+• 	catalogue the collection and manage information and records;
+
+• 	maintain a user-friendly, computer-aided search system;
+
+• 	physically process the collection, as necessary, including refoldering and rehousing portions of it;
+
+• 	identify ways of protecting and preserving collections;
+
+• 	advise on the ongoing organization and storage of material.
 
 
 
 ### Qualifications###
 
 The skills required are:
-•	a genuine interest in dance history and in preserving records for posterity;
-•	a logical approach to the work of identification and classification;
-•	the ability to skim and understand an extensive and varied range of material;
-•	attention to detail and accuracy;
-•	the ability to anticipate and respond to changing needs and digital media;
-•	the ability to work independently and as part of a team;
-•	good IT skills and an interest in applying digital technology to archival practice;
-•	competence in administrative procedures and project management skills;
-•	simple video editing;
-•	knowledge of and experience with archival standards and best practices;
-•	strong written, oral and interpersonal communication skills
+
+• 	a genuine interest in dance history and in preserving records for posterity;
+
+• 	a logical approach to the work of identification and classification;
+
+• 	the ability to skim and understand an extensive and varied range of material;
+
+• 	attention to detail and accuracy;
+
+• 	the ability to anticipate and respond to changing needs and digital media;
+
+• 	the ability to work independently and as part of a team;
+
+• 	good IT skills and an interest in applying digital technology to archival practice;
+
+• 	competence in administrative procedures and project management skills;
+
+• 	simple video editing;
+
+• 	knowledge of and experience with archival standards and best practices;
+
+• 	strong written, oral and interpersonal communication skills
 
 Education:
-•	ALA-accredited MLIS or equivalent degree, with concentration in archival studies
+
+• 	ALA-accredited MLIS or equivalent degree, with concentration in archival studies
 
 
 

@@ -17,30 +17,47 @@ POSITION SUMMARY:  The Rutgers University Libraries seek a skilled, service-orie
 ### Responsibilities###
 
 RESPONSIBILITIES: 
-•	Manages access to electronic resources, including databases, ejournals, ebooks, and streaming media
-•	Develops and documents workflows for managing the integration of electronic resources into the Libraries’ discovery environment 
-•	Investigates and troubleshoots access issues involving electronic resources and provides expert support to library users
-•	Works collaboratively with technical services and collection management staff to ensure the accuracy of descriptive metadata and holdings information for electronic resources within the Alma system architecture
-•	Manages communications with library users and staff regarding trials, newly acquired resources, platform changes, service disruptions, and cancellations
-•	Collects, analyzes, and reports data regarding usage of electronic resources to inform library decision-making 
+
+• 	Manages access to electronic resources, including databases, ejournals, ebooks, and streaming media
+
+• 	Develops and documents workflows for managing the integration of electronic resources into the Libraries’ discovery environment 
+
+• 	Investigates and troubleshoots access issues involving electronic resources and provides expert support to library users
+
+• 	Works collaboratively with technical services and collection management staff to ensure the accuracy of descriptive metadata and holdings information for electronic resources within the Alma system architecture
+
+• 	Manages communications with library users and staff regarding trials, newly acquired resources, platform changes, service disruptions, and cancellations
+
+• 	Collects, analyzes, and reports data regarding usage of electronic resources to inform library decision-making 
 
 
 
 ### Qualifications###
 
 Required: 
-•	ALA-accredited Master's degree in library or information science
-•	Demonstrated experience with electronic resource management during all stages of the lifecycle, including acquisition, implementation, support, and evaluation
-•	Demonstrated knowledge of library systems used to provide access to electronic resources and their interoperability, including library management systems, discovery platforms, link resolvers, and proxy servers 
-•	Ability to collect, analyze, and provide meaningful interpretation of electronic resource usage statistics 
-•	Excellent analytical, organizational, problem-solving, and communication skills 
-•	Ability to work collegially and collaboratively with a broad range of internal and external stakeholders, including users, librarians, technical staff, vendors, and consortia partners
+
+• 	ALA-accredited Master's degree in library or information science
+
+• 	Demonstrated experience with electronic resource management during all stages of the lifecycle, including acquisition, implementation, support, and evaluation
+
+• 	Demonstrated knowledge of library systems used to provide access to electronic resources and their interoperability, including library management systems, discovery platforms, link resolvers, and proxy servers 
+
+• 	Ability to collect, analyze, and provide meaningful interpretation of electronic resource usage statistics 
+
+• 	Excellent analytical, organizational, problem-solving, and communication skills 
+
+• 	Ability to work collegially and collaboratively with a broad range of internal and external stakeholders, including users, librarians, technical staff, vendors, and consortia partners
 Preferred: 
-•	Three or more years of professional experience in an academic library setting
-•	Demonstrated experience and/or certification in Alma and Primo
-•	Demonstrated knowledge of industry tools, standards, best practices, and initiatives related to electronic resource management, including ONIX, OpenURL, KBART, ERMI, SERU, COUNTER, and SUSHI
-•	Proficiency with data analysis and visualization tools  
-•	Evidence of commitment to continuing professional education and development 
+
+• 	Three or more years of professional experience in an academic library setting
+
+• 	Demonstrated experience and/or certification in Alma and Primo
+
+• 	Demonstrated knowledge of industry tools, standards, best practices, and initiatives related to electronic resource management, including ONIX, OpenURL, KBART, ERMI, SERU, COUNTER, and SUSHI
+
+• 	Proficiency with data analysis and visualization tools  
+
+• 	Evidence of commitment to continuing professional education and development 
 
 The successful candidate must be eligible to work in the U.S.
 

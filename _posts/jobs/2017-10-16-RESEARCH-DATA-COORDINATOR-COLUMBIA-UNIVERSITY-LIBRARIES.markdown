@@ -15,16 +15,21 @@ The Research Data Coordinator is responsible, in partnership with colleagues acr
 
 Major Responsibilities:
 
-•	Provides consultations and training and conducts outreach relating to research data; works with faculty, graduate and post-doctoral students, academic and administrative units, and research centers to enable them to better manage, describe, archive, preserve, and make available university research data, including writing and successfully implementing data management plans and assuring reproducibility throughout the data and analysis process.
 
-•	Works closely with staff within SESSL as well as with the Digital Scholarship staff and other library divisions and personnel, and with appropriate campus partners to plan, implement, and evaluate sustainable services for data-intensive research across the university.
+• 	Provides consultations and training and conducts outreach relating to research data; works with faculty, graduate and post-doctoral students, academic and administrative units, and research centers to enable them to better manage, describe, archive, preserve, and make available university research data, including writing and successfully implementing data management plans and assuring reproducibility throughout the data and analysis process.
 
 
-•	Participates in appropriate campus initiatives, committees, and task forces related to data management, access, and storage, reproducibility and in developing policies for data management as part of the campus research community; monitors developments in data standards and best practices and participates in discussions regarding cooperative data curation and data life cycle management activities and services on the local, regional, national, and international level.
+• 	Works closely with staff within SESSL as well as with the Digital Scholarship staff and other library divisions and personnel, and with appropriate campus partners to plan, implement, and evaluate sustainable services for data-intensive research across the university.
 
-•	Develop and collaborate with colleagues in workshops and training related to data management. 
 
-•	Participate in local and national organizations, and library system-wide committees
+
+• 	Participates in appropriate campus initiatives, committees, and task forces related to data management, access, and storage, reproducibility and in developing policies for data management as part of the campus research community; monitors developments in data standards and best practices and participates in discussions regarding cooperative data curation and data life cycle management activities and services on the local, regional, national, and international level.
+
+
+• 	Develop and collaborate with colleagues in workshops and training related to data management. 
+
+
+• 	Participate in local and national organizations, and library system-wide committees
 
 
 
@@ -32,18 +37,27 @@ Major Responsibilities:
 
 Minimum Qualifications
 
-•	Advanced degree in a related discipline or an accredited MLS or equivalent combination of education and experience
-•	Knowledge of best data management practices and demonstrated experience creating and evaluating data management plans
-•	Knowledge of statistical software such as Stata, SPSS, R, SAS, or experience with Python or Matlab
+
+• 	Advanced degree in a related discipline or an accredited MLS or equivalent combination of education and experience
+
+• 	Knowledge of best data management practices and demonstrated experience creating and evaluating data management plans
+
+• 	Knowledge of statistical software such as Stata, SPSS, R, SAS, or experience with Python or Matlab
 
 Preferred Qualifications
 
-•	Public service experience in a research institution
-•	Experience in providing data analysis and data research support
-•	Aptitude for teaching and developing instructional content and documentation in an academic environment
-•	Aptitude for teaching and developing instructional content and documentation in an academic environment
-•	Experience working with data visualization tools, software, packages and libraries such as Tableau, D3 and/or Shiny
-•	Experience related to data packaging, data re-use, and data encoding
+
+• 	Public service experience in a research institution
+
+• 	Experience in providing data analysis and data research support
+
+• 	Aptitude for teaching and developing instructional content and documentation in an academic environment
+
+• 	Aptitude for teaching and developing instructional content and documentation in an academic environment
+
+• 	Experience working with data visualization tools, software, packages and libraries such as Tableau, D3 and/or Shiny
+
+• 	Experience related to data packaging, data re-use, and data encoding
 
 
 

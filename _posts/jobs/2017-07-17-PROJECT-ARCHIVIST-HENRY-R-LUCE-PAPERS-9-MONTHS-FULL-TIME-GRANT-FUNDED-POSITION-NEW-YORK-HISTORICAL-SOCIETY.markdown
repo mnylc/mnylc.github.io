@@ -19,13 +19,20 @@ The New-York Historical Society Library is seeking an experienced Project Archiv
 ### Responsibilities###
 
 Essential Job Duties:
-•	Describe the collection in a sufficiently thorough manner to identify for potential users the many strengths of the material, particularly in terms of correspondents and subject matter. 
-•	Document the collection in a collection management system, Archivists’ Toolkit or ArchivesSpace. 
-•	Physically process the collection including refoldering and rehousing portions of it.
-•	Generate a DACS-compliant, on-line finding aid for the collection. 
-•	Establish name and subject access terms with controlled vocabularies.
-•	Write occasional blogs about documents found in the collection.  
-•	Maintain a pace of work that accomplishes the project’s processing and descriptive goals within the set timeframe.
+
+• 	Describe the collection in a sufficiently thorough manner to identify for potential users the many strengths of the material, particularly in terms of correspondents and subject matter. 
+
+• 	Document the collection in a collection management system, Archivists’ Toolkit or ArchivesSpace. 
+
+• 	Physically process the collection including refoldering and rehousing portions of it.
+
+• 	Generate a DACS-compliant, on-line finding aid for the collection. 
+
+• 	Establish name and subject access terms with controlled vocabularies.
+
+• 	Write occasional blogs about documents found in the collection.  
+
+• 	Maintain a pace of work that accomplishes the project’s processing and descriptive goals within the set timeframe.
 
 
 Physical Demands: 
@@ -36,17 +43,25 @@ The position requires the ability to lift and carry for short distances storage 
 ### Qualifications###
 
 Education:
-•	ALA-accredited MLIS or equivalent degree, with concentration in archival studies
+
+• 	ALA-accredited MLIS or equivalent degree, with concentration in archival studies
 
 
 Skills and Experience:
-•	A minimum of two years’ experience as a professional archivist arranging and describing archival materials
-•	Knowledge of mid-20th century American history, its principal figures and relation to global events
-•	Demonstrated ability to perceive important subject matter within a large collection and describe it effectively within set time constraints
-•	Knowledge of and experience with archival standards and best practices, such as DACS and Library of Congress headings
-•	Strong written, oral and interpersonal communication skills
-•	Experience working with Archivists’ Toolkit or ArchivesSpace
-•	Ability to work independently within a collaborative workplace team structure
+
+• 	A minimum of two years’ experience as a professional archivist arranging and describing archival materials
+
+• 	Knowledge of mid-20th century American history, its principal figures and relation to global events
+
+• 	Demonstrated ability to perceive important subject matter within a large collection and describe it effectively within set time constraints
+
+• 	Knowledge of and experience with archival standards and best practices, such as DACS and Library of Congress headings
+
+• 	Strong written, oral and interpersonal communication skills
+
+• 	Experience working with Archivists’ Toolkit or ArchivesSpace
+
+• 	Ability to work independently within a collaborative workplace team structure
 
 
 

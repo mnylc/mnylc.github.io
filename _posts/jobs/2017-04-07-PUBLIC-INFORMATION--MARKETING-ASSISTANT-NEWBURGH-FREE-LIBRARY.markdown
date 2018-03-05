@@ -35,10 +35,14 @@ Knowledge/Skills/Qualities
 ### Qualifications###
 
 Minimum qualifications
-•	Bachelor’s degree required; in related field preferred.
-•	Proficient knowledge of Microsoft Office software, social media and technology skills. 
-•	Working knowledge of software programs such as Illustrator and Indesign is strongly desired.
-•	Previous experience in libraries, marketing or public relations preferred. 
+
+• 	Bachelor’s degree required; in related field preferred.
+
+• 	Proficient knowledge of Microsoft Office software, social media and technology skills. 
+
+• 	Working knowledge of software programs such as Illustrator and Indesign is strongly desired.
+
+• 	Previous experience in libraries, marketing or public relations preferred. 
 
 
 

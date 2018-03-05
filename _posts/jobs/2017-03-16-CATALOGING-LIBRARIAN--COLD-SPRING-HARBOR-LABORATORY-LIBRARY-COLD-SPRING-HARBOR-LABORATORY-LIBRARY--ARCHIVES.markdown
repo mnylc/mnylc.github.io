@@ -14,24 +14,37 @@ Cold Spring Harbor Laboratory Library & Archives is presently seeking a part-tim
 ### Responsibilities###
 
 Responsibilities will include the following:
-• Perform original cataloging for monograph collection against the Library’s existing collections;
-• Interpret and apply Library of Congress subject headings and the Online Computer Library Center manuals in cataloging and classifying library materials;
-• Catalog ebooks, primarily those on the SpringerLink platform;
-• Download name and subject authority records from the LC Authorities.
+
+•  Perform original cataloging for monograph collection against the Library’s existing collections;
+
+•  Interpret and apply Library of Congress subject headings and the Online Computer Library Center manuals in cataloging and classifying library materials;
+
+•  Catalog ebooks, primarily those on the SpringerLink platform;
+
+•  Download name and subject authority records from the LC Authorities.
 
 
 ### Qualifications###
 
 Position Requirements
-• ALA accredited MLS or MLIS
-• Minimum 1 year recent experience in library cataloging;
-• Knowledge of current cataloging procedures in MARC using AACR2R, LCSH and LCC;
-• Experience using MarcEdit;
-• Experience searching and downloading records from OCLC;
-• Experience using the cataloging module of an ILS, preferably, SirsiDynix Symphony;
-• Demonstrated problem solving ability;
-• Must be extremely detail oriented;
-• Must possess good interpersonal skills.
+
+•  ALA accredited MLS or MLIS
+
+•  Minimum 1 year recent experience in library cataloging;
+
+•  Knowledge of current cataloging procedures in MARC using AACR2R, LCSH and LCC;
+
+•  Experience using MarcEdit;
+
+•  Experience searching and downloading records from OCLC;
+
+•  Experience using the cataloging module of an ILS, preferably, SirsiDynix Symphony;
+
+•  Demonstrated problem solving ability;
+
+•  Must be extremely detail oriented;
+
+•  Must possess good interpersonal skills.
 
 Position reports to the Executive Director, CSHL Library & Archives
 This is a part-time position with flexible hours.

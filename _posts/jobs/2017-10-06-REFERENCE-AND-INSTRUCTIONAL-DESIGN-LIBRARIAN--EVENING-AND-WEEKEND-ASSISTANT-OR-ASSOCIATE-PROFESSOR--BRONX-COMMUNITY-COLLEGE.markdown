@@ -22,19 +22,32 @@ Librarians within the City University of New York take active faculty roles, ser
 All titles require a Master's in Library Science (MLS), Master's in Library Information Studies (MLIS), or closely related discipline from an ALA-accredited institution and also a second graduate degree closely related to Instructional Design or Educational Technology. Also required is the ability to work with others for the good of the institution. 
 
 Strongly Preferred Qualifications: 
-• Experience in an academic, research, or large public library 
-• Knowledge of trends and issues in contemporary reference services and user education 
-• Familiarity with the evolving concepts of Information Literacy 
-• Experience with current Instructional Design and Educational Technology theories and applications 
-• Knowledge of educational and information resources in higher education and current pedagogical theories 
-• Experience with current web, instructional, and productivity technologies 
-• Experience working on department/library/college committee 
-• Teaching/instructional experience in an academic environment 
-• Demonstrated success with scholarly research and publication process 
-• Excellent interpersonal skills and written and verbal communication skills 
-• Experience developing collaborative working relationships 
-• Commitment to innovative and effective user-centered services 
-• Evidence of teamwork, creativity, initiative, and flexibility
+
+•  Experience in an academic, research, or large public library 
+
+•  Knowledge of trends and issues in contemporary reference services and user education 
+
+•  Familiarity with the evolving concepts of Information Literacy 
+
+•  Experience with current Instructional Design and Educational Technology theories and applications 
+
+•  Knowledge of educational and information resources in higher education and current pedagogical theories 
+
+•  Experience with current web, instructional, and productivity technologies 
+
+•  Experience working on department/library/college committee 
+
+•  Teaching/instructional experience in an academic environment 
+
+•  Demonstrated success with scholarly research and publication process 
+
+•  Excellent interpersonal skills and written and verbal communication skills 
+
+•  Experience developing collaborative working relationships 
+
+•  Commitment to innovative and effective user-centered services 
+
+•  Evidence of teamwork, creativity, initiative, and flexibility
 
 
 ### Compensation###

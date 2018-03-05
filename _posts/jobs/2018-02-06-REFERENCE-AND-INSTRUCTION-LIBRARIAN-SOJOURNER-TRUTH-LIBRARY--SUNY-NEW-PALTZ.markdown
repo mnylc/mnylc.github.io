@@ -27,16 +27,24 @@ Occasional weekend reference shifts and one weekly evening reference shift are r
 ### Qualifications###
 
 Required:
-• An ALA accredited master’s degree in library/information science
-• The successful candidate for the Assistant rank will have entry-level experience in reference, library instruction and/or teaching, and potential for professional development.
-• The successful candidate for the Senior Assistant rank will have at least two years of relevant post-MLS professional library experience and be able to demonstrate strong performance of core librarian responsibilities along with the potential for continued professional growth and the ability to contribute to the profession through activities that include special projects, grant activity, presentations or publications.
-• Excellent interpersonal and communication skills and a strong service orientation
-• Creativity, flexibility and the ability to work cooperatively in a team based, user-centered environment is critically important
-• We value the diversity of our students, faculty, and staff and are especially interested in considering applicants with a strong commitment to fostering a culturally diverse atmosphere
+
+•  An ALA accredited master’s degree in library/information science
+
+•  The successful candidate for the Assistant rank will have entry-level experience in reference, library instruction and/or teaching, and potential for professional development.
+
+•  The successful candidate for the Senior Assistant rank will have at least two years of relevant post-MLS professional library experience and be able to demonstrate strong performance of core librarian responsibilities along with the potential for continued professional growth and the ability to contribute to the profession through activities that include special projects, grant activity, presentations or publications.
+
+•  Excellent interpersonal and communication skills and a strong service orientation
+
+•  Creativity, flexibility and the ability to work cooperatively in a team based, user-centered environment is critically important
+
+•  We value the diversity of our students, faculty, and staff and are especially interested in considering applicants with a strong commitment to fostering a culturally diverse atmosphere
 
 Preferred:
-• A background and/or interest in science and applied sciences is desirable
-• Academic library experience is highly desirable.
+
+•  A background and/or interest in science and applied sciences is desirable
+
+•  Academic library experience is highly desirable.
 
 
 

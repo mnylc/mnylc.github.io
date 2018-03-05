@@ -23,13 +23,20 @@ The Reference Librarian for the Printed Collections provides in-depth research a
 ### Responsibilities###
 
 ESSENTIAL JOB DUTIES:
-•	Provides in-depth research assistance on-site and remotely
-•	Introduces a wide range of visiting groups to the Library’s collections and services
-•	Schedules and coordinates group visits to the Library
-•	Describes and promotes the printed collections through blog posts, online research guides, and displays in the reading room
-•	Helps to build and increase access to the printed collections
-•	Contributes to library and institutional initiatives and projects.
-•	Additional duties as requested.
+
+• 	Provides in-depth research assistance on-site and remotely
+
+• 	Introduces a wide range of visiting groups to the Library’s collections and services
+
+• 	Schedules and coordinates group visits to the Library
+
+• 	Describes and promotes the printed collections through blog posts, online research guides, and displays in the reading room
+
+• 	Helps to build and increase access to the printed collections
+
+• 	Contributes to library and institutional initiatives and projects.
+
+• 	Additional duties as requested.
 
 PHYSICAL DEMANDS:  The physical demands described here are representative of those that must be met by an employee with or without accommodation, to successfully perform the essential functions of this job.
 The employee will retrieve, transport, and re-shelve library collections of varying size and weight, alone and in conjunction with co-workers. Library carts and special carriers are used to transport most all collections except for small and lightweight items which are carried by hand.  The employee will walk and climbs steps throughout the day.
@@ -42,14 +49,22 @@ EDUCATION:
 M.L.S. from an A.L.A.-accredited program required;  B.A. in the humanities preferred. 
 
 EXPERIENCE:
-•	Minimum of 2 years working in a busy reference setting with multiple responsibilities
-•	Commitment to library public service, including a keen interest in promoting the use and appreciation of special collections
-•	Experience presenting to groups
-•	Proficiency in the use of both electronic research tools and relevant print sources
-•	Knowledge of emerging technologies and other trends in the field
-•	Outstanding interpersonal and communication skills
-•	Initiative, flexibility, and the ability to work cooperatively in a team-based, user-centered environment
-•	Must be able to work Saturdays, September through May.
+
+• 	Minimum of 2 years working in a busy reference setting with multiple responsibilities
+
+• 	Commitment to library public service, including a keen interest in promoting the use and appreciation of special collections
+
+• 	Experience presenting to groups
+
+• 	Proficiency in the use of both electronic research tools and relevant print sources
+
+• 	Knowledge of emerging technologies and other trends in the field
+
+• 	Outstanding interpersonal and communication skills
+
+• 	Initiative, flexibility, and the ability to work cooperatively in a team-based, user-centered environment
+
+• 	Must be able to work Saturdays, September through May.
 Previous experience working in a special collections library and knowledge of New York and American history is preferred. 
 
 

@@ -38,22 +38,28 @@ All titles require a Master's in Library Science (MLS), Master's in Library Info
 
 PREFERRED QUALIFICATIONS
 
-•Knowledge of and experience with digital scholarship pedagogies, methods and technologies, for instance: text mining, topic modeling, data visualization, mapping and GIS, digitization, multimedia pedagogy, and/or the creation, management, description and preservation of digital objects
+
+• Knowledge of and experience with digital scholarship pedagogies, methods and technologies, for instance: text mining, topic modeling, data visualization, mapping and GIS, digitization, multimedia pedagogy, and/or the creation, management, description and preservation of digital objects
 
 
-•Experience collaborating with faculty and academic staff to support digital scholarship and pedagogy
+
+• Experience collaborating with faculty and academic staff to support digital scholarship and pedagogy
 
 
-•Experience with high-impact interactive learning spaces such as makerspaces
+
+• Experience with high-impact interactive learning spaces such as makerspaces
 
 
-•Knowledge of academic and library technologies, including learning management systems, library utility software, and other relevant tools
+
+• Knowledge of academic and library technologies, including learning management systems, library utility software, and other relevant tools
 
 
-•Experience implementing and/or managing digital projects, especially grant-funded projects
+
+• Experience implementing and/or managing digital projects, especially grant-funded projects
 
 
-•Ability to assess and address the changing needs of a diverse college community as they relate to the development of and training in digital tools and pedagogies.
+
+• Ability to assess and address the changing needs of a diverse college community as they relate to the development of and training in digital tools and pedagogies.
 
 
 

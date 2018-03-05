@@ -43,24 +43,40 @@ a. Work with the leadership team and a library wide team to establish profession
 
 ### Qualifications###
 
-• Demonstrated supervisory experience and management skills essential.
-• Ability to perform detailed analytical work as well as a talent for broader planning and implementation of long term goals.
-• Excellent communication skills and ability to interact effectively with faculty, staff, students, alumnae, librarians, vendors and publishers as well as administration and external stakeholders.
-• Demonstrated experience with the design and development of instructional materials
-• Demonstrated experience with instruction and inclusive pedagogy
-• Strategic agenda and planning development
-• Demonstrated initiative and the ability to create and maintain a collaborative work environment.
-• Fluency in database searching, office applications, and digital scholarship tools.
-• Demonstrated commitment to diversity, equity and inclusion, particularly as they inform collections, communications, instruction, and library labor practices.
 
-• Master’s degree in Library Science from an ALA-accredited institution or advanced degree and significant library experience required.
-• At least seven years library experience
-• Three or more years of supervisory experience
-• Experience participating in or building a liaison or instruction program
+•  Demonstrated supervisory experience and management skills essential.
 
-• Demonstrated experience with emerging technologies and/or learning environment development
-• Digital scholarship experience
-• Learning space design creation experience
+•  Ability to perform detailed analytical work as well as a talent for broader planning and implementation of long term goals.
+
+•  Excellent communication skills and ability to interact effectively with faculty, staff, students, alumnae, librarians, vendors and publishers as well as administration and external stakeholders.
+
+•  Demonstrated experience with the design and development of instructional materials
+
+•  Demonstrated experience with instruction and inclusive pedagogy
+
+•  Strategic agenda and planning development
+
+•  Demonstrated initiative and the ability to create and maintain a collaborative work environment.
+
+•  Fluency in database searching, office applications, and digital scholarship tools.
+
+•  Demonstrated commitment to diversity, equity and inclusion, particularly as they inform collections, communications, instruction, and library labor practices.
+
+
+•  Master’s degree in Library Science from an ALA-accredited institution or advanced degree and significant library experience required.
+
+•  At least seven years library experience
+
+•  Three or more years of supervisory experience
+
+•  Experience participating in or building a liaison or instruction program
+
+
+•  Demonstrated experience with emerging technologies and/or learning environment development
+
+•  Digital scholarship experience
+
+•  Learning space design creation experience
 
 
 ### Compensation###

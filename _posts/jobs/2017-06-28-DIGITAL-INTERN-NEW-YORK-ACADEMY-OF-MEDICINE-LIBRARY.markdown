@@ -22,17 +22,24 @@ Approximately 10 hours a week for 12 weeks.  Intern must be available 2 days per
 
 ### Responsibilities###
 
-•	Conduct quality control on scanned images and digital collections
-•	Collect, edit, create and organize metadata according to standards 
-•	Count pages of volumes as needed 
+
+• 	Conduct quality control on scanned images and digital collections
+
+• 	Collect, edit, create and organize metadata according to standards 
+
+• 	Count pages of volumes as needed 
 
 
 ### Qualifications###
 
-•	Experience with metadata schemas (e.g. MODS, Dublin Core, MARC, IPTC etc.)
-•	Knowledge of XML, XSLT, OCLC
-•	Familiarity with technology, digital collections, and/or digital humanities projects
-•	Coursework in Library and Information Science
+
+• 	Experience with metadata schemas (e.g. MODS, Dublin Core, MARC, IPTC etc.)
+
+• 	Knowledge of XML, XSLT, OCLC
+
+• 	Familiarity with technology, digital collections, and/or digital humanities projects
+
+• 	Coursework in Library and Information Science
 
 
 ### Compensation###

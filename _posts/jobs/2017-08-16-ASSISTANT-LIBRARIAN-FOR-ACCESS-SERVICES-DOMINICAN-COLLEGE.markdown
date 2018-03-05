@@ -14,15 +14,24 @@ Dominican College, located in Rockland County, 20 miles north of New York City, 
 ### Responsibilities###
 
 Reporting to the College's Head Librarian, the Assistant Librarian works in close collaboration with Library staff to actively coordinate, promote, and deliver access to collections, research services and instruction. Areas of responsibility include but are not limited to:
-•	Oversee and perform circulation services, including supervision of four staff
-•	Manage access and circulation functions of the ILS (SirsiDynix Symphony) including patron account creation and maintenance, and resolution of overdues and fines
-•	Hire, train, and supervise library work study students
-•	Manage reserve collection and supervise maintenance of book stacks
-•	Oversee and deliver reference service
-•	Provide library instruction
-•	Evaluate collections and materials
-•	Assist with outreach on campus and via social media
-•	Other duties as assigned
+
+• 	Oversee and perform circulation services, including supervision of four staff
+
+• 	Manage access and circulation functions of the ILS (SirsiDynix Symphony) including patron account creation and maintenance, and resolution of overdues and fines
+
+• 	Hire, train, and supervise library work study students
+
+• 	Manage reserve collection and supervise maintenance of book stacks
+
+• 	Oversee and deliver reference service
+
+• 	Provide library instruction
+
+• 	Evaluate collections and materials
+
+• 	Assist with outreach on campus and via social media
+
+• 	Other duties as assigned
 
 Hours:
 During the Academic Semesters: Sunday 11am-7pm and Monday-Thursday 12-8pm;

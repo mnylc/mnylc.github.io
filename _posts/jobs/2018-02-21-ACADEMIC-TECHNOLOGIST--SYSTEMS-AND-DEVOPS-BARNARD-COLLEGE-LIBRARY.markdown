@@ -37,12 +37,18 @@ Duties & Responsibilities:
 ● Adaptability to new standards and programming/scripting/markup languages.
 ● Knowledge of or ability to learn and implement scripting languages (e.g. Python/Ruby/JavaScript)
 ● Ability to work collaboratively and communicate effectively with BLAIS staff, BCIT staff, faculty, and students in a team-oriented, collegiate environment.
-• Bachelor’s degree in computer science or related field
-• Experience with systems administration and maintenance (e.g. RHEL server administration).
-• Experience with or ability to learn virtualization (e.g. VMWare, KVM) and containerization (e.g. Docker)
-• Knowledge of or ability to learn and implement scripting languages (e.g. Python/Ruby/JavaScript).
-• Experience with or ability to learn the skills needed for developing and maintaining dynamic application stacks on Linux servers.
-• 3 years of related experience
+
+•  Bachelor’s degree in computer science or related field
+
+•  Experience with systems administration and maintenance (e.g. RHEL server administration).
+
+•  Experience with or ability to learn virtualization (e.g. VMWare, KVM) and containerization (e.g. Docker)
+
+•  Knowledge of or ability to learn and implement scripting languages (e.g. Python/Ruby/JavaScript).
+
+•  Experience with or ability to learn the skills needed for developing and maintaining dynamic application stacks on Linux servers.
+
+•  3 years of related experience
 
 
 

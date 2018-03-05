@@ -27,8 +27,10 @@ Assist in the delivery of library services and programs, and daily maintenance o
 
 
 Hours
-•	Fall & Spring Semesters-----Monday thru Thursday 2:30 pm to 11:00 pm / Friday 9:00 am to 2:00pm
-•	Summer------Monday thru Thrusday 11:30 am to 8:00 pm / Friday 9:00 am to 2:00 pm
+
+• 	Fall & Spring Semesters-----Monday thru Thursday 2:30 pm to 11:00 pm / Friday 9:00 am to 2:00pm
+
+• 	Summer------Monday thru Thrusday 11:30 am to 8:00 pm / Friday 9:00 am to 2:00 pm
 
 Travel
            None

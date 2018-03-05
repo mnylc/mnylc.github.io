@@ -17,41 +17,66 @@ The St. John's University Libraries is committed to teaching, learning, scholars
 ### Responsibilities###
 
 Primary Responsibilities:
-•	Manage the implementation, promotion and use of the St. John’s University institutional repository.
-•	Develop policies, programs and practices supporting electronic publishing, the institutional repository, e-portfolios, and electronic theses and dissertations (ETDs).
-•	Monitor scholarly communication trends and developments and serve as liaison to national efforts in this area.
-•	Provide University faculty, students, staff, researchers and librarians with guidance and resources concerning copyright, and fair use as concerns the institutional repository.
-•	Work closely with the Open Educational Resources Librarian in support of open access (OA) and open educational resources (OER).
-•	Provide guidance on appropriate metadata standards and quality to improve discoverability of repository content.
-•	Work collaboratively with all stakeholders to raise awareness of and participation in digital initiatives, as well as coordinate training and marketing for such initiatives.
-•	Serve on University and Library committees
+
+• 	Manage the implementation, promotion and use of the St. John’s University institutional repository.
+
+• 	Develop policies, programs and practices supporting electronic publishing, the institutional repository, e-portfolios, and electronic theses and dissertations (ETDs).
+
+• 	Monitor scholarly communication trends and developments and serve as liaison to national efforts in this area.
+
+• 	Provide University faculty, students, staff, researchers and librarians with guidance and resources concerning copyright, and fair use as concerns the institutional repository.
+
+• 	Work closely with the Open Educational Resources Librarian in support of open access (OA) and open educational resources (OER).
+
+• 	Provide guidance on appropriate metadata standards and quality to improve discoverability of repository content.
+
+• 	Work collaboratively with all stakeholders to raise awareness of and participation in digital initiatives, as well as coordinate training and marketing for such initiatives.
+
+• 	Serve on University and Library committees
  
 Secondary Responsibilities:
-•	Act as liaison to academic departments relevant to subject background and expertise.
-•	Supervise staff and students as needed.
-•	Provide collection development within subject areas.
-•	Provide research assistance and instruction as needed.
-•	Other duties and responsibilities, as necessary.
+
+• 	Act as liaison to academic departments relevant to subject background and expertise.
+
+• 	Supervise staff and students as needed.
+
+• 	Provide collection development within subject areas.
+
+• 	Provide research assistance and instruction as needed.
+
+• 	Other duties and responsibilities, as necessary.
 
 
 
 ### Qualifications###
 
 Required Qualifications:
-•	ALA-accredited Master’s degree or an equivalent combination of a relevant advanced degree and experience.
-•	Two to four years relevant experience in an academic, research or special library;
-•	Demonstrated knowledge of or direct experience working with or managing an institutional repository inclusive of an ETD program.
-•	Knowledge of information technologies, standards and best practices prevalent in digital curation and preservation.
-•	Knowledge of metadata formats, such as Dublin Core.
-•	Excellent written and oral communication skills; ability to present and share ideas clearly and effectively to a diverse audience.
-•	Ability to work independently and effectively with others as a team within a diverse and complex organization.
-•	Demonstrated time management and project completion skills.
+
+• 	ALA-accredited Master’s degree or an equivalent combination of a relevant advanced degree and experience.
+
+• 	Two to four years relevant experience in an academic, research or special library;
+
+• 	Demonstrated knowledge of or direct experience working with or managing an institutional repository inclusive of an ETD program.
+
+• 	Knowledge of information technologies, standards and best practices prevalent in digital curation and preservation.
+
+• 	Knowledge of metadata formats, such as Dublin Core.
+
+• 	Excellent written and oral communication skills; ability to present and share ideas clearly and effectively to a diverse audience.
+
+• 	Ability to work independently and effectively with others as a team within a diverse and complex organization.
+
+• 	Demonstrated time management and project completion skills.
  
 Preferred Qualifications:
-•	Second master’s degree is highly desirable and is required for tenure.
-•	Experience documenting workflows and procedures.
-•	Experience in identifying researcher information needs and in creating effective services to meet those needs.
-•	Demonstrated experience in the acquisition and management of born-digital or digitized library, archival, or research materials.
+
+• 	Second master’s degree is highly desirable and is required for tenure.
+
+• 	Experience documenting workflows and procedures.
+
+• 	Experience in identifying researcher information needs and in creating effective services to meet those needs.
+
+• 	Demonstrated experience in the acquisition and management of born-digital or digitized library, archival, or research materials.
 
 Applicants for this tenure track position must meet the required qualifications to be appointed as Assistant Professor. Anticipated start date is July 2018. Please submit your letter of interest and CV along with contact information for three references by February 9, 2018 to receive full consideration.
 

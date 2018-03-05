@@ -19,25 +19,39 @@ Schedule: Flexible Schedule between 9am – 6pm, Monday-Friday
 
 ### Responsibilities###
 
-•	Survey and organize the collection, with the assistance of the collection creator. 
-•	Physically process the collection including rehousing.
-•	Describe the collection in ArchivesSpace, generate a DACS compliant finding aid. 
-•	Survey digital assets and create a plan for organizing and describing them, working with collection creator and Special Collections Archivist.
-•	Meet regularly with project stakeholders to communicate about project progress. 
-•	Create blog posts to promote the project and collections.
-•	Working with the Special Collections Archivist, assist in the creation, refinement and documentation of workflows for hybrid format collections.
+
+• 	Survey and organize the collection, with the assistance of the collection creator. 
+
+• 	Physically process the collection including rehousing.
+
+• 	Describe the collection in ArchivesSpace, generate a DACS compliant finding aid. 
+
+• 	Survey digital assets and create a plan for organizing and describing them, working with collection creator and Special Collections Archivist.
+
+• 	Meet regularly with project stakeholders to communicate about project progress. 
+
+• 	Create blog posts to promote the project and collections.
+
+• 	Working with the Special Collections Archivist, assist in the creation, refinement and documentation of workflows for hybrid format collections.
 
 
 
 ### Qualifications###
 
-•	ALA-accredited MLIS or equivalent degree, with a concentration in archival studies.
-•	A minimum of two years’ experience as a professional archivist arranging and describing archival materials.
-•	Knowledge of and experience with archival standards and best practices, such as DACS, EAD
-•	Knowledge of standard vocabularies such as Library of Congress and Getty
-•	Experience working with Archivists’ Toolkit or ArchivesSpace
-•	Strong written, oral and interpersonal communication skills, detail – oriented and organized
-•	Ability to take initiative and work independently within a supportive collaborative workplace
+
+• 	ALA-accredited MLIS or equivalent degree, with a concentration in archival studies.
+
+• 	A minimum of two years’ experience as a professional archivist arranging and describing archival materials.
+
+• 	Knowledge of and experience with archival standards and best practices, such as DACS, EAD
+
+• 	Knowledge of standard vocabularies such as Library of Congress and Getty
+
+• 	Experience working with Archivists’ Toolkit or ArchivesSpace
+
+• 	Strong written, oral and interpersonal communication skills, detail – oriented and organized
+
+• 	Ability to take initiative and work independently within a supportive collaborative workplace
 Preferred Qualification: Experience with educational archives or materials related to Education activities.
 
 

@@ -16,24 +16,38 @@ The Systems Assistant will assist the Head of Systems in maintaining the Library
 -       Assisting members with wireless connection issues, using Library 
         computers, Library website and catalog, and electronic resources in person, 
         over the phone and via email.
-•	Performing systems administration functions, including troubleshooting 
+
+• 	Performing systems administration functions, including troubleshooting 
         hardware, software, and network issues.
-•	Performing daily backups.
-•	Maintaining staff & public computers and printers by running updates, 
+
+• 	Performing daily backups.
+
+• 	Maintaining staff & public computers and printers by running updates, 
         checking printer supplies, and performing upgrades if necessary.
-•	Working with systems department to evaluate needs for computer 
+
+• 	Working with systems department to evaluate needs for computer 
         upgrades.
-•	Editing and updating web contents
-•	Assisting staff members with website updates and blog posts.
-•	Compiling circulation and website usage statistics as needed.
-•	Adding website logins for new members weekly.
-•	Setting up and operating A/V equipment as needed.
-•	Processing and Uploading audio and video of Library events.
-•	Scanning of documents and items from the Library collections.
-•	Performing miscellaneous duties as assigned by the Head of Systems, and 
+
+• 	Editing and updating web contents
+
+• 	Assisting staff members with website updates and blog posts.
+
+• 	Compiling circulation and website usage statistics as needed.
+
+• 	Adding website logins for new members weekly.
+
+• 	Setting up and operating A/V equipment as needed.
+
+• 	Processing and Uploading audio and video of Library events.
+
+• 	Scanning of documents and items from the Library collections.
+
+• 	Performing miscellaneous duties as assigned by the Head of Systems, and 
         if necessary Library Administration.
-•	Perform related duties as assigned by supervisor
-•	Maintain compliance with all Library policies and procedures
+
+• 	Perform related duties as assigned by supervisor
+
+• 	Maintain compliance with all Library policies and procedures
 
 
 

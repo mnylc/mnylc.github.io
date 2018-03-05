@@ -33,12 +33,18 @@ Responsibilities include managing the activities of Circulation staff during eve
 
 The successful candidate will have:
 
-• Two or more years supervisory experience
-• Two or more years professional library experience
-• ALA-accredited Masters of Library Science degree (preferred)
-• Experience with integrated library systems (preferably Sierra), reference and public services
-• Excellent communication skills, strong attention to detail, computer proficiency, a commitment to providing superior service and the ability to handle multiple tasks in a busy environment
-• Excellent teamwork, project management, and conflict resolution skills
+
+•  Two or more years supervisory experience
+
+•  Two or more years professional library experience
+
+•  ALA-accredited Masters of Library Science degree (preferred)
+
+•  Experience with integrated library systems (preferably Sierra), reference and public services
+
+•  Excellent communication skills, strong attention to detail, computer proficiency, a commitment to providing superior service and the ability to handle multiple tasks in a busy environment
+
+•  Excellent teamwork, project management, and conflict resolution skills
 
 
 

@@ -14,39 +14,66 @@ The Librarian/Media Specialist for the Academy of Mount St. Ursula is responsibl
 ### Responsibilities###
 
 Program Administrator
-•	Maintains and operates library media center for use by students, faculty, and staff from 8:00am to 4:00pm during the academic year
-•	Writes and enforces library policies and procedures
-•	Creates and maintains in the school library a teaching and learning environment that is inviting, safe, flexible, and conducive to student learning
-•	Uses Destiny Library Manager to create student library accounts, track circulation records, send overdue notifications, and maintain accurate records of library materials in the catalog
-•	Prepares, maintains, and justifies budget for library materials and supplies
-•	Selects, orders, catalogs, and processes all print and digital materials, equipment, and supplies
-•	Continuously evaluates the library media program and plans for future development with faculty and administrators
-•	Composes reports documenting activities and statistics in order to provide evidence of the relevance of the library media program, as well as guide the development of the program
-•	Provides assistance to students with research and use of computers, printers, photocopiers, Chromebooks, and tablets in library media center
-•	Shelves, catalogs, and retrieves books according to Dewey Decimal Classification
-•	Repairs damaged books
-•	Coordinates and facilitates the execution of special events in the library media center
-•	Facilitates the setup of technology for events in the auditorium, cafeteria, and other school spaces
-•	Maintains records of circulation for audio/visual materials borrowed by faculty from the library media center
-•	Troubleshoots technological issues in classrooms for faculty as needed throughout the school day
+
+• 	Maintains and operates library media center for use by students, faculty, and staff from 8:00am to 4:00pm during the academic year
+
+• 	Writes and enforces library policies and procedures
+
+• 	Creates and maintains in the school library a teaching and learning environment that is inviting, safe, flexible, and conducive to student learning
+
+• 	Uses Destiny Library Manager to create student library accounts, track circulation records, send overdue notifications, and maintain accurate records of library materials in the catalog
+
+• 	Prepares, maintains, and justifies budget for library materials and supplies
+
+• 	Selects, orders, catalogs, and processes all print and digital materials, equipment, and supplies
+
+• 	Continuously evaluates the library media program and plans for future development with faculty and administrators
+
+• 	Composes reports documenting activities and statistics in order to provide evidence of the relevance of the library media program, as well as guide the development of the program
+
+• 	Provides assistance to students with research and use of computers, printers, photocopiers, Chromebooks, and tablets in library media center
+
+• 	Shelves, catalogs, and retrieves books according to Dewey Decimal Classification
+
+• 	Repairs damaged books
+
+• 	Coordinates and facilitates the execution of special events in the library media center
+
+• 	Facilitates the setup of technology for events in the auditorium, cafeteria, and other school spaces
+
+• 	Maintains records of circulation for audio/visual materials borrowed by faculty from the library media center
+
+• 	Troubleshoots technological issues in classrooms for faculty as needed throughout the school day
  
 Information Specialist
-•	Plans and develops the library collection, including selecting and purchasing appropriate materials in collaboration with students and faculty
-•	Understands copyright, fair use, and licensing of intellectual property, and promotes the ethical use of information
+
+• 	Plans and develops the library collection, including selecting and purchasing appropriate materials in collaboration with students and faculty
+
+• 	Understands copyright, fair use, and licensing of intellectual property, and promotes the ethical use of information
  
 Instructional Partner
-•	Remains flexible in collaborating with faculty to plan research skills and information literacy lessons to support their curricula
-•	Plans lessons, gathers materials, and delivers lessons in research skills throughout the school year on an as-needed basis
-•	Prepares instructional materials such as pathfinders for teachers
+
+• 	Remains flexible in collaborating with faculty to plan research skills and information literacy lessons to support their curricula
+
+• 	Plans lessons, gathers materials, and delivers lessons in research skills throughout the school year on an as-needed basis
+
+• 	Prepares instructional materials such as pathfinders for teachers
  
 School Leader
-•	Serves on Technology and Education Planning Committee with other members of administration and faculty
-•	Remains current in professional practices, instructional technologies, and methods of integrating technology in the classroom
-•	Represents the school and library media center at school events, Open Houses, and recruitment events
-•	Shares expertise during faculty meetings, including professional development opportunities
-•	Encourages faculty and students to access and utilize the library media center and its resources
-•	Encourages reading in the school community
-•	Enforces school rules
+
+• 	Serves on Technology and Education Planning Committee with other members of administration and faculty
+
+• 	Remains current in professional practices, instructional technologies, and methods of integrating technology in the classroom
+
+• 	Represents the school and library media center at school events, Open Houses, and recruitment events
+
+• 	Shares expertise during faculty meetings, including professional development opportunities
+
+• 	Encourages faculty and students to access and utilize the library media center and its resources
+
+• 	Encourages reading in the school community
+
+• 	Enforces school rules
 
 
 

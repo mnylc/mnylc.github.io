@@ -31,19 +31,26 @@ Reporting to the Dean of University Libraries, the Librarian at the Manhattan Ce
 
 PRIMARY RESPONSIBILITIES:
 
-• Provide in-depth face-to-face and virtual reference services to Manhattan Center students and faculty, as well as visiting users, employing and implementing new technologies to work with people remotely.
 
-• Coordinate and create Libguides to support classroom research needs; partner with individual faculty members on course Moodle sites; and develop and provide Library Instruction sessions (online or in person) at the request of professors, program directors, as needed.
+•  Provide in-depth face-to-face and virtual reference services to Manhattan Center students and faculty, as well as visiting users, employing and implementing new technologies to work with people remotely.
 
-• Coordinate collection development and liaison responsibilities for relevant subjects (including Social Work, Business, Education, Psychology) and programs (NYC Scholars undergraduate program, and the Adelphi English Language Institute), in print, nonprint, and digital formats, working in collaboration with other selectors to build a strong, forward-thinking collection policy that will serve students at their point of need. 
 
-• Respond to space changes and needs to support collaborative and individual study spaces in the library and throughout the center.
+•  Coordinate and create Libguides to support classroom research needs; partner with individual faculty members on course Moodle sites; and develop and provide Library Instruction sessions (online or in person) at the request of professors, program directors, as needed.
 
-• Coordinate with ancillary support services outside of the library to address student needs.
 
-• Serve on and participate in Adelphi committees for faculty governance (Libraries department, Manhattan Center, university-wide)
+•  Coordinate collection development and liaison responsibilities for relevant subjects (including Social Work, Business, Education, Psychology) and programs (NYC Scholars undergraduate program, and the Adelphi English Language Institute), in print, nonprint, and digital formats, working in collaboration with other selectors to build a strong, forward-thinking collection policy that will serve students at their point of need. 
 
-• Serve as a liaison for ConnectNY and METRO consortia.
+
+•  Respond to space changes and needs to support collaborative and individual study spaces in the library and throughout the center.
+
+
+•  Coordinate with ancillary support services outside of the library to address student needs.
+
+
+•  Serve on and participate in Adelphi committees for faculty governance (Libraries department, Manhattan Center, university-wide)
+
+
+•  Serve as a liaison for ConnectNY and METRO consortia.
 
 OTHER RESPONSIBILITIES:
 

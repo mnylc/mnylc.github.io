@@ -27,12 +27,18 @@ Founded in 1985, ASA College is fully accredited by the Middle States Commission
 ### Qualifications###
 
 Requirements include the following:
-•	MLS/MLIS from an ALA-accredited institution; second Masters or Ph.D. preferred
-•	Collegial approach to instruction, including collaboration with disciplinary faculty
-•	Demonstrated ability to effectively deliver course content over a 15-week semester
-•	Effective classroom management skills
-•	Ability to work with a widely-diverse student population including first-generation and non-native English speakers
-•	Excellent interpersonal and communication skills
+
+• 	MLS/MLIS from an ALA-accredited institution; second Masters or Ph.D. preferred
+
+• 	Collegial approach to instruction, including collaboration with disciplinary faculty
+
+• 	Demonstrated ability to effectively deliver course content over a 15-week semester
+
+• 	Effective classroom management skills
+
+• 	Ability to work with a widely-diverse student population including first-generation and non-native English speakers
+
+• 	Excellent interpersonal and communication skills
 
 
 

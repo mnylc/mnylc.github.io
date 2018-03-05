@@ -22,18 +22,25 @@ ASA’s Spring semester runs February 13 through May 29, 2018.
 
 ### Responsibilities###
 
-•	Collegial approach to instruction, including collaboration with disciplinary faculty
-•	Demonstrated ability to effectively deliver course content over a 15-week semester
-•	Effective classroom management skills
-•	Ability to work with a widely-diverse student population including first-generation and non-native English speakers
-•	Excellent interpersonal and communication skills
+
+• 	Collegial approach to instruction, including collaboration with disciplinary faculty
+
+• 	Demonstrated ability to effectively deliver course content over a 15-week semester
+
+• 	Effective classroom management skills
+
+• 	Ability to work with a widely-diverse student population including first-generation and non-native English speakers
+
+• 	Excellent interpersonal and communication skills
 
 
 
 ### Qualifications###
 
-•	MLS/MLIS from an ALA-accredited institution; second Masters or Ph.D. preferred
-•	Candidates with ESL/ELL teaching experience will be given special consideration
+
+• 	MLS/MLIS from an ALA-accredited institution; second Masters or Ph.D. preferred
+
+• 	Candidates with ESL/ELL teaching experience will be given special consideration
 
 
 

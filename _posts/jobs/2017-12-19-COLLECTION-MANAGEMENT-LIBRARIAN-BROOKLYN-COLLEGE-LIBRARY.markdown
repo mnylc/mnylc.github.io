@@ -17,14 +17,22 @@ The Associate Librarian for Collection Management will provide strategic vision,
 ### Responsibilities###
 
 Responsibilities include but are not limited to:
-•	Serve as subject liaison for assigned academic departments; liaison duties include subject-specific instruction, subject guides, and collection development for those disciplines;
-•	As the Chair of the Library Collection Management Committee, work with the library faculty to formulate, develop, and administer the library’s collection development policies and liaison activities. Function as the main contact for collection donations;
-•	Analyze, budget, plan, assess, and evaluate library collections;
-•	Collect statistics for CUNY, ACRL, IPEDS among others;
-•	Serve on the Library Management Team. Work closely with the Chief Librarian, the heads of Acquisitions and Serials, the Electronic Services Librarian and related support staff;
-•	Represent Brooklyn College on the CUNY Office of Library Services committees;
-•	Adhere to Brooklyn College and CUNY procurement policies, and liaise effectively with these offices;
-•	Participate in regularly scheduled subject-specific, general, and virtual reference service, including evening and weekend work as needed.
+
+• 	Serve as subject liaison for assigned academic departments; liaison duties include subject-specific instruction, subject guides, and collection development for those disciplines;
+
+• 	As the Chair of the Library Collection Management Committee, work with the library faculty to formulate, develop, and administer the library’s collection development policies and liaison activities. Function as the main contact for collection donations;
+
+• 	Analyze, budget, plan, assess, and evaluate library collections;
+
+• 	Collect statistics for CUNY, ACRL, IPEDS among others;
+
+• 	Serve on the Library Management Team. Work closely with the Chief Librarian, the heads of Acquisitions and Serials, the Electronic Services Librarian and related support staff;
+
+• 	Represent Brooklyn College on the CUNY Office of Library Services committees;
+
+• 	Adhere to Brooklyn College and CUNY procurement policies, and liaise effectively with these offices;
+
+• 	Participate in regularly scheduled subject-specific, general, and virtual reference service, including evening and weekend work as needed.
 
 Candidates with demonstrated commitment to diversity and inclusiveness through their research, teaching and/or service are encouraged to apply.
 
@@ -33,20 +41,32 @@ Candidates with demonstrated commitment to diversity and inclusiveness through t
 ### Qualifications###
 
 Qualifications:
-•	Master’s degree in information and/or library science from an ALA-accredited school or an ALA-approved foreign equivalent;
-•	Second Master’s degree;
-•	Minimum 5 years of professional library experience;
-•	Knowledge and understanding of 21st century collections issues in an academic or research library including emerging practices, standards, and trends;
-•	Experience in assessment and evaluation of library collections;
-•	Experience managing a library collections budget;
-•	Excellent oral and written communication skills.
+
+• 	Master’s degree in information and/or library science from an ALA-accredited school or an ALA-approved foreign equivalent;
+
+• 	Second Master’s degree;
+
+• 	Minimum 5 years of professional library experience;
+
+• 	Knowledge and understanding of 21st century collections issues in an academic or research library including emerging practices, standards, and trends;
+
+• 	Experience in assessment and evaluation of library collections;
+
+• 	Experience managing a library collections budget;
+
+• 	Excellent oral and written communication skills.
 
 Preferred Qualifications:
-•	3 years of experience supervising library staff;
-•	Demonstrated project management skills;
-•	Experience with STEM materials management;
-•	Evidence of ability to develop strategy and lead change across an organization;
-•	Knowledge and understanding of current and emerging issues in open access and scholarly communication.
+
+• 	3 years of experience supervising library staff;
+
+• 	Demonstrated project management skills;
+
+• 	Experience with STEM materials management;
+
+• 	Evidence of ability to develop strategy and lead change across an organization;
+
+• 	Knowledge and understanding of current and emerging issues in open access and scholarly communication.
 
 
 

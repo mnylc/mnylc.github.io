@@ -26,37 +26,57 @@ The Social Sector Librarian supports the library services and educational progra
 ### Responsibilities###
 
 Library/Learning Center: 
-•	Staff library reference desk on a regular basis and provide reference assistance to emerging and seasoned nonprofit and social sector professionals who visit the library
-•	Provide library visitors and program participants with guidance on Foundation Center resources and services
-•	Provide library visitors  with instruction and expertise on the use of Foundation Directory Online and other fundraising databases
-•	Lead orientations and library tours on the library resources 
-•	Maintain the physical library space, including organizing supply and display of Foundation Center literature and resources, re-shelving books, and maintaining library and office materials 
-•	Update library handouts and user aids on topics and issue areas common to library visitors
-•	Provide on-call coverage of library reference desk during staff vacations or sick days
+
+• 	Staff library reference desk on a regular basis and provide reference assistance to emerging and seasoned nonprofit and social sector professionals who visit the library
+
+• 	Provide library visitors and program participants with guidance on Foundation Center resources and services
+
+• 	Provide library visitors  with instruction and expertise on the use of Foundation Directory Online and other fundraising databases
+
+• 	Lead orientations and library tours on the library resources 
+
+• 	Maintain the physical library space, including organizing supply and display of Foundation Center literature and resources, re-shelving books, and maintaining library and office materials 
+
+• 	Update library handouts and user aids on topics and issue areas common to library visitors
+
+• 	Provide on-call coverage of library reference desk during staff vacations or sick days
 
 Online Reference: 
-•	Staff the Ask Us virtual (chat and e-mail) reference service through regularly scheduled shifts 
-•	Participate in other special GrantSpace.org projects as needed 
+
+• 	Staff the Ask Us virtual (chat and e-mail) reference service through regularly scheduled shifts 
+
+• 	Participate in other special GrantSpace.org projects as needed 
 
 Training:
-•	Assemble materials and handouts for classes and outreach programs 
-•	Perform data entry for class registrations 
+
+• 	Assemble materials and handouts for classes and outreach programs 
+
+• 	Perform data entry for class registrations 
 
 Administrative: 
-•	Support New York Lead and library staff with reports and special projects
-•	Order and maintain office supplies 
-•	Perform other duties as assigned 
+
+• 	Support New York Lead and library staff with reports and special projects
+
+• 	Order and maintain office supplies 
+
+• 	Perform other duties as assigned 
 
 
 
 ### Qualifications###
 
-•	BA/BS degree or currently enrolled in an undergraduate or graduate program, preferably in library information science or nonprofit management; MLS or MPA a plus
-•	2+ years of experience in library services, fundraising/grant writing, and/or nonprofit management
-•	Knowledge of computer networks and applications, and proficiency in Microsoft Office (Word, Excel, Access, Outlook) with the ability to develop expertise in Foundation Center databases and platforms such as Foundation Directory Online
-•	Nonprofit and/or customer service experience preferred
-•	Excellent written and verbal communication and customer service skills
-•	Ability to manage multiple priorities
+
+• 	BA/BS degree or currently enrolled in an undergraduate or graduate program, preferably in library information science or nonprofit management; MLS or MPA a plus
+
+• 	2+ years of experience in library services, fundraising/grant writing, and/or nonprofit management
+
+• 	Knowledge of computer networks and applications, and proficiency in Microsoft Office (Word, Excel, Access, Outlook) with the ability to develop expertise in Foundation Center databases and platforms such as Foundation Directory Online
+
+• 	Nonprofit and/or customer service experience preferred
+
+• 	Excellent written and verbal communication and customer service skills
+
+• 	Ability to manage multiple priorities
 
 
 

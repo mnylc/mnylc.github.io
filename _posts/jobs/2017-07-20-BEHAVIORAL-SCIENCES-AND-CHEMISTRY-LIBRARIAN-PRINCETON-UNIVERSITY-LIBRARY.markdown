@@ -33,16 +33,24 @@ Serves as the Library’s primary contact for behavioral sciences and chemistry,
 ### Qualifications###
 
 Required Qualifications:
-•	An ALA-accredited Master’s degree in library/information science OR equivalent combination of education and professional experience.
-•	Familiarity with psychology and chemistry research and literature.
-•	Academic degree in psychology, behavioral sciences, chemistry or a related subject area.
-•	Minimum 2 year professional experience relevant to reference or research services in an academic or special library.
-•	Excellent communication and interpersonal skills and ability to work successfully and collegially with a diverse group of scholars and colleagues.
+
+• 	An ALA-accredited Master’s degree in library/information science OR equivalent combination of education and professional experience.
+
+• 	Familiarity with psychology and chemistry research and literature.
+
+• 	Academic degree in psychology, behavioral sciences, chemistry or a related subject area.
+
+• 	Minimum 2 year professional experience relevant to reference or research services in an academic or special library.
+
+• 	Excellent communication and interpersonal skills and ability to work successfully and collegially with a diverse group of scholars and colleagues.
 
 Strongly Preferred:
-•	Experience conducting research consultations in an academic setting.
-•	Ability to work effectively in a rapidly changing environment.
-•	Familiarity with scholarly communications initiatives and demonstrated knowledge of scientific research and publication trends.
+
+• 	Experience conducting research consultations in an academic setting.
+
+• 	Ability to work effectively in a rapidly changing environment.
+
+• 	Familiarity with scholarly communications initiatives and demonstrated knowledge of scientific research and publication trends.
 
 
 ### Compensation###

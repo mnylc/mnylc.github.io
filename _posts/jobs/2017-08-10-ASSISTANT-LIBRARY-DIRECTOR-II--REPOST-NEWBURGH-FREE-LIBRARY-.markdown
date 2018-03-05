@@ -17,17 +17,28 @@ Join the Newburgh Free Library in leading an anchor institution in the on-going 
 
 General Statement of Duties:
 
-•	Oversees Library Departments including Access Services, Marketing, Programs and Outreach.
-•	Assists in planning, implementation and evaluation of long and short-term goals and objectives.
-•	Assists the director in the formulation of library policies and procedures.
-•	Participates in recruitment, selection, training and evaluation of employees.
-•	Provides reference services to patrons.
-•	Keeps informed of professional developments through participation in professional organizations, system meetings, workshops, and reading professional materials.
-•	Participates in preparation of library budget.
-•	Participates in or supervises the selection of adult library materials.
-•	Supervises library in director’s absence.
-•	Performs other related responsibilities as assigned.
-•	Bilingual (Spanish) Preferred
+
+• 	Oversees Library Departments including Access Services, Marketing, Programs and Outreach.
+
+• 	Assists in planning, implementation and evaluation of long and short-term goals and objectives.
+
+• 	Assists the director in the formulation of library policies and procedures.
+
+• 	Participates in recruitment, selection, training and evaluation of employees.
+
+• 	Provides reference services to patrons.
+
+• 	Keeps informed of professional developments through participation in professional organizations, system meetings, workshops, and reading professional materials.
+
+• 	Participates in preparation of library budget.
+
+• 	Participates in or supervises the selection of adult library materials.
+
+• 	Supervises library in director’s absence.
+
+• 	Performs other related responsibilities as assigned.
+
+• 	Bilingual (Spanish) Preferred
 
 This position is a competitive Civil Service position and is classified as Confidential/Managerial.
 

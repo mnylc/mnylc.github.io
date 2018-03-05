@@ -16,23 +16,35 @@ The Learning Commons/Library Assistant works in the Learning Commons/Circulation
 
 ### Responsibilities###
 
-•	Provides coverage for the Learning Commons/Circulation Desk in the evening with a Librarian and Student Assistants
-•	Responsible for training and supervising night and weekend Student Assistants in the absence of other staff
-•	Communicates regularly with Circulation Manager, Access Services Librarian and Learning Commons Coordinator regarding departmental issues that arise in the evening
-•	Oversee group study room reservations and usage in the evening
-•	Performs general Innovative Interfaces Inc. Millennium (Integrated Library System - ILS) functions to support student needs
-•	Perform basic photocopier/network printer/machine maintenance and call for service when needed
-•	Manage stack maintenance, perform pick-up and walk-through of each building floor
-•	Assist with Learning Commons events, workshops and building closing procedures
+
+• 	Provides coverage for the Learning Commons/Circulation Desk in the evening with a Librarian and Student Assistants
+
+• 	Responsible for training and supervising night and weekend Student Assistants in the absence of other staff
+
+• 	Communicates regularly with Circulation Manager, Access Services Librarian and Learning Commons Coordinator regarding departmental issues that arise in the evening
+
+• 	Oversee group study room reservations and usage in the evening
+
+• 	Performs general Innovative Interfaces Inc. Millennium (Integrated Library System - ILS) functions to support student needs
+
+• 	Perform basic photocopier/network printer/machine maintenance and call for service when needed
+
+• 	Manage stack maintenance, perform pick-up and walk-through of each building floor
+
+• 	Assist with Learning Commons events, workshops and building closing procedures
 
 
 
 ### Qualifications###
 
-•	Experience working in an Academic Library a must, preferably in a Learning Commons environment
-•	Proficient computer skills in Microsoft Office, basic database research skills and experience using integrated library system software
-•	Must be self-motivated, have the ability to work independently and as part of a team, have great attention to detail, good writing and communication and interpersonal skills including problem solving
-•	Must have the ability to lift, bend, reach, stoop, push and pull loaded library book trucks
+
+• 	Experience working in an Academic Library a must, preferably in a Learning Commons environment
+
+• 	Proficient computer skills in Microsoft Office, basic database research skills and experience using integrated library system software
+
+• 	Must be self-motivated, have the ability to work independently and as part of a team, have great attention to detail, good writing and communication and interpersonal skills including problem solving
+
+• 	Must have the ability to lift, bend, reach, stoop, push and pull loaded library book trucks
 
 
 

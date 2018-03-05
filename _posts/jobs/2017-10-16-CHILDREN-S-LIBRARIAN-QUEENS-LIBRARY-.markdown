@@ -35,9 +35,12 @@ Key Competencies:
 ### Qualifications###
 
 Requirements:
-•	Must have a MLS/MLIS degree from an ALA-accredited library school.  
-•	Must have the ability to work with a diverse population of children and effectively provide customer service to a large number of children simultaneously. 
-•	New York State Public Librarian’s Certificate required.
+
+• 	Must have a MLS/MLIS degree from an ALA-accredited library school.  
+
+• 	Must have the ability to work with a diverse population of children and effectively provide customer service to a large number of children simultaneously. 
+
+• 	New York State Public Librarian’s Certificate required.
 
 Queens Library is an equal opportunity employer.
 

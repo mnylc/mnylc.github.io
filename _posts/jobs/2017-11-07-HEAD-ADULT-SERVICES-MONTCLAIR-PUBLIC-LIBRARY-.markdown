@@ -22,19 +22,28 @@ Coordinate Adult Services staff to run the department efficiently, satisfy libra
 ### Responsibilities###
 
 Essential functions include:  
-•	Coordinating and supervising Adult Services staff and budget
-•	Developing  and overseeing  programs including digital literacy, financial literacy, and health and the arts 
-•	Maintaining website, contributing content to social media platforms and producing e-Newsletter 
-•	Responding  to queries related to local history, including genealogy and house research
-•	Coordinating  Library outreach at community events
-•	Other duties, as assigned. 
+
+• 	Coordinating and supervising Adult Services staff and budget
+
+• 	Developing  and overseeing  programs including digital literacy, financial literacy, and health and the arts 
+
+• 	Maintaining website, contributing content to social media platforms and producing e-Newsletter 
+
+• 	Responding  to queries related to local history, including genealogy and house research
+
+• 	Coordinating  Library outreach at community events
+
+• 	Other duties, as assigned. 
 
 
 ### Qualifications###
 
-•	MLS (from an ALA Accredited program) with NJ Professional Librarian Certificate
-•	Minimum of five years of library or customer service experience
-•	Current knowledge of library trends and innovations
+
+• 	MLS (from an ALA Accredited program) with NJ Professional Librarian Certificate
+
+• 	Minimum of five years of library or customer service experience
+
+• 	Current knowledge of library trends and innovations
 
 
 

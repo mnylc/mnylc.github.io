@@ -13,13 +13,20 @@ The N-YHS Library seeks an imaginative and forward looking library professional 
 
 ### Responsibilities###
 
-•	Managing and overseeing all original and copy cataloging.
-•	Original cataloging and classification of library materials in a variety of formats.
-•	Recruiting, hiring, training, and supervising cataloging staff, both permanent and project.
-•	Collaborating with the Director of the Library’s Digital Program on metadata and digital asset management.
-•	Collaborating with the Head of Archival Processing to improve access to archival collections.
-•	Contributing to grant proposals, as needed.
-•	Collaborating with curatorial staff on setting catalog priorities.
+
+• 	Managing and overseeing all original and copy cataloging.
+
+• 	Original cataloging and classification of library materials in a variety of formats.
+
+• 	Recruiting, hiring, training, and supervising cataloging staff, both permanent and project.
+
+• 	Collaborating with the Director of the Library’s Digital Program on metadata and digital asset management.
+
+• 	Collaborating with the Head of Archival Processing to improve access to archival collections.
+
+• 	Contributing to grant proposals, as needed.
+
+• 	Collaborating with curatorial staff on setting catalog priorities.
 
 
 
@@ -28,11 +35,16 @@ The N-YHS Library seeks an imaginative and forward looking library professional 
 Education:  BA, preferably in the humanities.  MLIS from an ALA-accredited library school.
 
 Experience:
-•	3-5 years of library cataloging experience and demonstrated ability to effectively supervise staff.
-•	Solid knowledge of national cataloging protocols and current cataloging best practices, including AACR2r, RDA, LCSH, LCC, DCRM, DACS, and MARC21 formats; knowledge of other metadata standards (Dublin Core, MODS); and experience working with rare and special materials.
-•	Attention to detail; demonstrated ability to work independently; good communication skills; and demonstrated ability to work collegially in a team environment.
-•	Ability to read at least one modern Western foreign language other than English.
-•	This is largely a sedentary role using a computer; however, some shelving is required.  This would require the ability to remove books from shelves, push fully-loaded book carts, re-shelve books, and bend or stoop as necessary.
+
+• 	3-5 years of library cataloging experience and demonstrated ability to effectively supervise staff.
+
+• 	Solid knowledge of national cataloging protocols and current cataloging best practices, including AACR2r, RDA, LCSH, LCC, DCRM, DACS, and MARC21 formats; knowledge of other metadata standards (Dublin Core, MODS); and experience working with rare and special materials.
+
+• 	Attention to detail; demonstrated ability to work independently; good communication skills; and demonstrated ability to work collegially in a team environment.
+
+• 	Ability to read at least one modern Western foreign language other than English.
+
+• 	This is largely a sedentary role using a computer; however, some shelving is required.  This would require the ability to remove books from shelves, push fully-loaded book carts, re-shelve books, and bend or stoop as necessary.
 
 
 

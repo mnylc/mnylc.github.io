@@ -19,14 +19,22 @@ The adjunct librarians will teach course-integrated workshops for foundational u
 ### Qualifications###
 
 Required 
-• ALA accredited MLS/MLIS.
-• Experience teaching undergraduates in a library environment. 
-• Public service experience in an academic library, including reference, instruction, or collection development.
-• Demonstrated public service orientation and knowledge of user needs for teaching, learning, and research.
-• Strong interpersonal, written and verbal communication skills.
-• Demonstrated ability to work both independently and collaboratively in a complex organization.
-• High degree of facility with technologies and systems germane to the 21st century library.
-• Demonstrated knowledge of learning theory and information literacy trends. 
+
+•  ALA accredited MLS/MLIS.
+
+•  Experience teaching undergraduates in a library environment. 
+
+•  Public service experience in an academic library, including reference, instruction, or collection development.
+
+•  Demonstrated public service orientation and knowledge of user needs for teaching, learning, and research.
+
+•  Strong interpersonal, written and verbal communication skills.
+
+•  Demonstrated ability to work both independently and collaboratively in a complex organization.
+
+•  High degree of facility with technologies and systems germane to the 21st century library.
+
+•  Demonstrated knowledge of learning theory and information literacy trends. 
 
 Preferred  
 ● Experience participating in collaborative projects. 

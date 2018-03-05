@@ -13,12 +13,18 @@ Poets House, a 70,000-item poetry library and literary center in Lower Manhattan
 
 ### Responsibilities###
 
-•	Utilizes the Koha online library catalog and OCLC to enter bibliographic records for new library resources - including print and multimedia.
-•	Captures and imports bibliographic records into the Koha system and updates cataloging records to conform to library standards to include MARC, RDA, Library of Congress Subject Classification schedules, and local library requirements. Reviews authority records and author and title main entries, to insure consistency within the library database.
-•	Processes materials in accordance with library policies and procedures, including Poets House’s unique classification system
-•	Manages cataloging and processing efforts consistently per cataloging department policy and procedures to include accurate and standard record keeping.
-•	Is responsible as a team member for organizing new cataloging materials for cataloging and processing activities and for moving processed items to distribution shelves.
-•	Works under the guidance and supervision of the Director of Library and Outreach Services on library projects and efforts as and when needed. 
+
+• 	Utilizes the Koha online library catalog and OCLC to enter bibliographic records for new library resources - including print and multimedia.
+
+• 	Captures and imports bibliographic records into the Koha system and updates cataloging records to conform to library standards to include MARC, RDA, Library of Congress Subject Classification schedules, and local library requirements. Reviews authority records and author and title main entries, to insure consistency within the library database.
+
+• 	Processes materials in accordance with library policies and procedures, including Poets House’s unique classification system
+
+• 	Manages cataloging and processing efforts consistently per cataloging department policy and procedures to include accurate and standard record keeping.
+
+• 	Is responsible as a team member for organizing new cataloging materials for cataloging and processing activities and for moving processed items to distribution shelves.
+
+• 	Works under the guidance and supervision of the Director of Library and Outreach Services on library projects and efforts as and when needed. 
 
 
 

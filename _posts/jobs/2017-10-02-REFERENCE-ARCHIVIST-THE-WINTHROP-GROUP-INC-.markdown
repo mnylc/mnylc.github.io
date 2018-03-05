@@ -14,24 +14,35 @@ The Winthrop Group’s Information & Archival Services Division has an immediate
 ### Responsibilities###
 
 The Reference Archivist will 
-• Evaluate and respond to reference questions and provide support for research requests
-• Coordinate image clearance reviews to ensure materials do not contain sensitive or confidential information and submit images to Intellectual Property legal team
-• Provide “scan-on-demand” copies for ingest and cataloging into CMS
-• Assist social media team with requests for physical and digital resources
+
+•  Evaluate and respond to reference questions and provide support for research requests
+
+•  Coordinate image clearance reviews to ensure materials do not contain sensitive or confidential information and submit images to Intellectual Property legal team
+
+•  Provide “scan-on-demand” copies for ingest and cataloging into CMS
+
+•  Assist social media team with requests for physical and digital resources
 
 
 ### Qualifications###
 
 Qualifications
-     • MLS/MLIS or MA with experience providing reference and research services
-     • Minimum of two to three years work in archival setting
-     • Excellent written and verbal communications skills
-     • Ability to multitask and work cooperatively with colleagues and clients
+     
+•  MLS/MLIS or MA with experience providing reference and research services
+     
+•  Minimum of two to three years work in archival setting
+     
+•  Excellent written and verbal communications skills
+     
+•  Ability to multitask and work cooperatively with colleagues and clients
 
 Preferred Qualifications
-     • Experience working in a corporate archives setting
-     • Detail-oriented and proficient in finding practical solutions
-     • Familiarity with digitization requirements and metadata descriptions
+     
+•  Experience working in a corporate archives setting
+     
+•  Detail-oriented and proficient in finding practical solutions
+     
+•  Familiarity with digitization requirements and metadata descriptions
 
 
 ### Compensation###

@@ -13,16 +13,26 @@ Gill Library at The College of New Rochelle invites applications for a Learning 
 
 ### Responsibilities###
 
-•	Participate in the design and implementation of programs, initiatives, and outreach activities at the library learning commons, college, and beyond.  
-•	Participate in the development and implementation of the strategic and operative plans for the Library Learning Commons
-•	Establish and promote teaching and learning support programs in collaboration with colleagues in the library and across campus
-•	Pursue opportunities for library involvement in campus-wide learning support programs and participate in the coordination of the integration of these programs into the Learning Commons
-•	Collaborate with existing staff to conduct marketing and outreach programs for the Library Learning Commons
-•	Teach in-person and virtual information literacy sessions, 2 credit Research and Information Literacy course, and support modules utilizing student-centered and outcomes-based pedagogy. 
-•	Participate in embedded librarianship project related to MURAL initiative
-•	Partner with librarians, faculty, and learning commons staff to create innovative and meaningful learning opportunities for students, including those related to digital projects.
-•	Provide research guidance to students and faculty both individually and in groups
-•	Other duties as assigned by administration.
+
+• 	Participate in the design and implementation of programs, initiatives, and outreach activities at the library learning commons, college, and beyond.  
+
+• 	Participate in the development and implementation of the strategic and operative plans for the Library Learning Commons
+
+• 	Establish and promote teaching and learning support programs in collaboration with colleagues in the library and across campus
+
+• 	Pursue opportunities for library involvement in campus-wide learning support programs and participate in the coordination of the integration of these programs into the Learning Commons
+
+• 	Collaborate with existing staff to conduct marketing and outreach programs for the Library Learning Commons
+
+• 	Teach in-person and virtual information literacy sessions, 2 credit Research and Information Literacy course, and support modules utilizing student-centered and outcomes-based pedagogy. 
+
+• 	Participate in embedded librarianship project related to MURAL initiative
+
+• 	Partner with librarians, faculty, and learning commons staff to create innovative and meaningful learning opportunities for students, including those related to digital projects.
+
+• 	Provide research guidance to students and faculty both individually and in groups
+
+• 	Other duties as assigned by administration.
 
 
 

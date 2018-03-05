@@ -14,13 +14,20 @@ The Nyack Library is located in the beautiful village of Nyack overlooking the H
 ### Responsibilities###
 
 Responsibilities
-•	Supervise, schedule and evaluate performance of all full-time and part-time reference Library staff, including Local History Room staff.
-•	Provide excellent reference, bibliographic, and database services to the public.  
-•	Act as Coordinator for collection development.
-•	Assist in budget maintenance and Library operational plans. 
-•	Recommend new services to Library Director.  
-•	Participate in local, regional and national professional conferences to ensure professional development. 
-•	Prepares narrative and statistical reports as needed for Director and Board
+
+• 	Supervise, schedule and evaluate performance of all full-time and part-time reference Library staff, including Local History Room staff.
+
+• 	Provide excellent reference, bibliographic, and database services to the public.  
+
+• 	Act as Coordinator for collection development.
+
+• 	Assist in budget maintenance and Library operational plans. 
+
+• 	Recommend new services to Library Director.  
+
+• 	Participate in local, regional and national professional conferences to ensure professional development. 
+
+• 	Prepares narrative and statistical reports as needed for Director and Board
 
 
 

@@ -35,20 +35,31 @@ Long Island University is an Affirmative Action /Equal Opportunity Employer
 ### Qualifications###
 
 Qualifications:
-• At least five years of senior library administrative experience and a record appropriate to an appointment at senior faculty rank
-• A record of mentoring and supporting faculty, demonstrated ability to build a consensus, and effective strategic planning/implementation
-• Demonstrated knowledge of emerging library and information technologies capable of transforming scholarly communication and user experience, as well as of trends in higher education as they affect library services
-• Evidence of effective budgetary and personnel management/mentorship
-• Experience with developing archives, special collections, and open access initiatives
-• Strong communication skills and the capacity to develop effective collaborative relationships
+
+•  At least five years of senior library administrative experience and a record appropriate to an appointment at senior faculty rank
+
+•  A record of mentoring and supporting faculty, demonstrated ability to build a consensus, and effective strategic planning/implementation
+
+•  Demonstrated knowledge of emerging library and information technologies capable of transforming scholarly communication and user experience, as well as of trends in higher education as they affect library services
+
+•  Evidence of effective budgetary and personnel management/mentorship
+
+•  Experience with developing archives, special collections, and open access initiatives
+
+•  Strong communication skills and the capacity to develop effective collaborative relationships
 with faculty, staff and other user groups
-• Theoretical and experiential knowledge of the domain (including areas such as information
+
+•  Theoretical and experiential knowledge of the domain (including areas such as information
 technology, scholarly communications, and knowledge organization) necessary to lead the
 Library’s ongoing growth and development in a complex digital environment
-• Strong and consistent public service orientation
-• A record of professional engagement at local, regional, and national levels
-• Outstanding communication and collaborative skills
-• A distinguished record of scholarly research and publication
+
+•  Strong and consistent public service orientation
+
+•  A record of professional engagement at local, regional, and national levels
+
+•  Outstanding communication and collaborative skills
+
+•  A distinguished record of scholarly research and publication
 
 
 

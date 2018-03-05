@@ -17,15 +17,24 @@ The Library Associate for Electronic Resources is responsible for ensuring relia
 
 PRIMARY RESPONSIBILITIES & DUTIES:
 
-•	Collects and maintains all documentation relating to subscription e-resources, including subscriptions, renewals, cancellations, trials, and vendor licenses; creates and maintains Electronic Resources Management (ERM) records
-•	Investigates and sets up trials to new e-resources, including procuring pricing and license agreements
-•	Compiles statistical reports and assessments of usage data for subscription databases, e-books, and visitor registrations
-•	Manages the e-journals collection, including holdings maintenance and data loading
-•	Assists in troubleshooting subscription e-resources, including contacting vendors and collaborating with library systems staff to resolve all issues affecting access
-•	Drafts statistical reports and charts summarizing usage of electronic resources
-•	Provides service at the Watson Library registration desk or Nolen Library desk (including 3-4 weekend shifts per year required)
-•	Works with library systems staff on special projects
-•	Other duties as assigned.
+
+• 	Collects and maintains all documentation relating to subscription e-resources, including subscriptions, renewals, cancellations, trials, and vendor licenses; creates and maintains Electronic Resources Management (ERM) records
+
+• 	Investigates and sets up trials to new e-resources, including procuring pricing and license agreements
+
+• 	Compiles statistical reports and assessments of usage data for subscription databases, e-books, and visitor registrations
+
+• 	Manages the e-journals collection, including holdings maintenance and data loading
+
+• 	Assists in troubleshooting subscription e-resources, including contacting vendors and collaborating with library systems staff to resolve all issues affecting access
+
+• 	Drafts statistical reports and charts summarizing usage of electronic resources
+
+• 	Provides service at the Watson Library registration desk or Nolen Library desk (including 3-4 weekend shifts per year required)
+
+• 	Works with library systems staff on special projects
+
+• 	Other duties as assigned.
 
 
 
@@ -33,21 +42,34 @@ PRIMARY RESPONSIBILITIES & DUTIES:
 
 REQUIREMENTS & QUALIFICATIONS:
 Experience and Skills:
-•	Library experience required (research or academic library preferred)
-•	Excellent technical skills required, including command of Excel and data visualization software
-•	Experience managing statistical data, generating reports, and working with vendors preferred
-•	Experience using an integrated library system
-•	Experience troubleshooting e-resources
-•	Excellent organizational skills and demonstrated ability to handle complex analytical and extremely accurate, detailed work
-•	Ability to work independently and function in a collegial, teamwork-oriented environment that values initiative, flexibility, and creative problem-solving
-•	Strong written and oral communication and interpersonal skills
-•	Commitment to provide outstanding service to library patrons required
+
+• 	Library experience required (research or academic library preferred)
+
+• 	Excellent technical skills required, including command of Excel and data visualization software
+
+• 	Experience managing statistical data, generating reports, and working with vendors preferred
+
+• 	Experience using an integrated library system
+
+• 	Experience troubleshooting e-resources
+
+• 	Excellent organizational skills and demonstrated ability to handle complex analytical and extremely accurate, detailed work
+
+• 	Ability to work independently and function in a collegial, teamwork-oriented environment that values initiative, flexibility, and creative problem-solving
+
+• 	Strong written and oral communication and interpersonal skills
+
+• 	Commitment to provide outstanding service to library patrons required
 
 Knowledge and Education:
-•	B.A. required; work towards a Master’s degree in Library Science preferred
-•	Familiarity with subscription e-resources required
-•	Knowledge of electronic resources management systems, link resolver software, e-resource knowledge base systems, and proxy configurations preferred
-•	Knowledge of current library technologies and standards for data collection, analysis, and reporting preferred
+
+• 	B.A. required; work towards a Master’s degree in Library Science preferred
+
+• 	Familiarity with subscription e-resources required
+
+• 	Knowledge of electronic resources management systems, link resolver software, e-resource knowledge base systems, and proxy configurations preferred
+
+• 	Knowledge of current library technologies and standards for data collection, analysis, and reporting preferred
 
 
 

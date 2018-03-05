@@ -10,26 +10,40 @@ tag: job
 
 ### Responsibilities###
 
-•	The Community Library Manager and Assistant Manager, have overall responsibility for the leadership of staff, including the timely and objective feedback of performance and fostering the staff development/learning.
-•	Provides exceptional public service to all age levels. 
-•	Direct supervisor of the Customer Service Supervisor and Librarians.
-•	The Community Library Manager, manages the library including materials selection, programming, physical maintenance, reports, etc. (Handled by the Assistant Manager in the Managers absence). 
-•	Prepares reports and statistics. 
-•	Performs other duties as required. 
-•	Schedule will include some Saturdays and evenings.
+
+• 	The Community Library Manager and Assistant Manager, have overall responsibility for the leadership of staff, including the timely and objective feedback of performance and fostering the staff development/learning.
+
+• 	Provides exceptional public service to all age levels. 
+
+• 	Direct supervisor of the Customer Service Supervisor and Librarians.
+
+• 	The Community Library Manager, manages the library including materials selection, programming, physical maintenance, reports, etc. (Handled by the Assistant Manager in the Managers absence). 
+
+• 	Prepares reports and statistics. 
+
+• 	Performs other duties as required. 
+
+• 	Schedule will include some Saturdays and evenings.
 Key Competencies:
-•	Leadership, initiative, flexibility, cooperative teamwork and modeling exemplary customer service.
+
+• 	Leadership, initiative, flexibility, cooperative teamwork and modeling exemplary customer service.
 
 
 
 ### Qualifications###
 
-•	Must have a MLS/MLIS degree from an ALA-accredited library school.
-•	New York State Public Librarian’s Certificate required. 
-•	A minimum of one year of managerial experience including the management of full-time librarian staff. 
-•	Two years of post-MLS experience is required. 
-•	A minimum of one year of librarian experience.
-•	Must have demonstrated knowledge of library policies and procedures.
+
+• 	Must have a MLS/MLIS degree from an ALA-accredited library school.
+
+• 	New York State Public Librarian’s Certificate required. 
+
+• 	A minimum of one year of managerial experience including the management of full-time librarian staff. 
+
+• 	Two years of post-MLS experience is required. 
+
+• 	A minimum of one year of librarian experience.
+
+• 	Must have demonstrated knowledge of library policies and procedures.
 
 
 

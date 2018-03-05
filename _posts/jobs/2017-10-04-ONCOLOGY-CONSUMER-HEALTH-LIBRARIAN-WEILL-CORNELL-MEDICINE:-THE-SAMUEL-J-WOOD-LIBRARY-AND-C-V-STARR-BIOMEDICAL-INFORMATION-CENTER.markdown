@@ -40,23 +40,39 @@ Position Summary: The Oncology Consumer Health Librarian (OCHL) is a patient and
 ### Qualifications###
 
 MINIMUM REQUIREMENTS: 
-• Master’s degree in Library Science from an ALA-accredited program, Master’s Degree in Social Work, or Master’s Degree in Nursing. 
-• Demonstrated knowledge of oncology information resources for patients and families OR a strong proficiency in database searching with the ability to locate electronic information in a variety of licensed online and publicly available resources. 
-• Experience and ability to plan, develop and implement patient and family information services. 
-• Excellent teaching skills. 
-• Excellent technical, written and verbal communication skills for the purposes of teaching, presenting, scholarly communication and building professional relationships with patients and families. 
-• Ability to think creatively in developing and promoting the use of patient resources and services. • Ability to manage multiple projects and work collaboratively in a team environment. 
-• Excellent interpersonal, analytical and organizational skills. 
-• Strong service orientation. 
-• Ability to establish positive and productive collaborations with faculty and health professionals. 
-• Ability to adjust priorities, set goals, and make quick effective decisions in a fast-paced environment.
+
+•  Master’s degree in Library Science from an ALA-accredited program, Master’s Degree in Social Work, or Master’s Degree in Nursing. 
+
+•  Demonstrated knowledge of oncology information resources for patients and families OR a strong proficiency in database searching with the ability to locate electronic information in a variety of licensed online and publicly available resources. 
+
+•  Experience and ability to plan, develop and implement patient and family information services. 
+
+•  Excellent teaching skills. 
+
+•  Excellent technical, written and verbal communication skills for the purposes of teaching, presenting, scholarly communication and building professional relationships with patients and families. 
+
+•  Ability to think creatively in developing and promoting the use of patient resources and services. 
+•  Ability to manage multiple projects and work collaboratively in a team environment. 
+
+•  Excellent interpersonal, analytical and organizational skills. 
+
+•  Strong service orientation. 
+
+•  Ability to establish positive and productive collaborations with faculty and health professionals. 
+
+•  Ability to adjust priorities, set goals, and make quick effective decisions in a fast-paced environment.
 
 PREFERRED QUALIFICATIONS 
-• Two years health sciences library experience or relevant experience in either clinical, academic or industry environments. 
-• Relevant second Master's degree or Doctorate degree. 
-• Commitment to engage independently in continuing professional development. 
-• Membership in the Academy of Health Information professionals (AHIP) preferred 
-• Membership in MLA Cancer Librarians Section and Consumer & Patient Health Information Section CAPHIS preferred.
+
+•  Two years health sciences library experience or relevant experience in either clinical, academic or industry environments. 
+
+•  Relevant second Master's degree or Doctorate degree. 
+
+•  Commitment to engage independently in continuing professional development. 
+
+•  Membership in the Academy of Health Information professionals (AHIP) preferred 
+
+•  Membership in MLA Cancer Librarians Section and Consumer & Patient Health Information Section CAPHIS preferred.
 
 
 

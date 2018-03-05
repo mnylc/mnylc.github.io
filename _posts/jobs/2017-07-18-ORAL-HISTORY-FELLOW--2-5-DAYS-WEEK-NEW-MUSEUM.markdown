@@ -16,11 +16,16 @@ The New Museum seeks an Oral History Fellow to provide research and editing supp
 The fellow will be responsible for conducting background research on interviewees utilizing the New Museum’s archival collections, producing interview materials, and preparing transcripts in accordance with best practices. The Fellow will also assist with populating the newly designed Oral History module within the Digital Archive, and developing related records to more fully reflect key aspects of that history.   
 
 Responsibilities include:
-•	Assisting with background research for the launch of New Museum Oral History Initiative in coordination with the Museum’s 40th Anniversary programming.
-•	Creating research dossiers for interviewers.
-•	Identifying collections with related historical materials that are currently underrepresented in the Digital Archive and prioritizing for digitization and ingest.
-•	Vetting transcripts for historical accuracy, and editing content in accordance with best practices.
-•	Assisting with production of Oral History materials (timecoded transcripts, image captions, etc.) to be showcased on the Museum’s Digital Archive.
+
+• 	Assisting with background research for the launch of New Museum Oral History Initiative in coordination with the Museum’s 40th Anniversary programming.
+
+• 	Creating research dossiers for interviewers.
+
+• 	Identifying collections with related historical materials that are currently underrepresented in the Digital Archive and prioritizing for digitization and ingest.
+
+• 	Vetting transcripts for historical accuracy, and editing content in accordance with best practices.
+
+• 	Assisting with production of Oral History materials (timecoded transcripts, image captions, etc.) to be showcased on the Museum’s Digital Archive.
 
 
 ### Qualifications###

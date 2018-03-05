@@ -13,12 +13,18 @@ Reporting to the Director and working closely with other librarians and staff, t
 
 ### Responsibilities###
 
-•         Providing extended, professional references services and library instruction to individuals and departments as necessary.
-•         Determining the information needs of the organization’s staff and students by establishing relationships with residency and student program coordinators and clinical departments as well as by creating, conducting, and analyzing user surveys.
-•         Creating and maintaining online information portals in clinical specialties and additional online guides that would be helpful to library users.
-•         Providing group library orientation and instruction on database searching, and other library related applications necessary to the organization’s library patrons.
-•         Maintains library's procedure manual, writes new entries, and edits existing procedures.
-•         Other duties, as assigned
+
+•          Providing extended, professional references services and library instruction to individuals and departments as necessary.
+
+•          Determining the information needs of the organization’s staff and students by establishing relationships with residency and student program coordinators and clinical departments as well as by creating, conducting, and analyzing user surveys.
+
+•          Creating and maintaining online information portals in clinical specialties and additional online guides that would be helpful to library users.
+
+•          Providing group library orientation and instruction on database searching, and other library related applications necessary to the organization’s library patrons.
+
+•          Maintains library's procedure manual, writes new entries, and edits existing procedures.
+
+•          Other duties, as assigned
 
 
 ### Qualifications###
@@ -30,12 +36,18 @@ Licensure: Academy of Health Information Professionals (AHIP), preferred
 Experience: 1-2 years of medical or academic library experience, preferred
  
 Skills: 
-•         Familiarity with library trends and issues, required.
-•         Excellent communication (both written and oral), interpersonal, customer service, organization, detail orientation, multitasking, and project management skills, required.
-•         Advanced computer skills including Microsoft Office and database searching applications, required
-•	Extensive experience searching the biomedical literature (i.e. PubMed, CINAHL), required
-•         Experience with library marketing and outreach programming, required
-•         Working knowledge of computer applications and database searching (i.e. EndNote, RefWorks, SirsiDynix, Camtasia, LibGuides, Photoshop, Acrobat), preferred.
+
+•          Familiarity with library trends and issues, required.
+
+•          Excellent communication (both written and oral), interpersonal, customer service, organization, detail orientation, multitasking, and project management skills, required.
+
+•          Advanced computer skills including Microsoft Office and database searching applications, required
+
+• 	Extensive experience searching the biomedical literature (i.e. PubMed, CINAHL), required
+
+•          Experience with library marketing and outreach programming, required
+
+•          Working knowledge of computer applications and database searching (i.e. EndNote, RefWorks, SirsiDynix, Camtasia, LibGuides, Photoshop, Acrobat), preferred.
 
 
 

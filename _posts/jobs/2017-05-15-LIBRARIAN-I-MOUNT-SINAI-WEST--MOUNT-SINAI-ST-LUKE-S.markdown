@@ -15,18 +15,30 @@ The Librarian I has responsibility and accountability for providing planning and
 
 ### Responsibilities###
 
-•	Delivers high-level customer service, including answering questions, recommending resources, providing instruction and/or educational sessions to users.  Continually seeks new ways to improve efficiency and customer service.  
-•	Coordinates daily workflow of library services provided at the circulation desk including interlibrary loan requests, document delivery, coordinating statistics, administrative functions, and maintaining technical equipment. Troubleshoots library equipment issues (i.e., printers, copiers, scanners).
-•	Performs literature searches, reference assistance, and consultations with library users in support of research activities at Mount Sinai Beth Israel. 
-•	Assists the Medical Librarian in the teaching of health sciences informatics, literature searching, library orientation and other educational presentations to clinicians, nurses and staff. 
-•	Performs outreach events and activities related to marketing of library services and engagement with Mount Sinai Beth Israel library users.
-•	May do special library projects in support of Library services.
-•	Efficiently refers library patrons to the appropriate individual, group, or resource. 
-•	Collects and analyzes statistics related to library activities; generates reports. Ensures statistics (i.e., gate count, ILL requests, research consults) are consistently and accurately recorded. Troubleshoots basic desktop computer issues. Troubleshoots library equipment issues (i.e., printers, copiers, scanners).
-•	Maintains inventory of library desk and supplies. Plans, prioritizes and recommends supplies and equipment.
-•	Assists with Emergency/Disaster Preparedness planning and initiatives.
-•	Assists in tracking and processing invoices for equipment, supplies, furniture, and library resources.
-•	Participates on Library working groups/committees.
+
+• 	Delivers high-level customer service, including answering questions, recommending resources, providing instruction and/or educational sessions to users.  Continually seeks new ways to improve efficiency and customer service.  
+
+• 	Coordinates daily workflow of library services provided at the circulation desk including interlibrary loan requests, document delivery, coordinating statistics, administrative functions, and maintaining technical equipment. Troubleshoots library equipment issues (i.e., printers, copiers, scanners).
+
+• 	Performs literature searches, reference assistance, and consultations with library users in support of research activities at Mount Sinai Beth Israel. 
+
+• 	Assists the Medical Librarian in the teaching of health sciences informatics, literature searching, library orientation and other educational presentations to clinicians, nurses and staff. 
+
+• 	Performs outreach events and activities related to marketing of library services and engagement with Mount Sinai Beth Israel library users.
+
+• 	May do special library projects in support of Library services.
+
+• 	Efficiently refers library patrons to the appropriate individual, group, or resource. 
+
+• 	Collects and analyzes statistics related to library activities; generates reports. Ensures statistics (i.e., gate count, ILL requests, research consults) are consistently and accurately recorded. Troubleshoots basic desktop computer issues. Troubleshoots library equipment issues (i.e., printers, copiers, scanners).
+
+• 	Maintains inventory of library desk and supplies. Plans, prioritizes and recommends supplies and equipment.
+
+• 	Assists with Emergency/Disaster Preparedness planning and initiatives.
+
+• 	Assists in tracking and processing invoices for equipment, supplies, furniture, and library resources.
+
+• 	Participates on Library working groups/committees.
 
 
 

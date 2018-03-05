@@ -15,33 +15,53 @@ This is an entry level, non librarian position. MLIS students are encouraged to 
 
 ### Responsibilities###
 
-•	Develops messaging and designs print and electronic marketing content to promote library resources, services, programs, and events. 
-•	Presents a consistent visual identity for the Library and ensures branding compliance within the context of the Mount Sinai Health System at large. 
-•	Interprets marketing guidelines and coordinates promotion of library services and resources as directed by library leadership in support of the marketing plan for audience-specific platforms and opportunities. 
-•	Oversees the library’s social media presence and analyzes emerging trends in social media.
-•	May work on special library projects and events in support of Library services.
-•	Participates on Library working groups/committees.
-•	Provides assistance for special projects and events
-•	Provides administrative support. 
+
+• 	Develops messaging and designs print and electronic marketing content to promote library resources, services, programs, and events. 
+
+• 	Presents a consistent visual identity for the Library and ensures branding compliance within the context of the Mount Sinai Health System at large. 
+
+• 	Interprets marketing guidelines and coordinates promotion of library services and resources as directed by library leadership in support of the marketing plan for audience-specific platforms and opportunities. 
+
+• 	Oversees the library’s social media presence and analyzes emerging trends in social media.
+
+• 	May work on special library projects and events in support of Library services.
+
+• 	Participates on Library working groups/committees.
+
+• 	Provides assistance for special projects and events
+
+• 	Provides administrative support. 
 
 
 ### Qualifications###
 
 Required skills: 	
-•      Knowledge of the methods, practices, and techniques of marketing and community relations.
-•	Ability to develop and implement creative approaches to reach targeted audiences. 
-•	Demonstrated problem-solving skills and ability to quickly learn new skills.
-•	Demonstrated ability to work creatively, collaboratively, and effectively both as a team member and independently.
-•	Demonstrated strong customer service skills.
-•	Excellent oral and written communication skills. 
+
+•       Knowledge of the methods, practices, and techniques of marketing and community relations.
+
+• 	Ability to develop and implement creative approaches to reach targeted audiences. 
+
+• 	Demonstrated problem-solving skills and ability to quickly learn new skills.
+
+• 	Demonstrated ability to work creatively, collaboratively, and effectively both as a team member and independently.
+
+• 	Demonstrated strong customer service skills.
+
+• 	Excellent oral and written communication skills. 
 
 Preferred skills: 
-•	Graphic design experience.
-•	Web design experience. 
-•	Experience with publishing (i.e., open access and desktop).
-•	Expertise using and evaluating current and emerging social media platforms.
-•	Strong marketing and communication skills, especially writing for the web.
-•	Experience working in a library or non-profit.
+
+• 	Graphic design experience.
+
+• 	Web design experience. 
+
+• 	Experience with publishing (i.e., open access and desktop).
+
+• 	Expertise using and evaluating current and emerging social media platforms.
+
+• 	Strong marketing and communication skills, especially writing for the web.
+
+• 	Experience working in a library or non-profit.
 
 Required education:
 Bachelor’s degree.

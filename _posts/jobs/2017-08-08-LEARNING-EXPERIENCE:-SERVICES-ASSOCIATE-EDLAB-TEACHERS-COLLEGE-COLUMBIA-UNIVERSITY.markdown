@@ -22,11 +22,16 @@ This job is perfect for library and information science students who want to gai
 ### Qualifications###
 
 The ideal candidate will have:
-•	Excellent interpersonal, verbal, and written communication skills
-•	Very good organizational skills with great attention to detail
-•	A flexible, can-do attitude
-•	A passion for collaboration
-•	An interest in teaching, libraries, technology and the field of education
+
+• 	Excellent interpersonal, verbal, and written communication skills
+
+• 	Very good organizational skills with great attention to detail
+
+• 	A flexible, can-do attitude
+
+• 	A passion for collaboration
+
+• 	An interest in teaching, libraries, technology and the field of education
 
 
 

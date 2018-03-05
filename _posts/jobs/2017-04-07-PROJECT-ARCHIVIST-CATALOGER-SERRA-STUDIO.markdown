@@ -26,19 +26,26 @@ Working under and in collaboration with the Studio Archivist, the Project Archiv
 ### Responsibilities###
 
 Responsibilities
-•	Assist in photographing, cataloging, describing, and re-housing original materials in accordance with professional standards and best practices, including the creation of database records.
+
+• 	Assist in photographing, cataloging, describing, and re-housing original materials in accordance with professional standards and best practices, including the creation of database records.
 
 
 
 ### Qualifications###
 
 Qualifications, Knowledge Skill Required
-•	Master’s degree candidate in Library and Information Science or a related field.
-•	Knowledge of basic archives and preservation measures including the physical handling of delicate materials
-•	Familiarity and ease with Window OS as well as FileMaker Pro databases; experience with digital asset management a plus
-•	Familiarity with metadata standards such as MARC, DACS, and controlled vocabularies
-•	Proficiency with image scanning and editing; experience with Photoshop and Bridge
-•	Knowledge of 20th Century art
+
+• 	Master’s degree candidate in Library and Information Science or a related field.
+
+• 	Knowledge of basic archives and preservation measures including the physical handling of delicate materials
+
+• 	Familiarity and ease with Window OS as well as FileMaker Pro databases; experience with digital asset management a plus
+
+• 	Familiarity with metadata standards such as MARC, DACS, and controlled vocabularies
+
+• 	Proficiency with image scanning and editing; experience with Photoshop and Bridge
+
+• 	Knowledge of 20th Century art
 
 
 

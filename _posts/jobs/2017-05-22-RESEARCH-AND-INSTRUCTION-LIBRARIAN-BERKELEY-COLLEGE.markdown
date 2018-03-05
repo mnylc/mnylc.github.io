@@ -15,14 +15,22 @@ Berkeley College is seeking a full time librarian to provide research services a
 
 ### Qualifications###
 
-• An earned M.L.S. / M.L.I.S or equivalent degree from an ALA accredited institution, or from a master's level program in library and information studies accredited or recognized by the appropriate national body of another country
-• Commitment to developing students' information seeking abilities through each point of contact 
-• Experience with library automation systems and associated relevant technology that manage and deliver services 
-• Ability to promote the libraries resources and services in a variety of settings; to a variety of constituencies 
-• Interest in and capacity to adapt the Framework for information literacy in Higher Education to varied coursework and instructional settings.
-• A patient and positive approach to customer service 
-• Comprehensive knowledge of, and navigational ability with, electronic information and Internet resources 
-• The desire to explore and innovate- what we do and how we do it
+
+•  An earned M.L.S. / M.L.I.S or equivalent degree from an ALA accredited institution, or from a master's level program in library and information studies accredited or recognized by the appropriate national body of another country
+
+•  Commitment to developing students' information seeking abilities through each point of contact 
+
+•  Experience with library automation systems and associated relevant technology that manage and deliver services 
+
+•  Ability to promote the libraries resources and services in a variety of settings; to a variety of constituencies 
+
+•  Interest in and capacity to adapt the Framework for information literacy in Higher Education to varied coursework and instructional settings.
+
+•  A patient and positive approach to customer service 
+
+•  Comprehensive knowledge of, and navigational ability with, electronic information and Internet resources 
+
+•  The desire to explore and innovate- what we do and how we do it
 
 
 ### Compensation###

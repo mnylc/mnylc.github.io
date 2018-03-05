@@ -14,32 +14,51 @@ NYU Langone Medical Center, a world-class, patient-centered, integrated, academi
 
 ### Responsibilities###
 
-• Planning, conducting, and documenting outreach initiatives to researchers.
-• Creating, curating, and maintaining accurate metadata for datasets.
-• Assisting researchers with submitting metadata for datasets.
-• Refining and entering metadata for datasets.
-• Directing researchers to platforms or repositories for data storage.
-• Other duties within the Data Services Team and the Library as assigned.
-• Serve on library committees and task forces as appropriate.
+
+•  Planning, conducting, and documenting outreach initiatives to researchers.
+
+•  Creating, curating, and maintaining accurate metadata for datasets.
+
+•  Assisting researchers with submitting metadata for datasets.
+
+•  Refining and entering metadata for datasets.
+
+•  Directing researchers to platforms or repositories for data storage.
+
+•  Other duties within the Data Services Team and the Library as assigned.
+
+•  Serve on library committees and task forces as appropriate.
 
 
 ### Qualifications###
 
 Required qualifications
-• Bachelor's degree.
-• Exposure to the research process.
-• Strong understanding of metadata.
-• Comfortable meeting with researchers independently.
-• Documented ability to plan, organize, and implement outreach activities in an academic or other relevant setting.
-• Documented ability to work independently and in teams.
-• Excellent verbal and written communication skills.
-• Excellent attention to detail.
-• Excellent organizational skills.
+
+•  Bachelor's degree.
+
+•  Exposure to the research process.
+
+•  Strong understanding of metadata.
+
+•  Comfortable meeting with researchers independently.
+
+•  Documented ability to plan, organize, and implement outreach activities in an academic or other relevant setting.
+
+•  Documented ability to work independently and in teams.
+
+•  Excellent verbal and written communication skills.
+
+•  Excellent attention to detail.
+
+•  Excellent organizational skills.
 
 Preferred qualifications
-• MLS or similar graduate degree.
-• An undergraduate or graduate-level science or public health background.
-• Awareness of data storage and data sharing options for biomedical researchers.
+
+•  MLS or similar graduate degree.
+
+•  An undergraduate or graduate-level science or public health background.
+
+•  Awareness of data storage and data sharing options for biomedical researchers.
 
 
 

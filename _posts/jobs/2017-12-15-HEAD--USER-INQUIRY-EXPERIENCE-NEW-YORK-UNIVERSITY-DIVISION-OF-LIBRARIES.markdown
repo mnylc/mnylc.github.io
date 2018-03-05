@@ -17,32 +17,51 @@ The UIX Head is a member of the Libraries Department Managers Group and collabor
 
 ### Responsibilities###
 
-• Create and lead the development of a cohesive and coordinated user inquiry vision and strategy across all user services and systems of NYU Libraries.
-• Lead and coordinate projects to improve user/inquiry experience at NYU Libraries, working collaboratively with librarians, staff and senior library leadership.
-• Design and lead efforts to assess library interfaces, identify service gaps and “dead-ends,” and develop and implement plans to re-architect interfaces and integrate services to improve the user inquiry process.
-• Work with public service librarians and staff to develop and implement consistent service expectations and best practices in all areas of user information inquiry, both in person and online.
-• Manage and coach a staff of UX specialists who work closely with Web Development and are responsible for projects/deliverables to ensure all user facing online interfaces incorporate UX centered research, design, usability testing, and best practices.
-• Collaborate and partner with library department heads, service teams and other internal stakeholders to incorporate UIX strategies and best practices into all service points. 
-• Monitor the effectiveness and success of implemented strategies, policies, processes and programs; where necessary, add/modify/remove policies, processes and programs to improve their effectiveness.
+
+•  Create and lead the development of a cohesive and coordinated user inquiry vision and strategy across all user services and systems of NYU Libraries.
+
+•  Lead and coordinate projects to improve user/inquiry experience at NYU Libraries, working collaboratively with librarians, staff and senior library leadership.
+
+•  Design and lead efforts to assess library interfaces, identify service gaps and “dead-ends,” and develop and implement plans to re-architect interfaces and integrate services to improve the user inquiry process.
+
+•  Work with public service librarians and staff to develop and implement consistent service expectations and best practices in all areas of user information inquiry, both in person and online.
+
+•  Manage and coach a staff of UX specialists who work closely with Web Development and are responsible for projects/deliverables to ensure all user facing online interfaces incorporate UX centered research, design, usability testing, and best practices.
+
+•  Collaborate and partner with library department heads, service teams and other internal stakeholders to incorporate UIX strategies and best practices into all service points. 
+
+•  Monitor the effectiveness and success of implemented strategies, policies, processes and programs; where necessary, add/modify/remove policies, processes and programs to improve their effectiveness.
 
 
 ### Qualifications###
 
 Education and Experience Requirements:
-• Minimum one graduate degree (master’s level or higher) for consideration. A second graduate degree will be required for tenure review. One of the two graduate degrees must be an ALA-accredited MLS or equivalent.
-• 5 years’ experience in library public services, user experience or reference services in an academic or research library. 
-• Experience with user assessment tools and usability studies.
-• Experience leading high-performing teams.
-• Experience working across organizational boundaries and managing complex stakeholder groups to move projects forward.
+
+•  Minimum one graduate degree (master’s level or higher) for consideration. A second graduate degree will be required for tenure review. One of the two graduate degrees must be an ALA-accredited MLS or equivalent.
+
+•  5 years’ experience in library public services, user experience or reference services in an academic or research library. 
+
+•  Experience with user assessment tools and usability studies.
+
+•  Experience leading high-performing teams.
+
+•  Experience working across organizational boundaries and managing complex stakeholder groups to move projects forward.
 Required Knowledge, Skills and Abilities:
-• Knowledge of web centered technology, social media platforms, and current and future trends in library services.
-• Knowledge of academic library public services and reference services.
-• Knowledge of user experience and assessment methodologies in a library environment.
-• Ability to articulate a vision for traditional and innovative reference services in an academic setting.
-• Strong analytical skills and a familiarity with quantitative and qualitative research methods.
-• Excellent interpersonal and communication skills.
+
+•  Knowledge of web centered technology, social media platforms, and current and future trends in library services.
+
+•  Knowledge of academic library public services and reference services.
+
+•  Knowledge of user experience and assessment methodologies in a library environment.
+
+•  Ability to articulate a vision for traditional and innovative reference services in an academic setting.
+
+•  Strong analytical skills and a familiarity with quantitative and qualitative research methods.
+
+•  Excellent interpersonal and communication skills.
 Preferred Qualifications:
-• Experience supervising UX or technology professionals.
+
+•  Experience supervising UX or technology professionals.
 
 
 ### Compensation###

@@ -28,21 +28,32 @@ Rutgers, The State University of New Jersey is seeking a Librarian III – Infor
 
 Reporting to the Associate Director and Medical Education Coordinator, Robert Wood Johnson Library of the Health Sciences, works as member of a team of librarians in support of the academic, clinical and research needs of RBHS faculty, staff and students, based in a fast-paced clinical environment in New Brunswick and Piscataway. The primary focus of the position is providing high level reference, instruction, outreach and consultation services. Develops instruction, teaches classes and workshops, provides one-to-one consultations with faculty, residents and students, both on-site and virtually, using appropriate technologies.
 
-• Teaches evidence based searching skills to students and residents in RBHS academic programs, based in New Brunswick and Piscataway.
-• Conducts health sciences student orientations and boot camps for RWJMS, SPH, Pharmacy, SON, and GSBS programs.
-• Incorporates technology and web-based innovations, into communication, instruction, and outreach.
-• Participates on RUL-wide committees and working groups, contributing expertise and input on projects, to deliver effective information services.
-• Participates in RWJMS post-graduate resident orientations and training sessions.
-• Works with departments participating on clinical rounds, morning report or other clinical instructional sessions.
-• Produces, updates and maintains Library Research Guides, across health sciences disciplines.
-• Answers reference inquiries, using virtual reference tools including LibAnswers and those submitted via electronic forms on the RWJ Library website.
-• Writes and contributes news items, for distribution to appropriate audiences.
-• Performs other related duties as assigned
+
+•  Teaches evidence based searching skills to students and residents in RBHS academic programs, based in New Brunswick and Piscataway.
+
+•  Conducts health sciences student orientations and boot camps for RWJMS, SPH, Pharmacy, SON, and GSBS programs.
+
+•  Incorporates technology and web-based innovations, into communication, instruction, and outreach.
+
+•  Participates on RUL-wide committees and working groups, contributing expertise and input on projects, to deliver effective information services.
+
+•  Participates in RWJMS post-graduate resident orientations and training sessions.
+
+•  Works with departments participating on clinical rounds, morning report or other clinical instructional sessions.
+
+•  Produces, updates and maintains Library Research Guides, across health sciences disciplines.
+
+•  Answers reference inquiries, using virtual reference tools including LibAnswers and those submitted via electronic forms on the RWJ Library website.
+
+•  Writes and contributes news items, for distribution to appropriate audiences.
+
+•  Performs other related duties as assigned
 
 
 ### Qualifications###
 
-• Master’s degree in Library Science, plus one (1) year of experience in an academic library or health sciences library, in an academic medical center, is required.
+
+•  Master’s degree in Library Science, plus one (1) year of experience in an academic library or health sciences library, in an academic medical center, is required.
 
 
 

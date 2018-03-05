@@ -19,25 +19,42 @@ The Senior Archivist is responsible for processing, arranging, and describing un
 ### Qualifications###
 
 Required Qualifications:
-•	Masters in Library and Information Science, with a specialization in archival studies and completion of a library cataloging course
-•	Demonstrated understanding of archival collections and principles of arrangement and description through a completed finding aid or other description tool
-•	Strong oral and written communication skills
-•	Ability to work as both independently and as part of a team
-•	Strong organization and time-management skills; attention to accuracy and detail is essential
-•	Familiarity with MARC and EAD; AACR2 and DACS; and with the use and application of standardized vocabularies 
-•	Supervisory experience, either within an archive or another work setting
-•	Ability to lift, bend, and reach boxes or volumes weighing up to 40 lbs repeatedly, including handling these materials while standing on rolling ladders and stepstools.
-•	Ability to work in library stacks in cold temperatures (60-65 degrees Fahrenheit) for up to an eight-hour workday, five days a week
-•	Demonstrated reliable attendance to ensure successful and timely project completion
-•	Experience manipulating datasets for access purposes
+
+• 	Masters in Library and Information Science, with a specialization in archival studies and completion of a library cataloging course
+
+• 	Demonstrated understanding of archival collections and principles of arrangement and description through a completed finding aid or other description tool
+
+• 	Strong oral and written communication skills
+
+• 	Ability to work as both independently and as part of a team
+
+• 	Strong organization and time-management skills; attention to accuracy and detail is essential
+
+• 	Familiarity with MARC and EAD; AACR2 and DACS; and with the use and application of standardized vocabularies 
+
+• 	Supervisory experience, either within an archive or another work setting
+
+• 	Ability to lift, bend, and reach boxes or volumes weighing up to 40 lbs repeatedly, including handling these materials while standing on rolling ladders and stepstools.
+
+• 	Ability to work in library stacks in cold temperatures (60-65 degrees Fahrenheit) for up to an eight-hour workday, five days a week
+
+• 	Demonstrated reliable attendance to ensure successful and timely project completion
+
+• 	Experience manipulating datasets for access purposes
 
 Preferred Qualifications:
-•	3-5 years post-MLS processing experience.
-•	Previous archival processing and description experience, including an understanding of pragmatic and efficient processing procedures.
-•	Undergraduate degree in history. A working knowledge of U. S. history is needed, to determine how collections fit into state and national issues for purposes of cataloging; knowledge of legal processes and terminology; and knowledge of Brooklyn or New York history is preferred. 
-•	Experience handling and providing basic preservation treatments for historic materials.
-•	Experience supporting curatorial and exhibition projects.
-•	Experience instructing students on the use of primary resources within a classroom setting.
+
+• 	3-5 years post-MLS processing experience.
+
+• 	Previous archival processing and description experience, including an understanding of pragmatic and efficient processing procedures.
+
+• 	Undergraduate degree in history. A working knowledge of U. S. history is needed, to determine how collections fit into state and national issues for purposes of cataloging; knowledge of legal processes and terminology; and knowledge of Brooklyn or New York history is preferred. 
+
+• 	Experience handling and providing basic preservation treatments for historic materials.
+
+• 	Experience supporting curatorial and exhibition projects.
+
+• 	Experience instructing students on the use of primary resources within a classroom setting.
 
 
 ### Compensation###

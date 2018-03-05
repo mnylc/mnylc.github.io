@@ -15,11 +15,16 @@ The Adjunct Learning Commons Librarian works to provide direct public service an
 
 ### Responsibilities###
 
-•	Reference Services (in person including assistance with all print and electronic resources and services as well as virtual reference using AskUs 24/7)
-•	Library Instruction sessions and Workshops as needed 
-•	In the absence of other administrators or full-time librarians, the Adjunct Learning Commons Librarian is responsible for the overall supervision of the Library Learning Commons operations including supervision of staff and student assistants. 
-•	Collaborate with Librarians to promote library resources and services to students
-•	Other duties as assigned related to the support of student academic success
+
+• 	Reference Services (in person including assistance with all print and electronic resources and services as well as virtual reference using AskUs 24/7)
+
+• 	Library Instruction sessions and Workshops as needed 
+
+• 	In the absence of other administrators or full-time librarians, the Adjunct Learning Commons Librarian is responsible for the overall supervision of the Library Learning Commons operations including supervision of staff and student assistants. 
+
+• 	Collaborate with Librarians to promote library resources and services to students
+
+• 	Other duties as assigned related to the support of student academic success
 
 
 

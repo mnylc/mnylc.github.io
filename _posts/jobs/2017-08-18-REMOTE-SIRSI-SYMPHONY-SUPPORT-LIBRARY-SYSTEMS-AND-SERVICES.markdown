@@ -23,26 +23,42 @@ If you know SIRSI Symphony, like helping to train others on the basics,  and you
 
 LS&S is seeking one full time SirsiDynix Symphony Help Desk Support staff for the Delaware school libraries. This is a five day per week, eight hour per day position commencing in late August 2017 and lasting approximately six months.   The selected candidate will attend an initial training class in Delaware. Upon completion of the training, the candidate can work from anywhere in the United States, provided you have good telephone and Internet connections, and your own computer.   
 
-• Provide phone and online training and support remotely to school librarians migrating to the Delaware SirsiDynix Symphony statewide catalog and circulation system:
-• Typical types of support include:
-• Checking books in and out
-• Creation, modification and removal of users
-• Placing and removing holds
-• Requesting items from other libraries
-• Adding bib and item records
-• Running standard reports
+
+•  Provide phone and online training and support remotely to school librarians migrating to the Delaware SirsiDynix Symphony statewide catalog and circulation system:
+
+•  Typical types of support include:
+
+•  Checking books in and out
+
+•  Creation, modification and removal of users
+
+•  Placing and removing holds
+
+•  Requesting items from other libraries
+
+•  Adding bib and item records
+
+•  Running standard reports
 
 
 ### Qualifications###
 
-• High school diploma or GED required. Some college preferred
-• ILS or help desk experience required
-• SirsiDynix Symphony experience preferred
-• Two years of related experience in a school or public library preferred
-• Ability to provide training and support over the phone
-• Must be personable and like working with people
-• Must be effective at teaching others the basics of a new automation system via phone
-• Reliable and capable of working independently
+
+•  High school diploma or GED required. Some college preferred
+
+•  ILS or help desk experience required
+
+•  SirsiDynix Symphony experience preferred
+
+•  Two years of related experience in a school or public library preferred
+
+•  Ability to provide training and support over the phone
+
+•  Must be personable and like working with people
+
+•  Must be effective at teaching others the basics of a new automation system via phone
+
+•  Reliable and capable of working independently
 
 
 ### Compensation###

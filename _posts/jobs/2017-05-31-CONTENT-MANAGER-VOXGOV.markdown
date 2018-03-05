@@ -15,19 +15,29 @@ Voxgov is fast growing startup company that collects, organizes, and analyzes te
 
 ### Responsibilities###
 
-• Review content to ensure unwanted material is not included before publishing
-• Work closely with data team to acquire new materials and complete projects
-• Conduct error-free data analysis
+
+•  Review content to ensure unwanted material is not included before publishing
+
+•  Work closely with data team to acquire new materials and complete projects
+
+•  Conduct error-free data analysis
 Requirements
-• Experience and comfort using a computer and sitting in front of a screen for the majority of the
+
+•  Experience and comfort using a computer and sitting in front of a screen for the majority of the
 day
-• Technical skills include familiarity with Microsoft Office Suite and Google Docs; all other needed
+
+•  Technical skills include familiarity with Microsoft Office Suite and Google Docs; all other needed
 software skills will be taught on-site
-• Strong attention to detail
-• Ability to work quickly and efficiently
-• Excellent communication skills
-• An interest in government and politics is not required but is a plus
-• An interest in working for a small, emerging start-up company is a plus
+
+•  Strong attention to detail
+
+•  Ability to work quickly and efficiently
+
+•  Excellent communication skills
+
+•  An interest in government and politics is not required but is a plus
+
+•  An interest in working for a small, emerging start-up company is a plus
 
 
 

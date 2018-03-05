@@ -17,24 +17,37 @@ Skills/Qualifications:
 ### Responsibilities###
 
 Duties:
-•	Provide traditional print and electronic reference services (including online, chat, virtual and text reference) to students and patrons.  
-•	Instruct library patrons in searching print and electronic information resources effectively including the online catalog, subject databases and research guides.
-•	May provide library instruction classes and other workshops as needed.
-•	Act as backup for circulation operations, including student worker supervision, as needed.
-•	Assist patrons with technology issues in the library, including use of computers, printers, laptops, software and other issues.
-•	Collaborate with academic and non-academic units as needed, such as Learning Center
-•	Assist with planning and organizing library programs and student activities and events.
-•	Assist the library in activities and projects related to instruction and assessment.
-•	Perform other professional duties as requested.
+
+• 	Provide traditional print and electronic reference services (including online, chat, virtual and text reference) to students and patrons.  
+
+• 	Instruct library patrons in searching print and electronic information resources effectively including the online catalog, subject databases and research guides.
+
+• 	May provide library instruction classes and other workshops as needed.
+
+• 	Act as backup for circulation operations, including student worker supervision, as needed.
+
+• 	Assist patrons with technology issues in the library, including use of computers, printers, laptops, software and other issues.
+
+• 	Collaborate with academic and non-academic units as needed, such as Learning Center
+
+• 	Assist with planning and organizing library programs and student activities and events.
+
+• 	Assist the library in activities and projects related to instruction and assessment.
+
+• 	Perform other professional duties as requested.
 
 
 ### Qualifications###
 
 Master’s Degree in Library and Information Science from an ALA-accredited institution. Additional subject master’s preferred.
-•	Academic library experience preferred.
-•	Excellent office technology, oral/written communication and interpersonal skills.
-•	Familiarity with and experience with reference and public service within a digital and web environment.
-•	Supervisory experience desirable.
+
+• 	Academic library experience preferred.
+
+• 	Excellent office technology, oral/written communication and interpersonal skills.
+
+• 	Familiarity with and experience with reference and public service within a digital and web environment.
+
+• 	Supervisory experience desirable.
 
 
 

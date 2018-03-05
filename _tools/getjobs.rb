@@ -27,9 +27,11 @@ CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
   description.nil? ? "" : description.gsub!(/(.)\n\*/, "\\1\n\n*") 
   resps = row[4]
   resps.nil? ? resps = "" : resps.gsub!('\*', "\n*") 
+  resps.nil? ? resps = "" : resps.gsub!('•', "\n• ") 
   resps.nil? ? resps = "" : resps.gsub!(/(.)\n\*/, "\\1\n\n*")  
   qualifications = row[5].nil? ? "" : row[5]
   qualifications.nil? ? qualifications = "" : qualifications.gsub!('\*', "\n*") 
+  qualifications.nil? ? qualifications = "" : qualifications.gsub!('•', "\n• ") 
   qualifications.nil? ? qualifications = "" : qualifications.gsub!(/(.)\n\*/, "\\1\n\n*")  
   compensation = row[6]
   compensation.nil? ? compensation = "" : compensation.gsub!('\*', "\n*") 

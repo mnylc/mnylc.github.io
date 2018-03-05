@@ -15,14 +15,22 @@ The Cataloging Assistant will perform both copy cataloging and original catalogi
 
 ### Responsibilities###
 
-•	Copy-catalog pamphlets using OCLC’s Connexion client and the Library’s Integrated Library System (ILS), currently Koha through ByWater Solutions.
-•	Perform original cataloging of pamphlets that do not have pre-existing records in OCLC. 
-•	Assign appropriate subject headings (both LC and MeSH) to the pamphlet materials.
-•	Use thesauri including RBMS controlled vocabularies and AAT.
-•	Assess the condition of the pamphlets and refer problematic items to the conservation lab. Rehouse pamphlets as necessary. 
-•	Maintain statistics about the number of pamphlets cataloged.
-•	Assist with the management of the Library’s catalog, including correcting errors in the catalog and updating location and holdings information.
-•	Contribute to the Library’s social media presence by writing blog posts about pamphlets.
+
+• 	Copy-catalog pamphlets using OCLC’s Connexion client and the Library’s Integrated Library System (ILS), currently Koha through ByWater Solutions.
+
+• 	Perform original cataloging of pamphlets that do not have pre-existing records in OCLC. 
+
+• 	Assign appropriate subject headings (both LC and MeSH) to the pamphlet materials.
+
+• 	Use thesauri including RBMS controlled vocabularies and AAT.
+
+• 	Assess the condition of the pamphlets and refer problematic items to the conservation lab. Rehouse pamphlets as necessary. 
+
+• 	Maintain statistics about the number of pamphlets cataloged.
+
+• 	Assist with the management of the Library’s catalog, including correcting errors in the catalog and updating location and holdings information.
+
+• 	Contribute to the Library’s social media presence by writing blog posts about pamphlets.
 
 
 

@@ -14,15 +14,24 @@ Purchase College, State University of New York seeks an innovative and customer 
 ### Responsibilities###
 
 DUTIES AND RESPONSIBILITIES
-•	Manages daily interlibrary loan operations including setting policies and procedures.
-•	Supervises, trains, and evaluates staff and student assistants   
-•	Ensures ILL copyright compliance
-•	Communicates with faculty and students about resource sharing initiatives and needs
-•	Represents the college in state, regional, and national resource sharing organizations including IDS, a New York state cooperative
-•	Teaches information literacy sessions
-•	Provides reference service (occasional weekends and evenings may be required)
-•	Serves as liaison to academic departments commensurate with subject background. Includes developing and maintaining subject guides and participating in collection development
-•	Collaborates with academic departments on the identification and adoption of open educational resources (OERs)
+
+• 	Manages daily interlibrary loan operations including setting policies and procedures.
+
+• 	Supervises, trains, and evaluates staff and student assistants   
+
+• 	Ensures ILL copyright compliance
+
+• 	Communicates with faculty and students about resource sharing initiatives and needs
+
+• 	Represents the college in state, regional, and national resource sharing organizations including IDS, a New York state cooperative
+
+• 	Teaches information literacy sessions
+
+• 	Provides reference service (occasional weekends and evenings may be required)
+
+• 	Serves as liaison to academic departments commensurate with subject background. Includes developing and maintaining subject guides and participating in collection development
+
+• 	Collaborates with academic departments on the identification and adoption of open educational resources (OERs)
 
 
 
@@ -30,22 +39,33 @@ DUTIES AND RESPONSIBILITIES
 
 
 REQUIRED QUALIFICATIONS
-•	Master's degree in information and/or library science from an ALA-accredited school or an ALA-approved foreign equivalent. 
-•	Strong customer service ethic 
-•	Excellent interpersonal and communication skills 
-•	Demonstrated organizational and problem solving ability
-•	Demonstrated ability to work collaboratively in a collegial setting 
-•	Ability to manage a diverse workload 
-•	Willingness to undertake library and college committee responsibilities, professional development, and scholarship 
+
+• 	Master's degree in information and/or library science from an ALA-accredited school or an ALA-approved foreign equivalent. 
+
+• 	Strong customer service ethic 
+
+• 	Excellent interpersonal and communication skills 
+
+• 	Demonstrated organizational and problem solving ability
+
+• 	Demonstrated ability to work collaboratively in a collegial setting 
+
+• 	Ability to manage a diverse workload 
+
+• 	Willingness to undertake library and college committee responsibilities, professional development, and scholarship 
 
 PREFERRED QUALIFICATIONS
-•	Relevant library experience
 
-•	Supervisory experience 
+• 	Relevant library experience
 
-•	Teaching experience
 
-•	Knowledge of interlibrary loan practices. 
+• 	Supervisory experience 
+
+
+• 	Teaching experience
+
+
+• 	Knowledge of interlibrary loan practices. 
 
 
 

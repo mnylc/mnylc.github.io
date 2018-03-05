@@ -26,10 +26,14 @@ Those duties might include:
 
 ### Responsibilities###
 
-• The position is open to current graduate students in a humanities or social science field who are eligible for on-campus employment.
-• Successful applicants will be highly motivated individuals with a strong interest in digital humanities work within an academic or GLAM (galleries, libraries, archives, and museums) setting.
-• Knowledge of one or more digital humanities research methodologies is required.
-• Intellectual curiosity.
+
+•  The position is open to current graduate students in a humanities or social science field who are eligible for on-campus employment.
+
+•  Successful applicants will be highly motivated individuals with a strong interest in digital humanities work within an academic or GLAM (galleries, libraries, archives, and museums) setting.
+
+•  Knowledge of one or more digital humanities research methodologies is required.
+
+•  Intellectual curiosity.
 
 
 ### Qualifications###

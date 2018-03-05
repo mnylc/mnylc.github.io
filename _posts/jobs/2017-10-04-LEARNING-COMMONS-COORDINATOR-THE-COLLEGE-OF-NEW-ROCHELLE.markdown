@@ -13,16 +13,26 @@ Gill Library at The College of New Rochelle invites applications for the positio
 
 ### Responsibilities###
 
-•	Liaises all retention services staff including campus directors, tutoring, writing, career services and disability services; 
-•	Participate in the design and implementation of programs, initiatives, and outreach activities at the library learning commons, college, and beyond.  
-•	Creates a dynamic and innovative Learning Commons environment based upon current research and best practices
-•	Directs and supervises all aspects of staffing including scheduling, training and evaluating Library Learning Commons staff at all campuses.
-•	Together with the Dean, develops and implements the strategic and operative plans for the Library Learning Commons
-•	Oversee all technology in the Learning Commons and manages student retention software (Starfish) 
-•	Prepares reports, communicates and collaborates with campus academic units to develop programs and services that lead to student academic success at all campuses
-•	Teach information literacy credit-bearing course the embedded librarianship program as needed by collaborating with faculty to integrate digital and information literacy into the curriculum and to prepare active learning based instructional modules to meet student learning needs.
-•	Participate in the provision of research services to library users on site and remotely
-•	Other duties as assigned by the Dean of the Library
+
+• 	Liaises all retention services staff including campus directors, tutoring, writing, career services and disability services; 
+
+• 	Participate in the design and implementation of programs, initiatives, and outreach activities at the library learning commons, college, and beyond.  
+
+• 	Creates a dynamic and innovative Learning Commons environment based upon current research and best practices
+
+• 	Directs and supervises all aspects of staffing including scheduling, training and evaluating Library Learning Commons staff at all campuses.
+
+• 	Together with the Dean, develops and implements the strategic and operative plans for the Library Learning Commons
+
+• 	Oversee all technology in the Learning Commons and manages student retention software (Starfish) 
+
+• 	Prepares reports, communicates and collaborates with campus academic units to develop programs and services that lead to student academic success at all campuses
+
+• 	Teach information literacy credit-bearing course the embedded librarianship program as needed by collaborating with faculty to integrate digital and information literacy into the curriculum and to prepare active learning based instructional modules to meet student learning needs.
+
+• 	Participate in the provision of research services to library users on site and remotely
+
+• 	Other duties as assigned by the Dean of the Library
 
 
 

@@ -17,12 +17,18 @@ The Director is a senior faculty member and administrator who plays a critical r
 
 ### Responsibilities###
 
-• Develops a vision for the Paul Robeson Library that—like the university it serves—is innovative and focused on excellence in research and student success.
-• Leads the planning and development of strategic resources, facilities, and services to serve the research and informational needs of a diverse population of students and scholars at Rutgers University–Camden.
-• Provides system-wide leadership within the Rutgers University Libraries by setting priorities and developing the infrastructure necessary to support a large complex organization in a rapidly changing environment.
-• Manages an annual budget of over $2 million, including local and system-wide resources.
-• Fosters professional growth and accomplishment for library faculty and staff; has direct responsibility for personnel matters including the recruitment, appointment, and evaluation of 7 librarians with faculty status and 10 staff.
-• Champions the Rutgers University Libraries system-wide resources and services and the Paul Robeson Library to the chancellor, provost, deans, department chairs, program directors, and faculty of Rutgers
+
+•  Develops a vision for the Paul Robeson Library that—like the university it serves—is innovative and focused on excellence in research and student success.
+
+•  Leads the planning and development of strategic resources, facilities, and services to serve the research and informational needs of a diverse population of students and scholars at Rutgers University–Camden.
+
+•  Provides system-wide leadership within the Rutgers University Libraries by setting priorities and developing the infrastructure necessary to support a large complex organization in a rapidly changing environment.
+
+•  Manages an annual budget of over $2 million, including local and system-wide resources.
+
+•  Fosters professional growth and accomplishment for library faculty and staff; has direct responsibility for personnel matters including the recruitment, appointment, and evaluation of 7 librarians with faculty status and 10 staff.
+
+•  Champions the Rutgers University Libraries system-wide resources and services and the Paul Robeson Library to the chancellor, provost, deans, department chairs, program directors, and faculty of Rutgers
 University–Camden.
 
 Key skills include communication and outreach to all interest groups relevant to the Paul Robeson Library; collaboration and consensus building; mentoring; innovation; advocacy; strategic planning; budgeting; effective delegation; fundraising and commitment to fostering diversity.

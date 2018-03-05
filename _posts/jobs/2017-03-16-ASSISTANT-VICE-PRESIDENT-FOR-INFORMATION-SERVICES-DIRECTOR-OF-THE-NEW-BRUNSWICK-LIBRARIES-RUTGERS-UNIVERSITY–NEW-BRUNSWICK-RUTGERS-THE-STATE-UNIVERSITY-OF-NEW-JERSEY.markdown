@@ -15,12 +15,18 @@ Faculty status with a calendar year appointment. Benefits include retirement pla
 
 ### Responsibilities###
 
-•Fosters professional growth and accomplishment for library faculty and staff; has direct responsibility for personnel matters, including the recruitment, appointment, and evaluation of 36 librarians and archivists with faculty status, 70 staff, and student and hourly support staff.
-•Manages an annual budget of over $8M ($7.5M salaries, $500K operations).
-•Leads the strategic planning and development of resources, facilities, and services to serve the research and informational needs of a diverse population of students and scholars at Rutgers–New Brunswick. RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY
-•Provides leadership and vision for the development, organization, preservation, and conservation of Special Collections and University Archives.
-•Provides leadership within Rutgers University Libraries, setting priorities and developing the infrastructure necessary to support a large,complex organization in a rapidly changing environment.
-•Champions Rutgers University Libraries’ resources and servi
+
+• Fosters professional growth and accomplishment for library faculty and staff; has direct responsibility for personnel matters, including the recruitment, appointment, and evaluation of 36 librarians and archivists with faculty status, 70 staff, and student and hourly support staff.
+
+• Manages an annual budget of over $8M ($7.5M salaries, $500K operations).
+
+• Leads the strategic planning and development of resources, facilities, and services to serve the research and informational needs of a diverse population of students and scholars at Rutgers–New Brunswick. RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY
+
+• Provides leadership and vision for the development, organization, preservation, and conservation of Special Collections and University Archives.
+
+• Provides leadership within Rutgers University Libraries, setting priorities and developing the infrastructure necessary to support a large,complex organization in a rapidly changing environment.
+
+• Champions Rutgers University Libraries’ resources and servi
 ces and the New Brunswick Libraries to the chancellor, provost, deans, department chairs, program directors, and faculty of Rutgers–New Brunswick.
 
 

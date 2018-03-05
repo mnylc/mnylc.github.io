@@ -14,11 +14,16 @@ The Rutgers University Libraries seek a collaborative, creative, and user-focuse
 ### Responsibilities###
 
 The key responsibilities of the Virtual Reference Services Librarian are to:
-• Coordinate, promote, and establish appropriate staffing and coverage for virtual reference services, and actively participate in all modes of scheduled reference activities (face to face, chat, and email)
-• Identify underserved users, programs, and domains, and institute alternative or supplementary virtual references services to a diverse user community, including users with disabilities
-• Provide support and training for staff and librarians who participate in virtual reference services, institute best practices, and develop resources for the effective delivery of virtual reference
-• Conduct continuous analysis and evaluation of virtual reference services through usage and transaction data to improve services, identify underserved users, programs, and domains, respond to staffing and coverage patterns, and support local library assessments
-• Investigate and initiate new modes of virtual reference services in response to changing user needs, technologies, and delivery channels
+
+•  Coordinate, promote, and establish appropriate staffing and coverage for virtual reference services, and actively participate in all modes of scheduled reference activities (face to face, chat, and email)
+
+•  Identify underserved users, programs, and domains, and institute alternative or supplementary virtual references services to a diverse user community, including users with disabilities
+
+•  Provide support and training for staff and librarians who participate in virtual reference services, institute best practices, and develop resources for the effective delivery of virtual reference
+
+•  Conduct continuous analysis and evaluation of virtual reference services through usage and transaction data to improve services, identify underserved users, programs, and domains, respond to staffing and coverage patterns, and support local library assessments
+
+•  Investigate and initiate new modes of virtual reference services in response to changing user needs, technologies, and delivery channels
 
 This position will collaborate with librarians and staff across multiple locations, disciplines, and functional areas of the library to deliver effective virtual reference services. This position will lead a library-wide virtual reference services committee that will inform all aspects of virtual reference: identify current issues, investigate options, recommend changes, define best practices and standards, specify resource and infrastructure needs, and establish usability and assessment protocols.
 

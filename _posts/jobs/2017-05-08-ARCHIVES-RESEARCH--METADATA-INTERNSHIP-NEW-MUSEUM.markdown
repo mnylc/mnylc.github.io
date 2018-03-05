@@ -13,24 +13,37 @@ The New Museum seeks a Archives Research and Metadata Intern in preparation for 
 
 ### Responsibilities###
 
-•	Auditing image records in the Digital Archive database and performing metadata clean up on description and captioning fields. Correcting formatting errors.
-•	Performing historical research referencing records held in the Museum’s Archives.
-•	Identifying subjects and events in archival photographs.
-•	Performing batch edits in the Collective Access backend database to add metadata to newly configured fields.
-•	Adding custom subject headings to selected exhibition and event records.
-•	Assisting with digitization workflows, as needed.
+
+• 	Auditing image records in the Digital Archive database and performing metadata clean up on description and captioning fields. Correcting formatting errors.
+
+• 	Performing historical research referencing records held in the Museum’s Archives.
+
+• 	Identifying subjects and events in archival photographs.
+
+• 	Performing batch edits in the Collective Access backend database to add metadata to newly configured fields.
+
+• 	Adding custom subject headings to selected exhibition and event records.
+
+• 	Assisting with digitization workflows, as needed.
 
 
 
 ### Qualifications###
 
-•	Experience performing archival research and familiarity with handling of archival photos and documents.
-•	Background in art history, particularly contemporary art and performance.
-•	Experience cataloging in a content management system or OPAC, especially Collective Access. 
-•	Familiarity with digitization specifications and media formats.
-•	Ability to work in a fast-paced production environment and make workflow changes on the fly. 
-•	Bachelor’s degree or graduate coursework in Art History or Library/Archival Science, preferred but not required.
-•	Editorial and academic writing/publishing experience, a plus. Experience with Adobe Creative Suite, also a plus.
+
+• 	Experience performing archival research and familiarity with handling of archival photos and documents.
+
+• 	Background in art history, particularly contemporary art and performance.
+
+• 	Experience cataloging in a content management system or OPAC, especially Collective Access. 
+
+• 	Familiarity with digitization specifications and media formats.
+
+• 	Ability to work in a fast-paced production environment and make workflow changes on the fly. 
+
+• 	Bachelor’s degree or graduate coursework in Art History or Library/Archival Science, preferred but not required.
+
+• 	Editorial and academic writing/publishing experience, a plus. Experience with Adobe Creative Suite, also a plus.
 
 
 

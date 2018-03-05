@@ -18,32 +18,52 @@ Directs and oversees the coordination, development, and implementation of progra
 ### Responsibilities###
 
 Position duties
-•	Maintains, develops and conducts adult programs and outreach services to target populations, both served and underserved in the community.
-•	Develops partnerships and collaborates with community groups to identify outreach opportunities and activities.
-•	Prepares community analysis and conducts research regarding current and future programming and outreach needs; makes recommendations on best practices for conducting these services.
-•	Participates in effective marketing of Library's programs and services for adults.
-•	Writes grants related to adult programming, services and community engagement efforts.
-•	Serves as liaison to the Friends of the Newburgh Library and provides program support.
-•	Supervises two (2) part-time Library Assistants.
-•	Other duties as assigned.
+
+• 	Maintains, develops and conducts adult programs and outreach services to target populations, both served and underserved in the community.
+
+• 	Develops partnerships and collaborates with community groups to identify outreach opportunities and activities.
+
+• 	Prepares community analysis and conducts research regarding current and future programming and outreach needs; makes recommendations on best practices for conducting these services.
+
+• 	Participates in effective marketing of Library's programs and services for adults.
+
+• 	Writes grants related to adult programming, services and community engagement efforts.
+
+• 	Serves as liaison to the Friends of the Newburgh Library and provides program support.
+
+• 	Supervises two (2) part-time Library Assistants.
+
+• 	Other duties as assigned.
 Knowledge/Skills/Qualities
-•	Knowledge of recreational interests and educational needs of the community and ability to translate these into effective library services, both in current and long-range planning.
-•	Ability to work with diverse service population, staff, community members and organizations.
-•	Excellent written and oral communication skills.
-•	Accuracy, time management, organizational skills and attention to detail are priorities.
-•	Ability to schedule staff and workflow for maximum effectiveness.
-•	Self-starter who is enthusiastic about promoting library to a wider audience.
-•	Preference will be given to those with prior supervisory experience and/or significant programming and outreach experience.
-•	Ability to work a flexible schedule and at locations outside of the Library.
+
+• 	Knowledge of recreational interests and educational needs of the community and ability to translate these into effective library services, both in current and long-range planning.
+
+• 	Ability to work with diverse service population, staff, community members and organizations.
+
+• 	Excellent written and oral communication skills.
+
+• 	Accuracy, time management, organizational skills and attention to detail are priorities.
+
+• 	Ability to schedule staff and workflow for maximum effectiveness.
+
+• 	Self-starter who is enthusiastic about promoting library to a wider audience.
+
+• 	Preference will be given to those with prior supervisory experience and/or significant programming and outreach experience.
+
+• 	Ability to work a flexible schedule and at locations outside of the Library.
 
 
 
 ### Qualifications###
 
-•	Master’s degree in Library Science from an ALA accredited program.
-•	NYS Public Library Certificate.
-•	Knowledge of current trends in library procedures and practices.
-•	Proficient knowledge of social media and current information services technology.
+
+• 	Master’s degree in Library Science from an ALA accredited program.
+
+• 	NYS Public Library Certificate.
+
+• 	Knowledge of current trends in library procedures and practices.
+
+• 	Proficient knowledge of social media and current information services technology.
 
 
 

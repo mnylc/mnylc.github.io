@@ -27,14 +27,22 @@ The Outreach Archivist will be based out of the Brooklyn Collection at BPL’s C
 ### Responsibilities###
 
 Coordinate with Brooklyn Public Library staff and local community partners to plan and conduct six oral history and community scanning events
-•Travel with mobile digitization equipment of up to 40 pounds to and from Brooklyn Public Library branches, via public transportation and car service
-•Serve as an advocate and promoter of the oral history/community scanning initiative to the public, BPL staff, and Friends groups
-•Connect community members with relevant information about BPL services, resources and programs
-•Digitize print materials (scanning and digital photography) and process images in Photoshop
-•Conduct and digitally record oral history interviews
-•Create, update, and enhance metadata for the digitized items
-•Conduct the archival processing, the creation of metadata and the ingest of assets into Brooklyn Public Library’s digital collection management platform
-•Conduct assessment and track feedback, statistics, and budgeting
+
+• Travel with mobile digitization equipment of up to 40 pounds to and from Brooklyn Public Library branches, via public transportation and car service
+
+• Serve as an advocate and promoter of the oral history/community scanning initiative to the public, BPL staff, and Friends groups
+
+• Connect community members with relevant information about BPL services, resources and programs
+
+• Digitize print materials (scanning and digital photography) and process images in Photoshop
+
+• Conduct and digitally record oral history interviews
+
+• Create, update, and enhance metadata for the digitized items
+
+• Conduct the archival processing, the creation of metadata and the ingest of assets into Brooklyn Public Library’s digital collection management platform
+
+• Conduct assessment and track feedback, statistics, and budgeting
 
 
 
@@ -42,17 +50,28 @@ Coordinate with Brooklyn Public Library staff and local community partners to pl
 
 
 Master’s Degree in Library/Information Science or pursuing coursework to obtain the degree, required
-•Experience working in a library, archive, or cultural heritage organization.
-•Leadership skills and the ability to take ownership of a project within a complex administrative structure
-•Proven proficiency in project management, communication, and outreach activities including public event planning, promotion, and social media
-•Experience handling delicate and rare/valuable special collection or archival materials 
-•Working knowledge of digitization systems, standards and technology 
-•Experience with scanning and digital photography software including a working knowledge of Adobe Photoshop
-•Experience with digital audio recording and uploading to SoundCloud, Libsyn or similar platforms 
-•Working knowledge of library/archival metadata standards and practices. Some cataloging experience or coursework
-•Familiarity with copyright as it relates to digitization of cultural heritage materials
-•High level of organizational skill with keen attention to detail
-•Excellent interpersonal skills, flexibility, and the ability to work independently as well as collaboratively with a variety of project stakeholders
+
+• Experience working in a library, archive, or cultural heritage organization.
+
+• Leadership skills and the ability to take ownership of a project within a complex administrative structure
+
+• Proven proficiency in project management, communication, and outreach activities including public event planning, promotion, and social media
+
+• Experience handling delicate and rare/valuable special collection or archival materials 
+
+• Working knowledge of digitization systems, standards and technology 
+
+• Experience with scanning and digital photography software including a working knowledge of Adobe Photoshop
+
+• Experience with digital audio recording and uploading to SoundCloud, Libsyn or similar platforms 
+
+• Working knowledge of library/archival metadata standards and practices. Some cataloging experience or coursework
+
+• Familiarity with copyright as it relates to digitization of cultural heritage materials
+
+• High level of organizational skill with keen attention to detail
+
+• Excellent interpersonal skills, flexibility, and the ability to work independently as well as collaboratively with a variety of project stakeholders
 
 This position is grant-funded through 3/30/19.
 

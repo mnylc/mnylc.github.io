@@ -21,11 +21,16 @@ Other technical services duties as assigned.
 
 ### Qualifications###
 
-•	MLS required
-•	Minimum of two years cataloging experience in academic library
-•	Working knowledge of RDA, AACR2, LC Classification, LSCH, Marc21, and OCLC
-•	Ability to work independently with minimal supervision
-•	Familiarity with cataloging in languages other than English a plus - but not required
+
+• 	MLS required
+
+• 	Minimum of two years cataloging experience in academic library
+
+• 	Working knowledge of RDA, AACR2, LC Classification, LSCH, Marc21, and OCLC
+
+• 	Ability to work independently with minimal supervision
+
+• 	Familiarity with cataloging in languages other than English a plus - but not required
 
 
 

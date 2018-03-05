@@ -15,12 +15,18 @@ The NYU School of Professional Studies offers master's degree programs and gradu
 ### Responsibilities###
 
 Working in a collaborative environment this tenure-track position will:
-•	Build a program of extensive instructional, consultation, and research support services
-•	Develop responsive and innovative information services
-•	Outreach to faculty and administrators in the School of Professional Studies.
-•	Create and deliver outreach methods to students (such as consultation hours, social networking forums, and in-library/online services development)
-•	Develop information literacy and research proficiencies programming
-•	Engage students and faculty as active users of NYU Libraries services and collections.  
+
+• 	Build a program of extensive instructional, consultation, and research support services
+
+• 	Develop responsive and innovative information services
+
+• 	Outreach to faculty and administrators in the School of Professional Studies.
+
+• 	Create and deliver outreach methods to students (such as consultation hours, social networking forums, and in-library/online services development)
+
+• 	Develop information literacy and research proficiencies programming
+
+• 	Engage students and faculty as active users of NYU Libraries services and collections.  
 
 This position is a member of the business team and reports to the Head of Business and Government Information Services in the Public Services Division of NYU Libraries.    The position is engaged in and contributes to the highly collaborative work of the department and the NYU Libraries.  The Instruction and Outreach Librarian works with colleagues at the Bobst and Brause Libraries to implement and enhance programs and services, deliver physical and virtual research and reference services, and take a leadership role on projects and initiatives as appropriate.  
 
@@ -28,9 +34,12 @@ This position is a member of the business team and reports to the Head of Busine
 ### Qualifications###
 
 Required: 
-•	Minimum one graduate degree (master’s level or higher) for consideration. A second graduate degree will be required for tenure review. One of the two graduate degrees must be an ALA-accredited MLS or equivalent. 
-•	Experience in library instruction, reference, and outreach in an academic setting.  
-•	Exhibit a strong public service orientation, a high degree of facility with technologies germane to the 21st century library and today’s learners.  
+
+• 	Minimum one graduate degree (master’s level or higher) for consideration. A second graduate degree will be required for tenure review. One of the two graduate degrees must be an ALA-accredited MLS or equivalent. 
+
+• 	Experience in library instruction, reference, and outreach in an academic setting.  
+
+• 	Exhibit a strong public service orientation, a high degree of facility with technologies germane to the 21st century library and today’s learners.  
 Preference will be given to candidates with demonstrated experience in an academic library environment.
 Professional contributions beyond the primary job, such as publications, leadership in professional organizations, and other research and creative activity, are required for tenure. 
 

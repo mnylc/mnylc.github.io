@@ -15,17 +15,24 @@ The Library Data & Information Specialist reports to the Assistant Director and 
 
 ### Responsibilities###
 
-•	Conduct surveys and collect and analyze data relevant to NLS and member library programs, services, and business operations.
-•	Present and explain data and data trends both in person and in written reports, charts, graphs, and other data visualizations; Distribute findings to stakeholders and produce relevant web content. 
-•	Prepare pricing information for products cooperatively purchased by NLS for distribution to member libraries and confirm orders.  
-•	Review member library annual report data, applications for Public Library Construction Aid, and other information for accuracy and adherence to state guidelines.
+
+• 	Conduct surveys and collect and analyze data relevant to NLS and member library programs, services, and business operations.
+
+• 	Present and explain data and data trends both in person and in written reports, charts, graphs, and other data visualizations; Distribute findings to stakeholders and produce relevant web content. 
+
+• 	Prepare pricing information for products cooperatively purchased by NLS for distribution to member libraries and confirm orders.  
+
+• 	Review member library annual report data, applications for Public Library Construction Aid, and other information for accuracy and adherence to state guidelines.
 
 
 ### Qualifications###
 
-•	Education and Experience – MLS degree preferred but will consider applicants with relevant skills and experience; Bachelor’s degree required; Demonstrated experience collecting, analyzing, and presenting data. 
-•	Technology – Fluency with with Microsoft Office suite (including advanced Excel skills) and online survey tools; Experience using web content management systems (particularly WordPress) strongly preferred; Ability to represent data in charts, graphs, and other visualizations.
-•	Communication and Organization – Communicates effectively verbally and in writing; Attentive to detail; Self-motivated to handle multiple assignments independently and also able to work as part of a team.
+
+• 	Education and Experience – MLS degree preferred but will consider applicants with relevant skills and experience; Bachelor’s degree required; Demonstrated experience collecting, analyzing, and presenting data. 
+
+• 	Technology – Fluency with with Microsoft Office suite (including advanced Excel skills) and online survey tools; Experience using web content management systems (particularly WordPress) strongly preferred; Ability to represent data in charts, graphs, and other visualizations.
+
+• 	Communication and Organization – Communicates effectively verbally and in writing; Attentive to detail; Self-motivated to handle multiple assignments independently and also able to work as part of a team.
 
 
 ### Compensation###

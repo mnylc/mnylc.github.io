@@ -13,36 +13,53 @@ Icahn School of Medicine at Mount Sinai’s Levy Library is seeking dynamic cand
 
 ### Responsibilities###
 
-•	Serve as Levy Library’s reference management expert, assisting users through training sessions and consultations. (20%)
 
-•	Participate in Levy Library’s Ask-A-Librarian service answering reference questions from students, faculty, physicians, nurses, housestaff and others within the Mount Sinai community. (20%)
+• 	Serve as Levy Library’s reference management expert, assisting users through training sessions and consultations. (20%)
 
-•	Maintain and enhance LibAnswers knowledgebase, LibGuides content, and digital learning content pertaining to areas of responsibility. (25%)
 
-•	Manage Levy Library’s open class offerings, providing instruction to students, faculty and staff on effective use of library resources, citation management tools and a variety of topics pertaining to scholarly publishing. (15%)
+• 	Participate in Levy Library’s Ask-A-Librarian service answering reference questions from students, faculty, physicians, nurses, housestaff and others within the Mount Sinai community. (20%)
 
-•	Develop and maintain awareness of current trends and best practices in reference and instruction services, within and beyond the medical library community. (10%) 
 
-•	Manage electronic deposit of Graduate School of Biomedical Sciences theses and dissertations, including maintaining documentation and assisting students through the process. (10%)
+• 	Maintain and enhance LibAnswers knowledgebase, LibGuides content, and digital learning content pertaining to areas of responsibility. (25%)
+
+
+• 	Manage Levy Library’s open class offerings, providing instruction to students, faculty and staff on effective use of library resources, citation management tools and a variety of topics pertaining to scholarly publishing. (15%)
+
+
+• 	Develop and maintain awareness of current trends and best practices in reference and instruction services, within and beyond the medical library community. (10%) 
+
+
+• 	Manage electronic deposit of Graduate School of Biomedical Sciences theses and dissertations, including maintaining documentation and assisting students through the process. (10%)
 
 
 
 ### Qualifications###
 
 Required:
-•	MLS/MLIS from an ALA-accredited program required
-•	Strong customer service orientation
-•	Proficient written and spoken communication skills
-•	Excellent interpersonal and organizational skills
-•	Demonstrated aptitude for teaching
-•	Ability to work independently and collaboratively
+
+• 	MLS/MLIS from an ALA-accredited program required
+
+• 	Strong customer service orientation
+
+• 	Proficient written and spoken communication skills
+
+• 	Excellent interpersonal and organizational skills
+
+• 	Demonstrated aptitude for teaching
+
+• 	Ability to work independently and collaboratively
 
 Preferred:
-•	Familiarity with LibApps platform (LibGuides, LibAnswers, etc.)
-•	Familiarity with Evidence-Based Medicine (EBM) practice model
-•	Experience with EndNote, Zotero and other reference management tools
-•	Experience using biomedical and interdisciplinary resources such as PubMed/MEDLINE, CINAHL, and Web of Science
-•	Experience providing library reference and instruction services in an academic and/or medical library setting
+
+• 	Familiarity with LibApps platform (LibGuides, LibAnswers, etc.)
+
+• 	Familiarity with Evidence-Based Medicine (EBM) practice model
+
+• 	Experience with EndNote, Zotero and other reference management tools
+
+• 	Experience using biomedical and interdisciplinary resources such as PubMed/MEDLINE, CINAHL, and Web of Science
+
+• 	Experience providing library reference and instruction services in an academic and/or medical library setting
 
 
 

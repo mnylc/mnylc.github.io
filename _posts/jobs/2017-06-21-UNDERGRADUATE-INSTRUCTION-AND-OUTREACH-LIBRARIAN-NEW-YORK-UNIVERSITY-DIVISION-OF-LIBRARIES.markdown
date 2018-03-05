@@ -21,25 +21,43 @@ Librarians play a key role in the educational mission of NYU by establishing str
 ### Qualifications###
 
 Required 
-• ALA accredited MLS/MLIS and additional Master’s degree required for tenure.
-• At least three years of experience teaching and providing reference service to undergraduates in a library environment. 
-• Demonstrated knowledge of learning theory and information literacy trends. 
-• Ability to build and sustain partnerships with internal stakeholders (e.g. disciplinary liaison librarians, data specialists, digital scholarship experts, etc.) and external stakeholders (e.g. faculty members, teaching centers, writing centers, peer-learning programs, etc.).  
-• Experience planning and implementing collaborative projects. 
-• Proficiency in using technology to achieve pedagogical goals.
-• Demonstrated understanding of practices and principles for assessing student learning. 
-• Knowledge and skills to co-lead a community of practice for instruction across the Libraries.
-• Evidence of scholarly contributions to instructional librarianship and potential for sustained impact in the field. 
+
+•  ALA accredited MLS/MLIS and additional Master’s degree required for tenure.
+
+•  At least three years of experience teaching and providing reference service to undergraduates in a library environment. 
+
+•  Demonstrated knowledge of learning theory and information literacy trends. 
+
+•  Ability to build and sustain partnerships with internal stakeholders (e.g. disciplinary liaison librarians, data specialists, digital scholarship experts, etc.) and external stakeholders (e.g. faculty members, teaching centers, writing centers, peer-learning programs, etc.).  
+
+•  Experience planning and implementing collaborative projects. 
+
+•  Proficiency in using technology to achieve pedagogical goals.
+
+•  Demonstrated understanding of practices and principles for assessing student learning. 
+
+•  Knowledge and skills to co-lead a community of practice for instruction across the Libraries.
+
+•  Evidence of scholarly contributions to instructional librarianship and potential for sustained impact in the field. 
 Preferred
-• Advanced degree in the social sciences or humanities.
-• Five years experience teaching and providing reference service to undergraduates in a library environment. 
-• Experience creating digital learning objects or delivering online instruction. 
-• Experience with scaling instructional efforts (i.e. curriculum mapping, impact assessment, etc.).  
-• Knowledge of the landscape surrounding affordable and open educational resources (OER). 
-• Experience working with information literacy campus partners, such as: academic departments, teaching centers, writing centers, peer-learning programs, etc. 
-• Experience with social media and tools for outreach. 
-• Experience supervising people or managing projects. 
-• Active in professional organizations. 
+
+•  Advanced degree in the social sciences or humanities.
+
+•  Five years experience teaching and providing reference service to undergraduates in a library environment. 
+
+•  Experience creating digital learning objects or delivering online instruction. 
+
+•  Experience with scaling instructional efforts (i.e. curriculum mapping, impact assessment, etc.).  
+
+•  Knowledge of the landscape surrounding affordable and open educational resources (OER). 
+
+•  Experience working with information literacy campus partners, such as: academic departments, teaching centers, writing centers, peer-learning programs, etc. 
+
+•  Experience with social media and tools for outreach. 
+
+•  Experience supervising people or managing projects. 
+
+•  Active in professional organizations. 
 
 
 ### Compensation###

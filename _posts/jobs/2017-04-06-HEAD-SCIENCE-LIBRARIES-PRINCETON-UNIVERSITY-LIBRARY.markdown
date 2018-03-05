@@ -29,18 +29,28 @@ The successful candidate will provide vision, leadership and a collaborative wor
 ### Qualifications###
 
 Required Qualifications:
-•	An ALA-accredited Master’s degree in library/information science OR equivalent combination of education and professional library experience. 
-•	Minimum 3 years professional library work in an academic or research library supporting science teaching and research.
-•	Demonstrated ability to provide leadership and direction in a research library.
-•	In-depth knowledge of research tools in the sciences.
-•	Excellent communication and interpersonal skills, ability to work successfully and collaboratively with a diverse group of scholars and colleagues.
+
+• 	An ALA-accredited Master’s degree in library/information science OR equivalent combination of education and professional library experience. 
+
+• 	Minimum 3 years professional library work in an academic or research library supporting science teaching and research.
+
+• 	Demonstrated ability to provide leadership and direction in a research library.
+
+• 	In-depth knowledge of research tools in the sciences.
+
+• 	Excellent communication and interpersonal skills, ability to work successfully and collaboratively with a diverse group of scholars and colleagues.
 
 Strongly Preferred: 	
-•	Undergraduate or graduate degree in a science or engineering subject. 
-•	Experience with managing a branch library or library department.
-•	Experience supervising professional staff in an academic setting.
-•	Familiarity with the Scholarly Communications process and directions.
-•	Ability to work effectively in a rapidly changing environment.
+
+• 	Undergraduate or graduate degree in a science or engineering subject. 
+
+• 	Experience with managing a branch library or library department.
+
+• 	Experience supervising professional staff in an academic setting.
+
+• 	Familiarity with the Scholarly Communications process and directions.
+
+• 	Ability to work effectively in a rapidly changing environment.
 
 
 ### Compensation###

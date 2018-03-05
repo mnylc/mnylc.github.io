@@ -18,10 +18,14 @@ Interns will be given the opportunity to pilot records through the entire digiti
 
 ### Qualifications###
 
-•	Intern must be a current student in an MLS program from an accredited institution.
-•	Must have familiarity with Microsoft Office applications, namely Excel and Word.
-•	Experience handling fragile documents and/or rare books preferred. 
-•	Open communication skills and attention to detail.
+
+• 	Intern must be a current student in an MLS program from an accredited institution.
+
+• 	Must have familiarity with Microsoft Office applications, namely Excel and Word.
+
+• 	Experience handling fragile documents and/or rare books preferred. 
+
+• 	Open communication skills and attention to detail.
 
 
 

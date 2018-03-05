@@ -15,9 +15,12 @@ New York University’s Center for the United States and the Cold War is a commu
 ### Responsibilities###
 
 Under the general supervision of the Head of the Tamiment Library and Robert F. Wagner Labor Archives, the successful candidate will:  
-•	Research, make recommendations, build and maintain websites that feature Tamiment's oral, print, and photo/film history collections
-•	Devise a plan for the digitization of all oral history collections.
-•	Coordinate exhibits and social media aspects (FB, Twitter, and a blog) of Tamiment's outreach.
+
+• 	Research, make recommendations, build and maintain websites that feature Tamiment's oral, print, and photo/film history collections
+
+• 	Devise a plan for the digitization of all oral history collections.
+
+• 	Coordinate exhibits and social media aspects (FB, Twitter, and a blog) of Tamiment's outreach.
 
 
 ### Qualifications###

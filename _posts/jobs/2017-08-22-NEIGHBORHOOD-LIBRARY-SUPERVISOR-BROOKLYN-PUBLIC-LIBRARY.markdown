@@ -18,38 +18,65 @@ The Mill Basin Branch will be reopening in the Fall of 2017 after being closed f
 
 ### Responsibilities###
 
-•Work collaboratively to ensure continuity in service to the public
-•First rater for LIS & LCS, second rater for line librarians, office aides and custodians
-•Resolve patron complaints and inquiries & makes decisions on waiving fines and fees
-•Responsible for branch staffing needs; conduct interviews & make recommendations for hire
-•Oversee the development of new and existing branch staff through training and coaching
-•Provide direct public service at all service points & the delivery of relevant programs 
-•Work collaboratively with on-site custodial and safety staff; manage safety of the branch 
-•Develop an annual branch work plan which includes goals, objectives, measurable outcomes; schedule on-going staff meetings to promote professionalism and teamwork 
-•Monitor daily and monthly reports (branch budgets, time and leave, circulation, programming statistics, holds, status g, missing & lost, c-fly, long in transit, etc.) and petty cash
-•Responsible for collection maintenance and weeding
-•Identify emerging trends and new user groups 
-•Expected to take a share of all shifts, including mornings, late nights, and Saturdays
-•Other duties as assigned
+
+• Work collaboratively to ensure continuity in service to the public
+
+• First rater for LIS & LCS, second rater for line librarians, office aides and custodians
+
+• Resolve patron complaints and inquiries & makes decisions on waiving fines and fees
+
+• Responsible for branch staffing needs; conduct interviews & make recommendations for hire
+
+• Oversee the development of new and existing branch staff through training and coaching
+
+• Provide direct public service at all service points & the delivery of relevant programs 
+
+• Work collaboratively with on-site custodial and safety staff; manage safety of the branch 
+
+• Develop an annual branch work plan which includes goals, objectives, measurable outcomes; schedule on-going staff meetings to promote professionalism and teamwork 
+
+• Monitor daily and monthly reports (branch budgets, time and leave, circulation, programming statistics, holds, status g, missing & lost, c-fly, long in transit, etc.) and petty cash
+
+• Responsible for collection maintenance and weeding
+
+• Identify emerging trends and new user groups 
+
+• Expected to take a share of all shifts, including mornings, late nights, and Saturdays
+
+• Other duties as assigned
 
 
 
 ### Qualifications###
 
-•M.L.S. from an ALA accredited library school & Public librarian’s professional certificate issued by the State of New York, required
-•A minimum of three years demonstrated supervisory & management experience
-•Minimum of three year experience as a librarian in a public library setting
-•Excellent interpersonal, oral, and written communication skills 
-•Demonstrated ability to exercise sound judgment, identify and assess problems and decisively implement appropriate solutions 
-•Must strive to maintain positive internal and external customer service relationships
-•Demonstrate respect and sensitivity for cultural differences and treat people with respect
-•Ability to organize, prioritize, and coordinate work efficiently
-•Leadership - inspires and motivates others to perform well 
-•Delegation skills – plan, assign & monitor delegated activities
-•Working knowledge of the library’s electronic reference resources and the Internet, Sierra, Web 2.0, and Microsoft Office Applications
-•Ability to work collaboratively and on cross-functional teams 
-•Knowledge of fundamental principles and practices of modern library management 
-•Involvement in professional organizations 
+
+• M.L.S. from an ALA accredited library school & Public librarian’s professional certificate issued by the State of New York, required
+
+• A minimum of three years demonstrated supervisory & management experience
+
+• Minimum of three year experience as a librarian in a public library setting
+
+• Excellent interpersonal, oral, and written communication skills 
+
+• Demonstrated ability to exercise sound judgment, identify and assess problems and decisively implement appropriate solutions 
+
+• Must strive to maintain positive internal and external customer service relationships
+
+• Demonstrate respect and sensitivity for cultural differences and treat people with respect
+
+• Ability to organize, prioritize, and coordinate work efficiently
+
+• Leadership - inspires and motivates others to perform well 
+
+• Delegation skills – plan, assign & monitor delegated activities
+
+• Working knowledge of the library’s electronic reference resources and the Internet, Sierra, Web 2.0, and Microsoft Office Applications
+
+• Ability to work collaboratively and on cross-functional teams 
+
+• Knowledge of fundamental principles and practices of modern library management 
+
+• Involvement in professional organizations 
 
 
 

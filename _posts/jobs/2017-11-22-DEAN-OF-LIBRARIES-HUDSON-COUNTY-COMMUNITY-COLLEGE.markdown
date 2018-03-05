@@ -24,13 +24,20 @@ This is an exciting opportunity for an experienced and forward-thinking Library 
 ### Qualifications###
 
 REQUIREMENTS:
-•	Master’s degree in Library Science from an ALA accredited university (doctorate preferred)
-•	Ability to envision and articulate goals for an innovative , forward-looking academic library
-•	Demonstrated leadership skills; ability to mentor and nurture staff
-•	At least five years’ experience in an academic library in progressively responsible positions; at least three years’ supervisory experience
-•	Budget management experience
-•	Excellent written, communication and interpersonal skills; ability to work collaboratively
-•	Commitment to professional growth within the field; active participation in statewide and national library associations
+
+• 	Master’s degree in Library Science from an ALA accredited university (doctorate preferred)
+
+• 	Ability to envision and articulate goals for an innovative , forward-looking academic library
+
+• 	Demonstrated leadership skills; ability to mentor and nurture staff
+
+• 	At least five years’ experience in an academic library in progressively responsible positions; at least three years’ supervisory experience
+
+• 	Budget management experience
+
+• 	Excellent written, communication and interpersonal skills; ability to work collaboratively
+
+• 	Commitment to professional growth within the field; active participation in statewide and national library associations
 
 
 

@@ -14,27 +14,41 @@ Poly Prep seeks applicants for the Director of Library Services for the 2017-18 
 ### Responsibilities###
 
 Duties include:
-• Developing and maintaining a diverse and well-rounded collection for faculty
+
+•  Developing and maintaining a diverse and well-rounded collection for faculty
 and students
-• Partnering with departments to support classroom curricula through
+
+•  Partnering with departments to support classroom curricula through
 information literacy instruction
-• Willingness to meet with students on an individual basis
-• Eagerness to keep up with developments in the field and implement best
+
+•  Willingness to meet with students on an individual basis
+
+•  Eagerness to keep up with developments in the field and implement best
 practices
-• Research and evaluate emerging innovations related to library services
+
+•  Research and evaluate emerging innovations related to library services
 including: technology, information literacy and curricula
-• Represent Poly Prep at regional and state conferences
-• Supporting and providing professional development to members of the Library
+
+•  Represent Poly Prep at regional and state conferences
+
+•  Supporting and providing professional development to members of the Library
 Services department
-• Manage and plan the library budget
-• Support and coordinate library events including author and speaker visits.
+
+•  Manage and plan the library budget
+
+•  Support and coordinate library events including author and speaker visits.
 
 Additional Responsibilities:
-• Assume role as an advisor for a group of students (7-10)
-• Advise a club or activity
-• Attendance at community events throughout the school year
-• Commitment to professional development
-• Attendance and engagement in meetings during and after the school day
+
+•  Assume role as an advisor for a group of students (7-10)
+
+•  Advise a club or activity
+
+•  Attendance at community events throughout the school year
+
+•  Commitment to professional development
+
+•  Attendance and engagement in meetings during and after the school day
 including but not limited to: department, committee, and divisional meetings
 
 

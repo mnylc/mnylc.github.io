@@ -18,14 +18,22 @@ SCUA’s collections are heavily used by Rutgers undergraduate and graduate clas
 
 ### Responsibilities###
 
-•	Provides leadership, vision, and oversight for the development, arrangement and description, digitization, preservation, and conservation of special collections and university archives in a variety of formats. 
-•	Articulates and implements a strategic focus for the development of collections, fostering donor relationships, developing procedures for the arrangement and description of collections, and overseeing physical and digital preservation operations. 
-•	Fosters professional growth and accomplishment for library faculty and staff; holds direct responsibility for personnel matters including the recruitment, appointment, and evaluation of librarians and archivists with faculty status, full-time staff, and student and hourly support staff. 
-•	Prioritizes, assigns, and directs projects and workflows to ensure the units’ priorities are achieved in accordance with deadlines and budget allowances.
-•	Plans, administers, and manages unit resources, services, and operations including the unit budget and external resources, e.g. gifts and grants.
-•	Develops, implements, and assesses programming to further promote knowledge, encourage teaching and research use of the collections, and increase engagement with the academic and general communities.
-•	Participates in national, regional, and local archival organizations. 
-•	Serves as a member of the New Brunswick Libraries (NBL) Steering Committee, the leadership group for NBL.
+
+• 	Provides leadership, vision, and oversight for the development, arrangement and description, digitization, preservation, and conservation of special collections and university archives in a variety of formats. 
+
+• 	Articulates and implements a strategic focus for the development of collections, fostering donor relationships, developing procedures for the arrangement and description of collections, and overseeing physical and digital preservation operations. 
+
+• 	Fosters professional growth and accomplishment for library faculty and staff; holds direct responsibility for personnel matters including the recruitment, appointment, and evaluation of librarians and archivists with faculty status, full-time staff, and student and hourly support staff. 
+
+• 	Prioritizes, assigns, and directs projects and workflows to ensure the units’ priorities are achieved in accordance with deadlines and budget allowances.
+
+• 	Plans, administers, and manages unit resources, services, and operations including the unit budget and external resources, e.g. gifts and grants.
+
+• 	Develops, implements, and assesses programming to further promote knowledge, encourage teaching and research use of the collections, and increase engagement with the academic and general communities.
+
+• 	Participates in national, regional, and local archival organizations. 
+
+• 	Serves as a member of the New Brunswick Libraries (NBL) Steering Committee, the leadership group for NBL.
 
 The Associate Director is a senior faculty member and administrator who plays a critical role in the appointment, reappointment,
 and promotion of library faculty and must qualify for tenure on appointment. The successful candidate must demonstrate a record of professional achievement through scholarly research relevant to academic librarianship, including publications, presentations, and participation and leadership in the work of relevant professional associations, particularly on the national level.

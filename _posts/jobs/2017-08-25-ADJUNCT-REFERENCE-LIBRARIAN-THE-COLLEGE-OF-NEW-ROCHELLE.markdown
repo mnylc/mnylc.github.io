@@ -15,20 +15,31 @@ The Gill Library at The College of New Rochelle is seeking an Adjunct Reference 
 ### Responsibilities###
 
 Reference Services (in person including assistance with all print and electronic resources and services as well as virtual reference using AskUs 24/7)
-•	Library Instruction sessions and Workshops as needed 
-•	In the absence of other administrators or full-time librarians, the Adjunct Librarian is responsible for the overall supervision of Library operations and the Library building including supervision of staff and student assistants. 
-•	Collaborate with full time Librarian on innovative ways to promote library resources and services
-•	Other duties as assigned related to the support of student academic success
+
+• 	Library Instruction sessions and Workshops as needed 
+
+• 	In the absence of other administrators or full-time librarians, the Adjunct Librarian is responsible for the overall supervision of Library operations and the Library building including supervision of staff and student assistants. 
+
+• 	Collaborate with full time Librarian on innovative ways to promote library resources and services
+
+• 	Other duties as assigned related to the support of student academic success
 
 The Adjunct Reference Librarian will consistently demonstrate:
 
-•	Thorough knowledge of all library resources
-•	Motivation and productive work habits
-•	Commitment to excellence as expressed in the College mission, vision and values
-•	A positive, cooperative and supportive attitude toward others
-•	Commitment to learning
-•	Punctuality
-•	Reliability when performing assigned tasks
+
+• 	Thorough knowledge of all library resources
+
+• 	Motivation and productive work habits
+
+• 	Commitment to excellence as expressed in the College mission, vision and values
+
+• 	A positive, cooperative and supportive attitude toward others
+
+• 	Commitment to learning
+
+• 	Punctuality
+
+• 	Reliability when performing assigned tasks
 
 
 ### Qualifications###

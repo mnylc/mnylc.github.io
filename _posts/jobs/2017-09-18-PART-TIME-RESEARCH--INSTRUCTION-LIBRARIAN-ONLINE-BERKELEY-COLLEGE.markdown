@@ -13,12 +13,23 @@ Berkeley College seeks an Online Research & Instruction Librarian in a part time
 
 ### Responsibilities###
 
-Reporting to the Senior Director, Online Library & Technology Services, key aspects of the position include:  • Research and instructional support to students, faculty, and the college community in an online environment • Virtual reference services through email, phone, and live chat •  LibGuides, videos/tutorials, and instructional learning objects that enhance critical thinking skills and understanding of the core concepts of information/digital literacy while fostering other College wide learning outcomes  • Information literacy instruction delivered in an asynchronous online environment • Perform related tasks as requested, delegated, or assigned.
+Reporting to the Senior Director, Online Library & Technology Services, key aspects of the position include:  
+•  Research and instructional support to students, faculty, and the college community in an online environment 
+•  Virtual reference services through email, phone, and live chat 
+•   LibGuides, videos/tutorials, and instructional learning objects that enhance critical thinking skills and understanding of the core concepts of information/digital literacy while fostering other College wide learning outcomes  
+•  Information literacy instruction delivered in an asynchronous online environment 
+•  Perform related tasks as requested, delegated, or assigned.
 
 
 ### Qualifications###
 
-Ability to facilitate student driven learning in the information seeking process • Familiarity with LibChat, LibAnswers, and LibGuides; or similar products • Experience with instructional technologies and eLearning authoring tools used to support and enhance effective teaching and learning • Experience with the technology used to deliver virtual library services  • Comprehensive knowledge of, and navigational ability with: library databases, electronic book delivery platforms, learning management systems, library automation software, and other relevant technology used to manage and deliver library services online • Excellent oral and written communication skills, strong interpersonal skills, and the ability to thrive in a team environment • Ability to work a flexible schedule that includes evenings and weekends. 
+Ability to facilitate student driven learning in the information seeking process 
+•  Familiarity with LibChat, LibAnswers, and LibGuides; or similar products 
+•  Experience with instructional technologies and eLearning authoring tools used to support and enhance effective teaching and learning 
+•  Experience with the technology used to deliver virtual library services  
+•  Comprehensive knowledge of, and navigational ability with: library databases, electronic book delivery platforms, learning management systems, library automation software, and other relevant technology used to manage and deliver library services online 
+•  Excellent oral and written communication skills, strong interpersonal skills, and the ability to thrive in a team environment 
+•  Ability to work a flexible schedule that includes evenings and weekends. 
 
 
 ### Compensation###

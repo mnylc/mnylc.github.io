@@ -27,14 +27,22 @@ Duties and Responsibilities
 ### Responsibilities###
 
 Requirements
-•	Must be enrolled in an accredited Master’s Degree program in Library/Information Science, Art History, or related discipline
-•	Demonstrated interest in web archiving and metadata creation in a research library or comparable environment 
-•	General knowledge of software applications supporting integrated access to online collections and associated technologies 
-•	Knowledge of current trends and emerging technologies in web archiving 
-•	Demonstrated organizational, analytical, and problem solving skills 
-•	Ability to work both independently and collaboratively with other team members in a consortial environment 
-•	Excellent interpersonal skills, with a demonstrated ability to communicate effectively, both orally and in writing 
-•	Ability to meet deadlines 
+
+• 	Must be enrolled in an accredited Master’s Degree program in Library/Information Science, Art History, or related discipline
+
+• 	Demonstrated interest in web archiving and metadata creation in a research library or comparable environment 
+
+• 	General knowledge of software applications supporting integrated access to online collections and associated technologies 
+
+• 	Knowledge of current trends and emerging technologies in web archiving 
+
+• 	Demonstrated organizational, analytical, and problem solving skills 
+
+• 	Ability to work both independently and collaboratively with other team members in a consortial environment 
+
+• 	Excellent interpersonal skills, with a demonstrated ability to communicate effectively, both orally and in writing 
+
+• 	Ability to meet deadlines 
 
 
 

@@ -16,20 +16,32 @@ St. Joseph’s College seeks a part-time evening and weekend librarian for the M
 ### Qualifications###
 
 Required: 
-•	Master of Library Science degree from an ALA-accredited institution
-•	Experience in providing reference and information services in person and remotely
-•	Professional-level proficiency in database searching and technology skills
-•	Demonstrated ability to teach students at the post-secondary level
-•	Availability for Wednesday 4-9pm, Thursday 4-9 pm and Saturday 9am-5pm
-•	References from professional librarians or library school faculty
+
+• 	Master of Library Science degree from an ALA-accredited institution
+
+• 	Experience in providing reference and information services in person and remotely
+
+• 	Professional-level proficiency in database searching and technology skills
+
+• 	Demonstrated ability to teach students at the post-secondary level
+
+• 	Availability for Wednesday 4-9pm, Thursday 4-9 pm and Saturday 9am-5pm
+
+• 	References from professional librarians or library school faculty
 
 Desired:
-•	Experience with LibGuide software and a learning management system (Canvas, etc.)
-•	Ability to create online tutorials for campus-based and distance education students
-•	Experience with a library ILS, especially WMS Discovery
-•	Ability to use social media to promote library collections and services
-•	Experience assisting non-native speakers of English
-•	Supervisory experience
+
+• 	Experience with LibGuide software and a learning management system (Canvas, etc.)
+
+• 	Ability to create online tutorials for campus-based and distance education students
+
+• 	Experience with a library ILS, especially WMS Discovery
+
+• 	Ability to use social media to promote library collections and services
+
+• 	Experience assisting non-native speakers of English
+
+• 	Supervisory experience
 
 
 

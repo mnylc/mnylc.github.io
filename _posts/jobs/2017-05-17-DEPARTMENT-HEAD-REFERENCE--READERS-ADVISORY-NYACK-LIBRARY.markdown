@@ -14,19 +14,32 @@ The Head of Reference oversees and provides reference services to the patrons of
 ### Responsibilities###
 
 Responsibilities
-•	Supervise, schedule and evaluate performance of all full-time and part-time reference Library staff, including Local History Room staff.
-•	Work with Director and other Department Heads as part of the Management Team.
-•	Provide excellent reference, bibliographic, and database services to the public.  
-•	Oversee the maintenance and acquisition of Library databases, materials for the print, A/V and digital collections.
-•	As Coordinator for collection development, supervise staff in other departments who have collection development duties.
-•	Support, enforce, and abide by the policies and procedures of the Library.
-•	Assist in budget maintenance and Library operational plans. 
-•	Attend committee meetings, meetings at RCLS and in the Community as directed.
-•	Recommend new services to Library Director.  
-•	Participate in local, regional and national professional conferences to ensure professional development. 
-•	Participate in grant writing to enhance Library services.
-•	Prepares narrative and statistical reports as need for Director and Board
-•	Perform all other duties as assigned by Director.
+
+• 	Supervise, schedule and evaluate performance of all full-time and part-time reference Library staff, including Local History Room staff.
+
+• 	Work with Director and other Department Heads as part of the Management Team.
+
+• 	Provide excellent reference, bibliographic, and database services to the public.  
+
+• 	Oversee the maintenance and acquisition of Library databases, materials for the print, A/V and digital collections.
+
+• 	As Coordinator for collection development, supervise staff in other departments who have collection development duties.
+
+• 	Support, enforce, and abide by the policies and procedures of the Library.
+
+• 	Assist in budget maintenance and Library operational plans. 
+
+• 	Attend committee meetings, meetings at RCLS and in the Community as directed.
+
+• 	Recommend new services to Library Director.  
+
+• 	Participate in local, regional and national professional conferences to ensure professional development. 
+
+• 	Participate in grant writing to enhance Library services.
+
+• 	Prepares narrative and statistical reports as need for Director and Board
+
+• 	Perform all other duties as assigned by Director.
 
 
 

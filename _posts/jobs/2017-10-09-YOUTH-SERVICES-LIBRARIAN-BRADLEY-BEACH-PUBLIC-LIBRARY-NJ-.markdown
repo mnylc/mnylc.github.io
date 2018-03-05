@@ -15,17 +15,26 @@ Bradley Beach Public Library which serves a small but diverse community of 5,000
 ### Responsibilities###
 
 
-• Manage the Youth Services Department
-• Develop and execute programming for infants, children and teens (this is where 
+
+•  Manage the Youth Services Department
+
+•  Develop and execute programming for infants, children and teens (this is where 
   your creativity, inspiration and innovation is going to be useful)
-• Manage the Youth Services budget
-• Maintain Juvenile and Young Adult collections
-• Offer reference services to patrons of all ages
-• Maintain community ties with local school and community groups
-• Help to create and participate in campaigns to promote the library as an 
+
+•  Manage the Youth Services budget
+
+•  Maintain Juvenile and Young Adult collections
+
+•  Offer reference services to patrons of all ages
+
+•  Maintain community ties with local school and community groups
+
+•  Help to create and participate in campaigns to promote the library as an 
   integral part of the community
-• Deliver innovative uses of technology and social media
-• Represent the library on children’s and teen services committees as appropriate
+
+•  Deliver innovative uses of technology and social media
+
+•  Represent the library on children’s and teen services committees as appropriate
 
 
 ### Qualifications###

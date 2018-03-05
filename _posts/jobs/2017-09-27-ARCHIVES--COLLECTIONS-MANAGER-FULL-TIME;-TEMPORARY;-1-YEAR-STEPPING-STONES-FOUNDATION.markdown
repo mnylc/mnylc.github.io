@@ -20,15 +20,21 @@ The manager in this temporary role will handle both day-to-day research requests
 
 Requirements: 
 
-•	Bachelor’s degree
-•	Experience using Microsoft Office Word and Excel
+
+• 	Bachelor’s degree
+
+• 	Experience using Microsoft Office Word and Excel
 
 Preferred qualifications:
 
-•	Master’s degree in a related field preferred 
-•	At least 3 years of relevant experience in an archive, museum, or library setting (This can include relevant apprenticeships, internships, fellowships, volunteer experience, etc.)
-•	Experience using PastPerfect software database
-•	Interest / background in any of the following: historic sites / homes, preservation, and history of the 12-Step movement
+
+• 	Master’s degree in a related field preferred 
+
+• 	At least 3 years of relevant experience in an archive, museum, or library setting (This can include relevant apprenticeships, internships, fellowships, volunteer experience, etc.)
+
+• 	Experience using PastPerfect software database
+
+• 	Interest / background in any of the following: historic sites / homes, preservation, and history of the 12-Step movement
 
 
 ### Compensation###

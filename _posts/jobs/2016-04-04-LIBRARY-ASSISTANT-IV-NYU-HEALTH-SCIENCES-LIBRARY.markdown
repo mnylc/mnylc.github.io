@@ -14,31 +14,49 @@ The NYU Health Sciences Library is a digital library supporting the diverse and 
 
 ### Responsibilities###
 
-• Staff the library’s service desk and provide excellent customer support via email, instant message, and telephone
-• Process lending and borrowing requests
-• Assist library patrons in using technology available in the library facility
-• Conduct online searches for citation and bibliographic data
-• Maintain shipping and delivery of materials to and from lending libraries
-• Assist library patrons in finding and accessing library resources online
-• Refer requests for a variety of services through appropriate channels within the library
-• Perform other duties as assigned
-• Serve on library committees and task forces as appropriate
+
+•  Staff the library’s service desk and provide excellent customer support via email, instant message, and telephone
+
+•  Process lending and borrowing requests
+
+•  Assist library patrons in using technology available in the library facility
+
+•  Conduct online searches for citation and bibliographic data
+
+•  Maintain shipping and delivery of materials to and from lending libraries
+
+•  Assist library patrons in finding and accessing library resources online
+
+•  Refer requests for a variety of services through appropriate channels within the library
+
+•  Perform other duties as assigned
+
+•  Serve on library committees and task forces as appropriate
 
 
 ### Qualifications###
 
 Required qualifications
-• Associate’s degree
-• 1-2 years of customer service experience
-• Excellent verbal and written communication skills
-• Strong attention to detail
-• Ability to work independently and in teams to produce outstanding results
-• Proficient in Windows and Mac OS, mobile technology (tablets, e-readers), and Microsoft Office
+
+•  Associate’s degree
+
+•  1-2 years of customer service experience
+
+•  Excellent verbal and written communication skills
+
+•  Strong attention to detail
+
+•  Ability to work independently and in teams to produce outstanding results
+
+•  Proficient in Windows and Mac OS, mobile technology (tablets, e-readers), and Microsoft Office
 
 Preferred qualifications
-• Experience providing customer service in a library setting
-• Experience working with ILLiad software, customer-relationship management (e.g., ticketing) software, Aleph, and other library systems
-• Experience using health sciences related resources, such as PubMed; and citation-management applications such as EndNote, RefWorks, and Mendeley
+
+•  Experience providing customer service in a library setting
+
+•  Experience working with ILLiad software, customer-relationship management (e.g., ticketing) software, Aleph, and other library systems
+
+•  Experience using health sciences related resources, such as PubMed; and citation-management applications such as EndNote, RefWorks, and Mendeley
 
 
 

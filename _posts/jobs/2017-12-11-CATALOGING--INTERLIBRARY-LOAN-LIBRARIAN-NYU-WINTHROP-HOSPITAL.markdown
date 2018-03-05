@@ -13,11 +13,16 @@ Reporting to the Director and working closely with other librarians and staff, t
 
 ### Responsibilities###
 
-•	Catalogs all library materials using the library automation system (Sirsi), OCLC applications, National Library of Medicine subject headings and classification system. Uses current and evolving cataloging principles such as MARC, RDA, and BibFrame to receive new items, download and edit bibliographic records of those items, and processes the items for use by the library patrons.
-•	Carries out interlibrary loan functions in Docline, OCLC, and QuickDoc software (including maintaining interlibrary loan data to create reports) for resources not available in the Library’s collection.
-•	Provides extended, professional reference and information services. Uses complex search strategies in PubMed, CINAHL, Cochrane, UpToDate, Lexicomp, and other databases to assist patrons in finding library resources.
-•	Carries out circulation and serials functions in the library automation system (Sirsi) and maintains accuracy of all records. Keeps track of backordered items.
-•	Other duties, as assigned.
+
+• 	Catalogs all library materials using the library automation system (Sirsi), OCLC applications, National Library of Medicine subject headings and classification system. Uses current and evolving cataloging principles such as MARC, RDA, and BibFrame to receive new items, download and edit bibliographic records of those items, and processes the items for use by the library patrons.
+
+• 	Carries out interlibrary loan functions in Docline, OCLC, and QuickDoc software (including maintaining interlibrary loan data to create reports) for resources not available in the Library’s collection.
+
+• 	Provides extended, professional reference and information services. Uses complex search strategies in PubMed, CINAHL, Cochrane, UpToDate, Lexicomp, and other databases to assist patrons in finding library resources.
+
+• 	Carries out circulation and serials functions in the library automation system (Sirsi) and maintains accuracy of all records. Keeps track of backordered items.
+
+• 	Other duties, as assigned.
 
 
 ### Qualifications###
@@ -30,10 +35,14 @@ Experience: 3-5 years medical or academic library experience, required.
        3-5 years with advanced search software, required.
 
 Skills: 
-•	Excellent communication (both written and oral), detail orientation, customer service, organization, and multitasking skills, required.
-•	Advanced computer skills with cataloging tools, interlibrary loan software, SirsiDynix, OCLC applications, Docline, QuickDoc, LibGuides, Serials Solutions software, Microsoft Office applications, required.
-•	Extensive experience searching the biomedical literature (i.e. PubMed, CINAHL), required
-•	Familiarity with library trends and issues, required. 
+
+• 	Excellent communication (both written and oral), detail orientation, customer service, organization, and multitasking skills, required.
+
+• 	Advanced computer skills with cataloging tools, interlibrary loan software, SirsiDynix, OCLC applications, Docline, QuickDoc, LibGuides, Serials Solutions software, Microsoft Office applications, required.
+
+• 	Extensive experience searching the biomedical literature (i.e. PubMed, CINAHL), required
+
+• 	Familiarity with library trends and issues, required. 
 
 
 

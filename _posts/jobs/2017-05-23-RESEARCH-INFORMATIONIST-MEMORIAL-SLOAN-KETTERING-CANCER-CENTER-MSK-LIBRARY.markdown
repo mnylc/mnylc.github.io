@@ -20,17 +20,28 @@ Applicants will have an opportunity to support our Clinical Medical Librarian (C
 
 ### Qualifications###
 
-•	Master’s degree in Library Science or related degree required. 
-•	Science undergraduate degree preferred. 
-•	3-5 years Library experience in Reference & Consultation services in a professional position. 
-•	Knowledge and expertise using online database services including Web of Science, SCOPUS, OVID, and PubMed.
-•	Expertise using electronic content, mobile apps, particularly in science and medicine.
-•	Knowledge in using bibliographic management tools.
-•	Knowledge and experience with virtual reference services.
-•	Teaching and user education experience, presentation skills.
-•	Communication and marketing skills. 
-•	Experience working in a team environment as well as independently.
-•	Ability to prioritize assignments and work in a fast pacing environment. 
+
+• 	Master’s degree in Library Science or related degree required. 
+
+• 	Science undergraduate degree preferred. 
+
+• 	3-5 years Library experience in Reference & Consultation services in a professional position. 
+
+• 	Knowledge and expertise using online database services including Web of Science, SCOPUS, OVID, and PubMed.
+
+• 	Expertise using electronic content, mobile apps, particularly in science and medicine.
+
+• 	Knowledge in using bibliographic management tools.
+
+• 	Knowledge and experience with virtual reference services.
+
+• 	Teaching and user education experience, presentation skills.
+
+• 	Communication and marketing skills. 
+
+• 	Experience working in a team environment as well as independently.
+
+• 	Ability to prioritize assignments and work in a fast pacing environment. 
 
 
 

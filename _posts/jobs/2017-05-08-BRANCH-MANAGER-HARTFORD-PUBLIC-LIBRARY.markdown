@@ -67,31 +67,52 @@ Branch Presentation - a. Ensure that branch shelving, book displays and marketin
 Degree / Diploma Obtained: Master's in Library Science required.
 
 Years of Experience:
-•Minimum three years of increasingly responsible leadership experience in a public library.
-•Minimum of two years of supervisory experience is required.
+
+• Minimum three years of increasingly responsible leadership experience in a public library.
+
+• Minimum of two years of supervisory experience is required.
 
  
-• English and Spanish speaking required.
-•Access to reliable transportation is required.
-•MSO - Required proficiency in Microsoft Office suite of products.
-•Social - Knowledge of various technologies including social media is required.
-•Welcoming - Ability to provide welcoming and effective customer service.
-•Relationships - Ability to establish and maintain effective working relationships with individuals and groups, both professional and non-professional, co-workers, management personnel, the public and others.
-•Written - Strong written and verbal communication, listening, organization and priority setting skills.
-•PR - Strong public relations skills.
-•Priorities - Ability to work in a fast-paced environment and juggle multiple priorities.
-•Assess - Ability to think quickly, assess a situation and make a sound decision.
-•Reports - Ability to create clear and concise reports, and to deliver them orally to a wide variety of audiences.
-•Officials - Ability to deal effectively with elected officials, and other public constituencies.
+
+•  English and Spanish speaking required.
+
+• Access to reliable transportation is required.
+
+• MSO - Required proficiency in Microsoft Office suite of products.
+
+• Social - Knowledge of various technologies including social media is required.
+
+• Welcoming - Ability to provide welcoming and effective customer service.
+
+• Relationships - Ability to establish and maintain effective working relationships with individuals and groups, both professional and non-professional, co-workers, management personnel, the public and others.
+
+• Written - Strong written and verbal communication, listening, organization and priority setting skills.
+
+• PR - Strong public relations skills.
+
+• Priorities - Ability to work in a fast-paced environment and juggle multiple priorities.
+
+• Assess - Ability to think quickly, assess a situation and make a sound decision.
+
+• Reports - Ability to create clear and concise reports, and to deliver them orally to a wide variety of audiences.
+
+• Officials - Ability to deal effectively with elected officials, and other public constituencies.
 
 Other requirements:
-•Ability to continuously bend, twist, stoop, reach and pull.
-•Lifting of moderate to heavy weight material up to 50 lbs.
-•Able to walk, sit and stand for extended periods of time.
-•Able to travel to all facilities within the city, during all weather conditions.
-•Close vision, distance vision, peripheral vision, depth perception, and the ability to adjust focus.
-•Ability to keep composure in everyday, potentially stressful situations.
-•Ability to meet a flexible work schedule, including evenings and weekends.
+
+• Ability to continuously bend, twist, stoop, reach and pull.
+
+• Lifting of moderate to heavy weight material up to 50 lbs.
+
+• Able to walk, sit and stand for extended periods of time.
+
+• Able to travel to all facilities within the city, during all weather conditions.
+
+• Close vision, distance vision, peripheral vision, depth perception, and the ability to adjust focus.
+
+• Ability to keep composure in everyday, potentially stressful situations.
+
+• Ability to meet a flexible work schedule, including evenings and weekends.
 
 
 

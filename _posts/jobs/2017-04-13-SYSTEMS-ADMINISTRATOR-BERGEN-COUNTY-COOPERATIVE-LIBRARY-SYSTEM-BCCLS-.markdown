@@ -30,7 +30,8 @@ The Bergen County Cooperative Library System (BCCLS) seeks a Systems Administrat
 ### Qualifications###
 
 Required:
-•	M.L.S. from an ALA-accredited library science program and/or experience working in ILS support
+
+• 	M.L.S. from an ALA-accredited library science program and/or experience working in ILS support
 ●	High level of computer literacy and ability to provide technical support
 ●	Excellent English, organizational, and interpersonal skills
 ●	Commitment to excellent customer service

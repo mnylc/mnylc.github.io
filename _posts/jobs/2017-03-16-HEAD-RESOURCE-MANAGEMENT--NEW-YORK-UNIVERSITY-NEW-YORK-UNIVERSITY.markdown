@@ -37,13 +37,18 @@ New York University Libraries: Libraries at New York University serve the school
 ### Qualifications###
 
 Experience
-• Evidence of leadership in the acquisition of purchased and licensed scholarly resources
-• Operational knowledge of methods and systems for managing materials budgets and related financial transactions, serial holdings, and electronic resource license and access information
-• Demonstrated knowledge of trends and issues in the acquisition of library resources coupled with a strong service orientation and knowledge of user needs
+
+•  Evidence of leadership in the acquisition of purchased and licensed scholarly resources
+
+•  Operational knowledge of methods and systems for managing materials budgets and related financial transactions, serial holdings, and electronic resource license and access information
+
+•  Demonstrated knowledge of trends and issues in the acquisition of library resources coupled with a strong service orientation and knowledge of user needs
 
 Skills
-• Excellent communication and interpersonal skills
-• Excellent planning and organizational skills.
+
+•  Excellent communication and interpersonal skills
+
+•  Excellent planning and organizational skills.
 
 Computer Skills
 Preferred: Familiarity with knowledge base applications for electronic resource management and access, experience with data analytics and business intelligence related to library acquisitions, including use of data analysis and visualization tools.

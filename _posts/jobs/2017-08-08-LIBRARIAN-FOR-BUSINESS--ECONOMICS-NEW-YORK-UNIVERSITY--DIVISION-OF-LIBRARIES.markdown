@@ -19,17 +19,27 @@ The Librarian for Business and Economics is a tenure track position based in the
 ### Qualifications###
 
 Required:
-•	Minimum one graduate degree (masters level or higher).  A second masters will be required for tenure review. One of the two masters degrees must be an ALA-accredited MLS or equivalent.
-•	Academic background in economics, business or a related social science discipline or demonstrated experience in providing business or economics information and education services
-•	Demonstrated public service experience in an academic library supporting users’ teaching, learning and research needs. 
-•	Strong interpersonal, written and verbal communication skills
-•	Demonstrated ability to work independently and collaboratively in a complex organization
-•	Creative, service-oriented approach to problem solving
-•	High degree of facility with technologies and systems germane to the 21st century library
+
+• 	Minimum one graduate degree (masters level or higher).  A second masters will be required for tenure review. One of the two masters degrees must be an ALA-accredited MLS or equivalent.
+
+• 	Academic background in economics, business or a related social science discipline or demonstrated experience in providing business or economics information and education services
+
+• 	Demonstrated public service experience in an academic library supporting users’ teaching, learning and research needs. 
+
+• 	Strong interpersonal, written and verbal communication skills
+
+• 	Demonstrated ability to work independently and collaboratively in a complex organization
+
+• 	Creative, service-oriented approach to problem solving
+
+• 	High degree of facility with technologies and systems germane to the 21st century library
 Preferred:
-•	Familiarity with business or economics research, including scholarly communication, data management, and corresponding needs of faculty and researchers
-•	Familiarity with quantitative or qualitative packages for statistical analysis, e.g., Stata, SPSS, SAS, Atlas.ti
-•	Record of professional activities, including research and engagement in professional organizations
+
+• 	Familiarity with business or economics research, including scholarly communication, data management, and corresponding needs of faculty and researchers
+
+• 	Familiarity with quantitative or qualitative packages for statistical analysis, e.g., Stata, SPSS, SAS, Atlas.ti
+
+• 	Record of professional activities, including research and engagement in professional organizations
 
 
 ### Compensation###

@@ -15,16 +15,26 @@ The Newburgh Free Library at 124 Grand Street, Newburgh, NY, is seeking the righ
 
 General Statement of Duties:
 
-•	Oversees Library Departments including Access Services, Marketing, Programs and Outreach. 
-•	Assists in planning, implementation and evaluation of long and short-term goals and objectives.
-•	Assists the director in the formulation of library policies and procedures.
-•	Participates in recruitment, selection, training and evaluation of employees.
-•	Provides reference services to patrons.
-•	Keeps informed of professional developments through participation in professional organizations, system meetings, workshops, and reading professional materials.
-•	Participates in preparation of library budget.
-•	Participates in the selection of adult library materials.
-•	Supervises library in director’s absence.
-•	Performs other related responsibilities as assigned.
+
+• 	Oversees Library Departments including Access Services, Marketing, Programs and Outreach. 
+
+• 	Assists in planning, implementation and evaluation of long and short-term goals and objectives.
+
+• 	Assists the director in the formulation of library policies and procedures.
+
+• 	Participates in recruitment, selection, training and evaluation of employees.
+
+• 	Provides reference services to patrons.
+
+• 	Keeps informed of professional developments through participation in professional organizations, system meetings, workshops, and reading professional materials.
+
+• 	Participates in preparation of library budget.
+
+• 	Participates in the selection of adult library materials.
+
+• 	Supervises library in director’s absence.
+
+• 	Performs other related responsibilities as assigned.
 
 This position is a competitive Civil Service position and is classified as Confidential/Managerial.
 

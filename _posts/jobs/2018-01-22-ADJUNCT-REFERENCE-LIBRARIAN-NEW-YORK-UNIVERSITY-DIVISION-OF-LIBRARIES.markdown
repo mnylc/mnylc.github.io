@@ -13,25 +13,40 @@ The Fales Library & Special Collections, NYU’s special collections for art and
 
 ### Responsibilities###
 
-• Assisting researchers with the NYU Special Collections online registration and request system (Aeon), and monitoring the system to facilitate and schedule research appointments.
-• Greeting researchers and orienting them to the library, explaining the library’s policies and procedures.
-• Providing in-person, email, and telephone reference queries. 
-• Monitoring researchers to ensure proper handling of the collections and adherence to policies.
-• Instructing researchers in the use of the library’s catalog, research guides, and finding aids to identify collections relevant to their research.
-• Ordering collection materials from offsite storage and tracking their use.
-• Receiving and tracking photocopy requests and scanning orders, and assigning them to student workers.
-• Capturing and compiling reference statistics.
-• Other duties as assigned.
+
+•  Assisting researchers with the NYU Special Collections online registration and request system (Aeon), and monitoring the system to facilitate and schedule research appointments.
+
+•  Greeting researchers and orienting them to the library, explaining the library’s policies and procedures.
+
+•  Providing in-person, email, and telephone reference queries. 
+
+•  Monitoring researchers to ensure proper handling of the collections and adherence to policies.
+
+•  Instructing researchers in the use of the library’s catalog, research guides, and finding aids to identify collections relevant to their research.
+
+•  Ordering collection materials from offsite storage and tracking their use.
+
+•  Receiving and tracking photocopy requests and scanning orders, and assigning them to student workers.
+
+•  Capturing and compiling reference statistics.
+
+•  Other duties as assigned.
 
 
 ### Qualifications###
 
-• Previous experience working in a library or archive, preferably with a reference component. A masters degree required. 
-• Comfort with various online systems, including those relevant to archives and libraries.
-• Accuracy and attention to detail, organizational skills, and ability to multitask.
-• Experience in cross-departmental collaboration.
-• Commitment to public service.
-• Demonstrated interpersonal, oral, and written communication skills.
+
+•  Previous experience working in a library or archive, preferably with a reference component. A masters degree required. 
+
+•  Comfort with various online systems, including those relevant to archives and libraries.
+
+•  Accuracy and attention to detail, organizational skills, and ability to multitask.
+
+•  Experience in cross-departmental collaboration.
+
+•  Commitment to public service.
+
+•  Demonstrated interpersonal, oral, and written communication skills.
 
 
 ### Compensation###

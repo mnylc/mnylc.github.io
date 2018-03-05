@@ -13,9 +13,11 @@ The Archives and Records Management Department of the American Civil Liberties U
 
 ### Responsibilities###
 
-•	Accession and catalog inactive records, chiefly from the Legal 
+
+• 	Accession and catalog inactive records, chiefly from the Legal 
         Department, as well as ACLU publications and ephemera
-•	Assist Archives and Record Management office staff with their day-to day 
+
+• 	Assist Archives and Record Management office staff with their day-to day 
         work, including:
        o	Maintaining and building on-site archival collections, such as board 
                 records and press releases;
@@ -28,17 +30,23 @@ The Archives and Records Management Department of the American Civil Liberties U
 
 ### Qualifications###
 
-•	MLIS degree (or equivalent graduate-level program with a concentration in 
+
+• 	MLIS degree (or equivalent graduate-level program with a concentration in 
         archives and/or records management) OR be currently enrolled in such a 
         program, required  Students must have completed at least six courses, 
         including an introductory archival course  
-•	General knowledge of archival principles and best practices for archives, 
+
+• 	General knowledge of archival principles and best practices for archives, 
         including basic preservation measures
-•	Strong written and verbal communication skills
-•	Ability to work independently and collaboratively on special projects to 
+
+• 	Strong written and verbal communication skills
+
+• 	Ability to work independently and collaboratively on special projects to 
         improve access to archives and ensure preservation of records in all forms
-•	General familiarity with, and interest in, U.S. history preferred
-•	Prior work or internship experience in archival and/or records management 
+
+• 	General familiarity with, and interest in, U.S. history preferred
+
+• 	Prior work or internship experience in archival and/or records management 
        capacity strongly preferred
 
 

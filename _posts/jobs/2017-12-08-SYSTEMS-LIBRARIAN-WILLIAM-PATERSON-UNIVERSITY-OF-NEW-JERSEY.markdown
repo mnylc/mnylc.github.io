@@ -21,13 +21,20 @@ William Paterson University is the third most diverse public university in New J
 Duties and Responsibilities:
 
 Opportunities to Contribute: systems administration, technical support, research and inter/intra departmental collaboration
-•	Administers and configures the Library's integrated library system, comprised of system administration, security, users, profiles, policies, circulation, acquisitions, cataloging, serials management, and statistical data reporting.
-•	Serves as primary technical liaison with ILS vendor, Ex Libris; troubleshoots hardware and software problems with the Voyager and other assigned systems.
-•	Provides technical support for the management of OCLC software and services and works collaboratively with the Resource Management/Library Information Systems Team to coordinate database maintenance and interdepartmental projects.
-•	Uses a variety of software tools to extract and manipulate data from various sources.
-•	Develops and implements procedures to integrate various systems and serves on committees
-•	Participates in departmental and User Education programs. 
-•	Serves as a liaison to assigned departments in collection development activities.
+
+• 	Administers and configures the Library's integrated library system, comprised of system administration, security, users, profiles, policies, circulation, acquisitions, cataloging, serials management, and statistical data reporting.
+
+• 	Serves as primary technical liaison with ILS vendor, Ex Libris; troubleshoots hardware and software problems with the Voyager and other assigned systems.
+
+• 	Provides technical support for the management of OCLC software and services and works collaboratively with the Resource Management/Library Information Systems Team to coordinate database maintenance and interdepartmental projects.
+
+• 	Uses a variety of software tools to extract and manipulate data from various sources.
+
+• 	Develops and implements procedures to integrate various systems and serves on committees
+
+• 	Participates in departmental and User Education programs. 
+
+• 	Serves as a liaison to assigned departments in collection development activities.
 
 
 ### Qualifications###
@@ -35,18 +42,28 @@ Opportunities to Contribute: systems administration, technical support, research
 Qualifications:
 
 Ideal candidate must possess the following:
-•	ALA-accredited MLS, or equivalent (by time of appointment).
-•	At least one (1) year of professional experience working with library systems.
-•	A second graduate degree is required for tenure.
-•	Experience working with databases and SQL.
-•	Working knowledge of programming/scripting languages such as Python, Perl, PHP, Unix shell scripting or like programs/languages.
-•	Computer knowledge necessary to perform technical-support related tasks.
-•	Excellent oral, written communication and interpersonal skills.
-•	Demonstrated commitment to service and professional development.
+
+• 	ALA-accredited MLS, or equivalent (by time of appointment).
+
+• 	At least one (1) year of professional experience working with library systems.
+
+• 	A second graduate degree is required for tenure.
+
+• 	Experience working with databases and SQL.
+
+• 	Working knowledge of programming/scripting languages such as Python, Perl, PHP, Unix shell scripting or like programs/languages.
+
+• 	Computer knowledge necessary to perform technical-support related tasks.
+
+• 	Excellent oral, written communication and interpersonal skills.
+
+• 	Demonstrated commitment to service and professional development.
 
 Preferred Qualifications:
-•	Second graduate degree  
-•	System administration experience with Linux, Windows and/or Voyager system(s). 
+
+• 	Second graduate degree  
+
+• 	System administration experience with Linux, Windows and/or Voyager system(s). 
 
 
 
