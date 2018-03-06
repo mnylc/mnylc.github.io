@@ -1,38 +1,40 @@
 ---
 - name:
-    text: Using and Improving NYC Open Data Dictionaries
-    html: Using and Improving NYC Open Data Dictionaries
+    text: 'POSTPONED: Using and Improving NYC Open Data Dictionaries'
+    html: 'POSTPONED: Using and Improving NYC Open Data Dictionaries'
   description:
-    text: "Using and Improving NYC Open Data DictionariesNYC Open Data Week 2018\nMETRO
-      is thrilled to be a part of NYC Open Data week this year!\nJoin us on Wednesday,
-      March 7 from 10:00 a.m. until 2:00 p.m. for a workshop on a critical element
-      of NYC’s open data sets: the data dictionary. Home to key information written
-      by data owners, data dictionaries communicate elements of each data set: column
-      names, descriptions, and values.\nThis workshop will present a crash course
-      on working with NYC Open Data sets and their accompanying data dictionaries.
-      We will learn how data dictionaries are created and build mechanisms to improve
-      the quality of these important resources. With librarians, and NYC Open Data
-      coordinators together in one room, we’ll work together to improve the usability
-      and accessibility of NYC’s open data.\nJoin us for:\n\nA quick briefing on how
-      to access and use data dictionaries\nA discussion with representatives from
-      the City on creating data dictionaries \nA hand-on exercise to offer feedback
-      on how these valuable resources can be improved for public use\n\nThis workshop
-      is ideal for public librarians who are interested in helping their patrons access
-      NYC Open Data and academic librarians who may have had experience with data
-      dictionaries in scholarly work. \nCoffee, tea, and snacks will be provided.
-      Please feel free to bring a brown bag lunch.\n\nWhat to Bring:\n\nA laptop (or
-      click here to borrow one of METRO's for $5.00)\n\nFacilitator Biography:Julia
-      Marden is a data librarian and consultant, with a decade of experience working
-      at the intersection of civic technology, education, and community engagement.
-      With her firm, Tiny Panther Consulting, she brings data librarian services to
-      the public, teaching data literacy workshops and helping socially-minded organizations
-      collect and analyze data with the communities they serve. Julia commutes around
-      NYC on a glitter purple bicycle, on a quest to demystify data and upset the
-      balance of power in data-driven research.\n\nWorkshop fees:Fees for this event
-      are $40 for METRO members and $80 for non-members. If you’re in need of a subsidized
-      ticket in order to attend this event, please email us at events@metro.org.\n\n"
+    text: "Due to inclement weather, this session has been postponed. Please stay
+      tuned for the new event date!\nNYC Open Data Week 2018\nMETRO is thrilled to
+      be a part of NYC Open Data week this year!\nJoin us on Wednesday, March 7 from
+      10:00 a.m. until 2:00 p.m. for a workshop on a critical element of NYC’s open
+      data sets: the data dictionary. Home to key information written by data owners,
+      data dictionaries communicate elements of each data set: column names, descriptions,
+      and values.\nThis workshop will present a crash course on working with NYC Open
+      Data sets and their accompanying data dictionaries. We will learn how data dictionaries
+      are created and build mechanisms to improve the quality of these important resources.
+      With librarians, and NYC Open Data coordinators together in one room, we’ll
+      work together to improve the usability and accessibility of NYC’s open data.\nJoin
+      us for:\n\nA quick briefing on how to access and use data dictionaries\nA discussion
+      with representatives from the City on creating data dictionaries \nA hand-on
+      exercise to offer feedback on how these valuable resources can be improved for
+      public use\n\nThis workshop is ideal for public librarians who are interested
+      in helping their patrons access NYC Open Data and academic librarians who may
+      have had experience with data dictionaries in scholarly work. \nCoffee, tea,
+      and snacks will be provided. Please feel free to bring a brown bag lunch.\n\nWhat
+      to Bring:\n\nA laptop (or click here to borrow one of METRO's for $5.00)\n\nFacilitator
+      Biography:Julia Marden is a data librarian and consultant, with a decade of
+      experience working at the intersection of civic technology, education, and community
+      engagement. With her firm, Tiny Panther Consulting, she brings data librarian
+      services to the public, teaching data literacy workshops and helping socially-minded
+      organizations collect and analyze data with the communities they serve. Julia
+      commutes around NYC on a glitter purple bicycle, on a quest to demystify data
+      and upset the balance of power in data-driven research.\n\nWorkshop fees:Fees
+      for this event are $40 for METRO members and $80 for non-members. If you’re
+      in need of a subsidized ticket in order to attend this event, please email us
+      at events@metro.org.\n\n"
     html: |+
-      <P><STRONG>Using and Improving NYC Open Data Dictionaries<BR></STRONG>NYC Open Data Week 2018<BR></P>
+      <P><STRONG>Due to inclement weather, this session has been postponed. Please stay tuned for the new event date!</STRONG></P>
+      <P><STRONG><BR></STRONG>NYC Open Data Week 2018<BR></P>
       <P>METRO is thrilled to be a part of NYC Open Data week this year!</P>
       <P>Join us on Wednesday, March 7 from 10:00 a.m. until 2:00 p.m. for a workshop on a critical element of NYC’s open data sets: the data dictionary. Home to key information written by data owners, data dictionaries communicate elements of each data set: column names, descriptions, and values.</P>
       <P>This workshop will present a crash course on working with NYC Open Data sets and their accompanying data dictionaries. We will learn how data dictionaries are created and build mechanisms to improve the quality of these important resources. With librarians, and NYC Open Data coordinators together in one room, we’ll work together to improve the usability and accessibility of NYC’s open data.</P>
@@ -53,7 +55,7 @@
 
       <P><SPAN><STRONG>Workshop fees:</STRONG><BR></SPAN>Fees for this event are $40 for METRO members and $80 for non-members. If you’re in need of a subsidized ticket in order to attend this event, please email us at <A HREF="mailto:events@metro.org" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">events@metro.org</A>.<BR><BR><BR></P>
 
-  url: https://www.eventbrite.com/e/using-and-improving-nyc-open-data-dictionaries-tickets-42473856448
+  url: https://www.eventbrite.com/e/postponed-using-and-improving-nyc-open-data-dictionaries-tickets-42473856448
   start:
     timezone: America/New_York
     local: '2018-03-07T10:00:00'
@@ -599,6 +601,63 @@
     utc: '2018-04-18 10:00:00 -0400'
     local: '2018-04-18 10:00:00 -0400'
   url: https://www.meetup.com/Economics-Business-Librarians-Group/events/248301617/
+- name:
+    text: EBSCO Health Showcase
+    html: EBSCO Health Showcase
+  description:
+    text: |+
+      Join us for an EBSCO Health educational event led by HLSP Program Manager, Nathalie Reid.
+      Participants will learn about various EBSCO Health tools from experts, meet the EBSCO Health sales and support team, and have the opportunity to network with peers.
+      This event is free to attend, but participation will be limited to the first 30 individuals who RSVP. Breakfast and lunch will be provided.
+      Sessions & Speakers:
+
+      EBSCO Discovery Service Health(TM): The Who, What, and WhyDiscovery services have a stigma of being unacceptable for users of medical libraries. Come learn how EBSCO and METRO made a massive investment in their member libraries and technology resources to do something different; make discovery effective and accessible for HLSP hospital librarians and their researchers to promote evidence-based, patient-centric, team-based care.Tim Heiges, EBSCO Health VP of SaaS SalesTim Heiges has long been a highly-active participant and advocate in the library industry. Having been with EBSCO for twenty years, he is a regular speaker at numerous regional, national, and international library and publisher conferences and serves as a Guest Lecturer at the library shcools at the Universities of Illinois, Iowa, Missouri, and Denver. Tim also works closely with medical librarians as part of a library advisory council to help shape EBSCO's Software as a Service product line for its worldwide researchers.
+      DynaMed Plus: How Does It Stack Up Against Other Clinical Decision Support ToolsDynaMed Plus is the evidence-based reference tool clinicians use to get answers to clinical questions quickly and easily. Content is written by a world-class team of physicians who synthesize the evidence and provide objective analysis. Join practicing physician, Alan Ehrlich, a user of both DynaMed Plus and other clinical decision support tools to find out how DynaMed Plus stacks up with real world examples.Alan Ehrlich, MD, Executive Editor, DynaMed PlusAlan Ehrlich, MD is Executive Editor at DynaMed and a Clinical Associate Professor in Family Medicine at the University of Massachusetts Medical School. He is board certified from the American Board of Family Medicine. Alan graduated from Rutgers Medical School and completed his residency at the University of Massachusetts Medical Center. He currently teaches Evidence-Based Medicine to 3rd year medical students and writes the Evidence-Based Medicine column for Clinical Advisor magazine.
+      Tips and Tricks for the Perfect CINAHL SearchCINAHL, the Cumulative Index to Nursing and Allied Health is a highly-recognized and well-used research tool. CINAHL provides broad content coverage including 50 nursing specialties, speech and language pathology, nutrition, general health and medicine and more. The presentation will focus on search tips and techniques (including limiters) to obtain comprehensive and/or precise search results.Ellen Westling, Senior Engagement Manager - EBSCO HealthEllen is an experienced medical librarian who has been providing customer support and training and working with medical customers at EBSCO for 18 years. Prior to joining EBSCO she worked as the Associate Director at the Countway Library of Medicine at Harvard Medical School and also as a medical librarian at the Treadwell Library at Massachusetts General Hospital.
+
+
+
+    html: |+
+      <P>Join us for an EBSCO Health educational event led by HLSP Program Manager, Nathalie Reid.</P>
+      <P><BR>Participants will learn about various EBSCO Health tools from experts, meet the EBSCO Health sales and support team, and have the opportunity to network with peers.</P>
+      <P><BR>This event is free to attend, but participation will be limited to the first 30 individuals who RSVP. Breakfast and lunch will be provided.</P>
+      <P><STRONG><BR>Sessions &amp; Speakers:</STRONG></P>
+      <UL>
+      <LI><STRONG>EBSCO Discovery Service Health(TM): The Who, What, and Why</STRONG><BR>Discovery services have a stigma of being unacceptable for users of medical libraries. Come learn how EBSCO and METRO made a massive investment in their member libraries and technology resources to do something different; make discovery effective and accessible for HLSP hospital librarians and their researchers to promote evidence-based, patient-centric, team-based care.<BR><BR><EM><STRONG>Tim Heiges, EBSCO Health VP of SaaS Sales</STRONG><BR>Tim Heiges has long been a highly-active participant and advocate in the library industry. Having been with EBSCO for twenty years, he is a regular speaker at numerous regional, national, and international library and publisher conferences and serves as a Guest Lecturer at the library shcools at the Universities of Illinois, Iowa, Missouri, and Denver. Tim also works closely with medical librarians as part of a library advisory council to help shape EBSCO's Software as a Service product line for its worldwide researchers.</EM><BR><BR></LI>
+      <LI><STRONG>DynaMed Plus: How Does It Stack Up Against Other Clinical Decision Support Tools</STRONG><BR>DynaMed Plus is the evidence-based reference tool clinicians use to get answers to clinical questions quickly and easily. Content is written by a world-class team of physicians who synthesize the evidence and provide objective analysis. Join practicing physician, Alan Ehrlich, a user of both DynaMed Plus and other clinical decision support tools to find out how DynaMed Plus stacks up with real world examples.<BR><BR><EM><STRONG>Alan Ehrlich, MD, Executive Editor, DynaMed Plus</STRONG><BR></EM><EM>Alan Ehrlich, MD is Executive Editor at DynaMed and a Clinical Associate Professor in Family Medicine at the University of Massachusetts Medical School. He is board certified from the American Board of Family Medicine. Alan graduated from Rutgers Medical School and completed his residency at the University of Massachusetts Medical Center. He currently teaches Evidence-Based Medicine to 3rd year medical students and writes the Evidence-Based Medicine column for Clinical Advisor magazine.</EM><BR><BR></LI>
+      <LI><STRONG>Tips and Tricks for the Perfect CINAHL Search</STRONG><BR>CINAHL, the Cumulative Index to Nursing and Allied Health is a highly-recognized and well-used research tool. CINAHL provides broad content coverage including 50 nursing specialties, speech and language pathology, nutrition, general health and medicine and more. The presentation will focus on search tips and techniques (including limiters) to obtain comprehensive and/or precise search results.<BR><BR><EM><STRONG>Ellen Westling, Senior Engagement Manager - EBSCO Health</STRONG><BR>Ellen is an experienced medical librarian who has been providing customer support and training and working with medical customers at EBSCO for 18 years. Prior to joining EBSCO she worked as the Associate Director at the Countway Library of Medicine at Harvard Medical School and also as a medical librarian at the Treadwell Library at Massachusetts General Hospital.</EM></LI>
+      </UL>
+
+
+  url: https://www.eventbrite.com/e/ebsco-health-showcase-tickets-43895452480
+  start:
+    timezone: America/New_York
+    local: '2018-04-24T09:00:00'
+    utc: '2018-04-24T13:00:00Z'
+- time: 1524751200000
+  link: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/248478539/
+  description:
+    html: "<p>Please join us at our Spring 2018 Library Resource Sharing: Interlibrary
+      Loan Meetup</p> <p>We'll have an open forum for interlibrary loan librarians
+      and other parties interested in posing interlibrary loan related questions or
+      sharing their latest ideas and resources. Please send us any agenda items you’d
+      like to discuss.</p> <p>The event will be held at:</p> <p>The new METRO Training
+      Center (8th floor)</p> <p>599 Eleventh Avenue (between 44th Street and 45th
+      Street)</p> <p>Please note, the METRO Interlibrary Loan SIG and the METRO Circulation
+      and Reserves SIG have combined to become the Library Resource Sharing: Circulation,
+      Interlibrary Loan and Reserves MeetUp group. In this way, new groups can be
+      accommodated by METRO, and you will get more information about our shared interests
+      through a shared MeetUp page and emails. We will also make it clear to everyone
+      which meetings are focused on Interlibrary Loan and which are focused on Circulation
+      and Reserves so that you can attend either one (or both, if you like!). This
+      meeting will be focused on Interlibrary Loan, but everyone is welcome.</p> <p>Hope
+      to see you there!</p> <p>Best,</p> <p>Emma Raub &amp; Beth Posner</p> "
+  name:
+    html: 'Spring 2018 Library Resource Sharing: Interlibrary Loan Meetup'
+  start:
+    utc: '2018-04-26 10:00:00 -0400'
+    local: '2018-04-26 10:00:00 -0400'
+  url: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/248478539/
 - name:
     text: 'Intro to Code: Javascript, data, and poetry'
     html: 'Intro to Code: Javascript, data, and poetry'
