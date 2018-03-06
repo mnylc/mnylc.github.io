@@ -62,6 +62,7 @@ Next application cycle opens Spring 2018.
 - New York Eye & Ear Infirmary, Samuels Medical Library
 - New York Hospital Medical Center of Queens, Health Education Library
 - New York Hospital/Cornell Medical Center, Westchester Division, Medical Library
+- New York Medical College, Health Sciences Library
 - New York Methodist Hospital, Health Sciences Library
 - New York Presbyterian Hospital/Weill Cornell Medical Center
 - New York University Medical Center, Ehrman Medical Library
