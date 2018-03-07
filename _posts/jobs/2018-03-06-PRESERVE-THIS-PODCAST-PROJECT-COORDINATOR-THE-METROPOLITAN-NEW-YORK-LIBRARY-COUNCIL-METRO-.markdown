@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""Preserve This Podcast" Project Coordinator - The Metropolitan New York Library Council (METRO)"
+title:  "\"Preserve This Podcast\" Project Coordinator - The Metropolitan New York Library Council (METRO)"
 date:   2018-03-06
 excerpt: "The Project Coordinator is a temporary, 20-hour per week position running from date-of-hire through December 2019. This position is open to both new and experienced project managers and information professionals interested in supporting advances in born-digital audio preservation and community outreach through managing an education and outreach program focused on..."
 tag: job

@@ -20,8 +20,9 @@ CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
   datestr = datebits[2] + ' ' + datebits[0].rjust(2, '0')
   datestr += ' ' + datebits[1].rjust(2, '0')
   frontmatter_datestr = datestr.tr(' ', '-')
+  fn_title = row[1].upcase
   title = row[1].nil? ? "" : row[1]
-  title_save = title 
+  title.gsub!('"', '\\"')
   institution = row[2].nil? ? "" : row[2]
   description = row[3].nil? ? "" : row[3]
   description.nil? ? "" : description.gsub!('\*', "\n*") 
@@ -76,7 +77,7 @@ tag: job
 #{"### Contact Information###\n\n" + contact_info + "\n" unless contact_info.eql? ""}
 HERE
 
-  jfname = datestr + ' ' + title_save.upcase + ' ' + institution.upcase
+  jfname = datestr + ' ' + fn_title + ' ' + institution.upcase
   jfname.tr!('/ ().,&\'\"', '-')
   jfname.gsub!('--', '-')
   jfname += '.markdown'
