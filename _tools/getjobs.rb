@@ -77,7 +77,7 @@ tag: job
 HERE
 
   jfname = datestr + ' ' + title.upcase + ' ' + institution.upcase
-  jfname.tr!('/ ().,&\'', '-')
+  jfname.tr!('/ ().,&\'\"', '-')
   jfname.gsub!('--', '-')
   jfname += '.markdown'
 
