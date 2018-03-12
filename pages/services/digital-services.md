@@ -44,19 +44,19 @@ Funding for digitization projects is distributed annually. For more information 
 
 ### 2017
 Carnegie Hall Corporation
-Carnegie Hall Incorporated Collections (no link yet)
+Carnegie Hall Incorporated Collections
 2017 Digitization Project Grant
 
 Library of The Jewish Theological Seminary
-Audio of JTS Lectures, 1947-1969 (no link yet)
+Audio of JTS Lectures, 1947-1969
 2017 Digitization Project Grant
 
 New-York Historical Society
-Burr McIntosh Photographic Prints, 1900-1910 (no link yet)
+Burr McIntosh Photographic Prints, 1900-1910
 2017 Digitization Project Grant
 
 New York Public Radio
-On The Media 1993-2000 (no link yet)
+On The Media 1993-2000
 2017 Digitization Project Grant
 
 American Museum of Natural History Library
