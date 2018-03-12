@@ -43,68 +43,68 @@ Funding for digitization projects is distributed annually. For more information 
 ### <a class="anchor" name="projects"></a>Funded Projects
 
 ### 2017
-Carnegie Hall Corporation
-Carnegie Hall Incorporated Collections
-2017 Digitization Project Grant
+Carnegie Hall Corporation  
+Carnegie Hall Incorporated Collections  
+2017 Digitization Project Grant  
 
-Library of The Jewish Theological Seminary
-Audio of JTS Lectures, 1947-1969
-2017 Digitization Project Grant
+Library of The Jewish Theological Seminary  
+Audio of JTS Lectures, 1947-1969  
+2017 Digitization Project Grant  
 
-New-York Historical Society
-Burr McIntosh Photographic Prints, 1900-1910
-2017 Digitization Project Grant
+New-York Historical Society  
+Burr McIntosh Photographic Prints, 1900-1910  
+2017 Digitization Project Grant  
 
-New York Public Radio
-On The Media 1993-2000
-2017 Digitization Project Grant
+New York Public Radio  
+On The Media 1993-2000  
+2017 Digitization Project Grant  
 
-American Museum of Natural History Library
-Biodiversity Heritage Library - Enhancing Access Project
-2017 Digital Conversion MicroGrant
+American Museum of Natural History Library  
+Biodiversity Heritage Library - Enhancing Access Project  
+2017 Digital Conversion MicroGrant  
 
 ### 2016
-The Grolier Club
-The Maria Gerard Messenger Women's Bookplates Collection
+The Grolier Club  
+The Maria Gerard Messenger Women's Bookplates Collection  
+2016 Digitization Project Grant  
+
+New-York Historical Society  
+[Five Rare Timicua Language Imprints, 1612-1635](http://dcmny.org/islandora/object/nyhs%3Atimucua)  
+2016 Digitization Project Grant  
+
+Pilsudski Institute of America  
+Photograph Collection: Polish Armed Forces fighting as a part of Allied Forces in the West during WWII  
 2016 Digitization Project Grant
 
-New-York Historical Society
-[Five Rare Timicua Language Imprints, 1612-1635](http://dcmny.org/islandora/object/nyhs%3Atimucua)
-2016 Digitization Project Grant
+Fordham University Libraries  
+[Selections from Special Collections](https://archive.org/details/specialcollections)  
+2016 Digital Conversion MicroGrant  
 
-Pilsudski Institute of America
-Photograph Collection: Polish Armed Forces fighting as a part of Allied Forces in the West during WWII
-2016 Digitization Project Grant
-
-Fordham University Libraries
-[Selections from Special Collections](https://archive.org/details/specialcollections)
+Hospital for Special Surgery  
+[Early Annual Reports of the Hospital for Special Surgery](https://archive.org/details/hospitalforspecialsurgery)  
 2016 Digital Conversion MicroGrant
 
-Hospital for Special Surgery
-[Early Annual Reports of the Hospital for Special Surgery](https://archive.org/details/hospitalforspecialsurgery)
-2016 Digital Conversion MicroGrant
-
-Icahn School of Medicine at Mount Sinai
-[Annual Reports of St. Luke's and Roosevelt Hospitals](http://dspace.mssm.edu/handle/123456789/31007)
+Icahn School of Medicine at Mount Sinai  
+[Annual Reports of St. Luke's and Roosevelt Hospitals](http://dspace.mssm.edu/handle/123456789/31007)  
 2016 Digital Conversion MicroGrant
 
 
 ### 2015
 
 Baruch College - CUNY  
-[Institute of Public Administration Collection Printed Materials and Reports, 1907-1959](http://dcmny.org/islandora/object/baruch%3Areports)
+[Institute of Public Administration Collection Printed Materials and Reports, 1907-1959](http://dcmny.org/islandora/object/baruch%3Areports)  
 Solo Digitization Project Grant  
 
 Carnegie Hall Archives  
-[Digitizing Carnegie Hall’s Booking Ledgers 1955 - 2007](https://collections.carnegiehall.org/CS.aspx?VP3=SearchResult&VBID=2RRMLB9KIAZ7)
+[Digitizing Carnegie Hall’s Booking Ledgers 1955 - 2007](https://collections.carnegiehall.org/CS.aspx?VP3=SearchResult&VBID=2RRMLB9KIAZ7)  
 Solo Digitization Project Grant  
 
-Research Foundation for SUNY on behalf of SUNY Maritime College, Stephen B. Luce Library  
-[Sailor’s Snug Harbor Inmates Records](http://dcmny.org/islandora/object/maritime%3Ainmates)
+Research Foundation for SUNY on behalf of SUNY Maritime College, Stephen B. Luce Library    
+[Sailor’s Snug Harbor Inmates Records](http://dcmny.org/islandora/object/maritime%3Ainmates)  
 Solo Digitization Project Grant  
 
 A.C. Long Health Sciences Library, Columbia University  
-[Digitization of Columbia University Medical Center Annual Reports, 1920-2010](http://library-archives.cumc.columbia.edu/digital-collections-columbia-university-medical-center-affiliated-hospitals) 
+[Digitization of Columbia University Medical Center Annual Reports, 1920-2010](http://library-archives.cumc.columbia.edu/digital-collections-columbia-university-medical-center-affiliated-hospitals)   
 Digital Conversion Grant  
 
 Fordham University  
