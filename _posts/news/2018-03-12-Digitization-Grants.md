@@ -18,6 +18,6 @@ All of the projects will provide free online access to unique/rare materials in 
 ### About Our Digitization Grant Program  
 Since 2005, METRO’s Digitization Grant program has awarded over $880,000 to help fund 87 projects at 54 METRO member institutions. The program supports the implementation of digitization projects among METRO member libraries and archives.
 
-METRO’s digitization program is supported by funds from the New York State Regional Bibliographic Database Program. For more information about METRO’s digitization grant program, visit https://metro.org/services/digital-services#digi_grants.
+METRO’s digitization program is supported by funds from the New York State Regional Bibliographic Database Program. For more information about METRO’s digitization grant program, visit our [Digtial Services] page(https://metro.org/services/digital-services#digi_grants).
 
 
