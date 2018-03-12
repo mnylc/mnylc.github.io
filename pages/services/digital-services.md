@@ -34,44 +34,90 @@ METRO aggregates descriptive metadata from hundreds of libraries, archives, muse
 ## <a class="anchor" name="digi_grants"></a>Digitization Grant Program
 In January 2005, METRO launched its Digitization Grant Program as an effort to support digitization projects involving significant collections held by METRO member libraries in New York City and Westchester County. This initiative is supported in part by funds from the New York State Regional Bibliographic Databases Program.
 
-Since that time, METRO has awarded approximately $800,000 in grants to support 76 digital projects.
+Since that time, METRO has awarded over $880,000 in grants to support 87 digital projects.
 
-Please note: Funding for digitization projects is on hold at this time. We are currently working on re-envisioning METRO's Digitization grants to more effectively serve the needs of our members. For more information please contact Anne Karle-Zenith, METRO's Digital Services Manager at [annekz@metro.org](mailto:annekz@metro.org).
+Funding for digitization projects is distributed annually. For more information and to discuss potential projects and funding opportunities, please contact Anne Karle-Zenith, METRO’s Associate Director of Business Development, at annekz@metro.org.
 
 [Back to top](#top)
 
 ### <a class="anchor" name="projects"></a>Funded Projects
 
+### 2017
+Carnegie Hall Corporation
+Carnegie Hall Incorporated Collections (no link yet)
+2017 Digitization Project Grant
+
+Library of The Jewish Theological Seminary
+Audio of JTS Lectures, 1947-1969 (no link yet)
+2017 Digitization Project Grant
+
+New-York Historical Society
+Burr McIntosh Photographic Prints, 1900-1910 (no link yet)
+2017 Digitization Project Grant
+
+New York Public Radio
+On The Media 1993-2000 (no link yet)
+2017 Digitization Project Grant
+
+American Museum of Natural History Library
+Biodiversity Heritage Library - Enhancing Access Project
+2017 Digital Conversion MicroGrant
+
+### 2016
+The Grolier Club
+The Maria Gerard Messenger Women's Bookplates Collection
+2016 Digitization Project Grant
+
+New-York Historical Society
+[Five Rare Timicua Language Imprints, 1612-1635](http://dcmny.org/islandora/object/nyhs%3Atimucua)
+2016 Digitization Project Grant
+
+Pilsudski Institute of America
+Photograph Collection: Polish Armed Forces fighting as a part of Allied Forces in the West during WWII
+2016 Digitization Project Grant
+
+Fordham University Libraries
+[Selections from Special Collections](https://archive.org/details/specialcollections)
+2016 Digital Conversion MicroGrant
+
+Hospital for Special Surgery
+[Early Annual Reports of the Hospital for Special Surgery](https://archive.org/details/hospitalforspecialsurgery)
+2016 Digital Conversion MicroGrant
+
+Icahn School of Medicine at Mount Sinai
+[Annual Reports of St. Luke's and Roosevelt Hospitals](http://dspace.mssm.edu/handle/123456789/31007)
+2016 Digital Conversion MicroGrant
+
+
 ### 2015
 
 Baruch College - CUNY  
-Revealing the Hidden History of Reform Government in America: The Archives of the Bureau of Municipal Research & Institute of Public Administration  
+[Institute of Public Administration Collection Printed Materials and Reports, 1907-1959](http://dcmny.org/islandora/object/baruch%3Areports)
 Solo Digitization Project Grant  
 
 Carnegie Hall Archives  
-Digitizing Carnegie Hall’s Booking Ledgers 1955 - 2007  
+[Digitizing Carnegie Hall’s Booking Ledgers 1955 - 2007](https://collections.carnegiehall.org/CS.aspx?VP3=SearchResult&VBID=2RRMLB9KIAZ7)
 Solo Digitization Project Grant  
 
 Research Foundation for SUNY on behalf of SUNY Maritime College, Stephen B. Luce Library  
-Sailor’s Snug Harbor Inmates Records  
+[Sailor’s Snug Harbor Inmates Records](http://dcmny.org/islandora/object/maritime%3Ainmates)
 Solo Digitization Project Grant  
 
 A.C. Long Health Sciences Library, Columbia University  
-Digitization of Columbia University Medical Center Annual Reports, 1920-2010  
+[Digitization of Columbia University Medical Center Annual Reports, 1920-2010](http://library-archives.cumc.columbia.edu/digital-collections-columbia-university-medical-center-affiliated-hospitals) 
 Digital Conversion Grant  
 
 Fordham University  
-Political and religious pamphlets of the Risorgimento (Italian unification, 1815-1871)  
-
+[Political and religious pamphlets of the Risorgimento (Italian unification, 1815-1871)](https://cdm17265.contentdm.oclc.org/digital/collection/italianPamp)  
 Digital Conversion Grant  
 
 Lloyd Sealy Library, John Jay College  
-Digitizing Policing: Opening Access to Law Enforcement Resources  
+[Digitizing Policing: Opening Access to Law Enforcement Resources](https://archive.org/details/johnjaycollegeofcriminaljustice)
 Digital Conversion Grant  
 
 ### 2014
 Brooklyn Museum and Brooklyn Academy of Music  
-Digitizing Brooklyn Institute of Arts & Sciences Periodicals: Phase One  
+[Digitizing Brooklyn Institute of Arts & Sciences Periodicals: Phase One](http://levyarchive.bam.org/Detail/collections/9963)  
 2014 Collaborative Digitization Project Grant  
 
 Frick Art Reference Library  
