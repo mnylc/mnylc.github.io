@@ -7,7 +7,7 @@ tag: news
 
 Our culture is overwhelmed with instances of incorrect information in many forms. From foreign actors to our social connections, misleading and often dangerous information has seemingly co-opted our online and offline spaces.
 
-On Thursday, May 31 and Friday, June 1 METRO will host a symposium on the nature of falsified information. We’ll investigate the (social) media environment that allows incorrect information to thrive, seek a better understanding of the actors behind these events, and wax philosophical about the current state of malinformation and what this foreshadows about the library, archives, and museums community. And we’ll tease out concrete actions to take to better information our communities and ourselves.
+On Thursday, May 31 and Friday, June 1 METRO will host a symposium on the nature of falsified information. We’ll investigate the (social) media environment that allows incorrect information to thrive, seek a better understanding of the actors behind these events, and wax philosophical about the current state of counterfeit information and what this foreshadows about the library, archives, and museums community. And we’ll tease out concrete actions to take to better information our communities and ourselves.
 
 We're now accepting presentation proposals for this symposium. Ideas for presentation topics include but are definitely not limited to:
 
