@@ -117,7 +117,7 @@ Digital Conversion Grant
 
 ### 2014
 Brooklyn Museum and Brooklyn Academy of Music  
-[Digitizing Brooklyn Institute of Arts & Sciences Periodicals: Phase One](http://levyarchive.bam.org/Detail/collections/9963)  
+[Digitizing Brooklyn Institute of Arts & Sciences Periodicals: Phase One](http://levyarchive.bam.org/Detail/collections/9963)    
 2014 Collaborative Digitization Project Grant  
 
 Frick Art Reference Library  
