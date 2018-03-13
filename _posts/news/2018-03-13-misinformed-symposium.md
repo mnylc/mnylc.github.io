@@ -13,7 +13,7 @@ We're now accepting presentation proposals for this symposium. Ideas for present
 
 - Counterfeit information in its various forms (propaganda, disinformation, misinformation, etc.)
 - Historical perspectives on falsified news
-- Explorations of how journalism comes into play, as both intermediaries of falsified news and as information agents
+- Explorations of how journalism is impacted by dis-intermediated information
 - The role of emotion and attention in these issues
 - The actors behind mal-information and what their goals might be
 - The impact of falsified news on our communities
