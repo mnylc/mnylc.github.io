@@ -19,7 +19,7 @@ We're now accepting presentation proposals for this symposium. Ideas for present
 - The impact of falsified news on our communities
 - Ideas for how we might play a role in clarifying these issues for our communities
 
-Please [apply to present](https://docs.google.com/forms/d/e/1FAIpQLSeQh-LvJ1mZDz_F864YCqZnRaWuAh78EcwvaY1Pncblg3OLIg/viewform?usp=sf_link) by midnight on Friday, April 14. Selected presentations will be notified on or by April 27.
+Please [apply to present](https://docs.google.com/forms/d/e/1FAIpQLSeQh-LvJ1mZDz_F864YCqZnRaWuAh78EcwvaY1Pncblg3OLIg/viewform?usp=sf_link) by midnight on Friday, April 13. Selected presentations will be notified on or by April 27.
 
 We are also seeking individuals who would like to join our planning committee for this event. In addition to reviewing and selecting proposals to be presented day-of, you’ll be asked to provide feedback on how we might build interaction and dialogue into this event. We're offering a small stipend; please [apply here](https://docs.google.com/forms/d/e/1FAIpQLSeyHnol-OsVbekksAU000rZxV4MwMH-45gDdc5XjsicFXUdfA/viewform?usp=sf_link) by Friday, March 30.
 
