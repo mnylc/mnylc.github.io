@@ -1,38 +1,5 @@
 ---
 - name:
-    text: ISLE & Islandora Hack/Doc
-    html: ISLE &amp; Islandora Hack/Doc
-  description:
-    text: |-
-      Registration Open: ISLE & Islandora Hack/Doc, March 12-13 in NYC
-      THIS IS NOT SOLD OUT! Registration is open for an Islandora Enterprise (ISLE)-themed hack/doc, March 12-13 at METRO. Attendance is free and space is limited (note that we are currently asking that no more than two people from any single institution register at the moment). Registration will be open until March 5th. Feel free to contact Martha, mtenney@barnard.edu with any questions.
-      Register HERE.
-      What is ISLE?
-      Islandora Enterprise (ISLE) is a new project in development that will address two of the most significant pain-points in Islandora--installation and maintenance--using Docker containers. ISLE is supported by a variety of (mostly small) institutions who have Islandora installations. For more information, click here.  
-      What is a hack/doc and who should attend?
-      A hack/doc combines the form of a hackathon--bringing coders together to work on a predetermined problem in a large block of time--with a substantial documentation and testing component. Attendees with a wide variety of skill sets will be welcomed and supported in hands-on work with ISLE. Anyone who works with installation or maintenance of Islandora (e.g. developers, DevOps folks), people from small institutions with Islandora repositories, and folks interested in migrating to Islandora are especially encouraged to attend.
-      What will we be doing?
-      Plans for the hack/doc are still being formed, but on one of the days you can expect to be introduced to Docker and use ISLE to spin up a full Islandora 7x stack (documentation and friendly ISLE teachers included). Other activities may include improving ISLE testing and documentation; creating workflows for the maintenance of ISLE installations; and discussions about migration, future phases of the ISLE project, coordinating ISLE with Islandora CLAW, and a planned "liberal arts sprint" to develop more robust institutional repository features in Islandora. Finally, you can expect to meet folks, build networks, and personally help to make ISLE more responsive and useful for the Islandora community.
-      What about the venue/food/travel/etc.?
-      We will follow up with schedules, any do-ahead work, and any other necessary information for registered attendees. For more logistics information, please follow this space: https://goo.gl/mdsyyo.
-    html: |-
-      <P>Registration Open: ISLE &amp; Islandora Hack/Doc, March 12-13 in NYC</P>
-      <P><STRONG>THIS IS NOT SOLD OUT!</STRONG> Registration is open for an Islandora Enterprise (ISLE)-themed hack/doc, March 12-13 at METRO. Attendance is free and space is limited (note that we are currently asking that no more than two people from any single institution register at the moment). Registration will be open until March 5th. Feel free to contact Martha, <A HREF="mailto:mtenney@barnard.edu" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">mtenney@barnard.edu</A> with any questions.</P>
-      <P><STRONG>Register </STRONG><A HREF="https://docs.google.com/forms/d/e/1FAIpQLSdCDs6WESTKNUcPVLeE3fs21M_P48xR6glxqyrv0wnAz-wZYw/viewform" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">HERE</A>.<BR></P>
-      <P>What is ISLE?</P>
-      <P>Islandora Enterprise (ISLE) is a new project in development that will address two of the most significant pain-points in Islandora--installation and maintenance--using Docker containers. ISLE is supported by a variety of (mostly small) institutions who have Islandora installations. For more information, click <A HREF="https://islandora-collaboration-group.github.io/ISLE/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A>.  <A HREF="https://islandora-collaboration-group.github.io/ISLE/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><BR></A></P>
-      <P>What is a hack/doc and who should attend?</P>
-      <P>A hack/doc combines the form of a hackathon--bringing coders together to work on a predetermined problem in a large block of time--with a substantial documentation and testing component. Attendees with a wide variety of skill sets will be welcomed and supported in hands-on work with ISLE. Anyone who works with installation or maintenance of Islandora (e.g. developers, DevOps folks), people from small institutions with Islandora repositories, and folks interested in migrating to Islandora are especially encouraged to attend.</P>
-      <P>What will we be doing?</P>
-      <P>Plans for the hack/doc are still being formed, but on one of the days you can expect to be introduced to Docker and use ISLE to spin up a full Islandora 7x stack (documentation and friendly ISLE teachers included). Other activities may include improving ISLE testing and documentation; creating workflows for the maintenance of ISLE installations; and discussions about migration, future phases of the ISLE project, coordinating ISLE with Islandora CLAW, and a planned "liberal arts sprint" to develop more robust institutional repository features in Islandora. Finally, you can expect to meet folks, build networks, and personally help to make ISLE more responsive and useful for the Islandora community.</P>
-      <P>What about the venue/food/travel/etc.?</P>
-      <P>We will follow up with schedules, any do-ahead work, and any other necessary information for registered attendees. For more logistics information, please follow this space: <A HREF="https://goo.gl/mdsyyo" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">https://goo.gl/mdsyyo</A>.</P>
-  url: https://www.eventbrite.com/e/isle-islandora-hackdoc-tickets-42649446643
-  start:
-    timezone: America/New_York
-    local: '2018-03-12T09:00:00'
-    utc: '2018-03-12T13:00:00Z'
-- name:
     text: 'How to Take the Lead: Leveraging your role as a problem-solver in your
       institution'
     html: 'How to Take the Lead: Leveraging your role as a problem-solver in your
