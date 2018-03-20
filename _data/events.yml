@@ -1,12 +1,12 @@
 ---
 - name:
-    text: 'How to Take the Lead: Leveraging your role as a problem-solver in your
-      institution'
-    html: 'How to Take the Lead: Leveraging your role as a problem-solver in your
-      institution'
+    text: 'POSTPONED: How to Take the Lead: Leveraging your role as a problem-solver
+      in your institution'
+    html: 'POSTPONED: How to Take the Lead: Leveraging your role as a problem-solver
+      in your institution'
   description:
     text: |-
-      How to Take the Lead: Leveraging your role as a problem-solver in your institution
+      This session has been postponed. Please stay tuned for the new event date!
       The facilitators of this session will use their own experiences to help participants fill the role of “internal consultants,” employees who “influence [their institutions] through credibility, expertise, skills, knowledge and understanding and to change something.” The workshop will offer practical methods of:· Filling the role of an internal consultant· Explaining your value to committees that solve problems and take advantage of opportunities· Identifying, understanding, and solving the institutions' problems and opportunities to help the institution realize their full potential· Helping find solutions by, for example, searching the literature and facilitating brainstorming sessions with other employeesThis session will consist of an hour-long interactive talk by Sheryl Ramer and Deborah Goss, who have begun to view themselves as internal consultants, followed by several short presentations by librarians who have helped institutions to solve problems.
       Abour Our Instructors
       ​​Sheryl Ramer is Director of the health science library at New York City Health + Hospitals / Elmhurst. She is an integral member of the hospital’s Workforce Development committee, which promotes employee engagement, and the Collaborative Care committee, which improves patient experience. Sheryl identified the need for and piloted a program with CE Direct, an online educational product for health care professionals. The pilot persuaded the administration to purchase CE Direct for all hospital employees. She will soon be featured in the hospital newsletter describing her continuous quality improvement in the library and her work with the 3D printer, which was purchased with a grant from METRO.
@@ -16,7 +16,7 @@
 
       This event is co-sponsored by METRO and BQSIMB (Brooklyn, Queens, Staten Island, Manhattan and the Bronx Health Sciences Librarians). To learn more about BQSIMB, visit their website at http://www.bqsimb.org/.
     html: |-
-      <P><STRONG>How to Take the Lead: Leveraging your role as a problem-solver in your institution</STRONG></P>
+      <P><STRONG>This session has been postponed. Please stay tuned for the new event date!</STRONG></P>
       <P><SPAN>The facilitators of this session will use their own experiences to help participants fill the role of “internal consultants,” employees who “influence [their institutions] through credibility, expertise, skills, knowledge and understanding and to change something.” The workshop will offer practical methods of:</SPAN><BR><BR><SPAN>· Filling the role of an internal consultant</SPAN><BR><SPAN>· Explaining your value to committees that solve problems and take advantage of opportunities</SPAN><BR><SPAN>· Identifying, understanding, and solving the institutions' problems and opportunities to help the institution realize their full potential</SPAN><BR><SPAN>· Helping find solutions by, for example, searching the literature and facilitating brainstorming sessions with other employees</SPAN><BR><BR><SPAN>This session will consist of an hour-long interactive talk by Sheryl Ramer and Deborah Goss, who have begun to view themselves as internal consultants, followed by several short presentations by librarians who have helped institutions to solve problems.<BR><BR></SPAN></P>
       <P><STRONG>Abour Our Instructors</STRONG></P>
       <P><SPAN><SPAN>​​Sheryl Ramer is Dire</SPAN><SPAN>ctor of the health science library at New York City Health + Hospitals / Elmhurst. She is </SPAN><SPAN>an integral member of the hospital’s Workforce Development committee, which promotes employee engagement, and the Collaborativ</SPAN><SPAN>e Care committee, which improves patient experience. </SPAN><SPAN>Sheryl </SPAN><SPAN>identified the need for </SPAN><SPAN>and piloted a program with</SPAN><SPAN> CE Direct, </SPAN><SPAN>an online educational product for health care professionals</SPAN><SPAN>. The pilot </SPAN><SPAN>persuaded</SPAN><SPAN> the</SPAN><SPAN> </SPAN><SPAN>administration to</SPAN><SPAN> </SPAN><SPAN>purchase</SPAN><SPAN> CE Direct for all hospital employees. </SPAN><SPAN>She</SPAN><SPAN> will soon</SPAN><SPAN> be featured in the hospital newsletter describing her </SPAN><SPAN>continuous qual</SPAN><SPAN>ity improvement </SPAN><SPAN>in the library and her work with the </SPAN><SPAN>3D printer, </SPAN><SPAN>which was </SPAN><SPAN>purchased wit</SPAN><SPAN>h a grant from METRO.</SPAN></SPAN></P>
@@ -25,7 +25,7 @@
 
 
       <P><SPAN>This event is co-sponsored by METRO and BQSIMB (Brooklyn, Queens, Staten Island, Manhattan and the Bronx Health Sciences Librarians). To learn more about BQSIMB, visit their website at <A HREF="http://www.bqsimb.org/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">http://www.bqsimb.org/</A>.</SPAN></P>
-  url: https://www.eventbrite.com/e/how-to-take-the-lead-leveraging-your-role-as-a-problem-solver-in-your-institution-tickets-42356314878
+  url: https://www.eventbrite.com/e/postponed-how-to-take-the-lead-leveraging-your-role-as-a-problem-solver-in-your-institution-tickets-42356314878
   start:
     timezone: America/New_York
     local: '2018-03-30T09:00:00'
@@ -604,6 +604,66 @@
     timezone: America/New_York
     local: '2018-04-24T09:00:00'
     utc: '2018-04-24T13:00:00Z'
+- name:
+    text: Using and Improving NYC Open Data Dictionaries
+    html: Using and Improving NYC Open Data Dictionaries
+  description:
+    text: "This session, originally scheduled for March 7th, will now take place on
+      April 25th from 1:00 PM to 5:00 PM.\nNYC Open Data Week 2018\nMETRO is thrilled
+      to be a part of NYC Open Data week this year!\nJoin us on Wednesday, April 25th
+      for a workshop on a critical element of NYC’s open data sets: the data dictionary.
+      Home to key information written by data owners, data dictionaries communicate
+      elements of each data set: column names, descriptions, and values.\nThis workshop
+      will present a crash course on working with NYC Open Data sets and their accompanying
+      data dictionaries. We will learn how data dictionaries are created and build
+      mechanisms to improve the quality of these important resources. With librarians,
+      and NYC Open Data coordinators together in one room, we’ll work together to
+      improve the usability and accessibility of NYC’s open data.\nJoin us for:\n\nA
+      quick briefing on how to access and use data dictionaries\nA discussion with
+      representatives from the City on creating data dictionaries \nA hand-on exercise
+      to offer feedback on how these valuable resources can be improved for public
+      use\n\nThis workshop is ideal for public librarians who are interested in helping
+      their patrons access NYC Open Data and academic librarians who may have had
+      experience with data dictionaries in scholarly work. \nCoffee, tea, and snacks
+      will be provided. Please feel free to bring a brown bag lunch.\n\nWhat to Bring:\n\nA
+      laptop (or click here to borrow one of METRO's for $5.00)\n\nFacilitator Biography:Julia
+      Marden is a data librarian and consultant, with a decade of experience working
+      at the intersection of civic technology, education, and community engagement.
+      With her firm, Tiny Panther Consulting, she brings data librarian services to
+      the public, teaching data literacy workshops and helping socially-minded organizations
+      collect and analyze data with the communities they serve. Julia commutes around
+      NYC on a glitter purple bicycle, on a quest to demystify data and upset the
+      balance of power in data-driven research.\n\nWorkshop fees:Fees for this event
+      are $40 for METRO members and $80 for non-members. If you’re in need of a subsidized
+      ticket in order to attend this event, please email us at events@metro.org.\n\n"
+    html: |+
+      <P><STRONG>This session, originally scheduled for March 7th, will now take place on April 25th from 1:00 PM to 5:00 PM.</STRONG></P>
+      <P><STRONG><BR></STRONG>NYC Open Data Week 2018<BR></P>
+      <P>METRO is thrilled to be a part of NYC Open Data week this year!</P>
+      <P>Join us on Wednesday, April 25th for a workshop on a critical element of NYC’s open data sets: the data dictionary. Home to key information written by data owners, data dictionaries communicate elements of each data set: column names, descriptions, and values.</P>
+      <P>This workshop will present a crash course on working with NYC Open Data sets and their accompanying data dictionaries. We will learn how data dictionaries are created and build mechanisms to improve the quality of these important resources. With librarians, and NYC Open Data coordinators together in one room, we’ll work together to improve the usability and accessibility of NYC’s open data.</P>
+      <P>Join us for:</P>
+      <UL>
+      <LI>A quick briefing on how to access and use data dictionaries</LI>
+      <LI>A discussion with representatives from the City on creating data dictionaries </LI>
+      <LI>A hand-on exercise to offer feedback on how these valuable resources can be improved for public use</LI>
+      </UL>
+      <P>This workshop is ideal for public librarians who are interested in helping their patrons access NYC Open Data and academic librarians who may have had experience with data dictionaries in scholarly work. <BR></P>
+      <P><SPAN>Coffee, tea, and snacks will be provided. Please feel free to bring a brown bag lunch.</SPAN></P>
+
+      <P><SPAN><SPAN><STRONG>What to Bring:</STRONG><BR></SPAN></SPAN></P>
+      <UL>
+      <LI>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's for $5.00)<BR><BR></LI>
+      </UL>
+      <P><SPAN><STRONG>Facilitator Biography:</STRONG><BR></SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. With her firm, Tiny Panther Consulting, she brings data librarian services to the public, teaching data literacy workshops and helping socially-minded organizations collect and analyze data with the communities they serve. Julia commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</P>
+
+      <P><SPAN><STRONG>Workshop fees:</STRONG><BR></SPAN>Fees for this event are $40 for METRO members and $80 for non-members. If you’re in need of a subsidized ticket in order to attend this event, please email us at <A HREF="mailto:events@metro.org" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">events@metro.org</A>.<BR><BR><BR></P>
+
+  url: https://www.eventbrite.com/e/using-and-improving-nyc-open-data-dictionaries-tickets-44381931552
+  start:
+    timezone: America/New_York
+    local: '2018-04-25T13:00:00'
+    utc: '2018-04-25T17:00:00Z'
 - time: 1524751200000
   link: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/248478539/
   description:
