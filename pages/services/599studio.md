@@ -1,35 +1,43 @@
 ---
-title: 599 Studio
+title: Studio 599
 permalink: /services/599studio
 ---
-Come use our studio services on the 8th floor at 599 11th Ave! Read more about the equipment available at each of our 5 workstations further down on this page. Fill out the accompanying interest forms to book a time to use the stations. Please contact the Studio Manager, Molly Schwartz, with any comments or questions: mschwartz@metro.org.
+Come use our studio services on the 8th floor at 599 11th Ave! Read more about the equipment available at each of our  workstations further down on this page. Fill out the accompanying interest forms to book a time to use the stations. Please contact the Studio Manager, Molly Schwartz, with any comments or questions: mschwartz@metro.org.
 
 1. ### Audio Recording and Editing
-    [Book a session with this form](https://airtable.com/embed/shrI3cJL6NSHh4uiv?backgroundColor=cyan)
+    [Book a session here](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=100086&mode=resource_desc)
     
     [Read more about our audio services](#audio-workstation)
+	
+	[Review our audio documentation](https://docs.google.com/document/d/1qXRI6PSu5LMmLy8tGdfRjXrJ7b3ARRokqvXOLQT0UJs/edit?usp=sharing)
 
 2. ### Digitization 
-   [Send an inquiry with this form](https://airtable.com/embed/shr4tXGpVx7db0FcI?backgroundColor=cyan)
+   [Book a session here](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=103212&mode=resource_desc)
    
    [Read more about our digitization services and scanning equipment](#digi-workstation)
    
+   [Review our digitization documentation](https://docs.google.com/document/d/1I_BLirxrKvJYYqY1VKfSHh6rZKaBsOQV_5iQG2QgaYY/edit?usp=sharing)
+   
 3. ### AV Media Transfer  
-   [Send an inquiry with this form](https://airtable.com/shrEMIIX0VYaKTc5c)
+   [Book a session here](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=103211&mode=resource_desc)
    
    [Read more about our AV media transfer equipment](#av-transfer)
    
-   [View the full AV Media Transfer Station documentation and workflow](https://docs.google.com/document/d/1MSyAroe0YGXvE-wIksrRFFOWxuu5Nk3ZnJatq11Is3o/edit?usp=sharing)
+   [Review our AV Transfer documentation](https://docs.google.com/document/d/1MSyAroe0YGXvE-wIksrRFFOWxuu5Nk3ZnJatq11Is3o/edit?usp=sharing)
 
 4. ### Media Migration and Recovery 
    [Send an inquiry with this form](https://airtable.com/embed/shr2aXLzQoqNIsrQ0?backgroundColor=cyan)
    
    [Read more about our media migration and recovery equipment](#media-migration)
 
-5. ### Graphic Output / Printing
-   [Read more about our vinyl cutter](#graphic-output)
+5. ### Vinyl Decal Plotter
+   [Book a session here](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=105860&mode=resource_desc)
 
-We also have a couple of desktop computers available with software for image, audio, and video post-processing.
+	[Read more about our vinyl cutter](#graphic-output)
+	
+	[Review our vinyl plotter documentation](https://drive.google.com/drive/folders/0B6QH4281xfxSeXVoRkpFaVFzV3M?usp=sharing)
+
+We also have two desktop computers available with software for image, audio, and video post-processing.
 
 ## The Story Behind the Studio
 
@@ -45,30 +53,36 @@ Pricing:
 * METRO members: $20 / hour
 
 Our [5 x 7 foot VocalBooth Recording Studio and Sound Isolation Booth](http://www.vocalbooth.com/)
-is a stand-alone, pop-up recording studio that filters out outside noise and improves sound quality of recordings. Equipped with a ventilation, outlets, lighting, cable ports, and foam wrapped walls. It is perfect for recording podcasts, voice-overs, and oral histories. 
+is a stand-alone, pop-up recording studio that filters out outside noise and improves sound quality of recordings. Equipped with ventilation, outlets, lighting, cable ports, and foam wrapped walls, it is perfect for recording podcasts, voice-overs, and oral histories. 
 
-[3 Blue Yeti Microphones](http://www.bluemic.com/products/yeti/)
-Studio-quality USB microphones, outfitted with pop filters and suspension arms to soften those "p-pops" and table noises.
+Available equipment includes:
 
-[Izotope RX Plugin](https://www.izotope.com/en/products/repair-and-edit/rx-plug-in-pack.html)
-Software for post-production audio cleaning. De-noising, de-humming, de-clicking ...
+- [2 Electro-Voice RE20 Microphones:](https://www.electrovoice.com/product.php?id=91) These are industry standard dynamic cardioid microphones, with internal pop filters and an internal shock mount.
 
-[Reaper](http://www.reaper.fm/)
+- [MOTU 4 pre Digital Audio Interface:](http://motu.com/products/motuaudio/4pre) For monitoring your microphones, adjusting levels, and helping you record directly onto the computer using the software of your choice. Each microphone records onto a separate track. Comes with CueMix software.
+
+- [Reaper:](http://www.reaper.fm/)
 Digital Audio Workstation (DAW) for audio recording, editing, and mixing.
 
-[Yamaha HS5 speakers](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
+- [Yamaha HS5 speakers:](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
 Industry standard stereo speakers that let you play back your recordings and mixes on an ideal sonic platform.
 
-[ARTcessories HeadAmp 4](http://artproaudio.com/headphone_amps/product/headamp_4/) 
+- [ARTcessories HeadAmp 4:](http://artproaudio.com/headphone_amps/product/headamp_4/) 
 Head amp for 4 sets of headphones.
 
-[Fill out this form to book a session.](https://airtable.com/embed/shrI3cJL6NSHh4uiv?backgroundColor=cyan) 
+[Book a session here.](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=100086&mode=resource_desc)
 
 [Back to top](#top)
 
 <a class="anchor" name="digi-workstation"></a>
 
-## Digitization Services
+## Digitization Services 
+
+Pricing:
+- General: $30 / hour
+- Non-profits: $20 / hour
+- METRO members: $15 / hour
+
 
 ### Flatbed Scanning 
 [The Epson Perfection V600 Photo Scanner](https://epson.com/For-Home/Scanners/Photo/Epson-Perfection-V600-Photo-Scanner/p/B11B198011) and [Epson Expression 11000XL Photo Scanner](https://epson.com/For-Work/Scanners/Photo-and-Graphics/Epson-Expression-11000XL--Photo-Scanner/p/E11000XL-PH)
@@ -92,13 +106,18 @@ Using the macro lens coupled with our [Porta-Trace 10 x 12" LED lightbox](https:
 [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html)
 Software for post-processing of images. Batch edit with Adobe Bridge or Photoshop, create a range of derivatives to suit your needs or work on individual images to crop, resize or manage color and tone. 
 
-[Fill out this form to book a service.](https://airtable.com/embed/shr4tXGpVx7db0FcI?backgroundColor=cyan)
+[Book a session here.](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=103212&mode=resource_desc)
 
 [Back to top](#top)
 
 <a class="anchor" name="av-transfer"></a>
 
 ## AV Media Transfer Services
+
+Pricing:
+- General: $30 / hour
+- Non-profits: $20 / hour
+- METRO members: $15 / hour
 
 At METRO's transfer station you can migrate your unstable audio and video media to digital, preservation-level files. Our rack is unique in that it supports audio-to-digital video transfer, digital-to-digital video transfer, and audio transfer. The transfer rack and workflows were built and created by the [XFR Collective](https://xfrcollective.wordpress.com/) as part of their [partnership with METRO.](http://metro.org/news/METRO-AND-XFR-COLLECTIVE-NEW-PARTNERSHIP)
 
@@ -112,7 +131,7 @@ The rack in METRO's studio has decks that can handle the following formats:
 
 You will need to determine which AV formats you have and make sure they do not display signs of mold or [sticky-shed syndrome](https://en.wikipedia.org/wiki/Sticky-shed_syndrome) before you come in for an appointment. If you have any questions please email mschwartz@metro.org or xfrcollective@gmail.com. 
 
-[Fill out this form to book a service.](https://airtable.com/shrEMIIX0VYaKTc5c)
+[Book a session here.](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=103211&mode=resource_desc)
 
 [Read the full AV Transfer Station workflow and documentation.](https://docs.google.com/document/d/1MSyAroe0YGXvE-wIksrRFFOWxuu5Nk3ZnJatq11Is3o/edit?usp=sharing) 
 
@@ -130,10 +149,10 @@ Both the Born-digital and the Digital Forensics workstations come equipped with 
 
 The born-digital workstation is a Windows 7 (64-bit) CPU with a 3.7 GHz Intel Xeon processor, 32 GB RAM, and a 2TB SATA hard drive. It comes equipped with [BitCurator](https://www.bitcurator.net/), an open-source suite of digital forensics tools, and [ePADD](http://epadd.stanford.edu/epadd/collections), an open-source software package that supports archival processes around the appraisal, ingest, processing, discovery, and delivery of email archives. The following legacy media drives are available to recover archival data:
 
-3.5” floppy disk drive
-5.25” floppy disk drive
-Zip disk drive
-Multimedia and memory cards (found in digital Cameras, MP3 Players, VoiceRecorders, etc.)
+- 3.5” floppy disk drive
+- 5.25” floppy disk drive
+- Zip disk drive
+- Multimedia and memory cards (found in digital Cameras, MP3 Players, VoiceRecorders, etc.)
 
 [Fill out this form to book a service.](https://airtable.com/embed/shr2aXLzQoqNIsrQ0?backgroundColor=cyan)
 
@@ -141,11 +160,13 @@ Multimedia and memory cards (found in digital Cameras, MP3 Players, VoiceRecorde
 
 <a class="anchor" name="graphic-output"/>
 
-## Graphic Output / Print Station
+## Vinyl Plotter Station
 
-We have a [Graphtec CE6000 vinyl plotter](http://www.graphtecamerica.com/graphtec-america-products-cutting-plotters-ce6000-4060120-professional-performance) that is available for our members to make high quality, professional decals for exhibits, displays, and countless other uses. Because this is a new service, we have a limited supply of vinyl in 10 different colors that we can make available to you for free. Moving forward, vinyl will be available for a fee, or you can bring your own material as long as it fits the correct specifications for this machine.
+Pricing:
+- General: $5 / hour
+- Non-profits & METRO members: use of the station is free, with vinyl made available at $1.00/square foot
 
-[Software requirements and tutorial videos](/vinyl).
+We have a [Graphtec CE6000 vinyl plotter](http://www.graphtecamerica.com/graphtec-america-products-cutting-plotters-ce6000-4060120-professional-performance) that is available for our members to make high quality, professional decals for exhibits, displays, and countless other uses.  You can learn more about how to use the vinyl plotter [here.]({{ '/vinyl' | append: site.baseurl }})
 
 [Back to top](#top)
 
