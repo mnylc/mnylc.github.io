@@ -576,6 +576,33 @@
     local: '2018-04-24T09:00:00'
     utc: '2018-04-24T13:00:00Z'
 - name:
+    text: Audiovisual Digitization at Your Place
+    html: Audiovisual Digitization at Your Place
+  description:
+    text: |+
+      Audiovisual Digitization at Your Place
+      This workshop will explore aspects about managing an in-house video digitization project within an archive.
+      This includes reviewing necessary hardware and software, arrangement and planning with collections, quality control of digitized works, technical decisions, and workflow. The workshop will also cover variance, lessons learned, and advantages in existing digitization projects as well as encourage discussion and planning about in-house digitization at your institution.
+
+      About our instructor:
+      Dave Rice is an audiovisual archivist and technologist. Dave’s work focuses on independent media as well as open source in audiovisual preservation and quality control analytics. He has worked as an archivist or archival consultant at media organizations like CUNY, Democracy Now!, The United Nations, WITNESS, DCTV, and Bay Area Video Coalition. Dave is a graduate of the L. Jeffrey Selznick School of Film Preservation.
+
+
+    html: |+
+      <P><STRONG>Audiovisual Digitization at Your Place</STRONG><BR></P>
+      <P><BR>This workshop will explore aspects about managing an in-house video digitization project within an archive.</P>
+      <P>This includes reviewing necessary hardware and software, arrangement and planning with collections, quality control of digitized works, technical decisions, and workflow. The workshop will also cover variance, lessons learned, and advantages in existing digitization projects as well as encourage discussion and planning about in-house digitization at your institution.</P>
+
+      <P><STRONG>About our instructor:</STRONG></P>
+      <P><SPAN>Dave Rice is an audiovisual archivist and technologist. Dave’s work focuses on independent media as well as open source in audiovisual preservation and quality control analytics. He has worked as an archivist or archival consultant at media organizations like CUNY, Democracy Now!, The United Nations, WITNESS, DCTV, and Bay Area Video Coalition. Dave is a graduate of the L. Jeffrey Selznick School of Film Preservation.</SPAN></P>
+
+
+  url: https://www.eventbrite.com/e/audiovisual-digitization-at-your-place-tickets-44595636750
+  start:
+    timezone: America/New_York
+    local: '2018-04-24T16:00:00'
+    utc: '2018-04-24T20:00:00Z'
+- name:
     text: Using and Improving NYC Open Data Dictionaries
     html: Using and Improving NYC Open Data Dictionaries
   description:
@@ -659,6 +686,59 @@
     utc: '2018-04-26 10:00:00 -0400'
     local: '2018-04-26 10:00:00 -0400'
   url: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/248478539/
+- name:
+    text: Intro to Data Analysis with R, Part 1
+    html: Intro to Data Analysis with R, Part 1
+  description:
+    text: |+
+      Intro to Data Analysis with R, Part 1To register for Part 2, click here.
+
+      Participants will build on critical data literacy skills from previous workshops and begin to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights.
+      Participants will:
+
+      Download and install R and RStudio
+      Navigate the RStudio interface
+      Explore a dataset from NYC Open Data.
+
+      This two-part workshop will include at-home practice.
+
+      What to bring:
+
+      A laptop (or click here to borrow one of METRO's for $5.00).
+
+
+
+      About our instructor:
+      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
+
+
+    html: |+
+      <P><STRONG>Intro to Data Analysis with R, Part 1<BR></STRONG>To register for Part 2, click <A HREF="https://www.eventbrite.com/e/copy-of-intro-to-data-analysis-with-r-part-2-tickets-44596280676" TARGET="_blank" REL="noopener noreferrer noopener noreferrer">here</A>.<BR></P>
+
+      <P><SPAN>Participants will build on critical data literacy skills from previous workshops and begin to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights.</SPAN></P>
+      <P>Participants will:</P>
+      <UL>
+      <LI>Download and install R and RStudio</LI>
+      <LI>Navigate the RStudio interface</LI>
+      <LI>Explore a dataset from NYC Open Data.</LI>
+      </UL>
+      <P>This two-part workshop will include at-home practice.</P>
+
+      <P><STRONG>What to bring:</STRONG></P>
+      <UL>
+      <LI>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's for $5.00).</LI>
+      </UL>
+
+
+      <P><STRONG>About our instructor:</STRONG></P>
+      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
+
+
+  url: https://www.eventbrite.com/e/intro-to-data-analysis-with-r-part-1-tickets-44596043968
+  start:
+    timezone: America/New_York
+    local: '2018-05-03T16:00:00'
+    utc: '2018-05-03T20:00:00Z'
 - name:
     text: 'Intro to Code: Javascript, data, and poetry'
     html: 'Intro to Code: Javascript, data, and poetry'
@@ -847,6 +927,59 @@
     timezone: America/New_York
     local: '2018-05-08T17:00:00'
     utc: '2018-05-08T21:00:00Z'
+- name:
+    text: Intro to Data Analysis with R, Part 2
+    html: Intro to Data Analysis with R, Part 2
+  description:
+    text: |+
+      Intro to Data Analysis with R, Part 2To register for Part 1, click here.
+
+      Participants will build on critical data literacy skills from previous workshops and begin to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights.
+      Participants will:
+
+      Download and install R and RStudio
+      Navigate the RStudio interface
+      Explore a dataset from NYC Open Data.
+
+      This two-part workshop will include at-home practice.
+
+      What to bring:
+
+      A laptop (or click here to borrow one of METRO's for $5.00).
+
+
+
+      About our instructor:
+      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
+
+
+    html: |+
+      <P><STRONG>Intro to Data Analysis with R, Part 2<BR></STRONG>To register for Part 1, click <A HREF="https://www.eventbrite.com/e/intro-to-data-analysis-with-r-part-1-tickets-44596043968" TARGET="_blank" REL="noopener noreferrer noopener noreferrer">here</A>.<BR></P>
+
+      <P><SPAN>Participants will build on critical data literacy skills from previous workshops and begin to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights.</SPAN></P>
+      <P>Participants will:</P>
+      <UL>
+      <LI>Download and install R and RStudio</LI>
+      <LI>Navigate the RStudio interface</LI>
+      <LI>Explore a dataset from NYC Open Data.</LI>
+      </UL>
+      <P>This two-part workshop will include at-home practice.</P>
+
+      <P><STRONG>What to bring:</STRONG></P>
+      <UL>
+      <LI>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's for $5.00).</LI>
+      </UL>
+
+
+      <P><STRONG>About our instructor:</STRONG></P>
+      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
+
+
+  url: https://www.eventbrite.com/e/intro-to-data-analysis-with-r-part-2-tickets-44596280676
+  start:
+    timezone: America/New_York
+    local: '2018-05-10T16:00:00'
+    utc: '2018-05-10T20:00:00Z'
 - name:
     text: 'Understanding Data on the Web: data traces, Tor browser, and SecureDrop'
     html: 'Understanding Data on the Web: data traces, Tor browser, and SecureDrop'
