@@ -616,37 +616,36 @@
     html: Using and Improving NYC Open Data Dictionaries
   description:
     text: "This session, originally scheduled for March 7th, will now take place on
-      April 25th from 1:00 PM to 5:00 PM.\nNYC Open Data Week 2018\nMETRO is thrilled
-      to be a part of NYC Open Data week this year!\nJoin us on Wednesday, April 25th
-      for a workshop on a critical element of NYC’s open data sets: the data dictionary.
-      Home to key information written by data owners, data dictionaries communicate
-      elements of each data set: column names, descriptions, and values.\nThis workshop
-      will present a crash course on working with NYC Open Data sets and their accompanying
-      data dictionaries. We will learn how data dictionaries are created and build
-      mechanisms to improve the quality of these important resources. With librarians,
-      and NYC Open Data coordinators together in one room, we’ll work together to
-      improve the usability and accessibility of NYC’s open data.\nJoin us for:\n\nA
-      quick briefing on how to access and use data dictionaries\nA discussion with
-      representatives from the City on creating data dictionaries \nA hand-on exercise
-      to offer feedback on how these valuable resources can be improved for public
-      use\n\nThis workshop is ideal for public librarians who are interested in helping
-      their patrons access NYC Open Data and academic librarians who may have had
-      experience with data dictionaries in scholarly work. \nCoffee, tea, and snacks
-      will be provided. Please feel free to bring a brown bag lunch.\n\nWhat to Bring:\n\nA
-      laptop (or click here to borrow one of METRO's for $5.00)\n\nFacilitator Biography:Julia
-      Marden is a data librarian and consultant, with a decade of experience working
-      at the intersection of civic technology, education, and community engagement.
-      With her firm, Tiny Panther Consulting, she brings data librarian services to
-      the public, teaching data literacy workshops and helping socially-minded organizations
-      collect and analyze data with the communities they serve. Julia commutes around
-      NYC on a glitter purple bicycle, on a quest to demystify data and upset the
-      balance of power in data-driven research.\n\nWorkshop fees:Fees for this event
-      are $40 for METRO members and $80 for non-members. If you’re in need of a subsidized
-      ticket in order to attend this event, please email us at events@metro.org.\n\n"
+      April 25th from 1:00 PM to 5:00 PM.\nNYC Open Data Week 2018\nJoin us on Wednesday,
+      April 25th for a workshop on a critical element of NYC’s open data sets: the
+      data dictionary. Home to key information written by data owners, data dictionaries
+      communicate elements of each data set: column names, descriptions, and values.\nThis
+      workshop will present a crash course on working with NYC Open Data sets and
+      their accompanying data dictionaries. We will learn how data dictionaries are
+      created and build mechanisms to improve the quality of these important resources.
+      With librarians, and NYC Open Data coordinators together in one room, we’ll
+      work together to improve the usability and accessibility of NYC’s open data.\nJoin
+      us for:\n\nA quick briefing on how to access and use data dictionaries\nA discussion
+      with representatives from the City on creating data dictionaries \nA hand-on
+      exercise to offer feedback on how these valuable resources can be improved for
+      public use\n\nThis workshop is ideal for public librarians who are interested
+      in helping their patrons access NYC Open Data and academic librarians who may
+      have had experience with data dictionaries in scholarly work. \nCoffee, tea,
+      and snacks will be provided. Please feel free to bring a brown bag lunch.\n\nWhat
+      to Bring:\n\nA laptop (or click here to borrow one of METRO's for $5.00)\n\nFacilitator
+      Biography:Julia Marden is a data librarian and consultant, with a decade of
+      experience working at the intersection of civic technology, education, and community
+      engagement. With her firm, Tiny Panther Consulting, she brings data librarian
+      services to the public, teaching data literacy workshops and helping socially-minded
+      organizations collect and analyze data with the communities they serve. Julia
+      commutes around NYC on a glitter purple bicycle, on a quest to demystify data
+      and upset the balance of power in data-driven research.\n\nWorkshop fees:Fees
+      for this event are $40 for METRO members and $80 for non-members. If you’re
+      in need of a subsidized ticket in order to attend this event, please email us
+      at events@metro.org.\n\n"
     html: |+
       <P><STRONG>This session, originally scheduled for March 7th, will now take place on April 25th from 1:00 PM to 5:00 PM.</STRONG></P>
       <P><STRONG><BR></STRONG>NYC Open Data Week 2018<BR></P>
-      <P>METRO is thrilled to be a part of NYC Open Data week this year!</P>
       <P>Join us on Wednesday, April 25th for a workshop on a critical element of NYC’s open data sets: the data dictionary. Home to key information written by data owners, data dictionaries communicate elements of each data set: column names, descriptions, and values.</P>
       <P>This workshop will present a crash course on working with NYC Open Data sets and their accompanying data dictionaries. We will learn how data dictionaries are created and build mechanisms to improve the quality of these important resources. With librarians, and NYC Open Data coordinators together in one room, we’ll work together to improve the usability and accessibility of NYC’s open data.</P>
       <P>Join us for:</P>
@@ -1191,63 +1190,193 @@
     local: '2018-05-30T15:00:00'
     utc: '2018-05-30T19:00:00Z'
 - name:
-    text: 'Photography & Photoshop Essentials, Part 1: Essential Lighting Techniques
-      for 3D Objects and Flat Art'
-    html: 'Photography &amp; Photoshop Essentials, Part 1: Essential Lighting Techniques
-      for 3D Objects and Flat Art'
+    text: Photography & Photoshop Essentials, Part 1
+    html: Photography &amp; Photoshop Essentials, Part 1
   description:
     text: |+
-      Photography & Photoshop Essentials, Part 1:Essential Lighting Techniques for 3D Objects and Flat Art
+      Photography & Photoshop Essentials, Part 1:Essential lighting techniques for 3D objects and flat art
       This session, originally scheduled for March 15th, will now take place on Thursday, June 21st.
-      We are putting more and more of our cultural heritage objects online as digital images. Learn how to photograph 2- and 3- dimensional objects in a way that captures and enhances the detail and beauty of the originals. In this session we will cover techniques that you can apply to online exhibits, promotional materials, or digitization work.
-      The first in a series of three workshops centered on photography and photoshop, this session will give participants an introductory understanding of essential lighting techniques for 3D objects and flat art. Topics covered will include:
+      We are putting more and more of our cultural heritage objects online as digital images. Learn how to photograph 2- and 3-dimensional objects in a way that captures and enhances the detail and beauty of the originals. In this series we will cover techniques that you can apply to online exhibits, promotional materials, or digitization work.
+      This first of three sessions centered around photography and Photoshop will give participants an introductory understanding of essential lighting techniques for 3D objects and flat art. Topics covered will include:
 
-
-      Understanding light
-
-
-      Types of light sources
-
-
-      Direct light vs. diffused light
-
-
-      Lighting techniques for three-dimensional objects
-
-
-      Lighting techniques for two-dimensional objects and flat art
-
-
+      ·      Understanding light
+      ·      Types of light sources
+      ·      Direct light vs. diffused light
+      ·      Lighting techniques for three-dimensional objects
+      ·      Lighting techniques for two-dimensional objects and flat art
+      ·      Build your own DIY lighting Kit
+      ·      Correcting Color balance and exposure in Adobe Photoshop
       No prerequisite knowledge or experience is required for this session. Students are encouraged to bring their own cameras in order to participate in hands-on exercises throughout the workshop.
+
+      This series:
+
+      To register for Part 2 on June 27th, click here.
+      To register for Part 3 on June 28th, click here.
+
+
       About our instructor:Oscar Frasser is a professional image-maker and storyteller with a focus on human rights human rights issues and Latin American topics. With over 20 years of experience as a photographer, cinematographer and filmmaker, Oscar has worked extensively in the areas of documentary filmmaking, photojournalism, media education and advertising. Oscar has won multiple awards in both the United States and internationally for his films and photo exhibitions. Oscar is currently specializing his cinematography work with drones, teaching as an Adjunct Professor of Filmmaking­ at The New School and working as a freelancer in video and photojournalism for the Associated Press at the United Nations and Notimex, a National News Agency of Mexico.
 
     html: |+
-      <P><STRONG>Photography &amp; Photoshop Essentials, Part 1:<BR>Essential Lighting Techniques for 3D Objects and Flat Art</STRONG></P>
-      <P><EM><STRONG>This session, originally scheduled for March 15th, will now take place on Thursday, June 21st.</STRONG></EM></P>
-      <P>We are putting more and more of our cultural heritage objects online as digital images. Learn how to photograph 2- and 3- dimensional objects in a way that captures and enhances the detail and beauty of the originals. In this session we will cover techniques that you can apply to online exhibits, promotional materials, or digitization work.</P>
-      <P>The first in a series of three workshops centered on photography and photoshop, this session will give participants an introductory understanding of essential lighting techniques for 3D objects and flat art. Topics covered will include:</P>
-      <UL>
-      <LI>
-      <P><SPAN>Understanding light</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Types of light sources</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Direct light vs. diffused light</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Lighting techniques for three-dimensional objects</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Lighting techniques for two-dimensional objects and flat art</SPAN></P>
-      </LI>
-      </UL>
-      <P>No prerequisite knowledge or experience is required for this session. Students are encouraged to bring their own cameras in order to participate in hands-on exercises throughout the workshop.</P>
-      <P><BR><STRONG>About our instructor:<BR></STRONG>Oscar Frasser is a professional image-maker and storyteller with a focus on human rights human rights issues and Latin American topics. With over 20 years of experience as a photographer, cinematographer and filmmaker, Oscar has worked extensively in the areas of documentary filmmaking, photojournalism, media education and advertising. Oscar has won multiple awards in both the United States and internationally for his films and photo exhibitions. Oscar is currently specializing his cinematography work with drones, teaching as an Adjunct Professor of Filmmaking­ at The New School and working as a freelancer in video and photojournalism for the Associated Press at the United Nations and Notimex, a National News Agency of Mexico.</P>
+      <P><STRONG>Photography &amp; Photoshop Essentials, Part 1:<BR>Essential lighting techniques for 3D objects and flat art</STRONG></P>
+      <P><EM>This session, originally scheduled for March 15th, will now take place on Thursday, June 21st.</EM></P>
+      <P><BR>We are putting more and more of our cultural heritage objects online as digital images. Learn how to photograph 2- and 3-dimensional objects in a way that captures and enhances the detail and beauty of the originals. In this series we will cover techniques that you can apply to online exhibits, promotional materials, or digitization work.</P>
+      <P><SPAN>This first of three sessions centered around photography and Photoshop will give participants an introductory understanding of essential lighting techniques for 3D objects and flat art. Topics covered will include:</SPAN></P>
 
-  url: https://www.eventbrite.com/e/photography-photoshop-essentials-part-1-essential-lighting-techniques-for-3d-objects-and-flat-art-tickets-43406411746
+      <P><SPAN>·      Understanding light</SPAN></P>
+      <P><SPAN>·      Types of light sources</SPAN></P>
+      <P><SPAN>·      Direct light vs. diffused light</SPAN></P>
+      <P><SPAN>·      Lighting techniques for three-dimensional objects</SPAN></P>
+      <P><SPAN>·      Lighting techniques for two-dimensional objects and flat art</SPAN></P>
+      <P><SPAN>·      Build your own DIY lighting Kit</SPAN></P>
+      <P><SPAN>·      Correcting Color balance and exposure in Adobe Photoshop</SPAN></P>
+      <P><BR>No prerequisite knowledge or experience is required for this session. Students are encouraged to bring their own cameras in order to participate in hands-on exercises throughout the workshop.</P>
+
+      <P><STRONG>This series:</STRONG></P>
+      <UL>
+      <LI>To register for Part 2 on June 27th, click <A HREF="https://www.eventbrite.com/e/photography-photoshop-essentials-part-2-tickets-44647338391" TARGET="_blank" REL="noopener noreferrer noopener noreferrer">here</A>.</LI>
+      <LI><SPAN>To register for Part 3 on June 28th, click </SPAN><A HREF="https://www.eventbrite.com/e/photography-photoshop-essentials-part-3-tickets-44647461760" TARGET="_blank" REL="noopener noreferrer noopener noreferrer">here</A><SPAN>.</SPAN></LI>
+      </UL>
+
+      <P><STRONG>About our instructor:<BR></STRONG>Oscar Frasser is a professional image-maker and storyteller with a focus on human rights human rights issues and Latin American topics. With over 20 years of experience as a photographer, cinematographer and filmmaker, Oscar has worked extensively in the areas of documentary filmmaking, photojournalism, media education and advertising. Oscar has won multiple awards in both the United States and internationally for his films and photo exhibitions. Oscar is currently specializing his cinematography work with drones, teaching as an Adjunct Professor of Filmmaking­ at The New School and working as a freelancer in video and photojournalism for the Associated Press at the United Nations and Notimex, a National News Agency of Mexico.</P>
+
+  url: https://www.eventbrite.com/e/photography-photoshop-essentials-part-1-tickets-43406411746
   start:
     timezone: America/New_York
     local: '2018-06-21T17:00:00'
     utc: '2018-06-21T21:00:00Z'
+- name:
+    text: Photography & Photoshop Essentials, Part 2
+    html: Photography &amp; Photoshop Essentials, Part 2
+  description:
+    text: |+
+      Photography & Photoshop Essentials, Part 2: Essential lighting techniques to photograph flat art, two-dimensional artwork, and retouching digital images in Adobe Photoshop
+
+      We are putting more and more of our cultural heritage objects online as digital images. Learn how to properly photograph 2-dimensional objects in a way that captures and enhances the detail, texture and beauty of the originals. In this series we will cover techniques that you can apply to online exhibits, promotional materials, or digitization work.
+      This second of three workshops centered on photography and Photoshop will give participants an introductory understanding of essential lighting techniques for 2D objects, paintings and flat art. Topics covered will include:
+
+      ·      What is exposure?
+      ·      How to control the correct exposure
+      ·      Depth of field
+      ·      Basic rules of composition
+      ·      Lenses and the correct focal length to photograph artwork
+      ·      Art work on a wall
+      ·      Artwork on a table
+      ·      Camera position
+      ·      Positioning of light sources
+      ·      Direct light vs. diffused light
+      ·      Lighting techniques for two-dimensional objects with texture
+      ·      Basic retouching, layers, color correcting and fixing distortions on the image.
+
+      No prerequisite knowledge or experience is required for this session. Students are encouraged to bring their own cameras in order to participate in hands-on exercises throughout the workshop.
+
+      This series:
+
+      To register for Part 1 on June 21st, click here.
+      To register for Part 3 on June 28th, click here.
+
+
+      About our instructor:Oscar Frasser is a professional image-maker and storyteller with a focus on human rights human rights issues and Latin American topics. With over 20 years of experience as a photographer, cinematographer and filmmaker, Oscar has worked extensively in the areas of documentary filmmaking, photojournalism, media education and advertising. Oscar has won multiple awards in both the United States and internationally for his films and photo exhibitions. Oscar is currently specializing his cinematography work with drones, teaching as an Adjunct Professor of Filmmaking­ at The New School and working as a freelancer in video and photojournalism for the Associated Press at the United Nations and Notimex, a National News Agency of Mexico.
+
+    html: |+
+      <P><STRONG><SPAN><SPAN>Photography &amp; Photoshop Essentials, Part 2: </SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>Essential lighting techniques to photograph flat art, two-dimensional artwork, and retouching digital images in Adobe Photoshop</SPAN></SPAN></STRONG></P>
+
+      <P><SPAN>We are putting more and more of our cultural heritage objects online as digital images. Learn how to properly photograph 2-dimensional objects in a way that captures and enhances the detail, texture and beauty of the originals. In this series we will cover techniques that you can apply to online exhibits, promotional materials, or digitization work.</SPAN><SPAN><BR CLASS="kix-line-break"><BR CLASS="kix-line-break"></SPAN></P>
+      <P><SPAN>This second of three workshops centered on photography and Photoshop will give participants an introductory understanding of essential lighting techniques for 2D objects, paintings and flat art. Topics covered will include:</SPAN></P>
+
+      <P><SPAN>·      What is exposure?</SPAN></P>
+      <P><SPAN>·      How to control the correct exposure</SPAN></P>
+      <P><SPAN>·      Depth of field</SPAN></P>
+      <P><SPAN>·      Basic rules of composition</SPAN></P>
+      <P><SPAN>·      Lenses and the correct focal length to photograph artwork</SPAN></P>
+      <P><SPAN>·      Art work on a wall</SPAN></P>
+      <P><SPAN>·      Artwork on a table</SPAN></P>
+      <P><SPAN>·      Camera position</SPAN></P>
+      <P><SPAN>·      Positioning of light sources</SPAN></P>
+      <P><SPAN>·      Direct light vs. diffused light</SPAN></P>
+      <P><SPAN>·      Lighting techniques for two-dimensional objects with texture</SPAN></P>
+      <P><SPAN>·      Basic retouching, layers, color correcting and fixing distortions on the image.</SPAN></P>
+
+      <P><SPAN>No prerequisite knowledge or experience is required for this session. Students are encouraged to bring their own cameras in order to participate in hands-on exercises throughout the workshop.</SPAN></P>
+
+      <P><STRONG>This series:</STRONG></P>
+      <UL>
+      <LI>To register for Part 1 on June 21st, click <A HREF="https://www.eventbrite.com/e/photography-photoshop-essentials-part-1-tickets-43406411746" TARGET="_blank" REL="noopener noreferrer noopener noreferrer">here</A>.</LI>
+      <LI>To register for Part 3 on June 28th, click <A HREF="https://www.eventbrite.com/e/photography-photoshop-essentials-part-3-tickets-44647461760" TARGET="_blank" REL="noopener noreferrer noopener noreferrer">here</A>.</LI>
+      </UL>
+
+      <P><STRONG>About our instructor:<BR></STRONG>Oscar Frasser is a professional image-maker and storyteller with a focus on human rights human rights issues and Latin American topics. With over 20 years of experience as a photographer, cinematographer and filmmaker, Oscar has worked extensively in the areas of documentary filmmaking, photojournalism, media education and advertising. Oscar has won multiple awards in both the United States and internationally for his films and photo exhibitions. Oscar is currently specializing his cinematography work with drones, teaching as an Adjunct Professor of Filmmaking­ at The New School and working as a freelancer in video and photojournalism for the Associated Press at the United Nations and Notimex, a National News Agency of Mexico.</P>
+
+  url: https://www.eventbrite.com/e/photography-photoshop-essentials-part-2-tickets-44647338391
+  start:
+    timezone: America/New_York
+    local: '2018-06-27T17:00:00'
+    utc: '2018-06-27T21:00:00Z'
+- name:
+    text: Photography & Photoshop Essentials, Part 3
+    html: Photography &amp; Photoshop Essentials, Part 3
+  description:
+    text: |+
+      Photography & Photoshop Essentials, Part 3:  Essential lighting techniques to photograph 3-dimensional artwork, sculptures, objects, and retouching the digital capture using Adobe Photoshop
+
+      We are putting more and more of our cultural heritage objects online as digital images. Learn how to properly photograph 2- and 3-dimensional objects in a way that captures and enhances the detail texture and beauty of the originals. This series will cover techniques that you can apply to online exhibits, promotional materials, or digitization work.
+      This third session will give participants an introductory understanding of essential lighting techniques for 3D objects, sculptures and artwork. Topics covered will include:
+
+      Review on:
+      ·      What is exposure?
+      ·      How to control the correct exposure
+      ·      Depth of field
+      ·      Basic rules of composition
+      ·      Lenses and the correct focal length to photograph 3D artwork
+      ·      Camera position
+      ·      Correct focal length to photograph artwork
+      ·      Depth of field
+      ·      Positioning light sources
+      ·      Direct light vs. Diffused light on the surface
+      ·      Lighting techniques for 3-dimensional objects with texture
+      ·      Basic retouching, layers, color correcting and fixing distortions on the image.
+
+      No prerequisite knowledge or experience is required for this session. Students are encouraged to bring their own cameras in order to participate in hands-on exercises throughout the workshop
+
+      This series:
+
+      To register for Part 1 on June 21st, click here.
+      To register for Part 2 on June 27th, click here.
+
+
+      About our instructor:Oscar Frasser is a professional image-maker and storyteller with a focus on human rights human rights issues and Latin American topics. With over 20 years of experience as a photographer, cinematographer and filmmaker, Oscar has worked extensively in the areas of documentary filmmaking, photojournalism, media education and advertising. Oscar has won multiple awards in both the United States and internationally for his films and photo exhibitions. Oscar is currently specializing his cinematography work with drones, teaching as an Adjunct Professor of Filmmaking­ at The New School and working as a freelancer in video and photojournalism for the Associated Press at the United Nations and Notimex, a National News Agency of Mexico.
+
+    html: |+
+      <P><STRONG><SPAN><SPAN>Photography &amp; Photoshop Essentials, Part 3:  </SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>Essential lighting techniques to photograph 3-dimensional artwork, sculptures, objects, and retouching the digital capture using Adobe Photoshop</SPAN></SPAN></STRONG></P>
+
+      <P><SPAN>We are putting more and more of our cultural heritage objects online as digital images. Learn how to properly photograph 2- and 3-dimensional objects in a way that captures and enhances the detail texture and beauty of the originals. This series will cover techniques that you can apply to online exhibits, promotional materials, or digitization work.</SPAN><SPAN><BR CLASS="kix-line-break"><BR CLASS="kix-line-break"></SPAN></P>
+      <P><SPAN>This third session will give participants an introductory understanding of essential lighting techniques for 3D objects, sculptures and artwork. Topics covered will include:</SPAN></P>
+
+      <P><SPAN>Review on:</SPAN></P>
+      <P><SPAN>·      What is exposure?</SPAN></P>
+      <P><SPAN>·      How to control the correct exposure</SPAN></P>
+      <P><SPAN>·      Depth of field</SPAN></P>
+      <P><SPAN>·      Basic rules of composition</SPAN></P>
+      <P><SPAN>·      Lenses and the correct focal length to photograph 3D artwork</SPAN></P>
+      <P><SPAN>·      Camera position</SPAN></P>
+      <P><SPAN>·      Correct focal length to photograph artwork</SPAN></P>
+      <P><SPAN>·      Depth of field</SPAN></P>
+      <P><SPAN>·      Positioning light sources</SPAN></P>
+      <P><SPAN>·      Direct light vs. Diffused light on the surface</SPAN></P>
+      <P><SPAN>·      Lighting techniques for 3-dimensional objects with texture</SPAN></P>
+      <P><SPAN>·      Basic retouching, layers, color correcting and fixing distortions on the image.</SPAN></P>
+
+      <P><SPAN>No prerequisite knowledge or experience is required for this session. Students are encouraged to bring their own cameras in order to participate in hands-on exercises throughout the workshop</SPAN></P>
+
+      <P><STRONG>This series:</STRONG></P>
+      <UL>
+      <LI>To register for Part 1 on June 21st, click <A HREF="https://www.eventbrite.com/e/photography-photoshop-essentials-part-1-tickets-43406411746" TARGET="_blank" REL="noopener noreferrer noopener noreferrer">here</A>.</LI>
+      <LI>To register for Part 2 on June 27th, click <A HREF="https://www.eventbrite.com/e/photography-photoshop-essentials-part-2-tickets-44647338391" TARGET="_blank" REL="noopener noreferrer noopener noreferrer">here</A>.</LI>
+      </UL>
+
+      <P><STRONG>About our instructor:<BR></STRONG>Oscar Frasser is a professional image-maker and storyteller with a focus on human rights human rights issues and Latin American topics. With over 20 years of experience as a photographer, cinematographer and filmmaker, Oscar has worked extensively in the areas of documentary filmmaking, photojournalism, media education and advertising. Oscar has won multiple awards in both the United States and internationally for his films and photo exhibitions. Oscar is currently specializing his cinematography work with drones, teaching as an Adjunct Professor of Filmmaking­ at The New School and working as a freelancer in video and photojournalism for the Associated Press at the United Nations and Notimex, a National News Agency of Mexico.</P>
+
+  url: https://www.eventbrite.com/e/photography-photoshop-essentials-part-3-tickets-44647461760
+  start:
+    timezone: America/New_York
+    local: '2018-06-28T17:00:00'
+    utc: '2018-06-28T21:00:00Z'
