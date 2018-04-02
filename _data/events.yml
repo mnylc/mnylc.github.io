@@ -255,62 +255,6 @@
     local: '2018-04-05T16:00:00'
     utc: '2018-04-05T20:00:00Z'
 - name:
-    text: 'Every Story, a Phantom: A Poetic Study of Erasure, Compression, and White
-      Space'
-    html: 'Every Story, a Phantom: A Poetic Study of Erasure, Compression, and White
-      Space'
-  description:
-    text: "Every Story, a Phantom: A Poetic Study of Erasure, Compression, and White
-      Space\n\nErasure, compression, redaction, and impermanence are topics that librarians
-      and archivists confront in their everyday work. This workshop will be an interactive,
-      generative look at “erasure texts” and what they tell us about how information
-      gets condensed, saved, lost, and reinterpreted over time. We will looks at works
-      by poets like Mary Ruefle and Robin Coste Lewis, and consider the legacies of
-      poets like Sappho whose work survives only in fragments. By investigating texts
-      that have been redacted into new texts, we will ask questions about the permanence
-      of texts, how to understand and document the revision process, and the material
-      nature of the poetic page. This workshop will include several original writing
-      exercises. \nLearning objectives include participants:\n1. encountering erasure
-      as a poetics, with a broad view of its history and current practices;\n2. developing
-      new revision strategies based on erasure, with an emphasis on compression and
-      redaction;\n3. and introducing subtext and depth into their poems by negotiated
-      what is said versus what is left unsaid.\nWhile no prerequisite knowledge or
-      experience is required for this workshop, a general, readerly interest and/or
-      knowledge of poetry will be helpful.\n\nWhat to bring:\n\n\nA pencil and paper\n\n\nAbout
-      our instructor:\nEmilia Phillips is the author of three poetry collections from
-      the University of Akron Press, most recently Empty Clip (2018) and Groundspeed
-      (2016), and three chapbooks, most recently Beneath the Ice Fish Like Souls Look
-      Alike (Bull City Press, 2015). Her poems and lyric essays appear widely in literary
-      publications including Agni, Boston Review, Ploughshares, Poem-a-Day, Poetry,
-      and elsewhere. She’s an assistant professor in the MFA Writing Program and the
-      Department of English at the University of North Carolina at Greensboro.\n\n\n\n"
-    html: |+
-      <P><STRONG><SPAN>Every Story, a Phantom: </SPAN>A Poetic Study of Erasure, Compression, and White Space</STRONG></P>
-
-      <P><SPAN>Erasure, compression, redaction, and impermanence are topics that librarians and archivists confront in their everyday work. This workshop will be an interactive, generative look at “erasure texts” and what they tell us about how information gets condensed, saved, lost, and reinterpreted over time. We will looks at works by poets like Mary Ruefle and Robin Coste Lewis, and consider the legacies of poets like Sappho whose work survives only in fragments. By investigating texts that have been redacted into new texts, we will ask questions about the permanence of texts, how to understand and document the revision process, and the material nature of the poetic page. This workshop will include several original writing exercises. </SPAN></P>
-      <P><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>Learning objectives include participants:</SPAN></P>
-      <P>1. encountering erasure as a poetics, with a broad view of its history and current practices;</P>
-      <P>2. developing new revision strategies based on erasure, with an emphasis on compression and redaction;</P>
-      <P>3. and introducing subtext and depth into their poems by negotiated what is said versus what is left unsaid.</P>
-      <P><BR>While no prerequisite knowledge or experience is required for this workshop, a general, readerly interest and/or knowledge of poetry will be helpful.</P>
-
-      <P><STRONG>What to bring:</STRONG></P>
-      <UL>
-      <LI>
-      <P><SPAN>A pencil and paper</SPAN></P>
-      </LI>
-      </UL>
-      <P><BR><STRONG>About our instructor:</STRONG></P>
-      <P><SPAN>Emilia Phillips is the author of three poetry collections from the University of Akron Press, most recently Empty Clip (2018) and Groundspeed (2016), and three chapbooks, most recently Beneath the Ice Fish Like Souls Look Alike (Bull City Press, 2015). Her poems and lyric essays appear widely in literary publications including Agni, Boston Review, Ploughshares, Poem-a-Day, Poetry, and elsewhere. She’s an assistant professor in the MFA Writing Program and the Department of English at the University of North Carolina at Greensboro.</SPAN></P>
-      <P><SPAN><BR></SPAN></P>
-
-
-  url: https://www.eventbrite.com/e/every-story-a-phantom-a-poetic-study-of-erasure-compression-and-white-space-tickets-43351117359
-  start:
-    timezone: America/New_York
-    local: '2018-04-09T16:00:00'
-    utc: '2018-04-09T20:00:00Z'
-- name:
     text: 'Dismantling the Dominant Narrative: Reframing History at the Black Lunch
       Table'
     html: 'Dismantling the Dominant Narrative: Reframing History at the Black Lunch
@@ -712,7 +656,7 @@
 
       What to bring:
 
-      A laptop (or click here to borrow one of METRO's for $5.00).
+      A laptop (or click here to borrow one of METRO's PC laptops for $5.00). Please have R and the free desktop version of RStudio pre-installed.
 
 
 
@@ -734,7 +678,7 @@
 
       <P><STRONG>What to bring:</STRONG></P>
       <UL>
-      <LI>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's for $5.00).</LI>
+      <LI>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's PC laptops for $5.00). <BR>Please have <A HREF="https://cran.r-project.org/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">R</A> and the free desktop version of <A HREF="https://www.rstudio.com/products/rstudio/download/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">RStudio</A> pre-installed.</LI>
       </UL>
 
 
@@ -953,7 +897,7 @@
 
       What to bring:
 
-      A laptop (or click here to borrow one of METRO's for $5.00).
+      A laptop (or click here to borrow one of METRO's PC laptops for $5.00). Please have R and the free desktop version of RStudio pre-installed.
 
 
 
@@ -975,7 +919,7 @@
 
       <P><STRONG>What to bring:</STRONG></P>
       <UL>
-      <LI>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's for $5.00).</LI>
+      <LI>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's PC laptops for $5.00). <BR>Please have <A HREF="https://cran.r-project.org/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">R</A> and the free desktop version of <A HREF="https://www.rstudio.com/products/rstudio/download/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">RStudio</A> pre-installed.</LI>
       </UL>
 
 
@@ -1096,10 +1040,10 @@
     local: '2018-05-21T10:00:00'
     utc: '2018-05-21T14:00:00Z'
 - name:
-    text: 'Getting Started with Web Archives: A beginners'' workshop'
-    html: 'Getting Started with Web Archives: A beginners&#39; workshop'
+    text: 'Getting Started with Web Archives: A beginner''s workshop'
+    html: 'Getting Started with Web Archives: A beginner&#39;s workshop'
   description:
-    text: "Getting Started with Web Archives:A beginners' workshop\n\n\n\n\n\n\n\n\nAs
+    text: "Getting Started with Web Archives:A beginner's workshop\n\n\n\n\n\n\n\n\nAs
       our subjects, stakeholders, patrons, and donors increasingly engage each other
       and the world through online media, librarians and archivists are compelled
       to steward valuable born digital records into cohesive, preservable collections
@@ -1155,8 +1099,8 @@
       of Iowa, and her Master's in Library and Information Studies from the University
       of Madison-Wisconsin.\n\n\n"
     html: |+
-      <P><STRONG>Getting Started with Web Archives:<BR>A beginners' workshop</STRONG></P>
-      <P><STRONG></STRONG></P>
+      <P><STRONG>Getting Started with Web Archives:<BR>A beginner's workshop</STRONG></P>
+
       <DIV CLASS="gmail_extra">
       <DIV CLASS="gmail_quote">
       <DIV>
