@@ -1134,6 +1134,49 @@
     local: '2018-05-30T15:00:00'
     utc: '2018-05-30T19:00:00Z'
 - name:
+    text: "(Mis)informed: Propaganda, Disinformation, Misinformation, and Our Culture"
+    html: "(Mis)informed: Propaganda, Disinformation, Misinformation, and Our Culture"
+  description:
+    text: |-
+      (Mis)informed: Propaganda, Disinformation, Misinformation, and Our Culture
+      Thursday, May 31, 1 p.m. - 5 p.m. & Friday, June 1, 10:00 a.m. - 4:00 p.m.
+      Our culture is overwhelmed with instances of incorrect information in many forms. From foreign actors to our social connections, misleading and often dangerous information has seemingly co-opted our online and offline spaces.
+      On Thursday, May 31 and Friday, June 1 METRO will host a symposium on the nature of falsified information. We’ll investigate the (social) media environment that allows incorrect information to thrive, seek a better understanding of the actors behind these events, and wax philosophical about the current state of counterfeit information and what this foreshadows about the library, archives, and museums community. And we’ll tease out concrete actions to take to better information our communities and ourselves.
+      We’re now accepting presentation proposals for this symposium. Ideas for presentation topics include but are definitely not limited to:
+
+      Counterfeit information in its various forms (propaganda, disinformation, misinformation, etc.)
+      Historical perspectives on falsified news
+      Explorations of how journalism is impacted by dis-intermediated information
+      The role of emotion and attention in these issues
+      The actors behind mal-information and what their goals might be
+      The impact of falsified news on our communities
+      Ideas for how we might play a role in clarifying these issues for our communities
+
+      Please apply to present by midnight on Friday, April 13. Selected presenters will be notified on or by April 27.
+      If you would like to be considered for a scholarship to this event, please complete this application by Friday, May 4, 2018. Recipients will be notified by Friday, May 11,  2018. 
+    html: |-
+      <P><STRONG>(Mis)informed: Propaganda, Disinformation, Misinformation, and Our Culture</STRONG></P>
+      <P><EM>Thursday, May 31, 1 p.m. - 5 p.m. &amp; Friday, June 1, 10:00 a.m. - 4:00 p.m.</EM></P>
+      <P>Our culture is overwhelmed with instances of incorrect information in many forms. From foreign actors to our social connections, misleading and often dangerous information has seemingly co-opted our online and offline spaces.</P>
+      <P>On Thursday, May 31 and Friday, June 1 METRO will host a symposium on the nature of falsified information. We’ll investigate the (social) media environment that allows incorrect information to thrive, seek a better understanding of the actors behind these events, and wax philosophical about the current state of counterfeit information and what this foreshadows about the library, archives, and museums community. And we’ll tease out concrete actions to take to better information our communities and ourselves.</P>
+      <P>We’re now accepting presentation proposals for this symposium. Ideas for presentation topics include but are definitely not limited to:</P>
+      <UL>
+      <LI>Counterfeit information in its various forms (propaganda, disinformation, misinformation, etc.)</LI>
+      <LI>Historical perspectives on falsified news</LI>
+      <LI>Explorations of how journalism is impacted by dis-intermediated information</LI>
+      <LI>The role of emotion and attention in these issues</LI>
+      <LI>The actors behind mal-information and what their goals might be</LI>
+      <LI>The impact of falsified news on our communities</LI>
+      <LI>Ideas for how we might play a role in clarifying these issues for our communities</LI>
+      </UL>
+      <P>Please <A HREF="https://docs.google.com/forms/d/e/1FAIpQLSeQh-LvJ1mZDz_F864YCqZnRaWuAh78EcwvaY1Pncblg3OLIg/viewform?usp=sf_link" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">apply to present</A> by midnight on Friday, April 13. Selected presenters will be notified on or by April 27.</P>
+      <P>If you would like to be considered for a scholarship to this event, please complete <A HREF="https://docs.google.com/forms/d/e/1FAIpQLSfP-PNuUduztzD68l8x57oPXGu5HliLDa52exwWGvST8VkFRQ/viewform?usp=sf_link" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">this application</A> by Friday, May 4, 2018. Recipients will be notified by Friday, May 11,  2018. </P>
+  url: https://www.eventbrite.com/e/misinformed-propaganda-disinformation-misinformation-and-our-culture-tickets-44799125390
+  start:
+    timezone: America/New_York
+    local: '2018-05-31T13:00:00'
+    utc: '2018-05-31T17:00:00Z'
+- name:
     text: Photography & Photoshop Essentials, Part 1
     html: Photography &amp; Photoshop Essentials, Part 1
   description:
