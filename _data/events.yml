@@ -1,86 +1,5 @@
 ---
 - name:
-    text: Portable Network Kits, or How to Build Your Own Local Internet
-    html: Portable Network Kits, or How to Build Your Own Local Internet
-  description:
-    text: |+
-      Portable Network Kits, or How to Build Your Own Local Internet
-      Join us to explore, build, and test a brand new Portable Network Kit. In this hands-on session, we'll configure wireless access points, a router, and a Raspberry Pi server in order to create a local pop-up network.
-      At the end of this session, participants will be able to:
-      - identify the components of a local network
-      - specify how these components work together in a network
-      - be able to build a PNK!
-      Prerequisite skills and/or interests for this session fall into three categories:
-
-
-      Technologist: Comfortable with routine computer use. Fond of tinkering. Can follow step-by-step directions. Endless patience.
-
-
-      Handy Person: Glue gun savvy, understands velcro, zip ties, cable wrapping and scissors
-
-
-      Organizer: Notetaker, documentarian, spreadsheet enthusiast, storyteller, wrangler
-
-
-      Agenda:
-      1-1:30pm Intro / Icebreaker / PNK Vocab Slam
-      1:30-2pm Use it!
-      2-3:30pm Build it!
-      3:30-4pm Test it!
-      What to bring:
-
-
-      At least one WiFi-enable device (Laptops, tablets, or smartphone) per person.
-
-
-
-      About our facilitator:
-      Raul Enriquez is the technology & training manager at New America’s Resilient Communities Initiative. As an educator, he believes a classroom should be visceral, safe, and collaborative. Enriquez also believes food is the ideal conduit for ideas to flow throughout a community. Let's have a potluck. We'll talk. Prior to New America, Enriquez was the computer teacher at The Doe Fund in NYC. While there, he taught men with histories of homelessness, incarceration, and substance abuse the value of computer literacy, computer arts, and CompTIA A+ certification. As a guest artist, he taught graduate courses at NYU Tisch School of the Arts and at CalArts | California Institute of the Arts. When left alone, Enriquez engages in aural/moving image arts, siesta, and culinary buffoonery.
-
-
-
-    html: |+
-      <P><STRONG>Portable Network Kits, or How to Build Your Own Local Internet<BR><BR></STRONG></P>
-      <P><SPAN>Join us to explore, build, and test a brand new Portable Network Kit. In this hands-on session, we'll configure wireless access points, a router, and a Raspberry Pi server in order to create a local pop-up network.<BR><BR></SPAN></P>
-      <P><SPAN>At the end of this session, participants will be able to:</SPAN></P>
-      <P><SPAN>- identify the components of a local network</SPAN></P>
-      <P><SPAN>- specify how these components work together in a network</SPAN></P>
-      <P><SPAN>- be able to build a PNK!<BR><BR></SPAN></P>
-      <P><SPAN>Prerequisite skills and/or interests for this session fall into three categories:</SPAN></P>
-      <UL>
-      <LI>
-      <P><SPAN>Technologist: Comfortable with routine computer use. Fond of tinkering. Can follow step-by-step directions. Endless patience.</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Handy Person: Glue gun savvy, understands velcro, zip ties, cable wrapping and scissors</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Organizer: Notetaker, documentarian, spreadsheet enthusiast, storyteller, wrangler<BR><BR></SPAN></P>
-      </LI>
-      </UL>
-      <P><STRONG>Agenda:</STRONG></P>
-      <P><SPAN>1-1:30pm Intro / Icebreaker / PNK Vocab Slam</SPAN></P>
-      <P><SPAN>1:30-2pm Use it!</SPAN></P>
-      <P><SPAN>2-3:30pm Build it!</SPAN></P>
-      <P><SPAN>3:30-4pm Test it!<BR><BR></SPAN></P>
-      <P><STRONG>What to bring:</STRONG></P>
-      <UL>
-      <LI>
-      <P><SPAN>At least one WiFi-enable device (Laptops, tablets, or smartphone) per person.</SPAN></P>
-      </LI>
-      </UL>
-      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
-      <P><STRONG>About our facilitator:</STRONG></P>
-      <P><SPAN></SPAN>Raul Enriquez is the technology &amp; training manager at New America’s Resilient Communities Initiative. As an educator, he believes a classroom should be visceral, safe, and collaborative. Enriquez also believes food is the ideal conduit for ideas to flow throughout a community. Let's have a potluck. We'll talk. Prior to New America, Enriquez was the computer teacher at The Doe Fund in NYC. While there, he taught men with histories of homelessness, incarceration, and substance abuse the value of computer literacy, computer arts, and CompTIA A+ certification. As a guest artist, he taught graduate courses at NYU Tisch School of the Arts and at CalArts | California Institute of the Arts. When left alone, Enriquez engages in aural/moving image arts, siesta, and culinary buffoonery.</P>
-      <P><SPAN><BR></SPAN></P>
-
-
-  url: https://www.eventbrite.com/e/portable-network-kits-or-how-to-build-your-own-local-internet-tickets-43716414974
-  start:
-    timezone: America/New_York
-    local: '2018-04-04T13:00:00'
-    utc: '2018-04-04T17:00:00Z'
-- name:
     text: Basics of Analog Video Deck Cleaning
     html: Basics of Analog Video Deck Cleaning
   description:
@@ -534,10 +453,7 @@
       services to the public, teaching data literacy workshops and helping socially-minded
       organizations collect and analyze data with the communities they serve. Julia
       commutes around NYC on a glitter purple bicycle, on a quest to demystify data
-      and upset the balance of power in data-driven research.\n\nWorkshop fees:Fees
-      for this event are $40 for METRO members and $80 for non-members. If you’re
-      in need of a subsidized ticket in order to attend this event, please email us
-      at events@metro.org.\n\n"
+      and upset the balance of power in data-driven research.\n\n\n"
     html: |+
       <P><STRONG>This session, originally scheduled for March 7th, will now take place on April 25th from 1:00 PM to 5:00 PM.</STRONG></P>
       <P><STRONG><BR></STRONG>NYC Open Data Week 2018<BR></P>
@@ -558,7 +474,6 @@
       </UL>
       <P><SPAN><STRONG>Facilitator Biography:</STRONG><BR></SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. With her firm, Tiny Panther Consulting, she brings data librarian services to the public, teaching data literacy workshops and helping socially-minded organizations collect and analyze data with the communities they serve. Julia commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</P>
 
-      <P><SPAN><STRONG>Workshop fees:</STRONG><BR></SPAN>Fees for this event are $40 for METRO members and $80 for non-members. If you’re in need of a subsidized ticket in order to attend this event, please email us at <A HREF="mailto:events@metro.org" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">events@metro.org</A>.<BR><BR><BR></P>
 
   url: https://www.eventbrite.com/e/using-and-improving-nyc-open-data-dictionaries-tickets-44381931552
   start:
