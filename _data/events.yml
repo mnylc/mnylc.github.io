@@ -807,6 +807,55 @@
     local: '2018-05-21T10:00:00'
     utc: '2018-05-21T14:00:00Z'
 - name:
+    text: Introduction to NYC Open Data
+    html: Introduction to NYC Open Data
+  description:
+    text: |+
+      Introduction to NYC Open Data
+      Using New York City’s own open data portal as a teaching example, participants will be introduced to open data as a reference and research tool. Together we will practice effective search strategies, explore use cases, and build skills in critical evaluation. Through discussion, we will explore explicit and implicit biases, identify data quality issues, and consider how data, like all sources of information, requires a certain level of scrutiny.
+      Participants will:
+
+      Explore ways in which patrons can access, understand, and create with open data
+      Learn search strategies for finding usable datasets on NYC Open Data
+      Download a dataset to explore in Google Sheets
+
+
+      What to bring:
+
+      A laptop with access to Google Sheets or Excel(or click here to borrow one of METRO's PC laptops for $5.00)
+
+
+
+      About our instructor:
+      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
+
+
+    html: |+
+      <P><STRONG>Introduction to NYC Open Data<BR><BR></STRONG></P>
+      <P><SPAN><SPAN>Using New York City’s own open data portal as a teaching example, participants will be introduced to open data as a reference and research tool. Together we will practice effective search strategies, explore use cases, and build skills in critical evaluation. Through discussion, we will explore explicit and implicit biases, identify data quality issues, and consider how data, like all sources of information, requires a certain level of scrutiny.</SPAN></SPAN></P>
+      <P>Participants will:</P>
+      <UL>
+      <LI>Explore ways in which patrons can access, understand, and create with open data</LI>
+      <LI>Learn search strategies for finding usable datasets on NYC Open Data</LI>
+      <LI>Download a dataset to explore in Google Sheets</LI>
+      </UL>
+
+      <P><STRONG>What to bring:</STRONG></P>
+      <UL>
+      <LI>A laptop with access to Google Sheets or Excel<BR>(or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's PC laptops for $5.00)</LI>
+      </UL>
+
+
+      <P><STRONG>About our instructor:</STRONG></P>
+      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
+
+
+  url: https://www.eventbrite.com/e/introduction-to-nyc-open-data-tickets-44886284084
+  start:
+    timezone: America/New_York
+    local: '2018-05-22T16:00:00'
+    utc: '2018-05-22T20:00:00Z'
+- name:
     text: 'Getting Started with Web Archives: A beginner''s workshop'
     html: 'Getting Started with Web Archives: A beginner&#39;s workshop'
   description:
