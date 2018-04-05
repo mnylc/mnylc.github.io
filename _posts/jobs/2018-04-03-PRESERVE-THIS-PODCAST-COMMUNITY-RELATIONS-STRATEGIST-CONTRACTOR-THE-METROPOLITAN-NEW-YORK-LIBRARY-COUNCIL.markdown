@@ -52,7 +52,7 @@ Facility with contemporary computing systems and relevant software applications.
 
 ### Compensation###
 
-This is a temporary $5,000 contract that will be paid out monthly based on an hourly rate. The hourly rate is negotiable depending on the applicants demonstrated experience in podcast communications. This is a contract/temporary position.
+This is a temporary $5,500 contract that will be paid out monthly based on an hourly rate. The hourly rate is negotiable depending on the applicants demonstrated experience in podcast communications. This is a contract/temporary position.
 
 
 ### Location###
