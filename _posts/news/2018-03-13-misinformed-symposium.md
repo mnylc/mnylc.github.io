@@ -3,7 +3,7 @@ layout: post
 title: "(Mis)informed: Propaganda, Disinformation, Misinformation, and Our Culture"
 date: 2018-03-13-misinformed-symposium
 tag: news
-redirect_from: "/misinformed/"
+redirect_from: "/misinformed"
 ---
 
 Our culture is overwhelmed with instances of incorrect information in many forms. From foreign actors to our social connections, misleading and often dangerous information has seemingly co-opted our online and offline spaces.
