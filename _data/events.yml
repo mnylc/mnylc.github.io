@@ -1,69 +1,4 @@
 ---
-- name:
-    text: 'Teaching Research Data Management and Reproducibility: Ways to Engage Your
-      Community in Research Stewardship'
-    html: 'Teaching Research Data Management and Reproducibility: Ways to Engage Your
-      Community in Research Stewardship'
-  description:
-    text: |+
-      This event has been postponed. Please stay tuned for the rescheduled event date!
-
-      Teaching Research Data Management and Reproducibility: Ways to Engage Your Community in Research Stewardship
-
-      By understanding researchers' workflows, teaching data management is that much more efficient. In this session, Vicky Steeves (Librarian for Research Data Management and Reproducibility, New York University) will give an introduction to those looking to start offering services around research data management and reproducibility.
-      Steeves will introduce the concepts, terminology, and best practices of data management and reproducibility from both the perspective of librarians and researchers. Steeves will also demonstrate existing open-source infrastructure and workflows that enable best practices in data management and working more with more reproducibility. Participants will experiment with online tools, engage in discussions, and work on small group activities. Folks walking away from this workshop will have a better idea of how to engage with researchers on these topics, offer more research services, and foster a community of stewardship within their institutions.
-
-      Learning objectives:
-
-      Participants will gain an understanding of some basic concepts in data management and reproducibility
-      Participants will know about available tools that help work towards research reproducibility
-      Participants will understand how to offer and scale services around data management and reproducibility
-      Participants will be able to, at the very least, know what to look up when Googling
-
-
-      This is an introductory workshop; no prerequisite knowledge or experience is required.
-
-      What to bring:
-
-      A laptop (or click here to borrow one of METRO's for $5.00)
-
-
-      About Our Instructor
-      ​Vicky Steeves is the Librarian for Research Data Management and Reproducibility, a dual appointment between NYU's Division of Libraries and Center for Data Science. In this role, she works supporting students, faculty, staff, and researchers in creating well-managed, high quality, and reproducible research through facilitating use of tools such as ReproZip. Her research centers on integrating reproducible practices into the research workflow, advocating openness in all facets of research (code, data, analysis tools, etc.), and building/contributing to open infrastructure.​
-
-
-    html: |+
-      <P><EM><STRONG>This event has been postponed. Please stay tuned for the rescheduled event date!</STRONG></EM></P>
-      <P><EM><STRONG></STRONG></EM></P>
-      <P><STRONG>Teaching Research Data Management and Reproducibility: </STRONG>Ways to Engage Your Community in Research Stewardship</P>
-
-      <P>By understanding researchers' workflows, teaching data management is that much more efficient. In this session, Vicky Steeves (Librarian for Research Data Management and Reproducibility, New York University) will give an introduction to those looking to start offering services around research data management and reproducibility.</P>
-      <P>Steeves will introduce the concepts, terminology, and best practices of data management and reproducibility from both the perspective of librarians and researchers. Steeves will also demonstrate existing open-source infrastructure and workflows that enable best practices in data management and working more with more reproducibility. Participants will experiment with online tools, engage in discussions, and work on small group activities. Folks walking away from this workshop will have a better idea of how to engage with researchers on these topics, offer more research services, and foster a community of stewardship within their institutions.</P>
-
-      <P><STRONG>Learning objectives:</STRONG></P>
-      <UL>
-      <LI>Participants will gain an understanding of some basic concepts in data management and reproducibility</LI>
-      <LI>Participants will know about available tools that help work towards research reproducibility</LI>
-      <LI>Participants will understand how to offer and scale services around data management and reproducibility</LI>
-      <LI>Participants will be able to, at the very least, know what to look up when Googling</LI>
-      </UL>
-
-      <P>This is an introductory workshop; no prerequisite knowledge or experience is required.</P>
-
-      <P><SPAN><SPAN><STRONG>What to bring:</STRONG></SPAN></SPAN></P>
-      <UL>
-      <LI><SPAN>A laptop (or click </SPAN><A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A><SPAN> to borrow one of METRO's for $5.00)</SPAN></LI>
-      </UL>
-
-      <P><STRONG>About Our Instructor</STRONG></P>
-      <P><SPAN><SPAN>​Vicky Steeves is the Librarian for Research Data Management and Reproducibility, a dual appointment between NYU's Division of Libraries and Center for Data Science. In this role, she works supporting students, faculty, staff, and researchers in creating well-managed, high quality, and reproducible research through facilitating use of tools such as ReproZip. Her research centers on integrating reproducible practices into the research workflow, advocating openness in all facets of research (code, data, analysis tools, etc.), and building/contributing to open infrastructure.​</SPAN></SPAN></P>
-
-
-  url: https://www.eventbrite.com/e/teaching-research-data-management-and-reproducibility-ways-to-engage-your-community-in-research-tickets-43200663347
-  start:
-    timezone: America/New_York
-    local: '2018-04-16T13:00:00'
-    utc: '2018-04-16T17:00:00Z'
 - time: 1524060000000
   link: https://www.meetup.com/Economics-Business-Librarians-Group/events/248301617/
   description:
@@ -516,6 +451,45 @@
     timezone: America/New_York
     local: '2018-05-10T16:00:00'
     utc: '2018-05-10T20:00:00Z'
+- name:
+    text: Applying Descriptive Cataloging of Rare Materials (Manuscripts)
+    html: Applying Descriptive Cataloging of Rare Materials (Manuscripts)
+  description:
+    text: |+
+      Applying Descriptive Cataloging of Rare Materials (Manuscripts)
+      This workshop will provide an introduction to DCRM(MSS): Descriptive Cataloging of Rare Materials (Manuscripts), the new standard for cataloging individual manuscripts recently approved by RBMS (the Rare Books and Manuscripts Section of ACRL). The workshop will include a brief introduction to the manual's guiding principles, discussion of how manuscript cataloging differs from the cataloging of published materials, introduction to the treatment of major elements of the catalog record in DCRM(MSS) (such as the title, place of production and date, and extent), and hands-on practice in applying DCRM(MSS).
+      Attendees will acquire an understanding of the considerations involved in cataloging individual manuscripts, and will gain practice in applying DCRM(MSS) to the cataloging of different types of manuscripts commonly found in special collections using provided examples.
+      Participants should have experience in MARC cataloging using AACR2.Familiarity with DCRM(B) and/or DACS will be helpful.
+
+      What to bring:
+
+      A pencil and paper or laptop for note taking
+
+
+      About our instructor:Margaret Nichols is the Rare Materials Cataloging Coordinator at Cornell University Library, where she has worked in special collections technical services positions since 1985. She chaired the editorial team that wrote DCRM(MSS), and was a member of the Rare Books and Manuscripts Section's Bibliographic Standards Committee from 2007-2012 and 2013-2017. She was also Chair of RBMS from 2003-2004. She currently serves on the Linked Data for Production/RBMS BSC Rare Materials Ontology Extension Team.
+
+
+
+    html: |+
+      <P><STRONG>Applying Descriptive Cataloging of Rare Materials (Manuscripts)</STRONG></P>
+      <P>This workshop will provide an introduction to <A HREF="http://rbms.info/dcrm/dcrmmss/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">DCRM(MSS): Descriptive Cataloging of Rare Materials (Manuscripts)</A>, the new standard for cataloging individual manuscripts recently approved by RBMS (the Rare Books and Manuscripts Section of ACRL). The workshop will include a brief introduction to the manual's guiding principles, discussion of how manuscript cataloging differs from the cataloging of published materials, introduction to the treatment of major elements of the catalog record in DCRM(MSS) (such as the title, place of production and date, and extent), and hands-on practice in applying DCRM(MSS).</P>
+      <P><SPAN><BR>Attendees will acquire an understanding of the considerations involved in cataloging individual manuscripts, and will gain practice in applying DCRM(MSS) to the cataloging of different types of manuscripts commonly found in special collections using provided examples.</SPAN></P>
+      <P><SPAN><BR>Participants should have experience in MARC cataloging using AACR2.<BR>Familiarity with DCRM(B) and/or DACS will be helpful.</SPAN></P>
+
+      <P><STRONG>What to bring:</STRONG></P>
+      <UL>
+      <LI>A pencil and paper or laptop for note taking</LI>
+      </UL>
+
+      <P><STRONG>About our instructor:</STRONG><BR>Margaret Nichols is the Rare Materials Cataloging Coordinator at Cornell University Library, where she has worked in special collections technical services positions since 1985. She chaired the editorial team that wrote DCRM(MSS), and was a member of the Rare Books and Manuscripts Section's Bibliographic Standards Committee from 2007-2012 and 2013-2017. She was also Chair of RBMS from 2003-2004. She currently serves on the Linked Data for Production/RBMS BSC Rare Materials Ontology Extension Team.</P>
+
+
+
+  url: https://www.eventbrite.com/e/applying-descriptive-cataloging-of-rare-materials-manuscripts-tickets-45205573086
+  start:
+    timezone: America/New_York
+    local: '2018-05-14T10:00:00'
+    utc: '2018-05-14T14:00:00Z'
 - name:
     text: 'Understanding Data on the Web: data traces, Tor browser, and SecureDrop'
     html: 'Understanding Data on the Web: data traces, Tor browser, and SecureDrop'
