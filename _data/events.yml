@@ -1,23 +1,4 @@
 ---
-- time: 1524060000000
-  link: https://www.meetup.com/Economics-Business-Librarians-Group/events/248301617/
-  description:
-    html: "<p>• What we'll do<br/>METRO Economics and Business Librarians Meetup:
-      Tour of the Federal Reserve Bank of New York</p> <p>On April 18, 2018, the METRO
-      SIG Economics and Business Librarians Meetup Group is sponsoring a tour of the
-      Federal Reserve Bank of New York, from 10 AM to 12 noon. The Federal Reserve
-      Bank of New York is located at 33 Liberty Street. We will meet at 9:30 AM. Please
-      bring a valid, government-issued ID for admission. Please register no later
-      than April 7, 2018. Please take the opportunity to visit and tour the Federal
-      Reserve Bank of New York!</p> <p>• What to bring<br/>Please bring valid, government-issued
-      ID for admission</p> <p>• Important to know<br/>Tickets will be issued in early
-      April</p> "
-  name:
-    html: Tour of Federal Reserve Bank of New York
-  start:
-    utc: '2018-04-18 10:00:00 -0400'
-    local: '2018-04-18 10:00:00 -0400'
-  url: https://www.meetup.com/Economics-Business-Librarians-Group/events/248301617/
 - name:
     text: EBSCO Health Showcase
     html: EBSCO Health Showcase
