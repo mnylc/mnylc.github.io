@@ -70,8 +70,7 @@ Elmhurst Hospital Center
 Fashion Institute of Technology (SUNY)  
 Fire Department of the City of New York  
 Flushing Hospital Medical Center  
-Fordham University   
-Forest Hills Hospital  
+Fordham University  
 General Society of Mechanics and Tradesmen  
 General Theological Seminary   
 Guttman Community College, CUNY  
@@ -103,7 +102,8 @@ Leo Baeck Institute
 Lesbian Herstory Educational Foundation, Inc.  
 Lesbian, Gay, Bisexual and Transgender Community Center  
 Lincoln Medical & Mental Health Center  
-Long Island Business Institute   
+Long Island Business Institute  
+Long Island Jewish Forest Hills Hospital  
 Long Island Jewish Medical Center  
 Long Island University/Brooklyn   
 Lutheran Medical Center  
