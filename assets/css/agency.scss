@@ -407,6 +407,10 @@ section h3.section-subheading {
     padding: 25px;
     max-width: 400px;
     text-align: center;
+    background-image: url(../img/concrete_seamless.png);
+    -webkit-box-shadow: 2px 2px 4px 0px #ccc; 
+    -moz-box-shadow:    2px 2px 4px 0px #ccc; 
+    box-shadow:         2px 2px 4px 0px #ccc;
 }
 
 .portfolio-caption h4 {
