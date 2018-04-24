@@ -1,38 +1,5 @@
 ---
 - name:
-    text: EBSCO Health Showcase
-    html: EBSCO Health Showcase
-  description:
-    text: |+
-      Join us for an EBSCO Health educational event led by HLSP Program Manager, Nathalie Reid.
-      Participants will learn about various EBSCO Health tools from experts, meet the EBSCO Health sales and support team, and have the opportunity to network with peers.
-      This event is free to attend, but participation will be limited to the first 30 individuals who RSVP. Breakfast and lunch will be provided.
-      Sessions & Speakers:
-
-      EBSCO Discovery Service Health(TM): The Who, What, and WhyDiscovery services have a stigma of being unacceptable for users of medical libraries. Come learn how EBSCO and METRO made a massive investment in their member libraries and technology resources to do something different; make discovery effective and accessible for HLSP hospital librarians and their researchers to promote evidence-based, patient-centric, team-based care.Tim Heiges, EBSCO Health VP of SaaS SalesTim Heiges has long been a highly-active participant and advocate in the library industry. Having been with EBSCO for twenty years, he is a regular speaker at numerous regional, national, and international library and publisher conferences and serves as a Guest Lecturer at the library shcools at the Universities of Illinois, Iowa, Missouri, and Denver. Tim also works closely with medical librarians as part of a library advisory council to help shape EBSCO's Software as a Service product line for its worldwide researchers.
-      DynaMed Plus: How Does It Stack Up Against Other Clinical Decision Support ToolsDynaMed Plus is the evidence-based reference tool clinicians use to get answers to clinical questions quickly and easily. Content is written by a world-class team of physicians who synthesize the evidence and provide objective analysis. Join practicing physician, Alan Ehrlich, a user of both DynaMed Plus and other clinical decision support tools to find out how DynaMed Plus stacks up with real world examples.Alan Ehrlich, MD, Executive Editor, DynaMed PlusAlan Ehrlich, MD is Executive Editor at DynaMed and a Clinical Associate Professor in Family Medicine at the University of Massachusetts Medical School. He is board certified from the American Board of Family Medicine. Alan graduated from Rutgers Medical School and completed his residency at the University of Massachusetts Medical Center. He currently teaches Evidence-Based Medicine to 3rd year medical students and writes the Evidence-Based Medicine column for Clinical Advisor magazine.
-      Tips and Tricks for the Perfect CINAHL SearchCINAHL, the Cumulative Index to Nursing and Allied Health is a highly-recognized and well-used research tool. CINAHL provides broad content coverage including 50 nursing specialties, speech and language pathology, nutrition, general health and medicine and more. The presentation will focus on search tips and techniques (including limiters) to obtain comprehensive and/or precise search results.Ellen Westling, Senior Engagement Manager - EBSCO HealthEllen is an experienced medical librarian who has been providing customer support and training and working with medical customers at EBSCO for 18 years. Prior to joining EBSCO she worked as the Associate Director at the Countway Library of Medicine at Harvard Medical School and also as a medical librarian at the Treadwell Library at Massachusetts General Hospital.
-
-
-
-    html: |+
-      <P>Join us for an EBSCO Health educational event led by HLSP Program Manager, Nathalie Reid.</P>
-      <P><BR>Participants will learn about various EBSCO Health tools from experts, meet the EBSCO Health sales and support team, and have the opportunity to network with peers.</P>
-      <P><BR>This event is free to attend, but participation will be limited to the first 30 individuals who RSVP. Breakfast and lunch will be provided.</P>
-      <P><STRONG><BR>Sessions &amp; Speakers:</STRONG></P>
-      <UL>
-      <LI><STRONG>EBSCO Discovery Service Health(TM): The Who, What, and Why</STRONG><BR>Discovery services have a stigma of being unacceptable for users of medical libraries. Come learn how EBSCO and METRO made a massive investment in their member libraries and technology resources to do something different; make discovery effective and accessible for HLSP hospital librarians and their researchers to promote evidence-based, patient-centric, team-based care.<BR><BR><EM><STRONG>Tim Heiges, EBSCO Health VP of SaaS Sales</STRONG><BR>Tim Heiges has long been a highly-active participant and advocate in the library industry. Having been with EBSCO for twenty years, he is a regular speaker at numerous regional, national, and international library and publisher conferences and serves as a Guest Lecturer at the library shcools at the Universities of Illinois, Iowa, Missouri, and Denver. Tim also works closely with medical librarians as part of a library advisory council to help shape EBSCO's Software as a Service product line for its worldwide researchers.</EM><BR><BR></LI>
-      <LI><STRONG>DynaMed Plus: How Does It Stack Up Against Other Clinical Decision Support Tools</STRONG><BR>DynaMed Plus is the evidence-based reference tool clinicians use to get answers to clinical questions quickly and easily. Content is written by a world-class team of physicians who synthesize the evidence and provide objective analysis. Join practicing physician, Alan Ehrlich, a user of both DynaMed Plus and other clinical decision support tools to find out how DynaMed Plus stacks up with real world examples.<BR><BR><EM><STRONG>Alan Ehrlich, MD, Executive Editor, DynaMed Plus</STRONG><BR></EM><EM>Alan Ehrlich, MD is Executive Editor at DynaMed and a Clinical Associate Professor in Family Medicine at the University of Massachusetts Medical School. He is board certified from the American Board of Family Medicine. Alan graduated from Rutgers Medical School and completed his residency at the University of Massachusetts Medical Center. He currently teaches Evidence-Based Medicine to 3rd year medical students and writes the Evidence-Based Medicine column for Clinical Advisor magazine.</EM><BR><BR></LI>
-      <LI><STRONG>Tips and Tricks for the Perfect CINAHL Search</STRONG><BR>CINAHL, the Cumulative Index to Nursing and Allied Health is a highly-recognized and well-used research tool. CINAHL provides broad content coverage including 50 nursing specialties, speech and language pathology, nutrition, general health and medicine and more. The presentation will focus on search tips and techniques (including limiters) to obtain comprehensive and/or precise search results.<BR><BR><EM><STRONG>Ellen Westling, Senior Engagement Manager - EBSCO Health</STRONG><BR>Ellen is an experienced medical librarian who has been providing customer support and training and working with medical customers at EBSCO for 18 years. Prior to joining EBSCO she worked as the Associate Director at the Countway Library of Medicine at Harvard Medical School and also as a medical librarian at the Treadwell Library at Massachusetts General Hospital.</EM></LI>
-      </UL>
-
-
-  url: https://www.eventbrite.com/e/ebsco-health-showcase-tickets-43895452480
-  start:
-    timezone: America/New_York
-    local: '2018-04-24T09:00:00'
-    utc: '2018-04-24T13:00:00Z'
-- name:
     text: Audiovisual Digitization at Your Place
     html: Audiovisual Digitization at Your Place
   description:
