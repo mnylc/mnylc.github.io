@@ -1,32 +1,5 @@
 ---
 - name:
-    text: Audiovisual Digitization at Your Place
-    html: Audiovisual Digitization at Your Place
-  description:
-    text: |+
-      Audiovisual Digitization at Your Place
-      This workshop will explore aspects about managing an in-house video digitization project within an archive.
-      This includes reviewing necessary hardware and software, arrangement and planning with collections, quality control of digitized works, technical decisions, and workflow. The workshop will also cover variance, lessons learned, and advantages in existing digitization projects as well as encourage discussion and planning about in-house digitization at your institution.
-
-      About our instructor:
-      Dave Rice is an audiovisual archivist and technologist. Dave’s work focuses on independent media as well as open source in audiovisual preservation and quality control analytics. He has worked as an archivist or archival consultant at media organizations like CUNY, Democracy Now!, The United Nations, WITNESS, DCTV, and Bay Area Video Coalition. Dave is a graduate of the L. Jeffrey Selznick School of Film Preservation.
-
-
-    html: |+
-      <P><STRONG>Audiovisual Digitization at Your Place</STRONG><BR></P>
-      <P><BR>This workshop will explore aspects about managing an in-house video digitization project within an archive.</P>
-      <P>This includes reviewing necessary hardware and software, arrangement and planning with collections, quality control of digitized works, technical decisions, and workflow. The workshop will also cover variance, lessons learned, and advantages in existing digitization projects as well as encourage discussion and planning about in-house digitization at your institution.</P>
-
-      <P><STRONG>About our instructor:</STRONG></P>
-      <P><SPAN>Dave Rice is an audiovisual archivist and technologist. Dave’s work focuses on independent media as well as open source in audiovisual preservation and quality control analytics. He has worked as an archivist or archival consultant at media organizations like CUNY, Democracy Now!, The United Nations, WITNESS, DCTV, and Bay Area Video Coalition. Dave is a graduate of the L. Jeffrey Selznick School of Film Preservation.</SPAN></P>
-
-
-  url: https://www.eventbrite.com/e/audiovisual-digitization-at-your-place-tickets-44595636750
-  start:
-    timezone: America/New_York
-    local: '2018-04-24T16:00:00'
-    utc: '2018-04-24T20:00:00Z'
-- name:
     text: Using and Improving NYC Open Data Dictionaries
     html: Using and Improving NYC Open Data Dictionaries
   description:
