@@ -42,7 +42,7 @@ Frick Art Reference Library
 
 **Greta Byrum**  
 Director of the New School's Digital Equity Laboratory  
-The New School
+The New School  
 2018-2023  
 
 **Valeda Dent**  
