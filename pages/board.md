@@ -46,8 +46,8 @@ The New School
 2018-2023  
 
 **Valeda Dent**  
-Dean, St. John’s University Libraries 
-St. John’s University   
+Dean, St. John’s University Libraries  
+St. John’s University  
 2018-2023 
 
 **LaRuth Gray**  
