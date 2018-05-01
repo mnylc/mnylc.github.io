@@ -88,8 +88,8 @@ Metropolitan New York Library Council (METRO)
 ## 2018 Board Meeting Dates
 
 * Wednesday, February 28, 2018
-* **Monday, April 30, 2018**
-* Monday, June 25, 2018 (virtual)
+* Monday, April 30, 2018
+* **Monday, June 25, 2018 (virtual)**
 * Monday, September 17, 2018
 * Monday, November 12, 2018
 * Monday, December 17, 2018 (virtual)
@@ -98,10 +98,14 @@ Metropolitan New York Library Council (METRO)
 All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 
 ## Board Meeting Agendas & Minutes
+**April 30, 2018**
+* [Agenda]({{ "/assets/board/2018_04_30 _Agenda.pdf" | prepend: site.baseurl }}) 
+* Minutes (pending)
+
 **February 28, 2018**
 
 * [Agenda]({{ "/assets/board/2018_02_28_Agenda.pdf" | prepend: site.baseurl }})  
-* Minutes (pending)
+* [Minutes]({{ "/assets/board/2018_02_28_Minutes.pdf" | prepend: site.baseurl }})
 
 **December 11, 2017**
 
