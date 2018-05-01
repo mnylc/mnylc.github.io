@@ -9,6 +9,12 @@ permalink: /board/
 Senior Fellow, Intelligent Community Forum   
 2005-2020
 
+**Shannon Mattern, Vice President**  
+Associate Professor  
+School of Media Studies  
+The New School  
+2016-2021  
+
 <!---**Lisa G. Rosenblum, Vice President**  
 Chief Librarian, Brooklyn Public Library  
 2016-2021-->    
@@ -34,6 +40,16 @@ Andrew W. Mellon Chief Librarian
 Frick Art Reference Library   
 2017-2022
 
+**Greta Byrum**  
+Director of the New School's Digital Equity Laboratory  
+The New School
+2018-2023  
+
+**Valeda Dent**  
+Dean, St. John’s University Libraries 
+St. John’s University   
+2018-2023 
+
 **LaRuth Gray**  
 Director of External Relations and Information Management  
 Metropolitan Center for Urban Education  
@@ -42,17 +58,7 @@ New York University Steinhardt School of Education
 
 **Milan R. Hughston**  
 Art Information Specialist  
-2007-2022
-
-**Mary Lee Kennedy**  
-Principal, The Kennedy Group  
-2016-2021  
-
-**Shannon Mattern**  
-Associate Professor  
-School of Media Studies  
-The New School  
-2016-2021
+2007-2022  
 
 **Leah Meisterlin**  
 Associate Professor  
