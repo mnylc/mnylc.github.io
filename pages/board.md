@@ -106,7 +106,7 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
 **December 11, 2017**
 
 * [Agenda]({{ "/assets/board/2017_12_11_Agenda.pdf" | prepend: site.baseurl }})  
-* Minutes (pending)
+* [Minutes]({{ "/assets/board/2017_12_11_Minutes.pdf" | prepend: site.baseurl }})
 
 **November 6, 2017**
 
