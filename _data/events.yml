@@ -1,58 +1,5 @@
 ---
 - name:
-    text: Intro to Data Analysis with R, Part 1
-    html: Intro to Data Analysis with R, Part 1
-  description:
-    text: |+
-      This workshop has been cancelled. We apologize for any inconvenience.
-
-      Participants will build on critical data literacy skills from previous workshops and begin to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights.
-      Participants will:
-
-      Download and install R and RStudio
-      Navigate the RStudio interface
-      Explore a dataset from NYC Open Data.
-
-      This two-part workshop will include at-home practice.
-
-      What to bring:
-
-      A laptop (or click here to borrow one of METRO's PC laptops for $5.00). Please have R and the free desktop version of RStudio pre-installed.
-
-
-
-      About our instructor:
-      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
-
-
-    html: |+
-      <P><EM>This workshop has been cancelled. We apologize for any inconvenience.</EM></P>
-
-      <P><SPAN>Participants will build on critical data literacy skills from previous workshops and begin to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights.</SPAN></P>
-      <P>Participants will:</P>
-      <UL>
-      <LI>Download and install R and RStudio</LI>
-      <LI>Navigate the RStudio interface</LI>
-      <LI>Explore a dataset from NYC Open Data.</LI>
-      </UL>
-      <P>This two-part workshop will include at-home practice.</P>
-
-      <P><STRONG>What to bring:</STRONG></P>
-      <UL>
-      <LI>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's PC laptops for $5.00). <BR>Please have <A HREF="https://cran.r-project.org/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">R</A> and the free desktop version of <A HREF="https://www.rstudio.com/products/rstudio/download/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">RStudio</A> pre-installed.</LI>
-      </UL>
-
-
-      <P><STRONG>About our instructor:</STRONG></P>
-      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
-
-
-  url: https://www.eventbrite.com/e/intro-to-data-analysis-with-r-part-1-tickets-44596043968
-  start:
-    timezone: America/New_York
-    local: '2018-05-03T16:00:00'
-    utc: '2018-05-03T20:00:00Z'
-- name:
     text: 'Intro to Code: Javascript, data, and poetry'
     html: 'Intro to Code: Javascript, data, and poetry'
   description:
@@ -241,59 +188,6 @@
     local: '2018-05-08T17:00:00'
     utc: '2018-05-08T21:00:00Z'
 - name:
-    text: Intro to Data Analysis with R, Part 2
-    html: Intro to Data Analysis with R, Part 2
-  description:
-    text: |+
-      This workshop has been cancelled. We apologize for any inconvenience.
-
-      Participants will build on critical data literacy skills from previous workshops and begin to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights.
-      Participants will:
-
-      Download and install R and RStudio
-      Navigate the RStudio interface
-      Explore a dataset from NYC Open Data.
-
-      This two-part workshop will include at-home practice.
-
-      What to bring:
-
-      A laptop (or click here to borrow one of METRO's PC laptops for $5.00). Please have R and the free desktop version of RStudio pre-installed.
-
-
-
-      About our instructor:
-      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
-
-
-    html: |+
-      <P><EM>This workshop has been cancelled. We apologize for any inconvenience.</EM></P>
-
-      <P><SPAN>Participants will build on critical data literacy skills from previous workshops and begin to explore open data using R, a free open source programming language used in various academic and professional fields. We’ll explore how patrons at academic, public, and high school libraries can use R to aid their research, explore data sets and discover insights.</SPAN></P>
-      <P>Participants will:</P>
-      <UL>
-      <LI>Download and install R and RStudio</LI>
-      <LI>Navigate the RStudio interface</LI>
-      <LI>Explore a dataset from NYC Open Data.</LI>
-      </UL>
-      <P>This two-part workshop will include at-home practice.</P>
-
-      <P><STRONG>What to bring:</STRONG></P>
-      <UL>
-      <LI>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's PC laptops for $5.00). <BR>Please have <A HREF="https://cran.r-project.org/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">R</A> and the free desktop version of <A HREF="https://www.rstudio.com/products/rstudio/download/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">RStudio</A> pre-installed.</LI>
-      </UL>
-
-
-      <P><STRONG>About our instructor:</STRONG></P>
-      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
-
-
-  url: https://www.eventbrite.com/e/intro-to-data-analysis-with-r-part-2-tickets-44596280676
-  start:
-    timezone: America/New_York
-    local: '2018-05-10T16:00:00'
-    utc: '2018-05-10T20:00:00Z'
-- name:
     text: Applying Descriptive Cataloging of Rare Materials (Manuscripts)
     html: Applying Descriptive Cataloging of Rare Materials (Manuscripts)
   description:
@@ -344,6 +238,40 @@
     timezone: America/New_York
     local: '2018-05-14T10:00:00'
     utc: '2018-05-14T14:00:00Z'
+- time: 1526497200000
+  link: https://www.meetup.com/InstructionReference/events/250341408/
+  description:
+    html: '<p>The METRO Reference and Instruction Meetup will get together twice this
+      spring: Library Lesson Lab on Wednesday, May 16 and Running Reference on Monday,
+      May 21.</p> <p>Join us for both of these lively and fast-paced sessions!</p>
+      <p>Meetup Part I: Library Lesson Lab<br/>Wednesday, May 16, 3:00-5:00 pm</p>
+      <p>We are seeking librarians to facilitate short (10-15 minute) instruction
+      activities or present 10-minute lightning talks on same.</p> <p>What is one
+      activity you haven’t quite been able to pin down yet, that addresses an important
+      research skill or concept, but isn''t quite where you want it to be? Or -- what
+      is one new activity you''re just excited to share?</p> <p>Come exchange ideas
+      and approaches with your peers, discuss lesson learned, and share constructive
+      feedback!</p> <p>Choose from two formats:<br/>Facilitate or model teaching of
+      a 10-15 minute library instruction activity<br/>Present for 10 minutes on a
+      single instruction strategy, approach, or activity, with or without slides</p>
+      <p>Possible student learning goals to be addressed:<br/>* Narrowing a broad
+      topic to more researchable questions<br/>* Learning conventions of certain types
+      of resources in the disciplines<br/>* Developing effective search strategies<br/>*
+      Navigating search interfaces and discovery layers<br/>* Engaging your curiosity
+      to drive the research process<br/>* Taking ownership of your research process<br/>--
+      Or any others!</p> <p>After sharing our lessons, we will discuss questions and
+      challenges for implementation, as well as potential applications for different
+      populations and contexts.</p> <p>We will then work together to brainstorm and
+      sketch out ideas for new activities, beginning with learning outcomes, and drawing
+      on ideas from our discussion.</p> <p>Enter your proposal details on this Google
+      form: <a href="http://bit.ly/metrolessonlab" class="linkified">http://bit.ly/metrolessonlab</a></p>
+      <p>Deadline for submission: Friday, May 11</p> '
+  name:
+    html: 'Spring Sessions Part I: Library Lesson Lab, May 16'
+  start:
+    utc: '2018-05-16 15:00:00 -0400'
+    local: '2018-05-16 15:00:00 -0400'
+  url: https://www.meetup.com/InstructionReference/events/250341408/
 - name:
     text: 'Understanding Data on the Web: data traces, Tor browser, and SecureDrop'
     html: 'Understanding Data on the Web: data traces, Tor browser, and SecureDrop'
