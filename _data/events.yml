@@ -589,6 +589,177 @@
     local: '2018-06-04T15:00:00'
     utc: '2018-06-04T19:00:00Z'
 - name:
+    text: Web Archiving for All! An Introduction to Webrecorder
+    html: Web Archiving for All! An Introduction to Webrecorder
+  description:
+    text: |+
+      Web Archiving for All! An Introduction to Webrecorder
+      In this session, we will talk about ways to collect web content via free, open source software that runs in a web browser (Webrecorder.io). With a model of human-directed collecting (one page at a time), Webrecorder significantly lowers the barrier to collecting web content. Attendees will be given a high-level overview of Webrecorder’s features and engage in hands-on activities.
+
+      Web archiving is important to the library/information field because, while so much contemporary culture takes shape or only exists online, this information is very susceptible to frequent change and loss. Selecting and collecting from social media will be important to represent current culture in New York and well beyond in the near and distant future. Many resources collected by libraries and archives, such as annual reports and course catalogs, are often no longer published on paper, but do get published to the web, so web archiving is essential to maintain or extend certain collections. With a tool like Webrecorder, anyone can get started with web archiving quickly, which is empowering both to information professionals/librarians and the communities they serve (especially if users are given information about using Webrecorder themselves).
+
+      During this session, participants will:
+
+
+      Learn how to employ user-friendly, open source, browser-based software for archiving web content at no cost (Webrecorder).
+
+
+      Gain information on options for downloading web archives (WARC files) and get experience with software for accessing web archives (Webrecorder Player).
+
+
+      Leave with the ability to describe, manage and share their web collections online (via Webrecorder.io).
+
+
+
+      No experience is expected or necessary. If you can browse the web you can collect with Webrecorder!
+
+      What to bring:
+
+      A laptop (or click here to borrow one of METRO's PC laptops for $5.00). Please have Firefox or Chrome installed. Installing Webrecorder Player, which is freely available from Github, would be helpful but is not required.
+
+
+      Agenda:
+
+
+      Hour 1:
+
+
+
+      Introductions, participants share goals/anticipated use cases
+
+
+      Overview of Webrecorder.io’s core tool sets followed by question time and brief discussion
+
+
+      Hands on activity to sign up for account, capture sample collection and review sample collection
+
+
+      Participants check back with group to discuss/reflect on progress
+
+
+
+      Hour 2:
+
+
+
+      Prompts or questions will be given to help participants envision how they could form meaningful small scale collections or augmentations to larger collections then start forming those collections while in this workshop. This can be done individually or in groups of 2-3 if participants would like to team up
+
+
+      Introduction to using pre-configured (remote) browsers and importing from public web archives
+
+
+      Overview of description, management and sharing features followed by an exercise to use these tools
+
+
+
+      Hour 3:
+
+
+
+      Demo of Webrecorder Player, an application for accessing/interacting with WARC files offline. Collections created earlier in the workshop can be downloaded and viewed in Webrecorder Player
+
+
+      Discuss the components of the practice of web archiving and explore how they could fit into existing and emerging digital preservation workflows through discussion  
+
+
+      If any time remains it can be used for further discussions, Q&A and/or ‘lab time’
+
+
+
+
+
+      About our instructor:As Associate Director of Strategic Partnerships for Webrecorder, Anna Perricci builds communities of users and is leading planning for Webrecorder’s long term sustainability. Anna is the teacher of an introductory course on web archiving (Web Archiving Fundamentals) for the Society of American Archivists’ Digital Archives Specialist program. 2013-2015, she was instrumental to the establishment of a collaborative web archiving program for Ivy Plus libraries and has worked extensively with artists and activists including via the Occupy Wall Street Archives Working Group (2011-2013). She earned an MSI in Archives & Records Management and a graduate teaching certificate at the University of Michigan as well as a BA in history and a post-baccalaureate certificate in studio art from Brandeis University.
+
+
+
+
+    html: |+
+      <P><STRONG>Web Archiving for All! An Introduction to Webrecorder</STRONG></P>
+      <P><SPAN>In this session, we will talk about ways to collect web content via free, open source software that runs in a web browser (Webrecorder.io). With a model of human-directed collecting (one page at a time), Webrecorder significantly lowers the barrier to collecting web content. Attendees will be given a high-level overview of Webrecorder’s features and engage in hands-on activities.</SPAN></P>
+      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
+      <P><SPAN>Web archiving is important to the library/information field because, while so much contemporary culture takes shape or only exists online, this information is very susceptible to frequent change and loss. Selecting and collecting from social media will be important to represent current culture in New York and well beyond in the near and distant future. Many resources collected by libraries and archives, such as annual reports and course catalogs, are often no longer published on paper, but do get published to the web, so web archiving is essential to maintain or extend certain collections. With a tool like Webrecorder, anyone can get started with web archiving quickly, which is empowering both to information professionals/librarians and the communities they serve (especially if users are given information about using Webrecorder themselves).</SPAN></P>
+      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
+      <P><SPAN>During this session, participants will:</SPAN></P>
+      <UL>
+      <LI>
+      <P><SPAN>Learn how to employ user-friendly, open source, browser-based software for archiving web content at no cost (Webrecorder).</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Gain information on options for downloading web archives (WARC files) and get experience with software for accessing web archives (Webrecorder Player).</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Leave with the ability to describe, manage and share their web collections online (via Webrecorder.io).</SPAN></P>
+      </LI>
+      </UL>
+      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
+      <P><SPAN>No experience is expected or necessary. If you can browse the web you can collect with Webrecorder!</SPAN></P>
+
+      <P><STRONG>What to bring:</STRONG></P>
+      <UL>
+      <LI>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's PC laptops for $5.00). Please have Firefox or Chrome installed. Installing <A HREF="https://github.com/webrecorder/webrecorderplayer-electron/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">Webrecorder Player</A>, which is freely available from Github,<SPAN><SPAN> would be helpful but is not required.</SPAN></SPAN></LI>
+      </UL>
+
+      <P><STRONG><BR>Agenda:</STRONG></P>
+      <UL>
+      <LI>
+      <P><SPAN>Hour 1:</SPAN></P>
+      </LI>
+      <UL>
+      <LI>
+      <P><SPAN>Introductions, participants share goals/anticipated use cases</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Overview of Webrecorder.io’s core tool sets followed by question time and brief discussion</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Hands on activity to sign up for account, capture sample collection and review sample collection</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Participants check back with group to discuss/reflect on progress</SPAN></P>
+      </LI>
+      </UL>
+      <LI>
+      <P><SPAN>Hour 2:</SPAN></P>
+      </LI>
+      <UL>
+      <LI>
+      <P><SPAN>Prompts or questions will be given to help participants envision how they could form meaningful small scale collections or augmentations to larger collections then start forming those collections while in this workshop. This can be done individually or in groups of 2-3 if participants would like to team up</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Introduction to using pre-configured (remote) browsers and importing from public web archives</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Overview of description, management and sharing features followed by an exercise to use these tools</SPAN></P>
+      </LI>
+      </UL>
+      <LI>
+      <P><SPAN>Hour 3:</SPAN></P>
+      </LI>
+      <UL>
+      <LI>
+      <P><SPAN>Demo of Webrecorder Player, an application for accessing/interacting with WARC files offline. Collections created earlier in the workshop can be downloaded and viewed in Webrecorder Player</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Discuss the components of the practice of web archiving and explore how they could fit into existing and emerging digital preservation workflows through discussion  </SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>If any time remains it can be used for further discussions, Q&A and/or ‘lab time’</SPAN></P>
+      </LI>
+      </UL>
+      </UL>
+
+
+      <P><STRONG>About our instructor:<BR></STRONG><SPAN><SPAN>As Associate Director of Strategic Partnerships for Webrecorder, Anna Perricci builds communities of users and is leading planning for Webrecorder’s long term sustainability. Anna is the teacher of an introductory course on web archiving (Web Archiving Fundamentals) for the Society of American Archivists’ Digital Archives Specialist program. 2013-2015, she was instrumental to the establishment of a collaborative web archiving program for Ivy Plus libraries and has worked extensively with artists and activists including via the Occupy Wall Street Archives Working Group (2011-2013). She earned an MSI in Archives &amp; Records Management and a graduate teaching certificate at the University of Michigan as well as a BA in history and a post-baccalaureate certificate in studio art from Brandeis University.</SPAN></SPAN><BR></P>
+      <P><SPAN><BR></SPAN></P>
+
+
+
+  url: https://www.eventbrite.com/e/web-archiving-for-all-an-introduction-to-webrecorder-tickets-45975412697
+  start:
+    timezone: America/New_York
+    local: '2018-06-11T13:30:00'
+    utc: '2018-06-11T17:30:00Z'
+- name:
     text: Introduction to Omeka
     html: Introduction to Omeka
   description:
