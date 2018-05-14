@@ -590,6 +590,27 @@
     timezone: America/New_York
     local: '2018-06-04T15:00:00'
     utc: '2018-06-04T19:00:00Z'
+- time: 1528311600000
+  link: https://www.meetup.com/racial-and-social-justice-in-the-library/events/250776867/
+  description:
+    html: "<p>Hello,<br/>Join the Racial and Social Justice in LIS Meetup and let’s
+      discuss microaggressions, how they manifest in our daily work life, and the
+      strategies that we use when confronted with them.</p> <p>We will divide our
+      time by discussing and coming up with the language necessary to understand what
+      are microaggressions, how they manifest in our work life, and the role of the
+      institution in ameliorating microaggressions in the workplace.<br/>We will break
+      into small groups and talk about the strategies that have helped us in those
+      situations and those that haven’t helped us at all.</p> <p>The intention of
+      this meetup is to provide a comfortable space where members can share their
+      experience and strategies when confronted with microaggressions in library spaces.</p>
+      <p>If possible, please watch this short video on microaggressions before the
+      meetup.<br/>Microaggressions in Everyday Life</p> "
+  name:
+    html: Join in! Let’s talk Microaggressions in LIS.
+  start:
+    utc: '2018-06-06 15:00:00 -0400'
+    local: '2018-06-06 15:00:00 -0400'
+  url: https://www.meetup.com/racial-and-social-justice-in-the-library/events/250776867/
 - name:
     text: Web Archiving for All! An Introduction to Webrecorder
     html: Web Archiving for All! An Introduction to Webrecorder
