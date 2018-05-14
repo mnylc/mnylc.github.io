@@ -593,7 +593,7 @@
 - time: 1528311600000
   link: https://www.meetup.com/racial-and-social-justice-in-the-library/events/250776867/
   description:
-    html: "<p>Hello,<br/>Join the Racial and Social Justice in LIS Meetup and let’s
+    html: '<p>Hello,<br/>Join the Racial and Social Justice in LIS Meetup and let’s
       discuss microaggressions, how they manifest in our daily work life, and the
       strategies that we use when confronted with them.</p> <p>We will divide our
       time by discussing and coming up with the language necessary to understand what
@@ -604,7 +604,8 @@
       this meetup is to provide a comfortable space where members can share their
       experience and strategies when confronted with microaggressions in library spaces.</p>
       <p>If possible, please watch this short video on microaggressions before the
-      meetup.<br/>Microaggressions in Everyday Life</p> "
+      meetup.<br/>Microaggressions in Everyday Life <a href="https://www.youtube.com/watch?v=BJL2P0JsAS4"
+      class="embedded">https://www.youtube.com/watch?v=BJL2P0JsAS4</a></p> '
   name:
     html: Join in! Let’s talk Microaggressions in LIS.
   start:
