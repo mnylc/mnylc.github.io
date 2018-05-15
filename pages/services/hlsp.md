@@ -31,7 +31,7 @@ The next application cycle opens Winter 2018.
 
 Medical Information Service Program grants are available to subsidize costs associated with interlibrary loans involving medical and health related materials. Grants are available to medical or hospital libraries, though other libraries may also be eligible to have the cost of its health-related interlibrary loans subsidized if the National Library of Medicine (NLM) or a Document Delivery Providers (DDP's) provided them. Grant funding is based, in part, on Docline interlibrary loan statistics.
 
-The The MISP Grant application is now closed. 
+The MISP Grant application is now closed. 
 
 ## Our Members
 
