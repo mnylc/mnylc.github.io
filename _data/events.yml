@@ -34,164 +34,6 @@
     local: '2018-05-16 15:00:00 -0400'
   url: https://www.meetup.com/InstructionReference/events/250341408/
 - name:
-    text: 'Understanding Data on the Web: data traces, Tor browser, and SecureDrop'
-    html: 'Understanding Data on the Web: data traces, Tor browser, and SecureDrop'
-  description:
-    text: |+
-      Understanding Data on the Web:data traces, Tor browser, and SecureDrop
-
-      In this workshop, we'll talk about some of the physical parts of the internet and how they fit together. We'll look at our own data traces to see what snoopers and our ISPs can see when they look at our web traffic. We'll spend the last section of the workshop talking about how the Tor browser hides some of the data traces that would otherwise visible. We'll also cover a few specific uses of the Tor browser, including submitting documents securely and anonymously to newsrooms via SecureDrop.
-      During this workshop, we'll:
-      - Use cards with pictures of different pieces of internet infrastructure (router, ISP, etc.) to lay out how the internet works.- Download a few applications that let us dive deeper into how information travels across the internet:
-
-
-      A packet sniffing application called Herbivore (if you don't know what "packet sniffing" is, don't worry! We'll talk about it in the workshop)
-
-
-      The Tor browser
-
-
-      - Walk through one specific use of the Tor browser: using it to submit documents securely and anonymously to news outlets and non-profits
-
-      Learning outcomes include:
-
-
-      Participants know how the basic building blocks of the internet—including routers, ISPs, servers, and data packets—fit together
-
-
-      Participants have an understanding of the digital data traces we create when we use the internet
-
-
-      Participants know how to use Tor and can decide when it makes sense to use based on the situation
-
-
-
-      Prerequisite knowledge and/or experience:
-
-
-      What’s assumed: Basic computer fluency, including how to browse the web and download free software from the internet.  
-
-
-      We’ll learn together: Basics of internet infrastructure, like what role a router plays in getting a webpage to our computer; what a "data packet” is; what metadata is; what we mean when we talk about security and anonymity online.
-
-
-
-      What to bring:
-
-
-      A laptop (or click here to borrow one of METRO's PC laptops for $5.00). Herbivore, which we’ll download and demo during the workshop, only works on Mac computers, but we’ll briefly discuss an alternative for Windows.All software options we’ll look at are free.
-
-
-      About our instructors:Jen Kagan is a programmer, writer, and teacher. She's a recent graduate of NYU-ITP, where she's currently a research resident, and she's also a tech fellow at Coworker.org.
-      David Huerta is a Digital Security Trainer at the Freedom of the Press Foundation, where he’s working on methods to train journalists to take advantage of privacy-enhancing technology to empower a free press. He’s co-organized dozens of trainings across the US, including one at the Whitney Museum of American Art as part of Laura Poitras’s Astro Noise exhibition in 2016. He’s also spoken on the subject of usable privacy technology at DEF CON, Radical Networks, Rightscon and random cocktail bars.
-
-
-
-    html: |+
-      <P><STRONG>Understanding Data on the Web:<BR>data traces, Tor browser, and SecureDrop</STRONG></P>
-
-      <P><SPAN>In this workshop, we'll talk about some of the physical parts of the internet and how they fit together. We'll look at our own data traces to see what snoopers and our ISPs can see when they look at our web traffic. We'll spend the last section of the workshop talking about how the Tor browser hides some of the data traces that would otherwise visible. We'll also cover a few specific uses of the Tor browser, including submitting documents securely and anonymously to newsrooms via SecureDrop.<BR><BR></SPAN></P>
-      <P><SPAN>During this workshop, we'll:</SPAN></P>
-      <P><SPAN></SPAN>- Use cards with pictures of different pieces of internet infrastructure (router, ISP, etc.) to lay out how the internet works.<BR>- Download a few applications that let us dive deeper into how information travels across the internet:</P>
-      <UL>
-      <LI>
-      <P><SPAN>A packet sniffing application called Herbivore (if you don't know what "packet sniffing" is, don't worry! We'll talk about it in the workshop)</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>The Tor browser</SPAN></P>
-      </LI>
-      </UL>
-      <P><SPAN>- Walk through one specific use of the Tor browser: using it to submit documents securely and anonymously to news outlets and non-profits</SPAN><BR></P>
-      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
-      <P><SPAN>Learning outcomes include:</SPAN></P>
-      <UL>
-      <LI>
-      <P><SPAN>Participants know how the basic building blocks of the internet—including routers, ISPs, servers, and data packets—fit together</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Participants have an understanding of the digital data traces we create when we use the internet</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Participants know how to use Tor and can decide when it makes sense to use based on the situation</SPAN></P>
-      </LI>
-      </UL>
-      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
-      <P><SPAN>Prerequisite knowledge and/or experience:</SPAN></P>
-      <UL>
-      <LI>
-      <P><SPAN>What’s assumed: Basic computer fluency, including how to browse the web and download free software from the internet. </SPAN><SPAN> </SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>We’ll learn together: Basics of internet infrastructure, like what role a router plays in getting a webpage to our computer; what a "data packet” is; what metadata is; what we mean when we talk about security and anonymity online.</SPAN></P>
-      </LI>
-      </UL>
-      <P><SPAN><SPAN><BR><BR></SPAN></SPAN></P>
-      <P><STRONG>What to bring:</STRONG></P>
-      <UL>
-      <LI>
-      <P><SPAN>A laptop (or click </SPAN><A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>here</SPAN></A><SPAN> to borrow one of METRO's PC laptops for $5.00). </SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>Herbivore, which we’ll download and demo during the workshop, only works on Mac computers, but we’ll briefly discuss an alternative for Windows.</SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>All software options we’ll look at are free.</SPAN><SPAN><BR CLASS="kix-line-break"><BR></SPAN></P>
-      </LI>
-      </UL>
-      <P><SPAN><STRONG>About our instructors:</STRONG><BR></SPAN>Jen Kagan is a programmer, writer, and teacher. She's a recent graduate of NYU-ITP, where she's currently a research resident, and she's also a tech fellow at Coworker.org.</P>
-      <P><SPAN>David Huerta is a Digital Security Trainer at the Freedom of the Press Foundation, where he’s working on methods to train journalists to take advantage of privacy-enhancing technology to empower a free press. He’s co-organized dozens of trainings across the US, including one at the Whitney Museum of American Art as part of Laura Poitras’s Astro Noise exhibition in 2016. He’s also spoken on the subject of usable privacy technology at DEF CON, Radical Networks, Rightscon and random cocktail bars.</SPAN></P>
-      <P><SPAN><BR></SPAN></P>
-
-
-  url: https://www.eventbrite.com/e/understanding-data-on-the-web-data-traces-tor-browser-and-securedrop-tickets-44231525684
-  start:
-    timezone: America/New_York
-    local: '2018-05-21T10:00:00'
-    utc: '2018-05-21T14:00:00Z'
-- name:
-    text: Introduction to NYC Open Data
-    html: Introduction to NYC Open Data
-  description:
-    text: |+
-      Introduction to NYC Open Data
-      Using New York City’s own open data portal as a teaching example, participants will be introduced to open data as a reference and research tool. Together we will practice effective search strategies, explore use cases, and build skills in critical evaluation. Through discussion, we will explore explicit and implicit biases, identify data quality issues, and consider how data, like all sources of information, requires a certain level of scrutiny.
-      Participants will:
-
-      Explore ways in which patrons can access, understand, and create with open data
-      Learn search strategies for finding usable datasets on NYC Open Data
-      Download a dataset to explore in Google Sheets
-
-
-      What to bring:
-
-      A laptop with access to Google Sheets or Excel(or click here to borrow one of METRO's PC laptops for $5.00)
-
-
-
-      About our instructor:
-      Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.
-
-
-    html: |+
-      <P><STRONG>Introduction to NYC Open Data<BR><BR></STRONG></P>
-      <P><SPAN><SPAN>Using New York City’s own open data portal as a teaching example, participants will be introduced to open data as a reference and research tool. Together we will practice effective search strategies, explore use cases, and build skills in critical evaluation. Through discussion, we will explore explicit and implicit biases, identify data quality issues, and consider how data, like all sources of information, requires a certain level of scrutiny.</SPAN></SPAN></P>
-      <P>Participants will:</P>
-      <UL>
-      <LI>Explore ways in which patrons can access, understand, and create with open data</LI>
-      <LI>Learn search strategies for finding usable datasets on NYC Open Data</LI>
-      <LI>Download a dataset to explore in Google Sheets</LI>
-      </UL>
-
-      <P><STRONG>What to bring:</STRONG></P>
-      <UL>
-      <LI>A laptop with access to Google Sheets or Excel<BR>(or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A> to borrow one of METRO's PC laptops for $5.00)</LI>
-      </UL>
-
-
-      <P><STRONG>About our instructor:</STRONG></P>
-      <P><SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. Her company, Tiny Panther Consulting, works with socially-minded organizations to implement inclusive and equitable data strategies. She commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</SPAN></P>
-
-
-  url: https://www.eventbrite.com/e/introduction-to-nyc-open-data-tickets-44886284084
-  start:
-    timezone: America/New_York
-    local: '2018-05-22T16:00:00'
-    utc: '2018-05-22T20:00:00Z'
-- name:
     text: 'Teaching Research Data Management and Reproducibility: Ways to Engage Your
       Community in Research Stewardship'
     html: 'Teaching Research Data Management and Reproducibility: Ways to Engage Your
@@ -1040,17 +882,19 @@
       assignments\n\n\nEditing on a timeline\n\n\nEssential editing techniques\n\n\nEssential
       audio techniques\n\n\nAppropriate output codecs to export your short.\n\n\n\nHour
       2:\n\n\n\nHands on Editing exercise to finish individual shorts\n\n\n\nHour
-      3: \n\n\n\nScreening of individual shorts\n\n\n\n\nAbout our instructor:\nOscar
-      Frasser is a professional image-maker and storyteller with a focus on human
-      rights human rights issues and Latin American topics. With over 20 years of
-      experience as a photographer, cinematographer and filmmaker, Oscar has worked
-      extensively in the areas of documentary filmmaking, photojournalism, media education
-      and advertising. Oscar has won multiple awards in both the United States and
-      internationally for his films and photo exhibitions. Oscar is currently specializing
-      his cinematography work with drones, teaching as an Adjunct Professor of Filmmaking­
-      at The New School and working as a freelancer in video and photojournalism for
-      the Associated Press at the United Nations and Notimex, a National News Agency
-      of Mexico.\n"
+      3: \n\n\n\nScreening of individual shorts\n\n\n\n\n\nWhat to bring:\n\n\nA laptop
+      (or click here to borrow one of METRO's for $5.00). Please have Adobe Premier
+      Pro pre-loaded. If you don't own a license, you can download a free, 7-day trial
+      version of Creative Cloud here.\n\n\n\n\nAbout our instructor:\nOscar Frasser
+      is a professional image-maker and storyteller with a focus on human rights human
+      rights issues and Latin American topics. With over 20 years of experience as
+      a photographer, cinematographer and filmmaker, Oscar has worked extensively
+      in the areas of documentary filmmaking, photojournalism, media education and
+      advertising. Oscar has won multiple awards in both the United States and internationally
+      for his films and photo exhibitions. Oscar is currently specializing his cinematography
+      work with drones, teaching as an Adjunct Professor of Filmmaking­ at The New
+      School and working as a freelancer in video and photojournalism for the Associated
+      Press at the United Nations and Notimex, a National News Agency of Mexico.\n"
     html: |-
       <P><SPAN>Join us at METRO for this <STRONG>three-part </STRONG>overview of DIY storytelling with video and sound on:</SPAN></P>
       <UL>
@@ -1213,7 +1057,16 @@
       </LI>
       </UL>
       </UL>
-      <P><SPAN><SPAN><BR><BR></SPAN></SPAN></P>
+
+
+      <P><STRONG>What to bring:</STRONG></P>
+      <UL>
+      <LI>
+      <P><SPAN>A laptop (or click </SPAN><A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>here</SPAN></A><SPAN> to borrow one of METRO's for $5.00). </SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>Please have Adobe Premier Pro pre-loaded. If you don't own a license, you can download a free, 7-day trial version of Creative Cloud </SPAN><A HREF="https://creative.adobe.com/products/download/creative-cloud" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>here</SPAN></A><SPAN>.</SPAN></P>
+      </LI>
+      </UL>
+      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
+
       <P><STRONG>About our instructor:</STRONG></P>
       <P><STRONG></STRONG>Oscar Frasser is a professional image-maker and storyteller with a focus on human rights human rights issues and Latin American topics. With over 20 years of experience as a photographer, cinematographer and filmmaker, Oscar has worked extensively in the areas of documentary filmmaking, photojournalism, media education and advertising. Oscar has won multiple awards in both the United States and internationally for his films and photo exhibitions. Oscar is currently specializing his cinematography work with drones, teaching as an Adjunct Professor of Filmmaking­ at The New School and working as a freelancer in video and photojournalism for the Associated Press at the United Nations and Notimex, a National News Agency of Mexico.</P>
       <P><SPAN><BR></SPAN></P>
