@@ -54,7 +54,7 @@ College of Mount Saint Vincent
 College of New Rochelle  
 College of Staten Island, CUNY  
 College of Westchester  
-Columbia University
+Columbia University  
 Columbia University, The American Assembly/Project Information Literacy (PIL)  
 Concordia College  
 Coney Island Hospital   
