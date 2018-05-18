@@ -37,6 +37,7 @@ The MISP Grant application is now closed.
 
 - Beth Israel Medical Center, Phillips Library
 - Brookdale Hospital Medical Center, Schwartz Medical Library
+- Brooklyn Hospital
 - Calvary Hospital, Medical Library
 - Columbia University, Long Health Sciences Library
 - Coney Island Hospital, Fink Memorial Library
@@ -47,6 +48,7 @@ The MISP Grant application is now closed.
 - Hospital for Special Surgery, Kim Barrett Memorial Library
 - Jamaica Hospital Medical Center, Medical Library
 - Kingsbrook Jewish Medical Center, Medical Library
+- Lawrence Hospital Health Sciences Center
 - Lenox Hill Hospital, Leopold Health Sciences Library
 - Lincoln Medical Center, Health Sciences Library
 - Long Island Jewish Medical Center, Health Science Library
@@ -59,6 +61,7 @@ The MISP Grant application is now closed.
 - Mount Sinai Medical Center, Levy Library
 - New York City Dept. of Health & Mental Hygiene
 - New York College of Podiatric Medicine
+- New York Downtown Hospital
 - New York Eye & Ear Infirmary, Samuels Medical Library
 - New York Hospital Medical Center of Queens, Health Education Library
 - New York Hospital/Cornell Medical Center, Westchester Division, Medical Library
@@ -66,8 +69,10 @@ The MISP Grant application is now closed.
 - New York Methodist Hospital, Health Sciences Library
 - New York Presbyterian Hospital/Weill Cornell Medical Center
 - New York University Medical Center, Ehrman Medical Library
+- North General Hospital
 - North Shore University Hospital at Forest Hills, Health Sciences Library
 - Northern Westchester Hospital Center, Health Sciences Library
+- Our Lady of Mercy
 - Peninsula Hospital Center, Medical Library
 - Phelps Memorial Hospital Center, Medical Staff Library
 - Queens Hospital Center, Health Science Library
@@ -78,6 +83,8 @@ The MISP Grant application is now closed.
 - St. John's Riverside Hospital, Library
 - St. Luke's Hospital Center/St. Luke's Division, Bolling Memorial Medical Library
 - St. Luke's Hospital/Roosevelt Division, Medical Library
+- St. Vincent's Manhattan
+- St. Vincent's Staten Island
 - Staten Island University Hospital, Medical Library
 - SUNY Health Science Center at Brooklyn, Medical Research Library
 - Weill Medical College of Cornell University, Samuel J. Wood Library
