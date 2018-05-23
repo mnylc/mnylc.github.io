@@ -1,66 +1,5 @@
 ---
 - name:
-    text: 'Teaching Research Data Management and Reproducibility: Ways to Engage Your
-      Community in Research Stewardship'
-    html: 'Teaching Research Data Management and Reproducibility: Ways to Engage Your
-      Community in Research Stewardship'
-  description:
-    text: |+
-      Teaching Research Data Management and Reproducibility: Ways to Engage Your Community in Research Stewardship
-
-      By understanding researchers' workflows, teaching data management is that much more efficient. In this session, Vicky Steeves (Librarian for Research Data Management and Reproducibility, New York University) will give an introduction to those looking to start offering services around research data management and reproducibility.
-      Steeves will introduce the concepts, terminology, and best practices of data management and reproducibility from both the perspective of librarians and researchers. Steeves will also demonstrate existing open-source infrastructure and workflows that enable best practices in data management and working more with more reproducibility. Participants will experiment with online tools, engage in discussions, and work on small group activities. Folks walking away from this workshop will have a better idea of how to engage with researchers on these topics, offer more research services, and foster a community of stewardship within their institutions.
-
-      Learning objectives:
-
-      Participants will gain an understanding of some basic concepts in data management and reproducibility
-      Participants will know about available tools that help work towards research reproducibility
-      Participants will understand how to offer and scale services around data management and reproducibility
-      Participants will be able to, at the very least, know what to look up when Googling
-
-
-      This is an introductory workshop; no prerequisite knowledge or experience is required.
-
-      What to bring:
-
-      A laptop (or click here to borrow one of METRO's for $5.00)
-
-
-      About Our Instructor
-      ​Vicky Steeves is the Librarian for Research Data Management and Reproducibility, a dual appointment between NYU's Division of Libraries and Center for Data Science. In this role, she works supporting students, faculty, staff, and researchers in creating well-managed, high quality, and reproducible research through facilitating use of tools such as ReproZip. Her research centers on integrating reproducible practices into the research workflow, advocating openness in all facets of research (code, data, analysis tools, etc.), and building/contributing to open infrastructure.​
-
-
-    html: |+
-      <P><STRONG>Teaching Research Data Management and Reproducibility: </STRONG>Ways to Engage Your Community in Research Stewardship</P>
-
-      <P>By understanding researchers' workflows, teaching data management is that much more efficient. In this session, Vicky Steeves (Librarian for Research Data Management and Reproducibility, New York University) will give an introduction to those looking to start offering services around research data management and reproducibility.</P>
-      <P>Steeves will introduce the concepts, terminology, and best practices of data management and reproducibility from both the perspective of librarians and researchers. Steeves will also demonstrate existing open-source infrastructure and workflows that enable best practices in data management and working more with more reproducibility. Participants will experiment with online tools, engage in discussions, and work on small group activities. Folks walking away from this workshop will have a better idea of how to engage with researchers on these topics, offer more research services, and foster a community of stewardship within their institutions.</P>
-
-      <P><STRONG>Learning objectives:</STRONG></P>
-      <UL>
-      <LI>Participants will gain an understanding of some basic concepts in data management and reproducibility</LI>
-      <LI>Participants will know about available tools that help work towards research reproducibility</LI>
-      <LI>Participants will understand how to offer and scale services around data management and reproducibility</LI>
-      <LI>Participants will be able to, at the very least, know what to look up when Googling</LI>
-      </UL>
-
-      <P>This is an introductory workshop; no prerequisite knowledge or experience is required.</P>
-
-      <P><SPAN><SPAN><STRONG>What to bring:</STRONG></SPAN></SPAN></P>
-      <UL>
-      <LI><SPAN>A laptop (or click </SPAN><A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">here</A><SPAN> to borrow one of METRO's for $5.00)</SPAN></LI>
-      </UL>
-
-      <P><STRONG>About Our Instructor</STRONG></P>
-      <P><SPAN><SPAN>​Vicky Steeves is the Librarian for Research Data Management and Reproducibility, a dual appointment between NYU's Division of Libraries and Center for Data Science. In this role, she works supporting students, faculty, staff, and researchers in creating well-managed, high quality, and reproducible research through facilitating use of tools such as ReproZip. Her research centers on integrating reproducible practices into the research workflow, advocating openness in all facets of research (code, data, analysis tools, etc.), and building/contributing to open infrastructure.​</SPAN></SPAN></P>
-
-
-  url: https://www.eventbrite.com/e/teaching-research-data-management-and-reproducibility-ways-to-engage-your-community-in-research-tickets-45814881544
-  start:
-    timezone: America/New_York
-    local: '2018-05-29T13:00:00'
-    utc: '2018-05-29T17:00:00Z'
-- name:
     text: 'Getting Started with Web Archives: A beginner''s workshop'
     html: 'Getting Started with Web Archives: A beginner&#39;s workshop'
   description:
@@ -540,6 +479,33 @@
     timezone: America/New_York
     local: '2018-06-11T13:30:00'
     utc: '2018-06-11T17:30:00Z'
+- name:
+    text: XFR Collective Open House
+    html: XFR Collective Open House
+  description:
+    text: |+
+      Perhaps you have been curious about what XFR Collective is all about or what we’re up to now that our hiatus is over? Perhaps you’ve heard about the big beautiful rack we built at the Metropolitan New York Library Council (METRO)? Perhaps you want to get more involved with XFR but don’t know how?
+      Join us for a XFR Collective Open House on Thursday, June 14th from 7-9pm at METRO.
+      Drop in, hang out, take a look at the workstation and watch some videos we’ve digitized. Around 7:30 we’ll talk about what we have been working on.
+      (๑•́⌄•́)ง✧ Or just come for some light refreshments. ✧٩(•́⌄•́๑)
+      XFR Collective is a non-profit organization that partners with artists, activists, individuals, and groups to lower the barriers to preserving at-risk audiovisual media – especially unseen, unheard, or marginalized works – by providing low-cost digitization services and fostering a community of support for archiving and access through education, research, and cultural engagement.
+
+
+
+    html: |+
+      <P><SPAN>Perhaps you have been curious about what </SPAN><A HREF="https://xfrcollective.wordpress.com/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>XFR Collective</SPAN></A><SPAN> is all about or what we’re up to now that our hiatus is over? Perhaps you’ve heard about the </SPAN><A HREF="https://xfrcollective.wordpress.com/portfolio/metro/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>big beautiful rack</SPAN></A><SPAN> we built at the Metropolitan New York Library Council (</SPAN><A HREF="https://metro.org/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>METRO</SPAN></A><SPAN>)? Perhaps you want to get more involved with XFR but don’t know how?<BR><BR></SPAN></P>
+      <P><SPAN>Join us for a XFR Collective Open House on </SPAN><SPAN>Thursday, June 14th from 7-9pm </SPAN><SPAN>at METRO</SPAN><SPAN>.<BR><BR></SPAN></P>
+      <P><SPAN>Drop in, hang out, take a look at the workstation and watch some videos we’ve digitized. Around 7:30 we’ll talk about what we have been working on.<BR><BR></SPAN></P>
+      <P><SPAN>(๑•́⌄•́)ง✧ Or just come for some light refreshments. ✧٩(•́⌄•́๑)<BR><BR></SPAN></P>
+      <P><SPAN><SPAN><SPAN>XFR Collective is a non-profit organization that partners with artists, activists, individuals, and groups to lower the barriers to preserving at-risk audiovisual media – especially unseen, unheard, or marginalized works – by providing low-cost digitization services and fostering a community of support for archiving and access through education, research, and cultural engagement.</SPAN></SPAN></SPAN></P>
+
+
+
+  url: https://www.eventbrite.com/e/xfr-collective-open-house-tickets-46372338914
+  start:
+    timezone: America/New_York
+    local: '2018-06-14T19:00:00'
+    utc: '2018-06-14T23:00:00Z'
 - name:
     text: Introduction to Omeka
     html: Introduction to Omeka
