@@ -357,6 +357,75 @@
     local: '2018-06-25T14:00:00'
     utc: '2018-06-25T18:00:00Z'
 - name:
+    text: Wellness for Healthcare Workers and Beyond
+    html: Wellness for Healthcare Workers and Beyond
+  description:
+    text: |-
+      It seems like every day we hear about clinician burnout and its devastating effects on physicians, nurses and other healthcare providers. We have also seen a rise in wellness programs in the workplace and initiatives championed by institutions like AMA, The National Academy of Medicine, Stanford Medicine, and others. As information professionals in hospital and healthcare settings, we may witness the toll taken on those around us, and feel the effects as well.
+      But what is burnout? Why is it suddenly everywhere in the news? What can we as librarians do about it?
+      In this session we will explore what burnout is, what makes a successful workplace wellness program, and how we can participate in and support wellness programs. We will also learn techniques to manage our own stress through guided meditation.
+      A follow-up resource guide will be provided to all attendees.
+
+
+      Speakers:
+
+
+      Deborah GossChief Medical Librarian, HYC Health + Hospitals/Queens
+
+
+      Afia Bediako, MPHProgram Coordinator, WorkWell NYC 
+
+
+      Peter Cole, MLSChief, Learning Resources, VA New York Harbor Healthcare System
+
+
+      Rebecca CarmanSocial Worker, NYC Health + Hospitals/Elmhurst
+
+
+      Kathy KollerYoga and Meditation Practitioner, stressreductionnyc
+
+
+
+
+
+
+      This event is co-sponsored by METRO and BQSIMB (Brooklyn, Queens, Staten Island, Manhattan and the Bronx Health Sciences Librarians). To learn more about BQSIMB, visit their website at http://www.bqsimb.org/.
+    html: |-
+      <P><SPAN>It seems like every day we hear about clinician burnout and its devastating effects on physicians, nurses and other healthcare providers. We have also seen a rise in wellness programs in the workplace and initiatives championed by institutions like AMA, The National Academy of Medicine, Stanford Medicine, and others. As information professionals in hospital and healthcare settings, we may witness the toll taken on those around us, and feel the effects as well.</SPAN></P>
+      <P><BR>But what is burnout? Why is it suddenly everywhere in the news? What can we as librarians do about it?</P>
+      <P><BR>In this session we will explore what burnout is, what makes a successful workplace wellness program, and how we can participate in and support wellness programs. We will also learn techniques to manage our own stress through guided meditation.</P>
+      <P><BR>A follow-up resource guide will be provided to all attendees.</P>
+      <P><SPAN><BR></SPAN></P>
+      <P><SPAN><BR></SPAN></P>
+      <P><STRONG>Speakers:</STRONG></P>
+      <UL>
+      <LI>
+      <P><SPAN>Deborah Goss<BR>Chief Medical Librarian, HYC Health + Hospitals/Queens</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Afia Bediako, MPH<BR><SPAN>Program Coordinator, </SPAN>WorkWell NYC </SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Peter Cole, MLS<BR>Chief, Learning Resources, VA New York Harbor Healthcare System</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Rebecca Carman<BR>Social Worker, NYC Health + Hospitals/Elmhurst</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Kathy Koller<BR>Yoga and Meditation Practitioner, stressreductionnyc</SPAN></P>
+      </LI>
+      </UL>
+
+
+
+
+      <P><SPAN>This event is co-sponsored by METRO and BQSIMB (Brooklyn, Queens, Staten Island, Manhattan and the Bronx Health Sciences Librarians). To learn more about BQSIMB, visit their website at <A HREF="http://www.bqsimb.org/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">http://www.bqsimb.org/</A>.</SPAN></P>
+  url: https://www.eventbrite.com/e/wellness-for-healthcare-workers-and-beyond-tickets-46109267059
+  start:
+    timezone: America/New_York
+    local: '2018-06-26T13:00:00'
+    utc: '2018-06-26T17:00:00Z'
+- name:
     text: Photography & Photoshop Essentials, Part 2
     html: Photography &amp; Photoshop Essentials, Part 2
   description:
