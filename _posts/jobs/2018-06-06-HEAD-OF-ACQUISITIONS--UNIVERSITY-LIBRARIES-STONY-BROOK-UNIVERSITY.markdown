@@ -11,22 +11,22 @@ tag: job
 Responsibilities & Requirements:
 Under the direction of the Direction of Collection and Resource Management, the Head of Acquisitions provides leadership, guidance, and expertise to the departments, including supervision of faculty librarians and professional staff. The Head of Acquisitions will be expected to conduct research and scholarship, and participate in faculty governance, committee works, and continuing professional development consistent with University standards for promotion and tenure. As a faculty librarian, the successful incumbent will take an active role in liaison, reference and instruction duties. The selected candidate will be responsible for the following:
 
-•	Provide leadership, guidance, and expertise to the Department of Acquisitions, including regular review of department faculty librarians and professional staff.
-•	Advise Director of Collection and Resource Management in the articulation of a user-centered, holistic serials and electronic resources management vision to meet current and emerging information needs and new models of collection/content building and delivery.
-•	Review and evaluate workflows and work assignments, with an eye toward increasing efficiencies, bringing more high-quality content to users more quickly, and building sustainable workflows to handle increasingly heterogeneous digital assets.
-•	Plan, implement, and evaluate operations, establish and document policies and procedures, and set priorities in serials and electronic resources management.
-•	Train, evaluate, and supervise departmental staff, and ensure compliance with local policy and procedure, resource license agreements, as well as best practices in the profession.
-•	Provide budget and collection data to Director of Collection and Resource Management and Associate Dean for Collection Strategy and Management, as well as liaison librarians as appropriate.
-•	Administer and allocate expenditures for serials and electronic resources in library management system.
-•	Manage troubleshooting and resolution of access issues, consulting and advising Library IT staff as appropriate.
-•	Manage subscription renewals and monitor vendors to ensure quality service and accurate pricing.
-•	Work with the Director of Collection and Resource Management to assess, implement, and manage vendor arrangements for the outsourcing and/or automation of departmental work as appropriate.
-•	Work with SBU Library senior leadership, consortia partners, and library/higher education organizations to identify opportunities for improvement in Libraries/ discovery and delivery operations and services.
-•	Work with Director of Collection and Resource Management and Libraries leadership to develop and implement University Libraries strategic priorities and provide the infrastructure needed to achieve those priorities.
-•	Work with Director of Collection and Resource Management and Associate Dean for Collection Strategy and Management to develop, coordinate, and implement bibliographic control policy and practices across the ILS, Discovery, and digital repository systems.
+•        Provide leadership, guidance, and expertise to the Department of Acquisitions, including regular review of department faculty librarians and professional staff.
+•        Advise Director of Collection and Resource Management in the articulation of a user-centered, holistic serials and electronic resources management vision to meet current and emerging information needs and new models of collection/content building and delivery.
+•        Review and evaluate workflows and work assignments, with an eye toward increasing efficiencies, bringing more high-quality content to users more quickly, and building sustainable workflows to handle increasingly heterogeneous digital assets.
+•        Plan, implement, and evaluate operations, establish and document policies and procedures, and set priorities in serials and electronic resources management.
+•        Train, evaluate, and supervise departmental staff, and ensure compliance with local policy and procedure, resource license agreements, as well as best practices in the profession.
+•        Provide budget and collection data to Director of Collection and Resource Management and Associate Dean for Collection Strategy and Management, as well as liaison librarians as appropriate.
+•        Administer and allocate expenditures for serials and electronic resources in library management system.
+•        Manage troubleshooting and resolution of access issues, consulting and advising Library IT staff as appropriate.
+•        Manage subscription renewals and monitor vendors to ensure quality service and accurate pricing.
+•        Work with the Director of Collection and Resource Management to assess, implement, and manage vendor arrangements for the outsourcing and/or automation of departmental work as appropriate.
+•        Work with SBU Library senior leadership, consortia partners, and library/higher education organizations to identify opportunities for improvement in Libraries/ discovery and delivery operations and services.
+•        Work with Director of Collection and Resource Management and Libraries leadership to develop and implement University Libraries strategic priorities and provide the infrastructure needed to achieve those priorities.
+•        Work with Director of Collection and Resource Management and Associate Dean for Collection Strategy and Management to develop, coordinate, and implement bibliographic control policy and practices across the ILS, Discovery, and digital repository systems.
 
 Special Notes:
-This is a tenure track position. FLSA Exempt position, not eligible for the overtime provisions of the FLSA. Internal and external search to occur simultaneously.  Anticipated Start Date: As soon as possible. **Applications will be accepted until the position is filled. However, to guarantee consideration, please apply by July 5, 2018.
+This is a tenure track position. FLSA Exempt position, not eligible for the overtime provisions of the FLSA. Internal and external search to occur simultaneously.  Anticipated Start Date: As soon as possible. **Applications will be accepted until the position is filled. However, to guarantee consideration, please apply by July 6, 2018.
 
 Pursuant to Executive Order 161, no State entity, as defined by the Executive Order, is permitted to ask, or mandate, in any form, that an applicant for employment provide his or her current compensation, or any prior compensation history, until such time as the applicant is extended a conditional offer of employment with compensation.  If such information has been requested from you before such time, please contact the Governor’s Office of Employee Relations at (518) 474-6988 or via email at info@goer.ny.gov.
 Stony Brook University is 100% tobacco-free as of January 1, 2016. See our policy and learn more at stonybrook.edu/tobaccofree. 
@@ -38,13 +38,13 @@ Stony Brook University, home to many highly ranked graduate research programs, i
 
 Stony Brook Libraries are known for a wide-range of print and digital resources and world-renowned special collections. The Stony Brook Libraries belong to the Association of Research Libraries (ARL), with a Health Sciences Center Library that is a member of the Association of Academic Health Sciences Libraries. The Libraries are engaged in an ambitious and dynamic strategic planning (2015-2018). The collection exceeds 2 million volumes, including e-books, print and electronic holdings of scholarly journal subscriptions, microforms, music recordings, and a sizeable map collection. The SBU Libraries include 6 distinct facilities, including Melville Library, Marine and Atmospheric Sciences, Chemistry, Math/Physics, Southampton and Health Sciences Libraries, and SUNY Korea-SBU campus. The University's Libraries stand as the largest academic research library on Long Island, serving as a resource in the local community, state-wide, and nationally and internationally. The Libraries maintain memberships and affiliations in arXiv, Association of Research Libraries, SPARC, Center for Research Libraries, SUNY Connect, DuraSpace (as a SUNY member) the Council on Library and Information Resources, Digital Library Federation, Coalition of Networked Information, EDUCAUSE, Inter-university Consortium for Political and Social Research, Roper Center, OCLC Research Library Partnership, and ORCID through the National Network of the National Libraries of Medicine. The Libraries utilize Ex Libris' Aleph for its integrates library system and have recently deployed EBSCO'S Discovery Service, DSpace, Content DM, and Omeka, are used for managing digital assets and a growing Institutional Repository.
 
-Official Job Title:	Senior Assistant/Associate Librarian
-REF#:	F-9754-18-06-F
-Campus:	Stony Brook West Campus
-Department:	University Libraries
-Salary:	Commensurate with Experience
-Posting Start Date:	06/05/2018
-Posting End Date:	07/06/2018
+Official Job Title:        Senior Assistant/Associate Librarian
+REF#:        F-9754-18-06-F
+Campus:        Stony Brook West Campus
+Department:        University Libraries
+Salary:        Commensurate with Experience
+Posting Start Date:        06/05/2018
+Posting End Date:        07/06/2018
 
 Applications for this position must be received, as specified in the Application Procedure Section, no later than 5:00 PM Eastern Time on 07/06/2018, unless specifically noted otherwise in the Special Notes Section.
 
