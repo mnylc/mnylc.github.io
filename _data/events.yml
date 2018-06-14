@@ -319,7 +319,7 @@
 - time: 1530225000000
   link: https://www.meetup.com/Ethical-Tech/events/251311063/
   description:
-    html: "<p>“One has this feeling of having contributed to something that’s gone
+    html: '<p>“One has this feeling of having contributed to something that’s gone
       very wrong” — Jaron Lanier<br/>“The internet is terrible now” — Tim Wu<br/>“The
       net has heaps of problems” — Tim Berners-Lee</p> <p>The Internet has gone through
       some changes, and not for the better. Whereas the early Internet felt like an
@@ -352,8 +352,24 @@
       writing on resilience and community technology has been featured in Politico,
       The Atlantic, Pacific Standard, Slate, Real Clear Policy, and the International
       Journal of Communication. Greta serves on the boards of the Metropolitan New
-      York Libraries Council and the Earth Harmony Sanctuary.</p> <p>More speakers
-      coming soon...</p> "
+      York Libraries Council and the Earth Harmony Sanctuary.</p> <p>Ingrid Burrington</p>
+      <p>Ingrid Burrington writes, makes maps, and tells jokes about places, politics,
+      and the weird feelings people have about both. She wrote a book ("Networks of
+      New York: An Illustrated Field Guide to Urban Internet Infrastructure") about
+      finding the internet on the street.</p> <p>Dhruv Mehrotra</p> <p>Dhruv Mehrotra
+      is an activist and researcher interested in networks power and politics. Currently
+      at the ACLU''s Speech Privacy and Technology Project and a resident at Eyebeam.
+      Dhruv also works with Saycel building low-cost community cellphone networks.</p>
+      <p>Houman Saberi</p> <p>Houman Saberi is the deputy director of the Resilient
+      Communities project for RISE:NYC. In this role, he is helping to build resilient
+      community wireless networks in Sandy-affected areas of the city in partnership
+      with local businesses, civic organizations, and residents.</p> <p>Grayson Earle</p>
+      <p>Grayson Earle’s diverse technological practice is unified by a political
+      approach to media making. Employing video games, video projection, algorithmic
+      audiovisual generation, biological organisms, and robotics, his work tends to
+      intervene on physical spaces and entrenched ideas. His creative practice articulates
+      a repositioning of resistance to power that invites participation from reluctant
+      citizens.</p> '
   name:
     html: 'Ethics in Infrastructure: Building the Internet We Want'
   start:
