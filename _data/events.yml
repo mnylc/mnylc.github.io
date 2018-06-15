@@ -1,32 +1,5 @@
 ---
 - name:
-    text: XFR Collective Open House
-    html: XFR Collective Open House
-  description:
-    text: |+
-      Perhaps you have been curious about what XFR Collective is all about or what we’re up to now that our hiatus is over? Perhaps you’ve heard about the big beautiful rack we built at the Metropolitan New York Library Council (METRO)? Perhaps you want to get more involved with XFR but don’t know how?
-      Join us for a XFR Collective Open House on Thursday, June 14th from 7-9pm at METRO.
-      Drop in, hang out, take a look at the workstation and watch some videos we’ve digitized. Around 7:30 we’ll talk about what we have been working on.
-      (๑•́⌄•́)ง✧ Or just come for some light refreshments. ✧٩(•́⌄•́๑)
-      XFR Collective is a non-profit organization that partners with artists, activists, individuals, and groups to lower the barriers to preserving at-risk audiovisual media – especially unseen, unheard, or marginalized works – by providing low-cost digitization services and fostering a community of support for archiving and access through education, research, and cultural engagement.
-
-
-
-    html: |+
-      <P><SPAN>Perhaps you have been curious about what </SPAN><A HREF="https://xfrcollective.wordpress.com/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>XFR Collective</SPAN></A><SPAN> is all about or what we’re up to now that our hiatus is over? Perhaps you’ve heard about the </SPAN><A HREF="https://xfrcollective.wordpress.com/portfolio/metro/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>big beautiful rack</SPAN></A><SPAN> we built at the Metropolitan New York Library Council (</SPAN><A HREF="https://metro.org/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>METRO</SPAN></A><SPAN>)? Perhaps you want to get more involved with XFR but don’t know how?<BR><BR></SPAN></P>
-      <P><SPAN>Join us for a XFR Collective Open House on </SPAN><SPAN>Thursday, June 14th from 7-9pm </SPAN><SPAN>at METRO</SPAN><SPAN>.<BR><BR></SPAN></P>
-      <P><SPAN>Drop in, hang out, take a look at the workstation and watch some videos we’ve digitized. Around 7:30 we’ll talk about what we have been working on.<BR><BR></SPAN></P>
-      <P><SPAN>(๑•́⌄•́)ง✧ Or just come for some light refreshments. ✧٩(•́⌄•́๑)<BR><BR></SPAN></P>
-      <P><SPAN><SPAN><SPAN>XFR Collective is a non-profit organization that partners with artists, activists, individuals, and groups to lower the barriers to preserving at-risk audiovisual media – especially unseen, unheard, or marginalized works – by providing low-cost digitization services and fostering a community of support for archiving and access through education, research, and cultural engagement.</SPAN></SPAN></SPAN></P>
-
-
-
-  url: https://www.eventbrite.com/e/xfr-collective-open-house-tickets-46372338914
-  start:
-    timezone: America/New_York
-    local: '2018-06-14T19:00:00'
-    utc: '2018-06-14T23:00:00Z'
-- name:
     text: Introduction to Omeka
     html: Introduction to Omeka
   description:
