@@ -181,6 +181,30 @@
     timezone: America/New_York
     local: '2018-06-26T13:00:00'
     utc: '2018-06-26T17:00:00Z'
+- time: 1530111600000
+  link: https://www.meetup.com/Prison-Library-Support-Network/events/251763437/
+  description:
+    html: "<p>Curious about the Prison Library Support Network and how to get involved?
+      Are you interested in ways libraries can act as tools for prison abolition?
+      Want to know about upcoming opportunities to volunteer with jail and prison
+      library service providers in New York?</p> <p>Join us for an Open House on Wednesday,
+      June 27th from 11-12:30 pm at METRO.</p> <p>Drop in, hang out, and learn more
+      about what we do. At this event, we will discuss how we formed and how to get
+      involved in our work. We will also discuss plans for upcoming events, such as:<br/>-
+      book club focused on prison abolition<br/>- volunteer reference letter writing
+      with BPL's Jail and Prison Libraries<br/>- book drives with NYPL's Correctional
+      Service's Division.</p> <p>The Prison Library Support Network is an information-based
+      collective that aims to redistribute resources and provide support to incarcerated
+      people. Our work is rooted in our recognition of systematic violence that the
+      prison industrial complex creates. We believe that information is a tool for
+      prison abolition, and that we must create space for people who want to commit
+      and redistribute their own capacities and resources.</p> "
+  name:
+    html: Prison Library Support Network - Open House!
+  start:
+    utc: '2018-06-27 11:00:00 -0400'
+    local: '2018-06-27 11:00:00 -0400'
+  url: https://www.meetup.com/Prison-Library-Support-Network/events/251763437/
 - name:
     text: Photography & Photoshop Essentials, Part 2
     html: Photography &amp; Photoshop Essentials, Part 2
