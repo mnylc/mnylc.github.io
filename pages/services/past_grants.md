@@ -26,7 +26,7 @@ New-York Historical Society
 2016 Digitization Project Grant  
 
 Pilsudski Institute of America  
-Photograph Collection: Polish Armed Forces fighting as a part of Allied Forces in the West during WWII  
+[Photograph Collection: Photographs of Polish Soldiers and Civilians During WWII (1939-1945)](http://dcmny.org/islandora/object/pilsudski%3Awwii)  
 2016 Digitization Project Grant
 
 Fordham University Libraries  

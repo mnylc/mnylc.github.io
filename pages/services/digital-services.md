@@ -42,6 +42,23 @@ American Museum of Natural History Library
 Biodiversity Heritage Library - Enhancing Access Project  
 2017 Digital Conversion MicroGrant  
 
+Irwin S. Chanin School of Architecture Archive of The Cooper Union  
+The Student Work Collection  
+2017 Digitization Project Grant  
+
+Leo Baeck Institute New York  
+Digitizing the Estate of the Art Historian Rachel Wischnitzer  
+2017 Digital Conversion MicroGrant  
+
+New York Academy of Medicine  
+William S. Ladd Collection of Prints  
+2017 Digital Conversion MicroGrant  
+
+Staten Island Museum History Center and Archives  
+Digitize Suffrage Periodicals  
+2017 Digital Conversion MicroGrant  
+
+
 [Past Funded Digitization Grant Projects]({{ '/services/past_grants' | prepend: site.baseurl }})
 
 [Back to top](#top)
