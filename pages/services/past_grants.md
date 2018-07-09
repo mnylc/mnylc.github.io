@@ -18,7 +18,7 @@ permalink: /services/past_grants
 ##  <a class="anchor" name="2016"></a>2016
 
 The Grolier Club  
-The Maria Gerard Messenger Women's Bookplates Collection  
+[The Maria Gerard Messenger Women's Bookplates Collection](http://dcmny.org/islandora/object/gc%3Amgmbookplates)  
 2016 Digitization Project Grant  
 
 New-York Historical Society  
