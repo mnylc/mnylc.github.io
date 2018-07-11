@@ -2,13 +2,13 @@
 layout: post
 title:  "Digital Project Archivist - temporary - Seamen's Church Institute"
 date:   2018-07-10
-excerpt: "Will support the SCI archives program by redesigning, updating and adding content to SCI’s digital archives resources."
+excerpt: "Will support the SCI archives program by redesigning, updating and adding content to SCI’s digital archives resources. This position is part time, approximately 10 hours per week."
 tag: job
 ---
 
 ### Description###
 
-Will support the SCI archives program by redesigning, updating and adding content to SCI’s digital archives resources.
+Will support the SCI archives program by redesigning, updating and adding content to SCI’s digital archives resources. This position is part time, approximately 10 hours per week.
 
 
 ### Responsibilities###
