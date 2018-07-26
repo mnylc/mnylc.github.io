@@ -15,18 +15,10 @@ Stephen Klein, Organizer
 Open to all library staff interested in the coding, deployment, and design of library software, systems, and web services. This local chapter of Code4Lib, known as Code4LibNYC, aspires to channel the spirit of the national organization. We were formerly known as the "Library 2.0" SIG at METRO. We want to provide a forum for software and web developers and programmers, who work at area libraries, to discuss their ongoing projects.
 
 
-## Collective Access User Group ##
-[https://www.meetup.com/CollectiveAccess-User-Group/](https://www.meetup.com/CollectiveAccess-User-Group/)
-
-Robin Camille Davis, Organizer
-
-The CollectiveAccess User Group at METRO was created in 2014. This group meets at METRO on a quarterly basis to discuss projects created with CollectiveAccess, development aspects related to the platform, and solutions for utilizing open source technology to manage collections.
-
-
 ## Economic & Business Librarians ##
 [https://www.meetup.com/Economics-Business-Librarians-Group/](https://www.meetup.com/Economics-Business-Librarians-Group/)
 
-Lucy Heckman and John Balow, Organizers
+Lucy Heckman and Dan Hicks, Organizers
 
 This SIG brings together public, academic, and special librarians with a background and/or interest in business librarianship to discuss new resources or best practices in the field.
 
