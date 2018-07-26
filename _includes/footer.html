@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-2 col-sm-6">
-        <img class="footer-logo" src="{{ '/assets/img/logos/small.png' | prepend: site.baseurl }}">
+        <img class="footer-logo" src="{{ '/assets/img/logos/small.png' | prepend: site.baseurl }}" alt="METRO logo">
       </div>
       <div class="col-md-3 col-sm-6">
         {% for line in site.footer.address %}
@@ -11,7 +11,7 @@
           Phone: <a href="tel: {{ site.footer.phone }}">{{ site.footer.phone }}</a><br/>
         <p style="padding-top: 10px;">
           {% for srv in site.social %}
-          <a href="{{ srv.url }}"><img src="{{ srv.img | prepend: site.baseurl }}" height="25px"/></a>
+          <a href="{{ srv.url }}"><img src="{{ srv.img | prepend: site.baseurl }}" height="25px" alt="{{ srv.title }}"/></a>
           {% endfor %}
           </p>
       </div>
