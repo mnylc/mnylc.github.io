@@ -5,8 +5,9 @@ layout: slides
 
 use_tag: "event"
 ---
-<div style="font-size: 65%;">Visit <a href="http://metro.org/events">http://metro.org/events</a> for details</div>
+
 {% if site.data.events.size > 0 %}
+<div style="font-size: 65%;">Visit <a href="http://metro.org/events">http://metro.org/events</a> for details.</div>
 {% for e in site.data.events %}
 <section>
 	<br/>
@@ -15,5 +16,8 @@ use_tag: "event"
 	<div>{{ e.description.html  | strip_html | truncatewords: 25 }}</div>
 </section>
 {% endfor %}
+{% else %}
+<div>No events are scheduled at this time.</div>
+<div style="font-size: 65%;">Check <a href="http://metro.org/events">http://metro.org/events</a> for future listings.</div>
 {% endif %}
 
