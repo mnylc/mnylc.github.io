@@ -1,0 +1,9 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+/* black out images with no alt tag. */
+img:not([alt]) {
+    filter: grayscale(100%);
+}
+
