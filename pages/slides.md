@@ -17,7 +17,9 @@ use_tag: "event"
 </section>
 {% endfor %}
 {% else %}
+<section>
 <div>No events are scheduled at this time.</div>
 <div style="font-size: 65%;">Check <a href="http://metro.org/events">http://metro.org/events</a> for future listings.</div>
+</section>
 {% endif %}
 
