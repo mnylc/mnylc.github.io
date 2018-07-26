@@ -56,14 +56,14 @@ In accordance with Article II Section 9 of the Metro Bylaws “Dues for each cat
 
 |  Annual operating expenditures of membership units (salaries, materials and other expenses)  |  Annual Dues                |
 |  ------------------------------------------  |  ----------------------  |
-|  Under $50,000  | $308            |
-|  Between $50,000 and $99,000     | $514            |
-|    Between $100,000 and $249,000     |  $822            |
-|  Between $250,000 and $499,000     |  $1,130            |
-|  Between $500,000 and $749,000    |  $1,542            |
-|  Between $750,000 and $999,000      |  $2,056            |
-|  Between $1,000,000 and $2,000,000 |  $3,085            |
-|   Over $2,000,000                  |  $4,112            |
+|  Under $50,000  | $320            |
+|  Between $50,000 and $99,000     | $535            |
+|    Between $100,000 and $249,000     |  $855            |
+|  Between $250,000 and $499,000     |  $1,175            |
+|  Between $500,000 and $749,000    |  $1,604            |
+|  Between $750,000 and $999,000      |  $2,138            |
+|  Between $1,000,000 and $2,000,000 |  $3,208            |
+|   Over $2,000,000                  |  $4,276            |
 
 
 ## myMETRO Individual Membership
