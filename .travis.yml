@@ -1,5 +1,7 @@
 language: ruby
 cache: bundler
+    directories:
+     - /home/travis/.rvm/
 rvm:
   - 2.4.0
 script:
