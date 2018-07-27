@@ -3,7 +3,7 @@ cache: bundler
 rvm:
   - 2.4.0
 script:
-  - bundle exec jekyll build
+  - bundle exec jekyll build --incremental
   - bundle exec htmlproofer ./_site --only-4xx  --disable-external --check-html --assume-extension 
 env:
   global:
