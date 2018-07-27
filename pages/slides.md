@@ -7,7 +7,7 @@ use_tag: "event"
 ---
 
 {% if site.data.events.size > 0 %}
-<div style="font-size: 65%;">Visit <a href="http://metro.org/events">http://metro.org/events</a> for details.</div>
+<div style="font-size: 65%;">Visit <a href="{{ '/events' | prepend: site.baseurl }}">http://metro.org/events</a> for details.</div>
 {% for e in site.data.events %}
 <section>
 	<br/>
@@ -19,7 +19,7 @@ use_tag: "event"
 {% else %}
 <section>
 <div>No events are scheduled at this time.</div>
-<div style="font-size: 65%;">Check <a href="http://metro.org/events">http://metro.org/events</a> for future listings.</div>
+<div style="font-size: 65%;">Check <a href="{{ '/events' | prepend: site.baseurl }}">http://metro.org/events</a> for future listings.</div>
 </section>
 {% endif %}
 
