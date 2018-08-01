@@ -5,11 +5,7 @@ permalink: /board/
 
 **METRO is managed and governed by an elected Board of Trustees and program areas receive guidance from METRO's Advisory Councils.**  
 
-**Norman J. Jacknis, President**  
-Senior Fellow, Intelligent Community Forum   
-2005-2020
-
-**Shannon Mattern, Vice President**  
+**Shannon Mattern, President**  
 Associate Professor  
 School of Media Studies  
 The New School  
@@ -23,11 +19,6 @@ Chief Librarian, Brooklyn Public Library
 Program Director, Digital Information Technology  
 Alfred P. Sloan Foundation  
 2012-2022   
-
-**Patricia C. Skarulis, Secretary**  
-Vice President of Information Systems & Chief Information Officer  
-Memorial Sloan-Kettering Cancer Center  
-2007-2017
 
 **Nick Buron**  
 Chief Librarian  
@@ -49,16 +40,6 @@ The New School
 Dean, St. John’s University Libraries  
 St. John’s University  
 2018-2023 
-
-**LaRuth Gray**  
-Director of External Relations and Information Management  
-Metropolitan Center for Urban Education  
-New York University Steinhardt School of Education  
-2008-2018  
-
-**Milan R. Hughston**  
-Art Information Specialist  
-2007-2022  
 
 **Leah Meisterlin**  
 Associate Professor  
@@ -89,13 +70,13 @@ Metropolitan New York Library Council (METRO)
 
 * Wednesday, February 28, 2018
 * Monday, April 30, 2018
-* **Thursday, July 19, 2018**
-* Monday, September 17, 2018 (virtual)
+* Thursday, July 19, 2018
+* **Monday, September 17, 2018 (virtual)**
 * Monday, November 12, 2018
 * Monday, December 17, 2018 (virtual)
 
 
-All meetings are 3:00 p.m. - 5:00 p.m. at METRO.
+All meetings are 3:00 p.m. - 5:00 p.m. at METRO, unless otherwise noted.
 
 ## Board Meeting Agendas & Minutes
 **July 19, 2018**
