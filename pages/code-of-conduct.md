@@ -3,13 +3,14 @@ title: Code of Conduct
 permalink: /code-of-conduct/
 ---
 
-**At METRO, we strive to:**
+
+### At METRO, we strive to:
 
 * Support an open exchange of ideas within a safe and respectful environment, free from all forms of harassment, including those based on gender identity and expression, sexual orientation, disability, physical appearance, race, age, class, religion, or beliefs.
 
 * Offer a space of learning for our community by welcoming and respecting individuals with all levels of education and experience.
 
-**Treat everyone with respect.**
+### Treat everyone with respect.
 
 We ask that all community members adhere to the following expectations:
 
