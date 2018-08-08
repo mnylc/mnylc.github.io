@@ -19,6 +19,6 @@ We ask that all community members adhere to the following expectations:
 
 * METRO’s space includes a working office environment and a studio. Please be mindful and considerate of those sharing the space with you. Also, help us keep it clean and orderly so that others can enjoy an unencumbered environment.
 
-Private space can be reserved for you while you are at METRO. Please contact info@metro.org ahead of time to make those arrangements.
+Private space can be reserved for you while you are at METRO. Please contact [info@metro.org](mailto:info@metro.org) ahead of time to make those arrangements.
 
 We work to ensure that METRO is a welcoming space for all. Please let a staff member know if you experience or witness any harassing behavior. 
