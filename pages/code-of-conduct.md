@@ -3,29 +3,22 @@ title: Code of Conduct
 permalink: /code-of-conduct/
 ---
 
-At METRO, we strive to:
+**At METRO, we strive to:**
 
-* Offer an organized calendar of diverse and relevant training and networking events to our membership community
-* Provide online venues on which our members can share their events, resources, and ideas
-* Support a free and open exchange of ideas within a safe and respectful learning environment
-* Inform online and offline participants and instructors of all available METRO resources
-* Ensure that program expectations are met, to what extent possible
+* Support an open exchange of ideas within a safe and respectful environment, free from all forms of harassment, including those based on gender identity and expression, sexual orientation, disability, physical appearance, race, age, class, religion, or beliefs.
 
-To this end, we ask that all participants in METRO's online and offline resources adhere to the following expectations:
+* Offer a space of learning for our community by welcoming and respecting individuals with all levels of education and experience.
 
-Treat METRO staff, speakers, and participants with respect.
+**Treat everyone with respect.**
 
-* Participation in discussions and activities should be respectful at all times. Please refrain from making inappropriate comments, asking excessive and/or unrelated questions, and sharing confidential information. Exercise tolerance of the perspectives and opinions of all present.
-* Professional Development is made possible by our speakers and instructors. Please be respectful of their time, energy, and personal space while at METRO. Make every effort to arrive on time for instruction. In the Training Center, be sure to silence all cell phones, tablets, and other potentially distracting devices, and use discretion in your use of social media.
-* Workshops and events at METRO take place within a working office environment. Please be considerate and take any phone calls lasting more than 2 minutes down to the lobby. If you’d like to see a METRO staff member while you are here, please make an appointment ahead of time or let our front desk staff check on his or her availability.
-* METRO has a zero-tolerance policy for all verbal, physical, and sexual harassment. Anyone who is asked to stop a hostile or harassing behavior is expected to comply immediately.
+We ask that all community members adhere to the following expectations:
 
-Treat METRO’s property with respect.
+* METRO has a zero-tolerance policy for all verbal, physical, and sexual harassment. Anyone who is asked to stop a hostile or harassing behavior is expected to do so immediately.
 
-* METRO’s training space sets the stage for learning. Help us keep it clean and orderly so that others might enjoy learning in an unencumbered environment. Dispose of any refuse and refrain from removing any METRO property from the premises.
+* Participation in discussions and activities should be respectful at all times. Please refrain from making inappropriate comments. Create opportunities for all people to speak, exercising tolerance of the perspectives and opinions of others.
 
-Contact METRO in order to accommodate special needs.
+* METRO’s space includes a working office environment and a studio. Please be mindful and considerate of those sharing the space with you. Also, help us keep it clean and orderly so that others can enjoy an unencumbered environment.
 
-* Private space can be made available for medical or religious reasons while you are at METRO. Please contact us ahead of time to make those arrangements.
+Private space can be reserved for you while you are at METRO. Please contact info@metro.org ahead of time to make those arrangements.
 
-Please help us ensure that events at METRO are positive experiences for all. METRO staff do not always witness the rare occasion in which harassing and/or disruptive behaviors occur. Please let any available METRO staff member know if you observe an infraction to the above expectations. We will handle each case in a manner appropriate to the circumstance.
+We work to ensure that METRO is a welcoming space for all. Please let a staff member know if you experience or witness any harassing behavior. 
