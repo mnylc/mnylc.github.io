@@ -8,6 +8,6 @@ In 2013, METRO launched the [Empire State Digital Network (ESDN)](http://esdn.me
 ## How does this work?
 Before libraries were digital, we used card catalogs and the Dewey decimal system to organize and describe books and other documents. Unfortunately, digital libraries don’t use one simple system to organize and describe information so that we can find it easily on the internet. ESDN acts as a translator that helps all of the different systems used by libraries, archives and museums work together. ESDN builds a catalog of historically significant papers, photos, and public records from New York State, and then makes them available online. More specifically, we harvest descriptive metadata from many different systems and organizations, then we clean it and aggregate it and make it available in the [format that the DPLA requires.](https://pro.dp.la/hubs/metadata-application-profile) 
 
-## Other Services
+## Consulting
 Because of our work with the DPLA, METRO has expertise and capacity to help you manage your metadata in other ways. Please [contact us](mailto:annekz@metro.org) if you want to discuss a project.
 
