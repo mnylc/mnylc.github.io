@@ -5,7 +5,7 @@
   items:
     - title: "Coordinated Collection Development Aid"
       suburl: "/services/ccda"
-    - title: "Digital Services"
+    - title: "Digitization Grant Program"
       suburl: "/services/digital-services"
     - title: "Hospital Library Services Program"
       suburl: "/services/hlsp"
@@ -17,6 +17,8 @@
       suburl: "/services/599studio"
     - title: "Repository Services"
       suburl: "/services/islandora"
+    - title: "Metadata Services"
+      suburl: "/services/metadata-services"
 
 - title: 'Projects'
   url: '/projects'

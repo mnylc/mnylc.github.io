@@ -1,16 +1,9 @@
 ---
-title: Digital Services
+title: Digitization Grant Program
 permalink: /services/digital-services
 ---
-[Digitization Grant Program](#digi_grants)
-
 [Funded Projects](#projects)
 
-[Hosting Services](#dcmny)
-
-[Data Services](#esdn)
-
-## <a class="anchor" name="digi_grants"></a>Digitization Grant Program
 In January 2005, METRO launched its Digitization Grant Program as an effort to support digitization projects involving significant collections held by METRO member libraries in New York City and Westchester County. This initiative is supported in part by funds from the New York State Regional Bibliographic Databases Program.
 
 Since that time, METRO has awarded over $880,000 in grants to support 87 digital projects.
@@ -63,26 +56,6 @@ Digitize Suffrage Periodicals
 
 [Back to top](#top)
 
-## <a class="anchor" name="dcmny"></a>Hosting Services 
-
-METRO works with our member organizations to develop digital asset management solutions that fit almost any use case. With our baseline solution, all of your digital assets are made available as part of a shared repository called the Digital Culture of Metropolitan New York, or ([DCMNY](http://dcmny.org)). DCMNY currently provides access to dozens of METRO members’ digital collections. In addition, DCMNY is an easy on-ramp to the DPLA, meaning the content is discoverable in this greater national context as well.
-
-METRO uses ([Islandora](https://islandora.ca/)), an open-source software configuration that uses Drupal, Solr, and Fedora. Islandora is designed to help institutions and organizations and their audiences collaboratively manage and discover digital assets using a best-practices framework. In addition to our baseline solution, we can also design a customized service plan based on your organization’s resources and needs. METRO never writes any proprietary or hidden code, and we always give you full access to your own system.
-
-Please contact us if you have further questions.
-
-[Back to top](#top)
-
-## <a class="anchor" name="esdn"></a>Data Services
-METRO partners with New York's libraries, archives, and museums to share our history and treasures with a global audience.
-
-Libraries have spent years making the historical treasures of New York -- its papers, photos and public records -- easier to find by scanning and putting digital copies online. But with so many different websites and databases to turn to, it can be difficult for residents, students, and researchers to uncover the rich history of our state. 
-
-In 2013, the [Empire State Digital Network (ESDN)](http://esdn.metro.org/) was launched at METRO to help the [Empire State Library Network (ESLN)](http://www.esln.org) collect New York State’s digital collection materials and bring them all together in one place.
-
-METRO aggregates descriptive metadata from hundreds of libraries, archives, museums, and cultural heritage institutions and shares that data with the [Digital Public Library of America (DPLA).](http://www.dp.la)
-
-[Back to top](#top)
 ### Digital Services Advisory Council  
 
 ### Charge  
