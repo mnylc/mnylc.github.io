@@ -3,12 +3,11 @@ title: Metadata Services
 permalink: /services/metadata-services
 ---
 
-METRO partners with New York's libraries, archives, and museums to share our history and treasures with a global audience.
+In 2013, METRO launched the [Empire State Digital Network (ESDN)](http://esdn.metro.org) to collect New York State’s digital library materials and bring them all together in one place and share them with the [Digital Public Library of America (DPLA).](https://dp.la) Since this initiative began, we have added hundreds of thousands of records from over 300 institutions to this national platform, and these numbers keeps growing. If you are in New York State and you publish digital collections that should be included on this national platform, please [contact us.](mailto:annekz@metro.org)
 
-Libraries have spent years making the historical treasures of New York -- its papers, photos and public records -- easier to find by scanning and putting digital copies online. But with so many different websites and databases to turn to, it can be difficult for residents, students, and researchers to uncover the rich history of our state. 
+## How does this work?
+Before libraries were digital, we used card catalogs and the Dewey decimal system to organize and describe books and other documents. Unfortunately, digital libraries don’t use one simple system to organize and describe information so that we can find it easily on the internet. ESDN acts as a translator that helps all of the different systems used by libraries, archives and museums work together. ESDN builds a catalog of historically significant papers, photos, and public records from New York State, and then makes them available online. More specifically, we harvest descriptive metadata from many different systems and organizations, then we clean it and aggregate it and make it available in the [format that the DPLA requires.](https://pro.dp.la/hubs/metadata-application-profile) 
 
-In 2013, the [Empire State Digital Network (ESDN)](http://esdn.metro.org/) was launched at METRO to help the [Empire State Library Network (ESLN)](http://www.esln.org) collect New York State’s digital collection materials and bring them all together in one place.
+## Other Services
+Because of our work with the DPLA, METRO has expertise and capacity to help you manage your metadata in other ways. Please [contact us](mailto:annekz@metro.org) if you want to discuss a project.
 
-METRO aggregates descriptive metadata from hundreds of libraries, archives, museums, and cultural heritage institutions and shares that data with the [Digital Public Library of America (DPLA).](http://www.dp.la)
-
-[Back to top](#top)
