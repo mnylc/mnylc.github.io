@@ -4,7 +4,7 @@ permalink: /services/islandora
 redirect_from: "/islandora"
 ---
 
-METRO works with libraries, archives, museums, and other organizations to develop digital asset management solutions that fit almost any use case. We use [Islandora,](http://islandora.ca), an open-source software package that uses Drupal, Solr, and Fedora commons. Islandora is designed to help institutions and organizations and their audiences collaboratively manage and discover digital assets using a best-practices framework. METRO is a member of the Islandora Foundation and is an active contributor to the Islandora open-source community.
+METRO works with libraries, archives, museums, and other organizations to develop digital asset management solutions that fit almost any use case. We use [Islandora,](http://islandora.ca), an open-source software package that uses Drupal, Solr, and Fedora commons. Islandora is designed to help institutions and organizations and their audiences collaboratively manage and discover digital assets using a best-practices framework. METRO is a member of the [Islandora Foundation](https://islandora.ca/if) and is an active contributor to the Islandora open-source community.
 
 Our baseline solution, open to organizations that are METRO members, makes all of your digital assets available as part of a shared repository called the Digital Culture of Metropolitan New York, or [DCMNY.](http://dcmny.org/browse) DCMNY currently provides access to dozens of METRO members’ digital collections. In addition, DCMNY is an easy on-ramp to the DPLA, meaning the content is discoverable in this greater national context as well.
 
