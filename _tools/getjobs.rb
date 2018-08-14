@@ -58,23 +58,23 @@ excerpt: "#{excerpt}"
 tag: job
 ---
 
-#{"### Description###\n\n" + description + "\n" unless description.eql? ""}
+#{"### Description   \n\n" + description + "\n" unless description.eql? ""}
 
-#{"### Responsibilities###\n\n" + resps + "\n" unless resps.eql? ""}
+#{"### Responsibilities   \n\n" + resps + "\n" unless resps.eql? ""}
 
-#{"### Qualifications###\n\n" + qualifications + "\n" unless qualifications.eql? ""}
+#{"### Qualifications   \n\n" + qualifications + "\n" unless qualifications.eql? ""}
 
-#{"### Compensation###\n\n" + compensation + "\n" unless compensation.eql? ""}
+#{"### Compensation   \n\n" + compensation + "\n" unless compensation.eql? ""}
 
-#{"### Location###\n\n" + location + "\n" unless location.eql? ""}
+#{"### Location   \n\n" + location + "\n" unless location.eql? ""}
 
-#{"### URL###\n\n" + url unless url.eql? ""}
+#{"### URL   \n\n" + url unless url.eql? ""}
 
-#{"### To Apply###\n\n" + to_apply + "\n" unless to_apply.eql? ""}
+#{"### To Apply   \n\n" + to_apply + "\n" unless to_apply.eql? ""}
 
-#{"### Company Information###\n\n" + company_info + "\n" unless company_info.eql? ""}
+#{"### Company Information   \n\n" + company_info + "\n" unless company_info.eql? ""}
 
-#{"### Contact Information###\n\n" + contact_info + "\n" unless contact_info.eql? ""}
+#{"### Contact Information   \n\n" + contact_info + "\n" unless contact_info.eql? ""}
 HERE
 
   jfname = datestr + ' ' + fn_title + ' ' + institution.upcase
