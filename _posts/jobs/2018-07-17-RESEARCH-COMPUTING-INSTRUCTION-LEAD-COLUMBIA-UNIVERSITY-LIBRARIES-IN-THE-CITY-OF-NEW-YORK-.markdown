@@ -6,7 +6,7 @@ excerpt: "The Columbia University Libraries seek a creative, entrepreneurial, an
 tag: job
 ---
 
-### Description###
+### Description   
 
 
 The Columbia University Libraries seek a creative, entrepreneurial, and user service-oriented Research Computing Instruction Lead to provide vision and execution for developing a training program around new approaches to research with a focus on computational literacies and data science. Working closely with Information Technology (CUIT), the Office of the Executive Vice President for Research (EVPR), and the Data Science Institute (DSI), the incumbent will identify training needs, promote related resources for graduate students, and develop a comprehensive program to support those needs. The Research Computing Instruction Lead will work with volunteer instructors to plan and facilitate workshops, boot camps, and events such as lectures and symposia. The incumbent will also oversee related consultative “office hour” services and web and marketing communications. In addition, the Research Computing Instruction Lead will maintain continuous relationships and communications channels with University-wide academic departments in order to survey leadership, faculty, and students about their ever-evolving needs for computational literacy and methods for meeting these expressed needs. The incumbent will supervise undergraduate and graduate student workers and serve as Columbia’s representative on The Carpentries’ membership council. 
@@ -22,7 +22,7 @@ Apply on-line: [https://academicjobs.columbia.edu/applicants/Central?quickFind=6
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 Minimum Qualifications
@@ -58,21 +58,21 @@ Preferred Qualifications
 
 
 
-### Location###
+### Location   
 
 New York City, NY. USA
 
 
-### URL###
+### URL   
 
 [https://library.columbia.edu/](https://library.columbia.edu/)
 
-### To Apply###
+### To Apply   
 
 Apply on-line: [https://academicjobs.columbia.edu/applicants/Central?quickFind=66735](https://academicjobs.columbia.edu/applicants/Central?quickFind=66735)
 
 
-### Company Information###
+### Company Information   
 
 As one of the world’s leading research universities, Columbia University in the City of New York provides outstanding opportunities to work and grow in a dynamic, multicultural, intellectual community. The Columbia University Libraries comprise a diverse and engaged staff committed to furthering the University’s teaching and research mission through innovation, collaboration, and a commitment to excellence.
 

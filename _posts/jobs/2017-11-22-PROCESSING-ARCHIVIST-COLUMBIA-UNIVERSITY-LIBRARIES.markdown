@@ -6,7 +6,7 @@ excerpt: "The Columbia University Rare Book and Manuscript Library (RBML) seeks 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Columbia University Rare Book and Manuscript Library (RBML) seeks an experienced professional to arrange and describe archives and manuscript material in all formats held by the Rare Book & Manuscript Library according to local and national best practices. 
 
@@ -33,7 +33,7 @@ Columbia University is an Equal Opportunity/Affirmative Action Employer and stro
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualification:
 1. Comprehensive knowledge of archival theory and practice 
@@ -52,7 +52,7 @@ Preferred Qualification:
 4. Experience providing reference services  
 
 
-### Compensation###
+### Compensation   
 
 We offer a salary commensurate with qualifications and experience.  
 
@@ -61,7 +61,7 @@ We offer a salary commensurate with qualifications and experience.
 
 
 
-### To Apply###
+### To Apply   
 
 academicjobs.columbia.edu/applicants/Central?quickFind=65532  
 

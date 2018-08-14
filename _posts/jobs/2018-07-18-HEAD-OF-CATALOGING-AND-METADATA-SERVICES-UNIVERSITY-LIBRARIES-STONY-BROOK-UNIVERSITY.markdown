@@ -8,7 +8,7 @@ tag: job
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities & Requirements:
 Under the direction of the Director of Collection and Resource Management, the Head of Cataloging and Metadata Services provides leadership, guidance, and expertise to the department, including supervision of faculty librarians and professional staff. The Head of Cataloging and Metadata Service will be expected to conduct research and scholarship, and participate in faculty governance, committee works, and continuing professional development consistent with University standards to promotion and tenure. As a faculty librarian, the successful incumbent will take an active role in liaison, reference and instruction duties. The selected candidate will be responsible for the following:
@@ -62,7 +62,7 @@ STONY BROOK UNIVERSITY IS AN AFFIRMATIVE ACTION/EQUAL OPPORTUNITY EMPLOYER. WE E
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 Master's in library science from an ALA accredited institution or equivalent combination of education and experience.  At least three years of significant experience in acquisitions, cataloging, and metadata services.  Strong working knowledge of RDA and MARC cataloging rules and conventions and non-MARC metadata schemas, formats, standards, and protocols.  Evidence of successful and creative management of staff and operations, including demonstrated potential for leading transformational change.  Evidence of leadership in the fields of knowledge access and resource management, including demonstrated effective management, planning, and organizational skills.  Ability to lead in an atmospheric of continuous change, to work within a collaborative environment with diverse groups and to inspire and motivate.  Strong collaboration and communication skills.  Record of professional activities, including research and engagement in professional organizations.  Demonstrated knowledge of emerging areas of librarianship, including the capabilities and future trends to library technology and systems to optimize discovery and access to scholarly resources.  Supervisory and training experience.
@@ -72,27 +72,27 @@ Additional advanced degree. Working knowledge of one or more non-English languag
 
 
 
-### Compensation###
+### Compensation   
 
 Salary: Commensurate with Experience
 
 
-### Location###
+### Location   
 
 Stony Brook, NY
 
 
-### URL###
+### URL   
 
 [https://www.stonybrook.edu/commcms/faculty-jobs/positions/faculty-librarian/current-year/Head-of-Cataloging-and-Metadata-Services-F-9755-18-06-F](https://www.stonybrook.edu/commcms/faculty-jobs/positions/faculty-librarian/current-year/Head-of-Cataloging-and-Metadata-Services-F-9755-18-06-F)
 
-### To Apply###
+### To Apply   
 
 For a full position description, or application procedure, visit: www.stonybrook.edu/jobs (Ref # F-9755-18-06-F)
 
 
 
-### Company Information###
+### Company Information   
 
 Those interested in this position should fill out an online Applicant Information Survey, submit a State Employment Application, cover letter and resume/CV by clicking Apply.  Alternately, you may submit your application package to the departmental email, address or fax below.
 Pamela DiPasquale

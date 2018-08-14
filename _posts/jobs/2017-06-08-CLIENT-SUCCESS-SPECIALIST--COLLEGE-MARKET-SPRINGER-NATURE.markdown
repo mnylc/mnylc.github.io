@@ -6,7 +6,7 @@ excerpt: "Springer Nature is one of the world’s leading global research, educa
 tag: job
 ---
 
-### Description###
+### Description   
 
 Springer Nature is one of the world’s leading global research, educational and professional publishers. It is home to an array of respected and trusted brands and imprints, with more than 170 years of combined history behind them, providing quality content through a range of innovative products and services. Every day, around the globe, our imprints, books, journals and resources reach millions of people, helping researchers and scientists to discover, students to learn and professionals to achieve their goals and ambitions. The company has almost 13,000 staff in over 50 countries.
 
@@ -29,7 +29,7 @@ Springer Nature is an Equal Opportunity Employer that complies with the laws and
 
 
 
-### Responsibilities###
+### Responsibilities   
 
  
 Job Responsibilities include:
@@ -47,7 +47,7 @@ Other related duties as needed.
 
 
 
-### Qualifications###
+### Qualifications   
 
 Job Requirements:
  
@@ -65,32 +65,32 @@ Up to 50% Travel
 
 
 
-### Compensation###
+### Compensation   
 
 Annual salary + benefits
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=19714&company=C0001215517P&username=](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=19714&company=C0001215517P&username=)
 
-### To Apply###
+### To Apply   
 
 Please apply online:
 [https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=19714&company=C0001215517P&username=](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=19714&company=C0001215517P&username=)
 
 
-### Company Information###
+### Company Information   
 
 Springer Nature is one of the world’s leading global research, educational and professional publishers. It is home to an array of respected and trusted brands and imprints, with more than 170 years of combined history behind them, providing quality content through a range of innovative products and services. Every day, around the globe, our imprints, books, journals and resources reach millions of people, helping researchers and scientists to discover, students to learn and professionals to achieve their goals and ambitions. The company has almost 13,000 staff in over 50 countries.
 
 
-### Contact Information###
+### Contact Information   
 
 Human Resources
 (212) 460-1550

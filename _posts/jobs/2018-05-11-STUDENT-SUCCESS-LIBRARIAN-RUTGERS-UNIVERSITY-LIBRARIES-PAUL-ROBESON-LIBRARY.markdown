@@ -6,7 +6,7 @@ excerpt: "The Rutgers University Libraries seeks a Student Success Librarian for
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Rutgers University Libraries seeks a Student Success Librarian for the Paul Robeson Library in Camden. The Student Success Librarian will work closely with librarians, faculty, and university partners at Rutgers University-Camden to lead and develop library services that support student success, recruitment, and retention.   The successful candidate will be an engaged librarian who enjoys working with students, especially those in their first two years of college and first-generation students.  This librarian will develop new initiatives to expand and further integrate library services into the university community.
 
@@ -14,7 +14,7 @@ The Rutgers University Libraries seeks a Student Success Librarian for the Paul 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Student Success Librarian will:
 
@@ -37,31 +37,31 @@ The Student Success Librarian will:
 This tenure-track position reports to the Director of Paul Robeson Library and is a member of the Paul Robeson Library Faculty, a team of librarians committed to providing first-rate public services to a diverse academic community. As part of the Paul Robeson faculty, the selected candidate will provide instruction, research assistance and information services via multiple modalities. This may require working evenings and weekends. The successful candidate must demonstrate a commitment to continual professional development through scholarly research and service, including publications, presentations and participation and leadership in the work of relevant professional associations.
 
 
-### Qualifications###
+### Qualifications   
 
 A Master’s degree in Library or Information Sciences from an ALA-accredited institution or its equivalent is required. Two years of experience as an academic librarian is required. Demonstrated experience with creating and assessing student learning outcomes is preferred. The successful candidate should exhibit excellent interpersonal communication skills; the ability to interact effectively with students, faculty and staff; the ability to build fruitful relationships and partnerships; and, be knowledgeable of trends and services in academic libraries. A demonstrated commitment to fostering diversity as an organizational priority is required. Candidates who have had successful experience in the design and delivery of engaging learning activities and services for diverse populations will be given preference. The successful candidate must be eligible to work in the U.S.
 
 
-### Compensation###
+### Compensation   
 
 Salary is commensurate with qualifications and experience. 
 
 
-### Location###
+### Location   
 
 Camden, New Jersey
 
 
-### URL###
+### URL   
 
 [http://jobs.rutgers.edu/postings/65430](http://jobs.rutgers.edu/postings/65430)
 
-### To Apply###
+### To Apply   
 
  TO APPLY:  REVIEW OF APPLICATIONS AND INTERVIEWS WILL BEGIN IMMEDIATELY AND CONTINUE UNTIL THE POSITION IS FILLED. SUBMIT RESUME, COVER LETTER, AND NAMES OF THREE REFERENCES: [http://jobs.rutgers.edu/postings/65430](http://jobs.rutgers.edu/postings/65430)
 
 
-### Company Information###
+### Company Information   
 
 Rutgers, The State University of New Jersey, is a leading national research university and the state of New Jersey’s preeminent, comprehensive public institution of higher education. Established in 1766, the university is the eighth oldest higher education institution in the United States. More than 67,000 students and 22,000 faculty and staff learn, work, and serve the public at Rutgers locations across New Jersey and around the world. With more than half of the incoming student class self-identifying as non-Caucasian, Rutgers is committed to advancing, promoting, and advocating for inclusiveness, diversity, and equity. Rutgers University is a member of the Association of American Universities, the Big Ten, and the Big Ten Academic Alliance—the nation’s premier higher education consortium of top tier research institutions. Rutgers University is an ADVANCE institution, one of a limited number of universities in receipt of National Science Foundation funds in support of our commitment to increase diversity and the participation and advancement of women in STEM disciplines.
 Rutgers University Libraries are the intellectual center of the university—serving all members of the university community, supporting all disciplines, and playing a key role in advancing student learning and faculty research. The Libraries serve all institutions that make up Rutgers, The State University of New Jersey: Rutgers University–New Brunswick, Rutgers University–Newark, Rutgers University–Camden, and Rutgers Biomedical and Health Sciences. The Libraries have a highly valued staff of about 300, who are committed to developing innovations in undergraduate support, information control, and digital initiatives. Rutgers University Libraries operate with a budget of $34 million and have outstanding collections, especially in jazz and New Jerseyana. Collectively, the Libraries’ holdings include more than 4.8 million volumes. The Libraries hold memberships in ARL, CNI, CRL, Lyrasis, Metro, NERL, VALEnj, SPARC, and the Coalition of Open Access Policy Institutions (COAPI); use Alma and OCLC as primary bibliographic utilities; and utilize a Fedora-based institutional repository.

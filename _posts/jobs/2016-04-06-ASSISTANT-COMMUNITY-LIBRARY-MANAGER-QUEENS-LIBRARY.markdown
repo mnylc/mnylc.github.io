@@ -6,7 +6,7 @@ excerpt: "If you are ready to work in the World’s Borough, the Queens Library 
 tag: job
 ---
 
-### Description###
+### Description   
 
 If you are ready to work in the World’s Borough, the Queens Library wants you!
 
@@ -22,7 +22,7 @@ Queens Library is a renowned leader in providing innovative library and educatio
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 * In partnership with the Community Library Manager, has overall responsibility for the leadership of staff, including the timely and objective feedback of performance and fostering the staff development/learning
@@ -40,7 +40,7 @@ Queens Library is a renowned leader in providing innovative library and educatio
 Schedule will include some Saturdays and evenings.
 
 
-### Qualifications###
+### Qualifications   
 
 Key Competencies:
 
@@ -62,7 +62,7 @@ Requirements:
 
 
 
-### Compensation###
+### Compensation   
 
 Excellent salary and a comprehensive benefits package that includes generous vacation/sick pay, medical, dental, vision, life insurance, defined benefit pension, 403B, deferred compensation, and more. Relocation incentives available. Opportunities to further your education and professional credentials are plentiful.
 
@@ -71,7 +71,7 @@ Excellent salary and a comprehensive benefits package that includes generous vac
 
 
 
-### To Apply###
+### To Apply   
 
 Email your cover letter and resume to qlcareers@queenslibrary.org and reference “Assistant Community Library Manager – EXTERNAL” in the subject line. Resumes will only be accepted by email. 
 

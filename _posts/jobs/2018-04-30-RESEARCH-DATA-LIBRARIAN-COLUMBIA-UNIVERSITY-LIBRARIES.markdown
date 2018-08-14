@@ -6,7 +6,7 @@ excerpt: "The Columbia University Libraries seek a creative, critical-thinking, 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Columbia University Libraries seek a creative, critical-thinking, and collaborative Research Data Librarian to lead the Libraries' efforts in data management planning, discovery and access of research data, data sharing and publication, and data visualization. In partnership with colleagues across the University, the incumbent develops and implements robust services supporting faculty, students, and staff through the research data lifecycle. Reporting to the Head, Research Data Services in the Science, Engineering, and Social Sciences Libraries Division, the Librarian is responsible for research consultations, instructional services, and providing front-line research support in-person and virtually. The incumbent supports digital scholarship initiatives and engages technologies emerging as critical to research and teaching to meet the evolving needs of faculty, students, and staff. The Librarian also participates in initiatives across the Libraries including fostering new forms of scholarly communication.
 
@@ -14,7 +14,7 @@ The Columbia University Libraries seek a creative, critical-thinking, and collab
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications
 - MLS or advanced degree in a related discipline 
@@ -30,16 +30,16 @@ Preferred Qualifications
 
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 [http://library.columbia.edu/](http://library.columbia.edu/)
 
-### To Apply###
+### To Apply   
 
 Apply online: [https://academicjobs.columbia.edu/applicants/Central?quickFind=66353](https://academicjobs.columbia.edu/applicants/Central?quickFind=66353)
 

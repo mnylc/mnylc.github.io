@@ -6,12 +6,12 @@ excerpt: "As part of a dynamic team, the Editing and Electronic Resources Librar
 tag: job
 ---
 
-### Description###
+### Description   
 
 As part of a dynamic team, the Editing and Electronic Resources Librarian provides expert support in scholarly communications specific to grant editing, as well as information management of electronic resources to the communities of Weill Cornell Medicine (WCM), NewYork-Presbyterian Hospital (NYPH), and affiliates.  S/he is a public-facing representative of the Library and is responsible for excellence in both electronic resource management and grant editing. The Editing and Electronic Resources Librarian reports to the Head of Resource Management
 
 
-### Responsibilities###
+### Responsibilities   
 
 In order to help investigators prepare compelling manuscripts and grants before submission, reviews and edits grants, manuscripts, or slide shows using the principles of good composition. Provide marked up copy and comments addressing clear and concise writing, good grammar, good organization, freedom from use of jargon. Maintain any print copies of manuscripts and grants in a locked drawer to protect confidentiality of documents. Turn around grant editing requests in a timely, agreed upon timeframe.
 
@@ -36,7 +36,7 @@ Responsible for assessment of improvements in existing information services and 
 Performs other job related duties as required.
 
 
-### Qualifications###
+### Qualifications   
 
 MINIMUM REQUIREMENTS
 
@@ -48,26 +48,26 @@ Experience with the Ex Libris Alma/Primo Integrated Library System, EZproxy, III
 
 
 
-### Compensation###
+### Compensation   
 
 Salary, while negotiable, is commensurate with experience.
 
 
-### Location###
+### Location   
 
 New York/NY, USA
 
 
-### URL###
+### URL   
 
 [https://library.weill.cornell.edu/about-us/staff/career-opportunities-and-internships](https://library.weill.cornell.edu/about-us/staff/career-opportunities-and-internships)
 
-### To Apply###
+### To Apply   
 
 A complete job description can be found at [https://library.weill.cornell.edu/about-us/staff/career-opportunities-and-internships.](https://library.weill.cornell.edu/about-us/staff/career-opportunities-and-internships.) Interested parties should send a cover letter and CV by August 28, 2017 to librecruiting@med.cornell.edu with “Editing and Electronic Resources Librarian” included in the subject line.
 
 
-### Company Information###
+### Company Information   
 
 Weill Cornell Medicine Samuel J. Wood Library & C.V. Starr Biomedical Information Center 1300 York Avenue Room C-115 New York, NY 10065-4896
 

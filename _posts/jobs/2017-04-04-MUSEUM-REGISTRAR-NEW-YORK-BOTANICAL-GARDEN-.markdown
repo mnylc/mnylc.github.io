@@ -9,7 +9,7 @@ EOE/M/F/Disabled/Veteran "
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Director of Public Engagement and Library Exhibitions Curator, the Museum Registrar will provide oversight, care, safety, and documentation of incoming and outgoing loans of the Garden’s art and illustration collection.  
 Specific Duties & Responsibilities
@@ -17,7 +17,7 @@ Specific Duties & Responsibilities
 EOE/M/F/Disabled/Veteran 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • Arrange all out-going shipments and coordinate incoming shipments, schedule insurance, supervise packing, prepare and complete all necessary loan requests, condition reports, and other documents
@@ -48,7 +48,7 @@ EOE/M/F/Disabled/Veteran
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • Graduate degree with in art history, curatorial studies, or museum studies/collection management
@@ -74,28 +74,28 @@ EOE/M/F/Disabled/Veteran
 
 
 
-### Location###
+### Location   
 
 Bronx, NY
 
 
-### URL###
+### URL   
 
 [http://www.nybg.org/employment/](http://www.nybg.org/employment/)
 
-### To Apply###
+### To Apply   
 
 [http://www.nybg.org/employment/](http://www.nybg.org/employment/)
 
 
-### Company Information###
+### Company Information   
 
 New York Botanical Garden 
 2900 Southern Blvd
 Bronx, NY 10458
 
 
-### Contact Information###
+### Contact Information   
 
 Human Resources
 

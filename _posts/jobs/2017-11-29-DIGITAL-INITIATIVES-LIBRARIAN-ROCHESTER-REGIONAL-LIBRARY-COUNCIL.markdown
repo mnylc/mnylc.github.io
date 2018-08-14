@@ -6,12 +6,12 @@ excerpt: "The Rochester Regional Library Council is hiring a Digital Initiatives
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Rochester Regional Library Council is hiring a Digital Initiatives Librarian. This full-time position will play a crucial role in growing RRLC’s Digital Services, supporting technology needs within the office, and exploring new partnerships and collaborations within the region and state. This position will be responsible for overall planning, development, and implementation of RRLC’s Digital Services, including member participation in New York Heritage, the Empire State Digital Network, the Digital Public Library of America, the New York State Historic Newspaper Project, and the Empire Archival Discovery Cooperative.
 
 
-### Responsibilities###
+### Responsibilities   
 
 1. Oversee planning, development, and implementation of Digital Services:
 
@@ -32,7 +32,7 @@ The Rochester Regional Library Council is hiring a Digital Initiatives Librarian
 4. Support other RRLC programs and services
 
 
-### Qualifications###
+### Qualifications   
 
 --MLS or equivalent from an ALA-accredited library program (those expecting an MLS by May 2018 may apply)
 
@@ -55,26 +55,26 @@ The Rochester Regional Library Council is hiring a Digital Initiatives Librarian
 ---Intellectual curiosity and commitment to learning
 
 
-### Compensation###
+### Compensation   
 
 This is a full time position (37.5 hours per week). The salary range is $48,000-$53,000 annually, commensurate with experience. Comprehensive benefit package includes paid time off, medical coverage, and retirement plan.
 
 
-### Location###
+### Location   
 
 Fairport, NY
 
 
-### URL###
+### URL   
 
 [https://rrlc.org/wp-content/uploads/2017/11/Digital_Initiatives_Librarian_2018.pdf](https://rrlc.org/wp-content/uploads/2017/11/Digital_Initiatives_Librarian_2018.pdf)
 
-### To Apply###
+### To Apply   
 
 To apply for this position, send a PDF with your cover letter, resume, and contact information for three professional references to rrlc@rrlc.org with the subject line: Digital Initiatives Librarian. Preference will be given to applications received by January 12, 2018. The position will remain open until filled.
 
 
-### Company Information###
+### Company Information   
 
 Rochester Regional Library Council
 390 Packett’s Landing
@@ -82,7 +82,7 @@ Fairport, NY 14450
 585.223.7570 phone
 
 
-### Contact Information###
+### Contact Information   
 
 rrlc@rrlc.org
 

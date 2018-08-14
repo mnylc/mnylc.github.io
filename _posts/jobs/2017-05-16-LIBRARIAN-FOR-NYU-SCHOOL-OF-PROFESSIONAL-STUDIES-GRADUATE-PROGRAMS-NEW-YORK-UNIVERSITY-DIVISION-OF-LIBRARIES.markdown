@@ -6,13 +6,13 @@ excerpt: "The New York University Division of Libraries is seeking a librarian t
 tag: job
 ---
 
-### Description###
+### Description   
 
 The New York University Division of Libraries is seeking a librarian to serve as liaison to the faculty, graduate students, and administrators in the NYU School of Professional Studies.  Librarians play a key role in the educational mission of NYU by establishing strong relationships with faculty and students, and connecting them to the services, content, and tools that meet their research, teaching, and learning needs. 
 The NYU School of Professional Studies offers master's degree programs and graduate certificates in a wide range of professionally oriented areas of study.  The School’s graduate programs reflect the emerging trends, opportunities and innovative business strategies in each respective field that they represent, and include programs in the Schack Institute of Real Estate and the Center for Global Affairs.  Graduate students at the School of Professional Studies include full-time and part-time students, working professionals, and individuals returning to the academic world after pursuing other pathways.  Classes are held in the Washington Square area, the Woolworth Building, the Midtown Graduate Center, days and evenings, and online.  School of Professional Studies graduate programs are served by the NYU Bobst and Brause Libraries.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Working in a collaborative environment this tenure-track position is responsible for building a program of extensive instructional, consultation, and research support services; developing responsive and innovative information services; and extensive outreach to faculty and administrators in the School of Professional Studies.  The School of Professional Studies Graduate Librarian will create and deliver outreach methods to students (such as consultation hours, social networking forums, and in-library/online services development); develop information literacy and research proficiencies programming; and engage students and faculty as active users of NYU Libraries services and collections.  
 
@@ -23,35 +23,35 @@ New York University Libraries:  Libraries at New York University serve the schoo
 NYU’s Division of Libraries embraces diversity and is committed to attracting qualified candidates who also embrace and value diversity and inclusivity.
 
 
-### Qualifications###
+### Qualifications   
 
 Required: ALA accredited MLS and subject Master’s degree required for tenure. Experience in library instruction, reference, and outreach in an academic setting.  Candidates should exhibit a strong public service orientation, a high degree of facility with technologies germane to the 21st century library and today’s learners.  
 Preference will be given to candidates with demonstrated business experience in an academic library environment; or an advanced degree in business, real estate, economics or related discipline.
 Professional contributions beyond the primary job, such as publications, leadership in professional organizations, and other research and creative activity, are required for tenure. 
 
 
-### Compensation###
+### Compensation   
 
 Faculty status, attractive benefits package including five weeks annual vacation. Salary commensurate with experience and background. 
 
 
-### Location###
+### Location   
 
 New York, New York, United States of America
 
 
-### URL###
+### URL   
 
 [https://library.nyu.edu/](https://library.nyu.edu/)
 
-### To Apply###
+### To Apply   
 
 To ensure consideration, submit your CV and letter of application, including the name, address, and telephone number of three references to: [http://apply.interfolio.com/41256.](http://apply.interfolio.com/41256.) Applications will be considered until the position is filled. 
 
 EOE/AA/Minorities/Females/Vet/Disabled/Sexual Orientation/Gender Identity
 
 
-### Company Information###
+### Company Information   
 
 New York University, Division of Libraries
 70 Washington Square S, 11th Floor

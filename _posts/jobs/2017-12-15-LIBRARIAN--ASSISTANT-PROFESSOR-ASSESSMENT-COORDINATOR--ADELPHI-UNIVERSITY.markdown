@@ -6,12 +6,12 @@ excerpt: "Reporting to the Dean of University Libraries, the Assessment Coordina
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Dean of University Libraries, the Assessment Coordinator will create and lead the Adelphi Libraries’ Assessment Program in order to promote the advancement of student success and academic excellence at Adelphi. The successful candidate will work closely with library faculty and administrators, teaching faculty, and campus partners (Office of Research and Planning, Information Technology, etc.).
 
 
-### Responsibilities###
+### Responsibilities   
 
 Assessment (55%)
 
@@ -34,7 +34,7 @@ Other Responsibilities (20%)
 Represents the Libraries to other groups around campus and the region; serves on University and Library committees; participates in professional associations and bodies; participates in scholarly and professional activities including research and publishing required for reappointment, tenure and promotion.
 
 
-### Qualifications###
+### Qualifications   
 
 Qualifications:
 
@@ -61,28 +61,28 @@ Demonstrated effectiveness in communicating with diverse groups of students, fac
 
 
 
-### Location###
+### Location   
 
 Garden City, NY
 
 
-### URL###
+### URL   
 
 [http://hr.adelphi.edu/position-openings/](http://hr.adelphi.edu/position-openings/)
 
-### To Apply###
+### To Apply   
 
 All applicants must submit a cover letter, curriculum vitae, and list of 3 references online (in addition to requirements detailed in the position description).
 
 
-### Company Information###
+### Company Information   
 
 Adelphi University One South Avenue P.O. Box 701 Garden City, NY 11530-0701 800.ADELPHI (233.5744)
  
  
 
 
-### Contact Information###
+### Contact Information   
 
 Office of Human Resources
 Levermore Hall Room 203

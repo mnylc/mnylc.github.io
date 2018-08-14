@@ -14,7 +14,7 @@ Regular/Temporary: Regular "
 tag: job
 ---
 
-### Description###
+### Description   
 
 Job Title: Reference and Instructional Design Librarian (Instructor or Assistant Professor) 
 
@@ -27,7 +27,7 @@ Full/Part Time: Full-Time
 Regular/Temporary: Regular 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Assistant Professor:
 Supports a college library through providing in-depth consultation with students and faculty and collaboration for the ongoing improvement of instructional programs and practices. Pursues an active scholarly agenda, performs supervisory duties, and participates in college-and university-wide programs and committees as assigned.
@@ -42,7 +42,7 @@ Librarians within the City University of New York take active faculty roles, ser
 All appointments are subject to financial availability.
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 All titles require a Master's in Library Science (MLS), Master's in Library Information Studies (MLIS), or closely related discipline from an ALA-accredited institution. Also required is the ability to work with others for the good of the institution. For appointment as Assistant Professor, a second graduate degree is required. 
@@ -61,7 +61,7 @@ Strongly Preferred Qualifications:
 - Evidence of teamwork, creativity, initiative, and flexibility
 
 
-### Compensation###
+### Compensation   
 
 Instructor: $42,860 - $71,000 / Assistant Professor: $46,640 - $80,645
 
@@ -70,7 +70,7 @@ Instructor: $42,860 - $71,000 / Assistant Professor: $46,640 - $80,645
 
 
 
-### To Apply###
+### To Apply   
 
 Applicants must apply online by accessing the CUNY website at www.cuny.edu and navigating to the following links:  
 Select “Employment”, then select “Search Job Postings” and find JOB ID #16400. Please attach resume and cover letter. 

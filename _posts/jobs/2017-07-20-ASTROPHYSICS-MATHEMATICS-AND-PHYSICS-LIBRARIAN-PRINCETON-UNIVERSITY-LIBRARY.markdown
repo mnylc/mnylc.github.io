@@ -6,7 +6,7 @@ excerpt: "Astrophysics, Mathematics and Physics Librarian Princeton University L
 tag: job
 ---
 
-### Description###
+### Description   
 
 Astrophysics, Mathematics and Physics Librarian
 Princeton University Library
@@ -25,14 +25,14 @@ This position is subject to the University's background check policy. Princeton 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 This position is the Library’s liaison to the Departments of Astrophysical Sciences, Mathematics, and Physics and their associated programs, institutes and centers, including the students, faculty and researchers associated with the Princeton Plasma Physics Laboratory.  This position provides specialized and individualized reference and research consultation for undergraduate students in these departments particularly as they complete their thesis requirements in 3rd and 4th years, for Ph.D. program students, and for faculty, researchers and affiliates. This position also oversees library user services for Princeton Plasma Physics Laboratory and maintains the collection at Furth Plasma Physics Library.
 
 Serves as the Library’s primary contact for astrophysics, mathematics, physics and plasma physics research, oversees the Library’s collections and manages sizable acquisitions funds in these areas. Works closely with subject selectors in the sciences, engineering, history of science, and area studies on collection development, instruction, research support and outreach. Serves as a member of a dynamic team of science and technology professionals based in Lewis Science Library. Shares in responsibility for providing innovative library services that promote discovery, use and integration of physical and electronic library collections. Represents Princeton in relevant regional, national and international professional and scholarly organizations. 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications: 
 
@@ -55,21 +55,21 @@ Strongly Preferred:
 • 	Experience with scholarly communications and data management initiatives, demonstrated knowledge of scientific research and publication trends.
 
 
-### Compensation###
+### Compensation   
 
 The successful candidate will be appointed to an appropriate Librarian rank depending upon qualifications and experience. 
 
 
-### Location###
+### Location   
 
 Princeton/NJ/USA
 
 
-### URL###
+### URL   
 
  [http://library.princeton.edu/](http://library.princeton.edu/)
 
-### To Apply###
+### To Apply   
 
 Applications will be accepted only from the Jobs at Princeton website: [http://www.princeton.edu/jobs](http://www.princeton.edu/jobs) and must include a resume, cover letter, and a list of three references with full contact information. 
 
@@ -77,14 +77,14 @@ Applications will be accepted only from the Jobs at Princeton website: [http://w
 
 
 
-### Company Information###
+### Company Information   
 
 Princeton University Library
 1 Washington Road
 Princeton, NJ 08544
 
 
-### Contact Information###
+### Contact Information   
 
 Robin Dunham
 rdunham@princeton.edu

@@ -6,7 +6,7 @@ excerpt: "Required Skills and Experience: Display enthusiasm while working with 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Required Skills and Experience:
 Display enthusiasm while working with the public.  
@@ -25,21 +25,21 @@ Shift includes Nights, Saturdays and Voluntary Sundays.
 
 
 
-### Compensation###
+### Compensation   
 
 Starting salary: $15.67 per hour 
 
 
-### Location###
+### Location   
 
 Great Neck, NY
 
 
-### URL###
+### URL   
 
 [https://www.greatnecklibrary.org/libinfo/jobs.php](https://www.greatnecklibrary.org/libinfo/jobs.php)
 
-### To Apply###
+### To Apply   
 
 Reply with resume, cover letter and three references by 
 July 25, 2018 to:

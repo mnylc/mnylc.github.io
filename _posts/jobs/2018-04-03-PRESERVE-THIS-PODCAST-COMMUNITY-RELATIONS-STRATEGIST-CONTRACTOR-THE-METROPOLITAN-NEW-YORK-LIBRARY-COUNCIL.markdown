@@ -6,7 +6,7 @@ excerpt: "The “Preserve this Podcast!” Communications and Public Relations S
 tag: job
 ---
 
-### Description###
+### Description   
 
 The “Preserve this Podcast!” Communications and Public Relations Strategist is a temporary contract starting from date of hire until through the completion of the duties in the contract (schedule can be flexible). This position is open to those with demonstrated experience working on communications, outreach and/or public relations projects, either in a podcast or broadcast media setting, and/or a library/archives setting.
 
@@ -16,7 +16,7 @@ This position will work to support METRO’s “Preserve This Podcast” tutoria
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Develop, coordinate and execute an outreach strategy and sustainable workflow
 
@@ -34,7 +34,7 @@ Identify and pursue possible promotional opportunities, especially podcast inter
 
 
 
-### Qualifications###
+### Qualifications   
 
 Experience with all or some of the following: communications, outreach, social media, public relations, community relations.
 
@@ -50,26 +50,26 @@ Facility with contemporary computing systems and relevant software applications.
 
 
 
-### Compensation###
+### Compensation   
 
 This is a temporary $5,500 contract that will be paid out monthly based on an hourly rate. The hourly rate is negotiable depending on the applicants demonstrated experience in podcast communications. This is a contract/temporary position.
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Please share why you’re interested in this position by sending us an email at info@metro.org with “Community Relations Strategist” in the subject line. Include a proposal with a breakdown and timeline as to how you would complete this work, as well as a link to either a portfolio of past work or a resume or c.v.. No phone calls, please. Applications will be accepted through Friday, May 18, 2018. 
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 mschwartz@metro.org
 

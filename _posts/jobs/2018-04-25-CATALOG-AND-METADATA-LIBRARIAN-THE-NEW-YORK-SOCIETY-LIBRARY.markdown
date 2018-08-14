@@ -6,12 +6,12 @@ excerpt: "Private membership library in New York City seeks an experienced profe
 tag: job
 ---
 
-### Description###
+### Description   
 
 Private membership library in New York City seeks an experienced professional to fill the full-time position of Catalog and Metadata Librarian. The Catalog and Metadata Librarian creates and maintains records in the library catalog and other existing and potential discovery tools and systems to provide and improve access to the library’s collections. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Perform original and complex copy cataloging of materials, primarily printed monographs, in OCLC Connexion according to RDA, AACR2, LCSH, and DDC
 
@@ -34,7 +34,7 @@ Assist in inter-departmental projects and consult on library-wide initiatives
 Serve as reference librarian at the reference desk on an as-needed basis (typically 3-4 hours per week)
 
 
-### Qualifications###
+### Qualifications   
 
 ALA-accredited MLS or equivalent
 
@@ -54,26 +54,26 @@ Experience working with OCLC Connexion and Innovative Interfaces Sierra Integrat
 Experience with non-MARC metadata
 
 
-### Compensation###
+### Compensation   
 
 Salary is commensurate with experience and includes a benefits package including health/dental/vision plans, 403(b) defined contribution plan, flexible benefits plan, and vacation and holiday time. The New York Society Library is an Equal Opportunity Employer.
 
 
-### Location###
+### Location   
 
 New York, New York
 
 
-### URL###
+### URL   
 
 [https://www.nysoclib.org/about/catalog-and-metadata-librarian](https://www.nysoclib.org/about/catalog-and-metadata-librarian)
 
-### To Apply###
+### To Apply   
 
 Candidates should email a resume, cover letter outlining how your skills and experiences meet the qualifications for the position, names of three professional references, and salary requirements to Lawi Kibet, Controller at lkibet@nysoclib.org. Please include the subject line Catalog and Metadata Librarian on the email. Applications without the requested information will not be considered. Please submit applications by 5/11/18.
 
 
-### Company Information###
+### Company Information   
 
 The New York Society Library is an historic membership library founded in 1754. The Library today is open to all for reading, reference, and selected events, with circulation and other services by subscription. The beautiful landmarked building dates from 1917 and includes reading rooms, spaces for study, book stacks, and the Assunta, Ignazio, Ada and Romano Peluso Exhibition Gallery. The Library has approximately 300,000 volumes and hosts a variety of special events, reading groups, and workshops, as well as the New York City Book Awards.
 

@@ -6,13 +6,13 @@ excerpt: "The Gill Library at The College of New Rochelle is seeking an Adjunct 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Gill Library at The College of New Rochelle is seeking an Adjunct Reference Librarian to work part time in the evenings at our New Rochelle campus. The College of New Rochelle is a Catholic college in the Ursuline tradition and we welcome applicants from all backgrounds who can contribute to our unique educational mission.  To learn more about the College, visit our Web site at: [http://www.cnr.edu](http://www.cnr.edu)
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reference Services (in person including assistance with all print and electronic resources and services as well as virtual reference using AskUs 24/7)
 
@@ -42,21 +42,21 @@ The Adjunct Reference Librarian will consistently demonstrate:
 • 	Reliability when performing assigned tasks
 
 
-### Qualifications###
+### Qualifications   
 
 Requirements: An ALA-accredited Masters in Library Science.  Academic library experience preferred.  The position may include evening, weekend, and holiday hours and is available immediately.
 
 
 
 
-### Location###
+### Location   
 
 New Rochelle, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Email letter of interest (clearly indicating which branch library is of interest), resume, and names and addresses of three references as attachments to:
 Ana E. Fontoura
@@ -69,7 +69,7 @@ Email:  afontoura@cnr.edu
 
 
 
-### Company Information###
+### Company Information   
 
 The College of New Rochelle
 Gill Library
@@ -78,7 +78,7 @@ New Rochelle, NY 10805
 [http://www.cnr.edu](http://www.cnr.edu)
 
 
-### Contact Information###
+### Contact Information   
 
 Brunie Lopez
 blopez@cnr.edu

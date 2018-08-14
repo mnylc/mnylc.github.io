@@ -6,7 +6,7 @@ excerpt: "Located in New York City, the Metropolitan New York Library Council (M
 tag: job
 ---
 
-### Description###
+### Description   
 
 Located in New York City, the Metropolitan New York Library Council (METRO) is a non-profit organization working to develop and maintain essential library services throughout New York City and Westchester County. The METRO membership consists of a diverse group of over 250 libraries, archives, and information organizations ranging from New York’s largest libraries to small community archives. METRO provides professional development and continuing education opportunities for our membership, in addition to digitization, metadata, and hosting services for digital collections. METRO is also home to the Empire State Digital Network (ESDN), the New York state service hub for the Digital Public Library of America (DPLA).
 
@@ -18,7 +18,7 @@ The Digital Projects and Metadata Librarian works directly with a variety of par
 Candidates should be enthusiastic about supporting and expanding access to digital collections from New York libraries, archives and cultural heritage institutions of all sizes. Creativity, flexibility and the ability to follow and anticipate developing technologies will be essential. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 If you fill this position, you will be asked to: 
 
@@ -37,7 +37,7 @@ If you fill this position, you will be asked to:
 - Collaborate with statewide partners to build and support digital exhibitions using Omeka.
 
 
-### Qualifications###
+### Qualifications   
 
 The ideal candidate will have:  
 - Master’s Degree in Library and Information Science or a related degree.
@@ -55,24 +55,24 @@ The ideal candidate will have:
 - Experience speaking in public and leading meetings and training sessions.
 
 
-### Compensation###
+### Compensation   
 
 $65,000
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
 
 
-### To Apply###
+### To Apply   
 
 Email info@metro with your cover letter and resume; please include the job title in your subject line.
 
 
-### Company Information###
+### Company Information   
 
 Metropolitan New York Library Council
 599 11th Ave
@@ -80,7 +80,7 @@ New York NY 10036
 United States
 
 
-### Contact Information###
+### Contact Information   
 
 info@metro.org
 

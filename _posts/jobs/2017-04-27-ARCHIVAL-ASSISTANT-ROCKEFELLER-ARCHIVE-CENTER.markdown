@@ -6,7 +6,7 @@ excerpt: "Overview: The Rockefeller Archive Center is seeking a recent college g
 tag: job
 ---
 
-### Description###
+### Description   
 
 Overview:
 The Rockefeller Archive Center is seeking a recent college graduate to join its Collections Management team as an Archival Assistant. The primary duties of this position will be to assist with accessioning, including the preparation of inventories, and with vault and location management. Other duties may relate to preservation, donor requests, and reference services.  This position is full-time, paid on an hourly basis, and reports to the Assistant Director, Head of Collections Management.
@@ -41,7 +41,7 @@ careers@rockarch.org
 
 
 
-### To Apply###
+### To Apply   
 
 To apply, please send a letter explaining your interest in the position and qualifications along with a resume via email or mail to:
 
@@ -52,12 +52,12 @@ careers@rockarch.org
 
 
 
-### Company Information###
+### Company Information   
 
 Rockefeller Archive Center 15 Dayton Ave. Sleepy Hollow, NY 10591
 
 
-### Contact Information###
+### Contact Information   
 
 careers@rockarch.org
 

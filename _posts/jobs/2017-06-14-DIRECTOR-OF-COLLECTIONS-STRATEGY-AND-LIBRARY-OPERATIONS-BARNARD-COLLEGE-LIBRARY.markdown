@@ -6,14 +6,14 @@ excerpt: "Reporting to the Dean of the Barnard Library & Academic Information Se
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Dean of the Barnard Library & Academic Information Services (BLAIS), the Director of Collections Strategy and Library Operations provides leadership and collaborative expertise for developing, sustaining and delivering the rich collections Barnard owns and accesses. In collaboration with the Dean of BLAIS, the incumbent will revisit and redevelop Barnard’s collection development policy and focuses (currently Women, Gender and Sexuality Studies, Dance, and outstanding undergraduate liberal arts research) and facilitate conversations about reshaping the collection or access in response to the needs of the library community and the new library under construction. They are responsible for leading the conversation to define the collection strategy for the Barnard Library Collections; coordinating and communicating with Barnard Library subject selectors, students, faculty, and staff; facilitating access to the library’s collections for all users; and coordinating Barnard Library’s collaborations with Columbia University Libraries’ collections and operations policies and practices.
 
 The Director will be responsible for managing the Operations department. This includes currently 6 FTE engaged in the acquisition, materials processing, cataloging, circulation and reserve services of the Barnard College Library. They will recruit, develop, and motivate their team to continually deliver an excellent standard of library services to the Barnard community. In addition, the Director participates in the provision of research and instructional services to students, faculty, staff, and alumni of the Barnard and Columbia communities, through information literacy and library research classes, research consultations, and faculty and student liaison responsibilities.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 The duties and responsibilities of the Director of Collections Strategy and Library Operations fall into four areas or roles: collections strategy, operations management, personal librarian, and leadership team.
@@ -41,7 +41,7 @@ Understand and maintain the Collections and Operations budgets and their relatio
 Performs additional job responsibilities and duties as needed
 
 
-### Qualifications###
+### Qualifications   
 
 Master’s degree in Library Science from an ALA-accredited institution required. 
 Three to four years of progressively responsible experience in technical and collection services. Must have knowledge of cataloging practices and experience with online bibliographic utilities, integrated library systems, library automation applications and bibliographic database management.
@@ -58,21 +58,21 @@ Fluency in database searching, office applications, and digital scholarship tool
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://careers.barnard.edu/postings/2827](https://careers.barnard.edu/postings/2827)
 
-### To Apply###
+### To Apply   
 
 [https://careers.barnard.edu/postings/2827/pre_apply](https://careers.barnard.edu/postings/2827/pre_apply)
 
 
-### Company Information###
+### Company Information   
 
 Barnard College
 

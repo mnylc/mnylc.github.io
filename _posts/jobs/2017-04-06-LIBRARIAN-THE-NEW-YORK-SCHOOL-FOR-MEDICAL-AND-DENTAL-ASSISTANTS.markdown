@@ -6,12 +6,12 @@ excerpt: "The New York School for Medical and Dental Assistants is looking to im
 tag: job
 ---
 
-### Description###
+### Description   
 
 The New York School for Medical and Dental Assistants is looking to immediately hire a full-time librarian. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Prepares for and provides classroom and individual instruction to demonstrate the use of library resources, on line databases, and the internet, which include working with classroom faculty to develop curricular objectives, create online library-related resources and instructional materials, and delivering appropriate information literacy instruction.
@@ -40,7 +40,7 @@ The New York School for Medical and Dental Assistants is looking to immediately 
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Master's Degree in Library and Information Science from an ALA accredited institution.
@@ -49,21 +49,21 @@ The New York School for Medical and Dental Assistants is looking to immediately 
 
 
 
-### Compensation###
+### Compensation   
 
 $50,500 to $53,500 USD Per Year
 
 
-### Location###
+### Location   
 
 Queens - Long Island City
 
 
-### URL###
+### URL   
 
 [http://www.nysmda.com/](http://www.nysmda.com/)
 
-### To Apply###
+### To Apply   
 
 Please send your resume and cover letter to:
 Dr. M. Klebanov Campus Director

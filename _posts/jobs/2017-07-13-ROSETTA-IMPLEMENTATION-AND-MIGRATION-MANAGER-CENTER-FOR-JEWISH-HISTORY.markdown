@@ -6,7 +6,7 @@ excerpt: "Search Re-opened The Center for Jewish History is a collaborative home
 tag: job
 ---
 
-### Description###
+### Description   
 
 Search Re-opened
 
@@ -18,7 +18,7 @@ The Rosetta Implementation and Migration Manager will report to the Senior Manag
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 *Manage short and long term benchmarks for migration and implementation of Rosetta, the Center’s new digital preservation management system.
 
@@ -35,7 +35,7 @@ The Rosetta Implementation and Migration Manager will report to the Senior Manag
 *Stay abreast of developments and professional best practices in digital asset management, digital preservation, and related topics.
 
 
-### Qualifications###
+### Qualifications   
 
 Education and experience
 -->ALA-accredited graduate degree or accredited graduate degree in another appropriate discipline, such as computer science, project management, digital preservation and curation, or archival science with a specialization in digital archives. 
@@ -64,26 +64,26 @@ Preferred:
 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience.
 
 
-### Location###
+### Location   
 
 New York, New York
 
 
-### URL###
+### URL   
 
 [http://cjh.org/about/employment-opportunities](http://cjh.org/about/employment-opportunities)
 
-### To Apply###
+### To Apply   
 
 Review of applications will begin immediately.  Applications will be accepted until the position is filled.  Send cover letter, resume, and contact information for three references to Eric Fritzler, Senior Manager for Metadata and Discovery, at eafritzler@cjh.org.  No phone calls please.
 
 
-### Company Information###
+### Company Information   
 
 Center for Jewish History
 15 West 16th St. 

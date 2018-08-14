@@ -8,14 +8,14 @@ Schedule: Monday - Friday, 9 am - 5 pm   "
 tag: job
 ---
 
-### Description###
+### Description   
 
 The C.V. Starr East Asian Library seeks a Bibliographic Assistant VI. The incumbent will perform a full range of activities to order, receive, and physically process Japanese materials in all formats and accompanying invoices. 
 
 Schedule: Monday - Friday, 9 am - 5 pm   
 
 
-### Responsibilities###
+### Responsibilities   
 
 Duties include but are not limited to:
 - Ordering Japanese language materials in all formats, including preorder duplicate checking, creating purchase orders in local system, and forwarding orders to vendors.
@@ -28,7 +28,7 @@ Duties include but are not limited to:
 - Performing other duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 - High School Diploma or equivalent required.
 - Advanced knowledge of Japanese language and culture required. Language test will be given if interviewed.
@@ -44,21 +44,21 @@ Duties include but are not limited to:
 - Bachelor's degree preferred. 
 
 
-### Compensation###
+### Compensation   
 
 $22.28/hour ($21.72/hour for new hires)
 
 
-### Location###
+### Location   
 
 New York, NY 10027
 
 
-### URL###
+### URL   
 
 [https://jobs.columbia.edu/applicants/Central?quickFind=167990](https://jobs.columbia.edu/applicants/Central?quickFind=167990)
 
-### To Apply###
+### To Apply   
 
 [https://jobs.columbia.edu/applicants/Central?quickFind=167990](https://jobs.columbia.edu/applicants/Central?quickFind=167990)
 

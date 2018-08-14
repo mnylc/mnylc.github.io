@@ -6,14 +6,14 @@ excerpt: "Berkeley College is seeking a full time librarian to provide research 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Berkeley College is seeking a full time librarian to provide research services and instruction that guide students, faculty and the college community in navigating and evaluating information; serves as a liaison working with faculty to integrate information literacy concepts within course work and the scholarly journey; develop LibGuides and other objects that link learning and library resources. 
 
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 •  An earned M.L.S. / M.L.I.S or equivalent degree from an ALA accredited institution, or from a master's level program in library and information studies accredited or recognized by the appropriate national body of another country
@@ -33,27 +33,27 @@ Berkeley College is seeking a full time librarian to provide research services a
 •  The desire to explore and innovate- what we do and how we do it
 
 
-### Compensation###
+### Compensation   
 
 Entry level
 
 
-### Location###
+### Location   
 
 White Plains, NY
 
 
-### URL###
+### URL   
 
 www.berkeleycollege.edu
 
-### To Apply###
+### To Apply   
 
 Apply online see job #17-0096 URL:  [https://re21.ultipro.com/BER1008/JobBoard/JobDetails.aspx?__ID=*2F34E00793C3EDAE](https://re21.ultipro.com/BER1008/JobBoard/JobDetails.aspx?__ID=*2F34E00793C3EDAE)  
 Please include a resume and letter of interest with submission.  
 
 
-### Company Information###
+### Company Information   
 
 Berkeley College
 White Plains Campus Library
@@ -62,7 +62,7 @@ White Plains, NY 10601
 
 
 
-### Contact Information###
+### Contact Information   
 
 Jessica Kiebler, MLS
 Berkeley College

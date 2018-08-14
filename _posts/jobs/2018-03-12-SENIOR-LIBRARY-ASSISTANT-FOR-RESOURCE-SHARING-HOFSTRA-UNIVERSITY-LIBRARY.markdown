@@ -6,41 +6,41 @@ excerpt: "The Senior Library Assistant coordinates work of Resource Sharing unit
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Senior Library Assistant coordinates work of Resource Sharing unit. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Using ILLiad and OCLC Worldshare, processes borrowing and lending requests. Utilizes a variety of online bibliographic resources to confirm citations, process and monitor requests to and from Hofstra University Library. 
 
 
-### Qualifications###
+### Qualifications   
 
 Demonstrable experience with ILLiad software and searching online bibliographic utilities. Proficiency with Sierra library management system, MS Word, Excel and Outlook is required. 
 
 
-### Compensation###
+### Compensation   
 
 Subject to Collective Bargaining Agreement
 
 
-### Location###
+### Location   
 
 Hempstead, NY
 
 
-### URL###
+### URL   
 
 [https://www.hofstra.edu/about/jobs/jobs_popup.cfm?id=11272](https://www.hofstra.edu/about/jobs/jobs_popup.cfm?id=11272)
 
-### To Apply###
+### To Apply   
 
 Qualified applicants may submit resumes via email to jobs@hofstra.edu. Please indicate job # 899837-18 in the subject of the email.
 
 
-### Company Information###
+### Company Information   
 
 www.hofstra.edu
 

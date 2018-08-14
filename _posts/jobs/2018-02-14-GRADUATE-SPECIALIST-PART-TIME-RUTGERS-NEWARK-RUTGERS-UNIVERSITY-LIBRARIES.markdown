@@ -6,7 +6,7 @@ excerpt: "The Graduate Specialist for Dana would take over managing the Jazz Ora
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Graduate Specialist for Dana would take over managing the Jazz Oral History project under supervision.
 Duties for that include:
@@ -24,7 +24,7 @@ Those duties might include:
 • Assistance with metadata creation according to recommended standards
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 •  The position is open to current graduate students in a humanities or social science field who are eligible for on-campus employment.
@@ -36,37 +36,37 @@ Those duties might include:
 •  Intellectual curiosity.
 
 
-### Qualifications###
+### Qualifications   
 
 Requires a Bachelor’s degree in a humanities or social science related field, or an equivalent combination of education and/or experience including digital humanities research methodologies.
 Requires up to two years relevant experience in an administrative function, strong communication and interpersonal skills, and computer literacy.
 
 
-### Compensation###
+### Compensation   
 
 $25.00 hour  
 
 
-### Location###
+### Location   
 
 John Cotton Dana Library, Newark, NJ
 
 
-### URL###
+### URL   
 
 [http://jobs.rutgers.edu/postings/60175](http://jobs.rutgers.edu/postings/60175)
 
-### To Apply###
+### To Apply   
 
 [http://jobs.rutgers.edu/postings/60175](http://jobs.rutgers.edu/postings/60175)  
 
 
-### Company Information###
+### Company Information   
 
 [https://www.libraries.rutgers.edu/](https://www.libraries.rutgers.edu/)
 
 
-### Contact Information###
+### Contact Information   
 
 Krista White
 kwhite2@rutgers.edu        Digital Humanities Librarian and Head, Media Services

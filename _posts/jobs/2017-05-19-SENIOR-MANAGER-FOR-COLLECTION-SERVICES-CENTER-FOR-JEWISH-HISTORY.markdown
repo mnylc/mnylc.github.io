@@ -6,7 +6,7 @@ excerpt: "The Center for Jewish History (NYC | cjh.org) is home to five in-house
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Center for Jewish History (NYC | cjh.org) is home to five in-house partners—American Jewish Historical Society, American Sephardi Federation, Leo Baeck Institute, Yeshiva University Museum, and YIVO Institute for Jewish Research.  When the Center opened its doors sixteen years ago, it made a commitment to preserve the collections housed within its walls and make them accessible to scholars, students, and diverse audiences by implementing a unique, shared services model across all five partners.
 
@@ -16,7 +16,7 @@ The Senior Manager will report to the Director of Archive and Library Services a
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 
@@ -36,7 +36,7 @@ The Senior Manager will report to the Director of Archive and Library Services a
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 
@@ -64,16 +64,16 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 [http://www.cjh.org/p/32](http://www.cjh.org/p/32)
 
-### To Apply###
+### To Apply   
 
 The Center for Jewish History is committed to diversity and inclusion. Qualified individuals who bring diverse perspectives to the workplace are especially encouraged to apply.
 
@@ -81,12 +81,12 @@ Review of applications will begin immediately. Applications will be accepted unt
 
 
 
-### Company Information###
+### Company Information   
 
 15 W. 16th St., New York, NY 10011
 
 
-### Contact Information###
+### Contact Information   
 
 rcmiller@cjh.org
 

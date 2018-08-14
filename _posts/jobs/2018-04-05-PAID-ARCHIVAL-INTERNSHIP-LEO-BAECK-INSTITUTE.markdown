@@ -6,7 +6,7 @@ excerpt: "The archives of the Leo Baeck Institute (LBI) in New York is offering 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The archives of the Leo Baeck Institute (LBI) in New York is offering a paid part-time archival internship position for a library student, preferably with coursework in archival management.
 
@@ -15,43 +15,43 @@ The Leo Baeck Institute, located at the Center for Jewish History, is an archiva
 The internship is up to 19 hours per week, with a term appointment of six months, Monday to Friday, to provide practical experience for a student in a graduate program for library studies. Work hours are flexible within our office hours from 9 to 5 and can be accommodated according to the candidate’s school schedule.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Typical duties consist of the following tasks: *Pre-processing archival material, shifting of archival boxes, re-housing of archival material when necessary, basic data entry in the online catalog, the retrieval of material for researchers in the reading room, re-shelving of research material, handling of basic reference requests, occasional assistance in preparing art and archival material for exhibition loans to museums, and other duties and projects as assigned.
 
 The intern will complete tasks assigned by the archival staff. 
 
 
-### Qualifications###
+### Qualifications   
 
 A basic knowledge of German is helpful, but not required. The intern should be able to handle the lifting of boxes equal to 30 lbs.
 
 
-### Compensation###
+### Compensation   
 
 Paid Position
 
 
-### Location###
+### Location   
 
 New York, New York
 
 
-### URL###
+### URL   
 
 www.lbi.org
 
-### To Apply###
+### To Apply   
 
 Please send your resume and a cover letter to Mr. Michael Simonson, Archivist, at msimonson@lbi.cjh.org
 
 
-### Company Information###
+### Company Information   
 
 Please visit our website to learn more about us at www.lbi.org
 
 
-### Contact Information###
+### Contact Information   
 
 Mr. Michael Simonson, Archivist.  msimonson@lbi.cjh.org
 

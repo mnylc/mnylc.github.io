@@ -6,12 +6,12 @@ excerpt: "Barnard Library invites applications for a Digital Scholarship Librari
 tag: job
 ---
 
-### Description###
+### Description   
 
 Barnard Library invites applications for a Digital Scholarship Librarian (DSL) to take the lead in creating, facilitating, and coordinating services and programming in the new Digital Humanities Center, opening Fall 2018. Reporting to the Director for Teaching, Learning & Digital Scholarship, the Digital Scholarship Librarian will work directly with the Faculty Director of the Digital Humanities Center and will take a proactive approach to working with faculty, undergraduates, and fellow librarians and staff to collaborate on established digital projects and develop new, sustainable research projects, classroom support, and instruction in digital methods. This includes designing and presenting workshops on digital tools, resources and best practices on digital scholarship; coordinating the development and expansion of sustainable digital scholarship services; building partnerships with other Centers, faculty and departments; connecting with and contributing to the diversity, equity, inclusion and accessibility efforts; and establishing a community of practice and assessment for digital scholarship across campus. Working closely with the Directors in the library (Collections, Archives & Special Collections, Teaching & Learning, and Instructional Media and Academic Technology Services), the DSL will also facilitate the creation of complementary infrastructure and services in those units, such as digital collection building and creation, and digital repository work, and may participate in web design and accessibility efforts. This position may also serve as a Personal Librarian to one or more academic departments in the humanities, providing instruction and collections development.
 
 
-### Responsibilities###
+### Responsibilities   
 
 1. Act as Service Lead for the Digital Humanities Center: Coordinate the activities, projects and instruction of the Digital Humanities Center under the Direction of the Faculty Director.
 a. Identify and evaluate digital scholarship tools and methodologies in support of teaching, research and creative activities in digital scholarship
@@ -32,7 +32,7 @@ c. Collaborates with colleagues and partners with faculty to create and support 
 4. Additional job responsibilities and duties as needed
 
 
-### Qualifications###
+### Qualifications   
 
 
 •  Excellent interpersonal and communication skills; ability to interact effectively with faculty, staff, students, alumnae, librarians, vendors and publishers as well as administration and external stakeholders
@@ -79,21 +79,21 @@ This job description is intended as a summary of the primary responsibilities of
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://careers.barnard.edu/postings/3385](https://careers.barnard.edu/postings/3385)
 
-### To Apply###
+### To Apply   
 
 [https://careers.barnard.edu/postings/3385/pre_apply](https://careers.barnard.edu/postings/3385/pre_apply)
 
 
-### Company Information###
+### Company Information   
 
  Barnard Library and Academic Information Services (BLAIS) develops and curates unique collections, and information resources, and provides information and media services that support the Barnard faculty and community, and establish a foundation for intellectual inquiry, ethical scholarship, and lifelong learning among Barnard students. The Milstein Center for Teaching and Learning, currently under construction, will open in the Fall of 2018 and incorporate 6 new faculty-led centers into the library, including the Empirical Reasoning Center, Design Center, Digital Humanities Center, Media Center, Movement Lab, Computational Science Center and Center for Engaged Pedagogy. The Digital Humanities Center will play an important role in integrating digital scholarship into Barnard’s curriculum. BLAIS is committed to the College’s work in all its many facets of student and faculty support.
 

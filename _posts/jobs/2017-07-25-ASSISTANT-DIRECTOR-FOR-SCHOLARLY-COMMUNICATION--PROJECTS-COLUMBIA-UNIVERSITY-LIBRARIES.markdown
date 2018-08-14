@@ -6,7 +6,7 @@ excerpt: "Assistant Director for Scholarly Communication & Projects Columbia Uni
 tag: job
 ---
 
-### Description###
+### Description   
 
 Assistant Director for Scholarly Communication & Projects
 Columbia University Libraries
@@ -20,7 +20,7 @@ As one of the world's leading research universities, Columbia University in the 
 Columbia University is an Equal Opportunity/Affirmative Action Employer and strongly encourages individuals of all backgrounds and cultures to consider this position. We offer a salary commensurate with qualifications and experience.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Position Duties:
 - Oversees the evaluation, development, and ongoing maintenance of digital scholarship projects with faculty and students across disciplines and platforms, including Columbia's open access repository, online journal publishing services, and the development of innovative applications that convey the research of Columbia University's scholars online.
@@ -28,7 +28,7 @@ Position Duties:
 - As a member of the Digital Scholarship leadership team, represents the library's efforts in as an active participant in national forums and relevant working groups.
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 - MLIS / PhD or equivalent
@@ -40,26 +40,26 @@ Minimum Qualifications:
 - Exceptional communication and organizational skills
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 www.library.columbia.edu
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=64903](https://academicjobs.columbia.edu/applicants/Central?quickFind=64903)
 
 
-### Company Information###
+### Company Information   
 
 535 West 114th Street, New York, NY 10027
 

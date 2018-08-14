@@ -6,12 +6,12 @@ excerpt: "BPL is seeking a School Outreach librarian to provide outreach service
 tag: job
 ---
 
-### Description###
+### Description   
 
 BPL is seeking a School Outreach librarian to provide outreach services to the school community in Brooklyn. The successful candidate for this position will work to strengthen the Library’s connection to students, parents, teachers and administration at the elementary, middle and high school level. They will collaborate with colleagues to identify the needs of each school and develop programs and services accordingly. This position requires professional knowledge and judgment; including, but not limited to, knowledge about library services and resources, familiarity with the Library’s print and electronic resource collections, readers’ advisory services, and reference services. The successful candidate will also possess strong ability in and comfort with public speaking and developing and leading trainings and workshops. Staff at this level report to the Coordinator of School Outreach and other assigned supervisors.
 
 
-### Responsibilities###
+### Responsibilities   
 
 - Visit Brooklyn schools to support faculty, students and parents in use of Library resources
 - Support the MyLibraryNYC initiative and provide outreach services to partner schools
@@ -20,7 +20,7 @@ BPL is seeking a School Outreach librarian to provide outreach services to the s
 - Train, mentor and support BPL branch librarians in successfully partnering with schools
 
 
-### Qualifications###
+### Qualifications   
 
 - Master’s Degree in Library Science from an ALA accredited library school; Public Librarian’s Professional Certificate issued by the State of New York, required
 - Basic understanding of current and emerging library technology, trends, and public library issues
@@ -33,26 +33,26 @@ BPL is seeking a School Outreach librarian to provide outreach services to the s
 - Bilingual skills a plus
 
 
-### Compensation###
+### Compensation   
 
 This position is a union position, represented by District Council 37. The salary for this position is $51,224.
 
 
-### Location###
+### Location   
 
 Brooklyn, NY
 
 
-### URL###
+### URL   
 
 [https://careers-bklynlibrary.icims.com/jobs/1503/school-outreach-librarian/job](https://careers-bklynlibrary.icims.com/jobs/1503/school-outreach-librarian/job)
 
-### To Apply###
+### To Apply   
 
 Please apply via the URL posted.
 
 
-### Company Information###
+### Company Information   
 
 bklynlibrary.org
 

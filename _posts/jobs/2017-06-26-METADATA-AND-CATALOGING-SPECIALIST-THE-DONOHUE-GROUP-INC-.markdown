@@ -6,7 +6,7 @@ excerpt: "The Metadata and Cataloging Specialist will work with professional and
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Metadata and Cataloging Specialist will work with professional and 
 paraprofessional catalogers in a cooperative team environment to provide
@@ -17,7 +17,7 @@ be considered. Flexible schedule, with option to work remotely for some
 portion of hours.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Prepare cataloging/metadata for both physical and digital library materials. 
 Apply international standards including, but not limited to, RDA, LC 
@@ -31,7 +31,7 @@ assigned
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required qualifications: Bachelor’s degree and/or 1-3 years’ related experience 
 in the library metadata/cataloging field. Cataloging experience (RDA, 
@@ -53,27 +53,27 @@ problems
 
 
 
-### Compensation###
+### Compensation   
 
 Starting @$26.00/hr (up to 37.5 hour work week). This position includes an excellent benefits package (for 30+ hours/week) and 401(k) plan.
 
 
-### Location###
+### Location   
 
 Windsor, CT
 
 
-### URL###
+### URL   
 
 www.dgiinc.com
 
-### To Apply###
+### To Apply   
 
 Email cover letter and resume to Ms. Colleen Collins, Business Office 
 Assistant, The Donohue Group, Inc. at dgijobs@dgiinc.com.  
 
 
-### Company Information###
+### Company Information   
 
 The Donohue Group, Inc., 41 Mechanic Street, Windsor, CT 06095
 

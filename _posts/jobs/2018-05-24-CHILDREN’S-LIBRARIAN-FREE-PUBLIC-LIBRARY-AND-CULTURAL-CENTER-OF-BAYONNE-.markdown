@@ -6,7 +6,7 @@ excerpt: "This librarian would be in charge of collection development for Childr
 tag: job
 ---
 
-### Description###
+### Description   
 
 This librarian would be in charge of collection development for Children’s and YA collections, and help with development for other collections. This would include working with local schools on promoting literacy in the community, in & outside of the library.
 
@@ -22,24 +22,24 @@ This librarian would also spend some time at various public service desks such a
 
 
 
-### Qualifications###
+### Qualifications   
 
 ALA accredited Master’s Degree required. 
 
 
-### Compensation###
+### Compensation   
 
 NJLA minimum.
 
 
-### Location###
+### Location   
 
 Bayonne, NJ 
 
 
 
 
-### To Apply###
+### To Apply   
 
 Applications should be emailed, in PDF format only, to JP Porcaro, director@bayonnelibrary.org. 
 

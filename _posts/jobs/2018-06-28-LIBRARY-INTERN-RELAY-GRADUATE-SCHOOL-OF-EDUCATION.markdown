@@ -6,12 +6,12 @@ excerpt: "The Relay Library Intern, managed by the Library Director, will play a
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Relay Library Intern, managed by the Library Director, will play an integral role in supporting the learning, teaching, research, and information needs of the Relay community by providing exemplary services to faculty and students in campuses across the country. The Library Intern will organize a physical and online information collection and assist and instruct patrons in efficiently finding and effectively using information. This is an outstanding opportunity for an aspiring librarian to gain skills in reference and instruction, working with distance students, acting as an education subject specialist/liaison, and managing electronic resources.
 
 
-### Responsibilities###
+### Responsibilities   
 
 * Provide reference services to graduate students and faculty via email, chat, and in-person
 
@@ -30,7 +30,7 @@ The Relay Library Intern, managed by the Library Director, will play an integral
 * Perform other duties as required
 
 
-### Qualifications###
+### Qualifications   
 
 * Enrolled in an accredited MLIS (or equivalent) or school library media specialist program
 
@@ -51,24 +51,24 @@ The Relay Library Intern, managed by the Library Director, will play an integral
 * Authorized to work in the United States
 
 
-### Compensation###
+### Compensation   
 
 Relay offers a competitive salary on an hourly basis.
 
 
-### Location###
+### Location   
 
 New York, New York
 
 
 
 
-### To Apply###
+### To Apply   
 
 [https://relay.edu/browse-jobs?gh_jid=1226683](https://relay.edu/browse-jobs?gh_jid=1226683)
 
 
-### Company Information###
+### Company Information   
 
 [https://relay.edu/](https://relay.edu/)
 

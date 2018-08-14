@@ -8,14 +8,14 @@ Reports to the Manager of Youth Services.
 tag: job
 ---
 
-### Description###
+### Description   
 
 Nassau Library System is seeking an experienced, high-performing, energetic, flexible, organized self-starter who can support member libraries in the delivery of services to youth, especially teens and tweens.
 Reports to the Manager of Youth Services. 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Plan, facilitate, and deliver professional development workshops and meetings for youth services librarians who focus on teen and tween services. 
@@ -38,7 +38,7 @@ Reports to the Manager of Youth Services.
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	MLS from an ALA-accredited library school and 3 years of professional library experience in youth services with at least 1 year in teen services.
@@ -59,33 +59,33 @@ Reports to the Manager of Youth Services.
 
 
 
-### Compensation###
+### Compensation   
 
 Starting salary $56,000 - $60,000 depending on relevant experience and abilities Excellent benefits.   Professional involvement encouraged and supported.
 
 
-### Location###
+### Location   
 
 Uniondale, NY, U.S.
 
 
-### URL###
+### URL   
 
 www.nassaulibrary.org
 
-### To Apply###
+### To Apply   
 
 Send resume and cover letter to Renee McGrath, Manager of Youth Services, 
 Nassau Library System, via e-mail at YSlibrarian@nassaulibrary.org
 
 
-### Company Information###
+### Company Information   
 
 NLS is not subject to Civil Service.  This position is covered by a collective bargaining agreement.
 NLS is an equal opportunity employer.
 
 
-### Contact Information###
+### Contact Information   
 
 YSlibrarian@nassaulibrary.org
 

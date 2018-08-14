@@ -6,14 +6,14 @@ excerpt: "The Leo Baeck Institute, located at the Center for Jewish History (15 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Leo Baeck Institute, located at the Center for Jewish History (15 West 16th Street, New York), is seeking a full time German Copy Cataloger.  
 
 The Leo Baeck Institute is devoted to preserving the history of German-speaking Jews. Its 80,000-volume library and extensive archival and art collections represent the most significant repository of primary source material and scholarship on German-speaking Jewish communities. It is one of five partner organizations at the Center for Jewish History. For more information about the Leo Baeck Institute, please visit our website at [http://www.lbi.org](http://www.lbi.org)
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to the Head Librarian, the German Copy Cataloger
 
@@ -25,7 +25,7 @@ Reporting to the Head Librarian, the German Copy Cataloger
 	Provides occasional reference services related to the German-speaking Jewish communities
 
 
-### Qualifications###
+### Qualifications   
 
 	Solid reading knowledge of German 
 	Strong cataloging and technical skills
@@ -48,23 +48,23 @@ Hours
 
 
 
-### Location###
+### Location   
 
 15 West 16th St. New York  NY 10011
 
 
-### URL###
+### URL   
 
 [https://www.lbi.org/](https://www.lbi.org/)
 
-### To Apply###
+### To Apply   
 
 Please send your cover letter and résumé to Ginger Barna, Head Librarian (gbarna@lbi.cjh.org) 
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 Ginger Barna, Head Librarian (gbarna@lbi.cjh.org) 
 

@@ -6,7 +6,7 @@ excerpt: "The Center for Jewish History (NYC | cjh.org) is the collaborative hom
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Center for Jewish History (NYC | cjh.org) is the collaborative home to five in-house partners—American Jewish Historical Society, American Sephardi Federation, Leo Baeck Institute, Yeshiva University Museum, and YIVO Institute for Jewish Research.  When the Center opened its doors eighteen years ago, it made a commitment to preserve the collections housed within its walls and make them accessible to scholars, students, and diverse audiences by implementing a unique, shared services model across all five partners.
 
@@ -17,7 +17,7 @@ The Cataloging and Metadata Librarian will report to the Senior Manager for Meta
 The part-time position offers a competitive hourly rate for up to 25 hours weekly.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Create or enhance existing metadata for digital assets from online catalog and other sources to promote discovery and access to digital assets via an asset management and preservation system.
@@ -38,7 +38,7 @@ The part-time position offers a competitive hourly rate for up to 25 hours weekl
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 
@@ -61,26 +61,26 @@ Preferred Qualifications:
 
 
 
-### Compensation###
+### Compensation   
 
 Competitive hourly rate for up to 25 hours per week.
 
 
-### Location###
+### Location   
 
 New York, New York (10011)
 
 
-### URL###
+### URL   
 
 [https://www.cjh.org/about/employment-opportunities](https://www.cjh.org/about/employment-opportunities)
 
-### To Apply###
+### To Apply   
 
 Review of applications will begin immediately. Applications will be accepted until the position is filled. Send cover letter and resume to Eric Fritzler, Senior Manager for Metadata and Discovery, at eafritzler@cjh.org. No phone calls, please.
 
 
-### Company Information###
+### Company Information   
 
  
 

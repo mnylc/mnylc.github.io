@@ -6,12 +6,12 @@ excerpt: "Over the last few years the The New School Libraries and Archives have
 tag: job
 ---
 
-### Description###
+### Description   
 
 Over the last few years the The New School Libraries and Archives have expanded patron space, extended patron service hours, and developed new services for the access of materials through consortium borrowing. We have been met with great enthusiasm from patrons, and are now looking to expand hours and services. To meet these challenges, we are seeking an Assistant Director for Weekend and Delivery Services. This position will report to the Director of Access and User Services, and provide additional weekend and evening management of New School Library public spaces and Delivery Service operations.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Supervisory Duties
 
@@ -70,7 +70,7 @@ Assessment Duties
 • Expertly uses the Google suite of tools for advanced report writing and submission of quarterly and annual reports
 
 
-### Qualifications###
+### Qualifications   
 
 
 • MLS degree from accredited institution 
@@ -94,21 +94,21 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York City
 
 
-### URL###
+### URL   
 
 [https://careers.newschool.edu/postings/15368](https://careers.newschool.edu/postings/15368)
 
-### To Apply###
+### To Apply   
 
 Please follow posted URL.  
 
 
-### Company Information###
+### Company Information   
 
 The New School Libraries & Archives 
 Access and User Services

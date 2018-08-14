@@ -6,12 +6,12 @@ excerpt: "The Librarian will assist in technical services and in promotional ser
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Librarian will assist in technical services and in promotional services for the library.
 
 
-### Responsibilities###
+### Responsibilities   
 
  Assist Provost with research
  Develops library related tutorials and videos
@@ -22,7 +22,7 @@ The Librarian will assist in technical services and in promotional services for 
  Performs other duties as assigned by supervisors
 
 
-### Qualifications###
+### Qualifications   
 
 Master’s Degree in Library and Information Science from an ALA-accredited 
 institution; Demonstrated experience in web and multimedia technologies, including production tools like Camtasia
@@ -30,21 +30,21 @@ institution; Demonstrated experience in web and multimedia technologies, includi
 
 
 
-### Location###
+### Location   
 
  New York, NY
 
 
-### URL###
+### URL   
 
 www.tourolib.org
 
-### To Apply###
+### To Apply   
 
 Follow this link [https://touro.peopleadmin.com/postings/2813](https://touro.peopleadmin.com/postings/2813)
 
 
-### Company Information###
+### Company Information   
 
 43 West 23rd Street, New York, NY
 

@@ -6,7 +6,7 @@ excerpt: "The Burke Library at Union Theological Seminary seeks an experienced, 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Burke Library at Union Theological Seminary seeks an experienced, energetic professional to serve as Collection Services Librarian. Reporting to the Head of the Burke Library, the Collection Services Librarian engages and collaborates with faculty and students at Union Theological Seminary and in relevant Columbia Departments, Institutes, Centers and programs to build collections in support of research and learning. The Librarian will develop, interpret, manage, and promote the Burke Library's collections, both general and special, as well as Columbia University Libraries' ancient and medieval studies collections with strategic focus on: 1) collaborative collection development at Columbia University (including emerging inter-institutional partnerships and consortia), 2) providing research and instructional support for the library's areas of collection strength, particularly special collections, 3) enterprising development and promotion of digital collections and projects in support of the library's collecting strengths and goals. As part of the Humanities & Global Studies Division, the Librarian will support digital scholarship initiatives and engage technologies emerging as critical to research and teaching in the humanities to meet the evolving needs of faculty, students, and staff. The Librarian will also participate in service programs across the Libraries including research information management and new forms of scholarly communication. 
 
@@ -17,7 +17,7 @@ Columbia University has a longstanding commitment to diversity rooted in values 
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 -MLS or PhD or equivalent  
@@ -36,14 +36,14 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=66506](https://academicjobs.columbia.edu/applicants/Central?quickFind=66506)  
 

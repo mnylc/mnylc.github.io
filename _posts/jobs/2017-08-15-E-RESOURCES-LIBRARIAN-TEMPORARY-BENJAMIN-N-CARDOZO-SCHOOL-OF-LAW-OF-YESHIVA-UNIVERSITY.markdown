@@ -9,7 +9,7 @@ This position will work collaboratively with library colleagues on a variety of 
 tag: job
 ---
 
-### Description###
+### Description   
 
  
 The Position:
@@ -17,7 +17,7 @@ The Position:
 This position will work collaboratively with library colleagues on a variety of workflow issues, assignments, and projects. Assist with technology projects related to the website, LibGuides, and other library systems. Depending on experience, possible reference hours to assist law students and faculty.
 
 
-### Responsibilities###
+### Responsibilities   
 
 e-Resources and Systems Projects:
 Assist library staff with projects, including updating research guides and the Library website using the LibGuides format
@@ -30,7 +30,7 @@ Consult with the librarians and staff on projects and in completing daily takes
 Perform other duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 Experience and Educational Background:
 M.L.S. or substantial completion of M.L.S. is required
@@ -47,21 +47,21 @@ Ability to work in an atmosphere of collaboration and team work
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://cardozo.yu.edu/](https://cardozo.yu.edu/)
 
-### To Apply###
+### To Apply   
 
 Apply online: [https://careers-yeshiva.icims.com/jobs/9846/e-resources-librarian-%28temporary%29/job](https://careers-yeshiva.icims.com/jobs/9846/e-resources-librarian-%28temporary%29/job)
 
 
-### Company Information###
+### Company Information   
 
 Benjamin N. Cardozo School of Law, founded in 1976 and named for an eminent Supreme Court Justice, is now firmly established as an international and national leader in legal education. The School’s curriculum balances rigorous scholarship and research with experiential learning opportunities which include extensive clinical programs.  Given its prime location in the heart of NYC’s Greenwich Village, Cardozo also offers a vibrant learning environment, with significant opportunities for students to gain legal experience through internships and summer positions with a broad array of legal employers
  

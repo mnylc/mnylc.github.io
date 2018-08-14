@@ -6,7 +6,7 @@ excerpt: "Long Island Business Institute seeks a full-time Librarian for its Man
 tag: job
 ---
 
-### Description###
+### Description   
 
 Long Island Business Institute seeks a full-time Librarian for its Manhattan Campus located at 232 W. 40th Street New York, NY 10018. 
 The College Librarian provides vision and leadership in planning and managing the campus library. The incumbent provides academic and administrative support to the students, faculty and staff at the campus. The position is responsible for coordinating, planning, implementation, and evaluation of the services provided by the library.  
@@ -14,12 +14,12 @@ Minimum of 5 years of Library experience highly preferred.
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The College Librarian provides vision and leadership in planning and managing the campus library. The incumbent provides academic and administrative support to the students, faculty and staff at the campus. The position is responsible for coordinating, planning, implementation, and evaluation of the services provided by the library.  
 
 
-### Qualifications###
+### Qualifications   
 
 Must demonstrate a thorough and accurate knowledge of the field, information science and emerging technologies.
 Excellent written and verbal skills. 
@@ -30,23 +30,23 @@ Demonstrated experience using online catalogs, electronic databases, and interne
 
 
 
-### Location###
+### Location   
 
 Manhattan 232 W. 40th Street New York, NY 10018
 
 
-### URL###
+### URL   
 
 www.libi.edu
 
-### To Apply###
+### To Apply   
 
 collegejobsnyc@gmail.com
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 collegejobsnyc@gmail.com
 

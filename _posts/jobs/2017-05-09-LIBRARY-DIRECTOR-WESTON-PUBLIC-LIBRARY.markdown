@@ -6,7 +6,7 @@ excerpt: "The Town of Weston seeks an energetic, talented, and thoughtful leader
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Town of Weston seeks an energetic, talented, and thoughtful leader to become its next Library Director. A town of 10,200, Weston is a sophisticated, safe, bucolic town with an exceptional school system. Located in Fairfield County, Weston is about an hour from New York City. Our community library has dedicated staff, an engaged board and a committed circle of Friends to expand on our tradition of excellent service. 
 
@@ -18,12 +18,12 @@ The department’s budget is approximately $476,000. The Library Director superv
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 see Job Description at [http://www.westonpubliclibrary.org/main/wp-content/uploads/Library-Director-Job-Description-approved-5-4-17.pdf](http://www.westonpubliclibrary.org/main/wp-content/uploads/Library-Director-Job-Description-approved-5-4-17.pdf)
 
 
-### Qualifications###
+### Qualifications   
 
 The position requires the following qualifications: a Master of Library Science degree from an accredited university; at least five years of increasingly responsible professional library experience, including at least three years in a supervisory position in a public library; or an equivalent combination of education, work experience and training.
 
@@ -31,21 +31,21 @@ High energy and a bias for creativity and innovation are a plus, as well as exce
 
 
 
-### Compensation###
+### Compensation   
 
 The budgeted salary is $85,273. The Town offers a generous employee benefits package consisting of a retirement plan, health and dental insurance, life insurance, vacation and sick leave. 
 
 
-### Location###
+### Location   
 
 Weston Public Library, Weston, CT
 
 
-### URL###
+### URL   
 
 [http://www.westonpubliclibrary.org/library-director-search/](http://www.westonpubliclibrary.org/library-director-search/)
 
-### To Apply###
+### To Apply   
 
 The deadline to apply for the position is June 2, 2017.  Selected candidates should expect first interviews to take place on the morning of Saturday, June 10, 2017 and/or the evening of Tuesday, June 13, 2017. The final round of interviews is anticipated to take place on Monday, June 19, 2017 and/or Tuesday, June 20, 2017.  Employment with the Town of Weston is subject to a background check.
 
@@ -53,13 +53,13 @@ To apply, applicants must submit the following items via email to chris.libraryc
 
 
 
-### Company Information###
+### Company Information   
 
 
 56 Norfield Road, Weston, CT 06883
 
 
-### Contact Information###
+### Contact Information   
 
 For information contact Christina Nolan at chris.libraryconsultant@gmaIL.COM
 

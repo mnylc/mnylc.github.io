@@ -6,7 +6,7 @@ excerpt: "SUNY Old Westbury is a dynamic and diverse public liberal arts college
 tag: job
 ---
 
-### Description###
+### Description   
 
 SUNY Old Westbury is a dynamic and diverse public liberal arts college that fosters academic excellence through close interaction among students, faculty and staff. Old Westbury weaves the values of integrity, community engagement, and global citizenship into the fabric of its academic programs and campus life. In an environment that cultivates critical thinking, empathy, creativity and intercultural understanding, we endeavor to stimulate a passion for learning and a commitment to building a more just and sustainable world. The College is a community of students, teachers, staff, and alumni bound together in mutual support, respect, and dedication to the Mission.
 
@@ -82,16 +82,16 @@ We encourage protected veterans, individuals with disabilities, women and minori
 
 
 
-### Location###
+### Location   
 
 Old Westbury, NY
 
 
-### URL###
+### URL   
 
 [https://oldwestbury.interviewexchange.com/jobofferdetails.jsp?JOBID=86699](https://oldwestbury.interviewexchange.com/jobofferdetails.jsp?JOBID=86699)
 
-### To Apply###
+### To Apply   
 
 A cover letter with a resume and contact information for three (3) references should be submitted online at:  [https://oldwestbury.interviewexchange.com](https://oldwestbury.interviewexchange.com)
 

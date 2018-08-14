@@ -6,7 +6,7 @@ excerpt: "Overview: As the Chief Executive Officer, the Executive Director is re
 tag: job
 ---
 
-### Description###
+### Description   
 
 Overview:
 As the Chief Executive Officer, the Executive Director is responsible for all aspects of the operation of LILRC in accordance with NYS Education Law, regulations of the NYS Commissioner of Education, applicable federal law, LILRC bylaws and policies. The Executive Director oversees an annual budget of
@@ -46,7 +46,7 @@ national research and library organizations.
 
 
 
-### Qualifications###
+### Qualifications   
 
 State Requirements:
  ALA-accredited MLS Degree.
@@ -73,24 +73,24 @@ service to the profession.
  Prior experience as director of a library system or library preferred.
 
 
-### Compensation###
+### Compensation   
 
 Minimum starting salary: $135,000 commensurate with experience and qualifications. Benefits include: social security; retirement (TIAA-CREF); health, dental and unemployment insurance; disability and worker’s compensation; sick leave; vacation time, and a vehicle allowance.
 
 
-### Location###
+### Location   
 
 Bellport, New York
 
 
 
 
-### To Apply###
+### To Apply   
 
 Email your resume and cover letter that specifically addresses the requirements and responsibilities of this position, in PDF format, to lilrcsearch@suffolknet.org with “Executive Director” in the subject line. Application deadline: November 17, 2017. 
 
 
-### Company Information###
+### Company Information   
 
 The Long Island Library Resources Council is one of New York’s nine Reference and Research Library Resources Systems. As a regional multi-type library organization serving academic, special, public, school libraries and library systems in Nassau and Suffolk counties, its purpose is to enhance access to information, encourage resource sharing, and promote library interests for all LILRC members. LILRC is primarily state funded. LILRC’s website: www.lilrc.org.
 

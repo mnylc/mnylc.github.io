@@ -6,7 +6,7 @@ excerpt: "Columbia University Libraries seeks an energetic, creative, and collab
 tag: job
 ---
 
-### Description###
+### Description   
 
 Columbia University Libraries seeks an energetic, creative, and collaborative individual for the position of Public Services Archivist. Reporting to the Curator of Drawings & Archives, the Public Services Archivist oversees all aspects of public services in the Avery Library's department of Drawings & Archives whose holdings include more than 2.5 million architectural drawings and records of pre-eminent American architects, including the expansive Frank Lloyd Wright Foundation Archives. The incumbent is responsible for reference and reader services, collection security, vault storage paging and re-filing, reading room staffing and supervision. The incumbent supports Avery Drawings & Archives course-integrated instruction and public programming. The incumbent contributes to processing and re-housing archival/drawing collections including creation of EAD finding aids and collection-level MARC records. 
 
@@ -20,7 +20,7 @@ Columbia University is an Equal Opportunity/Affirmative Action Employer and stro
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Degree Required:
 MLS or PhD or equivalent 
@@ -54,14 +54,14 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=66111](https://academicjobs.columbia.edu/applicants/Central?quickFind=66111)
 

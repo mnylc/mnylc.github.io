@@ -7,13 +7,13 @@ excerpt: "We are seeking a creative, detail oriented, public service focused lib
 tag: job
 ---
 
-### Description###
+### Description   
 
 We are seeking a creative, detail oriented, public service focused librarian with excellent communication and customer service skills for a very active, culturally diverse library in a highly educated community.
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities will include database searching, computer assistance, resource selection and collection development,  book discussions and book displays.
 Enthusiasm and Expertise in Reference and Readers’ Advisory services; Knowledge of First Search, Microsoft Word and Excel necessary.
@@ -21,7 +21,7 @@ Enthusiasm and Expertise in Reference and Readers’ Advisory services; Knowledg
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 MLS or MLIS from ALA accredited institution
@@ -29,33 +29,33 @@ NYS Public Librarian’s Professional Certificate required at time of employment
 
 
 
-### Compensation###
+### Compensation   
 
 Starting salary - $26.41 per hour
 
 
-### Location###
+### Location   
 
 Great Neck, New York
 
 
-### URL###
+### URL   
 
 [https://www.greatnecklibrary.org/libinfo/jobs.php](https://www.greatnecklibrary.org/libinfo/jobs.php)
 
-### To Apply###
+### To Apply   
 
 Reply with cover letter, resume via email by May 9, 2018, 2018:
 employment@greatnecklibrary.org
 
 
 
-### Company Information###
+### Company Information   
 
 [https://www.greatnecklibrary.org/](https://www.greatnecklibrary.org/)
 
 
-### Contact Information###
+### Contact Information   
 
 employment@greatnecklibrary.org
 

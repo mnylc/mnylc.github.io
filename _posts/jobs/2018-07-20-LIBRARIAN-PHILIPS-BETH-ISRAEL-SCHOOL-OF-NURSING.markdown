@@ -6,7 +6,7 @@ excerpt: "Role Summary: The Phillips Beth Israel School of Nursing is seeking a 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Role Summary: 
 
@@ -14,7 +14,7 @@ The Phillips Beth Israel School of Nursing is seeking a dynamic candidate to lea
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Core Duties and Responsibilities:
 
@@ -38,7 +38,7 @@ Core Duties and Responsibilities:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Requirements:
 
@@ -70,21 +70,21 @@ Desired:
 
 
 
-### Location###
+### Location   
 
 New York, NY .
 
 
-### URL###
+### URL   
 
 [http://www.mountsinai.org/locations/beth-israel/pson](http://www.mountsinai.org/locations/beth-israel/pson) 
 
-### To Apply###
+### To Apply   
 
 Please send cover letter and CV to Rachel Pinotti, Assistant Library Director, Education & Research Services Rachel.Pinotti@mssm.edu
 
 
-### Company Information###
+### Company Information   
 
 About the Philips School of Nursing 
 
@@ -96,7 +96,7 @@ Founded in 1904, Phillips School of Nursing (PSON) is dedicated to providing an 
 
 
 
-### Contact Information###
+### Contact Information   
 
 
 Rachel.Pinotti@mssm.edu

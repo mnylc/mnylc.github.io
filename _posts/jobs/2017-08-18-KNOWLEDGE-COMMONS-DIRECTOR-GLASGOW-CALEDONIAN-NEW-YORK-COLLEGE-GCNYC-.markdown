@@ -6,7 +6,7 @@ excerpt: "Knowledge Commons Director Part Time opportunity – 20 hours per week
 tag: job
 ---
 
-### Description###
+### Description   
 
 Knowledge Commons Director	
 Part Time opportunity – 20 hours per week number of days negotiable, willingness to work afternoons and weekends preferred 
@@ -38,12 +38,12 @@ The initial review of applications will begin on 31 August 2017, applications wi
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 An exciting opportunity has arisen to join our faculty in GCNYC as a Knowledge Commons Director.   The successful applicant will join the team at the start to set up a professional library and information commons service to students, researchers and academic staff.  This will be key to enabling GCNYC to deliver a range of activities to support student learning and the student experience going forward. As GCNYC is a new college and in start-up mode, candidates willing to assist in and contribute to other functions such as student services and campus operations are preferred.
 
 
-### Qualifications###
+### Qualifications   
 
 We are looking for applicants who hold a relevant degree or are able to demonstrate substantial relevant experience in an academic or equivalent library service.
 
@@ -55,26 +55,26 @@ Candidates should have experience in and be confident at teaching and presenting
 
 
 
-### Location###
+### Location   
 
 New York
 
 
-### URL###
+### URL   
 
 [http://www.gcnyc.com/contact/workwithus/](http://www.gcnyc.com/contact/workwithus/) 
 
-### To Apply###
+### To Apply   
 
 [http://www.gcnyc.com/contact/workwithus/](http://www.gcnyc.com/contact/workwithus/) 
 
 
-### Company Information###
+### Company Information   
 
 recruitment@gcu.ac.uk
 
 
-### Contact Information###
+### Contact Information   
 
 recruitment@gcu.ac.uk
 

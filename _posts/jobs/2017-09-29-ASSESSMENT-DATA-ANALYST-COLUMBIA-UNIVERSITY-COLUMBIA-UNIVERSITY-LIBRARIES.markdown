@@ -6,14 +6,14 @@ excerpt: "The Columbia University Libraries invites nominations and applications
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Columbia University Libraries invites nominations and applications for the Assessment Data Analyst.
 
 Reporting to the Associate Director of Assessment and Analytics, the Assessment Data Analyst will provide support for and participate in assessment and analytics efforts across Columbia University Libraries; The incumbent will support the collection, verification, maintenance, analysis, and documentation of assessment and analytics data; contribute to an evidence-based approach to achieving strategic initiatives related to library operations and user needs; develop, produce, and disseminate annual and ad hoc reports; promote data transparency and awareness across the Libraries; He/she will coordinate and support colleagues engaged in assessment work. The incumbent will work with staff across the Libraries to employ assessment measures and data analysis tools and methodologies effectively. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 RESPONSIBILITIES:
 - Analyze quantitative and qualitative data for trends, patterns, and projections, and synthesize data for presentation to the Libraries' Leadership team to facilitate decision-making, and support operational planning and strategic initiatives. 
@@ -25,7 +25,7 @@ RESPONSIBILITIES:
 - Perform other related duties as assigned or required to meet the Libraries and the University goals and objectives. 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 - Bachelor's degree in statistics, data science, or a related field with strong background in statistical analysis. 
@@ -47,28 +47,28 @@ Preferred Qualifications:
 - Competence with a variety of technologies and applications; willingness to explore the use of new technology in support of effectively achieving goals, with a high risk tolerance for failure and iterative improvement.  
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience.
 
 
-### Location###
+### Location   
 
 New York/New York, NY, USA
 
 
-### URL###
+### URL   
 
 [https://jobs.columbia.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1506708118171](https://jobs.columbia.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1506708118171)
 
-### To Apply###
+### To Apply   
 
 To learn more and to apply, please click the link below
 
 [https://jobs.columbia.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1506708118171](https://jobs.columbia.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1506708118171)
 
 
-### Company Information###
+### Company Information   
 
 Columbia University Libraries is one of the top five academic research library systems in North America. The collections include over 13 million volumes, over 160,000 journals and serials, as well as extensive electronic resources, manuscripts, rare books, microforms, maps, and graphic and audio-visual materials. The Libraries employs more than 400 professional and support staff and hosts over 4.7 million visitors each year.  The website of the Libraries is the gateway to its services and resources: library.columbia.edu.
 

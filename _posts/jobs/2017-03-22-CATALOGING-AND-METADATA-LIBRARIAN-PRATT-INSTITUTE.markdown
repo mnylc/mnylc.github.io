@@ -6,14 +6,14 @@ excerpt: "Under the general supervision of the Director of Libraries, and routin
 tag: job
 ---
 
-### Description###
+### Description   
 
 Under the general supervision of the Director of Libraries, and routine day-to-day collaboration with the Head of Technical Services, the incumbent will manage the creation and enrichment of metadata representing Pratt Institute Libraries’ digital, physical, and virtual collections. The position is responsible for performing the work related to metadata and cataloging, and for establishing best practices, standards, and metadata creation procedures.  The Cataloging & Metadata Librarian will routinely create original cataloging of print/digital materials in a variety of formats in a mixed RDA/AACR2 environment using the MARC standard and is expected to work with other metadata standards and schemas (e.g. BIBFRAME, EAD, VRA Core) as the need arises. The position performs subject analysis and classification using LCSH and Dewey Decimal Classification and is expected to work with other thesauri and organizational systems when the need arises. The incumbent is responsible for initiating and managing authority control, metadata quality control, and bibliographic database problem resolution to ensure metadata and authority records meet local and professional standards. The position also plays a regular role in collection development, providing reference desk coverage and participates directly in the provision of library instruction and information sessions. Some evening hours may be required. 
 
 The Cataloging and Metadata Librarian is a 12-month per year, full-time, tenure-track faculty position at the Assistant Professor rank.
 
 
-### Responsibilities###
+### Responsibilities   
 
 - Perform original, complex, and copy cataloging of materials for all collections and in all formats (primarily monographs, serials, CDs, DVDs, artists’ books, and electronic resources). Provide quality control of cataloging, including making corrections to description, subject analysis, classification, and authority information ensuring that cataloging complies with required local and national standards. Maintain departmental statistics.
 - Work with the Head of Technical Services in setting metadata standards and maintaining cataloging guidelines for serials, monographs, and electronic resources.
@@ -29,7 +29,7 @@ Serve on library and institute-wide committees
 - Perform other duties and special projects as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 Education:
  
@@ -52,16 +52,16 @@ Must also have strong interpersonal skills, with the ability to effectively enga
 
 
 
-### Location###
+### Location   
 
 Brooklyn, NY
 
 
-### URL###
+### URL   
 
 [http://tinyurl.com/hqcfrex](http://tinyurl.com/hqcfrex)
 
-### To Apply###
+### To Apply   
 
 Please submit your cover letter, CV, and the names and contact information for three professional references via our internal application site at [http://tinyurl.com/hqcfrex](http://tinyurl.com/hqcfrex)
   
@@ -71,7 +71,7 @@ PRATT INSTITUTE IS AN EQUAL OPPORTUNITY EMPLOYER AND RECOGNIZES AND VALUES THE B
 
 
 
-### Company Information###
+### Company Information   
 
 Pratt Institute
 200 Willoughby Ave
@@ -79,7 +79,7 @@ Brooklyn New York 11205
 United States
 
 
-### Contact Information###
+### Contact Information   
 
 Amy Hecht
 Phone: (718) 636-3878

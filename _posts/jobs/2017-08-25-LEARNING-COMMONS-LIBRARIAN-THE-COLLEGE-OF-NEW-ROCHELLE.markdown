@@ -6,12 +6,12 @@ excerpt: "Gill Library at The College of New Rochelle invites applications for a
 tag: job
 ---
 
-### Description###
+### Description   
 
 Gill Library at The College of New Rochelle invites applications for a Learning Commons Librarian at our Rosa Parks Campus in Harlem. This full-time, one year, FIPSE grant-funded position is available immediately. Reporting to the Dean of the Library, the Learning Commons Librarian will work with library colleagues and campus-wide partners to implement and maintain strategic and operative plans for the Gill Library Learning Commons. With a welcoming virtual and physical presence, the Library Learning Commons will provide a space for students to gain and practice skills vital to academic success.  The Learning Commons Librarian explore innovative ways of providing research, information, and digital literacy instruction across campus and be eager to collaborate with other librarians, faculty, students and staff to foster student success. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Participate in the design and implementation of programs, initiatives, and outreach activities at the library learning commons, college, and beyond.  
@@ -36,7 +36,7 @@ Gill Library at The College of New Rochelle invites applications for a Learning 
 
 
 
-### Qualifications###
+### Qualifications   
 
 Qualifications
 Minimum Qualifications:
@@ -46,21 +46,21 @@ Previous experience in a learning/information commons environment; familiarity w
 
 
 
-### Compensation###
+### Compensation   
 
 $60,000/year
 
 
-### Location###
+### Location   
 
 144 West 125th Street, New York, NY 10027
 
 
-### URL###
+### URL   
 
 [http://www.cnr.edu/web/school-of-new-resources/rosa-parks-campus-harlem](http://www.cnr.edu/web/school-of-new-resources/rosa-parks-campus-harlem)
 
-### To Apply###
+### To Apply   
 
 To apply, please send one PDF attachment, that includes letter of interest (addressed to Dean Ana E. Fontoura), C.V., and the contact information for three references who can speak to your professional qualifications, to:
 Ms. Brunie Lopez
@@ -74,7 +74,7 @@ This position is subject to successful completion of background checks.
 
 
 
-### Company Information###
+### Company Information   
 
 The College of New Rochelle is a Catholic college in the Ursuline tradition and we welcome applicants from all backgrounds who can contribute to our unique educational mission.  To learn more about the College, please visit our website at: www.cnr.edu. 
 

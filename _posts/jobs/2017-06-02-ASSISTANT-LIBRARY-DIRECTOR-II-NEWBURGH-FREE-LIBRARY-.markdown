@@ -6,12 +6,12 @@ excerpt: "The Newburgh Free Library at 124 Grand Street, Newburgh, NY, is seekin
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Newburgh Free Library at 124 Grand Street, Newburgh, NY, is seeking the right candidate for Assistant Library Director. Illustrative tasks and details about how to apply for the position are included below. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 General Statement of Duties:
 
@@ -40,7 +40,7 @@ This position is a competitive Civil Service position and is classified as Confi
 
 
 
-### Qualifications###
+### Qualifications   
 
 1.  Master’s Degree in Library and Information Sciences
 2.  At least 3-5 years experience in a Public Library Setting
@@ -49,16 +49,16 @@ This position is a competitive Civil Service position and is classified as Confi
 
 
 
-### Location###
+### Location   
 
 124 Grand Street, Newburgh, NY
 
 
-### URL###
+### URL   
 
 www.newburghlibrary.org
 
-### To Apply###
+### To Apply   
 
 To apply, go to www.newburghschools.org, click on the “Departments” tab, drop down to “Human Resources & Employment Department” and see the posting for Assistant Library Director II.
 Applicants must have a completed application on file and submit a letter of interest (template found on web site) to:  
@@ -70,12 +70,12 @@ All replies must be received in the Office of Human Resources by 4PM on June 12,
 
 
 
-### Company Information###
+### Company Information   
 
 124 Grand Street, Newburgh, NY; 845-563-3600
 
 
-### Contact Information###
+### Contact Information   
 
 For further information about the position, contact Human Resources at 845-563-3460.
 

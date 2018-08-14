@@ -6,7 +6,7 @@ excerpt: "ST. JOHN’S UNIVERISTY SCHOOL OF LAW invites applications for the pos
 tag: job
 ---
 
-### Description###
+### Description   
 
 ST. JOHN’S UNIVERISTY SCHOOL OF LAW invites applications for the position of Associate Dean for Library Services and Associate Professor of Legal Research, serving a faculty of 42 and approximately 800 law students. 
 
@@ -30,26 +30,26 @@ Candidates should submit no later than May 1, 2018, a cover letter, resume, and 
 
 
 
-### Location###
+### Location   
 
 Queens, NY 11439
 
 
-### URL###
+### URL   
 
 www.stjohns.edu
 
-### To Apply###
+### To Apply   
 
 lawfac@stjohns.edu
 
 
-### Company Information###
+### Company Information   
 
 8000 Utopia Parkway, Queens, NY 11439
 
 
-### Contact Information###
+### Contact Information   
 
 lawfac@stjohns.edu
 

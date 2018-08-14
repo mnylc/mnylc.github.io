@@ -6,7 +6,7 @@ excerpt: "Job Details: Memorial Sloan Kettering Cancer Center is the world’s o
 tag: job
 ---
 
-### Description###
+### Description   
 
 Job Details:
 
@@ -21,7 +21,7 @@ A person who is passionate about delivering quality information
 A professional, collaborative team player
 
 
-### Responsibilities###
+### Responsibilities   
 
 You will:
 Manage 5+ staff which includes professional librarians as well as contractors and interns (when needed). Carries out administrative duties including salary planning, annual reviews, and career development
@@ -31,7 +31,7 @@ Oversee the marketing and communication function of the library, develops and dr
 Leader and key participant on library project teams
 
 
-### Qualifications###
+### Qualifications   
 
 You have:
 Master’s degree in Library Science from an ALA accredited program required
@@ -45,21 +45,21 @@ Experience using emerging technologies for metadata management and delivery
 Knowledge of discovery tools, metadata practices supporting discovery, and applying controlled vocabularies and ontologies specifically in a library context
 
 
-### Compensation###
+### Compensation   
 
 Competitive 
 
 
-### Location###
+### Location   
 
 New York, NYC 10065
 
 
-### URL###
+### URL   
 
 [http://careers.mskcc.org/job/5038708/associate-librarian-user-services-new-york-ny/](http://careers.mskcc.org/job/5038708/associate-librarian-user-services-new-york-ny/)
 
-### To Apply###
+### To Apply   
 
 Please apply online
  [http://careers.mskcc.org/job/5038708/associate-librarian-user-services-new-york-ny/](http://careers.mskcc.org/job/5038708/associate-librarian-user-services-new-york-ny/)
@@ -67,7 +67,7 @@ Please apply online
 
 
 
-### Contact Information###
+### Contact Information   
 
 Christine Watts wattsc1@mskcc.org
 

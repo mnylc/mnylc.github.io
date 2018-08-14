@@ -6,7 +6,7 @@ excerpt: "POSITION SUMMARY: Under the general supervision of the Chair of Librar
 tag: job
 ---
 
-### Description###
+### Description   
 
 POSITION SUMMARY:
 
@@ -15,7 +15,7 @@ The Electronic Resources Librarian is a 12-month per year, full-time, tenure-tra
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 POSITION RESPONSIBILITIES:
 
@@ -70,7 +70,7 @@ Perform faculty related service within the Libraries and for the Institute:
 
 
 
-### Qualifications###
+### Qualifications   
 
 QUALIFICATIONS:
 
@@ -104,21 +104,21 @@ Other
 
 
 
-### Compensation###
+### Compensation   
 
 SALARY range is mid $60,000s annually, commensurate with experience and qualifications.
 
 
-### Location###
+### Location   
 
 Brooklyn, New York, USA
 
 
-### URL###
+### URL   
 
 [https://tinyurl.com/y97hjxf4](https://tinyurl.com/y97hjxf4)
 
-### To Apply###
+### To Apply   
 
 TO APPLY:
 
@@ -132,7 +132,7 @@ PRATT INSTITUTE IS AN EQUAL OPPORTUNITY EMPLOYER AND RECOGNIZES AND VALUES THE B
 
 
 
-### Company Information###
+### Company Information   
 
 200 Willoughby Avenue, Brooklyn NY 11205 
 

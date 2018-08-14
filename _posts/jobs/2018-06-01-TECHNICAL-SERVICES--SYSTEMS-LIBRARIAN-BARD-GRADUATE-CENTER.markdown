@@ -6,12 +6,12 @@ excerpt: "Reporting to the Director of the Library at the Bard Graduate Center, 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Director of the Library at the Bard Graduate Center, and working closely with other library staff, the Technical Services and Systems Librarian is a full-time staff position that oversees all aspects of technical services and database systems that support library functions.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Discovery and Access
 ●	Manages the implementation, ongoing development, and maintenance of the library’s discovery tool, Folio. Works across departments and collaborates with outside developers to customize tools and ensure continued development.
@@ -45,7 +45,7 @@ Intermittent Responsibilities
 
 
 
-### Qualifications###
+### Qualifications   
 
 ●	ALA-accredited MLS with at least 2 years of professional experience
 ●	Thorough knowledge of cataloging principles and procedures including AACR2/RDA, USMARC formats, LCSH, authority control, and LC classification.
@@ -58,21 +58,21 @@ Intermittent Responsibilities
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://www.bgc.bard.edu/about/5/careers](https://www.bgc.bard.edu/about/5/careers)
 
-### To Apply###
+### To Apply   
 
 tssl@bgc.bard.edu
 
 
-### Company Information###
+### Company Information   
 
 Bard Graduate Center Library
 38 West 86th Street

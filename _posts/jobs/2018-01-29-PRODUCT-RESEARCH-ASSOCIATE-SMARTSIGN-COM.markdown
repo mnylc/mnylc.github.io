@@ -6,7 +6,7 @@ excerpt: "About Us Located in Brooklyn New York, SmartSign is committed to makin
 tag: job
 ---
 
-### Description###
+### Description   
 
 About Us
 Located in Brooklyn New York, SmartSign is committed to making signs that ensure the protection, respect and safety of others.  Internet Retailer ranks us as #428 in sales in the US. We have experienced consistent growth and profits since our founding almost 20 years ago.
@@ -19,7 +19,7 @@ SmartSign is an equal opportunity employer and encourages individuals from all t
 Compensation depends on experience. Benefits include biannual bonuses, health insurance, 401(k) plan matching, paid time off, company events, sports tickets and monthly celebratory free lunches!
 
 
-### Responsibilities###
+### Responsibilities   
 
 Research and track regulatory changes in federal, state, local and industry codes impacting signs and labels; design new signs based on regulatory research; write and help design interpretive posters and signs; work with our art team to develop infographics based on research; manage several product page websites along with team of writers and freelancers; fulfill research requests from product managers and call service inquiries.
 
@@ -35,21 +35,21 @@ Once a question is answered by you or your team, the next steps are to work with
 
 
 
-### Qualifications###
+### Qualifications   
 
 Masters in Library and/or Information Science or paralegal experience is recommended. We have a soft spot for writers with a liberal arts background.  Recent graduates as well as individuals with several years of experience are encouraged to apply. As this position is fairly new, there is room to create your own expectations for its role. Having the capability to remain flexible in job responsibilities is a must for this position.  You do not need to have background in our business, just a commitment to use your information research and people skills, energy and smarts to help us build an exciting business.
 
 
 
 
-### Location###
+### Location   
 
 Brooklyn, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Send cover letter and resume to Scott Davies, scott@smartsign.com
 

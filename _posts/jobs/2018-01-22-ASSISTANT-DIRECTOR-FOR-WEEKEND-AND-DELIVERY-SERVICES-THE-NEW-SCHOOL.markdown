@@ -6,12 +6,12 @@ excerpt: "Over the last few years the The New School Libraries and Archives have
 tag: job
 ---
 
-### Description###
+### Description   
 
 Over the last few years the The New School Libraries and Archives have expanded patron space, extended patron service hours, and developed new services for the access of materials through consortium borrowing. We have been met with great enthusiasm from patrons, and are now looking to expand hours and services. To meet these challenges, we are seeking an Assistant Director for Weekend and Delivery Services. This position will report to the Director of Access and User Services, and provide additional weekend and evening management of New School Library public spaces and Delivery Service operations.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Supervisory Duties
 
@@ -70,7 +70,7 @@ Assessment Duties
 • Expertly uses the Google suite of tools for advanced report writing and submission of quarterly and annual reports
 
 
-### Qualifications###
+### Qualifications   
 
 
 • MLS degree from accredited institution
@@ -84,21 +84,21 @@ Assessment Duties
 • Strong interpersonal, oral, and written communication skills
 
 
-### Compensation###
+### Compensation   
 
 TBD
 
 
-### Location###
+### Location   
 
 New York City
 
 
-### URL###
+### URL   
 
 [https://careers.newschool.edu/postings/15309](https://careers.newschool.edu/postings/15309)
 
-### To Apply###
+### To Apply   
 
 In addition to a dynamic and progressive work environment, The New School offers a competitive benefits package, including medical and dental insurance, retirement plans, flexible spending accounts and a tuition waiver. We encourage a healthy work/life balance and offer employee assistance services, health and well-being programs and over four weeks of vacation time per year.
 
@@ -109,12 +109,12 @@ Apply with us and discover the rewards and opportunities in working for a world-
 Interested candidates must apply online at: [https://careers.newschool.edu/postings/15309](https://careers.newschool.edu/postings/15309)
 
 
-### Company Information###
+### Company Information   
 
 The New School, 72 5th Ave, New York, NY 10011
 
 
-### Contact Information###
+### Contact Information   
 
 Sarah Buckley, Talent Specialist, 2122295671 x 6907
 

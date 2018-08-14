@@ -6,12 +6,12 @@ excerpt: "The Ursula C. Schwerin Library, New York City College of Technology, C
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Ursula C. Schwerin Library, New York City College of Technology, CUNY, seeks a tenure-track library faculty member at the Instructor or Assistant Professor rank to serve as Collections Management Librarian. The successful candidate will coordinate collection development and acquisitions, including planning, budgeting, and assessment, for library materials in all formats, and oversee the collections activities of library subject specialists. The Collections Management Librarian will also offer reference service and be responsible for designated areas of collection development. All members of the library faculty must maintain a record of excellence in librarianship, scholarly achievement, and service. The Ursula C. Schwerin Library is committed to enhancing our multicultural and diverse academic community by actively encouraging people with disabilities, minorities, veterans, and women to apply. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Collections Management Librarian will:
 
@@ -30,7 +30,7 @@ The Collections Management Librarian will:
 - Perform other duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 REQUIRED QUALIFICATIONS 
 
@@ -53,21 +53,21 @@ PREFERRED QUALIFICATIONS
 - Familiarity with Aleph and OCLC
 
 
-### Compensation###
+### Compensation   
 
 $43,503-$81,855
 
 
-### Location###
+### Location   
 
 Brooklyn, NY, USA
 
 
-### URL###
+### URL   
 
 [http://library.citytech.cuny.edu](http://library.citytech.cuny.edu)
 
-### To Apply###
+### To Apply   
 
 Candidates should provide a cover letter, CV, statement of scholarly interests, and contact information for three references as one document.
 
@@ -75,7 +75,7 @@ You can view and apply for this job at:
 [https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=17072&SiteId=1&PostingSeq=1](https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=17072&SiteId=1&PostingSeq=1)
 
 
-### Company Information###
+### Company Information   
 
 New York City College of Technology (City Tech), City University of New York, is the largest public baccalaureate college of technology in the Northeast. The college awards both associate and baccalaureate degrees that allow graduates to pursue careers in the architectural and engineering technologies, the computer, entertainment, and health professions, human services, advertising and publishing, hospitality, business, and law-related professions, as well as programs in career and technical teacher education.
 

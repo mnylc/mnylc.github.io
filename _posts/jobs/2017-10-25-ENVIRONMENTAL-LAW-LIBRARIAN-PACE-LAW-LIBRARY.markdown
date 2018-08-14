@@ -6,12 +6,12 @@ excerpt: "The environmental law librarian provides reference service to member o
 tag: job
 ---
 
-### Description###
+### Description   
 
 The environmental law librarian provides reference service to member of the Pace community, and serves as a liaison to the environmental law program.
 
 
-### Responsibilities###
+### Responsibilities   
 
 1. Provide reference service to members of the Pace community and other library patrons 
 2. Provide research services to Pace Law School environmental faculty 
@@ -21,7 +21,7 @@ The environmental law librarian provides reference service to member of the Pace
 6. Participate in library administration  
 
 
-### Qualifications###
+### Qualifications   
 
 1. A.L.A.- accredited M.L.S. 
 2. A.B.A.- accredited J.D 
@@ -36,21 +36,21 @@ The environmental law librarian provides reference service to member of the Pace
 
 
 
-### Location###
+### Location   
 
 White Plains, NY, USA
 
 
-### URL###
+### URL   
 
 [https://careers.pace.edu/applicants/Central?quickFind=57245](https://careers.pace.edu/applicants/Central?quickFind=57245)
 
-### To Apply###
+### To Apply   
 
 Use the URL above to apply. Your cover letter should address the specific requirements of the position.  
 
 
-### Company Information###
+### Company Information   
 
 Pace Law Library, 78 North Broadway, White Plains, NY 10603
 

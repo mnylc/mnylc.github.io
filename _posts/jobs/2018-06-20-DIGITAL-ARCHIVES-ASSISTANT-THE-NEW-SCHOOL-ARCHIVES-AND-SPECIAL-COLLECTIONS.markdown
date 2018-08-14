@@ -6,7 +6,7 @@ excerpt: "The New School Archives and Special Collections (the Archives) seeks a
 tag: job
 ---
 
-### Description###
+### Description   
 
 The New School Archives and Special Collections (the Archives) seeks an enthusiastic, tech-savvy and self-motivated Digital Archives Assistant (DAA) to report to the Assistant Director for Digital Archives.
 
@@ -15,7 +15,7 @@ The DAA will support the digital initiatives and daily activities of the Archive
 The DAA will follow established workflows for migration of obsolete media into archival formats, scan-on-demand and larger digitization projects, transformation of digital objects, creation of metadata records and other tasks related to the long-term preservation of born-digital records in all formats.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Perform tasks related to processing digital material, including digitizing and disk transfer, editing, records creation, data cleanup and other activities related to digital collections in the Archives.
 
@@ -38,7 +38,7 @@ Perform basic video and audio editing tasks related to making files easily acces
 Other duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 
@@ -79,16 +79,16 @@ Experience with basic editing of digital audio and video.
 
 
 
-### Location###
+### Location   
 
 New York, New York
 
 
-### URL###
+### URL   
 
 [https://careers.newschool.edu/postings/15866](https://careers.newschool.edu/postings/15866)
 
-### To Apply###
+### To Apply   
 
 [https://careers.newschool.edu/postings/15866](https://careers.newschool.edu/postings/15866)
 

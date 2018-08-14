@@ -6,7 +6,7 @@ excerpt: "The Columbia University Libraries seeks a temporary Associate Editor t
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Columbia University Libraries seeks a temporary Associate Editor to assist in the editing and preparation of the Selected Papers of John Jay. Reporting to the Director of the Rare Book and Manuscript Library, responsibilities include: 
 
@@ -23,7 +23,7 @@ Columbia University is an Equal Opportunity/Affirmative Action employer --Race/G
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualification:
 - Bachelor's Degree and at least two years of related experience (or equivalent combination of education 
@@ -40,14 +40,14 @@ Preferred Qualification:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 jobs.columbia.edu/applicants/Central?quickFind=165924  
 

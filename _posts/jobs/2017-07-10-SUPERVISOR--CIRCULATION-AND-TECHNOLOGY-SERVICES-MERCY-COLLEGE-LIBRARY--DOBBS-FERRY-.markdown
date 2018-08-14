@@ -6,46 +6,46 @@ excerpt: "Innovative and experienced library worker to join our Circulation and 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Innovative and experienced library worker to join our Circulation and Technology Services team as Supervisor. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Supervise busy Dobbs Ferry circulation and reserve operations as well as assisting with our expanding technology services that include poster printing, 3D printing and multimedia support.  Hours are 11am - 7pm Monday-Friday 
 
 
-### Qualifications###
+### Qualifications   
 
 BA required. Library experience preferred. Must be tech and computer savvy.
 
 
-### Compensation###
+### Compensation   
 
 40,000
 
 
-### Location###
+### Location   
 
 Dobbs Ferry 
 
 
-### URL###
+### URL   
 
 www,mercy.edu 
 
-### To Apply###
+### To Apply   
 
 jobs.mercy.edu 
 
 
-### Company Information###
+### Company Information   
 
 555 Broadway, Dobbs Ferry NY 
 
 
-### Contact Information###
+### Contact Information   
 
 Tesse Santoro tsantoro@mercy.edu
 

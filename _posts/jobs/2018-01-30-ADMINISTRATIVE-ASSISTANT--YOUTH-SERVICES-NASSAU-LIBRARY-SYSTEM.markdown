@@ -6,12 +6,12 @@ excerpt: "We are seeking a high-performing, energetic, flexible, organized self-
 tag: job
 ---
 
-### Description###
+### Description   
 
 We are seeking a high-performing, energetic, flexible, organized self-starter who can support and facilitate the efficient operation of the Youth Services Office.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Assist the Manager of Youth Services in the administration of the Youth Services office. Perform administrative and office support activities such as answer phone calls and emails, create word documents, spreadsheets and flyers.
 Assist with website content, social media, creating and editing department publications.
@@ -21,7 +21,7 @@ Respond to questions and requests for assistance from member librarians and staf
 
 
 
-### Qualifications###
+### Qualifications   
 
 Excellent customer service, interpersonal skills, verbal and written communication skills. Efficient, productive, attentive to detail and accurate.
 First-rate planning, organizational, time-management and problem-solving skills. Computer literate; proficient in MS Office Suite, Publisher, and Google products.
@@ -32,28 +32,28 @@ At least 2 years of experience either in an office environment and/or a public l
 Associate’s degree or higher preferred.
 
 
-### Compensation###
+### Compensation   
 
 Starting salary $44,000 - $49,000 depending on relevant experience and abilities. Excellent benefits.
 
 
-### Location###
+### Location   
 
 Uniondale, NY
 
 
-### URL###
+### URL   
 
 www.nassaulibrary.org
 
-### To Apply###
+### To Apply   
 
 Send resume and cover letter to Renee McGrath, Manager of Youth Services, 
 via e-mail to (ysjob@nassaulibrary.org). 
 Your cover letter should describe how your experience and abilities are specifically related to the requirements and responsibilities of this position.
 
 
-### Company Information###
+### Company Information   
 
 NLS is a cooperative public library system in Uniondale, NY with 54 autonomous member libraries.
 NLS is not subject to Civil Service.  Staff (other than Administration & Managers) are unionized.

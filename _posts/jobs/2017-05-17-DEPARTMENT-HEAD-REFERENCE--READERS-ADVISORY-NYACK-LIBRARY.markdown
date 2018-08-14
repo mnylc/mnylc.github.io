@@ -6,12 +6,12 @@ excerpt: "The Head of Reference oversees and provides reference services to the 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Head of Reference oversees and provides reference services to the patrons of The Nyack Library, fosters the development of the Library and assists the Library Director in the development of policy and procedure of the Library.  As the Department Head, he/she oversees collection development and provides guidance and mentoring for the Reference Department staff members. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities
 
@@ -43,7 +43,7 @@ Responsibilities
 
 
 
-### Qualifications###
+### Qualifications   
 
 MLS degree from an ALA-accredited institution
 	Minimum of 3 years of experience as a reference librarian
@@ -53,21 +53,21 @@ Knowledge of computer applications and software
 
 
 
-### Compensation###
+### Compensation   
 
 Benefits include health and dental insurance, vacation, personal and sick time, holidays and membership in the New York State Retirement System.  Salary commensurate with experience
 
 
-### Location###
+### Location   
 
 Nyack, NY, USA
 
 
-### URL###
+### URL   
 
 www.nyacklibrary.org
 
-### To Apply###
+### To Apply   
 
 To apply, send resumes to ashaw@nyacklibrary.org  Application deadline June 30, 2017.
 

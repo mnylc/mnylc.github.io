@@ -6,12 +6,12 @@ excerpt: "The Columbia Libraries seek a Public Services Specialist to provide su
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Columbia Libraries seek a Public Services Specialist to provide support for all aspects of public services in the Rare Book & Manuscript Library including designing of exhibition and public program collateral.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Supports daily public service operations in the Rare Book & Manuscript Library by staffing the Reading Rooms and Front Desk at regularly assigned times and as needed during high-use periods. Assists in the orderly upkeep of public areas by maintaining supplies and forms.
 
@@ -43,7 +43,7 @@ Assists Head of Public Services with statistical reporting for strategic plannin
 
 
 
-### Qualifications###
+### Qualifications   
 
 --Bachelor's Degree or equivalent and 2 years related experience.  
 --Graphic design skills and familiarity with associated software
@@ -51,26 +51,26 @@ Assists Head of Public Services with statistical reporting for strategic plannin
 --Competence in a fast-paced public service environment 
 
 
-### Compensation###
+### Compensation   
 
 Competitive
 
 
-### Location###
+### Location   
 
 New York City,NY
 
 
-### URL###
+### URL   
 
 [http://library.columbia.edu/locations/rbml.html](http://library.columbia.edu/locations/rbml.html)
 
-### To Apply###
+### To Apply   
 
 [https://jobs.columbia.edu/applicants/Central?quickFind=164442](https://jobs.columbia.edu/applicants/Central?quickFind=164442)   
 
 
-### Company Information###
+### Company Information   
 
 Columbia University Libraries is one of the top five academic research library systems in North America. The collections include over 13 million volumes, over 160,000 journals and serials, as well as extensive electronic resources, manuscripts, rare books, microforms, maps, and graphic and audio-visual materials. The Libraries employs more than 400 professional and support staff and hosts over 4.7 million visitors each year.  The website of the Libraries is the gateway to its services and resources: library.columbia.edu
 

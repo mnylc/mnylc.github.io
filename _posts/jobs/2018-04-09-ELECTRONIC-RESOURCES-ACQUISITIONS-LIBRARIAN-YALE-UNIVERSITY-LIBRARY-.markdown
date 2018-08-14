@@ -6,14 +6,14 @@ excerpt: "Under the direction of the Director of E-Resources & Serials Managemen
 tag: job
 ---
 
-### Description###
+### Description   
 
 Under the direction of the Director of E-Resources & Serials Management (ERSM), the Electronic Resources Acquisitions Librarian focuses on establishing and maintaining strong intellectual control over content throughout the acquisitions life cycle of electronic resources licensed by Yale University Library (YUL). This position supervises a team of staff responsible for key acquisitions and licensing management workflows. Within a changing and flexible environment, s/he works closely with colleagues and vendors to manage the acquisition and licensing of new electronic resources as well as the renewal of existing subscriptions. Works collaboratively with other librarians and staff to ensure consistent access to library holdings across multiple platforms including the library’s catalog and discovery services. Works closely with other units within ERSM and partner departments to ensure the efficient acquisition and licensing of electronic resources.
 
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	A Master's degree from an ALA‐accredited library school and a minimum of 2 years of professional experience is required for this position. 
@@ -28,26 +28,26 @@ Under the direction of the Director of E-Resources & Serials Management (ERSM), 
 
 
 
-### Compensation###
+### Compensation   
 
 Salary is commensurate with experience. 
 
 
-### Location###
+### Location   
 
 New Haven, CT
 
 
-### URL###
+### URL   
 
 [http://bit.ly/2oz8q4L](http://bit.ly/2oz8q4L)
 
-### To Apply###
+### To Apply   
 
 The full job description and application information are available at [http://bit.ly/2oz8q4L.](http://bit.ly/2oz8q4L.) 
 
 
-### Company Information###
+### Company Information   
 
 The Yale University Library, as one of the world's leading research libraries, collects, organizes, preserves, and provides access to and services for a rich and unique record of human thought and creativity. It fosters intellectual growth and supports the teaching and research missions of Yale University and scholarly communities worldwide. A distinctive strength is its rich spectrum of resources, including around 15 million volumes and information in all media, ranging from ancient papyri to early printed books to electronic databases. The Library is engaging in numerous projects to expand access to its physical and digital collections. Housed in eighteen buildings including the Sterling Memorial Library, the Beinecke Rare Book and Manuscript Library, the Center for Science and Social Science Information, and the Bass Library, it employs a dynamic and diverse staff of approximately five hundred who offer innovative and flexible services to library readers.  For additional information on the Yale University Library, please visit the Library's web site at www.library.yale.edu.
 

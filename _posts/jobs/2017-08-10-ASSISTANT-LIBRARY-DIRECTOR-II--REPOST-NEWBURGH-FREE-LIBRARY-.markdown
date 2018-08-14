@@ -6,14 +6,14 @@ excerpt: "Join the Newburgh Free Library in leading an anchor institution in the
 tag: job
 ---
 
-### Description###
+### Description   
 
 Join the Newburgh Free Library in leading an anchor institution in the on-going revitalization of the City of Newburgh by providing Information and Inspiration as we Imagine a future of vital connections with the people of our community.  The Newburgh Free Library, the Central Library of the 47 library Ramapo Catskill Library System, serves a community of 60,000 people encompassing the Towns of Newburgh and New Windsor and the City of Newburgh overlooking the magnificent Hudson River.   The successful candidate will assist in the supervision of 50 FTE employees at the Main Library and a Town Branch with a + $5.2 million dollar budget.  The Library is recognized as a vital civil institution deeply involved in the creation and stimulation of a creative economy that is beginning to thrive. The Newburgh Free Library envisions deeper partnerships with our community and its neighborhoods and institutions.  Our community is richly multi-cultural and welcoming.  The Library has thrived since 1852 in a community that values education and diversity and values learning. Join us as we work to re-envision the Newburgh environs and revolutionize the way we work, play and learn. Illustrative tasks and details about how to apply for the position are included below.
 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 General Statement of Duties:
 
@@ -44,7 +44,7 @@ This position is a competitive Civil Service position and is classified as Confi
 
 
 
-### Qualifications###
+### Qualifications   
 
 1.  Master’s Degree in Library and Information Sciences
 2.  At least 3-5 years experience in a Public Library Setting with 2 years supervisory experience
@@ -54,16 +54,16 @@ This position is a competitive Civil Service position and is classified as Confi
 
 
 
-### Location###
+### Location   
 
 Newburgh, NY
 
 
-### URL###
+### URL   
 
 www.newburghlibrary.org
 
-### To Apply###
+### To Apply   
 
 To apply, go to www.newburghschools.org, click on the “Departments” tab, drop down to “Human Resources & Employment Department” and see the posting for Assistant Library Director II - Newburgh Free Library.
 Applicants must have a completed application on file and submit a letter of interest (template found on web site) to: 
@@ -75,12 +75,12 @@ All replies must be received in the Office of Human Resources by 4PM on August 1
 
 
 
-### Company Information###
+### Company Information   
 
 Newburgh Free Library, 124 Grand St, Newburgh, NY 12550
 
 
-### Contact Information###
+### Contact Information   
 
 For further information about the position, contact Human Resources at 845-563-3460.
 

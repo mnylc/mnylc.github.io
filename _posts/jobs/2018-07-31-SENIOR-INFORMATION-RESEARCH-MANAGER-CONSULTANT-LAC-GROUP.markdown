@@ -6,12 +6,12 @@ excerpt: "LAC Group seeks a Senior Information Research Manager/Consultant at ou
 tag: job
 ---
 
-### Description###
+### Description   
 
 LAC Group seeks a Senior Information Research Manager/Consultant at our offices in New York City (Manhattan). The Senior Information Research Manager will be working with the Legal Research Services team in assisting in the review and optimization of spend on digital and print information legal resources.  The individual serves as the primary managerial role for the executives of CCM and between clients, when applicable. A high energy, team-oriented individual capable of thriving in a heavily client-facing role, this individual will be responsible for identifying and implementing effective, customized strategies that will provide optimization and control costs of identified resources to clients.  The candidate will be responsible for performing data analysis and savings strategy development, providing client with updates on subscription service renewals; and conducting vendor negotiations. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Understands business context, problems and communicates them clearly in written and oral format.
 In collaboration with VP of Legal Research, supervises active projects and implements archival processes for completed work.
@@ -32,7 +32,7 @@ Author industry focused articles, white papers or blog posts that support spend 
 Negotiate with vendors on behalf of clients.
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum of 3 years of experience managing legal information resources.
 Bachelor’s Degree required. MLIS or experience in information resources, procurement and basic data analytics preferred.
@@ -47,31 +47,31 @@ Ability to work flexible hours when necessary.
 Some travel required.
 
 
-### Compensation###
+### Compensation   
 
 Salary
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 [https://www.libgig.com/careers/senior-information-research-manager-consultant-lac-group/a0E1H00000aA5wUUAS/](https://www.libgig.com/careers/senior-information-research-manager-consultant-lac-group/a0E1H00000aA5wUUAS/)
 
-### To Apply###
+### To Apply   
 
 [https://www.libgig.com/careers/senior-information-research-manager-consultant-lac-group/a0E1H00000aA5wUUAS/](https://www.libgig.com/careers/senior-information-research-manager-consultant-lac-group/a0E1H00000aA5wUUAS/)
 
 
-### Company Information###
+### Company Information   
 
 LAC Group
 
 
-### Contact Information###
+### Contact Information   
 
 katy.davis@lac-group.com
 

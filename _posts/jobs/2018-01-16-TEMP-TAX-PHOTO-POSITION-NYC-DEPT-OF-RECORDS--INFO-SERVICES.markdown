@@ -6,7 +6,7 @@ excerpt: "The Municipal Archives of the NYC Department of Records & Information 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Municipal Archives of the NYC Department of Records & Information Services seeks short term full time contracted archival technicians for quality control of digital images and metadata related to the digitization of a photographic collection. Estimated start date February 15, 2018.
 
@@ -18,7 +18,7 @@ The archival technician position calls for computer literate individuals who ide
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Skills:
 
@@ -43,14 +43,14 @@ Preferred Skills:
 
 
 
-### Location###
+### Location   
 
 31 chambers street, New York NY 10007
 
 
 
 
-### To Apply###
+### To Apply   
 
 Email resume to: recruit@records.nyc.gov
 

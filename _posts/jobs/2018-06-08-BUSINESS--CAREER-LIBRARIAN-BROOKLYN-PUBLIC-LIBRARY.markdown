@@ -6,12 +6,12 @@ excerpt: "Brooklyn Public Library is seeking a Senior Librarian to join the Busi
 tag: job
 ---
 
-### Description###
+### Description   
 
 Brooklyn Public Library is seeking a Senior Librarian to join the Business & Career Center.  The successful candidate should have a commitment to providing services and information to adults seeking to improve their economic wellbeing.  They will assist job seekers, entrepreneurs, students, and investors, as well as individuals with questions regarding business and money management. Regular duties range from answering reference questions and developing web content to presenting workshops and performing outreach. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Provide professional and excellent reference and reader’s advisory services to diverse patrons. 
@@ -38,7 +38,7 @@ Brooklyn Public Library is seeking a Senior Librarian to join the Business & Car
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Master’s Degree in Library Science from an ALA accredited library school; Public Librarian’s Professional Certificate issued by the State of New York.
@@ -80,16 +80,16 @@ change
 
 
 
-### Location###
+### Location   
 
 Brooklyn, NY
 
 
-### URL###
+### URL   
 
 [https://www.bklynlibrary.org/](https://www.bklynlibrary.org/)
 
-### To Apply###
+### To Apply   
 
 [https://careers-bklynlibrary.icims.com/jobs/1661/business-%26-career-librarian/job](https://careers-bklynlibrary.icims.com/jobs/1661/business-%26-career-librarian/job)
 

@@ -6,7 +6,7 @@ excerpt: "The Thomas J. Watson Library in The Metropolitan Museum of Art is plea
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Thomas J. Watson Library in The Metropolitan Museum of Art is pleased to announce an opening for the
 position of Assistant/Associate Museum Librarian, Reader Services. This full-time position is a special
@@ -26,7 +26,7 @@ develop and implement the highest standards of access and service.
 The work schedule for this position is Tuesday through Saturday, 9am-5pm.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 · Takes the lead in managing library operations related to the storage, maintenance and circulation of the
@@ -75,7 +75,7 @@ and other programming that often take place in the evening.
 · Other related duties.
 
 
-### Qualifications###
+### Qualifications   
 
 
 · Minimum of three to five years of supervisory and management experience in a research library required.
@@ -126,16 +126,16 @@ and hours, and to connect to the libraries’ catalog, Watsonline.
 
 
 
-### Location###
+### Location   
 
 New York, New York 10028
 
 
-### URL###
+### URL   
 
 [http://www.metmuseum.org/watson](http://www.metmuseum.org/watson)
 
-### To Apply###
+### To Apply   
 
 Please submit a cover letter stating your interest and your CV, addressed to the search committee, to
 lib.search@metmuseum.org.

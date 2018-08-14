@@ -6,12 +6,12 @@ excerpt: "The N-YHS Library seeks an imaginative and forward looking library pro
 tag: job
 ---
 
-### Description###
+### Description   
 
 The N-YHS Library seeks an imaginative and forward looking library professional with demonstrated leadership skills to join its management team as Head of Cataloging and Metadata.  Reporting to the Vice President and Librarian, the position is responsible for leading the Cataloging and Metadata Department of the Library.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Managing and overseeing all original and copy cataloging.
@@ -30,7 +30,7 @@ The N-YHS Library seeks an imaginative and forward looking library professional 
 
 
 
-### Qualifications###
+### Qualifications   
 
 Education:  BA, preferably in the humanities.  MLIS from an ALA-accredited library school.
 
@@ -50,23 +50,23 @@ Experience:
 
 
 
-### Location###
+### Location   
 
 New York, New York, United States
 
 
-### URL###
+### URL   
 
 [http://www.nyhistory.org](http://www.nyhistory.org)
 
-### To Apply###
+### To Apply   
 
 For consideration please send a cover letter, resume and salary requirements to: resumes@nyhistory.org    Please reference the job title in the subject line.  
 The New-York Historical Society is an Equal Opportunity Employer
 
 
 
-### Company Information###
+### Company Information   
 
 Address: New-York Historical Society, 170 Central Park West, New York, NY 10024.
 

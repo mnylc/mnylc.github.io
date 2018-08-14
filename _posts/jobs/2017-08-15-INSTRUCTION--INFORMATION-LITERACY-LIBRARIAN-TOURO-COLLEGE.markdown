@@ -8,14 +8,14 @@ excerpt: "In collaboration with the Library Information Literacy Director, the I
 tag: job
 ---
 
-### Description###
+### Description   
 
 In collaboration with the Library Information Literacy Director, the Instruction & Information Literacy Librarian will interact with students and faculty, and participate in creating an active instructional program. The librarian will teach both on ground and online classes at both undergraduate and graduate levels. 
 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities include but are not limited to:
 
@@ -29,7 +29,7 @@ Responsibilities include but are not limited to:
 
 
 
-### Qualifications###
+### Qualifications   
 
  	Degree Master’s Degree from an ALA-accredited institution
  	At least __1_______years of instruction experience in an academic library 
@@ -53,26 +53,26 @@ Responsibilities include but are not limited to:
 
 
 
-### Location###
+### Location   
 
 43 West 23rd Street, New York, NY
 
 
-### URL###
+### URL   
 
 touro.edu/library
 
-### To Apply###
+### To Apply   
 
 Send cover letter and resume to sara.tabaei@touro.edu
 
 
-### Company Information###
+### Company Information   
 
 Touro College Libraries, Midtown Library, 43 West 23rd, 5th Floor, New York, NY
 
 
-### Contact Information###
+### Contact Information   
 
 sara.tabaei@touro.edu
 

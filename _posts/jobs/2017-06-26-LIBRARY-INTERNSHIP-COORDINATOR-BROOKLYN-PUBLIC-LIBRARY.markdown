@@ -6,7 +6,7 @@ excerpt: "As the nation’s fifth-largest library system, Brooklyn Public Librar
 tag: job
 ---
 
-### Description###
+### Description   
 
 As the nation’s fifth-largest library system, Brooklyn Public Library and its 60 branches provide the borough with inspiring programs and free access to virtually all of humanity’s accumulated wisdom. Brooklynites visit our libraries to learn, to be entertained and to connect with their neighbors. Our innovative, free programs and resources include citizenship classes for new Americans, digital literacy initiatives, outreach to prisons and homeless shelters, tablet and MiFi device lending, a reservable recording studio and makerspace, oral history programs and much more. We also provide free access to a collection of more than 3.5 million materials, including print and eBooks, as well as live-streaming movies and online learning databases.
 
@@ -14,7 +14,7 @@ Under the direction of the Manager of Volunteer Resources, the Library Internshi
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Managing project timeline, outcomes, and events
@@ -49,7 +49,7 @@ Under the direction of the Manager of Volunteer Resources, the Library Internshi
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Minimum Master’s Degree in relevant subject area (M.L.S., M.A. or New York State Teachers Certification preferred)
@@ -80,21 +80,21 @@ Under the direction of the Manager of Volunteer Resources, the Library Internshi
 
 
 
-### Location###
+### Location   
 
 Brooklyn, NY
 
 
-### URL###
+### URL   
 
 [https://www.bklynlibrary.org](https://www.bklynlibrary.org)
 
-### To Apply###
+### To Apply   
 
 Interested applicants should apply through this site: [https://www.bklynlibrary.org/about/careers](https://www.bklynlibrary.org/about/careers) and submit a cover letter and resume.
 
 
-### Company Information###
+### Company Information   
 
 10 Grand Army Plaza, Brooklyn, NY 11238
 

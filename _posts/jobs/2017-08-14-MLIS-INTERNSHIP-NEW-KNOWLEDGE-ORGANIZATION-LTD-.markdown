@@ -6,12 +6,12 @@ excerpt: "New Knowledge Organization Ltd. is seeking a MLIS or equivalent studen
 tag: job
 ---
 
-### Description###
+### Description   
 
 New Knowledge Organization Ltd. is seeking a MLIS or equivalent student for a fall 2017 to spring 2018 paid internship. The intern will serve NewKnowledge as the team’s information specialist, with a focus on data management and library research. This position is similar to those of an academic librarian, but embedded in social science research, along with managing institutional information repositories. The intern will work closely with the NewKnowledge team on research and evaluation projects, and also independently on internal projects. This is an excellent opportunity for students interested in studying informal education and writing scholarly articles. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Daily activities and long-term tasks may include:
   - Use a wide range of social science databases to retrieve scholarly articles in multidisciplinary fields, and provide general reference support to research staff including web searches, compiling of bibliographies, and research assistance;
@@ -30,7 +30,7 @@ The intern will also be responsible for a special project of mutual choice, whic
 The MLIS intern is also expected to help program staff as needed. This may include: data entry and analysis, managing communications with project participants, proofreading, drafting literature reviews or reports, transcribing audio recordings, and managing website updates.
 
 
-### Qualifications###
+### Qualifications   
 
 
 •  Be a current MLIS student or recent graduate of a MLIS program;
@@ -42,21 +42,21 @@ The MLIS intern is also expected to help program staff as needed. This may inclu
 Optional: We recommend that students applying have completed courses in Information Sources and Service (i.e., advanced training in searching scholarly databases and other reference sources), as well as Records Management (i.e., training in contemporary approaches to records and information lifecycles) prior to this internship. Alternatively, candidates may be enrolled in these courses at the time of the internship. 
 
 
-### Compensation###
+### Compensation   
 
 $18/hour
 
 
-### Location###
+### Location   
 
 13 East 37th Street, 7th Floor, New York, NY 10016
 
 
-### URL###
+### URL   
 
 www.newknowledge.org
 
-### To Apply###
+### To Apply   
 
 Email your résumé and a cover letter to Kate Flinner, kflinner@newknowledge.org and Laura Tietjen, ltietjen@newknowledge.org
 

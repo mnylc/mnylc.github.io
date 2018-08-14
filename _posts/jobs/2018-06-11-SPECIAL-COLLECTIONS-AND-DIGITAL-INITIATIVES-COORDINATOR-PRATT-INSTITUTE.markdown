@@ -6,14 +6,14 @@ excerpt: "The Digital and Special Collections of the Pratt Institute Libraries e
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Digital and Special Collections of the Pratt Institute Libraries encompasses: the Libraries’ digital collections; videos featuring events and activities of the Institute; 16mm film prints, a picture file collection; over 10,000 volumes of artist books, pop-up books, monographs and serials; and the Pratt Institute Archives and Alumni Collections.  The collections are particularly strong in the history of art and design and book arts.
 
 Under moderate supervision and with considerable latitude for independent judgment, the Special Collections and Digital Initiatives Coordinator reports to the Head of Digital and Special Collections and works to ensure the long-term access to the digital and special collections of the Pratt Institute Libraries through the management of metadata and preservation practices, with a particular emphasis on the Libraries’ audio visual and digital collections.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 
@@ -48,7 +48,7 @@ TO APPLY:  Please submit your cover letter and resume.  If you are selected for 
  PRATT INSTITUTE IS AN EQUAL OPPORTUNITY EMPLOYER AND RECOGNIZES AND VALUES THE BENEFITS OF A DIVERSE WORKFORCE.
 
 
-### Qualifications###
+### Qualifications   
 
 EXPERIENCE AND QUALIFICATIONS:
 
@@ -61,21 +61,21 @@ Knowledge and Skills:  Strong verbal, written and interpersonal skills, in addit
 
 
 
-### Location###
+### Location   
 
 Brooklyn, NY
 
 
-### URL###
+### URL   
 
 [https://tinyurl.com/yc34othq](https://tinyurl.com/yc34othq)
 
-### To Apply###
+### To Apply   
 
 [https://tinyurl.com/yc34othq](https://tinyurl.com/yc34othq)
 
 
-### Company Information###
+### Company Information   
 
 WWW.PRATT.EDU
 

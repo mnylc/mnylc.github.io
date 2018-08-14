@@ -6,7 +6,7 @@ excerpt: "The Center for Jewish History is a collaborative home to five partner 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Center for Jewish History is a collaborative home to five partner institutions: the American Jewish Historical Society, American Sephardi Federation, Leo Baeck Institute, Yeshiva University Museum and YIVO Institute for Jewish Research. The Center and its five partners serve the worldwide academic communities and the general public with combined holdings of over 30,000 linear feet of archival documents, a half million books, and thousands of photographs, artifacts, paintings and textiles – the largest repository documenting the Jewish experience outside Israel.  The provision of access and preservation oriented services to the collections is core to the Center for Jewish History’s mission on behalf of researchers and the partner organizations.
 The Center for Jewish History seeks a project manager for the implementation of the Ex Libris digital preservation management system, Rosetta.
@@ -16,7 +16,7 @@ Implementation will include preparation for and comprehensive migration from Ex 
 The Rosetta Implementation and Migration Manager will report to the Senior Manager for Metadata and Discovery. The Metadata and Discovery Services department is tasked with coordinating the interoperability and integration between Center systems that control, describe, preserve, and provide access to the rich physical and digital holdings of the five Partner institutions. The successful candidate will work closely with department members in Metadata and Discovery Services, the Center’s Information Technology department, vendors, and stakeholders in the Center and Partner community to ensure that born-digital and digitized material will be preserved in perpetuity.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Manage both short and long term benchmarks for the migration and implementation of the digital preservation management system, Rosetta.
 
@@ -36,7 +36,7 @@ Stay abreast of developments and professional best practices in digital asset ma
 Participate in special projects to promote and increase access to born-digital and digitized material held within the Center systems and other duties commensurate with the position, including project-based work both external to Center systems or within Center subsystems.
 
 
-### Qualifications###
+### Qualifications   
 
 *Required qualifications and skills*
 American Library Association-accredited graduate degree or accredited graduate degree in another appropriate discipline, including computer science, software implementation project management, digital preservation and curation, or archival science. 
@@ -71,23 +71,23 @@ Familiarity with Linux operating system, especially within an enterprise environ
 Understanding of library systems structure or environments, including interoperability between systems and how systems communicate via protocols (OAI-PMH) and interfaces (APIs). 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience.
 
 
 
 
-### URL###
+### URL   
 
 [http://cjh.org/p/32](http://cjh.org/p/32)
 
-### To Apply###
+### To Apply   
 
 Review of applications will begin immediately.  Applications will be accepted until the position is filled.  Send cover letter, resume, and contact information for three references to Eric Fritzler, Senior Manager for Metadata and Discovery, at eafritzler@cjh.org.  No phone calls please.
 
 
-### Company Information###
+### Company Information   
 
 Center for Jewish History
 15 W. 16th Street

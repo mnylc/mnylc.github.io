@@ -6,17 +6,17 @@ excerpt: "The Division of Libraries at New York University (NYU) seeks a Referen
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Division of Libraries at New York University (NYU) seeks a Reference Associate in the Coles Science Center of Bobst Library to provide a variety of reference and research services to library patrons. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Conduct library tours, information literacy classes, and library research consultations for students. Assist library patrons with complex research, reference, and collections inquiries and research strategies. Assist in supporting the library research needs of graduate students and researchers in nutrition, public health, life sciences, and the physical sciences. Participate in the support of the data service needs of science researchers. Participate in the development and delivery of outreach events such as the unCommon Salon series. Evening and weekend work may be required.
 
 
-### Qualifications###
+### Qualifications   
 
 Required Education:
 Bachelor's degree in health science, science, or related field.
@@ -40,21 +40,21 @@ Familiarity with quantitative or qualitative software and/or data management pla
 
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 [http://www.Click2apply.net/fcqhs9n9yk](http://www.Click2apply.net/fcqhs9n9yk)
 
-### To Apply###
+### To Apply   
 
 [http://www.Click2apply.net/fcqhs9n9yk](http://www.Click2apply.net/fcqhs9n9yk)
 
 
-### Company Information###
+### Company Information   
 
 New York University
 Apply Online

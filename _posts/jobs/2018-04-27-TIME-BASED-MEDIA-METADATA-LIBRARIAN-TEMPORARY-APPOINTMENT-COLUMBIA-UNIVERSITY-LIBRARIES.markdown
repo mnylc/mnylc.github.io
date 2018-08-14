@@ -6,7 +6,7 @@ excerpt: "The Columbia University Libraries seek a Time-Based Media Metadata Lib
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Columbia University Libraries seek a Time-Based Media Metadata Librarian to provide original metadata creation, application, and maintenance for a variety of time-based media projects (audio and video) primarily from the Columbia Center for Oral History Archive (CCOH) and to provide metadata remediation for legacy time-based media digital projects. Reporting to the Metadata Coordinator, the incumbent creates metadata to manage, preserve, and provide access to time-based media digital content for Columbia's online catalog CLIO and for ingest into the local Hyacinth metadata editor and Fedora. This includes conducting consultations, creating and maintaining documentation, data analysis, quality control, and data transformation. The Librarian works across the organization to ensure and coordinate integration of digital metadata with local and national systems and provide remediation of already digitized items. This includes editing, restructuring, adding subject and geographic access points, relationship designators, reconciling against external authorities, merging and manipulating spreadsheets, and/or updating MARC records.
 
@@ -15,7 +15,7 @@ This is a full-time temporary position ending on June 30, 2019 with possibility 
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 - MLS or advanced degree in relevant field
@@ -34,26 +34,26 @@ Preferred Qualifications:
 - Experience with oral history and/or music cataloging
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://library.columbia.edu/](http://library.columbia.edu/)
 
-### To Apply###
+### To Apply   
 
 Apply online: [https://academicjobs.columbia.edu/applicants/Central?quickFind=66344](https://academicjobs.columbia.edu/applicants/Central?quickFind=66344)
 
 
-### Company Information###
+### Company Information   
 
 As one of the world's leading research universities, Columbia University in the City of New York provides outstanding opportunities to work and grow in a dynamic, multicultural, intellectual community. The Columbia University Libraries are comprised of a diverse and engaged staff committed to furthering the University's teaching and research mission through innovation, collaboration, and a commitment to excellence. Columbia University is an Equal Opportunity/Affirmative Action Employer and strongly encourages individuals of all backgrounds and cultures to consider this position.
 

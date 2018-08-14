@@ -6,14 +6,14 @@ excerpt: "Dobbs Ferry, NY, a village of 11,000 located just 30 minutes north of 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Dobbs Ferry, NY, a village of 11,000 located just 30 minutes north of NYC, seeks a Director for the Public Library. Further information about Dobbs Ferry may be found on the village website: www.dobbsferry.com. 
 
 The Dobbs Ferry Public Library recently expanded its Board of Directors and is in the planning stages of a website and branding update as well as considering improvements to our much loved Children’s Room. We are well-positioned to create a highly collaborative, community- centered library that reflects the organizational values embodied in our mission statement.
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Library Board is seeking a Director who:
 - can think strategically, who can look at the “big picture”, using data and experience to enable short-term and long-term action and decision making, using defined goals and outcomes to drive performance
@@ -23,7 +23,7 @@ The Library Board is seeking a Director who:
 
 
 
-### Qualifications###
+### Qualifications   
 
 The minimum qualifications for the Library Director I position include:
 - A Master’s degree in Library Science from a library school that is accredited by the American Library Association or recognized by the NYS Education Department as following acceptable educational practices
@@ -34,24 +34,24 @@ The minimum qualifications for the Library Director I position include:
 
 
 
-### Location###
+### Location   
 
 Dobbs Ferry, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 To apply, please send a cover letter and resume to DFPLtrustees@gmail.com.
 
 
-### Company Information###
+### Company Information   
 
 DFPLtrustees@gmail.com
 
 
-### Contact Information###
+### Contact Information   
 
 DFPLtrustees@gmail.com
 

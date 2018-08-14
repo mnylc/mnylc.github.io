@@ -6,12 +6,12 @@ excerpt: "The Samuel J. Wood Library at Weill Cornell Medical (WCM) is offering 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Samuel J. Wood Library at Weill Cornell Medical (WCM) is offering a one-year paid internship for an advanced student enrolled in an ALA accredited library and information science graduate program, or a recent graduate. We seek a Clinical Medical Librarian Intern (CMLI) interested in pursuing a career in medical librarianship who is available for at least 25 hours per week.  The CMLI assists in the provision of biomedical research, information management, and instructional services to the clinical and academic communities of Weill Cornell Medicine (WCM), New York-Presbyterian Hospital (NYPH), and affiliates including the Myra Mahon Patient Resource Center (PRC). S/he will work closely with the Clinical Medical Librarian (CML) and the Assistant Director, Clinical Services (ADCS) to support and enhance the clinical practices, outreach activities and training initiatives of the Medical Center and its constituents. The Clinical Medical Librarian Intern reports to the Assistant Director, Clinical Services. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 1.	Develops the educational skill set required for CML activities; CMLI will routinely attend WCM/NYP and professional lectures, workshops, webinars to learn best practices, gain clinical knowledge and build connections with clinical colleagues.  
 
@@ -78,26 +78,26 @@ b.	Contribute to the development, writing, and editing of CML research papers fo
 
 
 
-### Qualifications###
+### Qualifications   
 
 Either in an ALA accredited library program or a recent graduate.
 
 
-### Compensation###
+### Compensation   
 
 $25.00 per hour
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://library.weill.cornell.edu/about-us/staff/career-opportunities-and-internships/clinical-medical-librarian-intern](http://library.weill.cornell.edu/about-us/staff/career-opportunities-and-internships/clinical-medical-librarian-intern)
 
-### To Apply###
+### To Apply   
 
 Please submit your application to librecruiting@med.cornell.edu 
 

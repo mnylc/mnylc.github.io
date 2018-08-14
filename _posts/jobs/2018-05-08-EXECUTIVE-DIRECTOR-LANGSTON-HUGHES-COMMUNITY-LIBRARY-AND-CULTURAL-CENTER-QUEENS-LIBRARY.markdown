@@ -6,7 +6,7 @@ excerpt: "Queens Library, is offering an opportunity to work for one of the most
 tag: job
 ---
 
-### Description###
+### Description   
 
 Queens Library, is offering an opportunity to work for one of the most dynamic and diverse urban libraries in the world. We are seeking a highly-engaged, creative, customer service driven Library professional who is eager to provide quality public library services. Queens Library is a renowned leader in providing innovative library and educational services, developing new technology applications and fostering community engagement.
 The Executive Director of the Langston Hughes Cultural Center is responsible for the overall operations, programs, services, and staff for the Langston Hughes Community Library and Cultural Center (LHCL CC). In partnership with the Vice President of Public Library Service and the Library Action Committee of Corona-East Elmhurst, Inc. Board of Directors, designs the strategy for future programs, collections, services and cultural arts events. Continually assesses the service needs of the Langston Hughes community. 
@@ -38,14 +38,14 @@ MINIMUM QUALIFICATIONS:
 
 
 
-### Location###
+### Location   
 
 Corona, Queens, NY 
 
 
 
 
-### To Apply###
+### To Apply   
 
 TO APPLY:  Please email your resume and cover letter to QLcareers@queenslibrary.org and reference “Executive Director, Langston Hughes Community Library and Cultural Center – EXTERNAL” in the subject line. Resumes will only be accepted by email.  
 

@@ -6,7 +6,7 @@ excerpt: "Columbia University Libraries is seeking applications for the position
 tag: job
 ---
 
-### Description###
+### Description   
 
 Columbia University Libraries is seeking applications for the position of Law Cataloger at the Diamond Law Library. 
 Reporting to the Head of the Cataloging Unit, the Law Cataloger will perform original and complex copy-cataloging of books and serials in various formats in English and foreign languages using OCLC and local system. The Law Cataloger will provide accurate bibliographic description with correct access points through authority work and will assign classification numbers using local and LC call number schemes. The incumbent will perform bibliographic review using metadata editing software before loading files into the local ILS and will participate in the administrative routine of the Law Library and the Columbia University Libraries including internal and external committee work, preparing narrative and statistical reports. 
@@ -20,7 +20,7 @@ We offer a salary commensurate with qualifications and experience and excellent 
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 -MLS from an ALA-accredited institution or Ph.D. or equivalent 
@@ -37,14 +37,14 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=66490](https://academicjobs.columbia.edu/applicants/Central?quickFind=66490)
 

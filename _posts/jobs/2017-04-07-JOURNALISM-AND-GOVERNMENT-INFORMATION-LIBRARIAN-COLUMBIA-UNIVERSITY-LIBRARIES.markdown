@@ -6,7 +6,7 @@ excerpt: "Journalism and Government Information Librarian Science, Engineering, 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Journalism and Government Information Librarian
 Science, Engineering, and Social Science Libraries
@@ -48,16 +48,16 @@ Columbia University is an Equal Opportunity/Affirmative Action Employer and stro
 
 
 
-### Location###
+### Location   
 
 New York, New York
 
 
-### URL###
+### URL   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=64415](https://academicjobs.columbia.edu/applicants/Central?quickFind=64415)
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=64415](https://academicjobs.columbia.edu/applicants/Central?quickFind=64415)
 

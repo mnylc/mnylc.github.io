@@ -6,12 +6,12 @@ excerpt: "Columbia University Libraries (CUL) seeks an innovative and energetic 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Columbia University Libraries (CUL) seeks an innovative and energetic librarian to provide support for Columbia's digital library and scholarly technology systems by adapting, configuring and using relevant software tools and implementing standards and best practices. The Special Collections Analyst will work directly with Libraries and University stakeholders to research, develop and document technology solutions for digital library and digital scholarship initiatives. Working collaboratively, the incumbent will apply and help develop procedures, guidelines, policies, and principles for the use of Columbia's digital library and scholarly infrastructure. The incumbent, in cooperation with the Head of Digital Collections and Preservation Systems, others within the Digital Library and Scholarly Technologies group, and relevant staff throughout the library will provide assistance and direction in project planning and development that advances the strategic directions of the Libraries and the University. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities: 
 -The implementation of and support for systems supporting analog and digital library and archival collections, including new and innovative tools such as ArchivesSpace, Spotlight, ArcLight, Aeon, as well as current and evolving metadata and information management strategies 
@@ -21,7 +21,7 @@ Responsibilities:
 As one of the world's leading research universities, Columbia University in the City of New York provides outstanding opportunities to work and grow in a dynamic, multicultural, intellectual community. The Libraries are comprised of a diverse and engaged staff committed to furthering the University's teaching and research mission through innovation, collaboration, and a commitment to excellence. Columbia University is an Equal Opportunity/Affirmative Action Employer and we strongly encourage individuals of all backgrounds and cultures to consider this position.  
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 	Master's degree in library / computer science or equivalent 
@@ -40,14 +40,14 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=66505](https://academicjobs.columbia.edu/applicants/Central?quickFind=66505)
 

@@ -6,12 +6,12 @@ excerpt: "Lehman College is looking for an Adjunct Cataloging Librarian to work 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Lehman College is looking for an Adjunct Cataloging Librarian to work in Technical Services during the Fall 2017 semester (5 hours per week, flexible).
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to the Head of Technical Services, the incumbent will perform original and copy cataloging on monographic and serial materials, including authority work in all formats and perform LC classification.  Candidate should be familiar with cataloging tools including Aleph and OCLC Connexion.
 
@@ -19,7 +19,7 @@ Other technical services duties as assigned.
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	MLS required
@@ -36,16 +36,16 @@ Other technical services duties as assigned.
 
 
 
-### Location###
+### Location   
 
 Bronx, New York
 
 
-### URL###
+### URL   
 
 [http://lehman.edu/library/](http://lehman.edu/library/)
 
-### To Apply###
+### To Apply   
 
 Please send e-mail expressing interest, qualifications, and availability - with resume, cover letter, and contact information of three professional references by August 31, 2017 to:
  

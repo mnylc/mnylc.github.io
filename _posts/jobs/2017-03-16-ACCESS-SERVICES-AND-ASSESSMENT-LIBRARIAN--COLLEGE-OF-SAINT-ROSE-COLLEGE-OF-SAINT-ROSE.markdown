@@ -6,12 +6,12 @@ excerpt: "The College of Saint Rose in Albany, NY invites applications for a ful
 tag: job
 ---
 
-### Description###
+### Description   
 
 The College of Saint Rose in Albany, NY invites applications for a full-time, tenure track Access Services and Assessment Librarian to start August 2017.  We are seeking a capable, self-directed individual who is able to effectively oversee access services and implement an assessment program, while also serving as a collegial member of a team of librarians who work together to deliver effective reference and instruction services.  
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities will include the following:
 - Manage and supervise circulation staff.
@@ -35,7 +35,7 @@ Responsibilities will include the following:
 As a member of The College of Saint Rose faculty, responsibilities also include advising, attending internal and external events, serving on Library and College committees, and engaging in scholarship.
 
 
-### Qualifications###
+### Qualifications   
 
 The successful candidate will have a MLS or MSIS from an ALA accredited program, superior written and oral communication skills, experience in a supervisory capacity, strong technology skills, experience as an academic reference librarian and in library instruction, familiarity with copyright, fair use, and other intellectual property issues, and familiarity with library assessment tools.
  
@@ -43,22 +43,22 @@ The successful candidate will have a MLS or MSIS from an ALA accredited program,
 
 
 
-### Location###
+### Location   
 
 Albany, NY, USA
 
 
-### URL###
+### URL   
 
 [http://bit.ly/2mfrvq6](http://bit.ly/2mfrvq6)
 
-### To Apply###
+### To Apply   
 
  Applications will be accepted until the position is filled. Screening will begin immediately: [http://bit.ly/2mfrvq6](http://bit.ly/2mfrvq6)
 
 
 
-### Company Information###
+### Company Information   
 
 The Neil Hellman Library
 The College of St. Rose
@@ -66,7 +66,7 @@ Albany NY 12203
 United States
 
 
-### Contact Information###
+### Contact Information   
 
 Peter Osterhoudt
 Phone: (518) 454-2026

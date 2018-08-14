@@ -6,7 +6,7 @@ excerpt: "The Gill Library at The College of New Rochelle in New Rochelle, NY is
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Gill Library at The College of New Rochelle in New Rochelle, NY is seeking a service oriented individual to fill the position of Learning Commons /Library Assistant, to work evenings part time (18 hours/week) 6- 11pm. This FIPSE grant funded position is available immediately until September 30, 2018. Reporting to the Library Learning Commons Coordinator, the candidate will work closely with Learning Commons and Library Staff.
 
@@ -14,7 +14,7 @@ The Learning Commons/Library Assistant works in the Learning Commons/Circulation
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Provides coverage for the Learning Commons/Circulation Desk in the evening with a Librarian and Student Assistants
@@ -35,7 +35,7 @@ The Learning Commons/Library Assistant works in the Learning Commons/Circulation
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Experience working in an Academic Library a must, preferably in a Learning Commons environment
@@ -50,14 +50,14 @@ The Learning Commons/Library Assistant works in the Learning Commons/Circulation
 
 
 
-### Location###
+### Location   
 
 New Rochelle, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Send letter of interest addressed to Dean Ana Fontoura, along with resume and 3 references as PDF attachments to:
 
@@ -67,7 +67,7 @@ New Rochelle, NY 10805 blopez@cnr.edu
 
 
 
-### Company Information###
+### Company Information   
 
 The College of New Rochelle is a Catholic college in the Ursuline tradition and we welcome applicants from all backgrounds who will contribute to our unique educational mission. To learn more about Gill Library and The College of New Rochelle, visit our website at: www.cnr.edu.
 

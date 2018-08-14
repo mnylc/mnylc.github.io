@@ -6,12 +6,12 @@ excerpt: "Reporting to the Dean of the University Libraries, the Assistant Dean 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Dean of the University Libraries, the Assistant Dean for Special Collections & the Gallery provides leadership and daily oversight for the two departments and oversees all activities including collecting, processing, organizing, preserving, and making accessible collections of manuscripts, archives, Archdiocese of Newark archive, rare books, art and artifacts, digital collections and the website and web-based tools to accomplish this work. The Assistant Dean provides expertise and creativity in the curation, development, collection analysis, and selection of collections, supports the Dean in donor relations and community engagement and works collaboratively within the library, the university, and the larger community. Closely coordinates the common collection space and processing between Special Collections and the Gallery. Leads, supports and develops staff, administrators and library faculty in their development and in the development of services, monitors and assesses progress on the division's objectives, and participates in the next level/steps of planning for the University Libraries and the division.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Provides leadership, direction, support and daily oversight for the two departments and oversees all activities including collecting, processing, organizing, preserving, and making accessible collections of manuscripts, archives, rare books, art and artifacts, digital collections and the website and web-based tools to accomplish this work in the common collection collection and processing spaces. Oversees services and workflows to increase efficiencies in processing collections. Collaboratively works to develop and shape policies, space efficiencies and accessibility and visibility of the collections. The Gallery runs an ambitious exhibition schedule, is responsible for the organization, description and preservation of the art and artifacts collection, including a significant ethnographic collection.
 
@@ -22,7 +22,7 @@ Serves on committees in the University libraries and in the University as approp
 The person in this position is required to perform his or her duties at all Seton Hall University locations and facilities, as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 Required: 
 Master's Degree - Library and Information Sciences, ALA accredited, or equivalent in in-depth training and experience or a recognized ALA MLS equivalent. Must have substantive experience in Archives and/or Special Collections; 3-5 years experience.
@@ -48,32 +48,32 @@ General office environment
 Occasional heavy lifting and carrying
 
 
-### Compensation###
+### Compensation   
 
 Administrative - AD190
 
 
-### Location###
+### Location   
 
 South Orange, New Jersey
 
 
-### URL###
+### URL   
 
 [http://jobs.shu.edu/cw/en-us/job/493126/assistant-dean-for-special-collections-and-the-gallery](http://jobs.shu.edu/cw/en-us/job/493126/assistant-dean-for-special-collections-and-the-gallery)
 
-### To Apply###
+### To Apply   
 
 Please apply online through Seton Hall University Human Resources.
 Provide names and contact information for three references.
 
 
-### Company Information###
+### Company Information   
 
 Seton Hall University, 400 S. Orange Avenue, South Orange, NJ 07079
 
 
-### Contact Information###
+### Contact Information   
 
 Amanda Mita, Archives & Special Collections Technical Services Head, Seton Hall University Libraries, amanda.mita@shu.edu, 973-761-9271
 

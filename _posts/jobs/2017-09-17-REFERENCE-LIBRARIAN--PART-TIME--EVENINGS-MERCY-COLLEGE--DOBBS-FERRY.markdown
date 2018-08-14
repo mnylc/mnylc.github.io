@@ -7,47 +7,47 @@ excerpt: "Busy Learning Common style library needs evening reference librarian t
 tag: job
 ---
 
-### Description###
+### Description   
 
 Busy Learning Common style library needs evening reference librarian to  assist our students. 
 12-17 hours per week. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Answer reference questions in person and by phone, email and chat.  
 
 
-### Qualifications###
+### Qualifications   
 
 MLS required 
 
 
-### Compensation###
+### Compensation   
 
 $25 per hour
 
 
-### Location###
+### Location   
 
 Dobbs Ferry, NY
 
 
-### URL###
+### URL   
 
 www.mercy.edu
 
-### To Apply###
+### To Apply   
 
 Email only - tsantoro@mercy.edu
 
 
-### Company Information###
+### Company Information   
 
 tsantoro@mercy.edu
 
 
-### Contact Information###
+### Contact Information   
 
 Tesse Santoro
 

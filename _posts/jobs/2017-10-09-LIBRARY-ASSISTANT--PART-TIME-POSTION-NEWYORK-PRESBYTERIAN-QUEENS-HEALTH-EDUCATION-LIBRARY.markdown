@@ -6,12 +6,12 @@ excerpt: "The Health Education Library supports patient care, education, managem
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Health Education Library supports patient care, education, management decision-making, and research needs of the medical and hospital staff. The Library Assistant performs a variety of tasks to support services and routine functions of the Health Education Library.
 
 
-### Responsibilities###
+### Responsibilities   
 
 *Provide document delivery services: verifying, locating and requesting materials through interlibrary loan using online resource sharing systems such as DOCLINE and OCLC
 
@@ -28,7 +28,7 @@ The Health Education Library supports patient care, education, management decisi
 *perform other duties as requested. 
 
 
-### Qualifications###
+### Qualifications   
 
 Two years of college or equivalent
 
@@ -45,25 +45,25 @@ Two years of college or equivalent
 * ability to work independently
 
 
-### Compensation###
+### Compensation   
 
 work 21.75 hours a week, varied hours, including weekends; ~$25,000 a year
 
 
-### Location###
+### Location   
 
 56-45 Main Street, Flushing, NY 11355
 
 
 
 
-### To Apply###
+### To Apply   
 
 To apply please send a copy of your resume and a cover letter to Natalia Ryvkin nar9002@nyp.org
 
 
 
-### Company Information###
+### Company Information   
 
 NewYok-Presbyterian Queens 
 56-45 Main Street, Flushing, NY 11355

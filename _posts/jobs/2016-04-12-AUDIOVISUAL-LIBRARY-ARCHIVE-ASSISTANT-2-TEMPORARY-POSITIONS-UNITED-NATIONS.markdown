@@ -6,7 +6,7 @@ excerpt: "Under the overall supervision of the Chief of the Multimedia Resources
 tag: job
 ---
 
-### Description###
+### Description   
 
 Under the overall supervision of the Chief of the Multimedia Resources Unit of the Audio Visual Services Section, News and Media Division, Department of Public Information and within limits of delegated authority, the contractor is responsible for:
 
@@ -35,7 +35,7 @@ Starts On: April 25, 2016
 
 
 
-### Qualifications###
+### Qualifications   
 
 Experience
 Experience in media library, audiovisual library and archives, or related fields. Experience with audiovisual management systems and/or digital asset management systems is required. Experience in non-linear digital editing systems and workflows, as well as digital and analog audiovisual archiving formats and standards is required. Experience in audiovisual preservation is desirable. Experience in multimedia website maintenance is desirable.
@@ -57,11 +57,11 @@ High School Diploma required.
 
 
 
-### URL###
+### URL   
 
 [https://inspira.un.org/psc/REGISTER/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_HM_REG&languageCd=ENG](https://inspira.un.org/psc/REGISTER/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_HM_REG&languageCd=ENG)
 
-### To Apply###
+### To Apply   
 
 Interested candidates please provide as soon as possible the following document:
 
@@ -71,7 +71,7 @@ The UN Personal History Profile (PHP), UN cv format. The candidate must register
 Once the PHP is created/updated, please print the PDF form and email to silva@un.org 
 
 
-### Company Information###
+### Company Information   
 
 United Nations - Multimedia Resources Unit, UN Department of Public Information | New York, NY | 10017 | United States
 

@@ -6,12 +6,12 @@ excerpt: "This position is in the Dag Hammarskjold Library, Outreach Division in
 tag: job
 ---
 
-### Description###
+### Description   
 
 This position is in the Dag Hammarskjold Library, Outreach Division in the Department of Public Information. The Dag Hammarskjold Library’s primary function is to enable the delegations, Secretariat and other official groups of the Organization to obtain, with the greatest possible speed, convenience and economy, the information and documentation needed in the execution of their duties. The incumbent reports to the Unit Chief, Information Analysis and Metadata Unit, and the Chief Librarian.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Within delegated authority, the Librarian will be responsible for the following duties: 
 
@@ -33,7 +33,7 @@ Within delegated authority, the Librarian will be responsible for the following 
 • Performs other duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 Education
 Advanced university degree (Master’s degree or equivalent) in library science or information science. A first-level degree (Bachelor’s or equivalent) in the specified fields with two additional years of relevant work experience may be accepted in lieu of the advanced university degree.
@@ -47,16 +47,16 @@ English and French are the working languages of the United Nations Secretariat. 
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://careers.un.org/lbw/jobdetail.aspx?id=96222](https://careers.un.org/lbw/jobdetail.aspx?id=96222)
 
-### To Apply###
+### To Apply   
 
 [https://careers.un.org/lbw/jobdetail.aspx?id=96222](https://careers.un.org/lbw/jobdetail.aspx?id=96222)
 

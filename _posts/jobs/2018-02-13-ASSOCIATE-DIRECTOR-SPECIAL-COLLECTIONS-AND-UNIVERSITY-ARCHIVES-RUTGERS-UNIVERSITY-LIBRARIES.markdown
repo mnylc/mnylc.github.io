@@ -6,7 +6,7 @@ excerpt: "Rutgers University Libraries seek an experienced, innovative, and tech
 tag: job
 ---
 
-### Description###
+### Description   
 
 Rutgers University Libraries seek an experienced, innovative, and technologically savvy administrator to lead Special Collections and University Archives (SCUA). Reporting to the Assistant Vice President for Information Services and Director of New Brunswick Libraries, this position provides vision, leadership, and direction for a team of professional archivists and conservation specialists, with the goal of strengthening the visibility, accessibility, and impact of Rutgers University–New Brunswick’s nationally and internationally recognized special collections and archives. The Associate Director is responsible for developing comprehensive and mission-oriented digital and collections strategies that reflect current best practices and for initiating services and programs that meet the needs of our users and stakeholders. This is a highly visible position that is actively involved—in collaboration with the Rutgers Foundation, Libraries leadership, and other external partners—in donor cultivation, fundraising, grant writing, and outreach. The Associate Director will develop a deep understanding and appreciation of SCUA’s collections and identify forward-looking and synergistic opportunities and partnerships that advance the university’s mission.
 
@@ -16,7 +16,7 @@ SCUA’s collections are heavily used by Rutgers undergraduate and graduate clas
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Provides leadership, vision, and oversight for the development, arrangement and description, digitization, preservation, and conservation of special collections and university archives in a variety of formats. 
@@ -40,7 +40,7 @@ and promotion of library faculty and must qualify for tenure on appointment. The
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required: A master’s degree in library, information, or archival sciences from an ALA-accredited institution and a minimum of five years of successful and increasingly responsible experience in special collections administration, collection development, and management. Working knowledge of appropriate technologies for managing, processing, digitizing, and making discoverable primary sources and other rare or unique material is essential. Excellent interpersonal, communication, and organizational skills; the ability to work both independently and in a collegial environment; and experience working effectively with a diverse clientele are also required. Candidates must have successful experience managing budgets; strong project management experience; and evidence of successful donor relations, fundraising, and/or grant-writing experience. Familiarity with intellectual property issues related to special collections and archives is necessary. Candidates must demonstrate accomplishments in scholarly research and publication commensurate with acquiring tenure at an academic institution. The successful candidate must be eligible to work in the United States. Visa sponsorship is not available for this position. 
 
@@ -48,26 +48,26 @@ Preferred: A second master’s degree in a subject area and a research portfolio
 
 
 
-### Compensation###
+### Compensation   
 
 Salary will be commensurate with qualifications and experience. 
 
 
-### Location###
+### Location   
 
 New Brunswick, New Jersey
 
 
-### URL###
+### URL   
 
 [https://www.libraries.rutgers.edu/](https://www.libraries.rutgers.edu/)
 
-### To Apply###
+### To Apply   
 
  REVIEW OF APPLICATIONS AND INTERVIEWS WILL BEGIN IMMEDIATELY AND CONTINUE UNTIL THE POSITION IS FILLED. SUBMIT RESUME, COVER LETTER, AND NAMES OF THREE REFERENCES TO:  [http://jobs.rutgers.edu/postings/59551](http://jobs.rutgers.edu/postings/59551)
 
 
-### Company Information###
+### Company Information   
 
 : Rutgers, The State University of New Jersey, is a leading national research university and the state of New Jersey’s preeminent, comprehensive public institution of higher education. Chartered in 1766 as Queen’s College, Rutgers is the eighth oldest higher education institution in the United States, a land-grant university, and a member of the Association of American Universities, the Big Ten, and the CIC. More than 67,000 students and 22,000 faculty and staff learn, work, and serve the public at Rutgers locations across New Jersey and around the world. Rutgers includes Rutgers University–New Brunswick, Rutgers Biomedical and Health Sciences, Rutgers University–Newark, and Rutgers University–Camden. Rutgers comprises 33 schools and colleges and is home to more than 300 research centers and institutes. The university is dedicated to teaching that meets the highest standards of excellence; to conducting research that breaks new ground; and to providing services, solutions, and clinical care that help individuals and the local, national, and global communities where they live.
 

@@ -6,7 +6,7 @@ excerpt: "Reporting to the Director, Finance and Payroll,the incumbent provides 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Director, Finance and Payroll,the incumbent provides ongoing monitoring, analysis and reporting on the Libraries' $27+ million annual operating budget for Libraries Acquisitions (electronic resources, serials, monographs, etc.); responsible for monthly and year-end closing activities; coordinates submission of quarterly COB (Consolidated Operating Budget) variance explanations to the University Controller's and Budget offices; assists in the development and preparation of the Acquisitions annual operating budget. Works closely with Collection Development, selectors responsible for acquiring materials, and other Libraries finance staff. 
 Columbia University is an Equal Opportunity/Affirmative Action employer.  
@@ -14,7 +14,7 @@ Columbia University is an Equal Opportunity/Affirmative Action employer.
 TO APPLY: [https://jobs.columbia.edu/applicants/Central?quickFind=169610](https://jobs.columbia.edu/applicants/Central?quickFind=169610)
 
 
-### Responsibilities###
+### Responsibilities   
 
 Key Responsibilities: 
 1.	Oversee, and participate in, the monthly review of all Acquisitions expenditures by account. Manage the monthly expenditure reconciliation between ARC (University Financial System) and Voyager (Library Management System) including the production of a detailed report of the differences as well as a summary exceptions report for senior management. Oversee the processing of expenditure corrections, and/or reconciling entries in Voyager, as needed. (20%) 
@@ -27,7 +27,7 @@ Key Responsibilities:
 8.	Other duties as assigned including leading annual training sessions on budgeting and finance for selectors. (5%) 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 -BA/BS and at least three years of related work experience required. 
@@ -46,14 +46,14 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 [https://jobs.columbia.edu/applicants/Central?quickFind=169610](https://jobs.columbia.edu/applicants/Central?quickFind=169610)
 

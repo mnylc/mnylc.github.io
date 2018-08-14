@@ -6,12 +6,12 @@ excerpt: "The University Libraries and Archives at The New School seeks a full-t
 tag: job
 ---
 
-### Description###
+### Description   
 
 The University Libraries and Archives at The New School seeks a full-time Senior Library Clerk to work 7AM-3PM Monday-Friday. Reporting to the Assistant Director of Access and User Services, this is a union clerical position.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities in cooperation with Access and User Services staff:
 
@@ -47,7 +47,7 @@ Responsibilities in cooperation with Access and User Services staff:
 •  Perform other duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 
 •  High degree of computer literacy, including the use of automated library systems.
@@ -65,21 +65,21 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York City, NY, USA
 
 
-### URL###
+### URL   
 
 [https://careers.newschool.edu/postings/16007](https://careers.newschool.edu/postings/16007)
 
-### To Apply###
+### To Apply   
 
 Online at [https://careers.newschool.edu/postings/16007](https://careers.newschool.edu/postings/16007)
 
 
-### Company Information###
+### Company Information   
 
 [https://www.newschool.edu/](https://www.newschool.edu/)
 

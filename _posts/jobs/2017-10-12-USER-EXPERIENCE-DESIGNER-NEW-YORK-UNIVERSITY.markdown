@@ -6,7 +6,7 @@ excerpt: "The User Experience Designer is adept at translating user needs into i
 tag: job
 ---
 
-### Description###
+### Description   
 
 The User Experience Designer is adept at translating user needs into innovative and professional prototypes. Working with a small team of UX professionals, the UX Designer for Public Services will employ user-centered data and solicit departmental input to develop scalable, reusable front-end solutions for NYU Libraries applications and will stay abreast of design patterns, style-guides, frameworks, and technologies, as well as maintain relevant documentation for the department.
 
@@ -42,16 +42,16 @@ PI99798522
 
 
 
-### Location###
+### Location   
 
 New York, New York 10012
 
 
-### URL###
+### URL   
 
 [http://www.Click2apply.net/ht2rbbncnmctt3xh](http://www.Click2apply.net/ht2rbbncnmctt3xh)
 
-### To Apply###
+### To Apply   
 
 Apply Online
 

@@ -6,12 +6,12 @@ excerpt: "Berkeley College seeks a Library Director for the Brooklyn campus to p
 tag: job
 ---
 
-### Description###
+### Description   
 
 Berkeley College seeks a Library Director for the Brooklyn campus to provide strong, creative departmental leadership and positive learning environment.  The successful candidate will be part of a system wide collaborative of New York, New Jersey and Online librarians who provide research, instruction and consultation services in support of teaching,  learning, scholarship and the pursuit of life-long learning.  
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 
@@ -31,7 +31,7 @@ Berkeley College seeks a Library Director for the Brooklyn campus to provide str
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Master’s degree from an ALA accredited library school or other relevant accredited graduate degree 
@@ -50,26 +50,26 @@ Berkeley College seeks a Library Director for the Brooklyn campus to provide str
 
 
 
-### Location###
+### Location   
 
 Brooklyn, NY USA
 
 
-### URL###
+### URL   
 
 [http://berkeleycollege.edu](http://berkeleycollege.edu)
 
-### To Apply###
+### To Apply   
 
 [https://re21.ultipro.com/BER1008/JobBoard/JobDetails.aspx?__ID=*1286E7A7D779441D](https://re21.ultipro.com/BER1008/JobBoard/JobDetails.aspx?__ID=*1286E7A7D779441D)
 
 
-### Company Information###
+### Company Information   
 
 Berkeley College, 255 Duffield Street, Brooklyn, NY
 
 
-### Contact Information###
+### Contact Information   
 
 Apply online Careers at Berkeley College Requisition #18-0111
 

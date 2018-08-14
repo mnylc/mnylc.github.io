@@ -6,12 +6,12 @@ excerpt: "The Systems and Information Technology Librarian performs a variety of
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Systems and Information Technology Librarian performs a variety of key activities in Watson Library’s team-based environment. This position administers and maintains the library’s integrated library system and ensures its optimal performance and continuous development; manages the library’s hardware and software applications; and plays an active role in the library’s digital initiatives. This librarian is an active member of several technical services teams and provides reference and research support to library patrons. This position works collaboratively with library staff to regularly assess procedures, and develops strategies for the implementation of technologies to enhance access to the collections, to increase productivity, and to streamline workflows. This position will work collaboratively with the departments of Digital Media and Information Systems and Technology to coordinate and continuously improve library systems and services. This is an opportunity to contribute to the success of an innovative and productive art library while learning and applying new professional skills.
 
 
-### Responsibilities###
+### Responsibilities   
 
 -- Manages the maintenance and ongoing development of the library ILS (Innovative Interfaces Inc.’s Sierra); serves as primary contact with the vendor; coordinates with the library systems team for installing new releases, troubleshooting, and documentation.
 -- Provides staff training on all upgrades and enhancements and their implications for improving access, workflows and processes; assesses the value of new software and features.
@@ -29,7 +29,7 @@ The Systems and Information Technology Librarian performs a variety of key activ
 -- Other duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 Experience and Skills:
 -- Two or more years’ experience managing an ILS required, Innovative Interfaces preferred, in a medium or large research library.
@@ -58,21 +58,21 @@ Knowledge and Education:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://libmma.org/portal/employment/systems-2017](http://libmma.org/portal/employment/systems-2017)
 
-### To Apply###
+### To Apply   
 
 Review of applications will begin immediately and continue until the position is filled. Applicants should submit a cover letter indicating how they satisfy the requirements above, a resume, and the names of three references to the following e-mail address: lib.search@metmuseum.org.
 
 
-### Company Information###
+### Company Information   
 
 Thomas J. Watson Library
 The Metropolitan Museum of Art

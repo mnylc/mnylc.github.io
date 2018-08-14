@@ -6,14 +6,14 @@ excerpt: "Reporting to the Dean of BLAIS, the Director for Teaching, Learning & 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Dean of BLAIS, the Director for Teaching, Learning & Digital Scholarship is a new position dedicated to leading and shaping the instruction and liaison program and agenda in the Barnard Library. The Director coordinates the Personal Librarian program, a liaison program designed to create unique, specialized services for students and departments, and supervises most of the Personal Librarians. The Director is responsible for developing and deepening the Barnard Library instruction agenda using a lens of diversity, inclusion, accessibility, equity and critical librarianship to build programs and services. Additionally, the Director is responsible for assessment of the instruction, consultation and outreach components of the Personal Librarian program and is liaison to the in-development Center in the new Milstein Center for Teaching and Learning. As part of part of the Library Management Team, this position will collaborate across the library to leverage our various resources for project and services, and to assess and create development opportunities for all staff.
 
 Barnard Library and Academic Information Services (BLAIS) develops and curates unique collections and information resources, and provides information and media services that support the Barnard faculty and community, and establish a foundation for intellectual inquiry, ethical scholarship, and lifelong learning among Barnard students. The Milstein Center for Teaching and Learning, currently under construction, will open in the Fall of 2018 and incorporate 6 new faculty-led centers into the library, including the Empirical Reasoning Center, Design Center, Digital Humanities Center, Media Center, Movement Lab and Computational Science Center. The Center for Engaged Pedagogy (program currently in development) will facilitate both the integrated use of the center and the development of pedagogical practices at Barnard more broadly. BLAIS is committed to the College’s work in all its many facets of student and faculty support.
 
 
-### Responsibilities###
+### Responsibilities   
 
 1. Lead the Personal Librarian Program
 The Personal Librarians hold over 500 consultations and 75 curricular instruction sessions each semester. The Director of Teaching, Learning & Digital Scholarship will:
@@ -41,7 +41,7 @@ a. Work with the leadership team and a library wide team to establish profession
 5. Additional job responsibilities and duties as needed
 
 
-### Qualifications###
+### Qualifications   
 
 
 •  Demonstrated supervisory experience and management skills essential.
@@ -79,21 +79,21 @@ a. Work with the leadership team and a library wide team to establish profession
 •  Learning space design creation experience
 
 
-### Compensation###
+### Compensation   
 
 $80-90K
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://careers.barnard.edu/postings/3290](https://careers.barnard.edu/postings/3290)
 
-### To Apply###
+### To Apply   
 
 [https://careers.barnard.edu/postings/3290/pre_apply](https://careers.barnard.edu/postings/3290/pre_apply)
 

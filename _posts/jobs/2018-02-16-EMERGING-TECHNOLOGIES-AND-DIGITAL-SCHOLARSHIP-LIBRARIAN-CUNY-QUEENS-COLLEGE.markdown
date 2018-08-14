@@ -6,7 +6,7 @@ excerpt: "Often referred to as \"the jewel of the CUNY system\", Queens College 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Often referred to as "the jewel of the CUNY system", Queens College sits on 80 acres of land and is a place of contrast: an urban school in a suburban setting. It is a place where a large and diverse student body receives personalized attention. This formula has made us one of New York's premier educational institutions. With a mission to prepare students to become leading citizens of an increasingly global society, we offer a rigorous education in the liberal arts and sciences under the guidance of a faculty dedicated to both teaching and research. Our liberal arts, science and pre-professional programs earn us high rankings in prestigious college guides such as The Princeton Review America's Best Value colleges. Our students graduate with the ability to think critically, address complex problems, explore various cultures, use modern technologies and information resources, and have won prominence in nearly every field.
 
@@ -18,7 +18,7 @@ The Emerging Technology and Digital Scholarship Librarian (ETDS), a new position
 We seek a creative, collaborative librarian who can take the lead in the development of these new initiatives. The ETDS librarian will work collaboratively to support the development of the new initiatives to create high-impact learning spaces within the library that make use of new technology and digital pedagogies. In addition to leading relevant digital initiatives in the library, the ETDS librarian will support the digital initiatives already underway in disciplines such as sociology, English, and mathematics.
 
 
-### Responsibilities###
+### Responsibilities   
 
 As part of the Reference and Instruction Team, the ETDS Librarian will identify, develop, implement, and assess new technology that supports the digital scholarship of Queens College faculty and students. The successful candidate will assess the need for technology-based spaces within the library; manage relevant digital projects; develop grant proposals; provide training in digital tools both within the library and across campus; stay current with new trends in digital scholarship and educational technology; develop digital pedagogies; select and/or develop tools and instructional materials according to student needs; and participate in the college’s open access and publishing activities. The ETDS librarian will actively seek out partnerships with faculty and students engaged in digital scholarship as well as offices across campus including the Center for Teaching and Learning.
 
@@ -30,7 +30,7 @@ The successful candidate will be flexible, collaborative, and capable of assessi
 
 
 
-### Qualifications###
+### Qualifications   
 
 MINIMUM QUALIFICATIONS
 
@@ -64,21 +64,21 @@ PREFERRED QUALIFICATIONS
 
 
 
-### Compensation###
+### Compensation   
 
 CUNY offers a competitive compensation and benefits package to its faculty, covering health insurance, pension and retirement benefits, paid parental leave, savings programs, and employee tuition waver. We also provide mentoring and support for research, scholarship, and publication as part of our commitment to ongoing faculty professional development. Queens College provides access to temporary on-campus housing to facilitate relocation, access to on-campus daycare, and advisement on public schools for parents with school-age children.
 
 
-### Location###
+### Location   
 
 Flushing, New York
 
 
-### URL###
+### URL   
 
  cuny.jobs
 
-### To Apply###
+### To Apply   
 
 
 •Go to cuny.jobs
@@ -123,7 +123,7 @@ Regular/Temporary: Regular
 
 
 
-### Company Information###
+### Company Information   
 
 65-30 Kissena Boulevard, Flushing, NY 11367
 

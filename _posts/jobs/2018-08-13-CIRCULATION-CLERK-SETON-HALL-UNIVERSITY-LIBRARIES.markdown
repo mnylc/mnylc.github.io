@@ -6,12 +6,12 @@ excerpt: "This \"essential services\" position operates the circulation Library 
 tag: job
 ---
 
-### Description###
+### Description   
 
 This "essential services" position operates the circulation Library management system to perform clerical duties and routine library assignments related to the circulation and organization of library materials, as well as process inter-library loan requests, reserve requests, and direct student workers. This position has flexible hours including occasional evenings, weekends, and during summer.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 - Operate the circulation module of the Library Management system to perform clerical duties and routine library assignments related to circulating and organization of library materials such as books, journals, publications, micro-forms, audio-visual materials, stacks maintenance and Reserves.
@@ -21,7 +21,7 @@ This "essential services" position operates the circulation Library management s
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 
@@ -35,21 +35,21 @@ Desired Qualifications:
 
 
 
-### Compensation###
+### Compensation   
 
 Salary Grade: Staff Union - SU18.0
 
 
-### Location###
+### Location   
 
 400 SOuth Orange Ave, South Orange NJ 07079
 
 
-### URL###
+### URL   
 
 [http://jobs.shu.edu/cw/en-us/job/493551/circulation-clerk](http://jobs.shu.edu/cw/en-us/job/493551/circulation-clerk)
 
-### To Apply###
+### To Apply   
 
 Applications will only be accepted through online submission. Please visit the job description page [http://jobs.shu.edu/cw/en-us/job/493551/circulation-clerk](http://jobs.shu.edu/cw/en-us/job/493551/circulation-clerk) and click on the APPLY NOW button at the bottom of the page.
 
@@ -58,12 +58,12 @@ Applications will only be accepted through online submission. Please visit the j
 
 
 
-### Company Information###
+### Company Information   
 
 The Seton Hall University Libraries support excellence in academic and individual work, enable inquiry, foster intellectual and ethical integrity and respect for diverse points of view through user-focused services and robust collections as the intellectual and cultural heart of the University.
 
 
-### Contact Information###
+### Contact Information   
 
 Seton Hall University - Human Resources  (973) 761-9177
 

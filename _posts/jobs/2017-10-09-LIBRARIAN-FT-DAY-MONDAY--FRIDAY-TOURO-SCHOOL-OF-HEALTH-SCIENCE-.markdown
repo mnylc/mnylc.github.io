@@ -6,7 +6,7 @@ excerpt: "Assist in the delivery of library services and programs, and daily mai
 tag: job
 ---
 
-### Description###
+### Description   
 
 Assist in the delivery of library services and programs, and daily maintenance operations.
 Skills
@@ -27,7 +27,7 @@ Travel
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 1.	Provide reference and bibliographic services, including instruction and assistance in the use of library resources and services and direction in locating information and utilizing resources and services available on and off campus. Development of bibliographies and other reference aids and the performance of online searches when appropriate.
 
@@ -41,33 +41,33 @@ Travel
 
 
 
-### Qualifications###
+### Qualifications   
 
  	Masters  of Library Science
 
 
 
 
-### Location###
+### Location   
 
  Bay Shore NY
 
 
 
 
-### To Apply###
+### To Apply   
 
  Joan Wagner 
 Chief Librarian
 Joan.wagner2@touro.edu
 
 
-### Company Information###
+### Company Information   
 
 Touro School of Health Science  1700 Union Boulevard Bay Shore NY 11706
 
 
-### Contact Information###
+### Contact Information   
 
 
 

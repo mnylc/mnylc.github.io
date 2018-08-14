@@ -6,7 +6,7 @@ excerpt: "This position reports to the Library Manager at Baruch College. Respon
 tag: job
 ---
 
-### Description###
+### Description   
 
 This position reports to the Library Manager at Baruch College. Responsibilities include but are not limited to:
 - Supervises the operation of the library’s main circulation desk and related service points, which lend books, study room keys, multimedia materials and other items. 
@@ -22,7 +22,7 @@ This position reports to the Library Manager at Baruch College. Responsibilities
 May work evening and weekend hours.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Administers one or more aspects of Library operations and coordinates Library services.
 
@@ -35,38 +35,38 @@ Administers one or more aspects of Library operations and coordinates Library se
 - Performs related duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 Bachelor's Degree and four years' related experience required; MLS degree or Master's in a related field may be substituted for a portion of the experience requirement. Experience working at a busy service desk, which may include work in the fields of retail sales or hospitality services. Experience with training, scheduling and supervising staff.  Demonstrated commitment to high-quality customer service. Experience using computers and office technology.
 
 
-### Compensation###
+### Compensation   
 
 Salary commensurate with education and experience.  CUNY's benefits contribute significantly to total compensation, supporting health and wellness, financial well-being, and professional development.  We offer a range of health plans, competitive retirement/pension benefits and savings plans, tuition waivers for CUNY graduate study and generous paid time off.  Our staff also benefits from the extensive academic, arts, and athletic programs on our campuses and the opportunity to participate in a lively, diverse academic community in one of the greatest cities in the world.
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=17905&SiteId=1&PostingSeq=1](https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=17905&SiteId=1&PostingSeq=1)
 
-### To Apply###
+### To Apply   
 
 Visit www.cuny.edu, access the employment page, log in or create a new user account, and search for this vacancy using the Job ID (17905) or Title.  Select "Apply Now" and provide the requested information. 
 
 Candidates should provide a resume and cover letter.
 
 
-### Company Information###
+### Company Information   
 
 [http://www.baruch.cuny.edu/library/](http://www.baruch.cuny.edu/library/)
 
 
-### Contact Information###
+### Contact Information   
 
 NA
 

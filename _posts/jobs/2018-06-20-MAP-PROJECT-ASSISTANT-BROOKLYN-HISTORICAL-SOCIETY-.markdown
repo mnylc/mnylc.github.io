@@ -6,7 +6,7 @@ excerpt: "Brooklyn Historical Society (BHS) is seeking a Map Project Assistant f
 tag: job
 ---
 
-### Description###
+### Description   
 
 Brooklyn Historical Society (BHS) is seeking a Map Project Assistant for a grant-funded digitization and online access project called Portal to the Past: Creating Brooklyn Historical Society’s Digital Map Collection that includes facilitating digitization, photography, and conservation; some preservation work; digital asset management; metadata preparation; and website coordination. Tasks entail handling delicate and valuable manuscript and published maps manipulating metadata for multiple online access catalogs, creating blog and social media posts, and making presentations to professional audiences related to the collection and project. This project intersects with the Revealing Long Island History project so that project staff will prioritize cataloging, digitization, and access to maps with direct and tangential relationships to the history of Long Island. Both project teams will coordinate activities to maximize the goals for each project. The Assistant’s direct supervisor is Julie May, Managing Director of Library & Archives while also working closely with the Map Cataloger and Digital Projects Archivist. 
 
@@ -15,7 +15,7 @@ BHS’s project, Portal to the Past, to digitize the institution's extensive col
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Enhance MARC records with GIS coordinates
@@ -38,7 +38,7 @@ BHS’s project, Portal to the Past, to digitize the institution's extensive col
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Experience handling rare and delicate archival materials preferred 
@@ -59,24 +59,24 @@ BHS’s project, Portal to the Past, to digitize the institution's extensive col
 
 
 
-### Compensation###
+### Compensation   
 
 2 days per week during normal business hours: Monday through Friday, 9am-5pm. This is a grant-funded term position beginning August 1, 2018 through September 30, 2019. Pay rate is $25/hour. Benefits include free admittance to NYC museums.  
 
 
-### Location###
+### Location   
 
 Brooklyn, New York 
 
 
 
 
-### To Apply###
+### To Apply   
 
 Post a cover letter and resume to library@brooklynhistory.org. The subject line of the email should read: [last name] Map Project Assistant. No phone calls please.
 
 
-### Company Information###
+### Company Information   
 
 The Brooklyn Historical Society Library was one of only a handful of cultural organizations in the fast-growing City of Brooklyn in the mid-nineteenth century.  Founded in 1863, the library has a premier collection of research materials on the history of Brooklyn that today includes over 100,000 bound volumes, 60,000 graphic images, 2,000 linear feet of manuscripts, and over 2,000 maps and atlases. The library also holds family histories and genealogies, rare books, periodicals, serials, journals, personal papers, institutional records, and oral histories that document Brooklyn's many different ethnic groups and neighborhoods. The collection was designated a major research library by the U.S. Department of Education and has been used by countless students, teachers, genealogists, researchers and scholars.
 

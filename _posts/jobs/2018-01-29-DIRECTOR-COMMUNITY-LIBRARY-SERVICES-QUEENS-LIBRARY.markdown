@@ -6,7 +6,7 @@ excerpt: "DUTIES AND RESPONSIBILITIES: As a member of the library services manag
 tag: job
 ---
 
-### Description###
+### Description   
 
 DUTIES AND RESPONSIBILITIES:
 As a member of the library services management team, the Director of Community Library Services develops and implements organizational library service goals to deliver quality public library services.  
@@ -64,16 +64,16 @@ Queens Library is the proud recipient of the following awards: 2009 Library Jour
 
 
 
-### Location###
+### Location   
 
 Jamaica, Queens, NY
 
 
-### URL###
+### URL   
 
 [http://www.queenslibrary.org/](http://www.queenslibrary.org/)
 
-### To Apply###
+### To Apply   
 
 TO APPLY:  Please send your resume and cover letter to QLcareers@queenslibrary.org and reference “Director Community Library Services - EXTERNAL” in the subject line. Resumes will only be accepted by email.  
 

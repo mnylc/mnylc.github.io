@@ -6,28 +6,28 @@ excerpt: "Set-shift staffing of public service desks, including (but not limited
 tag: job
 ---
 
-### Description###
+### Description   
 
 Set-shift staffing of public service desks, including (but not limited to) Children’s and Reference desks, needed on nights and weekends. 
 
 
 
 
-### Qualifications###
+### Qualifications   
 
 ALA accredited Master’s Degree holders preferred; willing to consider current Library School students.
 
 
 
 
-### Location###
+### Location   
 
 Bayonne NJ
 
 
 
 
-### To Apply###
+### To Apply   
 
 Applications should be emailed, in PDF format only, to JP Porcaro, director@bayonnelibrary.org. 
 

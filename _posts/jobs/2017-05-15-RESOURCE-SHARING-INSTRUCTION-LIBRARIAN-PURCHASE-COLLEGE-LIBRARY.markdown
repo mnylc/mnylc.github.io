@@ -6,12 +6,12 @@ excerpt: "Purchase College, State University of New York seeks an innovative and
 tag: job
 ---
 
-### Description###
+### Description   
 
 Purchase College, State University of New York seeks an innovative and customer service-oriented professional for the full-time (12 month) tenure track faculty position of Resource Sharing/Instruction Librarian.  The position oversees an active interlibrary loan program, teaches undergraduate information literacy classes and is part of the reference services team.   Also, has subject liaison responsibilities commensurate with educational background including facilitating the adoption of open educational resources.      
 
 
-### Responsibilities###
+### Responsibilities   
 
 DUTIES AND RESPONSIBILITIES
 
@@ -35,7 +35,7 @@ DUTIES AND RESPONSIBILITIES
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 REQUIRED QUALIFICATIONS
@@ -69,21 +69,21 @@ PREFERRED QUALIFICATIONS
 
 
 
-### Compensation###
+### Compensation   
 
 $58,000
 
 
-### Location###
+### Location   
 
 Purchase, NY 10577
 
 
-### URL###
+### URL   
 
 [https://jobs.purchase.edu](https://jobs.purchase.edu)
 
-### To Apply###
+### To Apply   
 
 To apply, please complete an application at the Purchase College Job vacancy Website: [https://jobs.purchase.edu.](https://jobs.purchase.edu.) Applicants must submit the following materials with their application: 1) Cover letter, CV, and 3) A List of Three References With Their Contact Info (not the actual letters) uploaded to "Other Document #1." 
 
@@ -91,12 +91,12 @@ Women and minorities are encouraged to apply.
 
 
 
-### Company Information###
+### Company Information   
 
 Purchase College
 
 
-### Contact Information###
+### Contact Information   
 
 [https://jobs.purchase.edu](https://jobs.purchase.edu)
 

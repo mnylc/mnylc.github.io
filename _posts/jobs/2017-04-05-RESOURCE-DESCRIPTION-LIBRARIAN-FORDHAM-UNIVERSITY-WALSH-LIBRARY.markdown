@@ -8,7 +8,7 @@ tag: job
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 ●	Reports to the Head of Cataloging
 ●	Creates original metadata and edits online records in various formats including print, electronic and media according to guidelines in all subject areas and languages
@@ -23,7 +23,7 @@ tag: job
 
 
 
-### Qualifications###
+### Qualifications   
 
 ●	American Library Association accredited Master’s Degree
 ●	Minimum 2 years’ experience in an academic library
@@ -39,26 +39,26 @@ tag: job
 
 
 
-### Location###
+### Location   
 
 Bronx, NY
 
 
-### URL###
+### URL   
 
 [http://www.library.fordham.edu/](http://www.library.fordham.edu/)
 
-### To Apply###
+### To Apply   
 
 E-mail resume and cover letter to: John Williams, bjowilliams@fordham.edu
 
 
-### Company Information###
+### Company Information   
 
 Fordham University, 441 East Fordham Road, Bronx, NY 10458
 
 
-### Contact Information###
+### Contact Information   
 
 John Williams, Head of Cataloging, bjowilliams@fordham.edu
 

@@ -6,7 +6,7 @@ excerpt: "LIBRARIAN III – Information & Education Librarian Rutgers, The State
 tag: job
 ---
 
-### Description###
+### Description   
 
 LIBRARIAN III – Information & Education Librarian
 
@@ -22,7 +22,7 @@ The Robert Wood Johnson Library of the Health Sciences, located in the heart of 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Rutgers, The State University of New Jersey is seeking a Librarian III – Information and Education Librarian for the Rutgers University Libraries at Rutgers Robert Wood Johnson Library of the Health Sciences.
 
@@ -50,7 +50,7 @@ Reporting to the Associate Director and Medical Education Coordinator, Robert Wo
 •  Performs other related duties as assigned
 
 
-### Qualifications###
+### Qualifications   
 
 
 •  Master’s degree in Library Science, plus one (1) year of experience in an academic library or health sciences library, in an academic medical center, is required.
@@ -58,16 +58,16 @@ Reporting to the Associate Director and Medical Education Coordinator, Robert Wo
 
 
 
-### Location###
+### Location   
 
 New Brunswick, NJ
 
 
-### URL###
+### URL   
 
 [http://www.libraries.rutgers.edu/human_resources/employment](http://www.libraries.rutgers.edu/human_resources/employment)
 
-### To Apply###
+### To Apply   
 
 	[http://jobs.rutgers.edu/postings/48362](http://jobs.rutgers.edu/postings/48362)
 

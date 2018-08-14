@@ -6,12 +6,12 @@ excerpt: " On a full-time basis, performs necessary Library Circulation Desk ser
 tag: job
 ---
 
-### Description###
+### Description   
 
  On a full-time basis, performs necessary Library Circulation Desk services on behalf of the College with tact, fairness, firmness, and the ability to interpret a broad range of borrowing regulations for a wide variety of patrons, including students, faculty, staff, alumni and visitors.
 
 
-### Responsibilities###
+### Responsibilities   
 
 ● The oversight and performance of the day-to-day operations of the Library’s Circulation Desk, including the checking in and out of library materials, maintaining circulation records and statistics, sending out notices to patrons with overdue materials, advising the Registrar of the identity of delinquent borrowers, tracking library holds, clearing patron records, and issuing receipts when appropriate. 
 ●Maintains records for funds received for overdue and lost item fines. 
@@ -31,7 +31,7 @@ tag: job
 
 
 
-### Qualifications###
+### Qualifications   
 
 ● Bachelor's degree. 
 ● Knowledge of Ex Libris Voyager or any other Integrated Library System a plus. 
@@ -44,20 +44,20 @@ tag: job
 
 
 
-### Location###
+### Location   
 
 Brooklyn Heights, New York
 
 
 
 
-### To Apply###
+### To Apply   
 
 Interested applicants can apply through the SFC Careers webpage 
 [https://sfc.edu/about/careers](https://sfc.edu/about/careers)
 
 
-### Company Information###
+### Company Information   
 
 About St. Francis College: 
 For over 150 years, the mission of St. Francis has been to provide an affordable, quality education to working class people who otherwise may not be able to attend college. St. Francis College is a private, independent, co-educational urban college whose Franciscan and Catholic traditions underpin its commitment to academic excellence, spiritual and moral values, physical fitness, social responsibility and life-long learning. We educate the whole person for a full, relational life, developing the students' talents and abilities for meaningful, fulfilling careers, as well as for collaborative, service-oriented leadership. 
@@ -65,7 +65,7 @@ The College strives to offer ample opportunities for students to immerse themsel
 St. Francis College is an Affirmative Action, Equal Opportunity employer and we are strongly committed to increasing the diversity of our faculty, students, and the curriculum. Qualified candidates of diverse ethnic and racial backgrounds are encouraged to apply.
 
 
-### Contact Information###
+### Contact Information   
 
  
 

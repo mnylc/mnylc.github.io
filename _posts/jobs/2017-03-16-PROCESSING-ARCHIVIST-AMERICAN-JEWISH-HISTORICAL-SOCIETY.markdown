@@ -6,7 +6,7 @@ excerpt: "Performs arrangement, rehousing and basic preservation of the HIAS Rec
 tag: job
 ---
 
-### Description###
+### Description   
 
 Performs arrangement, rehousing and basic preservation of the HIAS Records and encodes finding aid.  This is a temporary ( 21 month) position funded by a grant from HIAS, at the American Jewish Historical Society in Manhattan.
 
@@ -33,7 +33,7 @@ Salary:
 TBD depending on experience, with benefits
 
 
-### Responsibilities###
+### Responsibilities   
 
 ESSENTIAL FUNCTIONS (approx. 80%):
 -     Processing of institutional papers with 2 other archivists
@@ -54,7 +54,7 @@ ADDITIONAL RESPONSIBILITIES (approx. 20%):
 -       Assist with selecting visual materials from the collection for scanning, for project website AJHS publications, exhibits and special events. (required)
 
 
-### Qualifications###
+### Qualifications   
 
 MINIMUM QUALIFICATIONS
  
@@ -80,21 +80,21 @@ Special Environmental Factors:
 Periodic exposure to dusty and moldy materials.
 
 
-### Compensation###
+### Compensation   
 
 TBD depending on experience, with benefits
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
  [http://ajhs.org/careers](http://ajhs.org/careers)
 
-### To Apply###
+### To Apply   
 
 Please send resume and cover letter by March 10, 2017 to:
 jobs@ajhs.org / Subject: HIAS processing archivist position
@@ -102,7 +102,7 @@ jobs@ajhs.org / Subject: HIAS processing archivist position
 
 
 
-### Contact Information###
+### Contact Information   
 
 jobs@ajhs.org
 [http://ajhs.org/](http://ajhs.org/)

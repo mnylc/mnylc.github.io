@@ -6,12 +6,12 @@ excerpt: "The Center for Digital Humanities at Princeton (CDH) seeks a Digital H
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Center for Digital Humanities at Princeton (CDH) seeks a Digital Humanities Project Manager, appointed at the rank of Associate Professional Specialist or more senior. Appointment is for one year with an anticipated start date of July 1, 2017, with renewal contingent on satisfactory performance and continued funding. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 With proven experience working on DH projects, as well as knowledge of the main DH trends, research tools and technologies, the DH Project Manager supports Princeton faculty and students in the incubation, planning, implementation, and conclusion stages of their projects. They assist with the organization and day-to-day work of CDH projects, coordinating communication, issue-tracking, and resource management among diverse teams of developers, faculty and students, digital humanities experts, librarians, and vendors. The DH Project Manager consults regularly with project teams, problem-solves, tracks documentation, and coordinates events and publicity. They must have expertise in current project management tools and strategies, and help teams choose and implement workflows. The DH Project Manager collaborates with CDH's development and management teams, helping to oversee each project's resource management and progress. They work closely with graduate student Project Managers, and help design and facilitate the monthly professional development seminar.
 
@@ -22,7 +22,7 @@ The DH Project Manager must be highly organized, detail oriented, and have the a
 This position is subject to the University's background check policy.  Applications must be submitted online at: [https://www.princeton.edu/acad-positions/position/1681.](https://www.princeton.edu/acad-positions/position/1681.) Complete applications must include a cover letter, CV and list of three references with full contact information.  Applications must be received by June 10, 2017, 11:59 p.m. EST.
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 Advanced degree in a humanities or DH related field (including Library and Information Science)
@@ -42,16 +42,16 @@ Experience working at a digital humanities initiative or center
 
 
 
-### Location###
+### Location   
 
 Princeton, New Jersey
 
 
-### URL###
+### URL   
 
 [https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=1681](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=1681)
 
-### To Apply###
+### To Apply   
 
 Via URL link
 

@@ -6,7 +6,7 @@ excerpt: "Stony Brook University, home to many highly ranked graduate research p
 tag: job
 ---
 
-### Description###
+### Description   
 
 Stony Brook University, home to many highly ranked graduate research programs, is located 60 miles from New York City on Long Island's scenic North Shore. Our 1,100-acre campus is home to 24,000 undergraduate, graduate, and doctoral students and more than 13,500 faculty and staff. SBU is a comprehensive research-intensive university and a member of the prestigious Association of American Universities (AAU), which includes 34 public universities among its 62 members. SBU consists of 12 schools and colleges and a teaching hospital that provides state-of-the-art healthcare in the Long Island region. SBU also manages and performs joint research with Brookhaven National Laboratory, the only Department of Energy Laboratory in the Northeast, and shares doctoral programs with Cold Spring Harbor Laboratory, a world-renowned molecular biology institute. Home to the Emerson String Quartet, the Pollock-Krasner House in East Hampton, New York, the Mellon Award winning Humanities Institute, and the Southampton Arts Program, and with endeavors that extend to the Turkana Basin Institute in Kenya and the Ranomafana National Park in Madagascar, SBU sustains an international reputation that cuts across the arts, humanities, social sciences, and natural sciences.
 
@@ -25,7 +25,7 @@ This is a tenure track position. FLSA Exempt position, not eligible for the over
 The selected candidate must successfully clear a background investigation.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Under the direction of the Associate Dean for Collections Strategy and Management, the Director of Collections and Resource Management provides leadership, guidance and expertise to the Department. The Director of Collections and Resource Management will be expected to conduct research and scholarship, and participate in faculty governance, committee works and continuing professional development consistent with University standards for promotion and tenure. As a faculty librarian, the successful incumbent will take an active role in liaison, reference and instruction duties. The selected candidate will be responsible for the following:
 
@@ -49,7 +49,7 @@ Under the direction of the Associate Dean for Collections Strategy and Managemen
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications: Master's Degree in Library Science from an ALA accredited institution or equivalent combination of education and experience. Three to five years of significant experience in acquisitions, cataloging, metadata production services, preservation, serials and electronic resources management and licensing. Evidence of successful and creative management of staff and operations, including demonstrated potential for leading transformational change. Evidence of leadership in the fields of knowledge access and resource management, including demonstrated effective administrative, management, planning, financial and organizational skills. Ability to lead in an atmosphere of continuous change, to work within a collaborative environment with diverse groups and to inspire and motivate. Strong collaboration and communication skills. Demonstrated knowledge of metadata standards, rules and tools. Record of professional activities, including research and engagement in professional organizations. Solid understanding of the research university environment and scholarly communication issues. Demonstrated competency in collections assessment and evaluation across varied formats, collections and disciplines. Demonstrated knowledge of emerging ideas of librarianship, including the capabilities and future trends of library technology and systems to optimize discovery and delivery of scholarly resources. Supervisory and training experience. Strong presentation skills.
 
@@ -58,16 +58,16 @@ Preferred Qualifications: Additional advanced degree. Experience in a research u
 
 
 
-### Location###
+### Location   
 
 Stony Brook, NY
 
 
-### URL###
+### URL   
 
 [http://www.Click2apply.net/qrx4m436h9](http://www.Click2apply.net/qrx4m436h9)
 
-### To Apply###
+### To Apply   
 
 Those interested in this position should submit a State employment application, cover letter and resume/CV to:
 

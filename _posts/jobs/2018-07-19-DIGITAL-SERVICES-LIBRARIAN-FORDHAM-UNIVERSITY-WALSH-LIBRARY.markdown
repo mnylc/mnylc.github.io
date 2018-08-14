@@ -7,13 +7,13 @@ excerpt: "The Digital Services Librarian participates in the planning, developme
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Digital Services Librarian participates in the planning, development, implementation, maintenance, and technical support of the Library’s core digital initiatives with primary focus on the Library’s web presence, all associated web-based applications and back-end databases.
  
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Digital Services Librarian is responsible for overseeing the development of digital collections using the CONTENTdm software platform and the Institutional Research Repository utilizing the Digital Commons platform. The incumbent provides website customization and database development for the ILLIAD interlibrary loan system, the ARES electronic reserve room, the
 SirsiDynix Symphony integrated library system, the CONTENTdm digital collections platform, and the Digital Commons research repository.
@@ -30,7 +30,7 @@ Specific responsibilities include:
 
 
 
-### Qualifications###
+### Qualifications   
 
  ALA Accredited MLS degree
  Five years web and database development experience preferred
@@ -40,31 +40,31 @@ Specific responsibilities include:
 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience
 
 
-### Location###
+### Location   
 
 Bronx, New York
 
 
-### URL###
+### URL   
 
 [https://www.fordham.edu/library](https://www.fordham.edu/library)
 
-### To Apply###
+### To Apply   
 
 Please send resume and cover letter to Michael Considine:  considine@fordham.edu
 
 
-### Company Information###
+### Company Information   
 
 Fordham University, Walsh Library, 441 East Fordham Road, Bronx, NY 10458
 
 
-### Contact Information###
+### Contact Information   
 
 Michael Considine
 Electronic Information Center

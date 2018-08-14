@@ -6,12 +6,12 @@ excerpt: "Fordham University Libraries seeks a detail oriented Electronic Resour
 tag: job
 ---
 
-### Description###
+### Description   
 
 Fordham University Libraries seeks a detail oriented Electronic Resources Librarian with strong technology and interpersonal communication skills. This is a full-time, year-round position that manages electronic databases and standard usage statistics.
 
 
-### Responsibilities###
+### Responsibilities   
 
 RESPONSIBILITIES:
  Provides ongoing maintenance of databases to ensure continued access throughout the life cycle; checks search capabilities
@@ -31,7 +31,7 @@ administer electronic resources.
  Assists in other tasks and special projects related to online resources as necessary
 
 
-### Qualifications###
+### Qualifications   
 
 QUALIFICATIONS:
  American Library Association accredited Master’s Degree
@@ -45,31 +45,31 @@ resolver (Serials Solutions preferred); and LibGuides
  Very detailed oriented with analytical and quantitative skills preferred
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience
 
 
-### Location###
+### Location   
 
 Bronx, New York 10458
 
 
-### URL###
+### URL   
 
 [https://www.web.fordham.edu/downloads/file/9108/electronic_resources_librarian_walsh_library_a03150_91117pdf](https://www.web.fordham.edu/downloads/file/9108/electronic_resources_librarian_walsh_library_a03150_91117pdf)
 
-### To Apply###
+### To Apply   
 
 Send letter & resume to Lynn Parliman - Head of Serials & Electronic Resources
 
 
-### Company Information###
+### Company Information   
 
 Fordham University Libraries - 441 East Fordham Road, Bronx NY 10458
 
 
-### Contact Information###
+### Contact Information   
 
 Lynn Parliman (Parliman@fordham.edu)
 

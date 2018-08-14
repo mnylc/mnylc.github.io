@@ -6,12 +6,12 @@ excerpt: "Reporting to the Manager of Access Services, the Access Service Coordi
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Manager of Access Services, the Access Service Coordinator will coordinate the library’s main activities pertaining to interlibrary lending and borrowing services. The incumbent will oversee the daily operation of the lending services, provide professional services to students, faculty, and staff, as well as serve as the library contact with the broader interlibrary loan community. The incumbent will also be responsible for managing all billing for the interlibrary loan department and will provide administrative support to other library departments.  
 
 
-### Responsibilities###
+### Responsibilities   
 
 - INTERLIBRARY LOAN-
 
@@ -57,7 +57,7 @@ Reporting to the Manager of Access Services, the Access Service Coordinator will
 
 
 
-### Qualifications###
+### Qualifications   
 
 -REQUIRED-
 
@@ -91,26 +91,26 @@ Reporting to the Manager of Access Services, the Access Service Coordinator will
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 library.mssm.edu
 
-### To Apply###
+### To Apply   
 
 Submit your resume along with a cover letter to kerry.mckee@mssm.edu.
 
 
-### Company Information###
+### Company Information   
 
 Levy Library, 1 Gustave L. Levy Pl, New York, NY 10029
 
 
-### Contact Information###
+### Contact Information   
 
 kerry.mckee@mssm.edu
 

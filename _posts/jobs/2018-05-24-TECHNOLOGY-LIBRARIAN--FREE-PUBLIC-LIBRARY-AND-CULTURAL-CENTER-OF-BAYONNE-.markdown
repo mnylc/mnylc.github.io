@@ -6,7 +6,7 @@ excerpt: "This librarian would be in charge of troubleshooting and management of
 tag: job
 ---
 
-### Description###
+### Description   
 
 This librarian would be in charge of troubleshooting and management of public WiFi, public & staff computer terminals, and all library computer technology. This includes the installation of new equipment and upkeep of existing machines. 
 
@@ -25,24 +25,24 @@ This librarian would also staff public service desks such as the reference desk,
 
 
 
-### Qualifications###
+### Qualifications   
 
 ALA accredited Master’s Degree required. 
 
 
-### Compensation###
+### Compensation   
 
 Salary: NJLA minimum.
 
 
-### Location###
+### Location   
 
 Bayonne NJ
 
 
 
 
-### To Apply###
+### To Apply   
 
 Applications should be emailed, in PDF format only, to JP Porcaro, director@bayonnelibrary.org. 
 

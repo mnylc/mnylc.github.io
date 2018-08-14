@@ -8,12 +8,12 @@ tag: job
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Morgan Library & Museum seeks a temporary, part-time Collections Metadata Assistant to perform data entry in the Morgan’s collections catalog, CORSAIR, OCLC's WorldCat database, and various local databases. The Assistant will also perform routine database maintenance tasks in all systems. This temporary part-time position is offered for 21 hours per week until March 31, 2019. The position reports to the Manager of Collections Information and Library Systems.
 
 
-### Qualifications###
+### Qualifications   
 
 Master's in Library and Information Science or related field, or substantial course work towards the degree
 Prior experience working in a research library, especially cataloging in special collections, preferred
@@ -28,21 +28,21 @@ Ability to lift moderately heavy boxes and books
 Ability to push a fully loaded book truck
 
 
-### Compensation###
+### Compensation   
 
 Competitive
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://www.themorgan.org/opportunities/employment/collections-metadata-assistant](http://www.themorgan.org/opportunities/employment/collections-metadata-assistant)
 
-### To Apply###
+### To Apply   
 
 Interested applicants should e-mail a cover letter and resume to:
 cisjob2@themorgan.org

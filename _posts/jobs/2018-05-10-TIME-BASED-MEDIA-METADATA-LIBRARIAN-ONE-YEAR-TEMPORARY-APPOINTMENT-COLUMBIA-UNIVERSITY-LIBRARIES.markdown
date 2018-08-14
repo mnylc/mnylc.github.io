@@ -6,7 +6,7 @@ excerpt: "The Columbia University Libraries seek a Time-Based Media Metadata Lib
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Columbia University Libraries seek a Time-Based Media Metadata Librarian to provide original metadata creation, application, and maintenance for a variety of time-based media projects (audio and video) primarily from the Columbia Center for Oral History Archive (CCOH) and to provide metadata remediation for legacy time-based media digital projects. Reporting to the Metadata Coordinator, the incumbent creates metadata to manage, preserve, and provide access to time-based media digital content for Columbia's online catalog CLIO and for ingest into the local Hyacinth metadata editor and Fedora. This includes conducting consultations, creating and maintaining documentation, data analysis, quality control, and data transformation. The Librarian works across the organization to ensure and coordinate integration of digital metadata with local and national systems and provide remediation of already digitized items. This includes editing, restructuring, adding subject and geographic access points, relationship designators, reconciling against external authorities, merging and manipulating spreadsheets, and/or updating MARC records. 
 
@@ -18,7 +18,7 @@ For immediate consideration please apply online:
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=66344](https://academicjobs.columbia.edu/applicants/Central?quickFind=66344)
 
 
-### Responsibilities###
+### Responsibilities   
 
 Qualifications:
 
@@ -42,16 +42,16 @@ Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=66344](https://academicjobs.columbia.edu/applicants/Central?quickFind=66344)
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=66344](https://academicjobs.columbia.edu/applicants/Central?quickFind=66344)
 

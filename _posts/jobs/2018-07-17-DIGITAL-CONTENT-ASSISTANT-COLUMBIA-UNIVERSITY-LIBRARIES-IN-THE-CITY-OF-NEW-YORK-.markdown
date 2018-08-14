@@ -6,7 +6,7 @@ excerpt: "Columbia University Libraries seek a collaborative, diligent, and ener
 tag: job
 ---
 
-### Description###
+### Description   
 
 Columbia University Libraries seek a collaborative, diligent, and energetic individual for the position of Digital Content Assistant in Avery Architectural and Fine Arts Library. Under the general supervision of the Registrar & Digital Content Librarian, the incumbent assists in the use of Avery collections by:
 - providing information and service to researchers in person, by email, mail and phone
@@ -24,7 +24,7 @@ Apply on-line: [https://jobs.columbia.edu/applicants/Central?quickFind=170659](h
 
 
 
-### Qualifications###
+### Qualifications   
 
 Qualifications: 
 - High School Diploma or equivalent required
@@ -43,19 +43,19 @@ Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York City, NY, USA
 
 
 
 
-### To Apply###
+### To Apply   
 
 [https://jobs.columbia.edu/applicants/Central?quickFind=170659](https://jobs.columbia.edu/applicants/Central?quickFind=170659) 
 
 
-### Company Information###
+### Company Information   
 
 Avery Architectural & Fine Arts Library is one of the pre-eminent collections of rare and historical documents for architectural study in the world. It contains more than 2.5 million drawings and architectural records, 40,000 rare books, and more than 12,000 artworks  representing world cultures antique and modern. Students, faculty, scholars and the architecturally-engaged public use these materials for their research and teaching; museums regularly borrow materials from our collections for exhibitions. Staff consists of registrar, curators, librarians, archivists in defined roles, but all staff work collaboratively to meet the needs of our varied constituency.
 

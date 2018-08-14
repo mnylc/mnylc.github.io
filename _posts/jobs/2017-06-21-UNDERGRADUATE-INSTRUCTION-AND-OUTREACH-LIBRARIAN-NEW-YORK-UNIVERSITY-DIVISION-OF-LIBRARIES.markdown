@@ -6,19 +6,19 @@ excerpt: "The New York University Division of Libraries seeks a librarian to joi
 tag: job
 ---
 
-### Description###
+### Description   
 
 The New York University Division of Libraries seeks a librarian to join a highly collaborative team supporting undergraduate library research instruction. This tenure-track faculty position is within the Instructional, Undergraduate, and Global Services Department, which focuses on foundational undergraduate courses and programs such as first-year experience, introductory writing, and freshman seminars. The department also builds capacity for teaching across the Division of Libraries through community building and in-house professional development. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Undergraduate Instruction and Outreach Librarian will contribute to this work by cultivating partnerships with campus-wide high-impact educational practices and student success initiatives. The role involves: designing and delivering library research education; program and curriculum development; assessment of student learning; and outreach and promotion, including serving as liaison to curricular and co-curricular campus partners. The department has liaison relationships with constituencies focusing on undergraduates such as: Writing Programs, First-Year Experience Programs, Honors Scholars, Undergraduate Research Initiatives, the University Learning Center, the Academic Resource Center, and the Center for the Advancement of Teaching. The Undergraduate Instruction and Outreach Librarian also contributes skills and expertise to user services across the Division of Libraries, providing physical and virtual reference service and taking a leadership role on projects and initiatives as appropriate.
 
 Librarians play a key role in the educational mission of NYU by establishing strong relationships with faculty and students, and connecting them to the services, content, and tools that meet their research, teaching, and learning needs. They participate in Library-wide committees and in professional activities outside of NYU and monitor developments and best practices in academic librarianship.
 
 
-### Qualifications###
+### Qualifications   
 
 Required 
 
@@ -60,26 +60,26 @@ Preferred
 •  Active in professional organizations. 
 
 
-### Compensation###
+### Compensation   
 
 Faculty status, attractive benefits package including five weeks annual vacation. Salary commensurate with experience and background
 
 
-### Location###
+### Location   
 
 New York, New York
 
 
-### URL###
+### URL   
 
 [https://library.nyu.edu](https://library.nyu.edu)
 
-### To Apply###
+### To Apply   
 
 To ensure consideration, submit your CV and letter of application, including the name, address, and telephone number of three references to [https://apply.interfolio.com/42697.](https://apply.interfolio.com/42697.)  Applications submitted by July 15, 2017 will receive preference.
 
 
-### Company Information###
+### Company Information   
 
 New York University Libraries: Libraries at New York University serve the school’s 40,000 students and faculty and contain more than 5 million volumes. The Libraries supports NYU’s vision to become the first true Global Network University by collaborating and providing services to our 11 global academic centers and our “portal campuses” in Abu Dhabi and Shanghai.   New York University Libraries is a member of the Association of Research Libraries, the OCLC Research Library Partnership, and the HathiTrust. The Libraries participates in a variety of consortia and collaborates closely with Columbia University Libraries and the New York Public Library through the Manhattan Research Library Consortium. View the NYU Libraries Mission and Strategic Plan.
 

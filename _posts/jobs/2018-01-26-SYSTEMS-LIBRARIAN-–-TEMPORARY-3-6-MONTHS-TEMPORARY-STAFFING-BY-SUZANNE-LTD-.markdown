@@ -6,17 +6,17 @@ excerpt: "Library Services Department at a global social justice philanthropic o
 tag: job
 ---
 
-### Description###
+### Description   
 
 Library Services Department at a global social justice philanthropic organization seeks a Temporary Systems Librarian to help with additional workload. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Assist in reviewing, organizing, and evaluating the digital library and library management system. There is a light customer service component as this person may also be tasked with answering queries and handling library requests from staff. 
 
 
-### Qualifications###
+### Qualifications   
 
 The ideal candidate will have a background in library systems and/or reference and should be comfortable with data analysis and technology. Someone proactive and organized who can find mistakes or gaps and fix them. 
 
@@ -32,31 +32,31 @@ Customer service experience a plus
 
 
 
-### Compensation###
+### Compensation   
 
 Hourly
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 www.suzannenyc.com
 
-### To Apply###
+### To Apply   
 
 Submit resume to: kgrant@suzannenyc.com
 
 
-### Company Information###
+### Company Information   
 
 370 Lexington Avenue, Suite 902, New York, NY 10017
 
 
-### Contact Information###
+### Contact Information   
 
 Karen Grant, Placement Director
 

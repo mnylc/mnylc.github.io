@@ -6,14 +6,14 @@ excerpt: "Clinton Community College, a member of the State University of New Yor
 tag: job
 ---
 
-### Description###
+### Description   
 
 Clinton Community College, a member of the State University of New York, is a progressive community college with a stunning location on the shores of Lake Champlain. The College plays a unique role in the local community and within the state by offering traditional and nontraditional students access to a variety of educational programs.  
 The Systems and Technical Services Librarian reports to the Library Director and manages several key library system technologies.  
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Local administration of Ex Libris ALEPH integrated library system:  install clients; edit Aleph configuration tables; implement upgrades and enhancements; troubleshoot and report problems; develop custom reports; train staff in use of Aleph modules, patron loads, reports, services and other components; and keep current with new innovations. 
@@ -36,7 +36,7 @@ The Systems and Technical Services Librarian reports to the Library Director and
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Graduate degree from ALA-accredited library and information science program.
@@ -76,16 +76,16 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 Plattsburgh, NY
 
 
-### URL###
+### URL   
 
 [http://www.clinton.edu/hr/JobView.aspx?jid=64598](http://www.clinton.edu/hr/JobView.aspx?jid=64598)
 
-### To Apply###
+### To Apply   
 
 Although the search will remain open until the position is filled, for full consideration, candidates should submit materials by January 26, 2018, including letter of application, resume, a CCC application form (available at www.clinton.edu), and unofficial transcripts to: hr.recruiting@clinton.edu         
 or
@@ -94,12 +94,12 @@ Human Resources Office, Clinton Community College
 
 
 
-### Company Information###
+### Company Information   
 
 Clinton Community College, a member of the State University of New York System, is an Equal Opportunity/ Affirmative Action employer and complies with ADA requirements.  Consistent with the Americans with Disabilities Act, applicants needing reasonable accommodations during the employment process should advise HR as necessary
 
 
-### Contact Information###
+### Contact Information   
 
 hr.recruiting@Clinton.edu
 

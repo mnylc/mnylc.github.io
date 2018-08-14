@@ -6,14 +6,14 @@ excerpt: "ESSENTIAL DUTIES AND RESPONSIBILITIES This position is responsible for
 tag: job
 ---
 
-### Description###
+### Description   
 
 ESSENTIAL DUTIES AND RESPONSIBILITIES
 
 This position is responsible for the supervision and management of all aspects of Acquisitions operations to include monitoring the materials budget and expenditures; managing the ordering and receipt of library books, materials, supplies, and equipment; and allocating funds and paying invoices. The Acquisitions Librarian also maintains accurate acquisitions statistics: produces reports.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Detailed aspects of Acquisitions position:
 
@@ -32,7 +32,7 @@ Design shared instructional materials using LibGuides or other various platforms
 Collaborate with faculty to create course specific research guides.
 
 
-### Qualifications###
+### Qualifications   
 
 QUALIFICATIONS
 
@@ -48,26 +48,26 @@ Strong public service orientation and commitment to the library's instructional 
 
 
 
-### Location###
+### Location   
 
 Bronxville, NY
 
 
-### URL###
+### URL   
 
 concordia-ny.edu
 
-### To Apply###
+### To Apply   
 
 Please apply using this link: [https://www.appone.com/MainInfoReq.asp?R_ID=1969415](https://www.appone.com/MainInfoReq.asp?R_ID=1969415) 
 
 
-### Company Information###
+### Company Information   
 
 171 White Plains Road Bronxville, NY 10708
 
 
-### Contact Information###
+### Contact Information   
 
 Theresa Vidal, 914-337-9300 x2116 or Terry.Vidal@concordia-ny.edu
 

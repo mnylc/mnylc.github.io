@@ -6,12 +6,12 @@ excerpt: "ASA College, a New York City-based, two-year degree-granting instituti
 tag: job
 ---
 
-### Description###
+### Description   
 
 ASA College, a New York City-based, two-year degree-granting institution, has an opening for a part-time librarian at our Brooklyn MetroTech and Herald Square Manhattan locations. This position will not exceed 28 hours per week, primarily between 9-5 Monday-Friday, but may involve some evenings to 9pm in Brooklyn and occasional Saturdays, 10-3, in Manhattan. The successful candidate will be an energetic, flexible and creative self-starter able to work efficiently both alone and as part of the ASA Library team with a widely-diverse student population.
 
 
-### Responsibilities###
+### Responsibilities   
 
 The position is responsible for all ASA library services, including customer service interaction, organization of the library, supervision of student workers, collection development and maintenance of existing physical and electronic collections. 
 
@@ -22,23 +22,23 @@ This position is supervised by the head librarians of the Brooklyn and Manhattan
 The start date for this position is February 13, 2018.
 
 
-### Qualifications###
+### Qualifications   
 
 An MLS or MLIS degree from an ALA-accredited institution is required. Previous academic library experience is preferred by not essential. 
 
 
 
 
-### Location###
+### Location   
 
 MetroTech, Brooklyn and Herald Square, Manhattan
 
 
-### URL###
+### URL   
 
 asa.edu
 
-### To Apply###
+### To Apply   
 
 Qualified individuals are invited to email résumé and cover letter to:
  

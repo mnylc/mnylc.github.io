@@ -6,12 +6,12 @@ excerpt: "Assist in the delivery of library services and programs, and daily mai
 tag: job
 ---
 
-### Description###
+### Description   
 
 Assist in the delivery of library services and programs, and daily maintenance operations.
 
 
-### Responsibilities###
+### Responsibilities   
 
 1.	Provide reference and bibliographic services, including instruction and assistance in the use of library resources and services and direction in locating information and utilizing resources and services available on and off campus. Development of bibliographies and other reference aids and the performance of online searches when appropriate.
 
@@ -37,7 +37,7 @@ Travel
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 Education, Preparation, and Training
@@ -60,26 +60,26 @@ Computer Skills
 
 
 
-### Location###
+### Location   
 
 227 West 60th Street New York, NY
 
 
-### URL###
+### URL   
 
 [https://www.tourolib.org/](https://www.tourolib.org/)
 
-### To Apply###
+### To Apply   
 
 Send resume and cover letter
 
 
-### Company Information###
+### Company Information   
 
 Touro College - Lander College for Women - 227 West 60th Street New York, NY
 
 
-### Contact Information###
+### Contact Information   
 
 david.levy@touro.edu  and salvatore.russo@touro.edu
 

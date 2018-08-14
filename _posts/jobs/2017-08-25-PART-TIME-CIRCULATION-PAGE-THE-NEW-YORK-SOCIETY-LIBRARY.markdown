@@ -6,12 +6,12 @@ excerpt: "The Library is seeking a Part-Time Circulation Page. The position repo
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Library is seeking a Part-Time Circulation Page. The position reports to the Head of Circulation and assists the Circulation Department by preparing, retrieving and re-shelving books, and aiding Library users as needed.
 
 
-### Responsibilities###
+### Responsibilities   
 
     Sort material by call number prior to shelving.
     Shelve materials in correct location.
@@ -22,7 +22,7 @@ The Library is seeking a Part-Time Circulation Page. The position reports to the
     Perform other duties as needed.
 
 
-### Qualifications###
+### Qualifications   
 
 Excellent communication skills
 Computer proficiency
@@ -31,26 +31,26 @@ The ability to handle multiple tasks in a busy environment
 The ability to accurately sort alphanumerically
 
 
-### Compensation###
+### Compensation   
 
 $12 an hour
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://nysoclib.org/about/part-time-circulation-page-posted-8072017](http://nysoclib.org/about/part-time-circulation-page-posted-8072017)
 
-### To Apply###
+### To Apply   
 
 Potential candidates should email a cover letter, resume, and the names of two (2) references with contact information to Mia D’Avanza, Head of Circulation at mdavanza@nysoclib.org with “PT Circ Page” in the subject line to be considered. 
 
 
-### Company Information###
+### Company Information   
 
 www.nysoclib.org
 

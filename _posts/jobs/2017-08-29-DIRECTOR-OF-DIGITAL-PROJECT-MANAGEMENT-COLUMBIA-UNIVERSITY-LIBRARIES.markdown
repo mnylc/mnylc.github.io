@@ -6,7 +6,7 @@ excerpt: "Columbia University Libraries invites nominations and applications for
 tag: job
 ---
 
-### Description###
+### Description   
 
 Columbia University Libraries invites nominations and applications for the Director of Digital Project Management. 
 
@@ -24,7 +24,7 @@ Columbia University is an Equal Opportunity/Affirmative Action Employer.
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Supervising a staff of 3.5 professionals the Director will:
 - Oversee and coordinate with other Library directors the development and implementation of multi-divisional Libraries digital projects, including but not limited to developing project plans, setting requirements, creating budgets and timelines, building and managing project teams, overseeing projects and communicating with stakeholders and partners as required. 
@@ -35,7 +35,7 @@ Supervising a staff of 3.5 professionals the Director will:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 - Advanced degree in a related field
@@ -53,21 +53,21 @@ Preferred Qualifications:
 - Experience with agile project development and management methodologies 
 
 
-### Compensation###
+### Compensation   
 
 commensurate with experience
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 library.columbia.edu
 
-### To Apply###
+### To Apply   
 
 Apply on-line at [https://academicjobs.columbia.edu/applicants/Central?quickFind=64965](https://academicjobs.columbia.edu/applicants/Central?quickFind=64965)
 

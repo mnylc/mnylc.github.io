@@ -6,12 +6,12 @@ excerpt: "Creative, personable, experienced youth worker needed for the acclaime
 tag: job
 ---
 
-### Description###
+### Description   
 
 Creative, personable, experienced youth worker needed for the acclaimed Levels cultural arts center for youth, ages 12-18.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Required Skills and Experience: Bachelor's Degree required, Master’s Degree preferred.
 Strong background in STEM and Technology.
@@ -33,21 +33,21 @@ Fridays and/or Saturdays, 5:00 pm – 12:00 am
 
 
 
-### Compensation###
+### Compensation   
 
 Starting salary: $26.41 per hour
 
 
-### Location###
+### Location   
 
 Great Neck, NY
 
 
-### URL###
+### URL   
 
 [https://www.greatnecklibrary.org/libinfo/jobs.php](https://www.greatnecklibrary.org/libinfo/jobs.php)
 
-### To Apply###
+### To Apply   
 
 Reply with resume, cover letter and three references by
 August 8, 2018 to:

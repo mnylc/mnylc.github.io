@@ -6,12 +6,12 @@ excerpt: "Assist in the delivery of library services and programs, and daily mai
 tag: job
 ---
 
-### Description###
+### Description   
 
 Assist in the delivery of library services and programs, and daily maintenance operations.
 
 
-### Responsibilities###
+### Responsibilities   
 
 1.	Provide reference and bibliographic services, including instruction and assistance in the use of library resources and services and direction in locating information and utilizing resources and services available on and off campus. Development of bibliographies and other reference aids and the performance of online searches when appropriate.
 
@@ -24,7 +24,7 @@ Assist in the delivery of library services and programs, and daily maintenance o
 5.	Perform other duties as assigned and contribute to the overall efficiency of the library
 
 
-### Qualifications###
+### Qualifications   
 
  	Masters  of Library Science
  	2 years experience
@@ -41,28 +41,28 @@ Hours:  Monday - Thursday   1:30pm -  10:00pm
 
 
 
-### Compensation###
+### Compensation   
 
 N/A
 
 
-### Location###
+### Location   
 
 Midwood (Flatbush), Brooklyn, NY USA
 
 
-### URL###
+### URL   
 
 [https://www.tourolib.org/](https://www.tourolib.org/)
 
-### To Apply###
+### To Apply   
 
 Email resumes to Chief Librarian --Midwood Campus
 Edlira Agalliu, Cheilf Librarian - Midwood Library
 edlira.agalliu@touro.edu 
 
 
-### Company Information###
+### Company Information   
 
 Lander College of Liberal Arts & Sciences 
 Midwood
@@ -70,7 +70,7 @@ Midwood
 Brooklyn, New York 11230 
 
 
-### Contact Information###
+### Contact Information   
 
 Edlira Agalliu, Chief Librarian - Midwood Library
 edlira.agalliu@touro.edu 

@@ -6,14 +6,14 @@ excerpt: "Léman Manhattan Preparatory School is home to New York City’s only 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Léman Manhattan Preparatory School is home to New York City’s only high school boarding program. Situated across two campuses in historic buildings in Lower Manhattan, the city’s fastest growing residential neighborhood, Léman Manhattan is an International Baccalaureate World School with more than 700 students from PreK-12th grade. A true microcosm of the world, Léman students hail from more than 50 countries of origin and speak dozens of languages – providing students with the opportunity to engage in discourse across a variety of perspectives and become engaged global citizens.
 The Librarian role is responsible for providing library and research services for the school and ensures the maintenance of the library and its collections. The Librarian provides adequate services to ensure that materials are current and accessible and available to the Teachers, Students and Parents. The key goals of the job are to: Ensure that students and staff are effective users of ideas and information; empower students to be critical thinkers, enthusiastic readers, skillful researchers, ethical users of information; instill a love of learning in all students and ensure equitable access to information and collaborate with classroom teachers to design and implement units of instruction, assess student learning. Responsibilities will be shared in partnership with another Librarian in the Upper School.
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Collaborate with middle and high school teachers to integrate information literacy into their research projects
@@ -58,21 +58,21 @@ The Librarian role is responsible for providing library and research services fo
 
 
 
-### Location###
+### Location   
 
 NY,NY 10004
 
 
 
 
-### To Apply###
+### To Apply   
 
 To be considered for a position, please send a letter of interest, a resume, and contact information for three references to Leona Mizrakhi, Director of Human Resources, at L.Mizrakhi@lemanmanhattan.org
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 To be considered for a position, please send a letter of interest, a resume, and contact information for three references to Leona Mizrakhi, Director of Human Resources, at L.Mizrakhi@lemanmanhattan.org. Applications will be reviewed as they are received, and the position will remain open until filled.
 

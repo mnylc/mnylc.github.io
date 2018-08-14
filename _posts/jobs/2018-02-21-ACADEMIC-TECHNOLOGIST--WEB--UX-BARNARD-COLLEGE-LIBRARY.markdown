@@ -6,12 +6,12 @@ excerpt: "Reporting to the Director of IMATS, the Academic Technologist – Web 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Director of IMATS, the Academic Technologist – Web & UX will focus on user interfaces and user experience. The Academic Technologist will support the work of the 6 faculty-led Centers in the new Milstein Teaching and Learning Center (MTLC), including the Empirical Reasoning Center, Design Center, Digital Humanities Center, Media Center, Movement Lab and Computational Science Center, collaborating with instructional designers, librarians, faculty, systems administrators, and others to design, develop, and teach websites, applications, tools, and platforms. The Academic Technologist works closely with communications staff and designers to share information about the library and its collections via library.barnard.edu and other library sites, facilitating community interaction with and increasing accessibility to our new spaces and services. The position will use user experience techniques to develop assessments for library systems and programs and collaborate with the Center Directors and other partners to develop assessments for the MTLC broadly.
 
 
-### Responsibilities###
+### Responsibilities   
 
 1. Support instructional technology for individuals and programmatically
 ○ Development, information architecture, user interface, and user experience work on online presence of BLAIS, the Centers, and related curricular projects.
@@ -31,7 +31,7 @@ Reporting to the Director of IMATS, the Academic Technologist – Web & UX will 
 6. Performs additional duties and responsibilities as needed.
 
 
-### Qualifications###
+### Qualifications   
 
 ● Adaptability to new standards and programming/scripting/markup languages.
 ● Knowledge of or ability to learn and implement scripting languages (e.g. Python/Ruby/JavaScript) and client-side development (e.g. HTML5 and CSS) in accordance with accessibility guidelines and best practices.
@@ -41,16 +41,16 @@ Reporting to the Director of IMATS, the Academic Technologist – Web & UX will 
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://careers.barnard.edu/postings/3338](https://careers.barnard.edu/postings/3338)
 
-### To Apply###
+### To Apply   
 
 [https://careers.barnard.edu/postings/3338/pre_apply](https://careers.barnard.edu/postings/3338/pre_apply)
 

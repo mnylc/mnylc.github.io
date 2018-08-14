@@ -6,14 +6,14 @@ excerpt: "Reporting to the Director, Finance and Payroll, the incumbent provides
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Director, Finance and Payroll, the incumbent provides a wide range of financial activities in support of the Libraries$ 27+ million annual operating budget for Acquisitions (electronic resources, print serials, monographs etc.). Develops and produces both monthly and custom reports to support purchasing decisions related to library collections. Assists in monthly and year-end closing activities; quarterly COB (Consolidated Operating Budget) variance explanations to the University Controller's and Budget Offices and preparation of the Acquisitions annual operating budget. 
 
 TO APPLY: [https://jobs.columbia.edu/applicants/Central?quickFind=169611](https://jobs.columbia.edu/applicants/Central?quickFind=169611)
 
 
-### Responsibilities###
+### Responsibilities   
 
 Key Responsibilities: 
 1.	Prepare monthly review of all Acquisitions expenditures by account. Highlight any areas of concern to the Manager, Collections Acquisitions Finance for further action. Prepare the monthly expenditure reconciliation between ARC (University Financial System) and Voyager (Libraries Management System). Process expenditure corrections and/or reconciling entries in Voyager. Produce various monthly reports including year-to-date actual spending reports, fund reports to selectors integrating ARC and Voyager data, subscription data reports and other reports as requested. 
@@ -24,7 +24,7 @@ Key Responsibilities:
 6.	Other duties as assigned. 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 -BA/BS and at least two years of related work experience required. 
@@ -46,7 +46,7 @@ Preferred Qualifications:
 
 
 
-### To Apply###
+### To Apply   
 
 [https://jobs.columbia.edu/applicants/Central?quickFind=169611](https://jobs.columbia.edu/applicants/Central?quickFind=169611) 
 

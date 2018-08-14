@@ -6,7 +6,7 @@ excerpt: "Social Sciences Data and Sociology Librarian Princeton University Libr
 tag: job
 ---
 
-### Description###
+### Description   
 
 Social Sciences Data and Sociology Librarian  				
 
@@ -26,14 +26,14 @@ The Princeton University Library is one of the world’s leading research librar
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The successful candidate will oversee the Library’s collections in sociology, manage acquisitions funds in this area, and work closely with subject selectors in related areas on collection development and collaborative collection building. This position is also the Library’s subject liaison to the Department of Sociology, supporting undergraduate course and independent work, the graduate student program, and faculty teaching and research. 
 
 The Social Sciences Data and Sociology Librarian actively participates in a dynamic team environment in the Donald E. Stokes Library and with other social sciences librarians and data specialists to develop and efficiently implement instructional, outreach, research and reference services to Princeton University students and faculty. Creates research guides to promote access to subject-specific and data sources. Represents Princeton in relevant professional and scholarly organizations. 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 
@@ -60,16 +60,16 @@ Strongly Preferred:
 
 
 
-### Location###
+### Location   
 
 Princeton, New Jersey, USA
 
 
-### URL###
+### URL   
 
 [https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=6561](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=6561)
 
-### To Apply###
+### To Apply   
 
 Applications will be accepted only from the Jobs at Princeton website at [http://www.princeton.edu/jobs](http://www.princeton.edu/jobs) and must include a resume, cover letter, and a list of three references with full contact information.
 
@@ -78,7 +78,7 @@ Princeton University is an equal opportunity employer and all qualified applican
 This position is subject to the University's background check policy.
 
 
-### Company Information###
+### Company Information   
 
 Princeton University Library, 1 Washington Road, Princeton, NJ 08544
 

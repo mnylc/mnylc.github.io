@@ -6,17 +6,17 @@ excerpt: "Grant funded position, 150 hrs, to process photographs"
 tag: job
 ---
 
-### Description###
+### Description   
 
 Grant funded position, 150 hrs, to process photographs
 
 
-### Responsibilities###
+### Responsibilities   
 
 Process, scan, label, and enter information in existing database
 
 
-### Qualifications###
+### Qualifications   
 
 BA or Masters from an accredited college or university in Archives/Records Management
 Experience in archiving visual resources
@@ -26,26 +26,26 @@ Knowledge of archival management standards
 
 
 
-### Location###
+### Location   
 
 New Rochelle, NY 
 
 
 
 
-### To Apply###
+### To Apply   
 
 Send resume and references to Larry Sheldon  lsheldon@wlsmail.org
 
 
-### Company Information###
+### Company Information   
 
 New Rochelle Public Library
 1 Library Plaza
 New Rochelle, NY 10801
 
 
-### Contact Information###
+### Contact Information   
 
 Larry Sheldon
 Librarian/Archivist

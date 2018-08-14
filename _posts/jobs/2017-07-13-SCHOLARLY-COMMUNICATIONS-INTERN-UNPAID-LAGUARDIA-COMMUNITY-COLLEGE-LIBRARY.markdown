@@ -6,7 +6,7 @@ excerpt: "LaGuardia Community College’s newly-expanded Library Media Resources
 tag: job
 ---
 
-### Description###
+### Description   
 
 LaGuardia Community College’s newly-expanded Library Media Resources Center is a vibrant hub of academic activity on campus. Librarians are faculty, and we teach up to 350 bibliographic instruction sessions per semester and multiple sections of credit-bearing information literacy courses in addition to working in our areas of specialty.
  
@@ -26,34 +26,34 @@ CUNY encourages people with disabilities, minorities, veterans and women to appl
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Term of internship: Sept.-Dec. 2017 (preferred) or Jan.-Feb. 2018 
 Hours: 10 hours/week for Sept.-Dec. 2017 or 20 hours/week for Jan.-Feb. 2018. Both include possible early evening/weekend hours depending on activities planned. Preference for applicants who can commit to a regular schedule each week. 
 
 
 
-### Qualifications###
+### Qualifications   
 
 This position is intended for current students in an ALA-accredited graduate program in library/information science. Applicants should have a strong academic background and interest in scholarly communication and publishing, ability to learn quickly, work independently, and face new and unexpected questions.
 
 
 
-### Compensation###
+### Compensation   
 
 unpaid
 
 
-### Location###
+### Location   
 
 Queens, New York 
 
 
-### URL###
+### URL   
 
 library.laguardia.edu
 
-### To Apply###
+### To Apply   
 
 To apply, please submit a resume and letter of interest to:
 Elizabeth Jardine
@@ -62,14 +62,14 @@ Use subject line "Scholarly Communications Internship."
 
 
 
-### Company Information###
+### Company Information   
 
 LaGuardia Community College, CUNY
 31-10 Thomson Avenue
 Long Island City, NY 11101
 
 
-### Contact Information###
+### Contact Information   
 
 Ann Matsuuchi, amatsuuchi@lagcc.cuny.edu
 

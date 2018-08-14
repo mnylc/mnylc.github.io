@@ -6,12 +6,12 @@ excerpt: "The New York University Libraries seek a collaborative and knowledgeab
 tag: job
 ---
 
-### Description###
+### Description   
 
 The New York University Libraries seek a collaborative and knowledgeable professional to serve as the Head of Resource Management, to lead a service-oriented department in the acquisition of research resources in all formats and oversee the quality control, upload, and maintenance of associated metadata. The successful candidate will combine demonstrated acquisitions, technical services and management experience with knowledge of standards and practices for the acquiring, processing, and cataloging of resources in all formats in an academic library setting.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to the Associate Dean for Knowledge Access and Resource Management Services (KARMS), the Head of Resource Management is a key senior managerial position within KARMS. The position provides leadership, vision, strategic direction, and expertise for a staff of 6 FTE professionals and 20 FTE paraprofessionals responsible for the acquisition of library resources, fiscal control of collections budgets, delivery management and ingest of associated metadata, and systems administration of primary resource data stores. The incumbent will closely collaborate with colleagues across the Division of Libraries, especially colleagues in the Knowledge Access Design and Development, Metadata Production and Management, and Collection and Research Services departments. Librarians are expected to serve as partners in the educational mission of NYU by establishing strong relationships with faculty and students, and providing responsive and innovative information services.
 
@@ -34,7 +34,7 @@ Collections curated, managed, and preserved by the NYU Libraries include in roun
 New York University Libraries: Libraries at New York University serve the school’s 40,000 students and faculty and contain more than 5 million volumes. The Libraries supports NYU’s vision to become the first true Global Network University by collaborating with and providing services to our 11 global academic centers and our “portal campuses” in Abu Dhabi and Shanghai. New York University Libraries is a member of the Association of Research Libraries, the OCLC Research Library Partnership, and the HathiTrust. The Libraries participate in a variety of consortia and collaborate closely with Columbia University Libraries and the New York Public Library through the Manhattan Research Library Consortium. View NYU Libraries Mission and Strategic Plan.
 
 
-### Qualifications###
+### Qualifications   
 
 Experience
 
@@ -57,26 +57,26 @@ Education Required
 Minimum one graduate degree (master’s level or higher) for consideration. A second graduate degree will be required for tenure review. One of the two graduate degrees must be an ALA-accredited MLS or equivalent.
 
 
-### Compensation###
+### Compensation   
 
 Faculty status, attractive benefits package including five weeks annual vacation. Salary commensurate with experience and background.
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 [https://apply.interfolio.com/39707](https://apply.interfolio.com/39707)
 
-### To Apply###
+### To Apply   
 
 To ensure consideration, submit your CV and letter of application, including the name, address, and telephone number of three references to: [https://apply.interfolio.com/39707.](https://apply.interfolio.com/39707.) CVs will be considered until the position is filled.
 
 
-### Company Information###
+### Company Information   
 
 New York University - Division of Libraries
 70 Washington Square South, 11th Floor
@@ -84,7 +84,7 @@ New York New York 10012
 United States
 
 
-### Contact Information###
+### Contact Information   
 
 libraries.careers@nyu.edu
 

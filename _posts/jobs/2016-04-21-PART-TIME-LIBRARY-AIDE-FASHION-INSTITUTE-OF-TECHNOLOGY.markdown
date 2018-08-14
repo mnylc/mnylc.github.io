@@ -6,7 +6,7 @@ excerpt: "The Fashion Institute of Technology (FIT), an internationally renowned
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Fashion Institute of Technology (FIT), an internationally renowned college of art and design, business and technology, of the State University of New York, invites nominations and applications for a part time Library Aide.
 
@@ -21,7 +21,7 @@ Tues-Wed 9am-2pm; Friday 11am-6:30pm; Saturday 10am-5pm
 Work is performed under typical library conditions with requirements for frequent sitting and standing for long periods of time, as well as frequent lifting and carrying of heavy library materials and maneuvering carts full of books.  Ability to sit or stand for long intervals.  Ability to lift up to 50 pounds and push and pull 100 or more pounds.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Provide public service desk coverage and support the unit's mission and daily operations:
 
@@ -66,7 +66,7 @@ Administrative
 * Schedule may change based on the needs of the department
 
 
-### Qualifications###
+### Qualifications   
 
 REQUIRED QUALIFICATIONS:
 Associate's degree and one year of related experience year in an academic library or environment. Work experience must include not less than one year in a fast paced, customer-oriented service work environment.
@@ -80,16 +80,16 @@ Must possess the ability to work with a diverse community, while exercising good
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=70097](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=70097)
 
-### To Apply###
+### To Apply   
 
 In order to be considered for the position, you must submit the following documents online at [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=70097:](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=70097:)
 * Resume

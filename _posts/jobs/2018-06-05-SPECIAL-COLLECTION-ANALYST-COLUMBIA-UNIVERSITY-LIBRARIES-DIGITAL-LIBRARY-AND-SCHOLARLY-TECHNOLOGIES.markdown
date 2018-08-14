@@ -6,7 +6,7 @@ excerpt: "Columbia University Libraries (CUL) seeks an innovative and energetic 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Columbia University Libraries (CUL) seeks an innovative and energetic librarian to provide support for Columbia's digital library and scholarly technology systems by adapting, configuring and using relevant software tools and implementing standards and best practices. The Special Collections Analyst will work directly with Libraries and University stakeholders to research, develop and     document technology solutions for digital library and digital scholarship initiatives. Working collaboratively, the incumbent will apply and help develop procedures, guidelines, policies, and  principles for the use of Columbia’s digital library and scholarly infrastructure. The incumbent will collaborate with library colleagues to ensure the provision of access to materials held in the Libraries' digital collections and repositories by performing metadata conversions and transformations utilizing a variety of tools and encoding standards. The incumbent will also provide technology support, systems analysis and requirements development for digital library and scholarly technology systems and services such as Columbia’s Digital Library Collections portal, Archival Collections Portal, Hyacinth metadata management system, Omeka and Spotlight, as well as for the publication of EAD archival finding aids and their integration into the Libraries’ unified discovery system. The incumbent, in cooperation with the Head of Digital Collections and Preservation Systems, others within the Digital Library and Scholarly Technologies group, and relevant staff throughout the library will provide assistance and direction in project planning and development that advances the strategic directions of the Libraries and the University.
 The Special Collections Analyst will also participate in secondary assignments based on qualifications, interests, and institutional need. The incumbent is expected to engage in scholarship and creative activities, serve on various library, university and professional committees.
@@ -15,7 +15,7 @@ As one of the world's leading research universities, Columbia University in the 
 TO APPLY: httsp://academicjobs.columbia.edu/applicants/Central?quickFind=66505
 
 
-### Responsibilities###
+### Responsibilities   
 
 MAJOR RESPONSIBILITIES:
 ‐The implementation of and support for systems supporting analog and digital library and archival collections, including new and innovative tools such as ArchivesSpace, Spotlight, ArcLight, Aeon, as well as current and evolving metadata and information management strategies
@@ -24,7 +24,7 @@ MAJOR RESPONSIBILITIES:
 ‐Maintaining a close awareness of evolving digital library / scholarly tools, practices and standards by outreach to others in the field, by participating in relevant CUL and external investigations and projects, and by monitoring professional communications forums and literature.
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 -MLS or PhD or equivalent  
@@ -46,14 +46,14 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 httsp://academicjobs.columbia.edu/applicants/Central?quickFind=66505
 

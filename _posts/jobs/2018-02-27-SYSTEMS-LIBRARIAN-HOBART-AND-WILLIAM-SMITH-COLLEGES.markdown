@@ -6,7 +6,7 @@ excerpt: "Hobart and William Smith Colleges' Warren Hunting Smith Library seeks 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Hobart and William Smith Colleges' Warren Hunting Smith Library seeks to fill the position of Systems Librarian in its Collection Services Unit. The successful candidate will be a creative and motivated individual with a strong commitment to exploring and facilitating the use of technology in service to teaching and scholarship. This position will participate in a broad range of library activities, including the assessment, development and coordination of library services; web tools and tutorials; and the identification and selection of technologies that will contribute to the richness of the Library's services and collections. This position offers the unique opportunity to join a team of librarians serving an engaged community in a collaborative environment.
 
@@ -15,7 +15,7 @@ HWS is a great place to work and to shape lives of consequence. Founded as Hobar
 This position reports to the Associate Librarian for Collection Services, and leads the Library's implementation of a range of information systems. Responsibilities include the Library’s integrated management system, the Library’s web presence and various online tools and collections. Additionally, this position collaborates with other library staff to enhance and develop the delivery of content and services, and acts as a liaison to other academic support units on campus concerning the integration of library content and services.
 
 
-### Responsibilities###
+### Responsibilities   
 
 ESSENTIAL DUTIES:
 
@@ -31,7 +31,7 @@ Responsible for maintaining vendor relationships and contracts.
 Perform other tasks and duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 Required Knowledge, Skills, Experience:
 
@@ -48,31 +48,31 @@ Demonstrated experience managing projects, and developing collaborative partners
 Experience with Alma, Illiad and Springshare products.
 
 
-### Compensation###
+### Compensation   
 
 Negotiated Based on Experience
 
 
-### Location###
+### Location   
 
 Geneva, NY
 
 
-### URL###
+### URL   
 
 [http://www.hws.edu/offices/hr/employment/adm_2018_Systems_Librarian.aspx](http://www.hws.edu/offices/hr/employment/adm_2018_Systems_Librarian.aspx)
 
-### To Apply###
+### To Apply   
 
 [https://apply.interfolio.com/48712](https://apply.interfolio.com/48712)
 
 
-### Company Information###
+### Company Information   
 
 [http://www2.hws.edu/](http://www2.hws.edu/)
 
 
-### Contact Information###
+### Contact Information   
 
 ferran@hws.edu
 

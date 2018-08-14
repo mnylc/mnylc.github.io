@@ -6,12 +6,12 @@ excerpt: "START DATE: October 2, 2017"
 tag: job
 ---
 
-### Description###
+### Description   
 
 START DATE: October 2, 2017
 
 
-### Responsibilities###
+### Responsibilities   
 
  Reports to Head of Access, Information and Collection Services & Operations and the Director of EIC
  Provide support in a multi-platform OS environment (Mac, PC, VDI) for all Quinn Library and QuinnX computers
@@ -33,7 +33,7 @@ and compliance with library policies.
  Other tasks as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
  B.A./B.S. in Computer Science or Communications preferred.
  A+ and Microsoft certifications a plus.
@@ -49,34 +49,34 @@ and compliance with library policies.
  Mandatory competency testing
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience
 
 
-### Location###
+### Location   
 
 140 W 62nd street, New York NY 10023
 
 
-### URL###
+### URL   
 
 [https://www.web.fordham.edu/download/downloads/id/8536/technical_support_computer_lab_administrator_a01260_62617pdf.pdf](https://www.web.fordham.edu/download/downloads/id/8536/technical_support_computer_lab_administrator_a01260_62617pdf.pdf)
 
-### To Apply###
+### To Apply   
 
 Send letter and resume: Nick Alongi, Head of Access, Information, and Collection
 Services and Library Operations - nalongi@fordham.edu
 
 
 
-### Company Information###
+### Company Information   
 
 Fordham University (Lincoln Center Campus, Quinn Library)
 START DATE: October 2, 2017
 
 
-### Contact Information###
+### Contact Information   
 
 Nick Alongi, Head of Access, Information, and Collection
 Services and Library Operations - nalongi@fordham.edu

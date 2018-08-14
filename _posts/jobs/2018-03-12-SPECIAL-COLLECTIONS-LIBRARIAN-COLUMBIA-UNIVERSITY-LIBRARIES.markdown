@@ -6,17 +6,17 @@ excerpt: "Columbia University Libraries seek an energetic, creative, and collabo
 tag: job
 ---
 
-### Description###
+### Description   
 
 Columbia University Libraries seek an energetic, creative, and collaborative individual for the position of Special Collections Librarian in the Avery Architectural & Fine Arts Library.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to the Curator of Avery Classics, the Special Collections Librarian will oversee cataloging and metadata development, as well as coordination of retrospective conversion and digital projects for rare books and ephemera in Avery Library’s architectural rare books collection. The Special Collections Librarian will also facilitate use and interpretation of the Avery Classics collection by working with individual researchers and faculty, supporting reference and reader services and course-integrated instruction.
 
 
-### Qualifications###
+### Qualifications   
 
 Qualifications (Required)
 - MLS, PhD or equivalent degree 
@@ -38,26 +38,26 @@ Qualifications (Preferred)
 
 
 
-### Compensation###
+### Compensation   
 
 commensurate with experience
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 library.columbia.edu
 
-### To Apply###
+### To Apply   
 
 APPLY ONLINE AT: [https://academicjobs.columbia.edu/applicants/Central?quickFind=66014](https://academicjobs.columbia.edu/applicants/Central?quickFind=66014)
 
 
-### Company Information###
+### Company Information   
 
 The Avery Architectural & Fine Arts Library is one of the most comprehensive architecture and fine arts library collections in the world. Avery collects a full range of primary and secondary sources for the advanced study of architecture, historic preservation, art history, decorative arts, city planning, real estate, and archaeology. The Library contains 650,000 volumes including more than 40,000 rare books, and receives approximately 1,000 periodicals. Avery’s Drawings and Archives collection includes 2.5 million architectural drawings and architectural records including a diverse range of original and reprographic drawings, photographic materials, project and building files, business papers, correspondence, diaries, scrapbooks, and personal papers. 
 

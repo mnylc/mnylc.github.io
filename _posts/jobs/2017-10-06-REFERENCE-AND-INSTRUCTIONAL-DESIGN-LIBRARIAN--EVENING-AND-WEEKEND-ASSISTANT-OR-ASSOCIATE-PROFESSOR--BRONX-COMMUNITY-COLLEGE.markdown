@@ -6,7 +6,7 @@ excerpt: "Reporting to the Chief Librarian, the Reference and Instructional Desi
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Chief Librarian, the Reference and Instructional Design Evening and Weekend Librarian joins a team of librarians providing students and faculty with one-on-one and group instruction. Position involves direct contact with library users providing traditional and virtual reference and research assistance, outreach to faculty engaged in developing Information Literacy knowledge and skills of students, collaboration with librarians to engage college community in effective use of library services and resources, assessment of needs and promotion of awareness of new information products and services. Evening and weekend hours are required as this position will act as the anchor for evening and weekend operations and services. 
 
@@ -17,7 +17,7 @@ Librarians within the City University of New York take active faculty roles, ser
 
 
 
-### Qualifications###
+### Qualifications   
 
 All titles require a Master's in Library Science (MLS), Master's in Library Information Studies (MLIS), or closely related discipline from an ALA-accredited institution and also a second graduate degree closely related to Instructional Design or Educational Technology. Also required is the ability to work with others for the good of the institution. 
 
@@ -50,21 +50,21 @@ Strongly Preferred Qualifications:
 •  Evidence of teamwork, creativity, initiative, and flexibility
 
 
-### Compensation###
+### Compensation   
 
 Assistant Professor: $47,340 - $81,855  Associate Professor: $61,394 - $97,628  Salaries are commensurate with education and experience.   CUNY offers faculty a competitive compensation and benefits package covering health insurance, pension and retirement benefits, paid parental leave, and savings programs. We also provide mentoring and support for research, scholarship, and publication as part of our commitment to ongoing faculty professional development.
 
 
-### Location###
+### Location   
 
 Bronx, New York, U.S.A.
 
 
-### URL###
+### URL   
 
 [http://www.bcc.cuny.edu/personnel/personnel1.pl?05+JOB17524](http://www.bcc.cuny.edu/personnel/personnel1.pl?05+JOB17524)
 
-### To Apply###
+### To Apply   
 
 Applicants must apply online by accessing the CUNY website at www.cuny.edu and navigating to the following links: Select “Employment”, then select “Search Job Postings” and find JOB ID #17524. Please attach resume and cover letter. References on request. Please do not include any other documentation. 
 
@@ -75,7 +75,7 @@ CLOSING DATE
 November 3, 2017 
 
 
-### Company Information###
+### Company Information   
 
 Bronx Community College of The City University of New York
 2155 University Avenue

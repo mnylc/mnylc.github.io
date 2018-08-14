@@ -6,7 +6,7 @@ excerpt: "About Fashion Institute of Technology: The Fashion Institute of Techno
 tag: job
 ---
 
-### Description###
+### Description   
 
 About Fashion Institute of Technology:
 The Fashion Institute of Technology (FIT), an internationally renowned college of art and design, business and technology, of the State University of New York, invites nominations and applications for a Head of Research and Instructional Services Librarian.
@@ -152,16 +152,16 @@ FIT is firmly committed to creating an environment that will attract and retain 
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=91659](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=91659)
 
-### To Apply###
+### To Apply   
 
 [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=91659](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=91659)
 

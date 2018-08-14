@@ -6,14 +6,14 @@ excerpt: "NYU Division of Libraries seeks a Digital Scholarship Librarian to sup
 tag: job
 ---
 
-### Description###
+### Description   
 
 NYU Division of Libraries seeks a Digital Scholarship Librarian to support the service portfolio of our Digital Scholarship Services team. The ideal candidate will provide client service, technical expertise, training, and support for tools and practices used by faculty and researchers engaged with digital scholarship and publishing, with a particular focus on the digital humanities. The candidate will join a highly collaborative team comprised of members from throughout NYU Libraries and NYU Information Technology Services, including Data Services, Scholarly Communication, Digital Library Technology Services, Digital Studio, Libraries’ subject specialists, and the NYU Abu Dhabi and Shanghai Libraries
 
 This position reports to the Head of Digital Scholarship Services and will also work under the guidance of the Program Officer for Digital Scholarly Publishing. This position is a non-tenure-track faculty appointment. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The mission of the Digital Scholarship Services is to provide engaging, responsive, and human-centered services connecting the global NYU community to the resources they need for digital scholarship and publishing. In support of that mission, the Digital Scholarship Librarian will work with the team to:
  
@@ -32,7 +32,7 @@ New York University Libraries:  Libraries at New York University serve the schoo
 NYU’s Division of Libraries embraces diversity and is committed to attracting qualified candidates who also embrace and value diversity and inclusion. 
 
 
-### Qualifications###
+### Qualifications   
 
 Required:
 ●	Master’s degree in Library Science or equivalent and 2 years’ relevant experience in an academic environment supporting Digital Scholarship, Digital Humanities, or related areas such as repository services, digital publishing, or scholarly communication; or equivalent combination of education and relevant library experience 
@@ -50,28 +50,28 @@ Preferred:
 ●	Experience with or knowledge of social media and tools for outreach
 
 
-### Compensation###
+### Compensation   
 
 Non-tenure-track faculty status and an attractive benefits package, including five weeks annual vacation. Salary is commensurate with experience and background.
 
 
-### Location###
+### Location   
 
 New York, New York, United States of America
 
 
-### URL###
+### URL   
 
 [https://library.nyu.edu/](https://library.nyu.edu/)
 
-### To Apply###
+### To Apply   
 
 To ensure consideration, submit your CV and letter of application, including the name, address, telephone number, and email of three professional references to: [http://apply.interfolio.com/42029.](http://apply.interfolio.com/42029.) Applications will be considered until the position is filled.
 
 EOE/AA/Minorities/Females/Vet/Disabled/Sexual Orientation/Gender Identity. 
 
 
-### Company Information###
+### Company Information   
 
 New York University, Division of Libraries
 70 Washington Square S, 11th Floor

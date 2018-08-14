@@ -6,7 +6,7 @@ excerpt: "JOB TITLE: Cataloger, American Historical Manuscript Collection Projec
 tag: job
 ---
 
-### Description###
+### Description   
 
 JOB TITLE: 	Cataloger, American Historical Manuscript Collection Project   
 DEPARTMENT: 		Library Technical Services
@@ -17,7 +17,7 @@ Position is funded through November 30, 2017.
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 ESSENTIAL JOB DUTIES:
 
@@ -52,7 +52,7 @@ This is largely a sedentary role using a computer; however, some filing is requi
 
 
 
-### Qualifications###
+### Qualifications   
 
 EDUCATION:		M.L.S. from an A.L.A.-accredited library school or equivalent.
 
@@ -80,14 +80,14 @@ EXPERIENCE:
 
 
 
-### Location###
+### Location   
 
 New York, NY 
 
 
 
 
-### To Apply###
+### To Apply   
 
 For consideration please send a cover letter, resume and salary requirements to: resumes@nyhistory.org    Please reference the job title in the subject line.  
 
@@ -95,7 +95,7 @@ The New-York Historical Society is an Equal Opportunity Employer
 
 
 
-### Company Information###
+### Company Information   
 
 170 Central Park West New York, NY 10024
 

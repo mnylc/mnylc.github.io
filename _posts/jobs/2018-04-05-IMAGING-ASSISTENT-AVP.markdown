@@ -6,7 +6,7 @@ excerpt: "Overview AVP is seeking Imaging Assistants in Syracuse, NY to assist i
 tag: job
 ---
 
-### Description###
+### Description   
 
 Overview
 AVP is seeking Imaging Assistants in Syracuse, NY to assist in the inventory of an audio collection held by Syracuse University Libraries (SUL). There are currently two positions available from approximately May 21, 2018 to June 25, 2018.
@@ -17,7 +17,7 @@ This position will be full time from approximately May 21, 2018 to June 25, 2018
 
 
 
-### Qualifications###
+### Qualifications   
 
 Successful Candidates Must:
 
@@ -33,16 +33,16 @@ An interest in legacy audio recordings, Latin American music, photography, and/o
 
 
 
-### Location###
+### Location   
 
 Syracuse, NY
 
 
-### URL###
+### URL   
 
 [https://weareavp.applicantstack.com/x/detail/a2ojaokur8nw](https://weareavp.applicantstack.com/x/detail/a2ojaokur8nw)
 
-### To Apply###
+### To Apply   
 
 Please apply through the following website: [https://weareavp.applicantstack.com/x/detail/a2ojaokur8nw](https://weareavp.applicantstack.com/x/detail/a2ojaokur8nw)
 

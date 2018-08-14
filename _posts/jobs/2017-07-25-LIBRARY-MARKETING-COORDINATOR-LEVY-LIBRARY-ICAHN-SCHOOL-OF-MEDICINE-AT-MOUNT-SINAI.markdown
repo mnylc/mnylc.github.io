@@ -6,14 +6,14 @@ excerpt: "Under the direction of the Assistant Library Director for Outreach & P
 tag: job
 ---
 
-### Description###
+### Description   
 
 Under the direction of the Assistant Library Director for Outreach & Public Services, the incumbent will participate in the ongoing development and refinement of the library’s communications, including the web site, mobile site, social networking profiles, print publications, and digital signage. This position works with library leadership in marketing and promoting library resources, services, events, and programs, which may include but would not be limited to creating advertising, signage, print publications, and electronic content and announcements; utilizing appropriate media channels, assisting with coordination or library events and programs, and developing and coordinating the library’s social media presence. 
 
 This is an entry level, non librarian position. MLIS students are encouraged to apply.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Develops messaging and designs print and electronic marketing content to promote library resources, services, programs, and events. 
@@ -33,7 +33,7 @@ This is an entry level, non librarian position. MLIS students are encouraged to 
 • 	Provides administrative support. 
 
 
-### Qualifications###
+### Qualifications   
 
 Required skills: 	
 
@@ -67,29 +67,29 @@ Required education:
 Bachelor’s degree.
 
 
-### Compensation###
+### Compensation   
 
 48-50K/year
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Send cover letter and resume to Robin O'Hanlon - robin.ohanlon@mssm.edu
 
 
-### Company Information###
+### Company Information   
 
 Levy Library, Icahn School of Medicine at Mount Sinai
 
 
-### Contact Information###
+### Contact Information   
 
 robin.ohanlon@mssm.edu
 

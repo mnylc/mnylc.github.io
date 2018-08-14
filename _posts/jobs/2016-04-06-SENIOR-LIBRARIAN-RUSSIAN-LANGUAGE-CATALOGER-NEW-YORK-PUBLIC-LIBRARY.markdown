@@ -6,12 +6,12 @@ excerpt: "The Senior Librarian will be responsible for cataloging Russian, Engli
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Senior Librarian will be responsible for cataloging Russian, English and other language materials for the BookOps member libraries. The Librarian will catalog according to national standards for bibliographic description, classification, name and subject analysis and contribute authority records to national cooperative cataloging programs. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to a Supervising Librarian or Librarian III, the Senior Librarian will be responsible for:
 
@@ -37,7 +37,7 @@ Reporting to a Supervising Librarian or Librarian III, the Senior Librarian will
 
 
 
-### Qualifications###
+### Qualifications   
 
 Skills
 
@@ -66,16 +66,16 @@ Education Required
 
 
 
-### Location###
+### Location   
 
 Long Island City, Queens
 
 
-### URL###
+### URL   
 
  [https://jobs-nypl.icims.com/jobs/9049/librarian---senior-librarian-%28russian-language-cataloger%29/job](https://jobs-nypl.icims.com/jobs/9049/librarian---senior-librarian-%28russian-language-cataloger%29/job)
 
-### To Apply###
+### To Apply   
 
 Please visit 
 [https://jobs-nypl.icims.com/jobs/9049/librarian---senior-librarian-%28russian-language-cataloger%29/job.](https://jobs-nypl.icims.com/jobs/9049/librarian---senior-librarian-%28russian-language-cataloger%29/job.)

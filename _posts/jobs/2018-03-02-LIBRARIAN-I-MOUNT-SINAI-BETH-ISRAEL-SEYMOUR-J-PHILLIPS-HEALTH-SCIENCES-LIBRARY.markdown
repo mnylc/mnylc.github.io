@@ -6,12 +6,12 @@ excerpt: "The Phillips Health Sciences Library at Mount Sinai Beth Israel (MSBI)
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Phillips Health Sciences Library at Mount Sinai Beth Israel (MSBI) is seeking dynamic candidates for its Librarian I position.  Reporting to the MSBI Library Manager, this position assists in the day to day management of library operations and facilities, answering reference inquiries, supporting the use of reference management tools and maintaining and enhancing the library’s web presence. The ideal candidate for this entry level role will be a customer-service oriented individual interested in a career in health science librarianship.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Core Duties and Responsibilities:
 
@@ -34,7 +34,7 @@ Core Duties and Responsibilities:
 • 	Works on special projects in support of library services.
 
 
-### Qualifications###
+### Qualifications   
 
 Required:
 
@@ -64,16 +64,16 @@ Preferred:
 
 
 
-### Location###
+### Location   
 
 New York, New York
 
 
-### URL###
+### URL   
 
 [http://libguides.mssm.edu/MSBI_Library/](http://libguides.mssm.edu/MSBI_Library/)
 
-### To Apply###
+### To Apply   
 
 Please email cover letter and curriculum vitae to Linda.Paulls@mountsinai.org.
 

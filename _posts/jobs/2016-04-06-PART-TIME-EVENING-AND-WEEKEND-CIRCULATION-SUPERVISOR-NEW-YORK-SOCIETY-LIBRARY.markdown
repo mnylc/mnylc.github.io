@@ -6,7 +6,7 @@ excerpt: "The Library is seeking a Part-Time Evening and Weekend Circulation Sup
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Library is seeking a Part-Time Evening and Weekend Circulation Supervisor. The position reports to the Head of Circulation.
 
@@ -24,12 +24,12 @@ Environmental: Indoor environment, working closely with others and also independ
 ABOUT THE LIBRARY: The New York Society Library is an historic membership library founded in 1754. The Library today is open to all for reading, reference, and selected events, with circulation and other services by subscription. The beautiful landmarked building dates from 1917 and includes reading rooms, spaces for study, book stacks, and the Assunta, Ignazio, Ada and Romano Peluso Exhibition Gallery. The Library has approximately 300,000 volumes and hosts a variety of special events, reading groups, and workshops, as well as the New York City Book Awards.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities include managing the activities of Circulation staff during evening and weekend hours; overseeing Library opening and closing procedures; assisting patrons and adjudicating conflicts; providing reference services; performing all Circulation Desk duties including but not limited to checking out and renewing Library materials, placing holds, collecting fines and fees; responding to patron requests; and performing other duties as required.
 
 
-### Qualifications###
+### Qualifications   
 
 The successful candidate will have:
 
@@ -51,16 +51,16 @@ The successful candidate will have:
 
 
 
-### URL###
+### URL   
 
  [https://nysoclib.org/about/part-time-evening-and-weekend-circulation-supervisor](https://nysoclib.org/about/part-time-evening-and-weekend-circulation-supervisor)
 
-### To Apply###
+### To Apply   
 
 Potential candidates should email a cover letter, resume, names of three (3) references with contact information, and salary requirements to Cheryl Warfield, Controller, at cwarfield@nysoclib.org with “PT Circ Supervisor” in the subject line to be considered. Visit our website at www.nysoclib.org. The position will remain open until filled.
 
 
-### Company Information###
+### Company Information   
 
  The New York Society Library | 53 East 79th Street | New York, NY | 10075 | United States
 

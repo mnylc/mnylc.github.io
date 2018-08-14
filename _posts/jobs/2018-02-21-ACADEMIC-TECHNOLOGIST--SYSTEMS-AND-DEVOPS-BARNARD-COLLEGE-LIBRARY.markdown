@@ -6,12 +6,12 @@ excerpt: "Reporting to the Director of IMATS, the Academic Technologist – Web 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Director of IMATS, the Academic Technologist – Web & UX will focus on user interfaces and user experience. The Academic Technologist will focus on technical infrastructure and systems in support of Barnard curriculum and the services offered in the new the Milstein Teaching and Learning Center (MTLC), which will house 6 faculty-led library Centers, including the Empirical Reasoning Center, Design Center, Digital Humanities Center, Media Center, Movement Lab and Computational Science Center. This position will offer direct support for the Computational Science Center.The Academic Technologist will collaborate with instructional designers, librarians, faculty, systems administrators, and others to implement, customize, and test websites, applications, and tools. They will work closely with colleagues in IMATS, faculty, Barnard IT staff, and others at BLAIS and Columbia to pilot new products; provision and plan for systems architecture and lab software needs; and contribute to systems and dev-ops needs on inter-institutional open-source projects.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Duties & Responsibilities:
 
@@ -32,7 +32,7 @@ Duties & Responsibilities:
 5. Perform additional duties and responsibilities as needed.
 
 
-### Qualifications###
+### Qualifications   
 
 ● Adaptability to new standards and programming/scripting/markup languages.
 ● Knowledge of or ability to learn and implement scripting languages (e.g. Python/Ruby/JavaScript)
@@ -53,16 +53,16 @@ Duties & Responsibilities:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://careers.barnard.edu/postings/3337](https://careers.barnard.edu/postings/3337)
 
-### To Apply###
+### To Apply   
 
 [https://careers.barnard.edu/postings/3337/pre_apply](https://careers.barnard.edu/postings/3337/pre_apply)
 

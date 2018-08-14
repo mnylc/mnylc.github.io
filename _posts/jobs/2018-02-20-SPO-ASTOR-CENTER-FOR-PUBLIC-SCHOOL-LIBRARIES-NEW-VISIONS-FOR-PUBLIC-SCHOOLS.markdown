@@ -6,14 +6,14 @@ excerpt: "The Senior Program Officer (SPO) Libraries is responsible for New Visi
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Senior Program Officer (SPO) Libraries is responsible for New Visions’ Astor Center for Public School Libraries program, supporting school libraries and librarians to insure that their school learning communities both help students meet high standards of academic achievement and prepare students for post-secondary success.
 
 The SPO Libraries is a key member of the Curriculum and Instruction Department and works closely with New Visions teams across the organization, including stakeholders in the Curriculum & Instruction, School Support, and Community & Family Engagement departments. The SPO also maintains working relationship with external stakeholders including school librarians, teachers and administrators; New York City Department of Education School Library System Office of Library Services director and coordinators; the NYC public libraries; and the network of community organizations supporting school libraries.  
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 Resource Development
@@ -75,7 +75,7 @@ Managerial and Administrative Duties
 -Supervise the library program associate
 
 
-### Qualifications###
+### Qualifications   
 
 Competencies and Skills:
 
@@ -110,33 +110,33 @@ Education and Experience:
 
 
 
-### Compensation###
+### Compensation   
 
 Salary will be commensurate with qualifications and experience and in accordance with the New Visions salary scales.
 
 
-### Location###
+### Location   
 
 New York, New York
 
 
-### URL###
+### URL   
 
 [https://newvisions.org/](https://newvisions.org/)
 
-### To Apply###
+### To Apply   
 
 Review of applications and interviews will begin immediately; expected start date is Summer 2018. Apply online at [https://newvisions.csod.com/ats/careersite/JobDetails.aspx?id=2276](https://newvisions.csod.com/ats/careersite/JobDetails.aspx?id=2276)
 
 
-### Company Information###
+### Company Information   
 
 New Visions for Public Schools is dedicated to ensuring that all New York City public school students, regardless of race or economic class, have access to a high-quality education that prepares them for the rigors of college and the workforce. Further, we are committed to sharing innovative tools, strategies and lessons learned in New Visions schools with others in New York and throughout the country to prove that meaningful change is achievable at scale and success is possible for every child. 
 
 We are located in Midtown East and support schools in all five boroughs.
 
 
-### Contact Information###
+### Contact Information   
 
 For additional information, contact Russell West, Deputy Director of Instruction, at rwest@newvisions.org
 

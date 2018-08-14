@@ -6,7 +6,7 @@ excerpt: "Digital Repository Developer Columbia University Libraries/Information
 tag: job
 ---
 
-### Description###
+### Description   
 
 Digital Repository Developer
 Columbia University Libraries/Information Services
@@ -20,7 +20,7 @@ As one of the world's leading research universities, Columbia University in the 
 Columbia University is an Equal Opportunity/Affirmative Action Employer and strongly encourages individuals of all backgrounds and cultures to consider this position.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Position Duties:
 
@@ -35,7 +35,7 @@ Position Duties:
 * Perform related duties and responsibilities as assigned/requested
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 
@@ -70,11 +70,11 @@ Preferred Qualifications:
 
 
 
-### URL###
+### URL   
 
 [https://jobs.columbia.edu/applicants/Central?quickFind=154216](https://jobs.columbia.edu/applicants/Central?quickFind=154216)
 
-### To Apply###
+### To Apply   
 
 Please visit [https://jobs.columbia.edu/applicants/Central?quickFind=154216.](https://jobs.columbia.edu/applicants/Central?quickFind=154216.)
 

@@ -6,7 +6,7 @@ excerpt: "We are seeking an enthusiastic, dedicated individual to serve as Outre
 tag: job
 ---
 
-### Description###
+### Description   
 
 We are seeking an enthusiastic, dedicated individual to serve as Outreach Archivist for the Greenpoint Oral History and Community Scanning Project. The Outreach Archivist will conduct six (6) community events in the Greenpoint neighborhood of Brooklyn over the months of April 2018 – March 2019 to provide on-site digitization service and oral history recording for members of the community who want to share their personal artifacts and stories. The project is funded by a grant from the Greenpoint Community Environmental Fund. 
 
@@ -24,7 +24,7 @@ The Outreach Archivist will be based out of the Brooklyn Collection at BPL’s C
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Coordinate with Brooklyn Public Library staff and local community partners to plan and conduct six oral history and community scanning events
 
@@ -46,7 +46,7 @@ Coordinate with Brooklyn Public Library staff and local community partners to pl
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 Master’s Degree in Library/Information Science or pursuing coursework to obtain the degree, required
@@ -76,19 +76,19 @@ Master’s Degree in Library/Information Science or pursuing coursework to obtai
 This position is grant-funded through 3/30/19.
 
 
-### Compensation###
+### Compensation   
 
 This is a part-time position with a 19-hour work week at $30.00 per hour.
 
 
-### Location###
+### Location   
 
 Brooklyn, New York
 
 
 
 
-### To Apply###
+### To Apply   
 
 [https://careers-bklynlibrary.icims.com/jobs/1621/outreach-archivist-%28part-time%29/job](https://careers-bklynlibrary.icims.com/jobs/1621/outreach-archivist-%28part-time%29/job)
 

@@ -6,7 +6,7 @@ excerpt: "Position Summary Monitor daily Moving Image Archiving and Preservation
 tag: job
 ---
 
-### Description###
+### Description   
 
 Position Summary
 Monitor daily Moving Image Archiving and Preservation lab activities. Setup, install and maintain analog and digital video preservation stations, film preservation stations, as well as preservation stations for both born digital materials and materials requiring legacy computer systems. Instruct students in the use of this equipment (e.g., analog and digital audio and video equipment; computer hardware, software, archiving and preservation tools; multiple format film equipment). Conduct individual and group training workshops and lab sessions in coordination with faculty and archive staff to demonstrate this equipment. Provide technical support for use of Moving Image Archiving and Preservation lab facilities. Hire, train, prioritize, assign and review work of casual and/or student employees.
@@ -14,7 +14,7 @@ Monitor daily Moving Image Archiving and Preservation lab activities. Setup, ins
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Education:
 High School diploma and relevant technical training.
@@ -38,21 +38,21 @@ Additional Information
 EOE/AA/Minorities/Females/Vet/Disabled/Sexual Orientation/Gender Identity
 
 
-### Compensation###
+### Compensation   
 
 Union: Local 3882 - Union of Clerical, Administrative and Technical Staff (UCATS); Compensation Grade: Local 3882 - 44
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://uscareers-nyu.icims.com/jobs/4456/moving-image-archiving-and-preservation-technician/job](https://uscareers-nyu.icims.com/jobs/4456/moving-image-archiving-and-preservation-technician/job)
 
-### To Apply###
+### To Apply   
 
 Interested candidates can apply at [https://uscareers-nyu.icims.com/jobs/4456/moving-image-archiving-and-preservation-technician/job](https://uscareers-nyu.icims.com/jobs/4456/moving-image-archiving-and-preservation-technician/job)
 

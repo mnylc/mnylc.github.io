@@ -6,7 +6,7 @@ excerpt: "Major Duties: • Performs excellent internal and external customer se
 tag: job
 ---
 
-### Description###
+### Description   
 
 Major Duties: 
 •	Performs excellent internal and external customer service and library service in response to the information needs of library users and the overall community with an emphasis on teens and tweens. 
@@ -43,14 +43,14 @@ Requirements:
 
 
 
-### Location###
+### Location   
 
 Queens, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 
 To Apply: Please send your resume and cover letter to QLcareers@queenslibrary.org and reference “Teen Librarian - External” in the subject line. Resumes will only be accepted by email.  

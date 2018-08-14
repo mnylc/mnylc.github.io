@@ -6,7 +6,7 @@ excerpt: "Brooklyn College of the City University of New York (CUNY) seeks an en
 tag: job
 ---
 
-### Description###
+### Description   
 
 Brooklyn College of the City University of New York (CUNY) seeks an energetic, innovative, and accomplished professional for the position of Associate Librarian for Collection Management at the Assistant Professor or Associate Professor rank. This is a full-time, tenure-track position with a starting date of July 1, 2018.
 
@@ -14,7 +14,7 @@ The Associate Librarian for Collection Management will provide strategic vision,
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities include but are not limited to:
 
@@ -38,7 +38,7 @@ Candidates with demonstrated commitment to diversity and inclusiveness through t
 
 
 
-### Qualifications###
+### Qualifications   
 
 Qualifications:
 
@@ -70,19 +70,19 @@ Preferred Qualifications:
 
 
 
-### Compensation###
+### Compensation   
 
 Salary commensurate with experience and credentials. All appointments are subject to financial availability. CUNY offers faculty a competitive compensation and benefits package covering health insurance, pension and retirement benefits, paid parental leave, and savings programs. We also provide mentoring and support for research, scholarship, and publication as part of our commitment to ongoing faculty professional development.
 
 
-### Location###
+### Location   
 
 Brooklyn, NY, USA
 
 
 
 
-### To Apply###
+### To Apply   
 
 STEP ONE – Apply Online in CUNYfirst ([http://cuny.jobs/brooklyn-college/new-jobs/)](http://cuny.jobs/brooklyn-college/new-jobs/))
 Applicants should upload the following in .doc, .pdf, or .rtf format:
@@ -114,7 +114,7 @@ Regular/Temporary: Regular
 
 
 
-### Company Information###
+### Company Information   
 
 The Brooklyn College Library has excellent collections, supporting undergraduate and master’s level study in the humanities, social sciences, and sciences. The collections total nearly 1.5 million volumes, as well as significant audiovisual and microform holdings. Periodical resources include approximately 3,500 print titles and over 100,000 electronic journals which are accessible 24/7. Brooklyn College Library serves a diverse population of over 17,000 undergraduate and graduate students at Brooklyn College, as well as Brooklyn College faculty and staff and various other members of the community. We also collaborate closely with all other CUNY libraries: together, we support over 550,000 CUNY students, in the nation’s largest urban public university.
 

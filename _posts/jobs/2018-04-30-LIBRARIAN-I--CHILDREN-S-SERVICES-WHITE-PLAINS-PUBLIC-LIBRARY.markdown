@@ -6,7 +6,7 @@ excerpt: "Do you love storytimes, arts and crafts, and playful learning? Are you
 tag: job
 ---
 
-### Description###
+### Description   
 
 Do you love storytimes, arts and crafts, and playful learning?  Are you passionate about providing programs and services to young children and their families?  Then come join us at the White Plains Public Library.
 
@@ -21,12 +21,12 @@ The City of White Plains is an Equal Opportunity Employer
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 As a Librarian I, you will provide reference and reader’s advisory services to children and adults, plan and conduct programs, lead classes and workshops, and other responsibilities as assigned.  A major focus of this position will be conducting early literacy focused programs for our youngest patrons and their families.  Applicants must be available to work evening as well as weekend hours.
 
 
-### Qualifications###
+### Qualifications   
 
 Candidates should genuinely like working with children and adults, appreciate providing library services to a diverse, multilingual population, and be able to work effectively with colleagues.  They must also be outward looking, helping to ensure that the Library remains responsive to the White Plains community. 
  Special consideration will be given for experience with play-based programs, storytimes,  toddler programming, and early literacy training.  
@@ -37,31 +37,31 @@ Special Requirements: Eligibility for a New York State Public Librarian’s Prof
 
 
 
-### Compensation###
+### Compensation   
 
 Starting salary is $53,689 to $55,311 depending on experience; excellent benefits.
 
 
-### Location###
+### Location   
 
 White Plains, NY, USA
 
 
-### URL###
+### URL   
 
 [https://whiteplainslibrary.org/jobs/](https://whiteplainslibrary.org/jobs/)
 
-### To Apply###
+### To Apply   
 
 Email cover letter and resume by May 15 to: Brian Kenney, Library Director, bkenney@whiteplainslibrary.org.  Please put “Librarian Opening” in the subject line.
 
 
-### Company Information###
+### Company Information   
 
 100 Martine Avenue, White Plains, NY 10601
 
 
-### Contact Information###
+### Contact Information   
 
 Brian Kenney, 914-422-1406, bkenney@whiteplainslibrary.org
 

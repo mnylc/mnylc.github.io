@@ -6,7 +6,7 @@ excerpt: "Do you love children’s literature, enjoy keeping abreast of publishi
 tag: job
 ---
 
-### Description###
+### Description   
 
 Do you love children’s literature, enjoy keeping abreast of publishing trends, and delight in creating a top-notch collection that will engage readers? Then come join us at the White Plains Public Library.
 
@@ -24,7 +24,7 @@ The City of White Plains is an Equal Opportunity Employer
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 In addition to acquiring much of our book collection, as a Librarian I, you will provide reference and reader’s advisory services to children and adults, plan and conduct programs, lead classes and workshops, among other responsibilities. Special consideration will be given to candidates with experience in publishing, education, book selling, or other work with children.  Applicants must be available to work evening as well as weekend hours. 
 
@@ -32,7 +32,7 @@ Candidates should genuinely like working with children and adults, appreciate pr
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications: Master’s degree in library or information science (MLS) from a program that is accredited by the American Library Association or recognized by the New York State Education Department as following accepted education practices. 
 
@@ -40,19 +40,19 @@ Special Requirements: Eligibility for a New York State Public Librarian’s Prof
 
 
 
-### Compensation###
+### Compensation   
 
 Starting salary is $53,689 to $55,311 depending on experience; excellent benefits.
 
 
-### Location###
+### Location   
 
 White Plains, NY, USA
 
 
 
 
-### To Apply###
+### To Apply   
 
 If interested, please email cover letter and resume to by April 17 to: Brian Kenney, Library Director, bkenney@whiteplainslibrary.org. Please put “Librarian Opening” in the subject line.
 

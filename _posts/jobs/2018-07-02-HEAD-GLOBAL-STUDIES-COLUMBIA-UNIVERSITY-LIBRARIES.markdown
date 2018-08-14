@@ -6,7 +6,7 @@ excerpt: "The Columbia University Libraries (CUL) seeks an energetic, creative, 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Columbia University Libraries (CUL) seeks an energetic, creative, and team-oriented Head of Global Studies to provide leadership and vision for the support of globally focused research, learning and collection development. This newly created position will lead a team of librarians with expertise in area studies (African Studies, Jewish Studies, Latin American & Iberian Studies, Middle East & Islamic Studies, Russian, Eurasian & East European Studies, and South Asian Studies) and will provide strategic support to advance the collection, discovery and use of global research resources in alignment with Columbia University's global curricula, mission and initiatives. 
 
@@ -21,7 +21,7 @@ Columbia University is an Equal Opportunity/Affirmative Action Employer and stro
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 -MLS or PhD or equivalent 
@@ -41,14 +41,14 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=66664](https://academicjobs.columbia.edu/applicants/Central?quickFind=66664)
 

@@ -7,13 +7,13 @@ excerpt: "Up to 16.5 hours per week.
 tag: job
 ---
 
-### Description###
+### Description   
 
 Up to 16.5 hours per week.
 - Days include weekdays and weekends. Minimum one weekend per month and maximum at two per month
 
 
-### Responsibilities###
+### Responsibilities   
 
 Position is predominantly programming oriented, with some reference work on the weekends.
 - Candidate needs to be able to plan and execute a story time for ages ranging from birth to four years old.
@@ -25,36 +25,36 @@ Position is predominantly programming oriented, with some reference work on the 
 - Will provide occasional adult reference coverage when needed
 
 
-### Qualifications###
+### Qualifications   
 
 MLS or MLS student with anticipated graduation date before 2018
 
 
-### Compensation###
+### Compensation   
 
 Starting at $23 (commensurate with experience)
 
 
-### Location###
+### Location   
 
 North Castle Public Library, Armonk, NY
 
 
-### URL###
+### URL   
 
 www.northcastlelibrary.org
 
-### To Apply###
+### To Apply   
 
 If interested, please submit your cover letter and resume to mdean@wlsmail.org by April 18th, 2017.
 
 
-### Company Information###
+### Company Information   
 
 19 Whippoorwill Road East, Armonk, NY, 10504  914-273-3887 x4
 
 
-### Contact Information###
+### Contact Information   
 
  mdean@wlsmail.org  914-273-3887 x4
 

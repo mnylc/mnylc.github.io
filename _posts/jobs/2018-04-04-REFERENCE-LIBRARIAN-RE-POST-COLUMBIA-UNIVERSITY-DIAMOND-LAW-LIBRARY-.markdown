@@ -6,7 +6,7 @@ excerpt: "The Diamond Law Library at Columbia University has an opening for a Re
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Diamond Law Library at Columbia University has an opening for a Reference Librarian with 0-2 years of experience to provide general and in-depth reference service in all areas of law (including American, international, and foreign law) to faculty, students and others at the Law School Library. The incumbent will share departmental administrative responsibilities with other reference librarians on a rotating basis. Responsibilities also include searching databases and other sources; training law students and others in the use of legal materials and databases through extensive classroom teaching, the leading of tours, and one-on-one instruction; preparing bibliographies and instructional materials; assisting with the coordination of interlibrary loan transactions; and other related duties. Reference Librarians share regular evening and weekend hours. 
 
@@ -19,7 +19,7 @@ Columbia University is an Equal Opportunity/Affirmative Action Employer and stro
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Degree Required: MLS or PhD or equivalent
 
@@ -28,21 +28,21 @@ Minimum Qualifications: JD and MLS from accredited institutions or the equivalen
 Preferred Qualifications:Experience with teaching or instruction is preferred.  
 
 
-### Compensation###
+### Compensation   
 
  We offer a salary commensurate with qualifications and experience and excellent benefits. 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 academicjobs.columbia.edu/applicants/Central?quickFind=65667  
 
-### To Apply###
+### To Apply   
 
 academicjobs.columbia.edu/applicants/Central?quickFind=65667  
 

@@ -6,7 +6,7 @@ excerpt: "Located in New York City, the Metropolitan New York Library Council (M
 tag: job
 ---
 
-### Description###
+### Description   
 
 Located in New York City, the Metropolitan New York Library Council (METRO) is the largest of nine library councils in the state of New York, with METRO serving all of New York City and Westchester County.  METRO aims to serve as a laboratory and experimental space for our growing membership, combining new developments in librarianship with emerging technologies drawn from parallel fields.
 
@@ -17,7 +17,7 @@ Reporting to the Deputy Director, the HLSP Manager is a part-time position that 
 This position requires the ability to travel to member locations throughout the Metropolitan New York region. METRO offers a flexible schedule and the ability to set your own hours. The position will be 8-10 hrs/wk and will pay $20/hour to start with the opportunity to grow the position over time. METRO is a fun and collaborative workplace full of energy and enthusiasm.
 
 
-### Responsibilities###
+### Responsibilities   
 
 * Develop and maintain services for HLSP members, providing new resources that optimize library services for users.
 
@@ -38,7 +38,7 @@ This position requires the ability to travel to member locations throughout the 
 * Outreach to member organizations and other hospital library professionals through newsletters, social media, and similar platforms.
 
 
-### Qualifications###
+### Qualifications   
 
 * Master’s Degree in Library and Information Science or a related degree.
 
@@ -57,7 +57,7 @@ This position requires the ability to travel to member locations throughout the 
 
 
 
-### To Apply###
+### To Apply   
 
 To apply, please send a pdf copy of your resume and cover letter along with any other material you would like considered part of your application to info@metro.org. Final candidates will be required to provide names and contact information for three professional references.
 

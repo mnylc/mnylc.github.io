@@ -6,7 +6,7 @@ excerpt: "This is a temporary part-time grant funded position. The Transcription
 tag: job
 ---
 
-### Description###
+### Description   
 
 This is a temporary part-time grant funded position. The Transcription Coordinator will work 21 hours per week and will recruit, train and manage local volunteers and crowdsourced volunteers. The Transcription Coordinator will describe the project and its goals in ways that stimulate the interest of potential volunteers. These volunteers will transcribe the digitized, handwritten papers of John Torrey, a prominent, early American botanist. 
 
@@ -42,26 +42,26 @@ EOE/M/F/Disabled/Veteran
 
 
 
-### Location###
+### Location   
 
 Bronx, NY 
 
 
-### URL###
+### URL   
 
 [http://app.jobvite.com/m?3v8V2jwo](http://app.jobvite.com/m?3v8V2jwo)
 
-### To Apply###
+### To Apply   
 
 [http://app.jobvite.com/m?3v8V2jwo](http://app.jobvite.com/m?3v8V2jwo)
 
 
-### Company Information###
+### Company Information   
 
 Please apply online.
 
 
-### Contact Information###
+### Contact Information   
 
 mhaxhaj@nybg.org 
 

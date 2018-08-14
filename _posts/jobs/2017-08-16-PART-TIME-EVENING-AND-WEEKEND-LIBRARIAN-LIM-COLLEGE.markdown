@@ -6,7 +6,7 @@ excerpt: "LIM College – Where Business Meets Fashion is currently seeking cand
 tag: job
 ---
 
-### Description###
+### Description   
 
 LIM College – Where Business Meets Fashion is currently seeking candidates for the position of Part-Time Evening and Weekend Librarian
 GENERAL DESCRIPTION
@@ -18,7 +18,7 @@ The Part-time Evening and Weekend Librarian assists students and faculty, both i
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 ESSENTIAL FUNCTIONS AND BASIC DUTIES
 PROVIDES AND TAKES RESPONSIBILITY FOR THE FOLLOWING SERVICE FUNCTIONS:
@@ -64,7 +64,7 @@ PERFORMANCE MEASUREMENTS
 • 	A professional and confident image is displayed
 
 
-### Qualifications###
+### Qualifications   
 
 REQUIREMENTS: The person selected will have the following qualifications:
 Minimum Required Qualifications:
@@ -81,28 +81,28 @@ Apply Here: [http://www.Click2Apply.net/p7vgj36tr5w3896q](http://www.Click2Apply
 PI99052878
 
 
-### Compensation###
+### Compensation   
 
 DOE
 
 
-### Location###
+### Location   
 
 New York, New York 10022
 
 
-### URL###
+### URL   
 
 [http://www.Click2Apply.net/p7vgj36tr5w3896q](http://www.Click2Apply.net/p7vgj36tr5w3896q)
 
-### To Apply###
+### To Apply   
 
 Apply Here: [http://www.Click2Apply.net/p7vgj36tr5w3896q](http://www.Click2Apply.net/p7vgj36tr5w3896q)
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 Apply Online
 

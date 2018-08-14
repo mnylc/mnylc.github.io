@@ -6,7 +6,7 @@ excerpt: "Reporting to the Research Librarian and Coordinator of Research Servic
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Research Librarian and Coordinator of Research Services the Outreach and Academic Engagement Librarian will work collaboratively with staff throughout the library as well as within the broader Wesleyan community to demonstrate the value of the library in a liberal arts environment.
 
@@ -17,7 +17,7 @@ This position will take the lead in building learner-centered programming and hi
 This position will also play a key role in promoting Wesleyan’s unique collections as well as engaging the research community and other constituencies outside of Wesleyan.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities include but are not limited to:
 
@@ -44,7 +44,7 @@ Serve on library committees and task forces and campus committees when library r
 Maintain current knowledge of trends and changes in academic public services and contributing to the library profession through participation in the work of professional organizations
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications: Masters in Library and/or Information Science and at least one year related experience in outreach or an equivalent combination of training, education and experience.
 Demonstrated experience coordinating, leading, and evaluating success of programs and events
@@ -68,16 +68,16 @@ Experience in using Springshare Libguides software
 
 
 
-### Location###
+### Location   
 
 Middletown, CT, Middlesex County
 
 
-### URL###
+### URL   
 
 [https://careers.wesleyan.edu/postings/6242](https://careers.wesleyan.edu/postings/6242)
 
-### To Apply###
+### To Apply   
 
 Apply at: careers.wesleyan.edu
 
@@ -87,12 +87,12 @@ As a part of the application process, in addition to your cover letter and resum
 2.	Promotional document
 
 
-### Company Information###
+### Company Information   
 
 Wesleyan University, 45 Wyllys Avenue, Middletown, CT 06459, (860) 685-2000 
 
 
-### Contact Information###
+### Contact Information   
 
 HUMAN RESOURCES
 212 College Street

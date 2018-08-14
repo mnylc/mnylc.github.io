@@ -6,7 +6,7 @@ excerpt: "Rutgers University Libraries seek an innovative, collaborative, and ac
 tag: job
 ---
 
-### Description###
+### Description   
 
 Rutgers University Libraries seek an innovative, collaborative, and accomplished leader to serve as Assistant Vice President for Scholarly Communication and Collections (AVP). Reporting directly to the Vice President for Information Services & University Librarian, this position provides leadership, strategic direction, and support for a comprehensive scholarly communication and collections strategy, including oversight for a team of faculty and staff. The AVP is a member of the senior leadership team and works closely with the Libraries’ directors to ensure that resources and services support the unique missions of Rutgers Biomedical and Health Sciences (RBHS), Rutgers University–Camden, Rutgers University–Newark, and Rutgers University–New Brunswick.
 The AVP effectively manages the Libraries’ collections budget and seeks alternative scholarly communication models and other transformational strategies to ensure sustainable continued access to resources. In this context, scholarly communication is considered broadly, including emerging trends that support and enable research workflows for the disciplines, as well as interdisciplinary and cross-institutional academic communities; evolving information formats, access models, and shared and distributed collections; and new conceptions of research library collections and their management and assessment.
@@ -29,7 +29,7 @@ The AVP is a senior faculty member and administrator who plays a key role in the
 
 
 
-### Qualifications###
+### Qualifications   
 
 QUALIFICATIONS:
 Required: A master’s degree in library or information sciences from an ALA-accredited institution or its equivalent plus five years of significant and progressively responsible experience in areas related to this position. Knowledge and understanding of 21st-century collections issues, research workflows, emerging practices, standards, and trends relating to collection development and management and scholarly communication in an academic or research library environment. Demonstrated ability to develop strategies for the management of library collections, including the ability to align strategy
@@ -72,21 +72,21 @@ Rutgers, the State University of New Jersey, is an Equal Opportunity / Affirmati
 The Libraries are strongly and actively committed to diversity, and seek candidates who will contribute creatively to the university’s multicultural environment.
 
 
-### Compensation###
+### Compensation   
 
 Salary is commensurate with qualifications and experience.
 
 
-### Location###
+### Location   
 
 New Brunswick, NJ
 
 
-### URL###
+### URL   
 
 [https://www.libraries.rutgers.edu/human_resources/employment/avp-scc](https://www.libraries.rutgers.edu/human_resources/employment/avp-scc)
 
-### To Apply###
+### To Apply   
 
 SUBMIT RESUME, COVER LETTER, AND NAMES OF THREE REFERENCES TO:
 Jan Greenwood or Betty Turner Asher, Partners

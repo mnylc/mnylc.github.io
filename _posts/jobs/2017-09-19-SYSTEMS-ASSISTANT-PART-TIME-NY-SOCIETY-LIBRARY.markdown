@@ -6,12 +6,12 @@ excerpt: "The Systems Assistant will assist the Head of Systems in maintaining t
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Systems Assistant will assist the Head of Systems in maintaining the Library’s IT infrastructure and assisting library members and staff with matters relating to technology. This position reports to the Head of Systems. The Systems Assistant will serve as the primary contact person to support a variety of library systems, and maintaining/supporting network infrastructure for optimal productivity.
 
 
-### Responsibilities###
+### Responsibilities   
 
 -       Assisting members with wireless connection issues, using Library 
         computers, Library website and catalog, and electronic resources in person, 
@@ -51,7 +51,7 @@ The Systems Assistant will assist the Head of Systems in maintaining the Library
 
 
 
-### Qualifications###
+### Qualifications   
 
  
 -	Hands on experience with HTML and web content management systems 
@@ -67,23 +67,23 @@ The Systems Assistant will assist the Head of Systems in maintaining the Library
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://www.nysoclib.org/](https://www.nysoclib.org/)
 
-### To Apply###
+### To Apply   
 
 Send your resume and cover letter to: SRasool@nysoclib.org
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 SRasool@nysoclib.org
 

@@ -6,12 +6,12 @@ excerpt: "Provides reference service in the SVA Library on weekends and one week
 tag: job
 ---
 
-### Description###
+### Description   
 
 Provides reference service in the SVA Library on weekends and one weekday evening for a total of 10 hours per week. Participates in specialized cataloging projects. Provides support to circulation supervisors as needed.
 
 
-### Responsibilities###
+### Responsibilities   
 
 -Has primary responsibility during weekends and one weekday evening for assisting undergraduates, graduate students and faculty members with information needs.
 -Works on special cataloging projects under the supervision of the head of technical services.
@@ -22,7 +22,7 @@ Provides reference service in the SVA Library on weekends and one weekday evenin
 -Reports any patron or staff problems/issues to supervisor. Recommends weekend and evening service improvements.  
 
 
-### Qualifications###
+### Qualifications   
 
 -MLS degree and subject knowledge of the humanities, art & design history
 -Ability to work 10 hours per week, including weekends and one weekday evening 
@@ -34,16 +34,16 @@ Provides reference service in the SVA Library on weekends and one weekday evenin
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://www.sva.edu/about/working-at-sva/administrative-staff/weekend-librarian](http://www.sva.edu/about/working-at-sva/administrative-staff/weekend-librarian)
 
-### To Apply###
+### To Apply   
 
 Please send a cover letter and resume to working@sva.edu 
 

@@ -6,7 +6,7 @@ excerpt: "Leonard Lief Library, Lehman College [CUNY] Bronx, New York Title: Web
 tag: job
 ---
 
-### Description###
+### Description   
 
 Leonard Lief Library, Lehman College [CUNY]
 Bronx, New York
@@ -77,16 +77,16 @@ We are committed to enhancing our diverse academic community by actively encoura
 
 
 
-### Location###
+### Location   
 
 Bronx, New York
 
 
-### URL###
+### URL   
 
 [http://lehman.edu/library](http://lehman.edu/library)
 
-### To Apply###
+### To Apply   
 
 Visit [http://www.cuny.edu,](http://www.cuny.edu,) access the Employment page, log in or create a new user account, and search for this vacancy using the Job ID or Title.  Select “Apply Now” and provide the requested information:
 [https://cuny.jobs/bronx-ny/web-services-online-learning-librarian-instructor-or-assistant-professor/24C697A160314D1BA26BF03580E0570F/job/](https://cuny.jobs/bronx-ny/web-services-online-learning-librarian-instructor-or-assistant-professor/24C697A160314D1BA26BF03580E0570F/job/)
@@ -94,7 +94,7 @@ Visit [http://www.cuny.edu,](http://www.cuny.edu,) access the Employment page, l
 Candidates should provide a CV-resume and names and contact information of three professional references.
 
 
-### Company Information###
+### Company Information   
 
 Lehman College
 Leonard Lief Library
@@ -102,7 +102,7 @@ Leonard Lief Library
 Bronx, NY 10468
 
 
-### Contact Information###
+### Contact Information   
 
 
 

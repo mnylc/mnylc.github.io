@@ -6,12 +6,12 @@ excerpt: "The Chief Analytics Officer directs the Mayor’s Office of Data Analy
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Chief Analytics Officer directs the Mayor’s Office of Data Analytics and plays a critical leadership role in helping New York City operate effectively and deliver high quality services to the public. The CAO will draw on knowledge of data science, modern technical tools, and urban policy to improve the lives of millions of New York City residents and set the leading standard for how a city leverages administrative, open, and private data to deliver value to the public.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Key responsibilities will include:
 
@@ -38,7 +38,7 @@ Oversee and manage data projects with citywide implications;
 - Work with the Commissioner of the Department of Information Technology and Telecommunications to ensure that citywide data policies support interoperability and standards to enable advanced analytics.
 
 
-### Qualifications###
+### Qualifications   
 
 The successful candidate must have a broad range of skills, but above all, they must be curious, flexible thinkers who love learning new things and tackling challenges on a daily basis. In addition, the preferred candidate should possess the following:
 
@@ -68,21 +68,21 @@ Qualification Requirements:
 - Education and Experience equivalent.
 
 
-### Compensation###
+### Compensation   
 
 up to $170,000 Commensurate with Experience
 
 
-### Location###
+### Location   
 
 The Mayor’s Office of Data Analytics (MODA) is housed within the Mayor’s Office of Operations and is the principal unit charged with aggregating, analyzing and synthesizing data from across agencies and external sources to better manage and execute City priorities. MODA’s work touches virtually every urban issue, including safety, physical infrastructure, economic development, social services, and quality of life. MODA also sets priority and strategy for ensuring that agencies are compliant with NYC’s Open Data law. New York City is looking for an experienced leader to turn data into insights to guide the governance of the City.
 
 
-### URL###
+### URL   
 
 [https://www.linkedin.com/jobs/view/390573675/](https://www.linkedin.com/jobs/view/390573675/)
 
-### To Apply###
+### To Apply   
 
 In order to be considered for this position, a resume and cover letter must be submitted to NYCAnalytics@cityhall.nyc.gov (Indicate '292163 – Chief Analytics Officer' in subject line)
 
@@ -95,7 +95,7 @@ SUBMISSION OF A RESUME IS NOT A GUARANTEE THAT YOU WILL RECEIVE AN INTERVIEW
 The Department of Information Technology & Telecommunications and the City of New York are equal opportunity employers
 
 
-### Company Information###
+### Company Information   
 
 The Mayor’s Office of Data Analytics (MODA) is housed within the Mayor’s Office of Operations and is the principal unit charged with aggregating, analyzing and synthesizing data from across agencies and external sources to better manage and execute City priorities. MODA’s work touches virtually every urban issue, including safety, physical infrastructure, economic development, social services, and quality of life. MODA also sets priority and strategy for ensuring that agencies are compliant with NYC’s Open Data law. New York City is looking for an experienced leader to turn data into insights to guide the governance of the City.
 

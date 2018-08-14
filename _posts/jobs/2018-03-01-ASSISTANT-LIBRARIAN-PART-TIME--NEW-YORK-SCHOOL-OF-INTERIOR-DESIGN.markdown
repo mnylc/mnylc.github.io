@@ -6,7 +6,7 @@ excerpt: "Part-time & temporary 3-month term only, with a possibility of renewal
 tag: job
 ---
 
-### Description###
+### Description   
 
 Part-time & temporary 3-month term only, with a possibility of renewal
 
@@ -14,7 +14,7 @@ Overview:
 Reporting to the Director of the Library, the Assistant Librarian supports the day-to day operations of the Library’s public services and the two materials libraries. S/he is an integral part of the Library’s public services team for providing instructional, reference, and circulating services to library users. During the closing shifts and in the absence of the Librarian, s/he manages the Library’s circulation and reference desk and supervises student workers. The Assistant Librarian performs a variety of system maintenance tasks, such as updating the Library’s website and online subject guides and maintaining other electronic tools and platforms pertaining to public services. S/he may need to perform tasks and projects related to the NYSID Archives & Special Collections.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Assist the Librarian with the operations of circulation and reference services and delivering library instruction sessions to NYSID students, faculty and staff; answer reference queries and help patrons locate items and resources in the library and archives, and through online databases.
@@ -37,7 +37,7 @@ Reporting to the Director of the Library, the Assistant Librarian supports the d
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 •         MLS from an ALA-accredited institution (candidates pursuing an MLS degree at an ALA-accredited institution will also be considered).
@@ -75,21 +75,21 @@ Reporting to the Director of the Library, the Assistant Librarian supports the d
 + Ability to perform physical activities associated with library collections.
 
 
-### Compensation###
+### Compensation   
 
 $18 per hour
 
 
-### Location###
+### Location   
 
 New York, NY 
 
 
-### URL###
+### URL   
 
 [http://library.nysid.edu/library/](http://library.nysid.edu/library/)
 
-### To Apply###
+### To Apply   
 
 Please submit a resume and cover letter describing your interest and relevant experience to libraryinfo@nysid.edu with “Assistant Librarian (part-time)” in the subject line.
 

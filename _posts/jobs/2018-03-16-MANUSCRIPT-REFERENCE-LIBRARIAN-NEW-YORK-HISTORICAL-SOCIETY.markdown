@@ -6,7 +6,7 @@ excerpt: "New-York Historical Society, a preeminent educational and research ins
 tag: job
 ---
 
-### Description###
+### Description   
 
 New-York Historical Society, a preeminent educational and research institution, is home to both New York City’s oldest museum and to one of the nation’s most distinguished independent research libraries. N-YHS is dedicated to presenting exhibitions and public programs, and fostering research that reveal the dynamism of history and its influence on the world of today. Founded in 1804, its holdings cover four centuries of American history, and include one of the world’s greatest collections of books, manuscripts, graphic materials, historical artifacts, and American art documenting the history of the United States as seen through the prism of New York.
 
@@ -15,7 +15,7 @@ The collections of the Patricia D. Klingenstein Library are particularly strong 
 The New-York Historical Society Library seeks an experienced library professional to join its public service staff as Manuscript Reference Librarian. Reporting to the Curator and Head of the Manuscript Department, the successful candidate will be responsible for meeting the reference needs of its substantial and heavily consulted manuscript and archival holdings.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 •  Provide reference assistance to a diverse group of researchers on-site, via phone and email  
@@ -37,7 +37,7 @@ The New-York Historical Society Library seeks an experienced library professiona
 • Other responsibilities and duties as assigned
 
 
-### Qualifications###
+### Qualifications   
 
 
 •  M.L.S. from an A.L.A.-accredited program, or M.A. in History with Archival
@@ -62,21 +62,21 @@ Certificate; B.A. in the humanities preferred
 •  Must be able to work Saturdays, September through May
 
 
-### Compensation###
+### Compensation   
 
 $50,000 annual (and benefits package)
 
 
-### Location###
+### Location   
 
 New York City
 
 
-### URL###
+### URL   
 
 [http://www.nyhistory.org/manuscript-reference-librarian](http://www.nyhistory.org/manuscript-reference-librarian)
 
-### To Apply###
+### To Apply   
 
 Send cover letter and resume to resumes@nyhistory.org 
 In the subject line please reference the specific job title to ensure your resume is forwarded properly.

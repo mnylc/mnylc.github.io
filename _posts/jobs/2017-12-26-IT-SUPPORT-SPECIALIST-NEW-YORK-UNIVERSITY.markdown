@@ -6,14 +6,14 @@ excerpt: "Under general supervision, work with NYU Division of Libraries user gr
 tag: job
 ---
 
-### Description###
+### Description   
 
 Under general supervision, work with NYU Division of Libraries user groups to solve business problems with available technology including hardware, software, databases, and peripherals. Analyze, evaluate and diagnose technical problems involving NYU Division of Libraries ITS technology services; assess complexity and determine resolutions; report on findings; recommend and document solutions. Assess, initiate, plan and manage incident tracking database process and recommend system changes or new product development for LITS enterprise services and applications. Develop, maintain, and manage multiple computer images and central image deployment service. Collaborate with LITS Client Services Manager, Supervisor, and Computer Support Technicians, service partners, and vendors for problem management of complex technical support issues.
 
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Education:
 Bachelor's Degree
@@ -40,16 +40,16 @@ PI100636855
 
 
 
-### Location###
+### Location   
 
 New York, New York, 10001, United States
 
 
-### URL###
+### URL   
 
 [http://www.Click2apply.net/k8xxzb5vccbh2qpv](http://www.Click2apply.net/k8xxzb5vccbh2qpv)
 
-### To Apply###
+### To Apply   
 
 Apply Here: [http://www.Click2apply.net/k8xxzb5vccbh2qpv](http://www.Click2apply.net/k8xxzb5vccbh2qpv)
 

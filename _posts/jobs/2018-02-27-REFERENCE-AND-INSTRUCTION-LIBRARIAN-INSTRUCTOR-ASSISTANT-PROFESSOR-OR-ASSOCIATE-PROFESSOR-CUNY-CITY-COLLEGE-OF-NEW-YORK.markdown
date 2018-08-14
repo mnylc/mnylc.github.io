@@ -6,7 +6,7 @@ excerpt: "Reference and Instruction Librarian (Instructor, Assistant Professor, 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reference and Instruction Librarian (Instructor, Assistant Professor, or Associate Professor)
 Job ID: 18304
@@ -75,14 +75,14 @@ CUNY encourages people with disabilities, minorities, veterans and women to appl
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 [http://www.cuny.edu](http://www.cuny.edu)
 

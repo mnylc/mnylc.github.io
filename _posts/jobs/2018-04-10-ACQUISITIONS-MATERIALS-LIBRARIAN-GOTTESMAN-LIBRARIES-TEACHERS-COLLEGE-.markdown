@@ -6,7 +6,7 @@ excerpt: "The Gottesman Libraries at Teachers College offers an expanding array 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Gottesman Libraries at Teachers College offers an expanding array of traditional and innovative services to the college community of educators. The library is increasingly a creative services organization that coordinates the acquisition and/or design, development, and distribution of intellectual properties, including video and audio media, digital and online materials, software applications and tools, and interactive exhibits and events, along with sophisticated support services. 
 
@@ -14,7 +14,7 @@ The diversity of materials, services, and suppliers that contribute to the succe
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 -Utilize organizational tools (e.g., DocDel, Educat, Serials Solutions, PocketKnowledge, Support Ticket System) to support the work of the Teachers College community. Support core functions (e.g., Archives, Digitization, Interlibrary Loan, Stack Maintenance) and areas of work within the Gottesman Libraries (e.g., Publishing, Services, Administration)
 
@@ -33,7 +33,7 @@ The diversity of materials, services, and suppliers that contribute to the succe
 -Assess impact and contribute to scholarly literature related to the new function or service
 
 
-### Qualifications###
+### Qualifications   
 
 -Masters degree in library or information science or equivalent
 -Outstanding communication and collaboration skills
@@ -51,31 +51,31 @@ The diversity of materials, services, and suppliers that contribute to the succe
 
 
 
-### Compensation###
+### Compensation   
 
 TBA
 
 
-### Location###
+### Location   
 
 New York, NY 
 
 
-### URL###
+### URL   
 
 [https://edlab.tc.columbia.edu/](https://edlab.tc.columbia.edu/)
 
-### To Apply###
+### To Apply   
 
 Please submit a resume, cover letter, and a portfolio of projects that make use of various media to support learning goals to edlabjobs@tc.columbia.edu
 
 
-### Company Information###
+### Company Information   
 
 525 W 120th St., 212.678.3448
 
 
-### Contact Information###
+### Contact Information   
 
 George Nantwi, edlabjobs@tc.columbia.edu
 

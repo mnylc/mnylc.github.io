@@ -6,7 +6,7 @@ excerpt: "Columbia University Libraries' (CUL) Collections Acquisitions and Desc
 tag: job
 ---
 
-### Description###
+### Description   
 
 Columbia University Libraries' (CUL) Collections Acquisitions and Description Division (CAD) is now accepting applications for a full-time detail-oriented and motivated Bibliographic Assistant VI. The incumbent will be responsible for a range of duties including, but not limited to: 
 - Processing time-sensitive, high priority and difficult-to-find orders for course reserves and patron requests; 
@@ -19,7 +19,7 @@ Schedule: Monday - Friday, 9 am - 5 pm
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 - High School Diploma or equivalent  
@@ -38,21 +38,21 @@ Preferred Qualifications:
 - Previous bibliographic experience and experience with machine-based cataloging preferred.  
 
 
-### Compensation###
+### Compensation   
 
 	$22.28/hour ($21.72/hour for new hires)  
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://library.columbia.edu](http://library.columbia.edu)
 
-### To Apply###
+### To Apply   
 
 [https://jobs.columbia.edu/applicants/Central?quickFind=167731](https://jobs.columbia.edu/applicants/Central?quickFind=167731)  
 

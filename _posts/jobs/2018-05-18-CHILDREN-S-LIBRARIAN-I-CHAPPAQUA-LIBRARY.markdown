@@ -6,46 +6,46 @@ excerpt: "Working in the active children's room of a suburban public library."
 tag: job
 ---
 
-### Description###
+### Description   
 
 Working in the active children's room of a suburban public library.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Planning and conducting storytimes for infants and toddlers and their caregivers, and other programs for older children; reader's advisory for all ages (mainly K-5); materials selection and collection development; community outreach.
 
 
-### Qualifications###
+### Qualifications   
 
 AN MLS from an accredited program, NYS Certification, completion of a Westchester County Civil Service Exam
 
 
-### Compensation###
+### Compensation   
 
 $45,000-49,000
 
 
-### Location###
+### Location   
 
 Chappaqua, NY, USA
 
 
-### URL###
+### URL   
 
 www.chappaqualibrary.org
 
-### To Apply###
+### To Apply   
 
 Send a resume to the director, Pamela Thornton: thornton@wlsmail.org
 
 
-### Company Information###
+### Company Information   
 
 195 South Greeley Ave, Chappaqua NY 10514 --(914)-238-4779
 
 
-### Contact Information###
+### Contact Information   
 
 Pamela Thornton: thornton@wlsmail.org
 

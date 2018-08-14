@@ -6,7 +6,7 @@ excerpt: "New York University Libraries seeks a collaborative and knowledgeable 
 tag: job
 ---
 
-### Description###
+### Description   
 
 New York University Libraries seeks a collaborative and knowledgeable Senior Manager for Data Analysis and Integration (DAI) to serve as the head of the new department. Leading a service oriented team of library technologists responsible for the access, integrity, interoperability, and delivery of data across library systems, the successful candidate will combine management experience with expertise in integrated library systems and/or metadata discovery systems, with emphasis on application administration, data manipulation, analysis and integration.
 
@@ -16,7 +16,7 @@ Reporting to the Associate Dean for Knowledge Access and Resource Management Ser
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Education:
 Bachelor's degree in Computer Science, Library and Information Science or any other relevant degree.
@@ -50,16 +50,16 @@ PI98731013
 
 
 
-### Location###
+### Location   
 
 New York, New York 10001 United States
 
 
-### URL###
+### URL   
 
 [http://www.Click2apply.net/jqdjswc5k6zjgc8z](http://www.Click2apply.net/jqdjswc5k6zjgc8z)
 
-### To Apply###
+### To Apply   
 
 Apply Online
 

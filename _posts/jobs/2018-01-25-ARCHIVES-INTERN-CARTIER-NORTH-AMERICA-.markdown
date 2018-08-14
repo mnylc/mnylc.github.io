@@ -9,7 +9,7 @@ excerpt: "Assist the Archive Manager and Archives Coordinator on the archive com
 tag: job
 ---
 
-### Description###
+### Description   
 
 Assist the Archive Manager and Archives Coordinator on the archive computerization project while performing all other archive functions.
 	This is a temporary position and not eligible for benefits.
@@ -17,7 +17,7 @@ Assist the Archive Manager and Archives Coordinator on the archive computerizati
 	Duration: Approx. 9 months from start date
 
 
-### Responsibilities###
+### Responsibilities   
 
 	Assist with fulfilling research requests using information found in the physical archive materials 
 	Communicate findings to all interested parties.
@@ -29,7 +29,7 @@ Assist the Archive Manager and Archives Coordinator on the archive computerizati
 
 
 
-### Qualifications###
+### Qualifications   
 
 	Masters degree or a current student working towards a Masters degree in information science or record management is strongly preferred
 	Must have experience in working on a thesaurus and digital documents.
@@ -42,28 +42,28 @@ proactive approach are needed.
 	French language skills strongly preferred.
 
 
-### Compensation###
+### Compensation   
 
 $15 per hour and time and a half for overtime
 
 
-### Location###
+### Location   
 
 New York, New York USA 
 
 
-### URL###
+### URL   
 
 [https://dtcghrerp01.dtc.rccad.net/sap/bc/webdynpro/sap/hrrcf_a_posting_apply_emp?PARAM=cG9zdF9pbnN0X2d1aWQ9Rjg0MThEOEQxNUVBMUVEN0I5QjhFQkE1NDVCNjkzQTkmY2FuZF90eXBlPUlOVCZwYz0x&sap-theme=CORBU_INT&sap-client=010&sap-language=EN#](https://dtcghrerp01.dtc.rccad.net/sap/bc/webdynpro/sap/hrrcf_a_posting_apply_emp?PARAM=cG9zdF9pbnN0X2d1aWQ9Rjg0MThEOEQxNUVBMUVEN0I5QjhFQkE1NDVCNjkzQTkmY2FuZF90eXBlPUlOVCZwYz0x&sap-theme=CORBU_INT&sap-client=010&sap-language=EN#)
 
-### To Apply###
+### To Apply   
 
 Please apply at www.richemont.com or www.cartier.com or click on the above link
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 Any questions please email Veronica Krantz at veronica.krantz.temp@richemont.com or call 646-954-9583. 
 

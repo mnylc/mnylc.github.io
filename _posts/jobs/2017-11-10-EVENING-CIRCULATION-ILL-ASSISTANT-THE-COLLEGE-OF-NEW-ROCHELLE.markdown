@@ -6,12 +6,12 @@ excerpt: "Gill Library at The College of New Rochelle invites applications for t
 tag: job
 ---
 
-### Description###
+### Description   
 
 Gill Library at The College of New Rochelle invites applications for the position of Evening Circulation/ILL Assistant.  This is a full-time position available immediately working M-Th 3-11pm and F 9-5. Reporting to the Access Services Librarian, the Evening Circulation/ILL Assistant will supervise the Circulation Desk activities including student assistants in the evening, as well as oversee all Interlibrary Loan functions for the Library.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Provides evening Circulation Desk coverage which may include weekends and certain holidays as well as extended hours during final exam periods if needed
@@ -40,7 +40,7 @@ Gill Library at The College of New Rochelle invites applications for the positio
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Bachelor degree; Library experience and excellent customer service skills required.
@@ -53,16 +53,16 @@ Gill Library at The College of New Rochelle invites applications for the positio
 
 
 
-### Location###
+### Location   
 
 New Rochelle, NY
 
 
-### URL###
+### URL   
 
 library.cnr.edu
 
-### To Apply###
+### To Apply   
 
 To apply, please send one PDF attachment that includes letter of interest (addressed to Dean Ana E. Fontoura), C.V., and the contact information for three references who can speak to your professional qualifications, to:
 Ms. Brunie Lopez

@@ -6,7 +6,7 @@ excerpt: "Seeking an experienced P/T Librarian with strong technology and refere
 tag: job
 ---
 
-### Description###
+### Description   
 
 Seeking an experienced P/T Librarian with strong technology and reference skills.  Prime candidates will be passionate about information literacy and have the desire and demonstrated ability to work with and teach a diverse student population in both virtual and physical reference environments, and classroom settings.  PT librarians are an integral part of the library team and College mission, playing a key role in educating students on the use of all library and web resources and in developing student research skills for academic success and life-long learning. A collaborative, entrepreneurial mind-set, team orientation and flexible schedule is essential, as well as availability on nights and weekends.
 
@@ -14,7 +14,7 @@ Skills/Qualifications:
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Duties:
 
@@ -37,7 +37,7 @@ Duties:
 • 	Perform other professional duties as requested.
 
 
-### Qualifications###
+### Qualifications   
 
 Master’s Degree in Library and Information Science from an ALA-accredited institution. Additional subject master’s preferred.
 
@@ -52,26 +52,26 @@ Master’s Degree in Library and Information Science from an ALA-accredited inst
 
 
 
-### Location###
+### Location   
 
 Manhattan
 
 
 
 
-### To Apply###
+### To Apply   
 
 email mlee@mercy.edu
 
 
-### Company Information###
+### Company Information   
 
 Mercy College Library
 66 West 35th Street (Herald Square)
 New York, NY 10001
 
 
-### Contact Information###
+### Contact Information   
 
 mlee@mercy.edu
 

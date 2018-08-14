@@ -6,7 +6,7 @@ excerpt: "Dominican College seeks a tech-savvy, service-oriented individual for 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Dominican College seeks a tech-savvy, service-oriented individual for the Library Evening Supervisor at the Sullivan Library. This is a full-time, year-round position with the following schedule:
 
@@ -19,39 +19,39 @@ Winter session & Summer Terms
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Library Evening Supervisor is responsible for providing overall supervision of the Library building and staff in the evening hours. Responsibilities include assisting students and faculty, answering research questions (in-person, phone, and online), and troubleshooting basic computer and printer questions. This position is responsible for overseeing stack maintenance, circulating materials, and shelving materials. Perform other related duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 Requirements:  High school diploma. Candidates should demonstrate the ability to work independently and possess strong communication, interpersonal, customer service and problem-solving skills to work with a diverse group of students and faculty. Computer skills are essential. Must be able to work a flexible schedule as needed, including later hours during final exam periods. Bilingual a plus.
 
 
 
 
-### Location###
+### Location   
 
 Orangeburg, NY
 
 
-### URL###
+### URL   
 
 [https://www.dc.edu/](https://www.dc.edu/)
 
-### To Apply###
+### To Apply   
 
 humanresources@dc.edu
 
 
-### Company Information###
+### Company Information   
 
 470 Western Highway
 Orangeburg, NY 10962
 
 
-### Contact Information###
+### Contact Information   
 
 Marybeth Broderick
 Director of Human Resources

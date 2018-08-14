@@ -6,7 +6,7 @@ excerpt: "Project Archivist, Ethical Culture Fieldston School Records (1 year, f
 tag: job
 ---
 
-### Description###
+### Description   
 
 Project Archivist, Ethical Culture Fieldston School Records (1 year, full-time, grant-funded position)
 
@@ -21,7 +21,7 @@ The New-York Historical Society Library is seeking an experienced Project Archiv
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 *Develop a comprehensive processing plan and timeline for project implementation
 
@@ -47,7 +47,7 @@ The New-York Historical Society Library is seeking an experienced Project Archiv
 
 
 
-### Qualifications###
+### Qualifications   
 
 Education Requirements:
 ALA-accredited MLIS or equivalent degree, with concentration in archival studies
@@ -82,19 +82,19 @@ Physical Demands:
 The position requires the ability to lift and carry for short distances storage boxes weighing up to 40 lbs.
 
 
-### Compensation###
+### Compensation   
 
 $50,000/annual. Attractive benefits package. 
 
 
-### Location###
+### Location   
 
 New York City
 
 
 
 
-### To Apply###
+### To Apply   
 
 Send cover letter, resume, the names and contact information of three references, and a finding aid writing sample (or a link to an on-line sample) to resumes@nyhistory.org. 
 
@@ -103,7 +103,7 @@ In the subject line please reference the specific job title to ensure your resum
 The New-York Historical Society is an Equal Opportunity Employer.
 
 
-### Company Information###
+### Company Information   
 
 The New-York Historical Society, a preeminent educational and research institution, is home to both New York City’s oldest museum and to one of the nation’s most distinguished independent research libraries. N-YHS is dedicated to presenting exhibitions and public programs, and fostering research that reveal the dynamism of history and its influence on the world of today. Founded in 1804, its holdings cover four centuries of American history, and include one of the world’s greatest collections of books, manuscripts, graphic materials, historical artifacts, and American art documenting the history of the United States as seen through the prism of New York. 
 

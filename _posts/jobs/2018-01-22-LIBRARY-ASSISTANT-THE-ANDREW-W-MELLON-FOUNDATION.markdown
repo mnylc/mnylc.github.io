@@ -6,7 +6,7 @@ excerpt: "The Andrew W. Mellon Foundation (\"Foundation\") is a not-for-profit, 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Andrew W. Mellon Foundation ("Foundation") is a not-for-profit, grantmaking organization that seeks to strengthen, promote, and, where necessary, defend the contributions of the humanities and the arts to human flourishing and to the well-being of diverse and democratic societies.  It makes grants in five core program areas (higher education and scholarship in the humanities; arts and cultural heritage; diversity; scholarly communications; and international higher education and strategic projects).  The Foundation seeks a library assistant to provide administrative, library, and archival support in the Foundation’s Nathan Marsh Pusey Library.
 
@@ -15,7 +15,7 @@ The library assistant will have an opportunity to acquire experience in a small,
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The library and assistant is a full-time position (37.5 hours per week) that reports to the Foundation’s librarian, and also takes assignments from and works closely with other professional staff within the library.  The person appointed to this position will have multiple responsibilities including, but not limited to the following functions:
 
@@ -53,7 +53,7 @@ The library and assistant is a full-time position (37.5 hours per week) that rep
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	A bachelor's degree, with experience working in a library or archives setting, either as an employee or as a researcher
@@ -78,21 +78,21 @@ The library and assistant is a full-time position (37.5 hours per week) that rep
 
 
 
-### Compensation###
+### Compensation   
 
 Salary based on experience
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://workforcenow.adp.com/jobs/apply/posting.html?client=theandreww&jobId=85279&lang=en_US&source=CC3](https://workforcenow.adp.com/jobs/apply/posting.html?client=theandreww&jobId=85279&lang=en_US&source=CC3)
 
-### To Apply###
+### To Apply   
 
 Qualified candidates should submit a resume, cover letter and salary requirements to: [https://workforcenow.adp.com/jobs/apply/posting.html?client=theandreww&jobId=85279&lang=en_US&source=CC3](https://workforcenow.adp.com/jobs/apply/posting.html?client=theandreww&jobId=85279&lang=en_US&source=CC3)
 We will consider each response carefully, but only contact those individuals we feel are most qualified for the position.

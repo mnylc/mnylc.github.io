@@ -6,12 +6,12 @@ excerpt: "Reporting to the Associate Director of the Empirical Reasoning Center 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Associate Director of the Empirical Reasoning Center (ERC), the ERC Lab Coordinator supervises the ERC undergraduate fellows and graduate assistants and assists the Associate Director by providing instructional support. The Lab Coordinator conducts workshops and develops training materials on data analysis software and methodologies. The Lab Coordinator assists faculty and students across the curriculum with data analysis, GIS, data visualization, and related empirical projects. The Lab Coordinator also works closely with the Barnard Library and Academic Instruction Services (BLAIS) team and other partners as needed to coordinate services and facilitate collaboration.
 
 
-### Responsibilities###
+### Responsibilities   
 
 1. Oversee the scheduling, supervision and training of ERC undergraduate and graduate student lab staff.
 2. Provide workshops for Barnard faculty and students on data analysis, with programs such as (but not limited to): Excel, R, ArcGIS, QGIS, etc.
@@ -24,7 +24,7 @@ Reporting to the Associate Director of the Empirical Reasoning Center (ERC), the
 Knowledge, Skills, and Abilities 	
 
 
-### Qualifications###
+### Qualifications   
 
 
 •  Demonstrated ability to work independently and on a team in a collaborative environment
@@ -54,21 +54,21 @@ Knowledge, Skills, and Abilities
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://careers.barnard.edu/postings/3382](https://careers.barnard.edu/postings/3382)
 
-### To Apply###
+### To Apply   
 
 [https://careers.barnard.edu/postings/3382/pre_apply](https://careers.barnard.edu/postings/3382/pre_apply)
 
 
-### Company Information###
+### Company Information   
 
 Barnard College is an Equal Opportunity Employer. Barnard does not discriminate due to race, color, creed, religion, sex, sexual orientation, gender and/or gender identity or expression, marital or parental status, national origin, ethnicity, citizenship status, veteran or military status, age, disability, or any other legally protected basis, and to the extent permitted by law. Qualified candidates of diverse ethnic and racial backgrounds are encouraged to apply for vacant positions at all levels.
 

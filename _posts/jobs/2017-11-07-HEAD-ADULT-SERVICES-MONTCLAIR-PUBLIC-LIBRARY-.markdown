@@ -6,7 +6,7 @@ excerpt: "Ready to make a difference at one of New Jersey’s best libraries? Th
 tag: job
 ---
 
-### Description###
+### Description   
 
 Ready to make a difference at one of New Jersey’s best libraries? The Montclair Public Library is looking for a leader of our Adult Services Department. 
 
@@ -19,7 +19,7 @@ Coordinate Adult Services staff to run the department efficiently, satisfy libra
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Essential functions include:  
 
@@ -36,7 +36,7 @@ Essential functions include:
 • 	Other duties, as assigned. 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	MLS (from an ALA Accredited program) with NJ Professional Librarian Certificate
@@ -47,31 +47,31 @@ Essential functions include:
 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience. 
 
 
-### Location###
+### Location   
 
 Montclair, NJ 
 
 
-### URL###
+### URL   
 
 [http://www.montclairlibrary.org/](http://www.montclairlibrary.org/)
 
-### To Apply###
+### To Apply   
 
 Email resume, salary requirement and cover letter to torsney@montclair.bccls.org 
 
 
-### Company Information###
+### Company Information   
 
 Montclair Public Library, 50 South Fullerton Avenue, Montclair NJ 07042, 973.744.0500
 
 
-### Contact Information###
+### Contact Information   
 
 Janet Torsney, Assistant Director, torsney@montclair.bccls.org
 

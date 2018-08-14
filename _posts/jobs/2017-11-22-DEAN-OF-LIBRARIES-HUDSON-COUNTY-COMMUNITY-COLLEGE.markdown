@@ -6,7 +6,7 @@ excerpt: "Hudson County Community College is an award-winning, comprehensive urb
 tag: job
 ---
 
-### Description###
+### Description   
 
 Hudson County Community College is an award-winning, comprehensive urban college with two campuses located just across the Hudson River from Manhattan in Jersey City and Union City, NJ. Fully accredited by Middle States Commission on Higher Education, the College offers courses and classes in a wide variety of disciplines to the people and businesses of Hudson County, one of the most historic and ethnically diverse areas of the United States. The College was recognized with the 2012 Association of Community College Trustees (ACCT) Northeast Regional Equity Award, was one of just five finalists in the U.S. for the American Association of Community Colleges’ (AACC) Student
 Success Award, and was presented with the New Jersey Business & Industry Association’s Good Neighbor Awards in 2009 for the Culinary Arts Conference Center and in 2012 for the North Hudson Campus Project, and in 2015 for the state-of the art, award-winning Library Building.
@@ -14,14 +14,14 @@ Success Award, and was presented with the New Jersey Business & Industry Associa
 In 2016, the HCCC Library was recognized by the Association of College and Research Libraries with its EXCELLENCE award for its innovative programs, offerings and services. Hudson County Community College is the first college or university in the state ever to achieve that recognition. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to the Senior Vice President for Student and Educational Services, the Dean of Libraries will provide leadership to meet the information and research needs of the campus and surrounding community. The Dean will articulate a strategic vision for the future of the library, and continue to facilitate the transformation of the Library into a vibrant, student-centered, 21st century, academic and cultural hub. The Dean of the Libraries integrates diverse resources and technologies, collaborates with college constituents, and cultivates a dynamic teaching and learning environment. The Dean of Libraries fosters an organizational climate that promotes diversity, encourages innovation, and provides effective leadership to Library staff and students.
 
 This is an exciting opportunity for an experienced and forward-thinking Library professional to join an award-winning team in a highly collaborative environment that encourages creativity and innovation.
 
 
-### Qualifications###
+### Qualifications   
 
 REQUIREMENTS:
 
@@ -42,16 +42,16 @@ REQUIREMENTS:
 
 
 
-### Location###
+### Location   
 
 Jersey City, NJ
 
 
-### URL###
+### URL   
 
 [http://www.hccc.edu/uploadedFiles/Content/Job_Opportunities/Dean-of-Libraries-Position-Announcement.pdf](http://www.hccc.edu/uploadedFiles/Content/Job_Opportunities/Dean-of-Libraries-Position-Announcement.pdf)
 
-### To Apply###
+### To Apply   
 
 Send a letter of application, resume, salary requirements and names/contact information of three professional references to:
 

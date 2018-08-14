@@ -6,19 +6,19 @@ excerpt: "A one time gig: we are looking for a complete redo of our website"
 tag: job
 ---
 
-### Description###
+### Description   
 
 A one time gig: we are looking for a complete redo of our website
 
 
 
 
-### Qualifications###
+### Qualifications   
 
 Please see the specs in our RFP.  In it you will fond a complete overview.
 
 
-### Compensation###
+### Compensation   
 
 $5000, adjustment possible
 
@@ -27,17 +27,17 @@ $5000, adjustment possible
 
 
 
-### To Apply###
+### To Apply   
 
 Please follow the info in our RFP.  [https://tinyurl.com/RFP-LHA](https://tinyurl.com/RFP-LHA)
 
 
-### Company Information###
+### Company Information   
 
 www.lesbianherstoryarchives.org
 
 
-### Contact Information###
+### Contact Information   
 
 See the RFP for names and email addresses
 

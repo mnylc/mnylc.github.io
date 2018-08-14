@@ -6,12 +6,12 @@ excerpt: "You are a detail oriented and skilled researcher with excellent organi
 tag: job
 ---
 
-### Description###
+### Description   
 
 You are a detail oriented and skilled researcher with excellent organizational skills and desire to be part of an integral team supporting the overall fundraising goals of the Wildlife Conservation Society. Reporting to the Assistant Director of Prospect Research in WCS's Global Resources Division, you will identify key prospects with capacity and propensity for significant contributions, prepare briefing materials/profiles to enable fundraisers to effectively cultivate and solicit these prospects, contributing significantly to the Global Resources team annual fundraising goals.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Your responsibilities will include but not be limited to:
 
@@ -31,7 +31,7 @@ Your responsibilities will include but not be limited to:
 #LI-MT1
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 
@@ -58,16 +58,16 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 Bronx, NY
 
 
-### URL###
+### URL   
 
 [https://www.wcs.org/about-us/careers](https://www.wcs.org/about-us/careers)
 
-### To Apply###
+### To Apply   
 
 Search and apply for position at [https://www.wcs.org/about-us/careers](https://www.wcs.org/about-us/careers)
 

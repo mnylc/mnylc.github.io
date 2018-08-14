@@ -6,7 +6,7 @@ excerpt: "Brookdale Community College (Lincroft, NJ), is seeking an innovative, 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Brookdale Community College (Lincroft, NJ), is seeking an innovative, collaborative, and engaging librarian with teaching experience to join our team.  
 
@@ -16,7 +16,7 @@ The successful candidate will design, teach, and assess information literacy cur
 
 
 
-### Qualifications###
+### Qualifications   
 
 Master's Degree in Library/Information Science or related field is required 
 
@@ -25,16 +25,16 @@ Master's Degree in Library/Information Science or related field is required
 
 
 
-### URL###
+### URL   
 
 [http://jobs.brookdalecc.edu](http://jobs.brookdalecc.edu)
 
-### To Apply###
+### To Apply   
 
 Please visit [http://jobs.brookdalecc.edu](http://jobs.brookdalecc.edu) and search for “Instructor, Library” for additional details, and to begin the online application process.
 
 
-### Company Information###
+### Company Information   
 
 Brookdale Community College | 765 Newman Springs Road | Lincroft, NJ | 07738 | United States
 

@@ -6,7 +6,7 @@ excerpt: "The United Nations invites eligible candidates to apply for the Young 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The United Nations invites eligible candidates to apply for the Young Professionals Programme examination in information management (INFONET).  The United Nations is seeking applicants with degrees in library and information science, archival science, and related professions in the field of information management.  The application deadline is 22 August 2017.
 
@@ -24,16 +24,16 @@ Direct link to the job opening:
 
 
 
-### Location###
+### Location   
 
 Global
 
 
-### URL###
+### URL   
 
 [https://careers.un.org/lbw/home.aspx?viewtype=NCE](https://careers.un.org/lbw/home.aspx?viewtype=NCE)
 
-### To Apply###
+### To Apply   
 
 [https://careers.un.org/lbw/jobdetail.aspx?id=81274](https://careers.un.org/lbw/jobdetail.aspx?id=81274)
 

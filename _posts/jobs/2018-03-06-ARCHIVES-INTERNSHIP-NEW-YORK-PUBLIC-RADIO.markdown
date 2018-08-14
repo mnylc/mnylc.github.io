@@ -12,7 +12,7 @@ The NYPR Archives, which holds the assets for stations WNYC and WQXR, is seeking
 tag: job
 ---
 
-### Description###
+### Description   
 
 Please share: Internship position at New York Public Radio Archives
 
@@ -27,31 +27,31 @@ The NYPR Archives, which holds the assets for stations WNYC and WQXR, is seeking
 
 
 
-### Compensation###
+### Compensation   
 
 None
 
 
-### Location###
+### Location   
 
 New York, New York
 
 
-### URL###
+### URL   
 
 [http://jobs.jobvite.com/newyork-public-radio/job/oyx36fwY](http://jobs.jobvite.com/newyork-public-radio/job/oyx36fwY)
 
-### To Apply###
+### To Apply   
 
 Please submit through the jobvite web site.
 
 
-### Company Information###
+### Company Information   
 
 160 Varick St., New York, NY 10013
 
 
-### Contact Information###
+### Contact Information   
 
 msueiro@nypublicradio.org
 

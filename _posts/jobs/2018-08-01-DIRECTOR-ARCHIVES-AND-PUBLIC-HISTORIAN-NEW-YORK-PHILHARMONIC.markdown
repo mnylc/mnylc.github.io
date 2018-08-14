@@ -6,17 +6,17 @@ excerpt: "The Director, Archives and Public Historian will oversee the New York 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Director, Archives and Public Historian will oversee the New York Philharmonic’s Archive and the Leon Levy Digital Archives, using those resources to assist in telling a broader institutional story, and making collaborative connections with a wide variety of cultural organizations both locally and outside of New York City.
 
 
-### Responsibilities###
+### Responsibilities   
 
 This highly collaborative position will work across the institution, providing context and insight in the development of projects and initiatives, and will serve as an important outward facing presence and voice in framing the New York Philharmonic’s innovative past and future.
 
 
-### Qualifications###
+### Qualifications   
 
 An advanced degree in library or archival sciences, and a minimum of five years archival or library management experience that includes representing
 the institution throughout the community and interpreting the institution’s collections to the public.
@@ -24,26 +24,26 @@ the institution throughout the community and interpreting the institution’s co
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://nyphil.org/about-us/general-information/employment-opportunities](https://nyphil.org/about-us/general-information/employment-opportunities)
 
-### To Apply###
+### To Apply   
 
 resumes@nyphil.org
 
 
-### Company Information###
+### Company Information   
 
 New York Philharmonic
 
 
-### Contact Information###
+### Contact Information   
 
 resumes@nyphil.org
 

@@ -6,12 +6,12 @@ excerpt: "Gill Library at The College of New Rochelle invites applications for t
 tag: job
 ---
 
-### Description###
+### Description   
 
 Gill Library at The College of New Rochelle invites applications for the position of Learning Commons Coordinator.  This is a full-time, two year, Title III grant-funded position which is available immediately. Reporting to the Dean of the Library, the Learning Commons Coordinator will take a lead role in the integration of library and academic support services within the Library Learning Commons.  The Coordinator provides vision, leadership, and management in the integration of technology, research skills, tutoring, and related student success functions.  This includes the delivery of services and re-purposed physical spaces designed to facilitate information discovery, collaborative learning, and knowledge building for all students. This position blends digital and multimedia technologies with the best of online and traditional library services tutoring and other student support services to foster student learning, research and success. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Liaises all retention services staff including campus directors, tutoring, writing, career services and disability services; 
@@ -36,7 +36,7 @@ Gill Library at The College of New Rochelle invites applications for the positio
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 Master’s degree in Library Science from an ALA-accredited program; several years of progressively responsible experience in a public-services focused academic library environment; working knowledge of Hobsons Starfish Early Alert system, and an understanding of technology and its applications to libraries and other learning environments; strong commitment to outreach and student engagement; excellent oral and written communication skills; strong collaborative leadership and project management skills and experience; commitment to building diversity; flexibility and the capacity to embrace change and to work in a continuously changing environment.
@@ -48,14 +48,14 @@ Previous experience in a learning/information commons environment; familiarity w
 
 
 
-### Location###
+### Location   
 
 New Rochelle, NY. Travel required to all campuses in NYC
 
 
 
 
-### To Apply###
+### To Apply   
 
 To apply, please send one PDF attachment, that includes letter of interest (addressed to Dean Ana E. Fontoura), C.V., and the contact information for three references who can speak to your professional qualifications, to:
 Ms. Brunie Lopez
@@ -69,7 +69,7 @@ This position is subject to successful completion of background checks.
 
 
 
-### Company Information###
+### Company Information   
 
 The College of New Rochelle is a Catholic college in the Ursuline tradition and we welcome applicants from all backgrounds who can contribute to our unique educational mission.  To learn more about the College, please visit our website at: www.cnr.edu. 
 

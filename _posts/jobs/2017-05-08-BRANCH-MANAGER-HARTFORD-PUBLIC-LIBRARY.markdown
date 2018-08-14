@@ -6,14 +6,14 @@ excerpt: "The Branch Manager has overall responsibility and accountability of al
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Branch Manager has overall responsibility and accountability of all functions of a library branch. This includes the management of the public service operations including circulation, adult services, youth services, and security. This position is also accountable for training, scheduling and evaluating staff and assists in short-term and long-term planning in the assigned branch. The Branch Manager works with the development of the branch's collections and programming efforts, and supports in all areas of administration. This position ensures the highest level of service is provided by staff to all customers.
 
  
 
 
-### Responsibilities###
+### Responsibilities   
 
 Branch Presentation - a. Ensure that branch shelving, book displays and marketing signage are in accordance with the system wide marketing strategies. b. Attentive to facility/building issues; communicate with Facility Manager when required.
 
@@ -62,7 +62,7 @@ Branch Presentation - a. Ensure that branch shelving, book displays and marketin
  Team - Strong commitment to working in a team environment is required.
 
 
-### Qualifications###
+### Qualifications   
 
 Degree / Diploma Obtained: Master's in Library Science required.
 
@@ -116,31 +116,31 @@ Other requirements:
 
 
 
-### Compensation###
+### Compensation   
 
 Minimum starting salary $52,650
 
 
-### Location###
+### Location   
 
 Hartford, CT USA
 
 
-### URL###
+### URL   
 
 [https://cw.na1.hgncloud.com/hplct/index.do](https://cw.na1.hgncloud.com/hplct/index.do)
 
-### To Apply###
+### To Apply   
 
 Must fill out an online application
 
 
-### Company Information###
+### Company Information   
 
 500 Main Street, Hartford CT 06103
 
 
-### Contact Information###
+### Contact Information   
 
 Heather Gomes 860-695-6305
 

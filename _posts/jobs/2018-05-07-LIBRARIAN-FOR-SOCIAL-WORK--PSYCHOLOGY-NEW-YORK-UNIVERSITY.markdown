@@ -6,18 +6,18 @@ excerpt: "New York University Libraries seeks a liaison librarian supporting the
 tag: job
 ---
 
-### Description###
+### Description   
 
 New York University Libraries seeks a liaison librarian supporting the School of Social Work and the Departments of Psychology and Applied Psychology. The ideal candidate has an abiding dedication to developing services for the highly diverse user communities of these programs, which draw learners and researchers from across cultural and demographic spectra, who range in focus from applied to research-intensive work. Library liaisons at NYU contribute to the educational mission by establishing strong relationships with faculty, graduate students, and undergraduates, and connecting them to the services, content, and tools that meet their research, teaching, and learning needs. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 This position serves as the primary library liaison to the above areas with special emphasis on delivering a program of extensive and integrated instructional, consultation, and research support services; developing responsive and creative services for communities who are engaged in work within New York City as well as on the global stage; and building and curating collections in all formats. Candidates should exhibit a strong public service orientation, a high degree of facility with technologies and systems germane to the 21st-century library, and have experience helping students and faculty who are increasingly using quantitative and qualitative data, survey methodologies, evidence synthesis methods (e.g., systematic reviews), computing-intensive applications, and geospatial visualization in their work. Liaison librarians actively learn and apply new skills and knowledge in emerging areas of digital and data-intensive scholarship; research data management practices; and the evolution of systems of scholarly publishing and communications.
 The Librarian for Social Work and Psychology is a tenure-track position based in the Humanities and Social Sciences Center in the Collections and Research Services unit of the NYU Libraries, reporting to the Head of Social Sciences. The incumbent is deeply engaged and contributes skills and expertise to the highly collaborative work of the department and other units within the NYU Libraries, including the Coles Science Center and the Health Sciences Library. The incumbent works creatively with colleagues to implement and improve programs and services, to deliver physical and virtual research and reference services, and to take a leadership role on projects and initiatives.
 
 
-### Qualifications###
+### Qualifications   
 
 Required:
 
@@ -39,26 +39,26 @@ Preferred:
 • 	Experience in finding/using psychological tests and measures, data reference and analysis, research data management, systematic reviews methods, or other technically infused research modalities.
 
 
-### Compensation###
+### Compensation   
 
 Salary is commensurate with experience and background. Tenure track faculty status and an attractive benefits package, including five weeks annual vacation. 
 
 
-### Location###
+### Location   
 
 New York, NY USA
 
 
-### URL###
+### URL   
 
 [https://library.nyu.edu/](https://library.nyu.edu/)
 
-### To Apply###
+### To Apply   
 
 To ensure consideration, submit your CV and letter of application, including the name, address, telephone number, and email of three professional references to [http://apply.interfolio.com/49547](http://apply.interfolio.com/49547) Applications will be considered until the position is filled.
 
 
-### Company Information###
+### Company Information   
 
 Libraries at New York University serve the school’s 40,000 students and faculty and contain more than 5 million volumes. The Libraries supports NYU’s vision to become the first true Global Network University by collaborating with and providing services to our 11 global academic centers and our “portal campuses” in Abu Dhabi and Shanghai. New York University Libraries is a member of the Association of Research Libraries, the OCLC Research Library Partnership, and the HathiTrust. The Libraries participate in a variety of consortia and collaborate closely with Columbia University Libraries and the New York Public Library through the Manhattan Research Library Consortium. View NYU Libraries Mission and Strategic Plan.
 

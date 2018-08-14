@@ -6,12 +6,12 @@ excerpt: "Reports to Head of Access, Information and Collection Services & Opera
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reports to Head of Access, Information and Collection Services & Operations. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Opens & closes Library Services Desk on Saturdays. 
 Responsible for providing courteous and efficient customer service to all library patrons regarding all facets of library operations in the evening and weekend. 
@@ -31,7 +31,7 @@ Functions as a liaison with the evening and weekend Library Security personnel, 
 Other tasks as assigned. 
 
 
-### Qualifications###
+### Qualifications   
 
 B.A. preferred with academic library experience. 
 Must be capable of light lifting and shelving activities. 
@@ -46,33 +46,33 @@ Mandatory competency test.
 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience 
 
 
-### Location###
+### Location   
 
 140 w 62nd street, New York NY 10023
 
 
-### URL###
+### URL   
 
 [https://www.fordham.edu/download/downloads/id/9301/hourly_support_staff_h00210_10617pdf.pdf](https://www.fordham.edu/download/downloads/id/9301/hourly_support_staff_h00210_10617pdf.pdf)
 
-### To Apply###
+### To Apply   
 
 SEND LETTER, RESUME TO: Nick Alongi, 
 Head of Access, Information and Collection Services, and Operations; nalongi@fordham.edu 
 
 
 
-### Company Information###
+### Company Information   
 
 Fordham University (Lincoln Center Campus, Quinn Library)
 
 
-### Contact Information###
+### Contact Information   
 
 nalongi@fordham.edu 
 

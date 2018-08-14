@@ -6,7 +6,7 @@ excerpt: "Please see [https://www.aclu.org/careers/fall-2017-archivesrecords-man
 tag: job
 ---
 
-### Description###
+### Description   
 
 Please see [https://www.aclu.org/careers/fall-2017-archivesrecords-management-internship-american-civil-liberties-union-new-york-ny](https://www.aclu.org/careers/fall-2017-archivesrecords-management-internship-american-civil-liberties-union-new-york-ny) for internship posting.
 
@@ -17,19 +17,19 @@ Please see [https://www.aclu.org/careers/fall-2017-archivesrecords-management-in
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Please follow instructions in description at [https://www.aclu.org/careers/fall-2017-archivesrecords-management-internship-american-civil-liberties-union-new-york-ny](https://www.aclu.org/careers/fall-2017-archivesrecords-management-internship-american-civil-liberties-union-new-york-ny)
 
 
-### Company Information###
+### Company Information   
 
 125 Broad Street, New York, NY 10004
 

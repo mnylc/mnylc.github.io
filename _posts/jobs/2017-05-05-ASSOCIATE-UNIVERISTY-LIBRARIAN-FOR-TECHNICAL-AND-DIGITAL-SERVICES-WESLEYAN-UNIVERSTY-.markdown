@@ -6,7 +6,7 @@ excerpt: "Wesleyan University Libraries seek a dynamic and innovative leader for
 tag: job
 ---
 
-### Description###
+### Description   
 
 Wesleyan University Libraries seek a dynamic and innovative leader for the position of Associate University Librarian for Technical and Digital Services. This position reports to the Caleb T. Winchester University Librarian, works closely with the Senior Library Management Team and serves as Librarian-in-Charge in absence of the University Librarian
 
@@ -14,7 +14,7 @@ This is a brand new position created for the Library’s vision towards providin
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities include but are not limited to:
 
@@ -30,7 +30,7 @@ Responsibilities include but are not limited to:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 
@@ -51,19 +51,19 @@ Preferred Qualifications:
 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate wtih experience
 
 
-### Location###
+### Location   
 
 Middletown, CT
 
 
 
 
-### To Apply###
+### To Apply   
 
 Interested parties can apply at the following link:
 [https://careers.wesleyan.edu/postings/5865](https://careers.wesleyan.edu/postings/5865)
@@ -71,12 +71,12 @@ Interested parties can apply at the following link:
 
 
 
-### Company Information###
+### Company Information   
 
 www.wesleyan.edu
 
 
-### Contact Information###
+### Contact Information   
 
 careers@wesleyan.edu
 

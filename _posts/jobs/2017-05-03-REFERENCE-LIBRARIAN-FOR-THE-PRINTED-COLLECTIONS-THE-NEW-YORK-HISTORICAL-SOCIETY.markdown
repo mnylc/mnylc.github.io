@@ -6,7 +6,7 @@ excerpt: "JOB TITLE: Reference Librarian for the Printed Collections DEPARTMENT:
 tag: job
 ---
 
-### Description###
+### Description   
 
 JOB TITLE: Reference Librarian for the Printed Collections
 DEPARTMENT: Library 
@@ -20,7 +20,7 @@ The Reference Librarian for the Printed Collections provides in-depth research a
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 ESSENTIAL JOB DUTIES:
 
@@ -43,7 +43,7 @@ The employee will retrieve, transport, and re-shelve library collections of vary
 
 
 
-### Qualifications###
+### Qualifications   
 
 EDUCATION:
 M.L.S. from an A.L.A.-accredited program required;  B.A. in the humanities preferred. 
@@ -72,16 +72,16 @@ Previous experience working in a special collections library and knowledge of Ne
 
 
 
-### Location###
+### Location   
 
 170 Central Park West NY,NY 10024
 
 
-### URL###
+### URL   
 
 [http://www.nyhistory.org/about/job-opportunities](http://www.nyhistory.org/about/job-opportunities)
 
-### To Apply###
+### To Apply   
 
 For consideration please send a cover letter, resume and salary requirements to: resumes@nyhistory.org    Please reference the job title in the subject line.  
 

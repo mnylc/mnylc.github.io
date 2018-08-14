@@ -6,7 +6,7 @@ excerpt: "The Columbia University Libraries invites nominations and applications
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Columbia University Libraries invites nominations and applications for the position of Curator of Oral History, Rare Book & Manuscript Library. 
 
@@ -15,14 +15,14 @@ The Rare Book & Manuscript Library is Columbia University's largest repository f
 One of the world's leading research universities, Columbia provides outstanding opportunities to work and grow in a unique intellectual community. Set in the Morningside Heights academic village, Columbia also presents the unmatched dynamism, diversity and cultural richness of New York City. The University Libraries, grounded in collections of remarkable depth and breadth, are also building extensive electronic resources and services. The Libraries at Columbia are committed to collegiality, professionalism, innovation and leadership.
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Curator will develop and conduct outreach on behalf of the Columbia Center for Oral History (CCOH) archive, a partnership between the Columbia University Libraries and the Interdisciplinary Center for Innovative Theory and Empirics (INCITE). Working with faculty and researchers at INCITE and across the University, the Curator will expand oral history collections, as well as promote their access, preservation, and use in research, teaching, and learning. 
 
 The Curator of Oral History will provide research support, rights and permission guidance, and the implementation of policies and procedures related to oral history collections. The Curator will provide proactive outreach to faculty and students, including teaching in appropriate courses as requested. The Curator will assist in the identification of funding opportunities and preparation of grants supporting the programmatic needs of oral history collection development, access, and preservation. Working with the Oral History Archivist, colleagues from preservation and digital projects divisions within the Libraries, the Curator will prioritize the processing and digitization of oral history collections. The position will report to the Director, Rare Book & Manuscript Library. 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 - MLS or PhD or equivalent
@@ -41,26 +41,26 @@ Preferred Qualifications:
 - Experience in writing and administering grants
 
 
-### Compensation###
+### Compensation   
 
 We offer a salary commensurate with qualifications and experience and excellent benefits.   Columbia University is An Equal Opportunity/Affirmative Action employer.  
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=64195](https://academicjobs.columbia.edu/applicants/Central?quickFind=64195)
 
-### To Apply###
+### To Apply   
 
 To apply for this position, please visit the following link: [https://academicjobs.columbia.edu/applicants/Central?quickFind=64195](https://academicjobs.columbia.edu/applicants/Central?quickFind=64195)  
 
 
-### Company Information###
+### Company Information   
 
 Columbia University Libraries
 United States

@@ -12,7 +12,7 @@ Working under and in collaboration with the Studio Archivist, the Project Archiv
 tag: job
 ---
 
-### Description###
+### Description   
 
 Status:            Temporary, Part-time, 2-3 days per week
 Duration:        6 weeks beginning in May 2017
@@ -23,7 +23,7 @@ Working under and in collaboration with the Studio Archivist, the Project Archiv
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities
 
@@ -31,7 +31,7 @@ Responsibilities
 
 
 
-### Qualifications###
+### Qualifications   
 
 Qualifications, Knowledge Skill Required
 
@@ -49,26 +49,26 @@ Qualifications, Knowledge Skill Required
 
 
 
-### Compensation###
+### Compensation   
 
 $20 per hour. This is a temporary, part-time position lasting 6 weeks with the possibility for renewal
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 2017. Please, include the position title in the subject line. 
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 caroline@rserra.com
 

@@ -6,18 +6,18 @@ excerpt: "Will support the SCI archives program by redesigning, updating and add
 tag: job
 ---
 
-### Description###
+### Description   
 
 Will support the SCI archives program by redesigning, updating and adding content to SCI’s digital archives resources. This position is part time, approximately 10 hours per week.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Design a digital platform to facilitate digital collaboration with other New York Maritime heritage organizations, develop a new Omeka platform to host digital content, review existing technical metadata, and draft a digitization manual for best practices, develop data visualization tools, Review and revise existing descriptive metadata, sssist and lead digital archives workshops with collaborative partners
 
 
 
-### Qualifications###
+### Qualifications   
 
 BA degree, Experience with digital archives and user experience design, excellent computer and organizational skills, ability to interact with people from diverse backgrounds.
 
@@ -25,24 +25,24 @@ BA degree, Experience with digital archives and user experience design, excellen
 
 
 
-### Location###
+### Location   
 
 CUNY Queens Colege, New York City
 
 
 
 
-### To Apply###
+### To Apply   
 
 send cv to humanresources@seamenchurch.org
 
 
-### Company Information###
+### Company Information   
 
 www.seamenschurch.org
 
 
-### Contact Information###
+### Contact Information   
 
 email questions to humanresources@seamenchurch.org
 

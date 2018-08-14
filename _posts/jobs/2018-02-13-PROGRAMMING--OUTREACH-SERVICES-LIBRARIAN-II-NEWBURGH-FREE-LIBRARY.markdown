@@ -6,7 +6,7 @@ excerpt: "Due to the retirement of a long-time employee, the Programming & Outre
 tag: job
 ---
 
-### Description###
+### Description   
 
 Due to the retirement of a long-time employee, the Programming & Outreach Services Librarian II position is now vacant. Illustrative tasks and details about how to apply for the position are included below.
  
@@ -15,7 +15,7 @@ Directs and oversees the coordination, development, and implementation of progra
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Position duties
 
@@ -54,7 +54,7 @@ Knowledge/Skills/Qualities
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Master’s degree in Library Science from an ALA accredited program.
@@ -67,21 +67,21 @@ Knowledge/Skills/Qualities
 
 
 
-### Compensation###
+### Compensation   
 
 This is a Civil Service appointment. Salary starts at $53,000 but may vary commensurate with experience.  Includes generous benefit package and NYS Retirement System pension plan.
 
 
-### Location###
+### Location   
 
 Newburgh, NY, USA
 
 
-### URL###
+### URL   
 
 www.newburghlibrary.org
 
-### To Apply###
+### To Apply   
 
 To apply, go to www.newburghschools.org, click on the “Departments” tab, drop down to “Human Resources & Employment Department” and see the posting for Librarian II-Newburgh Free Library.  Applicants must have a completed CSEA application on file and submit a letter of interest (templates found on web site) to: 
 Office of Human Resources
@@ -91,14 +91,14 @@ Include Posting Name on all correspondence.
 All replies must be received in the Office of Human Resources by 4PM on February 26, 2018. 
 
 
-### Company Information###
+### Company Information   
 
 Newburgh Free Library
 124 Grand St., Newburgh, NY 12550              
 
 
 
-### Contact Information###
+### Contact Information   
 
 For further information about the position, contact Human Resources at 845-563-3460.
 

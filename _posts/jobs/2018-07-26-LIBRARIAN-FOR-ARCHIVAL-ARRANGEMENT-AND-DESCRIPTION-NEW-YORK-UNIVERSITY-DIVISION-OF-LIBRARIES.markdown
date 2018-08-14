@@ -6,13 +6,13 @@ excerpt: "New York University Libraries seek a creative and collaborative Librar
 tag: job
 ---
 
-### Description###
+### Description   
 
 New York University Libraries seek a creative and collaborative Librarian for Archival Arrangement and Description to oversee its archival processing and description program. The position is based in the Archival Collections Management Department (ACM) of Knowledge Access and Resource Management Services (KARMS). Reporting to the Head of ACM and in close collaboration with the Accessioning Archivist and Digital Archivist, this position will play a leadership role in ACM, a unified technical services department supporting NYU’s three archival repositories: Fales Library, Tamiment Library and Robert F. Wagner Labor Archives, and New York University Archives. 
 The position will help to shape the way NYU Special Collections arrange, describe, manage, provide access to, and facilitate discovery of NYU’s rich archival collections in support of research, teaching, and learning in the libraries. The successful candidate will be committed to providing excellent support to our researchers by leading the Special Collections Processing Team, overseeing the processing and description work of three FTE professionals, grant-funded and project-based staff, and multiple student workers; directing the ongoing application of thoughtful archival arrangement and descriptive practices; contributing to policies, procedures, and workflows for productive and efficient processes; performing hands-on collections processing as needed; ensuring a user-centered, access-driven approach in all arrangement and description work; and seeking out opportunities for innovation in all of these endeavors. This position will also closely collaborate with other librarians and archivists throughout the Division, especially colleagues in Special Collections and the Preservation Department. Librarians are expected to serve as partners in the educational mission of NYU by establishing strong relationships with faculty and students and providing responsive and innovative information services. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Under the general supervision of the Head of Archival Collections Management, the successful candidate will: 
 
@@ -29,7 +29,7 @@ Under the general supervision of the Head of Archival Collections Management, th
 • 	Participate in unit-wide meetings and planning; contribute to department reference services by providing reference assistance in person and remotely; serve on relevant library-wide committees. Actively contribute to the profession through professional service, research and publication. 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	MLS from an ALA-accredited program or equivalent.
@@ -45,26 +45,26 @@ Under the general supervision of the Head of Archival Collections Management, th
 • 	Superior written and verbal communication skills; excellent analytical, critical thinking and problem- solving skills; excellent interpersonal skills and experience working collaboratively with varied groups within a complex organization and team environment. Flexibility and the capacity to thrive in a rapidly changing environment. Great attention to detail; demonstrated ability to manage time and tasks and complete projects in a timely manner. 
 
 
-### Compensation###
+### Compensation   
 
 Faculty status, attractive benefits package including five weeks annual vacation. Salary commensurate with experience and background. 
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 [https://library.nyu.edu/](https://library.nyu.edu/)
 
-### To Apply###
+### To Apply   
 
 To ensure consideration, submit your CV and letter of application, including the name, address, and telephone number of three references to: [https://apply.interfolio.com/50703](https://apply.interfolio.com/50703)  Applications will be considered until the position is filled.
 
 
-### Company Information###
+### Company Information   
 
 Libraries at New York University serve the school’s 40,000 students and faculty and contain more than 5 million volumes. The Libraries supports NYU’s vision to become the first true Global Network University by collaborating with and providing services to our 11 global academic centers and our “portal campuses” in Abu Dhabi and Shanghai. New York University Libraries is a member of the Association of Research Libraries, the OCLC Research Library Partnership, and the HathiTrust. The Libraries participate in a variety of consortia and collaborate closely with Columbia University Libraries and the New York Public Library through the Manhattan Research Library Consortium. View NYU Libraries Mission and Strategic Plan: [https://sites.google.com/nyu.edu/stratplan/](https://sites.google.com/nyu.edu/stratplan/)
 
@@ -73,7 +73,7 @@ At the Division of Libraries, we are proud of our organizational culture and we 
 EOE/AA/Minorities/Females/Vet/Disabled/Sexual Orientation/Gender Identity
 
 
-### Contact Information###
+### Contact Information   
 
 Enrique Yanez, Assistant Dean for Human Resources, 70 Washington Sq S, 11th Floor, New York, NY 10012
 

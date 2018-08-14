@@ -6,12 +6,12 @@ excerpt: "The Rutgers University Libraries seek a collaborative, creative, and u
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Rutgers University Libraries seek a collaborative, creative, and user-focused librarian to develop, coordinate, evaluate, and promote virtual reference services. This is a newly created position within the recently formed Shared User Services (SUS) unit, a dynamic and innovative team of library faculty and staff responsible for coordinating shared user services including virtual reference activities, discovery infrastructure, the Libraries website, and digital projects. Reporting to the director of Shared User Services, and working closely with library directors at Camden, New Brunswick, Newark, and Rutgers Biomedical and Health Sciences, this position will be responsible for the provision of chat and email reference, and evolving virtual reference services for all of the Rutgers University Libraries
 
 
-### Responsibilities###
+### Responsibilities   
 
 The key responsibilities of the Virtual Reference Services Librarian are to:
 
@@ -30,35 +30,35 @@ This position will collaborate with librarians and staff across multiple locatio
 This tenure-track position is based in Alexander Library, and is a member of the Libraries Faculty, who are committed to providing effective library services to a diverse academic community. The successful candidate must demonstrate a commitment to continual professional development through scholarly research including publications, presentations, and participation and leadership in the work of relevant professional associations.
 
 
-### Qualifications###
+### Qualifications   
 
 Required: Master’s degree from an ALA accredited program; significant work experience providing face to face or virtual reference services; service management and training experience; experience with virtual reference service tools and an awareness of a variety of such services; experience working with diverse populations, including undergraduate and graduate students, faculty, and researchers, and supporting a diverse and inclusive learning and working environment; ability to work collegially in a team-oriented environment; excellent interpersonal, communication, and organization skills; eligibility to work in the United States.
 
 Preferred: Three years professional reference experience in an academic setting; supervisory experience; familiarity with online user interface design. Visa sponsorship is not available for this position.
 
 
-### Compensation###
+### Compensation   
 
 Commensurate With Experience
 
 
-### Location###
+### Location   
 
 New Brunswick, NJ
 
 
-### URL###
+### URL   
 
 [http://www.libraries.rutgers.edu/human_resources/employment](http://www.libraries.rutgers.edu/human_resources/employment)
 
-### To Apply###
+### To Apply   
 
  	[http://jobs.rutgers.edu/postings/48132](http://jobs.rutgers.edu/postings/48132)
 
 
 
 
-### Contact Information###
+### Contact Information   
 
  	[http://jobs.rutgers.edu/postings/48132](http://jobs.rutgers.edu/postings/48132)
 

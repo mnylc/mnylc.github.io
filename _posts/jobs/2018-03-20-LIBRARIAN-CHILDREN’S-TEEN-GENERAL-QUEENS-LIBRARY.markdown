@@ -6,7 +6,7 @@ excerpt: "Queens Library, is offering opportunities to work for one of the most 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Queens Library, is offering opportunities to work for one of the most dynamic and diverse urban libraries in the world. We are seeking enthusiastic Librarians who want to make an impact in a community library.
 Successful candidates will provide excellent customer and library service in response to the information needs of library users and the overall community. Publicizes, plans, and conducts programs. The ideal candidate provides exceptional customer service, takes initiative, and demonstrates flexibility.
@@ -15,7 +15,7 @@ Successful candidates will provide excellent customer and library service in res
 
 
 
-### Qualifications###
+### Qualifications   
 
 Requirements: 
 
@@ -33,16 +33,16 @@ What we offer: Excellent salary and a comprehensive benefits package that includ
 
 
 
-### Location###
+### Location   
 
 Queens, NY
 
 
-### URL###
+### URL   
 
 [http://www.queenslibrary.org/](http://www.queenslibrary.org/)
 
-### To Apply###
+### To Apply   
 
 To Apply: Please email your cover letter and resume to QLcareers@queenslibrary.org and specify your interest in Children’s, Teen, or General Librarian positions in the subject of your email. Resumes will only be accepted by email.  
 
@@ -52,7 +52,7 @@ Queens Library is an Equal Opportunity Employer.
 
 
 
-### Contact Information###
+### Contact Information   
 
 QLcareers@queenslibrary.org
 

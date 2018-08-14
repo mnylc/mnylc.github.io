@@ -6,12 +6,12 @@ excerpt: "We are seeking a high-performing, energetic, flexible, organized self-
 tag: job
 ---
 
-### Description###
+### Description   
 
 We are seeking a high-performing, energetic, flexible, organized self-starter who can support and facilitate the efficient operation of the Youth Services Office.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities Include:
 
@@ -30,7 +30,7 @@ Responsibilities Include:
 * Respond to questions and requests for assistance from member librarians and staff.
 
 
-### Qualifications###
+### Qualifications   
 
 Experience
 
@@ -69,26 +69,26 @@ Education Required
 * Associate’s degree or higher preferred
 
 
-### Compensation###
+### Compensation   
 
 $46,000 to $48,000
 
 
-### Location###
+### Location   
 
 Uniondale, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Send resume and cover letter to Renee McGrath, Manager of Youth Services, Nassau Library System, via e-mail (renee@nassaulibrary.org) or snail mail to 900 Jerusalem Avenue, Uniondale, NY 11553.
 
 Cover letter should describe how your experience and abilities are specifically related to the requirements and responsibilities of this position.
 
 
-### Company Information###
+### Company Information   
 
  Nassau Library System | 900 Jerusalem Avenue | Uniondale, New York | 11553 | United States
 

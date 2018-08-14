@@ -6,7 +6,7 @@ excerpt: "As an independent system, separate from the New York and Queens librar
 tag: job
 ---
 
-### Description###
+### Description   
 
 As an independent system, separate from the New York and Queens libraries, Brooklyn Public Library (BPL) serves the borough's 2.6 million residents, offering thousands of public programs, millions of books and use of more than 1,100 free Internet-accessible computers. The Greenpoint Digital Records Project is part of a larger effort by Brooklyn Public Library to create an accessible repository for the environmental history of the Greenpoint community. BPL is currently constructing a new Greenpoint Library and Environmental Education Center at the site of the former branch. In addition to traditional library services the new facility will provide programs, information and collections that increase awareness and stewardship of the local environment.
 
@@ -20,7 +20,7 @@ The Records Coordinator will be based out of BPL’s Central Library but will al
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • Review current physical copies of remediation reports and determine which digital copies are needed. 
@@ -35,7 +35,7 @@ The Records Coordinator will be based out of BPL’s Central Library but will al
 
 
 
-### Qualifications###
+### Qualifications   
 
 Master’s Degree in Library/Information Science, or Archives and Records Management, or pursuing coursework to obtain the degree
 
@@ -52,19 +52,19 @@ Master’s Degree in Library/Information Science, or Archives and Records Manage
 This is a 12-week internship, paid by stipend.  Work scheduled is up to 19 hours per week.
 
 
-### Compensation###
+### Compensation   
 
 Paid by stipend
 
 
-### Location###
+### Location   
 
 Brooklyn, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Visit our careers page at [https://www.bklynlibrary.org/about/careers](https://www.bklynlibrary.org/about/careers) and click on the position title link.
 

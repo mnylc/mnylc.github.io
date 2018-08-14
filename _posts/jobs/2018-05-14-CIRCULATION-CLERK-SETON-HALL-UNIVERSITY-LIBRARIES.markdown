@@ -6,12 +6,12 @@ excerpt: "Assists patrons in the use of library materials, facilities and equipm
 tag: job
 ---
 
-### Description###
+### Description   
 
 Assists patrons in the use of library materials, facilities and equipment. This is an essential position providing "essential services" as defined by the University. The Circulation Clerk is expected to report to work in inclement weather conditions to keep the University Library open.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Duties and Responsibilities:
 
@@ -26,7 +26,7 @@ Duties and Responsibilities:
 - Other duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 - High School Diploma or equivalent
 - 1-3 years of library experience in a circulation department and/or Interlibrary Loan Systems
@@ -35,31 +35,31 @@ Duties and Responsibilities:
 - Proficient in using Microsoft Office Suite.
 
 
-### Compensation###
+### Compensation   
 
 Staff Union - SU18.0
 
 
-### Location###
+### Location   
 
 South Orange, New Jersey 07079
 
 
-### URL###
+### URL   
 
 [http://jobs.shu.edu/cw/en-us/job/493395/circulation-clerk](http://jobs.shu.edu/cw/en-us/job/493395/circulation-clerk)
 
-### To Apply###
+### To Apply   
 
 For complete job description and to apply, please visit [http://jobs.shu.edu/cw/en-us/job/493395/circulation-clerk](http://jobs.shu.edu/cw/en-us/job/493395/circulation-clerk)
 
 
-### Company Information###
+### Company Information   
 
 Seton Hall University Libraries [https://library.shu.edu](https://library.shu.edu)
 
 
-### Contact Information###
+### Contact Information   
 
 N/A
 

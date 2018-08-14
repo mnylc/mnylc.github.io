@@ -6,12 +6,12 @@ excerpt: "The Library at FIT seeks a part time evening Library Clerk providing p
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Library at FIT seeks a part time evening Library Clerk providing public service desk coverage and supporting the unit's mission and daily operations to the FIT community in a courteous and efficient manner and in accordance with the Library's policies and procedures.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Customer Service
 
@@ -46,7 +46,7 @@ Cross Unit Responsibilities
 -Support marketing and promotion activities
 
 
-### Qualifications###
+### Qualifications   
 
 High School diploma and completion of one year in an accredited post-secondary institution of learning and one year of related library work experience.
 
@@ -55,21 +55,21 @@ Incumbents in both public and support services perform tasks requiring a working
 The Library Clerk is expected to be able to provide information to the library user that requires a working knowledge of library operations or to refer inquires to an appropriate resource person and to use library computer systems as resources.
 
 
-### Compensation###
+### Compensation   
 
 22.92 per hour
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=99901](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=99901)
 
-### To Apply###
+### To Apply   
 
 Interested candidates will be prompted to:
 Complete an application 
@@ -79,7 +79,7 @@ Provide names/contacts of three professional references
 [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=99901](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=99901)
 
 
-### Company Information###
+### Company Information   
 
 The Fashion Institute of Technology (FIT), an internationally renowned college of art and design, business and technology, part of the State University of New York (SUNY) located in Chelsea New York City, invites applications for a part time Library Clerk in the Gladys Marcus Library at FIT.
 

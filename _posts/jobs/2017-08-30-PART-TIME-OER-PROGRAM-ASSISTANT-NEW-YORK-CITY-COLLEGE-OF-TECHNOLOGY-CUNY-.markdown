@@ -6,7 +6,7 @@ excerpt: "The New York City College of Technology Library is seeking an individu
 tag: job
 ---
 
-### Description###
+### Description   
 
 The New York City College of Technology Library is seeking an individual to work with the OER Librarian in support of the College’s open education initiatives and the New York State grant CUNY recently received to scale up OER across the university. This is a great opportunity for close engagement with an emerging trend in the profession and throughout higher education.
 
@@ -16,7 +16,7 @@ Flexible schedule during business hours
 $28 per hour
 
 
-### Responsibilities###
+### Responsibilities   
 
 Duties include:
 
@@ -30,7 +30,7 @@ Duties include:
 
 
 
-### Qualifications###
+### Qualifications   
 
 
     Excellent writing/copy editing skills and verbal communication
@@ -46,26 +46,26 @@ Additional preferred skills:
 
 
 
-### Compensation###
+### Compensation   
 
 $28 per hour
 
 
-### Location###
+### Location   
 
 Brooklyn, New York
 
 
-### URL###
+### URL   
 
 [https://library.citytech.cuny.edu/blog/position-part-time-oer-program-assistant/](https://library.citytech.cuny.edu/blog/position-part-time-oer-program-assistant/)
 
-### To Apply###
+### To Apply   
 
 Send a CV and cover letter detailing relevant experience to: ccooney@citytech.cuny.edu with the subject line “OER Program Assistant.”
 
 
-### Company Information###
+### Company Information   
 
 300 Jay St. Brooklyn, NY 11201
 

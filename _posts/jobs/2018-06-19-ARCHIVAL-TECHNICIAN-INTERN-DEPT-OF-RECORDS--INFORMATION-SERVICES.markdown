@@ -6,7 +6,7 @@ excerpt: "The Municipal Archives of the NYC Department of Records & Information 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Municipal Archives of the NYC Department of Records & Information Services seeks 2 archival technician interns for quality control of digital images and metadata related to the digitization of a photographic collection. 
 
@@ -16,7 +16,7 @@ The archival technician position calls for computer literate individuals who ide
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Familiarity with Adobe Photoshop
@@ -29,7 +29,7 @@ The archival technician position calls for computer literate individuals who ide
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	An understanding of modern archival and/or information science theory, standards, and practices and their implementation
@@ -42,14 +42,14 @@ The archival technician position calls for computer literate individuals who ide
 
 
 
-### Location###
+### Location   
 
 31 Chambers Street
 
 
 
 
-### To Apply###
+### To Apply   
 
 Email resume to: Recruit@records.nyc.gov 
 

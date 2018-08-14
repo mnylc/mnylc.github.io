@@ -6,7 +6,7 @@ excerpt: "The Rockefeller Archive Center seeks a creative, forward-thinking, and
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Rockefeller Archive Center seeks a creative, forward-thinking, and self-motivated individual to join its Collections Management team as a full-time Assistant Archivist. 
 
@@ -32,16 +32,16 @@ Located 20 miles north of New York City in Westchester County on a former Rockef
 
 
 
-### Location###
+### Location   
 
 Sleepy Hollow, NY USA
 
 
-### URL###
+### URL   
 
 rockarch.org
 
-### To Apply###
+### To Apply   
 
 To apply, please send a letter explaining your interest in the position and qualifications along with a resume via email or mail to:
 Rockefeller Archive Center
@@ -50,12 +50,12 @@ Sleepy Hollow, NY 10591
 careers@rockarch.org
 
 
-### Company Information###
+### Company Information   
 
 15 Dayton Ave Sleepy Hollow, NY 10591
 
 
-### Contact Information###
+### Contact Information   
 
 careers@rockarch.org
 

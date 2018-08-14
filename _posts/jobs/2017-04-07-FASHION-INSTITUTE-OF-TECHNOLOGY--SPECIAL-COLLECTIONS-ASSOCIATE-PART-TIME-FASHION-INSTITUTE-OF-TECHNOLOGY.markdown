@@ -6,7 +6,7 @@ excerpt: "About Fashion Institute of Technology: The Fashion Institute of Techno
 tag: job
 ---
 
-### Description###
+### Description   
 
 About Fashion Institute of Technology:
 The Fashion Institute of Technology (FIT), an internationally renowned college of art and design, business and technology, of the State University of New York, invites nominations and applications for a part time Special Collection Associate in the Gladys Marcus Library at FIT.
@@ -107,16 +107,16 @@ FIT is firmly committed to creating an environment that will attract and retain 
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=83219](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=83219)
 
-### To Apply###
+### To Apply   
 
 In order to be considered for the position, you must submit the following documents online:
 * Resume

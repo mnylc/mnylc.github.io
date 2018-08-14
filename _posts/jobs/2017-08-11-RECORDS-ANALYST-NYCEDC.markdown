@@ -6,7 +6,7 @@ excerpt: "Our Vision: To make New York City the global model for inclusive innov
 tag: job
 ---
 
-### Description###
+### Description   
 
 
 Our Vision: To make New York City the global model for inclusive innovation and economic growth, fueled by the City’s diverse people and businesses. 
@@ -18,36 +18,36 @@ The Records Management Department is a support department that enables staff to 
 Your Role: The Records Analyst manages records throughout their life cycles for all NYCEDC departments. This includes but is not limited to creating detailed record inventories for accurate search and retrieval in adherence to the company-wide retention schedule and policy.
 
 
-### Responsibilities###
+### Responsibilities   
 
 See full job description.
 
 
-### Qualifications###
+### Qualifications   
 
 See full job description.
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience. 50K min.
 
 
-### Location###
+### Location   
 
 New York, NY, US
 
 
-### URL###
+### URL   
 
 [http://app.jobvite.com/m?3HNKZjw1](http://app.jobvite.com/m?3HNKZjw1)
 
-### To Apply###
+### To Apply   
 
 Apply online.
 
 
-### Company Information###
+### Company Information   
 
 110 William St, New York, NY 10038
 

@@ -8,14 +8,14 @@ excerpt: "The Columbia University Libraries invites nominations and applications
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Columbia University Libraries invites nominations and applications for the Head of Collections Management in the Rare Book and Manuscript Library (RBML). The Head coordinates the intake and ongoing maintenance of all collections, regardless of format, for RBML.
 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to the Director, the Head will:
 
@@ -34,7 +34,7 @@ Reporting to the Director, the Head will:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Requirements:
  MLS or PhD or equivalent 
@@ -51,26 +51,26 @@ Preferred Qualifications:
 2.Experience writing and/or reviewing grants.   
 
 
-### Compensation###
+### Compensation   
 
 Competitive
 
 
-### Location###
+### Location   
 
 New York City
 
 
-### URL###
+### URL   
 
 [https://library.columbia.edu/](https://library.columbia.edu/)
 
-### To Apply###
+### To Apply   
 
  	[https://academicjobs.columbia.edu/applicants/Central?quickFind=64951](https://academicjobs.columbia.edu/applicants/Central?quickFind=64951)      
 
 
-### Company Information###
+### Company Information   
 
 The Rare Book & Manuscript Library is Columbia University's largest repository for primary source collections. The range of collections in the RBML span more than 4,000 years and comprise rare printed works, cylinder seals, cuneiform tablets, papyri, and Coptic ostraca; medieval and renaissance manuscripts; as well as art, photography, and realia. Some 500,000 printed books and 14 miles of manuscripts, personal papers, organizational archives and records form the core of RBML holdings. The history of publishing, comics, graphic arts, human rights, the performing arts, and the Bakhmeteff Archive of Russian émigré materials are strengths of the RBML. The RBML is also home to the University Archives and the archival arm of the Columbia Center for Oral History. In addition, the RBML hosts several faculty and graduate student researchers each year through both the Library Research Awards and Primary Sources Internship programs. For more information about RBML collections and services, see [http://library.columbia.edu/rbml.](http://library.columbia.edu/rbml.)
 

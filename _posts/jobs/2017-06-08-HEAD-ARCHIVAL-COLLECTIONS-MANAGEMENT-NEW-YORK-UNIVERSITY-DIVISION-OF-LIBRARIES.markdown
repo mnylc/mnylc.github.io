@@ -6,14 +6,14 @@ excerpt: "New York University Libraries seeks a collaborative and knowledgeable 
 tag: job
 ---
 
-### Description###
+### Description   
 
 New York University Libraries seeks a collaborative and knowledgeable manager to serve as the Head of Archival Collections Management (ACM), leading a unified archival technical processing unit that supports acquisition, collection management, description, and discovery needs across the NYU special collections in New York. The successful candidate will combine demonstrated technical processing and management experience with substantial knowledge of standards and practices for preserving, processing, describing, and providing access to archival collections in archival and special collections library settings.
 
 Reporting to the Associate Dean for Knowledge Access and Resource Management Services (KARMS) and in close collaboration with the Associate Dean for Collections and Research Services, the Head of ACM is a key senior managerial position within KARMS, within the Special Collections management team, and within the Libraries’ Department Managers Group. The position provides leadership, vision, strategic direction, and expertise for a core staff of 3 FTE professionals, with additional grant-funded staff varying over time (currently 10 FTE), and 4 FTE student workers. The staff is responsible for archival accessioning, arrangement, and description; functional ownership of systems for archival collection management and discovery; and acquiring and managing contemporary born-digital archival materials. The incumbent will closely collaborate with colleagues across the Division of Libraries, especially in the Special Collections, Preservation, and Digital Library Technology Services (DLTS) departments. Librarians are expected to serve as partners in the educational mission of NYU by establishing strong relationships with faculty and students, and providing responsive and innovative information services. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Under the general supervision of the Associate Dean for Knowledge Access and Resource Management Services, the successful candidate will:
 
@@ -30,7 +30,7 @@ Under the general supervision of the Associate Dean for Knowledge Access and Res
 ●	Actively contribute to the profession through professional service, research and publication.
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Minimum one graduate degree (master’s level or higher) required for consideration. A second graduate degree will be required to obtain tenure. One of the two graduate degrees must be an MS/MLIS from an ALA-accredited institution in library and/or information science.
@@ -50,26 +50,26 @@ Under the general supervision of the Associate Dean for Knowledge Access and Res
 • 	Demonstrated ability to establish and maintain close and productive working relationships with colleagues and constituents in an environment where consultation, flexibility, collaboration, and cooperation are essential. Ability to work creatively, collaboratively, and effectively and to play a leadership role in promoting teamwork, diversity, equity, and inclusiveness within the Library.
 
 
-### Compensation###
+### Compensation   
 
 Faculty status, attractive benefits package including five weeks annual vacation. Salary commensurate with experience and background. 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://library.nyu.edu/](https://library.nyu.edu/)
 
-### To Apply###
+### To Apply   
 
 To ensure consideration, submit your CV and letter of application, including the name, address, and telephone number of three references to: [http://apply.interfolio.com/41539.](http://apply.interfolio.com/41539.) Applications will be considered until the position is filled. 
 
 
-### Company Information###
+### Company Information   
 
 New York University Libraries:  Libraries at New York University serve the school’s 40,000 students and faculty and contain more than 5 million volumes. The Libraries supports NYU’s vision to become the first true Global Network University by collaborating and providing services to our 11 global academic centers and “portal campuses” in Abu Dhabi and Shanghai.   New York University Libraries is a member of the Association of Research Libraries, the OCLC Research Library Partnership, and the HathiTrust. The Libraries participates in a variety of consortia and collaborates closely with Columbia University Libraries and the New York Public Library through the Manhattan Research Library Consortium. For the NYU Libraries Mission and Strategic Plan go to [https://s3.amazonaws.com/nyulibraries-www-assets/nyu-libraries-strategic-plan.pdf](https://s3.amazonaws.com/nyulibraries-www-assets/nyu-libraries-strategic-plan.pdf)
 

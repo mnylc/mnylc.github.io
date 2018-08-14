@@ -6,7 +6,7 @@ excerpt: "Analyze, evaluate and diagnose technical problems involving NYU Divisi
 tag: job
 ---
 
-### Description###
+### Description   
 
 Analyze, evaluate and diagnose technical problems involving NYU Division of Libraries ITS technology services; assess complexity and determine resolutions; report on findings; recommend and document solutions. Assess, initiate, plan and manage incident tracking database process and recommend system changes or new product development for LITS enterprise services and applications. Collaborate with LITS Client Services Manager, Supervisor, and Computer Support Technicians, service partners, and vendors for problem management of complex technical support issues. 
 Analyze, evaluate and diagnose technical problems involving NYU Division of Libraries ITS technology services; assess complexity and determine resolutions; report on findings; recommend and document solutions. Assess, initiate, plan and manage incident tracking database process and recommend system changes or new product development for LITS enterprise services and applications. Collaborate with LITS Client Services Manager, Supervisor, and Computer Support Technicians, service partners, and vendors for problem management of complex technical support issues. 
@@ -40,21 +40,21 @@ PI101385955
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://www.Click2apply.net/93ynpw9jxg4f7xs6](http://www.Click2apply.net/93ynpw9jxg4f7xs6)
 
-### To Apply###
+### To Apply   
 
 Apply Online: [http://www.Click2apply.net/93ynpw9jxg4f7xs6](http://www.Click2apply.net/93ynpw9jxg4f7xs6)
 
 
-### Company Information###
+### Company Information   
 
 New York University
 

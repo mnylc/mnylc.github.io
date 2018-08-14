@@ -6,12 +6,12 @@ excerpt: "Cold Spring Harbor Laboratory Library & Archives is presently seeking 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Cold Spring Harbor Laboratory Library & Archives is presently seeking a part-time Cataloging Librarian.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities will include the following:
 
@@ -24,7 +24,7 @@ Responsibilities will include the following:
 •  Download name and subject authority records from the LC Authorities.
 
 
-### Qualifications###
+### Qualifications   
 
 Position Requirements
 
@@ -52,22 +52,22 @@ This is a part-time position with flexible hours.
 
 
 
-### Location###
+### Location   
 
 Cold Spring Harbor, NY, USA
 
 
-### URL###
+### URL   
 
 [https://cshl.peopleadmin.com/postings/11369](https://cshl.peopleadmin.com/postings/11369)
 
-### To Apply###
+### To Apply   
 
 Please see the Cold Spring Harbor Laboratory Careers website:
 [https://cshl.peopleadmin.com/postings/11369](https://cshl.peopleadmin.com/postings/11369)
 
 
-### Company Information###
+### Company Information   
 
 Cold Spring Harbor Laboratory
 1 Bungtown Road
@@ -75,7 +75,7 @@ Cold Spring Harbor NY 11724
 United States
 
 
-### Contact Information###
+### Contact Information   
 
 Marjorie Ryan
 mryan@cshl.edu

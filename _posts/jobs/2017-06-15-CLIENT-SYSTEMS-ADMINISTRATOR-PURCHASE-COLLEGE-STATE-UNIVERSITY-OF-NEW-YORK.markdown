@@ -6,41 +6,41 @@ excerpt: "[https://jobs.purchase.edu](https://jobs.purchase.edu)"
 tag: job
 ---
 
-### Description###
+### Description   
 
 [https://jobs.purchase.edu](https://jobs.purchase.edu)
 
 
-### Responsibilities###
+### Responsibilities   
 
 [https://jobs.purchase.edu](https://jobs.purchase.edu)
 
 
-### Qualifications###
+### Qualifications   
 
 [https://jobs.purchase.edu](https://jobs.purchase.edu)
 
 
-### Compensation###
+### Compensation   
 
 [https://jobs.purchase.edu](https://jobs.purchase.edu)
 
 
-### Location###
+### Location   
 
 Purchase, New York
 
 
-### URL###
+### URL   
 
 [https://jobs.purchase.edu](https://jobs.purchase.edu)
 
-### To Apply###
+### To Apply   
 
 [https://jobs.purchase.edu](https://jobs.purchase.edu)
 
 
-### Company Information###
+### Company Information   
 
 735 Anderson Hill Road
 

@@ -11,7 +11,7 @@ Fridays and/or Saturdays, 5:00 pm – 12:00 am
 tag: job
 ---
 
-### Description###
+### Description   
 
 Creative, personable, experienced youth worker needed for the acclaimed Levels cultural arts center for youth, ages 12-18.
 
@@ -21,45 +21,45 @@ Fridays and/or Saturdays, 5:00 pm – 12:00 am
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Ability to run weekend events and other teen center activities. Interest in planning and teaching Junior Levels workshops for 5th and 6th grade students.
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Skills and Experience: Bachelor's Degree required, Master’s Degree preferred. Strong background in STEM and Technology. Demonstrated expertise in coding, 3D printing, game design.  Experience in youth development and supervision.
 
 
 
-### Compensation###
+### Compensation   
 
 $26.41 per hour
 
 
-### Location###
+### Location   
 
 Great Neck, New York
 
 
-### URL###
+### URL   
 
 [https://www.greatnecklibrary.org/libinfo/jobs.php](https://www.greatnecklibrary.org/libinfo/jobs.php)
 
-### To Apply###
+### To Apply   
 
 Reply with resume, cover letter and three references by
 May 7, 2018 to employment@greatnecklibrary.org
 
 
 
-### Company Information###
+### Company Information   
 
 [https://www.greatnecklibrary.org/](https://www.greatnecklibrary.org/)
 
 
-### Contact Information###
+### Contact Information   
 
 employment@greatnecklibrary.org
 

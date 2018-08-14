@@ -6,7 +6,7 @@ excerpt: "ASA College, a New York City-based, two-year, fully-accredited degree-
 tag: job
 ---
 
-### Description###
+### Description   
 
 ASA College, a New York City-based, two-year, fully-accredited degree-granting institution, has multiple openings for qualified individuals to teach LIB100 Research Methods, a required, two-credit introductory information literacy course designed for second-semester freshmen and an integral part of ASA’s General Education program. 
 
@@ -24,7 +24,7 @@ Founded in 1985, ASA College is fully accredited by the Middle States Commission
 
 
 
-### Qualifications###
+### Qualifications   
 
 Requirements include the following:
 
@@ -44,16 +44,16 @@ Requirements include the following:
 
 
 
-### Location###
+### Location   
 
 Herald Square Manhattan / Metrotech Brooklyn
 
 
-### URL###
+### URL   
 
 asa.edu
 
-### To Apply###
+### To Apply   
 
 Qualified individuals are invited to email résumé and cover letter to:
  

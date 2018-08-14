@@ -6,18 +6,18 @@ excerpt: "New York University, Division of Libraries, in collaboration with the 
 tag: job
 ---
 
-### Description###
+### Description   
 
 New York University, Division of Libraries, in collaboration with the New York University Institute of Fine Arts (the Institute), seeks a qualified individual to administer the Library of the Institute of Fine Arts, which includes the Stephen Chan Library of Fine Arts and the Conservation Center Library. The Institute Library is non-circulating and supports the faculty and graduate students of the Institute.
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Head of the Institute Library, reporting jointly to the Institute’s Director and to the Division of Libraries’ Associate Dean for Collections and Research Services, is responsible for all aspects of the Institute Library’s management, including oversight of the Library’s technical and public services, development of the Library’s collections, and liaison with the Institute’s faculty and students. The incumbent works closely with the Institute’s Director and its faculty in shaping the Library’s programs and collections. The position oversees the work of a reference and instruction librarian and other staff, and shares the work of providing reference, research consultation, and library instruction. The Head of the Institute of Fine Arts Library works in tandem with the Institute’s Manager of Digital Media and Computer Services in ensuring that Institute faculty and students have access to digital tools and services for instruction and research. The Institute Library is part of the NYU Division of Libraries system and the Head of the Institute Library is a member of the Division of Libraries faculty.  The Institute Library Head works closely with colleagues in many areas of the Division of Libraries to coordinate shared services, policies and objectives. The incumbent will develop and implement the Library’s strategic plan, in relation to the goals of the Institute as set forth by the Institute Director, and is expected to build upon existing collaborative relationships with other New York area libraries, arts programming, and the city’s museums.
 At the Division of Libraries, we are proud of our organizational culture and we are committed to building and sustaining a diverse, inclusive, and equitable organization that supports a sense of belonging for the staff and communities we serve. For more about our values, see [http://library.nyu.edu/about/general/values/](http://library.nyu.edu/about/general/values/)
 
 
-### Qualifications###
+### Qualifications   
 
 Required:
 
@@ -40,26 +40,26 @@ Preferred:
 • 	Demonstrated skills in personnel and financial management.
 
 
-### Compensation###
+### Compensation   
 
 Faculty status and an attractive benefits package, including five weeks annual vacation. Salary is commensurate with experience and background.
 
 
-### Location###
+### Location   
 
 New York, New York, USA
 
 
-### URL###
+### URL   
 
 [https://www.nyu.edu/gsas/dept/fineart/research/library-ifa.htm](https://www.nyu.edu/gsas/dept/fineart/research/library-ifa.htm)
 
-### To Apply###
+### To Apply   
 
 To ensure consideration, submit your CV and letter of application, including the name, address, telephone number, and email of three professional references to [http://apply.interfolio.com/50336](http://apply.interfolio.com/50336) Applications will remain open until filled.
 
 
-### Company Information###
+### Company Information   
 
 About the Institute of Fine Arts
 New York University’s Institute of Fine Arts is a thriving center of advanced research and graduate teaching in art history, archaeology, and art conservation. A site of knowledge production since its founding in 1932, the Institute has also produced many of the world’s leading art historians, museum directors, curators, and conservators. The Institute offers the degrees of Master of Arts and Doctor of Philosophy, and a dual MS degree in conservation and MA in art history for students choosing to specialize in Conservation.  The courses of study prepare students to enter careers in university teaching, museum work, independent research and writing, art criticism, and art conservation.
@@ -73,7 +73,7 @@ Libraries at New York University serve the school’s 40,000 students and facult
 EOE/AA/Minorities/Females/Vet/Disabled/Sexual Orientation/Gender Identity
 
 
-### Contact Information###
+### Contact Information   
 
 Enrique Yanez, Assitant Dean for Human Resources, 70 Washington Sq S., New York, NY 10012
 

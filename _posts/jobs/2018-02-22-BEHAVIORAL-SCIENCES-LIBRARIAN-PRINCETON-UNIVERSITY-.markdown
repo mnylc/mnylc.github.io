@@ -6,7 +6,7 @@ excerpt: "Behavioral Sciences Librarian Princeton University Library Princeton, 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Behavioral Sciences Librarian
 Princeton University Library
@@ -22,13 +22,13 @@ This position is subject to the University's background check policy. Princeton 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Serves as the Library’s primary contact for behavioral sciences, develops the Library’s collections in psychology and neuroscience, and manages sizable acquisitions funds in these areas. Works closely with subject selectors in the sciences, engineering and social sciences on collection development, instruction, research support and outreach. Serves as a member of a dynamic team of science and technology professionals based in Lewis Science Library. Shares in responsibility for providing innovative library services that promote discovery, use and integration of physical and electronic library collections. Represents Princeton in relevant regional, national and international professional and scholarly organizations. 
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 -An ALA-accredited Master’s degree in library/information science OR equivalent combination of education and professional experience. 
@@ -44,26 +44,26 @@ Strongly Preferred:
 -Demonstrated experience in budget management and responsibility.
 
 
-### Compensation###
+### Compensation   
 
 The successful candidate will be appointed to an appropriate Librarian rank depending upon qualifications and experience. 
 
 
-### Location###
+### Location   
 
 Princeton, NJ, USA
 
 
-### URL###
+### URL   
 
 [https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=5905](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=5905)
 
-### To Apply###
+### To Apply   
 
 Applications will be accepted only from the Jobs at Princeton website: [http://www.princeton.edu/jobs](http://www.princeton.edu/jobs) and must include a resume, cover letter, and a list of three references with full contact information.
 
 
-### Company Information###
+### Company Information   
 
 Princeton University Library, 1 Washington Road, Princeton, NJ 08544
 

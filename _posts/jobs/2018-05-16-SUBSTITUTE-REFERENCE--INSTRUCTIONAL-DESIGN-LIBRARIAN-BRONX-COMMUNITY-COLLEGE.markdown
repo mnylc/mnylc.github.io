@@ -6,7 +6,7 @@ excerpt: "Reporting to the Chief Librarian, the Substitute Reference & Instructi
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Chief Librarian, the Substitute Reference & Instructional Design Librarian joins a team of librarians providing students and faculty with one-on-one and group instruction.  Position involves direct contact with library users providing traditional and virtual reference and research assistance, outreach to faculty engaged in developing Information Literacy knowledge and skills of students, collaboration with librarians to engage college community in effective use of library services and resources, assessment of needs and promotion of awareness of new information products and services.  Evening and weekend hours may be required.
 
@@ -16,7 +16,7 @@ Librarians within the City University of New York take active faculty roles, ser
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 Substitute Assistant Professor:  Supports a college library through providing in-depth consultation with students and faculty and collaboration for the ongoing improvement of instructional programs and practices. Pursues an active scholarly agenda, performs supervisory duties, and participates in college-and university-wide programs and committees as assigned.
@@ -24,7 +24,7 @@ Substitute Assistant Professor:  Supports a college library through providing in
 Substitute Instructor:  Supports a college library through providing in-depth consultation with students and faculty and collaboration for the ongoing improvement of instructional programs and practices.
 
 
-### Qualifications###
+### Qualifications   
 
 Strongly Preferred Qualifications:
 
@@ -55,26 +55,26 @@ Strongly Preferred Qualifications:
 •               The successful candidate will show evidence of teamwork, creativity, initiative, and flexibility
 
 
-### Compensation###
+### Compensation   
 
 CUNY offers a competitive compensation and benefits package to its faculty, covering health insurance, pension and retirement benefits, paid parental leave, and savings programs.  We also provide mentoring and support for research, scholarship, and publication as part of our commitment to ongoing faculty professional development.  
 
 
-### Location###
+### Location   
 
 Bronx, New York
 
 
 
 
-### To Apply###
+### To Apply   
 
 Candidates should provide .pdfs of a CV, a cover letter with a statement of scholarship interests, and the names and contact information for three current references.  Send as e-mail attachments to only:  Ms. Erma Nieves – erma.nieves@bcc.cuny.edu
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 Candidates should provide .pdfs of a CV, a cover letter with a statement of scholarship interests, and the names and contact information for three current references.  Send as e-mail attachments to only:  Ms. Erma Nieves – erma.nieves@bcc.cuny.edu
 

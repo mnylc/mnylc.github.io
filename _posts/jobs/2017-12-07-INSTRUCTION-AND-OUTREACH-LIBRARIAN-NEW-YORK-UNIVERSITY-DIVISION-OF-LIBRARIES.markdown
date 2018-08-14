@@ -6,13 +6,13 @@ excerpt: "The New York University Division of Libraries is seeking an Instructio
 tag: job
 ---
 
-### Description###
+### Description   
 
 The New York University Division of Libraries is seeking an Instruction and Outreach Librarian for graduate students in the NYU School of Professional Studies.  Librarians play a key role in the educational mission of NYU by establishing strong relationships with faculty and students, and connecting them to the services, content, and tools that meet their research, teaching, and learning needs. 
 The NYU School of Professional Studies offers master's degree programs and graduate certificates in a wide range of professionally oriented areas of study.  The School’s graduate programs reflect the emerging trends, opportunities and innovative business strategies in each respective field that they represent, and include programs in the Schack Institute of Real Estate and the Center for Global Affairs.  Graduate students at the School of Professional Studies include full-time and part-time students, working professionals, and individuals returning to the academic world after pursuing other pathways.  Classes are held in the Washington Square area, the Woolworth Building, the Midtown Graduate Center, days and evenings, and online.  School of Professional Studies graduate programs are served by the NYU Bobst and Brause Libraries.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Working in a collaborative environment this tenure-track position will:
 
@@ -31,7 +31,7 @@ Working in a collaborative environment this tenure-track position will:
 This position is a member of the business team and reports to the Head of Business and Government Information Services in the Public Services Division of NYU Libraries.    The position is engaged in and contributes to the highly collaborative work of the department and the NYU Libraries.  The Instruction and Outreach Librarian works with colleagues at the Bobst and Brause Libraries to implement and enhance programs and services, deliver physical and virtual research and reference services, and take a leadership role on projects and initiatives as appropriate.  
 
 
-### Qualifications###
+### Qualifications   
 
 Required: 
 
@@ -44,26 +44,26 @@ Preference will be given to candidates with demonstrated experience in an academ
 Professional contributions beyond the primary job, such as publications, leadership in professional organizations, and other research and creative activity, are required for tenure. 
 
 
-### Compensation###
+### Compensation   
 
 Faculty status, attractive benefits package including five weeks annual vacation. Salary commensurate with experience and background. 
 
 
-### Location###
+### Location   
 
 New York, New York, USA
 
 
-### URL###
+### URL   
 
 [https://library.nyu.edu/about/who-we-are/career-opportunities/](https://library.nyu.edu/about/who-we-are/career-opportunities/)
 
-### To Apply###
+### To Apply   
 
 To ensure consideration, send your CV and letter of application, including the name, address, and telephone number of three references to: [http://apply.interfolio.com/47565](http://apply.interfolio.com/47565) Applications will be considered until the position is filled. 
 
 
-### Company Information###
+### Company Information   
 
 New York University Libraries:  Libraries at New York University serve the school’s 40,000 students and faculty and contain more than 5 million volumes. The Libraries supports NYU’s vision to become the first true Global Network University by collaborating and providing services to our 11 global academic centers and “portal campuses” in Abu Dhabi and Shanghai.   New York University Libraries is a member of the Association of Research Libraries, the OCLC Research Library Partnership, and the HathiTrust. The Libraries participates in a variety of consortia and collaborates closely with Columbia University Libraries and the New York Public Library through the Manhattan Research Library Consortium. To view the NYU Libraries Mission and Strategic Plan go to [https://s3.amazonaws.com/nyulibraries-www-assets/nyu-libraries-strategic-plan.pdf](https://s3.amazonaws.com/nyulibraries-www-assets/nyu-libraries-strategic-plan.pdf)
 
@@ -72,7 +72,7 @@ EOE/AA/Minorities/Females/Vet/Disabled/Sexual Orientation/Gender Identity
 
 
 
-### Contact Information###
+### Contact Information   
 
 Enrique Yanez
 Assistant Dean, Human Resources

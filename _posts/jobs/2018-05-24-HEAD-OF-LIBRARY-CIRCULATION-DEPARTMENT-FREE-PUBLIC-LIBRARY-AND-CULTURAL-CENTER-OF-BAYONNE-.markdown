@@ -6,7 +6,7 @@ excerpt: "This library staff member would act as supervisor of the staff of the 
 tag: job
 ---
 
-### Description###
+### Description   
 
 This library staff member would act as supervisor of the staff of the Circulation and Art & Music departments. 
 
@@ -18,24 +18,24 @@ This staff member would also staff public service desks such as the reference de
 
 
 
-### Qualifications###
+### Qualifications   
 
 Bachelor’s Degree required. 
 
 
-### Compensation###
+### Compensation   
 
 NJ Department of Personnel Title: Library Associate. Salary follows Library Associate ranges of the City of Bayonne. 
 
 
-### Location###
+### Location   
 
 Bayonne NJ
 
 
 
 
-### To Apply###
+### To Apply   
 
 Applications should be emailed, in PDF format only, to JP Porcaro, director@bayonnelibrary.org. 
 

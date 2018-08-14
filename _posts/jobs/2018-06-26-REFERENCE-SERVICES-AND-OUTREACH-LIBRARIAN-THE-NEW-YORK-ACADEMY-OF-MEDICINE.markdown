@@ -6,12 +6,12 @@ excerpt: "The Reference Services and Outreach Librarian will be responsible for 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Reference Services and Outreach Librarian will be responsible for providing reference services to users of the Library and coordinating its outreach efforts, particularly its social media presence.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Provides reference support to users of the Library.
 Supports the research needs of staff, Fellows, and corporate clients.
@@ -26,7 +26,7 @@ Maintains and updates the Library website
 Takes part in other special projects as required.
 
 
-### Qualifications###
+### Qualifications   
 
 Familiarity with the databases and other reference tools necessary to answer a wide variety of questions related to the history of public health, health policy, and medicine; experience with PubMed is required
 Experience using social media, and preferably in managing Twitter, Instagram, Facebook, WordPress, or other platforms
@@ -45,27 +45,27 @@ Preference will be shown to candidates with working knowledge of one or more maj
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://nyam.org/about/careers/reference-services-and-outreach-librarian/](https://nyam.org/about/careers/reference-services-and-outreach-librarian/)
 
-### To Apply###
+### To Apply   
 
 Please forward cover letter and resume to hr@nyam.org. Please include Reference Services and Outreach Librarian in the subject line of the email.
 
 
-### Company Information###
+### Company Information   
 
 The New York Academy of Medicine, 1216 Fifth Avenue
 New York, NY 10029, USA, 212.419.3501
 
 
-### Contact Information###
+### Contact Information   
 
 hr@nyam.org
 

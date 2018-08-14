@@ -6,7 +6,7 @@ excerpt: "Catalyst is looking for a second full-time reference librarian to join
 tag: job
 ---
 
-### Description###
+### Description   
 
 Catalyst is looking for a second full-time reference librarian to join our fast-paced Information Center (IC).
 
@@ -15,7 +15,7 @@ Your responsibility as a member of the IC team is to support Catalyst’s missio
 This librarian may also handle copyright and record retention, conduct secondary research, and create clear, concise, and impactful knowledge products in Catalyst’s areas of focus including STEM, men, Millennials in the workplace, LGBT, inclusive leadership, and people of color, among others.
 
 
-### Responsibilities###
+### Responsibilities   
 
 ESSENTIAL FUNCTIONS
 
@@ -43,7 +43,7 @@ Working Conditions
 
 
 
-### Qualifications###
+### Qualifications   
 
 Skills:
 
@@ -74,16 +74,16 @@ Education Required
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://www.catalyst.org/reference-librarian-associate-level](http://www.catalyst.org/reference-librarian-associate-level)
 
-### To Apply###
+### To Apply   
 
 Please email your resume, cover letter, and salary history to jobs@catalyst.org with “Reference Librarian” in the subject line. The location of this position is flexible—please indicate whether the NYC office or the city of your home office would be the preferred location.
 

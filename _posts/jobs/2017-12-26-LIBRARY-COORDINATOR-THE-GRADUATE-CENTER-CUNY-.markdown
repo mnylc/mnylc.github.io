@@ -6,12 +6,12 @@ excerpt: "The Graduate Center (GC) is the principal doctorate-granting instituti
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Graduate Center (GC) is the principal doctorate-granting institution of the City University of New York (CUNY). Offering more than thirty doctoral degrees from Anthropology to Urban Education, and fostering globally significant research in a wide variety of centers and institutes, the GC provides academic training in the humanities, sciences, and social sciences. The Graduate Center is also integral to the intellectual and cultural vitality of New York City. Through its extensive public programs, The Graduate Center hosts a wide range of events - lectures, conferences, book discussions, art exhibits, concerts, and dance and theater that enrich and inform.
 
 
-### Responsibilities###
+### Responsibilities   
 
 workflow for library circulation, reserves, and stack maintenance. The Graduate Center Library hosts a collection of print material of about 230,000 books, with about 33,000 circulation and reserve transactions each year. The library serves as a pick-up point for about 10,000 interlibrary loan items each year, and about 10,000 items from other CUNY libraries requested annually by users CUNY-wide. 
 
@@ -44,7 +44,7 @@ CUNY Title Overview:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Bachelor's Degree required.
 
@@ -58,21 +58,21 @@ A preferred candidate should have:
 
 
 
-### Compensation###
+### Compensation   
 
 Salary commensurate with education and experience.
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 www.gc.cuny.edu
 
-### To Apply###
+### To Apply   
 
 1. Please apply using the link below:
 

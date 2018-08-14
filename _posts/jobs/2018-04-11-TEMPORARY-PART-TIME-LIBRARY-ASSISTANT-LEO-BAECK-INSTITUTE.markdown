@@ -6,7 +6,7 @@ excerpt: "The Leo Baeck Institute, located at 15 West 16th Street New York, NY i
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Leo Baeck Institute, located at 15 West 16th Street New York, NY is seeking a part-time Library Assistant. This is a six-month temporary position, with the possibility of extension.  The position is for 19 hours per week.
 
@@ -14,7 +14,7 @@ The Library of the Leo Baeck Institute is internationally recognized as the most
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 -Shelving and shifting library materials
 -Paging books for the Reading Room 
@@ -25,7 +25,7 @@ The Library of the Leo Baeck Institute is internationally recognized as the most
 
 
 
-### Qualifications###
+### Qualifications   
 
 -Enrolled in an ALA-accredited MLS/MLIS program
 -Interest in cataloging
@@ -35,21 +35,21 @@ The Library of the Leo Baeck Institute is internationally recognized as the most
 
 
 
-### Compensation###
+### Compensation   
 
 Hourly rate
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 www.lbi.org
 
-### To Apply###
+### To Apply   
 
 Please send your resume to Ginger Barna, Head Librarian (gbarna@lbi.cjh.org) 
 

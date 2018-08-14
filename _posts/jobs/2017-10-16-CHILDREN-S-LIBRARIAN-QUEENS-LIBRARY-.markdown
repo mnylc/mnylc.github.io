@@ -6,7 +6,7 @@ excerpt: "Major Duties: • Performs excellent internal and external customer se
 tag: job
 ---
 
-### Description###
+### Description   
 
 Major Duties:
 •	Performs excellent internal and external customer service and library service in response to the information needs of library users and the overall community with an emphasis on children.  
@@ -32,7 +32,7 @@ Key Competencies:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Requirements:
 
@@ -51,7 +51,7 @@ Queens Library is an equal opportunity employer.
 
 
 
-### To Apply###
+### To Apply   
 
 To Apply: Email your cover letter and resume to QLcareers@queenslibrary.org referencing “Children’s Librarian” in the subject line. Resumes will only be accepted by email.  
 

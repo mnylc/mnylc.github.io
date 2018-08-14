@@ -6,7 +6,7 @@ excerpt: "William Paterson University invites applications for a twelve month te
 tag: job
 ---
 
-### Description###
+### Description   
 
 William Paterson University invites applications for a twelve month tenure-track position as a Systems Librarian.
 
@@ -15,7 +15,7 @@ Under the direction of the Head of Library Information Systems, the Systems Libr
 William Paterson University is the third most diverse public university in New Jersey. As a longstanding member of the Hispanic Association of Colleges and Universities (HACU), we have been designated by the US Department of Education as a Hispanic-Serving Institution. The University offers more than 250 undergraduate and graduate academic programs that range from liberal arts and sciences to pre-professional and professional programs; it enrolls nearly 11,000 students from across the country and from over 40 nations. The University is situated on a beautiful, 370-acre suburban campus in Wayne, New Jersey, just twenty miles west of New York City. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Duties and Responsibilities:
 
@@ -36,7 +36,7 @@ Opportunities to Contribute: systems administration, technical support, research
 • 	Serves as a liaison to assigned departments in collection development activities.
 
 
-### Qualifications###
+### Qualifications   
 
 Qualifications:
 
@@ -67,16 +67,16 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 Wayne, New Jersey
 
 
-### URL###
+### URL   
 
 [https://wpunj.hiretouch.com/job-details?jobID=11&job=librarian-iii](https://wpunj.hiretouch.com/job-details?jobID=11&job=librarian-iii)
 
-### To Apply###
+### To Apply   
 
 Please click [https://wpunj.hiretouch.com/job-details?jobID=11&job=librarian-iii](https://wpunj.hiretouch.com/job-details?jobID=11&job=librarian-iii) to Apply for the position.
 
@@ -88,13 +88,13 @@ Interested candidates will be prompted to:
 Submission of all documents listed above is required for consideration.
 
 
-### Company Information###
+### Company Information   
 
 
 William Paterson University is the third most diverse public university in New Jersey. As a longstanding member of the Hispanic Association of Colleges and Universities (HACU), we have been designated by the US Department of Education as a Hispanic-Serving Institution. The University offers more than 250 undergraduate and graduate academic programs that range from liberal arts and sciences to pre-professional and professional programs; it enrolls nearly 11,000 students from across the country and from over 40 nations. The University is situated on a beautiful, 370-acre suburban campus in Wayne, New Jersey, just twenty miles west of New York City. 
 
 
-### Contact Information###
+### Contact Information   
 
 Please click [https://wpunj.hiretouch.com/job-details?jobID=11&job=librarian-iii](https://wpunj.hiretouch.com/job-details?jobID=11&job=librarian-iii) to Apply for the position.
 

@@ -6,7 +6,7 @@ excerpt: "The American Jewish Historical Society, the oldest ethnic and cultural
 tag: job
 ---
 
-### Description###
+### Description   
 
 The American Jewish Historical Society, the oldest ethnic and cultural society in the United States, was founded in 1892. AJHS’s mission is to collect, preserve, and make accessible materials that reflect the history of the Jewish presence in the United States from 1654 to the present. AJHS collections total more than 10,000 linear feet of archival materials, 50,000 books, photographs, art and artifacts, and thousands of digital assets.
 
@@ -16,7 +16,7 @@ The American Jewish Historical Society seeks a visionary and proactive Director 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities:
 
@@ -44,7 +44,7 @@ Responsibilities:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Qualifications:
 
@@ -70,21 +70,21 @@ Qualifications:
 
 
 
-### Compensation###
+### Compensation   
 
 Hours are primarily 9 am -5pm Monday through Friday. Must be willing to work additional hours as workload demands or for special events. Salary commensurate with experience. Comprehensive health and dental insurance benefits.
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 www.ajhs.org
 
-### To Apply###
+### To Apply   
 
 
 Review of applications will begin immediately. Applications will be accepted until the position is filled. Review will begin May 5, 2018. Send cover letter and resume to Annie Polland, Executive Director, at apolland@ajhs.org.
@@ -92,7 +92,7 @@ No phone calls, please
 
 
 
-### Company Information###
+### Company Information   
 
 About the American Jewish Historical Society. 
 Founded in 1892, the American Jewish Historical Society's holdings include approximately 20 million documents, 60,000 books, thousands of photographs, paintings and other objects that bear witness to the remarkable contributions of the American Jewish community to American society from the 16th century to the present.  The mission of AJHS is to foster awareness and appreciation of the American Jewish experience and to serve as a national information resource through the collection, preservation and dissemination of materials relating to American Jewish history.
@@ -101,7 +101,7 @@ AJHS is committed to diversity and inclusion. Qualified individuals who bring di
 
 
 
-### Contact Information###
+### Contact Information   
 
 Annie Polland:  apolland@ajhs.org  or Susan Malbin: smalbin@ajhs.org 212-294-6167
 

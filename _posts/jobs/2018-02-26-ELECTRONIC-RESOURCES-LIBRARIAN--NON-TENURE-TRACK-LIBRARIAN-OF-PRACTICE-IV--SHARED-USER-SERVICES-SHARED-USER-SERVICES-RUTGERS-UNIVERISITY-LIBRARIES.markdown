@@ -6,7 +6,7 @@ excerpt: "POSITION SUMMARY: The Rutgers University Libraries seek a skilled, ser
 tag: job
 ---
 
-### Description###
+### Description   
 
 POSITION SUMMARY:  The Rutgers University Libraries seek a skilled, service-oriented, and forward thinking Electronic Resources Librarian to manage and support access to the Libraries’ collection of licensed electronic resources. Reporting to the Discovery Services Librarian, the Electronic Resources Librarian is responsible for performing a range of tasks that support the discovery and delivery of electronic resources. Core duties include activating and managing electronic resources in Alma, ensuring the accuracy of holdings, licensing, and vendor information, configuring and testing resources for remote access, investigating and troubleshooting technical and subscription-related access problems, and providing expert support to library users and staff. The Electronic Resources Librarian is also responsible for collecting, analyzing, and reporting data related to the usage of electronic resources in order to guide collection development decisions, library instruction, reference services, and web-based information delivery. Working collaboratively with librarians, technical staff, and vendors, the Electronic Resources Librarian helps develop and implement user-centered strategies to ensure convenient, seamless, and uninterrupted access to electronic resources.    
 
@@ -14,7 +14,7 @@ POSITION SUMMARY:  The Rutgers University Libraries seek a skilled, service-orie
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 RESPONSIBILITIES: 
 
@@ -32,7 +32,7 @@ RESPONSIBILITIES:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required: 
 
@@ -63,21 +63,21 @@ The successful candidate must be eligible to work in the U.S.
 
 
 
-### Compensation###
+### Compensation   
 
 Salary will be commensurate with qualifications and experience. 
 
 
-### Location###
+### Location   
 
 New Brunswick, New Jersey
 
 
-### URL###
+### URL   
 
 [https://www.libraries.rutgers.edu/](https://www.libraries.rutgers.edu/)
 
-### To Apply###
+### To Apply   
 
 TO APPLY:  REVIEW OF APPLICATIONS AND INTERVIEWS WILL BEGIN IMMEDIATELY AND CONTINUE UNTIL THE POSITION IS FILLED. SUBMIT RESUME, COVER LETTER, AND NAMES OF THREE REFERENCES TO:   [http://jobs.rutgers.edu/postings/60717](http://jobs.rutgers.edu/postings/60717)
 

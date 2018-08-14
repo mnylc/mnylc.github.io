@@ -6,7 +6,7 @@ excerpt: "The Ursula C. Schwerin Library, New York City College of Technology, C
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Ursula C. Schwerin Library, New York City College of Technology, CUNY, seeks a tenure-track library faculty member at the Instructor or Assistant Professor rank to serve as Instruction and Reference Librarian. The successful candidate will work with colleagues to develop and offer information literacy and library instruction, including collaborative efforts with faculty in all disciplines. The Instruction and Reference Librarian will also offer reference service and be responsible for designated areas of collection development. All members of the library faculty must maintain a record of excellence in librarianship, scholarly achievement, and service. 
 
@@ -15,7 +15,7 @@ New York City College of Technology (City Tech), City University of New York, is
 City Tech’s Ursula C. Schwerin Library is integral to the educational mission of the college, and fosters connections with and supports students, faculty, and staff in their academic pursuits. Library faculty and staff are committed to student success as we implement and acquire those services and resources that will have the greatest positive impact on the diverse City Tech community. As members of an academic department in the college, library faculty at City Tech and CUNY are represented by the Professional Staff Congress union ([http://psc-cuny.org).](http://psc-cuny.org).) 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Instruction and Reference Librarian will:
 
@@ -30,7 +30,7 @@ The Instruction and Reference Librarian will:
 - Perform other duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 REQUIRED QUALIFICATIONS 
 - Master's in Library and Information Science (MLS/MLIS) or closely related discipline from an ALA-accredited institution
@@ -49,21 +49,21 @@ PREFERRED QUALIFICATIONS
 - Familiarity with best practices in instructional design
 
 
-### Compensation###
+### Compensation   
 
 As members of an academic department in the college, library faculty at City Tech and CUNY are represented by the Professional Staff Congress union ([http://psc-cuny.org)](http://psc-cuny.org)) -- salary schedules available on their website.
 
 
-### Location###
+### Location   
 
 Brooklyn, NY, USA
 
 
-### URL###
+### URL   
 
 [https://library.citytech.cuny.edu/](https://library.citytech.cuny.edu/)
 
-### To Apply###
+### To Apply   
 
 [https://cuny.jobs/brooklyn-ny/instruction-and-reference-librarian-instructor-or-assistant-professor/5CEB7C3F63DB45B7BE2201257E2144F4/job/](https://cuny.jobs/brooklyn-ny/instruction-and-reference-librarian-instructor-or-assistant-professor/5CEB7C3F63DB45B7BE2201257E2144F4/job/)
 

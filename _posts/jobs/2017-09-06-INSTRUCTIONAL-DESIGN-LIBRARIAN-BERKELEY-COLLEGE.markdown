@@ -6,12 +6,12 @@ excerpt: "Berkeley College seeks an enterprising professional for the position o
 tag: job
 ---
 
-### Description###
+### Description   
 
 Berkeley College seeks an enterprising professional for the position of Instructional Design Librarian. This opportunity will blend information literacy education with instructional design models, learning theories, and a holistic approach to assessment. Develops pedagogically rich tools and experiences that enhance critical thinking skills and understanding of the core concepts of information/digital literacy while fostering other College wide learning outcomes. As part of the Library Services Department, this position will also support research services, course instruction, liaison/outreach, and other library initiatives.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to the Director, Research and Instructional Services, key aspect of the position include:
 
@@ -25,7 +25,7 @@ Reporting to the Director, Research and Instructional Services, key aspect of th
 •  Standing appointment to the Library Instructional Services Committee.
 
 
-### Qualifications###
+### Qualifications   
 
 Master’s degree from an ALA accredited library school or other relevant accredited graduate degree.  
 
@@ -47,26 +47,26 @@ This position supports all campuses and requires travel to Midtown, White Plains
 
 
 
-### Compensation###
+### Compensation   
 
 Salary range based upon skills and experience $55,000 - $65,000 annually 
 
 
-### Location###
+### Location   
 
 New York City and Woodland Park, NJ
 
 
-### URL###
+### URL   
 
   [https://re21.ultipro.com/BER1008/JobBoard/JobDetails.aspx?__ID=*42FC7DDEB230EBA0](https://re21.ultipro.com/BER1008/JobBoard/JobDetails.aspx?__ID=*42FC7DDEB230EBA0)
 
-### To Apply###
+### To Apply   
 
 Apply online at URL above.  Please include a cover letter and resume
 
 
-### Company Information###
+### Company Information   
 
 [http://berkeleycollege.edu/about_berkeley.htm](http://berkeleycollege.edu/about_berkeley.htm)
 

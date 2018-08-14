@@ -6,7 +6,7 @@ excerpt: "Rider University’s Franklin F. Moore Library is seeking an innovativ
 tag: job
 ---
 
-### Description###
+### Description   
 
 Rider University’s Franklin F. Moore Library is seeking an innovative and visionary 
 E-Resources and User Access Librarian to lead us in providing and improving access to print and electronic resources within a team-oriented, teaching library environment. This full time, tenure-track position, to start in the Fall 2018 Semester, requires an ALA-accredited MLS, along with at least two years’ experience in electronic resources management, collection development, and teaching information literacy across multiple disciplines in distance learning and traditional classrooms. The successful candidate must also possess:  excellent interpersonal, oral, and written communication skills; excellent analytical and problem-solving skills; a demonstrated ability to work both independently and collaboratively; flexibility to adapt to the dynamic workflows inherent to electronic resources; and a commitment to supporting under-represented groups of students in support of our climate of inclusivity.
@@ -33,16 +33,16 @@ Rider University is an Equal Opportunity/Affirmative Action employer dedicated t
 
 
 
-### URL###
+### URL   
 
 [http://rider.peopleadmin.com/postings/5176](http://rider.peopleadmin.com/postings/5176)
 
-### To Apply###
+### To Apply   
 
 [http://rider.peopleadmin.com/postings/5176](http://rider.peopleadmin.com/postings/5176)
 
 
-### Company Information###
+### Company Information   
 
 2083 Lawrenceville Road, Lawrenceville, NJ  08648
 

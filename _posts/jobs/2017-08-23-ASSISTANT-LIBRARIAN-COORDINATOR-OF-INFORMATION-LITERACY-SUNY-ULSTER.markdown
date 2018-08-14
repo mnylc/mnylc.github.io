@@ -6,12 +6,12 @@ excerpt: "The Assistant Librarian – Coordinator of Information Literacy, under
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Assistant Librarian – Coordinator of Information Literacy, under direction of the Director of Library Services, coordinates and develops a comprehensive program of information literacy instruction for the college community.  Primary responsibilities include, but are not limited to: develop and coordinate credit instruction program; coordinate workshops for students, faculty and staff, develop in-service training programs for library staff; provide reference desk coverage; participate in collection development; supervise interlibrary loan; and manage local history collection. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 ob duties:
 
@@ -33,7 +33,7 @@ ob duties:
 
 
 
-### Qualifications###
+### Qualifications   
 
 
     An ALA accredited master’s degree in library/information science;
@@ -47,21 +47,21 @@ ob duties:
 
 
 
-### Compensation###
+### Compensation   
 
 An initial salary of $43,000 to $45,000 dependent on qualification, per year with an excellent benefits package.
 
 
-### Location###
+### Location   
 
 Stone Ridge, NY  Ulster County
 
 
-### URL###
+### URL   
 
 [http://www.sunyulster.edu/campus_and_culture/about_us/professional_admin_jobs.php#asst_librarian](http://www.sunyulster.edu/campus_and_culture/about_us/professional_admin_jobs.php#asst_librarian)
 
-### To Apply###
+### To Apply   
 
 The position is open until filled. However, to ensure consideration, application materials should be received via email to resumes@sunyulster.edu by Monday, August 21, 2017 at 4:00 pm EST to be given priority consideration. Applications received after the deadline are not guaranteed to be reviewed.  SUNY Ulster reserves the right to close, continue, cancel, postpone or restart the recruitment at any time.
 
@@ -73,12 +73,12 @@ Applicants must submit the following materials to be considered for the position
 
 
 
-### Company Information###
+### Company Information   
 
 SUNY Ulster   [http://www.sunyulster.edu/library/](http://www.sunyulster.edu/library/)
 
 
-### Contact Information###
+### Contact Information   
 
 HR Office   845-687-5088
 

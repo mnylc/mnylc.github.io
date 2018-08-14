@@ -6,7 +6,7 @@ excerpt: "Reporting to the Head of the Cataloging Unit, the Japanese Project Cat
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Head of the Cataloging Unit, the Japanese Project Cataloger will perform original and complex copy-cataloging of books, serials, manuscripts, and other library materials in the Japanese language. All original cataloging is performed in accordance with national standards. Knowledge of OCLC Connexion Client, Library of Congress policies and Library of Congress online resources are required. The incumbent is also responsible for contributing and maintaining authority records for Columbia Law Library's integrated library system and NACO. The incumbent will also perform other related duties as assigned. 
 
@@ -15,7 +15,7 @@ This is a temporary grant-funded appointment intended to last two years from the
 The Arthur W. Diamond Law Library offers its researchers one of the finest collections of legal materials in the country in both digital and print formats. In addition to a near comprehensive United States Law collection, there are strong collections in International, Foreign, and Comparative Law and a special section devoted to Japanese Law. The Law Library has significant collections from at least thirty different countries and a useful core of materials from many other jurisdictions. The library has a staff of 42 and offers an array of services to the students and faculty of Columbia Law School. As one of the world's leading research universities, Columbia University in the City of New York provides outstanding opportunities to work and grow in a dynamic, multicultural, intellectual community. The Columbia University Libraries comprises a diverse and engaged staff committed to furthering the University's teaching and research mission through innovation, collaboration, and a commitment to excellence. Columbia University is an Equal Opportunity/Affirmative Action Employer and strongly encourages individuals of all backgrounds and cultures to consider this position. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Major Responsibilities: 
 1. Perform original and copy cataloging of Japanese language materials using OCLC and local system, insuring accurate access points through authority work and assignment of local and LCC call number schemes. 
@@ -23,7 +23,7 @@ Major Responsibilities:
 3. Participate in special projects and undertake miscellaneous assignments as required. 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 - MLS or PhD or equivalent  
@@ -41,21 +41,21 @@ Preferred Qualifications:
 - Familiarity with the Library of Congress Japanese Romanization rules.  
 
 
-### Compensation###
+### Compensation   
 
  We offer a salary commensurate with qualifications and experience and excellent benefits.  
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=66368](https://academicjobs.columbia.edu/applicants/Central?quickFind=66368) 
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=66368](https://academicjobs.columbia.edu/applicants/Central?quickFind=66368) 
 

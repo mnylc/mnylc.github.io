@@ -6,12 +6,12 @@ excerpt: "The Great Neck Library is seeking a dynamic, innovative librarian to l
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Great Neck Library is seeking a dynamic, innovative librarian to lead our Reference Department.  The ideal candidate will be community minded and think beyond the walls of the library to serve a very active, culturally diverse library in a  highly educated community.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities include but are not limited to:
 
@@ -48,7 +48,7 @@ Responsibilities include but are not limited to:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 
@@ -64,21 +64,21 @@ Minimum Qualifications:
 Schedule: Full time-35 hours/week, Includes evenings and Saturdays 
 
 
-### Compensation###
+### Compensation   
 
 Starting Salary Range: The minimum starting salary is $66,600 with full benefit package commensurate with experience and qualifications.
 
 
-### Location###
+### Location   
 
 Great Neck, NY
 
 
-### URL###
+### URL   
 
 [https://www.greatnecklibrary.org/libinfo/jobs.php](https://www.greatnecklibrary.org/libinfo/jobs.php)
 
-### To Apply###
+### To Apply   
 
 Reply with resume, cover letter, and references by 8/22/2018:
 Employment
@@ -93,7 +93,7 @@ The Great Neck Library is an Equal Opportunity Employer.
 
 
 
-### Contact Information###
+### Contact Information   
 
 No Phone Calls
 

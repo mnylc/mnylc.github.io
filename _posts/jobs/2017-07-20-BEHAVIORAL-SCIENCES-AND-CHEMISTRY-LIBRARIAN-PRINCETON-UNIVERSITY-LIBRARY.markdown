@@ -6,7 +6,7 @@ excerpt: "Behavioral Sciences and Chemistry Librarian Princeton University Libra
 tag: job
 ---
 
-### Description###
+### Description   
 
 Behavioral Sciences and Chemistry Librarian
 Princeton University Library
@@ -23,14 +23,14 @@ This position is subject to the University's background check policy. Princeton 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 This position provides specialized and individualized reference and research consultation for undergraduate students in these departments particularly as they complete their thesis requirements in 3rd and 4th years, for graduate students in Ph.D. and select master’s programs, and for faculty, researchers and affiliates.
 
 Serves as the Library’s primary contact for behavioral sciences and chemistry, oversees the Library’s collections in psychology, neuroscience and chemistry, and manages sizable acquisitions funds in these areas. Works closely with subject selectors in the sciences, engineering and social sciences on collection development, instruction, research support and outreach. Serves as a member of a dynamic team of science and technology professionals based in Lewis Science Library. Shares in responsibility for providing innovative library services that promote discovery, use and integration of physical and electronic library collections. Represents Princeton in relevant regional, national and international professional and scholarly organizations. 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 
@@ -53,21 +53,21 @@ Strongly Preferred:
 • 	Familiarity with scholarly communications initiatives and demonstrated knowledge of scientific research and publication trends.
 
 
-### Compensation###
+### Compensation   
 
 The successful candidate will be appointed to an appropriate Librarian rank depending upon qualifications and experience. 
 
 
-### Location###
+### Location   
 
 Princeton, NJ, USA
 
 
-### URL###
+### URL   
 
 [https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=2161](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=2161)
 
-### To Apply###
+### To Apply   
 
 Applications will be accepted only from the Jobs at Princeton website:  [http://www.princeton.edu/jobs](http://www.princeton.edu/jobs) and must include a resume, cover letter, and a list of three references with full contact information. 
 
@@ -75,13 +75,13 @@ Direct Link to application: [https://puwebp.princeton.edu/AcadHire/apply/applica
 
 
 
-### Company Information###
+### Company Information   
 
 Princeton University Library
 Princeton, New Jersey
 
 
-### Contact Information###
+### Contact Information   
 
 Robin Dunham
 rdunham@princeton.edu

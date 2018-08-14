@@ -6,12 +6,12 @@ excerpt: "Under the direct supervision of the Head of Access Services, Informati
 tag: job
 ---
 
-### Description###
+### Description   
 
 Under the direct supervision of the Head of Access Services, Information and Collection Services and Operations the person in this position joins the library staff in achieving optimal service throughout the entire library, which requires one to become familiar with all library operations – Circulation and Reserves, Reference, Computer Labs and AV collections, as well as Stack Maintenance and Collection Development, and other related tasks, duties, and procedures, and help train students in proper service etiquette, library procedures and skills. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Provides one-on-one reference service to students and faculty assisting with research across all disciplines taught on site at the university or via distance learning programs. 
@@ -47,7 +47,7 @@ Under the direct supervision of the Head of Access Services, Information and Col
 • 	Serves as conduit for updating Fordham’s scholar community on national and international trends, legislation, changes in intellectual property rights, commercial and academic publishing practices, and information technology. 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Bachelor’s degree and ALA accredited M.LS; preferred library experience as a professional librarian providing reference and instructional services in an academic library. Reference experience to a distance learning community a plus. 
@@ -64,32 +64,32 @@ Under the direct supervision of the Head of Access Services, Information and Col
 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with Experience 
 
 
-### Location###
+### Location   
 
 Fordham University (Quinn Library / Lincoln center campus) 
 
 
-### URL###
+### URL   
 
 [https://www.fordham.edu/downloads/file/10407/reference_librarian_scholarly_communication_liaison_a03070_41018](https://www.fordham.edu/downloads/file/10407/reference_librarian_scholarly_communication_liaison_a03070_41018)
 
-### To Apply###
+### To Apply   
 
 Submit letter and resume to: Nick Alongi, Head of Access, Information and Collection Services, and Library Operations  / nalongi@fordham.edu 
 
 
 
-### Company Information###
+### Company Information   
 
 140 W 62nd street New York NY 10023
 
 
-### Contact Information###
+### Contact Information   
 
 nalongi@fordham.edu 
 

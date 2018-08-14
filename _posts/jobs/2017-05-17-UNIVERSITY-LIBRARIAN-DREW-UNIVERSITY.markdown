@@ -6,7 +6,7 @@ excerpt: "Drew University seeks a dynamic and experienced professional for the p
 tag: job
 ---
 
-### Description###
+### Description   
 
 Drew University seeks a dynamic and experienced professional for the position of University Librarian to oversee and lead the Drew University Libraries, including Special Collections, University Archives, and Methodist Collections.
 
@@ -16,7 +16,7 @@ Drew University welcomes applications from collaborative, enthusiastic candidate
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Develop and implement the Library’s vision, mission, and strategic goals in concert with those of the University.
 Oversee the assessment and evaluation of library functions.
@@ -31,7 +31,7 @@ Cultivate and enhance donor relations in collaboration with University Advanceme
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 MLIS or equivalent from an ALA accredited institution
@@ -53,26 +53,26 @@ Evidence of scholarship or scholarly interests pertinent to the position
 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with Experience
 
 
-### Location###
+### Location   
 
 Madison, NJ 
 
 
-### URL###
+### URL   
 
 [http://www.drew.edu/hr/jobs/university-librarian](http://www.drew.edu/hr/jobs/university-librarian)
 
-### To Apply###
+### To Apply   
 
 Please submit a resume/CV, cover letter and 3 references to HR0517-2@Drew.edu. For fullest consideration please submit application materials by June 20, 2017.
 
 
-### Company Information###
+### Company Information   
 
 Drew University 
 

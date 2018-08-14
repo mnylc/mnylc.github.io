@@ -6,12 +6,12 @@ excerpt: "Reporting to the Director and working closely with other librarians an
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Director and working closely with other librarians and staff, the Librarian will be responsible for providing references and information services in response to the information needs of the organization's library users via online resources and in-person reference help. This a Part-Time position of 22.5 hours/week with benefits. There is a weekend requirement of every Saturday.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 •          Providing extended, professional references services and library instruction to individuals and departments as necessary.
@@ -27,7 +27,7 @@ Reporting to the Director and working closely with other librarians and staff, t
 •          Other duties, as assigned
 
 
-### Qualifications###
+### Qualifications   
 
 Education: Master's Degree in Library Science (MLS or Library and Information Science (MLIS), required. 
  
@@ -52,23 +52,23 @@ Skills:
 
 
 
-### Location###
+### Location   
 
 Mineola, NY
 
 
-### URL###
+### URL   
 
 [http://www.winthrop.org/Careers](http://www.winthrop.org/Careers)
 
-### To Apply###
+### To Apply   
 
 Please submit your application online via NYU Winthrop Hospital’s Career Website: [http://www.winthrop.org/Careers](http://www.winthrop.org/Careers)
  
 To locate the position, please search for Job Posting Number: 17-20185.
 
 
-### Company Information###
+### Company Information   
 
 NYU Winthrop Hospital is a 591-bed university-affiliated medical center and New York State-designated Regional Trauma Center. Winthrop proudly offers sophisticated diagnostic and therapeutic care in virtually every specialty and subspecialty of medicine and surgery.
  

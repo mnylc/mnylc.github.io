@@ -6,12 +6,12 @@ excerpt: "The Library Assistant supports the activities of professional staff by
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Library Assistant supports the activities of professional staff by providing services in collection retrieval, reshelving, access, acquisition and cataloging support, and document reproduction and delivery.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Retrieves and reshelves periodicals, bound journals, monographs, manuscripts, pamphlets, government documents, and other materials daily for staff, patrons, and the fulfillment of document delivery requests.
 Scans materials to fulfill patron orders and document delivery requests, and for staff as requested.
@@ -21,7 +21,7 @@ Maintains serials subscriptions through checking in issues as they arrive, locat
 Performs other tasks and projects as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 Qualifications
 Attention to detail, customer service orientation and ability to work independently as well as in a team environment
@@ -37,27 +37,27 @@ Proficiency in the digital environment is required; experience with integrated l
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://nyam.org/about/careers/library-assistant/](https://nyam.org/about/careers/library-assistant/)
 
-### To Apply###
+### To Apply   
 
 Please forward cover letter and resume to hr@nyam.org. Please include Library Assistant in the subject line of the email.
 
 
-### Company Information###
+### Company Information   
 
 The New York Academy of Medicine 1216 Fifth Avenue
 New York, NY 10029, USA, 212.419.3501
 
 
-### Contact Information###
+### Contact Information   
 
 hr@nyam.org
 

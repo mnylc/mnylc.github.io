@@ -6,36 +6,36 @@ excerpt: "Assist the project manager to create and edit metadata, conduct proven
 tag: job
 ---
 
-### Description###
+### Description   
 
 Assist the project manager to create and edit metadata, conduct provenance research on art items recorded in the William Randolph Hearst archive, assist in depositing 1500 images and metadata in the Digital Library, and other duties as required.
 
 
 
 
-### Qualifications###
+### Qualifications   
 
 MLIS or MA in Art History or related field.  Applicants should have a working background in Art or archives and experience with working on digital projects.  Knowledge of scanning images and metadata standards; excellent research skills.  Must be detailed oriented.  Experience with computer applications including Excel, basic knowledge of Photoshop, and Google Drive.
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience
 
 
-### Location###
+### Location   
 
 Brookville, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 [https://jobs.liu.edu/#/job_details/351](https://jobs.liu.edu/#/job_details/351)
 
 
-### Company Information###
+### Company Information   
 
 700 Northern Blvd.
 

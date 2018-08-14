@@ -6,12 +6,12 @@ excerpt: "Icahn School of Medicine at Mount Sinai’s Levy Library is seeking dy
 tag: job
 ---
 
-### Description###
+### Description   
 
 Icahn School of Medicine at Mount Sinai’s Levy Library is seeking dynamic candidates for its Reference and Instruction Librarian position. Reporting to the Manager of Information and Education Services, this position supports the reference and instruction needs of the Icahn School of Medicine at Mount Sinai community.  The ideal candidate for this role will be a customer-service oriented information professional knowledgeable about biomedical resources and reference management tools.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Serve as Levy Library’s reference management expert, assisting users through training sessions and consultations. (20%)
@@ -33,7 +33,7 @@ Icahn School of Medicine at Mount Sinai’s Levy Library is seeking dynamic cand
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required:
 
@@ -65,21 +65,21 @@ Preferred:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://libguides.mssm.edu/opportunities](http://libguides.mssm.edu/opportunities)
 
-### To Apply###
+### To Apply   
 
 Please email cover letter and curriculum vitae to Samantha.Walsh@mssm.edu
 
 
-### Company Information###
+### Company Information   
 
 Icahn School of Medicine at Mount Sinai is a national and international leader in biomedical education, research and patient care. The Medical School has been consistently ranked as a top 20 medical school in the US and is ranked #17 among U.S. medical schools for National Institutes of Health funding. The Graduate School comprises degree-granting programs in basic science, clinical research, public health, and genetic counseling. The Mount Sinai Health System is an integrated health system committed to providing distinguished care, conducting transformative research, and advancing biomedical education. More information is available on the web ([http://icahn.mssm.edu/).](http://icahn.mssm.edu/).)
 

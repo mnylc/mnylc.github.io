@@ -6,12 +6,12 @@ excerpt: "Columbia Law School's Arthur W. Diamond Law Library seeks a motivated 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Columbia Law School's Arthur W. Diamond Law Library seeks a motivated and detail-oriented Systems Analyst/Engineer/Programmer to join the Library Systems Unit of the Technical Services Department on or after July 1, 2018. Reporting to the Systems Librarian, the incumbent prepares and deploys Linux server systems, develops and deploys applications, and performs maintenance on both as required, with a focus on maximizing security, usability, and uptime; assists in strategizing for Library server and application needs, including vendor services as needed; documents and provides support for Library Systems projects and services; works both independently and as part of a team or under supervision; and collaborates on projects and related activities with both internal and external units. The incumbent works closely with the Systems Librarian and the Coordinator for Electronic Resources and performs all of the various duties of the Library Systems Unit as needed. Duties may be highly technical and/or involve providing support with a service-oriented demeanor to colleagues or users with differing levels of technical knowledge.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Detailed responsibilities include but are not limited to:
 
@@ -27,7 +27,7 @@ Detailed responsibilities include but are not limited to:
 - Perform other Library tasks as needed. Other duties as assigned
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 - Bachelor's degree and a minimum three years' related experience or the equivalent combination of education and experience.
@@ -55,16 +55,16 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://jobs.columbia.edu/applicants/Central?quickFind=169338](http://jobs.columbia.edu/applicants/Central?quickFind=169338)
 
-### To Apply###
+### To Apply   
 
 [http://jobs.columbia.edu/applicants/Central?quickFind=169338](http://jobs.columbia.edu/applicants/Central?quickFind=169338)
 

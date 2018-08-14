@@ -6,12 +6,12 @@ excerpt: "Reporting to the Systems Manager, the Systems Librarian is responsible
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Systems Manager, the Systems Librarian is responsible for contributing to a high-quality, robust physical and virtual infrastructure for The New School Libraries & Archives. The Systems Librarian works collaboratively with a wide range of libraries & archives departments across all locations as well as with our consortial partners at NYU to support a variety of applications in both Window Server and Linux environments used by the Libraries and Archives. The systems involved include backup, storage, servers, and components of Integrated Library System. Specific duties of the incumbent include the following:
 
 
-### Responsibilities###
+### Responsibilities   
 
 -Coordinates the installation, configuration, and maintenance of physical and virtual server environments for the Libraries and Archives..
 - Assists in configuration and implementation of the Library’s core systems – the Integrated Library System (currently Ex Libris’ Aleph), Link Resolver (SFX), electronic reserves (Atlas Systems’ Ares), Inter-Library Loan (Atlas Systems’ ILLiad), and EZBorrow (Relais D2D)
@@ -24,7 +24,7 @@ Reporting to the Systems Manager, the Systems Librarian is responsible for contr
 - Maintains up-to-date professional knowledge and skills in areas related to primary job assignment as well as maintaining general knowledge of current trends in higher education, academic libraries, and information and educational technology.
 
 
-### Qualifications###
+### Qualifications   
 
 - ALA-accredited master’s degree in Library and Information Science OR equivalent education and experience relevant to the position.
 - Comfortable administrating Linux machines
@@ -42,16 +42,16 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York City, NY
 
 
-### URL###
+### URL   
 
 [https://careers.newschool.edu/postings/16011](https://careers.newschool.edu/postings/16011)
 
-### To Apply###
+### To Apply   
 
 [https://careers.newschool.edu/postings/16011](https://careers.newschool.edu/postings/16011)
 

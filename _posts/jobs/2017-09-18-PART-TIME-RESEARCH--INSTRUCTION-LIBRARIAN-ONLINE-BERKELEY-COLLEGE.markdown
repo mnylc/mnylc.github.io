@@ -6,12 +6,12 @@ excerpt: "Berkeley College seeks an Online Research & Instruction Librarian in a
 tag: job
 ---
 
-### Description###
+### Description   
 
 Berkeley College seeks an Online Research & Instruction Librarian in a part time capacity to assist in meeting the increased demand for Faculty and student support services. The successful candidate will utilize creative instructional techniques to connect information literacy to online course content; develop engaging learning-objects using eLearning authoring tools (including LibWizard, Camtasia, & Articulate Storyline); provide real-time virtual assistance with navigating and evaluating information; and serve as a member of the instructional services unit.  This part-time position requires 20-24 hours of work per week with flexible hours: 2 days at the Berkeley College Online Campus in Paramus, NJ, and 2 days or evenings remote; Saturday shifts required.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to the Senior Director, Online Library & Technology Services, key aspects of the position include:  
 •  Research and instructional support to students, faculty, and the college community in an online environment 
@@ -21,7 +21,7 @@ Reporting to the Senior Director, Online Library & Technology Services, key aspe
 •  Perform related tasks as requested, delegated, or assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 Ability to facilitate student driven learning in the information seeking process 
 •  Familiarity with LibChat, LibAnswers, and LibGuides; or similar products 
@@ -32,21 +32,21 @@ Ability to facilitate student driven learning in the information seeking process
 •  Ability to work a flexible schedule that includes evenings and weekends. 
 
 
-### Compensation###
+### Compensation   
 
 Hourly rate up to $25 
 
 
-### Location###
+### Location   
 
 Paramus, NJ w/ remote hours
 
 
-### URL###
+### URL   
 
 berkeleycollege.edu
 
-### To Apply###
+### To Apply   
 
 For complete description and application instructions visit job detail #17-0304 at: [https://re21.ultipro.com/BER1008/JobBoard/JobDetails.aspx?__ID=*F69128354C223D69](https://re21.ultipro.com/BER1008/JobBoard/JobDetails.aspx?__ID=*F69128354C223D69)
 
@@ -54,7 +54,7 @@ For complete description and application instructions visit job detail #17-0304 
 
 
 
-### Contact Information###
+### Contact Information   
 
 Matthew LaBrake, MSLIS
 Senior Director, Online Library & Technology Services

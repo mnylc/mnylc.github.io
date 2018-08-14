@@ -6,7 +6,7 @@ excerpt: "The Great Neck Library seeks a detail-oriented Individual to shelve li
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Great Neck Library seeks a detail-oriented 
 Individual to shelve library materials 
@@ -30,16 +30,16 @@ Flexible Schedule
 
 
 
-### Location###
+### Location   
 
 Great Neck, New York
 
 
-### URL###
+### URL   
 
 [https://www.greatnecklibrary.org/libinfo/jobs.php](https://www.greatnecklibrary.org/libinfo/jobs.php)
 
-### To Apply###
+### To Apply   
 
 Resumes/Applications should be emailed to employment@greatnecklibrary.org by August 17, 2018 
 
@@ -50,7 +50,7 @@ The Great Neck Library is an Equal Opportunity Employer.
 
 
 
-### Contact Information###
+### Contact Information   
 
 No Phone Calls will be Accepted.
 

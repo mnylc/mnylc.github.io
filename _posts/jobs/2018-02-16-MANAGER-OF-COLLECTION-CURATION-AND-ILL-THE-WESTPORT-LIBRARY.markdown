@@ -6,7 +6,7 @@ excerpt: "Manager of Collection Curation and ILL Westport Library, CT Do you hav
 tag: job
 ---
 
-### Description###
+### Description   
 
 Manager of Collection Curation and ILL
 Westport Library, CT 
@@ -26,21 +26,21 @@ Apply via email with a meaningful cover letter and your resume as Word or pdf at
 
 
 
-### Location###
+### Location   
 
 Westport, CT
 
 
-### URL###
+### URL   
 
 [http://westportlibrary.org](http://westportlibrary.org)
 
-### To Apply###
+### To Apply   
 
 jobs@westportlibrary.org
 
 
-### Company Information###
+### Company Information   
 
 20 Jesup Road, Westport, CT 06880
 

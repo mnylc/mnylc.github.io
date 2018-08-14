@@ -6,7 +6,7 @@ excerpt: "About Fashion Institute of Technology: The Fashion Institute of Techno
 tag: job
 ---
 
-### Description###
+### Description   
 
 About Fashion Institute of Technology:
 
@@ -113,11 +113,11 @@ FIT is firmly committed to creating an environment that will attract and retain 
 
 
 
-### URL###
+### URL   
 
 [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=85264](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=85264)
 
-### To Apply###
+### To Apply   
 
 * Resume
 * Cover letter

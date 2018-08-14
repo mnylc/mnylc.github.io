@@ -6,12 +6,12 @@ excerpt: "ECRI Institute, an AHRQ-designated Evidence-based Practice Center, see
 tag: job
 ---
 
-### Description###
+### Description   
 
 ECRI Institute, an AHRQ-designated Evidence-based Practice Center, seeks an experienced Information Specialist to join the Custom Response Team as part of our Health Technology Assessment Information Center.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • Intensive biomedical database and Web searching (PubMed, EMBASE, OVID, CINAHL, The Cochrane Library, The National Guideline Clearinghouse, Centers for Medicare and Medicaid Services, U.S. Food and Drug Administration, etc.)
@@ -26,7 +26,7 @@ ECRI Institute, an AHRQ-designated Evidence-based Practice Center, seeks an expe
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • An MLS/MLIS degree from an American Library Association-accredited master's program in Library and Information Studies 
@@ -46,14 +46,14 @@ Search strategy construction, assessment, refinement, and maintenance
 
 
 
-### Location###
+### Location   
 
 Plymouth Meeting, PA
 
 
 
 
-### To Apply###
+### To Apply   
 
 To be considered further for this opportunity, interested candidates must apply directly to our website:
 [https://www.ecri.org/about/Pages/default.aspx](https://www.ecri.org/about/Pages/default.aspx) (see “Job openings”)

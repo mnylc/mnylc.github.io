@@ -6,7 +6,7 @@ excerpt: "The Sojourner Truth Library at the State University of New York (SUNY)
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Sojourner Truth Library at the State University of New York (SUNY) at New Paltz invites applications for a tenure track librarian position, to be hired at Assistant or Senior Assistant rank. The candidate will join the Research and Education Team, a collaborative group of librarians who work creatively with the campus community across disciplines, in co-curricular experiences, and within the general education curriculum. Working within this team, the candidate will provide reference, instruction and academic department liaison services to students and faculty at SUNY New Paltz.
 
@@ -24,7 +24,7 @@ Occasional weekend reference shifts and one weekly evening reference shift are r
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required:
 
@@ -49,16 +49,16 @@ Preferred:
 
 
 
-### Location###
+### Location   
 
 New Paltz, NY
 
 
-### URL###
+### URL   
 
 [https://www.newpaltz.edu/hr/displayjobdetails.php?id=2070](https://www.newpaltz.edu/hr/displayjobdetails.php?id=2070)
 
-### To Apply###
+### To Apply   
 
 Use this link to apply: [https://jobs.newpaltz.edu/postings/817](https://jobs.newpaltz.edu/postings/817)
 

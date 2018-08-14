@@ -6,13 +6,13 @@ excerpt: "The Municipal Archives of the NYC Department of Records & Information 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Municipal Archives of the NYC Department of Records & Information Services seeks archival technician interns for digitization of paper documents, quality control of digital images and metadata related to the digitization of the vital record collection. Our ideal candidate would be able to dedicate one to two days a week, with a start date in early April. 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The archival technician intern will digitize paper materials on a flatbed scanner, perform quality audits on images in photo viewing software such as Adobe Photoshop. The technicians will also perform quality audits on metadata in Microsoft Access and Microsoft Excel. The technicians will be required to enter data and notes into spreadsheets and report regularly on progress. 
 
@@ -20,7 +20,7 @@ The archival technician position calls for computer literate individuals who ide
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Skills:
 
@@ -40,14 +40,14 @@ Preferred Skills:
 
 
 
-### Location###
+### Location   
 
 31 Chambers Street, New York NY 10007
 
 
 
 
-### To Apply###
+### To Apply   
 
 Email resume to recruit@records.nyc.gov
 

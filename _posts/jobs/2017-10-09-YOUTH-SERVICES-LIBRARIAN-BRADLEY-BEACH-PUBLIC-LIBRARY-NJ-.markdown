@@ -6,13 +6,13 @@ excerpt: "Bradley Beach Public Library which serves a small but diverse communit
 tag: job
 ---
 
-### Description###
+### Description   
 
 Bradley Beach Public Library which serves a small but diverse community of 5,000 residents year round, increasing to 35,000 during the summer season,  is seeking a creative, inspired and dedicated Youth Services Librarian. The perfect candidate will enjoy working with all age groups, have a focus in children/youth services and be technologically adept. Enjoying working with children is a strong plus.
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 
@@ -37,7 +37,7 @@ Bradley Beach Public Library which serves a small but diverse community of 5,000
 •  Represent the library on children’s and teen services committees as appropriate
 
 
-### Qualifications###
+### Qualifications   
 
 MLS with a focus in children’s/youth services
 Relevant experience in public libraries a plus 
@@ -49,27 +49,27 @@ Possess excellent oral and written communication skills
 *Applicant must be able to relocate to NJ within a year of the start date
 
 
-### Compensation###
+### Compensation   
 
 FT Boro employee. $45,000 w/benefits
 
 
-### Location###
+### Location   
 
 Bradley Beach, NJ 
 
 
-### URL###
+### URL   
 
 [http://www.bradleybeachlibrary.org/](http://www.bradleybeachlibrary.org/)
 
-### To Apply###
+### To Apply   
 
 Send cover letter and resume to jcastelpietra@bradleybeachlibrary.org, subject line: Youth Services Applicant. 
 *Please identify where you found the posting in cover letter
 
 
-### Company Information###
+### Company Information   
 
 511 Fourth Ave. Bradley Beach, NJ (Monmouth County)
 

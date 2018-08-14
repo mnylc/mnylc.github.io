@@ -6,7 +6,7 @@ excerpt: "Bronx Community College Library is seeking an Instructor or Assistant 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Bronx Community College Library is seeking an Instructor or Assistant Professor to serve as Reference & Collection Development Librarian.
 
@@ -24,7 +24,7 @@ Librarians within the City University of New York take active faculty roles, ser
 
 
 
-### Qualifications###
+### Qualifications   
 
 All titles require a Master's in Library Science (MLS), Master's in Library Information Studies (MLIS), or closely related discipline from an ALA-accredited institution.  Also required is the ability to work with others for the good of the institution. For appointment as Assistant Professor, a second graduate degree is required.  
 
@@ -55,21 +55,21 @@ For appointment as Assistant, Associate, or Full Professor, a second graduate de
 
 
 
-### Compensation###
+### Compensation   
 
 CUNY offers faculty a competitive compensation and benefits package covering health insurance, pension and retirement benefits, paid parental leave, and savings programs.  We also provide mentoring and support for research, scholarship, and publication as part of our commitment to ongoing faculty professional development.  Instructor:  $43,503 - $72,065 Assistant Professor:  $47,340 - $81,855 Salary commensurate with education and experience.
 
 
-### Location###
+### Location   
 
 Bronx, NY
 
 
-### URL###
+### URL   
 
 [https://cuny.jobs/bronx-ny/reference-collection-development-librarian-instructor-or-assistant-professor/BC0BB71D6C794BD0BB8432D78E7019E1/job/](https://cuny.jobs/bronx-ny/reference-collection-development-librarian-instructor-or-assistant-professor/BC0BB71D6C794BD0BB8432D78E7019E1/job/)
 
-### To Apply###
+### To Apply   
 
 From our job posting system, select "Apply Now", create or log in to a user account, and provide the requested information.  If you are viewing this posting from outside our system, access the employment page on our web site and search for this vacancy using the Job ID# 19086 or Title.  
     
@@ -77,7 +77,7 @@ Candidates should provide a CV/resume and statement of scholarly interests.
 
 
 
-### Company Information###
+### Company Information   
 
 [http://bcc-libweb.bcc.cuny.edu/](http://bcc-libweb.bcc.cuny.edu/)
 

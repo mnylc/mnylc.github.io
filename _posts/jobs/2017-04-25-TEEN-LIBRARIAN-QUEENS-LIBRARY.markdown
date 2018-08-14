@@ -6,12 +6,12 @@ excerpt: "About the Position & Queens Library: Queens Library, is offering oppor
 tag: job
 ---
 
-### Description###
+### Description   
 
 About the Position & Queens Library: Queens Library, is offering opportunities to work for one of the most dynamic and diverse urban libraries in the world. We are seeking highly-engaged, creative, customer service driven teen librarians who are eager for an opportunity to enrich lives in one of our 65 service locations. Queens Library is a renowned leader in providing innovative library and educational services, developing new technology applications and fostering community engagement.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Major Duties: 
 - Performs excellent internal and external customer service and library service in response to the information needs of library users and the overall community with an emphasis on teens and tweens. 
@@ -36,7 +36,7 @@ Key Competencies:
 - Initiative, flexibility, cooperative teamwork and modeling exemplary customer service
 
 
-### Qualifications###
+### Qualifications   
 
 Requirements:
 - Must have a MLS/MLIS degree from an ALA-accredited library school.  
@@ -44,18 +44,18 @@ Requirements:
 - Must be eligible for NYS librarian certification. Must have performance evaluation of standard or above in public service positions. 
 
 
-### Compensation###
+### Compensation   
 
 Salary: Annual salaries start at $47,075 for entry level librarians and range between $51,224 to $54,970 for senior/experienced librarians depending on experience.  
 
 
 
 
-### URL###
+### URL   
 
 [http://www.queenslibrary.org/](http://www.queenslibrary.org/)
 
-### To Apply###
+### To Apply   
 
 To Apply: Please send your resume and cover letter to QLcareers@queenslibrary.org and reference “Teen Librarian - External” in the subject line. Resumes will only be accepted by email.  
 

@@ -6,12 +6,12 @@ excerpt: "NYU Libraries seeks a subject specialist in the life sciences to suppo
 tag: job
 ---
 
-### Description###
+### Description   
 
 NYU Libraries seeks a subject specialist in the life sciences to support the research and teaching programs of faculty, graduate and undergraduate students in biology, environmental sciences, nutrition, and global public health.  This librarian serves as a library liaison with special emphases on building and curating collections in all formats; developing a program of extensive outreach, instruction, consultation, and research support services; and delivering responsive and innovative information services.
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Life Sciences Librarian collaborates on scholarly communication and data services initiatives and participates in collaborative research projects, including sponsored research projects.  Librarians play a key role in the educational mission of NYU by establishing strong collaborative relationships with faculty and students and connecting them to the services, content, and tools that meet their research, teaching, and learning needs.
 
@@ -20,7 +20,7 @@ The Life Sciences Librarian is a tenure track position based in the Research Com
 New York University Libraries: Libraries at New York University serve the school’s 40,000 students and faculty and contain more than 5 million volumes. The Libraries supports NYU’s vision to become the first true Global Network University by collaborating and providing services to our 11 global academic centers and our “portal campuses” in Abu Dhabi and Shanghai.   New York University Libraries is a member of the Association of Research Libraries, the OCLC Research Library Partnership, and the HathiTrust. The Libraries participates in a variety of consortia and collaborates closely with Columbia University Libraries and the New York Public Library through the Manhattan Research Library Consortium.
 
 
-### Qualifications###
+### Qualifications   
 
 Experience:
 - Public service experience in an academic library, including reference, instruction, or collection development.
@@ -43,26 +43,26 @@ Education Required:
 Preferred: Advanced degree in the life sciences.
 
 
-### Compensation###
+### Compensation   
 
 Faculty status, attractive benefits package including five weeks annual vacation. Salary commensurate with experience and background. 
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 [https://apply.interfolio.com/40956](https://apply.interfolio.com/40956)
 
-### To Apply###
+### To Apply   
 
 To ensure consideration, submit your CV and letter of application, including the name, address, and telephone number of three references to: [https://apply.interfolio.com/40956.](https://apply.interfolio.com/40956.) Applications submitted by Friday, April 21st will receive preference.
 
 
-### Company Information###
+### Company Information   
 
 New York University - Division of Libraries
 70 Washington Square South, 11th Floor
@@ -70,7 +70,7 @@ New York New York 10012
 United States
 
 
-### Contact Information###
+### Contact Information   
 
 libraries.careers@nyu.edu
 

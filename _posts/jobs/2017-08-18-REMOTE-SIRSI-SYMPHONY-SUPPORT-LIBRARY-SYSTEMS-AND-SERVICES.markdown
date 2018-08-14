@@ -10,7 +10,7 @@ If you know SIRSI Symphony, like helping to train others on the basics,  and you
 tag: job
 ---
 
-### Description###
+### Description   
 
 
 If you know SIRSI Symphony, like helping to train others on the basics,  and you’d like to work in your ‘jammies’ from anywhere in the US, for the next 6 months … have we got the job for you.  
@@ -19,7 +19,7 @@ If you know SIRSI Symphony, like helping to train others on the basics,  and you
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 LS&S is seeking one full time SirsiDynix Symphony Help Desk Support staff for the Delaware school libraries. This is a five day per week, eight hour per day position commencing in late August 2017 and lasting approximately six months.   The selected candidate will attend an initial training class in Delaware. Upon completion of the training, the candidate can work from anywhere in the United States, provided you have good telephone and Internet connections, and your own computer.   
 
@@ -41,7 +41,7 @@ LS&S is seeking one full time SirsiDynix Symphony Help Desk Support staff for th
 •  Running standard reports
 
 
-### Qualifications###
+### Qualifications   
 
 
 •  High school diploma or GED required. Some college preferred
@@ -61,31 +61,31 @@ LS&S is seeking one full time SirsiDynix Symphony Help Desk Support staff for th
 •  Reliable and capable of working independently
 
 
-### Compensation###
+### Compensation   
 
 Library Assistant Level -
 
 
-### Location###
+### Location   
 
 Anywhere with a good internet and phone connection 
 
 
-### URL###
+### URL   
 
 [http://www.lsslibraries.com/](http://www.lsslibraries.com/)
 
-### To Apply###
+### To Apply   
 
 contact Steve Coffman at steve.coffman@lsslibraries.com
 
 
-### Company Information###
+### Company Information   
 
 Employment with LS&S is strictly contingent upon the successful completion of our extensive background and reference check process. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin. To be considered for the job, all applicants must submit their application online at [https://careers-lssi.icims.com/.](https://careers-lssi.icims.com/.)
 
 
-### Contact Information###
+### Contact Information   
 
 
 Steve Coffman

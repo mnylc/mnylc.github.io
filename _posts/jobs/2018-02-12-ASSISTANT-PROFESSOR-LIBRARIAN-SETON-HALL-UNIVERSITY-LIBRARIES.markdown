@@ -6,12 +6,12 @@ excerpt: "Seton Hall University Libraries invites applications for our Access Se
 tag: job
 ---
 
-### Description###
+### Description   
 
 Seton Hall University Libraries invites applications for our Access Services Librarian position. This is a full-time, tenure-track permanent library faculty position. We seek an enthusiastic, service-oriented individual to provide leadership and operational management for Access Services and its attendant units (Stacks, Inter-library Loan, Circulation, Course Reserves).
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to the Assistant Dean for Public Services, the Access Services Librarian performs a variety of oversight, supervision and operational duties requiring substantial knowledge of library systems and procedures to provide access to collections, process library materials, and assist patrons in the use of library resources. This highly visible position operates in a busy environment and involves actively assisting users and monitoring multiple library functions.
 - Provides strategic vision, leadership, and supervision of day-to-day activities in Access Services.
@@ -25,7 +25,7 @@ Reporting to the Assistant Dean for Public Services, the Access Services Librari
 - Contributes to scholarly communication efforts of Seton Hall University Libraries. Possible areas might include: copyright, authors’ rights, open publishing, license issues, reserve issues.
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 
@@ -45,16 +45,16 @@ Desired Qualifications:
 
 
 
-### Location###
+### Location   
 
 South Orange, New Jersey 07079
 
 
-### URL###
+### URL   
 
 [http://jobs.shu.edu/cw/en-us/job/493253/assistant-professorlibrarian](http://jobs.shu.edu/cw/en-us/job/493253/assistant-professorlibrarian)
 
-### To Apply###
+### To Apply   
 
 [http://jobs.shu.edu/cw/en-us/job/493253/assistant-professorlibrarian](http://jobs.shu.edu/cw/en-us/job/493253/assistant-professorlibrarian)
 

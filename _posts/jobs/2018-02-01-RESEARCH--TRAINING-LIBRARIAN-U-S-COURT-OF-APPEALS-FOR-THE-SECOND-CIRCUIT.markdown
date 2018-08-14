@@ -6,12 +6,12 @@ excerpt: "The Research and Training Librarian will be stationed at the Thurgood 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Research and Training Librarian will be stationed at the Thurgood Marshall Courthouse in New York, NY with travel to other locations as needed to assist with projects and other research matters. The Research and Training Librarian works as part of a circuit-wide team to provide substantive research expertise and training for judges, court staff, and the public. Typical job duties may include, but are not limited to, the tasks listed below. Assigned tasks may be changed to accommodate workload and organizational needs.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Provide legal research services to judges, law clerks, court staff, and the general public.
 
@@ -38,7 +38,7 @@ Provide legal research services to judges, law clerks, court staff, and the gene
 The Research and Training Librarian will report to the Head of Research and Education.
 
 
-### Qualifications###
+### Qualifications   
 
 
 • Master’s degree in Library or Information Science from an ALA-accredited program.
@@ -64,21 +64,21 @@ The Research and Training Librarian will report to the Head of Research and Educ
 • Excellent
 
 
-### Compensation###
+### Compensation   
 
 CL-27 ($56,063 - $91,183)
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://www.ca2.uscourts.gov/docs/Jobs/FY18-06_Research_Training_libr.pdf](http://www.ca2.uscourts.gov/docs/Jobs/FY18-06_Research_Training_libr.pdf)
 
-### To Apply###
+### To Apply   
 
 Please submit a cover letter and resume as a single PDF attachment by email to resumes@ca2.uscourts.gov, subject line: Research and Training Librarian, Reference No. FY 18-06. Only candidates selected for an interview will be notified and must travel at their own expense. While the position is open until filled, there is no guarantee that applications received after, January 31, 2018 will be reviewed. Interested applicants are strongly encouraged to apply immediately.
 

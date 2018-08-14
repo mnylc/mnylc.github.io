@@ -6,46 +6,46 @@ excerpt: "Under the direction of the Library Director or a librarian in a superv
 tag: job
 ---
 
-### Description###
+### Description   
 
 Under the direction of the Library Director or a librarian in a supervisory role, a Library Clerk carries out all functions at the circulation desk.
 
 
-### Responsibilities###
+### Responsibilities   
 
  In addition to understanding and utilizing the automated library system (Sirsi-Workflows), this individual also must have an understanding of the modules necessary for running reports and for cataloging. Hands-on activities such as processing and repair of print and electronic materials and assisting in the preparation of promotional materials and displays are required. It is essential that a library clerk demonstrate a welcoming, courteous manner in dealing with the public and a collaborative and supportive spirit with colleagues. 
 
 
-### Qualifications###
+### Qualifications   
 
 HS Graduate
 
 
-### Compensation###
+### Compensation   
 
 $15-$20 an hour depending on level of experience
 
 
-### Location###
+### Location   
 
 Pound Ridge, New York
 
 
-### URL###
+### URL   
 
 [http://www.poundridgelibrary.org/](http://www.poundridgelibrary.org/)
 
-### To Apply###
+### To Apply   
 
 Call or email for information
 
 
-### Company Information###
+### Company Information   
 
 Pound Ridge Library / 271 Westchester Avenue/ Pound Ridge, NY 10576
 
 
-### Contact Information###
+### Contact Information   
 
 Gloria Koster, Director (gkoster@wlsmail.org)
 

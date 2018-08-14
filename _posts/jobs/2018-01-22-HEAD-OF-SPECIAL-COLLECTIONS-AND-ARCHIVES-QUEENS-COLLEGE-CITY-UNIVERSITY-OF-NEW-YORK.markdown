@@ -6,14 +6,14 @@ excerpt: "Queens College Library seeks a collaborative, forward-thinking full-ti
 tag: job
 ---
 
-### Description###
+### Description   
 
 Queens College Library seeks a collaborative, forward-thinking full-time Assistant Professor (tenure track) or Instructor to serve as the Head of Special Collections and Archives, to provide leadership for the Library's Department of Special Collections and Archives at the Benjamin S. Rosenthal Library. The Special Collections unit comprises of historical materials of research value, while the Archives are the inactive college records worthy of preservation. The anticipated starting date is summer or fall 2018.
 
 Reporting to the Chief Librarian, the Head of Special Collections and Archives will envision and plan for the success of the department, including: planning, developing, and enforcing departmental policies and procedures; setting processing priorities, goals and timelines; assessing the archives' backlog; creating communications and marketing plans; managing donor relations (from solicitation to negotiation to managing relationships) and pursuing and managing successful grant and fundraising programs; managing and creating exhibitions; developing a close relationship between the department and the campus, including administrative offices (such as the President's Office, the Development  Office, and the Alumni Office),  academic departments (such as the Graduate School of Library and Information Studies and the History Department), and cultural partners (such as Queens Memory and the Louis Armstrong House and Museum); embedding archival collections, primary sources and digital scholarship into the college curricula; and establishing procedures for accepting historical records from campus departments. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The position will oversee staff who process collections, manage digital presences, and fulfill research requests. This position will also participate in the shared public service activities of providing reference assistance, teaching sessions and courses, and serving as a collection development bibliographer.
 
@@ -21,7 +21,7 @@ The successful candidate will be flexible and collaborative and engaged with eme
 
 
 
-### Qualifications###
+### Qualifications   
 
 MINIMUM QUALIFICATIONS
 All titles require a Master's in Library Science (MLS), Master's in Library Information Studies (MLIS), or closely related discipline from an ALA-accredited institution.  Also required is the ability to work with others for the good of the institution.
@@ -38,21 +38,21 @@ Excellent oral and communicative skills
 
 
 
-### Compensation###
+### Compensation   
 
 CUNY offers faculty a competitive compensation and benefits package covering health insurance, pension and retirement benefits, paid parental leave, and savings programs.  We also provide mentoring and support for research, scholarship, and publication as part of our commitment to ongoing faculty professional development.
 
 
-### Location###
+### Location   
 
 Flushing, Queens, New York City, New York
 
 
-### URL###
+### URL   
 
 [https://cuny.jobs/](https://cuny.jobs/)
 
-### To Apply###
+### To Apply   
 
 HOW TO APPLY
 If you are viewing this job posting on any website other than CUNYfirst, please follow the instructions below:
@@ -69,12 +69,12 @@ Visit the CUNY website to apply! [https://cuny.jobs/](https://cuny.jobs/)
 
 
 
-### Company Information###
+### Company Information   
 
 Rosenthal Library, Queens College, 65-30 Kissena Boulevard, Queens , NY 11367-1597. 718-997-3760
 
 
-### Contact Information###
+### Contact Information   
 
 Prof. Jennifer Oates, 225B Aaron Copland School of Music, Queens College. 718-997-3901. 
 

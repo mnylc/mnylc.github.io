@@ -6,7 +6,7 @@ excerpt: "CLRC seeks candidates for the position of Continuing Education and Eme
 tag: job
 ---
 
-### Description###
+### Description   
 
 CLRC seeks candidates for the position of Continuing Education and Emerging Technologies Librarian.
 
@@ -21,26 +21,26 @@ The Continuing Education and Emerging Technologies Librarian oversees the contin
 
 
 
-### Location###
+### Location   
 
 East Syracuse, NY
 
 
-### URL###
+### URL   
 
 [https://clrc.org/wp-content/uploads/2018/03/Continuing-Education-job-description.pdf](https://clrc.org/wp-content/uploads/2018/03/Continuing-Education-job-description.pdf)
 
-### To Apply###
+### To Apply   
 
 Please submit cover letter and resume to mwildman@clrc.org. Review of applications will begin Monday, April 16, 2018.
 
 
-### Company Information###
+### Company Information   
 
 [https://clrc.org](https://clrc.org)
 
 
-### Contact Information###
+### Contact Information   
 
 Marc Wildman, CLRC Executive Director, at mwildman@clrc.org or 315-446-5446
 

@@ -6,14 +6,14 @@ excerpt: "Columbia University Libraries invites applications for the position of
 tag: job
 ---
 
-### Description###
+### Description   
 
 Columbia University Libraries invites applications for the position of Technical Assistant VI. Under the direction of the Manager of the Digital Imaging Lab within the Preservation and Digital Conversion Department, the incumbent will digitize a series of fragile and rare Muslim Manuscripts held by Columbia University Libraries. This is a temporary, grant funded, 3-year position with possibility of extension. 
 
 This grant funded position begins April 2, 2018 and has an end date of March 31, 2021, with possibility of extension.  
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities include: 
 -Digitizing rare, fragile and brittle bound volumes and/or loose manuscripts as 
@@ -27,7 +27,7 @@ needed for The Muslim World Manuscript Project.
 *Interviews will include a Photoshop and photography test, and will require a portfolio review of related photography work.* 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 - High School Diploma or equivalent  
@@ -47,21 +47,21 @@ Preferred Qualifications:
 - Experience using flatbed scanner or other scanning equipment.
 
 
-### Compensation###
+### Compensation   
 
 	$22.28/hour ($21.72/hour for new hires)  
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://jobs.columbia.edu/applicants/Central?quickFind=167187](https://jobs.columbia.edu/applicants/Central?quickFind=167187) 
 
-### To Apply###
+### To Apply   
 
 [https://jobs.columbia.edu/applicants/Central?quickFind=167187](https://jobs.columbia.edu/applicants/Central?quickFind=167187) 
 

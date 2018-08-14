@@ -6,12 +6,12 @@ excerpt: "The Robert W. Van Houten Library at NJIT is looking for a highly motiv
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Robert W. Van Houten Library at NJIT is looking for a highly motivated, energetic and customer service orientated Temporary Reference Librarian to provide reference services, prepare and teach information literacy skills in the disciplines covered by the university.  Some special projects may be assigned. This position reports to the Director of Reference.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 1.     Provides reference services to students, faculty, and staff in one-on-one and small groups in person and online.
@@ -25,7 +25,7 @@ The Robert W. Van Houten Library at NJIT is looking for a highly motivated, ener
 5.     Works on special projects at the discretion of the Director of Reference.
 
 
-### Qualifications###
+### Qualifications   
 
 
 1.     An ALA accredited Master’s in Library or Information Science, or near completion.
@@ -47,28 +47,28 @@ The Robert W. Van Houten Library at NJIT is looking for a highly motivated, ener
 9.     Able to work in teams and independently.
 
 
-### Compensation###
+### Compensation   
 
 $30-$35.00 per hour depending on experience.
 
 
-### Location###
+### Location   
 
 Newark, NJ
 
 
-### URL###
+### URL   
 
 [http://jobs.njit.edu](http://jobs.njit.edu)
 
-### To Apply###
+### To Apply   
 
 Interested candidates are encouraged to visit [http://jobs.njit.edu](http://jobs.njit.edu) and search for “req83” where a detailed position description and qualification are posted. Applications will be accepted until the position is filled. Only candidates of interest will be contacted.
 
 Review of resumes will commence immediately until the position is filled.
 
 
-### Company Information###
+### Company Information   
 
 New Jersey Institute of Technology
 Robert Van Houten Library

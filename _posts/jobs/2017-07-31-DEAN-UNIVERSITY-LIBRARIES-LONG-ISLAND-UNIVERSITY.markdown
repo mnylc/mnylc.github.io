@@ -6,7 +6,7 @@ excerpt: "Long Island University - Dean of University Libraries ([http://apptrkr
 tag: job
 ---
 
-### Description###
+### Description   
 
 Long Island University - Dean of University Libraries ([http://apptrkr.com/1048376)](http://apptrkr.com/1048376))
 
@@ -32,7 +32,7 @@ Long Island University is an Affirmative Action /Equal Opportunity Employer
 
 
 
-### Qualifications###
+### Qualifications   
 
 Qualifications:
 
@@ -64,14 +64,14 @@ Library’s ongoing growth and development in a complex digital environment
 
 
 
-### Location###
+### Location   
 
 Greenvale
 
 
 
 
-### To Apply###
+### To Apply   
 
 [http://apptrkr.com/1048376](http://apptrkr.com/1048376)
 

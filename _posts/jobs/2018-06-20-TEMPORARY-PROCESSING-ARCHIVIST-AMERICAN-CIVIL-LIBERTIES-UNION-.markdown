@@ -8,7 +8,7 @@ tag: job
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 FULL-TIME TEMPORARY OPPORTUNITY
 Archives and Records Management Department
@@ -33,7 +33,7 @@ o	Providing assistance to ACLU staff by responding to circulation requests and r
 
 
 
-### Qualifications###
+### Qualifications   
 
 Experience and Qualifications:
 
@@ -51,21 +51,21 @@ Experience and Qualifications:
 
 
 
-### Compensation###
+### Compensation   
 
 Salary commensurate with experience 
 
 
-### Location###
+### Location   
 
 New York, New York 
 
 
-### URL###
+### URL   
 
 N/A 
 
-### To Apply###
+### To Apply   
 
 HOW TO APPLY
 Please submit a resume and cover letter describing your interest and relevant experience to archivesjobad@aclu.org with “Temporary Processing Archivist” in the subject line.  
@@ -78,12 +78,12 @@ Applications will be accepted until the position is filled.
 
 
 
-### Company Information###
+### Company Information   
 
 125 Broad Street, 18th Floor, NY, NY  10004
 
 
-### Contact Information###
+### Contact Information   
 
 Lisa Moguel 212-519-7837
 

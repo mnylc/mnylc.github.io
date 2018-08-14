@@ -6,12 +6,12 @@ excerpt: "The Systems/Reference Librarian will report directly to the Dean of Th
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Systems/Reference Librarian will report directly to the Dean of The College of New Rochelle Mother Irene Gill Memorial Library.  H/She will be responsible for research and recommendation, implementation, and evaluation of current and future library systems.   H/She will provide technical expertise and support, administration, management, and training on library technologies to ensure seamless access to library services and resources, participate and/or chair relevant library and college-wide committees, participate in reference and research program, and participate in the development, approval, review, revision, establishment and promotion of library information literacy programs.  
 
 
-### Responsibilities###
+### Responsibilities   
 
 Systems:
 1.	Research, implement, maintain, assess and evaluate for current and future library systems.
@@ -36,7 +36,7 @@ Reference:
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	A Master of Science in Library Science from an ALA accredited program (second masters preferred)
@@ -74,16 +74,16 @@ Preferred Qualifications
 
 
 
-### Location###
+### Location   
 
 New Rochelle, NY
 
 
-### URL###
+### URL   
 
 [http://www.cnr.edu/employment-opportunities](http://www.cnr.edu/employment-opportunities)
 
-### To Apply###
+### To Apply   
 
 To apply, please send one PDF attachment that includes letter of interest (addressed to Dean Ana E. Fontoura), C.V., and the contact information for three references who can speak to your professional qualifications, to:
 

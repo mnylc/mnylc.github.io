@@ -6,14 +6,14 @@ excerpt: "Reporting to the Chief Library Director, the Assistant Library Directo
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Chief Library Director, the Assistant Library Director for Outreach and & Public Services leads and provides vision for public services operations, overseeing customer facing service points, resource sharing, outreach initiatives, marketing campaigns, and the library facility. The assistant library director leads all media communications including social media presence. 
 	
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Establish strategic partnerships internally (campus departments, student groups), as well as with external partners by identifying outreach opportunities. Coordinate library-wide initiatives to promote and increase awareness of library services and programs.
@@ -40,7 +40,7 @@ Reporting to the Chief Library Director, the Assistant Library Director for Outr
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Master's degree earned from an ALA-accredited Library/Information Science program
@@ -66,33 +66,33 @@ Reporting to the Chief Library Director, the Assistant Library Director for Outr
 
 
 
-### Compensation###
+### Compensation   
 
 Competitive salary commensurate with experience 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://icahn.mssm.edu/about/ait/levy-library](http://icahn.mssm.edu/about/ait/levy-library)
 
-### To Apply###
+### To Apply   
 
 Please send cover letter and resume to Gali Halevi, Chief Director of Mount Sinai Health System Libraries: Gali.Halevi@mssm.edu 
 
 
-### Company Information###
+### Company Information   
 
 The Levy Library supports the education, research, and clinical information needs of the Mount Sinai Health System, including the Icahn School of Medicine at Mount Sinai. The Library provides an inviting environment designed to facilitate research, study, and collaboration. It offers an extensive collection of biomedical databases, e-journals, e-books, and print resources; and serves as a resource on information retrieval, information management and scholarly communication issues.
 
 The Library is a unit of Mount Sinai's Academic Informatics and Technology division. Academic Informatics and Technology also encompasses The Mount Sinai Archives and Records Management department; the Instructional Technology and Learning Systems team and the Academic Support and Learning Environments group.
 
 
-### Contact Information###
+### Contact Information   
 
 Gali Halevi, PhD 
 Chief Director, Mount Sinai Health System Libraries 

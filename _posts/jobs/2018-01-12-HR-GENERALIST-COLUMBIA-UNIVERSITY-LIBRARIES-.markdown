@@ -6,7 +6,7 @@ excerpt: "The Columbia University Rare Book and Manuscript Library (RBML) seeks 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Columbia University Rare Book and Manuscript Library (RBML) seeks an experienced professional to arrange and describe Chinese language archives and manuscript material in all formats held by the Rare Book & Manuscript Library according to local and national best practices. 
 
@@ -19,7 +19,7 @@ As one of the world's leading research universities, Columbia University in the 
 Columbia University is an Equal Opportunity/Affirmative Action Employer and strongly encourages individuals of all backgrounds and cultures to consider this position. We offer a salary commensurate with qualifications and experience.  
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to the Head of Archives Processing, responsibilities include: 
 
@@ -36,7 +36,7 @@ Reporting to the Head of Archives Processing, responsibilities include:
 - Administrative Tasks: Participate in planning and strategy meetings for the general staff and various smaller groups. 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 1. MLS or PhD or equivalent
@@ -57,26 +57,26 @@ Preferred Qualifications:
 5. Experience supervising staff  
 
 
-### Compensation###
+### Compensation   
 
 We offer a salary commensurate with qualifications and experience.  
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://academicjobs.columbia.edu/applicants/Central?quickFind=65729](http://academicjobs.columbia.edu/applicants/Central?quickFind=65729)
 
-### To Apply###
+### To Apply   
 
 [http://academicjobs.columbia.edu/applicants/Central?quickFind=65729](http://academicjobs.columbia.edu/applicants/Central?quickFind=65729)
 
 
-### Company Information###
+### Company Information   
 
 Columbia University Libraries, Rare Book and Manuscript Library
 

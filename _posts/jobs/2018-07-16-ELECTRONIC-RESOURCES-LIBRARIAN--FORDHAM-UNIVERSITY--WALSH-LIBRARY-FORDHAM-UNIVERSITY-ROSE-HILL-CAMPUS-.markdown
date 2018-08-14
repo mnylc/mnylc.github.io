@@ -6,12 +6,12 @@ excerpt: "The Fordham University Libraries are seeking applications for the posi
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Fordham University Libraries are seeking applications for the position of Electronic Resources Librarian. Under the general direction of the Head of the Serials & Electronic Resources Department, the Electronic Resources Librarian provides support for managing the complex functions of electronic resources and its services acquired by the Library. As part of a departmental e-resources team, carries out responsibilities to provide effective coordination of e-resources collecting, maintenance and ongoing access, with the emphasis on databases and management tools. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Provides ongoing maintenance of databases to ensure continued access throughout the life cycle; checks search capabilities and website display; claims broken links or missing content; assists in annual renewals.
@@ -34,7 +34,7 @@ The Fordham University Libraries are seeking applications for the position of El
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	American Library Association accredited Master’s Degree
@@ -59,31 +59,31 @@ The Fordham University Libraries are seeking applications for the position of El
 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience
 
 
-### Location###
+### Location   
 
 Bronx, New York
 
 
-### URL###
+### URL   
 
 [https://www.fordham.edu](https://www.fordham.edu)
 
-### To Apply###
+### To Apply   
 
 Please send resume and cover letter to Lynn Parliman  parliman@fordham.edu
 
 
-### Company Information###
+### Company Information   
 
 Fordham University, Walsh Library, 441 East Fordham Road, Bronx, NY 10458
 
 
-### Contact Information###
+### Contact Information   
 
 Lynn Parliman, Head - Serials & Electronic Resources (no phone calls please)
 

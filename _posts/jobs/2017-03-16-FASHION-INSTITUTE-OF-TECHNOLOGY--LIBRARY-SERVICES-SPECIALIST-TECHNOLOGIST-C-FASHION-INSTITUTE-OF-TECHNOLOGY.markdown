@@ -6,12 +6,12 @@ excerpt: "The Library Services Specialist provides public service desk coverage,
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Library Services Specialist provides public service desk coverage, supports the Library's mission and daily operations, and updates and creates content for the unit's web pages. This position is responsible for opening the Library Mondays-Fridays and requires an early morning schedule. Specific duties may include, but are not limited to: Answer patron queries in person or on the phone, regarding library resources, services and campus information; Page materials requested by library patrons and communicate access policies; Assist patrons with the use of print and online catalogs; General bibliographic and physical maintenance of library resources; Create user-friendly user online interfaces, and work on digitization projects; Work in various capacities outside of home unit to accomplish library wide initiatives, such as work at any Library service desk to fill coverage gaps and support marketing and promotion activities. Strong technology skills and knowledge of web design and CMS is a must. Excellent benefits.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Provide public service desk coverage and support the unit's mission and daily operations, update and create content for the unit's web pages. This position is responsible for opening the Library Mondays-Fridays.
 
@@ -59,7 +59,7 @@ Department: Library
 Schedule: Monday-Friday 7:45am-3:45pm
 
 
-### Qualifications###
+### Qualifications   
 
 Bachelor's degree or completion of four years in an accredited post secondary institution of learning and two years of related experience or Associate's degree or completion of two years in an accredited post secondary institution of learning and four years of related experience. Ability to learn new technologies quickly and fluently. Requires advanced knowledge of web page design and proficient in the MS Office Suite, Adobe Photoshop, Illustrator, HTML, CSS, Flash, Dreamweaver, InDesign. Student-centered service orientation to assist students at busy service desk and increase access to library collections electronically and remotely. Background in design and knowledge of such programs as Illustrator and Photoshop
 
@@ -73,16 +73,16 @@ Work is performed under typical library conditions with requirements for frequen
 
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=82068](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=82068)
 
-### To Apply###
+### To Apply   
 
 In order to be considered for the position, you must submit the following documents online:
 * Resume 
@@ -96,7 +96,7 @@ For more information about FIT, please visit FIT's website at: [http://www.fitny
 FIT is firmly committed to creating an environment that will attract and retain people of diverse racial and cultural backgrounds. By providing a learning and working environment that encourages, utilizes, respects, and appreciates the full expression of every individual's ability, the FIT community fosters its mission and grows because of its rich, pluralistic experience. FIT is committed to prohibiting discrimination, whether based on race, national origin, gender, religion, ethnic background, age, disability, marital status, sexual orientation, or any other criterion prohibited by applicable federal, state, or local laws. FIT is committed to providing equal opportunity in employment, including the opportunity for upward mobility for all qualified individuals. Applications from minorities, women, veterans and persons with disabilities are encouraged.
 
 
-### Company Information###
+### Company Information   
 
 The Fashion Institute of Technology (FIT), an internationally renowned college of art and design, business and technology, of the State University of New York, invites nominations and applications for a Library Services Specialist(Technologist C) in the Gladys Marcus Library at FIT.
 

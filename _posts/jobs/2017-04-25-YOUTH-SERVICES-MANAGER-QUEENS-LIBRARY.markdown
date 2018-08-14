@@ -8,7 +8,7 @@ tag: job
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Duties and Responsibilities:
 The Youth Services Manager is responsible for managing Youth Services operations at the Flushing community library. In the absence of the Flushing Director and other members of the management team, assumes responsibility for managing the library including overall direction of staff.  
@@ -25,7 +25,7 @@ The schedule for this position will include Saturdays and evenings.
 
 
 
-### Qualifications###
+### Qualifications   
 
 QUALIFICATIONS:
 - Requires an ALA accredited Master’s degree, and a New York State Public Librarian’s Certificate. Experience as a Young Adult/Children’s Librarian preferred.
@@ -40,16 +40,16 @@ Queens Library is the proud recipient of the following awards: 2009 Library Jour
 
 
 
-### Location###
+### Location   
 
 Flushing, New York
 
 
-### URL###
+### URL   
 
 [http://www.queenslibrary.org/](http://www.queenslibrary.org/)
 
-### To Apply###
+### To Apply   
 
 TO APPLY:
 Please send your resume and cover letter to QLcareers@queenslibrary.org and reference “Youth Services Manager - External” in the subject line. Resumes will only be accepted by email.  

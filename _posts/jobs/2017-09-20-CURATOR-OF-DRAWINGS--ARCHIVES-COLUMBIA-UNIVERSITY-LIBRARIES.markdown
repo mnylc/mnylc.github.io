@@ -6,13 +6,13 @@ excerpt: "Columbia University Libraries seeks an expert, creative, and collabora
 tag: job
 ---
 
-### Description###
+### Description   
 
 Columbia University Libraries seeks an expert, creative, and collaborative Curator of Drawings & Archives, reporting to the Avery Library Director, to provide vision, leadership and administration for collection development and resource management of the more than 2.5 million architectural drawings and records of pre-eminent American architects, including the expansive Frank Lloyd Wright Foundation Archives.
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 Collection Development & Management
@@ -25,7 +25,7 @@ Awareness, Outreach & Instruction
 The Curator will lead efforts to promote and expand the use of the collection through awareness, exhibits, public programs, outreach and instructional activities; assist in research support in person and via telephone, email, or letter and on-site use of collection materials; build an instructional services program for the collection with emphasis on service to the teaching and research programs of the Graduate School of Architecture, Planning and Preservation (GSAPP) and the Department of Art History and Archaeology; and promote awareness and use of the collection by the international architectural community including collaboration on exhibition and loans.
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications: 
 o	Advanced degree in architecture, architectural history or related disciplines, or demonstration of subject expertise in scholarly or curatorial practice related to architectural disciplines. 
@@ -44,26 +44,26 @@ o	Personal commitment to service and professional growth and development.
 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience
 
 
-### Location###
+### Location   
 
 New York, NY USA
 
 
-### URL###
+### URL   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=65186](https://academicjobs.columbia.edu/applicants/Central?quickFind=65186)
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=65186](https://academicjobs.columbia.edu/applicants/Central?quickFind=65186)
 
 
-### Company Information###
+### Company Information   
 
 Avery Architectural & Fine Arts Library, Columbia University Libraries
 

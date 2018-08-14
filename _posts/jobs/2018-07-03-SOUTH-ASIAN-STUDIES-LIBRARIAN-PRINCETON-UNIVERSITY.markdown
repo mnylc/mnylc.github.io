@@ -6,7 +6,7 @@ excerpt: "Princeton University seeks a collaborative, energetic, creative, servi
 tag: job
 ---
 
-### Description###
+### Description   
 
 Princeton University seeks a collaborative, energetic, creative, service-oriented subject specialist to provide outstanding library services in the interdisciplinary field of South Asian Studies (SAS) and to shape & enrich its growing library collections. Reporting to Assistant University Librarian for Collection Development, the South Asian Studies Librarian is a key member of the area studies and humanities team in the Collection Development Department. Responsible for identifying and acquiring materials from and about South Asia in a wide range of subjects and formats, from all parts of the world, in western languages and select languages of the region. Functions as the key South Asian Studies resource person in the Library system, with broad expertise to assist students and faculty in teaching and researching any aspect of this field. Works closely with faculty, visiting scholars, students and staff in the South Asian Studies Program, the Center for Global India, and all other faculty and students working on South Asia, providing liaison, specialized research consultation and instruction, reference and other outreach initiatives; creates online guides to assist researchers. 
 
@@ -23,7 +23,7 @@ The successful candidate will be appointed to an appropriate Librarian rank depe
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 
@@ -64,14 +64,14 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 Princeton, New Jersey, USA
 
 
 
 
-### To Apply###
+### To Apply   
 
 [https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=7462](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=7462) 
 

@@ -6,12 +6,12 @@ excerpt: "Immediate opening for an experienced corporate archivist to work full-
 tag: job
 ---
 
-### Description###
+### Description   
 
 Immediate opening for an experienced corporate archivist to work full-time (37.5 hours/week) on a temporary project in the Central CT area. This is a continuation of an established, ongoing project, and the term is expected to last for approximately 6 months, with possible extension.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Reporting to the Library Director, responsible for overseeing the accessioning, arrangement, description, preservation and provision of access to archival holdings. In collaboration with the Library staff and other departments, will oversee the selection, appraisal, and acquisition of new collections
@@ -36,7 +36,7 @@ Immediate opening for an experienced corporate archivist to work full-time (37.5
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	4 + years’ experience
@@ -73,27 +73,27 @@ Preferred experience/background:
 
 
 
-### Compensation###
+### Compensation   
 
 DOE. This position does include benefits.
 
 
-### Location###
+### Location   
 
 Central Connecticut, USA
 
 
-### URL###
+### URL   
 
 [http://www.dgiinc.com](http://www.dgiinc.com)
 
-### To Apply###
+### To Apply   
 
 Email cover letter and resume to Ms. Colleen Collins, The Donohue Group, Inc., at dgijobs@dgiinc.com
 
 
 
-### Company Information###
+### Company Information   
 
 The Donohue Group, Inc. / 41 Mechanic Street / Windsor, CT  06095
 

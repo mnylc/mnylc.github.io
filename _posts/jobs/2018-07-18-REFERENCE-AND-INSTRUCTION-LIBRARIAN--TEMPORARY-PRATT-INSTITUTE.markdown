@@ -6,7 +6,7 @@ excerpt: "POSITION SUMMARY: Under the general supervision of the Chair of Librar
 tag: job
 ---
 
-### Description###
+### Description   
 
 POSITION SUMMARY:
 
@@ -15,7 +15,7 @@ Under the general supervision of the Chair of Library Faculty, the Reference and
 Located on a historic 25-acre campus in the culturally diverse neighborhood of Clinton Hill, Brooklyn, Pratt recognizes the strength that stems from a diversity of perspectives, ideas, backgrounds, approaches, and experiences. Together, we aspire to be a place that welcomes and encourages individuals of all backgrounds to contribute to and be a part of Pratt culture.
 
 
-### Responsibilities###
+### Responsibilities   
 
 JOB RESPONSIBILITIES:
 
@@ -30,7 +30,7 @@ JOB RESPONSIBILITIES:
 
 
 
-### Qualifications###
+### Qualifications   
 
 EXPERIENCE & QUALIFICATIONS:
 Education
@@ -70,21 +70,21 @@ PI103437535
 
 
 
-### Compensation###
+### Compensation   
 
 65000/year
 
 
-### Location###
+### Location   
 
 Brooklyn New York 11205 United States
 
 
-### URL###
+### URL   
 
 [http://www.Click2Apply.net/hdbx38xn826qf9vj](http://www.Click2Apply.net/hdbx38xn826qf9vj)
 
-### To Apply###
+### To Apply   
 
 Apply Here: [http://www.Click2Apply.net/hdbx38xn826qf9vj](http://www.Click2Apply.net/hdbx38xn826qf9vj)
 

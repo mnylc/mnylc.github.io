@@ -6,12 +6,12 @@ excerpt: "Reporting to the Director and working closely with other librarians an
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Director and working closely with other librarians and staff, the Librarian will be responsible for all professional cataloging and interlibrary loan functions of the library. The librarian will provide reference and information services in response to the information needs of the organization's library users.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Catalogs all library materials using the library automation system (Sirsi), OCLC applications, National Library of Medicine subject headings and classification system. Uses current and evolving cataloging principles such as MARC, RDA, and BibFrame to receive new items, download and edit bibliographic records of those items, and processes the items for use by the library patrons.
@@ -25,7 +25,7 @@ Reporting to the Director and working closely with other librarians and staff, t
 • 	Other duties, as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 Education: Master's Degree in Library Science (MLS or Library and Information Science (MLIS), required. 
 
@@ -47,23 +47,23 @@ Skills:
 
 
 
-### Location###
+### Location   
 
 Mineola, NY, USA
 
 
-### URL###
+### URL   
 
 [http://www.winthrop.org/library](http://www.winthrop.org/library)
 
-### To Apply###
+### To Apply   
 
 Please submit your application online via NYU Winthrop Hospital’s Career Website: [http://www.winthrop.org/Careers](http://www.winthrop.org/Careers) 
 
 To locate the position, please search for Job Posting Number: 17-22025
 
 
-### Company Information###
+### Company Information   
 
 NYU Winthrop Hospital is a 591-bed university-affiliated medical center and New York State-designated Regional Trauma Center. NYU Winthrop proudly offers sophisticated diagnostic and therapeutic care in virtually every specialty and subspecialty of medicine and surgery.
 
@@ -74,7 +74,7 @@ NYU Winthrop has a vibrant multi-faceted research program. As part of its missio
 Ever changing and growing with the diverse community it serves, NYU Winthrop Hospital is, in many ways, a unique institution, simultaneously large and small, regional as well as local. We successfully blend the progressive philosophy, sophistication and advances of a teaching and research institution with a very personal approach to patient care – an approach that has become the cornerstone of our organization.
 
 
-### Contact Information###
+### Contact Information   
 
 Barnaby Nicolas, bnicolas@nyuwinthrop.org, 516-663-2783
 

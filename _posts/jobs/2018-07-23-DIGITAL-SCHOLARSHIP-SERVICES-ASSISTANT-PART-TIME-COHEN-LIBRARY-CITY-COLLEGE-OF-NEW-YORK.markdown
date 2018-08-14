@@ -6,12 +6,12 @@ excerpt: "The Digital Scholarship Services (DSS) Assistant works closely with th
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Digital Scholarship Services (DSS) Assistant works closely with the Digital Scholarship Librarian to provide support for an array of DSS projects and collaborations. Duties include but are not limited to:
 
 
-### Responsibilities###
+### Responsibilities   
 
 Open Educational Resources (OER) - CUNY’s Open Educational Resources Initiative has been growing rapidly. The DSS Assistant, with support from the CCNY Provost office:
 ▪	Collects and maintains detailed records of OER courses offered each semester
@@ -35,7 +35,7 @@ Additionally, DSS Assistant:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Skills and Personal Attributes:
 ●	Able to work independently with little supervision
@@ -48,19 +48,19 @@ Required Skills and Personal Attributes:
 ●	Excellent computer skills
 
 
-### Compensation###
+### Compensation   
 
 Compensation commensurate with experience.
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
 
 
-### To Apply###
+### To Apply   
 
 To apply, email oer@ccny.cuny.edu by August 3, 2018.
 

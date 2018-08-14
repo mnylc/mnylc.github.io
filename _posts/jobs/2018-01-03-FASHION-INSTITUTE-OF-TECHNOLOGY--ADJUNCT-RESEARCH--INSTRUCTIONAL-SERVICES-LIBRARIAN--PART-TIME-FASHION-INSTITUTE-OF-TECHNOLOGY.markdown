@@ -6,7 +6,7 @@ excerpt: "About Fashion Institute of Technology: The Fashion Institute of Techno
 tag: job
 ---
 
-### Description###
+### Description   
 
 About Fashion Institute of Technology:
 The Fashion Institute of Technology (FIT), an internationally renowned college of art and design, business and technology, of the State University of New York, invites nominations and applications for a Part Time Research & Instructional Services Librarian in the Gladys Marcus Library at FIT
@@ -117,11 +117,11 @@ FIT is firmly committed to creating an environment that will attract and retain 
 
 
 
-### URL###
+### URL   
 
 [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=93033](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=93033)
 
-### To Apply###
+### To Apply   
 
 [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=93033](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=93033)
 

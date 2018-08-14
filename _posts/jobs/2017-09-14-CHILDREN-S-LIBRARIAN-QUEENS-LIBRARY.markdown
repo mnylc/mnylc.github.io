@@ -8,7 +8,7 @@ tag: job
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Performs excellent internal and external customer service and library service in response to the information needs of library users and the overall community with an emphasis on children.  
@@ -43,7 +43,7 @@ tag: job
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Must have a MLS/MLIS degree from an ALA-accredited library school.  
@@ -58,19 +58,19 @@ Queens Library is an equal opportunity employer.
 
 
 
-### Location###
+### Location   
 
 Queens, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 To Apply: Email your cover letter and resume to QLcareers@queenslibrary.org referencing “Children’s Librarian” in the subject line. Resumes will only be accepted by email.  
 
 
-### Company Information###
+### Company Information   
 
 Queens Library is a national and international leader in the delivery of public library service. Innovation and leadership are the hall marks of Queens Library. Our mission is to meet the needs of the community by offering lifelong learning opportunities and ensuring there is a positive impact in the community. Queens Library fulfills its goals by embracing innovation and change. With a history of offering pioneering programs that meet the diverse needs of the most diverse county in the US, Queens Library is a place where innovation and leaders are welcomed. Queens Library a private, non-profit corporation located in Queens, New York and includes 65 service locations with 1,700 employees. 
 

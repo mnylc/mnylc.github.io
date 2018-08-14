@@ -6,7 +6,7 @@ excerpt: "Reports to the Library Director and Head of Access, Information and Co
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reports to the Library Director and Head of Access, Information and Collection Services and Operations. 
 
@@ -19,7 +19,7 @@ Serves as conduit for updating Fordham’s scholar community on national and int
 Monitors Copyright compliance on scholarly communication projects and venues sponsored by the Fordham University Libraries and published via the Digital Repository BePress Digital Commons platform. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Oversees library resources and services specific to distance learning, including the selection of e-resources and development of new services as required by new or changing academic programs. 
 
@@ -54,7 +54,7 @@ Liaison with academic departments, university administration, student groups, an
 Initiate and innovate, applying new approaches of traditional and technological means to advance academic librarianship to the university community. 
 
 
-### Qualifications###
+### Qualifications   
 
 ALA accredited M.LS; preferred at least three years’ experience as a professional librarian providing reference and instructional services in an academic library. Subject Masters in relevant field preferred. 
 
@@ -63,31 +63,31 @@ Proven track record in successful grant writing for library initiatives, scholar
 Ability to work collaboratively with faculty, students, administrators and library staff; excellent communication skills – both spoken and written; ability to adapt to shifting needs and priorities; a strong commitment to public and inter-departmental service. Willingness to perform assignments at all Fordham campuses required. Knowledge of and practical experience in field related to academic publishing a plus. Project management experience very desirable. 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with Experience
 
 
-### Location###
+### Location   
 
 140 W 62nd street, New York NY 10023
 
 
-### URL###
+### URL   
 
 [https://www.fordham.edu/downloads/file/9173/scholarly_communication_and_distance_learning_librarian_a03070_92017pdf](https://www.fordham.edu/downloads/file/9173/scholarly_communication_and_distance_learning_librarian_a03070_92017pdf)
 
-### To Apply###
+### To Apply   
 
 Submit letter and resume to: Nick Alongi, Head of Access, Information and Collection Services, and Library Operations (nalongi@fordham.edu)
 
 
-### Company Information###
+### Company Information   
 
 Fordham University (Lincoln Center Campus, Quinn Library / 140 W 62nd street, New York NY 10023)
 
 
-### Contact Information###
+### Contact Information   
 
 Submit letter and resume to: Nick Alongi, Head of Access, Information and Collection Services, and Library Operations (nalongi@fordham.edu)
 

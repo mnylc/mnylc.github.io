@@ -6,7 +6,7 @@ excerpt: "The Art Assistant Digital Curator position will report to the Digital 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Art Assistant Digital Curator position will report to the Digital Archivist regarding the enhancement and development of digital assets pertaining to archival art collections.
 
@@ -15,7 +15,7 @@ The Center for Puerto Rican Studies is a research institute dedicated to the stu
 Hunter College, located in the heart of Manhattan, is the largest college in the City University of New York (CUNY). Founded in 1870, it is also one of the oldest public colleges in the country.
 
 
-### Responsibilities###
+### Responsibilities   
 
 * Curation of the Centro Digital Art Humanities Exhibitions.
 
@@ -27,7 +27,7 @@ Hunter College, located in the heart of Manhattan, is the largest college in the
 
 
 
-### Qualifications###
+### Qualifications   
 
 * Art and or art/history background and knowledge, specifically, knowledge of Puerto Rican visual art and artists.
 
@@ -47,21 +47,21 @@ Hunter College, located in the heart of Manhattan, is the largest college in the
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://bit.ly/1UZfySF](http://bit.ly/1UZfySF)
 
-### To Apply###
+### To Apply   
 
 Forward cover letter, resume and contact information for 2 professional references via email to  José deJesús, Associate Director for Operations, Center for Puerto Rican Studies, Hunter College, CUNY at jdejesus@hunter.cuny.edu  . The subject line of the email should read: Art Assistant Digital Curator   Telephone queries: 212-772-5706.
 
 
-### Company Information###
+### Company Information   
 
 Center for Puerto Rican Studies, Hunter College, CUNY | 695 Park Ave. | Rm. E1429 | New York, NY | 10065 | United States
 

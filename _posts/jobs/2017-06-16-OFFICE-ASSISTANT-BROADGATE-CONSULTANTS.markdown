@@ -6,7 +6,7 @@ excerpt: "Office Assistant needed for the office of a consulting firm. We are lo
 tag: job
 ---
 
-### Description###
+### Description   
 
 Office Assistant needed for the office of a consulting firm. We are looking for a very independent worker that can multi task, organized, and attentive to detail.Ability to generate written communication and review written communication, and other required office equipment.
  
@@ -29,34 +29,34 @@ Reply with resume.
 
 
 
-### Qualifications###
+### Qualifications   
 
 Student
 
 
-### Compensation###
+### Compensation   
 
 $14 per hour
 
 
-### Location###
+### Location   
 
 1 Exchange Plz Ste 55, New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 johnsofficemail@allianceconsultinggroupinc.com
 
 
-### Company Information###
+### Company Information   
 
 1 Exchange Plz Ste 55, (212) 232-2222.
 
 
-### Contact Information###
+### Contact Information   
 
 johnsofficemail@allianceconsultinggroupinc.com
 

@@ -6,7 +6,7 @@ excerpt: "For nearly 100 years, the ACLU has been our nation’s guardian of lib
 tag: job
 ---
 
-### Description###
+### Description   
 
 For nearly 100 years, the ACLU has been our nation’s guardian of liberty, working in courts, legislatures, and communities to defend and preserve the individual rights and liberties guaranteed by the Constitution and laws of the United States.  Whether it’s ending mass incarceration, achieving full equality for the LGBT community, advancing racial justice, establishing new privacy protections for our digital age, or preserving the right to vote or the right to have an abortion, the ACLU takes up the toughest civil liberties and civil rights cases and issues to defend all people from government abuse and overreach. With more than one million members, activists, and supporters, the ACLU is a nationwide organization that fights tirelessly in all 50 states, Puerto Rico, and Washington, D.C., for the principle that every individual’s rights must be protected equally under the law, regardless of race, religion, gender, sexual orientation, gender identity or expression, age, disability, national origin, record of arrest or conviction.
 
@@ -16,7 +16,7 @@ The mission of the ACLU’s Archives and Records Management Department is to sup
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Roles & Responsibilities:
 
@@ -30,7 +30,7 @@ o	Providing assistance to ACLU staff by responding to circulation requests and r
 
 
 
-### Qualifications###
+### Qualifications   
 
 Experience and Qualifications:
 
@@ -48,21 +48,21 @@ Experience and Qualifications:
 
 
 
-### Compensation###
+### Compensation   
 
 Salary commensurate with experience 
 
 
-### Location###
+### Location   
 
 New York City 
 
 
-### URL###
+### URL   
 
 N/A 
 
-### To Apply###
+### To Apply   
 
 HOW TO APPLY
 Please submit a resume and cover letter describing your interest and relevant experience to archives@aclu.org with “Archives and Records Management” in the subject line.  
@@ -83,7 +83,7 @@ The ACLU comprises two separate corporate entities, the American Civil Liberties
 
 
 
-### Company Information###
+### Company Information   
 
 125 Broad Street, 18th Floor, NY, NY 10004
 

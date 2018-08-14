@@ -6,7 +6,7 @@ excerpt: "Head, Donald E. Stokes Library Princeton University Library Princeton,
 tag: job
 ---
 
-### Description###
+### Description   
 
 Head, Donald E. Stokes Library 
 Princeton University Library
@@ -26,12 +26,12 @@ This position is subject to the University's background check policy. Princeton 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 This librarian is also responsible for planning and direction for all aspects of the Stokes Library, including oversight and development of the staff of 2 librarians, 3 support staff, 1 administrative staff and numerous student assistants, and fosters a positive and collaborative environment for research consultation and collection development. This position works closely with the two Stokes librarians who support the Office of Population Research, other social sciences librarians and data specialists, and subject liaisons in other academic areas related to the School’s multidisciplinary teaching and research. The support staff are primarily responsible for assembling and providing course reserve readings for the many courses of Woodrow Wilson School and OPR and collaborate with staff in other branches and library units.  The Head of Stokes Library provides high-level leadership and represents Princeton in relevant regional, national and international professional and scholarly organizations.
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications: 
 -An ALA accredited Master's degree in library/information science OR equivalent combination of education and professional library experience.
@@ -50,26 +50,26 @@ Required Qualifications:
 -Ability to work effectively in a rapidly changing environment.
 
 
-### Compensation###
+### Compensation   
 
 The successful candidate will be appointed to an appropriate Librarian rank depending upon qualifications and experience.
 
 
-### Location###
+### Location   
 
 Princeton, New Jersey, USA
 
 
-### URL###
+### URL   
 
 [https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=1501](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=1501)
 
-### To Apply###
+### To Apply   
 
  Applications will be accepted only from the Jobs at Princeton website: [http://dof.princeton.edu/academicjobs](http://dof.princeton.edu/academicjobs) and must include a resume, cover letter, and a list of three references with full contact information.
 
 
-### Company Information###
+### Company Information   
 
 Princeton University Library, 1 Washington Road, Princeton, NJ
 

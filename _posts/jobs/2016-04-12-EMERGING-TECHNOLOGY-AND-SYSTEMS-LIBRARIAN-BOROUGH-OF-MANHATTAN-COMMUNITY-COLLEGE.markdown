@@ -6,7 +6,7 @@ excerpt: "Performs teaching, research and guidance duties in area(s) of expertis
 tag: job
 ---
 
-### Description###
+### Description   
 
 Performs teaching, research and guidance duties in area(s) of expertise. Shares responsibility for committee and department assignments including administrative, supervisory, and other functions.
 
@@ -29,7 +29,7 @@ Supports a college library through providing in-depth consultation with students
 
 
 
-### Qualifications###
+### Qualifications   
 
 For Assistant, Associate, or Full Professor: Ph.D. degree in area(s) of experience or equivalent. Also required are the ability to teach successfully, demonstrated scholarship or achievement, and ability to cooperate with others for the good of the institution.
 
@@ -42,18 +42,18 @@ For appointment as Assistant, Associate, or Full Professor, a second graduate de
 Preferred Qualifications include a minimum two years' work experience in academic library; demonstrated ability using Aleph or other ILS; experience using emerging technologies for metadata management and delivery. The ideal candidate will have a record of demonstrated experience providing reference and instruction to undergraduate students; excellent interpersonal skills; strong written and verbal communication skills; and a demonstrated ability to work effectively with students, faculty, staff, and colleagues in a multicultural environment.
 
 
-### Compensation###
+### Compensation   
 
 CUNY offers faculty a competitive compensation and benefits package covering health insurance, pension and retirement benefits, paid parental leave, and savings programs. We also provide mentoring and support for research, scholarship, and publication as part of our commitment to ongoing faculty professional development.  Instructor: $39,399-$65,267 Asst Professor - $42,873 - $74,133 Assoc Professor - $55,602 - $88,418 Professor - $68,803 - $106,071
 
 
 
 
-### URL###
+### URL   
 
 [http://www.bmcc.cuny.edu/jobs/detail.jsp?jid=6237](http://www.bmcc.cuny.edu/jobs/detail.jsp?jid=6237)
 
-### To Apply###
+### To Apply   
 
 From our job posting system, select "Apply Now", create or log in to a user account, and provide the requested information. If you are viewing this posting from outside our system, access the employment page on our web site and search for this vacancy using the Job ID or Title.
 

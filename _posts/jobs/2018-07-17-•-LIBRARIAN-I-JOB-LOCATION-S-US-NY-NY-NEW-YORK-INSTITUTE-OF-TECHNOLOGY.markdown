@@ -6,12 +6,12 @@ excerpt: "NYIT seeks an evening Reference Librarian to work at our Manhattan cam
 tag: job
 ---
 
-### Description###
+### Description   
 
 NYIT seeks an evening Reference Librarian to work at our Manhattan campus. Reporting to the Director of Branch Services, the Librarian will manage and maintain working order of library, during the evenings as the solo evening reference librarian.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Provide bibliographic instruction in a classroom and workshop setting
@@ -42,7 +42,7 @@ Hours: Monday-Friday 2pm-10pm
 
 
 
-### Qualifications###
+### Qualifications   
 
 MLS or MLIS required from an accredited program.
 Knowledge of databases in various subjects.
@@ -58,26 +58,26 @@ Ability to be flexible and change responsibilities and duties
 
 
 
-### Location###
+### Location   
 
 New York, NY - USA
 
 
-### URL###
+### URL   
 
 nyit.edu
 
-### To Apply###
+### To Apply   
 
  [https://internal-nyit.icims.com/jobs/1510/librarian-i/job](https://internal-nyit.icims.com/jobs/1510/librarian-i/job)
 
 
-### Company Information###
+### Company Information   
 
 Committed to educating the next generation of leaders and to inspiring innovation and advancing entrepreneurship, NYIT enrolls approximately 10,000 students on campuses in North America, China and the Middle East. As a forward-thinking institution NYIT has pioneered educational practices to serve student needs since 1955. NYIT offers 90 undergraduate, graduate and professional degrees in 50 fields of study and is home to students from more than 100 countries and from 50 states. Its seven schools and colleges include: School of Architecture and Design; College of Arts and Sciences, School of Engineering and Computing Sciences; School of Health Professions; School of Management; College of Osteopathic Medicine, and the newly formed School of Interdisciplinary Studies and Education.
 
 
-### Contact Information###
+### Contact Information   
 
  
 

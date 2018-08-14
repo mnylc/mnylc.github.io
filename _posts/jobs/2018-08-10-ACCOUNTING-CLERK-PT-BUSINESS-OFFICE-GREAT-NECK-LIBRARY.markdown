@@ -12,7 +12,7 @@ Sage (Peachtree) Accounting and AccuData Payroll experience a plus.
 tag: job
 ---
 
-### Description###
+### Description   
 
 Skills required:
 Successful candidate will have a degree in Accounting 
@@ -23,7 +23,7 @@ Sage (Peachtree) Accounting and AccuData Payroll experience a plus.
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Job Duties:
 Reports directly to Business Manager;
@@ -35,7 +35,7 @@ Assists Business Manager in special projects as required.
 
 
 
-### Qualifications###
+### Qualifications   
 
 Schedule:
 10-15 hours per week
@@ -45,21 +45,21 @@ Monday - Friday
 
 
 
-### Compensation###
+### Compensation   
 
 $15-$20 per hour (Rate commensurate with experience)
 
 
-### Location###
+### Location   
 
 Great Neck
 
 
-### URL###
+### URL   
 
 [https://www.greatnecklibrary.org/libinfo/jobs.php](https://www.greatnecklibrary.org/libinfo/jobs.php)
 
-### To Apply###
+### To Apply   
 
 Reply to:
 Great Neck Library
@@ -71,12 +71,12 @@ No Phone Calls Please
 
 
 
-### Company Information###
+### Company Information   
 
 Great Neck Library, 159 Bayview Avenue, Great Neck, New York
 
 
-### Contact Information###
+### Contact Information   
 
 No Phone Calls Please
 

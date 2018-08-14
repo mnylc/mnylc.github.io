@@ -6,12 +6,12 @@ excerpt: "Reports to the Library Director and Head of Access, Information and Co
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reports to the Library Director and Head of Access, Information and Collection Services and Operations.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 •  	Leads Library efforts to explore alternative means of assessing and delivering the university’s scholarly output and impact; increase recognition of Fordham research; expand awareness and acceptance of open access universally and open educational resources on campus.
@@ -59,7 +59,7 @@ property rights, commercial and academic publishing practices, and information t
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 •  	ALA accredited M.LS; preferred at least three years’ experience as a professional librarian providing reference and instructional services in an academic library. Subject Masters in relevant field preferred.
@@ -72,32 +72,32 @@ plus. Project management experience very desirable.
 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with Experience
 
 
-### Location###
+### Location   
 
 140 W 62nd street, New York NY 10023
 
 
-### URL###
+### URL   
 
 [https://www.fordham.edu/downloads/file/9173/scholarly_communication_and_distance_learning_librarian_a03070_92017pdf](https://www.fordham.edu/downloads/file/9173/scholarly_communication_and_distance_learning_librarian_a03070_92017pdf)
 
-### To Apply###
+### To Apply   
 
 SEND LETTER, RESUME TO: Nick Alongi, Head of Access, Information, Collection Services and Operations;
 nalongi@fordham.edu
 
 
-### Company Information###
+### Company Information   
 
 Fordham University / Quinn Library, Lincoln Center Campus.   140 W 62nd street, New York NY 10023
 
 
-### Contact Information###
+### Contact Information   
 
 nalongi@fordham.edu
 

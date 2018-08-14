@@ -6,7 +6,7 @@ excerpt: "LIBRARIAN III – Information & Education Librarian Rutgers, The State
 tag: job
 ---
 
-### Description###
+### Description   
 
 LIBRARIAN III – Information & Education Librarian
 
@@ -29,16 +29,16 @@ The Robert Wood Johnson Library of the Health Sciences, located in the heart of 
 
 
 
-### Location###
+### Location   
 
 New Brunswick, NJ
 
 
-### URL###
+### URL   
 
 [http://www.libraries.rutgers.edu/human_resources/employment](http://www.libraries.rutgers.edu/human_resources/employment)
 
-### To Apply###
+### To Apply   
 
 [http://jobs.rutgers.edu/postings/48362](http://jobs.rutgers.edu/postings/48362)
 

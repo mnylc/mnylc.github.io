@@ -6,7 +6,7 @@ excerpt: "The Columbia University Libraries seeks an energetic, creative, and te
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Columbia University Libraries seeks an energetic, creative, and team-oriented Head of Humanities & History to provide leadership and vision for research, learning, and collection development activities in support of Columbia University’s humanities and history faculty, students, and researchers. Leading a team of librarians, the Head of Humanities & History develops, coordinates, and supports innovative and effective research support services and collection building, in close alignment with the needs and priorities of humanities and history faculty, students, and curricula at Columbia. In collaboration with the Head of Global Studies, the Head of Humanities & History will develop and coordinate services and collaborations that support research and learning, setting goals and success indicators for staff and routinely reviewing activities to evaluate their effectiveness at meeting the needs of students and researchers. Additionally, the Head will continue to define and shape the role of liaison librarians, addressing the needs of interdisciplinary programs, initiatives and research. Crucial to this work will be coordination of cross-unit training programs and professional development opportunities for staff. 
 
@@ -21,7 +21,7 @@ The Humanities & Global Studies unit of the Columbia University Libraries direct
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required qualifications:
 
@@ -40,26 +40,26 @@ Preferred Qualifications:
 
 
 
-### Compensation###
+### Compensation   
 
 Competitive
 
 
-### Location###
+### Location   
 
 New York City
 
 
-### URL###
+### URL   
 
 [http://library.columbia.edu/](http://library.columbia.edu/)
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=66020](https://academicjobs.columbia.edu/applicants/Central?quickFind=66020)   
 
 
-### Company Information###
+### Company Information   
 
 As one of the world’s leading research universities, Columbia University in the City of New York provides outstanding opportunities to work and grow in a dynamic, multicultural, intellectual community. The Columbia University Libraries are comprised of a diverse and engaged staff committed to furthering the University’s teaching and research mission through innovation, collaboration, and a commitment to excellence.  
 

@@ -6,7 +6,7 @@ excerpt: "Background The New York Art Resources Consortium (NYARC), consisting o
 tag: job
 ---
 
-### Description###
+### Description   
 
 Background
 The New York Art Resources Consortium (NYARC), consisting of the libraries of The Frick Collection, The Brooklyn Museum, and the Museum of Modern Art, seeks a student in a graduate program of information science, art history, or related discipline to become a Technician in a web archiving program that collects, captures, describes, and archives web content of resources for the study of art. The NYARC web archiving program is administered by The Frick Collection. Reporting to the Head, Web Archiving Program, the Technician will work on relevant web-based collections in areas of focus that correspond with analog collection strengths.
@@ -24,7 +24,7 @@ Duties and Responsibilities
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Requirements
 
@@ -46,31 +46,31 @@ Requirements
 
 
 
-### Qualifications###
+### Qualifications   
 
 Preferred Qualifications:  Experience in library or archives; knowledge of web archiving tools and techniques; knowledge of scholarly literature of art history; coursework/training in metadata 
 
 
-### Compensation###
+### Compensation   
 
 $13/hour during academic semesters
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://www.frick.org/careers/nyarc_web_archiving_technician](http://www.frick.org/careers/nyarc_web_archiving_technician)
 
-### To Apply###
+### To Apply   
 
 Send resume and cover letter, include “Web Archiving Technician” in subject line of email:	 jobs@frick.org
 
 
-### Company Information###
+### Company Information   
 
 Library Administration 
 The Frick Collection 
@@ -78,7 +78,7 @@ The Frick Collection
 New York, NY  10021
 
 
-### Contact Information###
+### Contact Information   
 
 jobs@frick.org
 

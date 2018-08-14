@@ -6,13 +6,13 @@ excerpt: "The Cataloging and Metadata librarian will work collaboratively to pro
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Cataloging and Metadata librarian will work collaboratively to provide leadership and direction in emerging metadata practices, serving as the library's primary resource for traditional MARC contributions to OCLC and the City University shared integrated library system, as well as for non-MARC metadata, structure, and standards for our digital collections.   
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Supporting a CUNY senior college with a level five research collection in criminal justice and social sciences, the Cataloging and Metadata Librarian will be responsible for composing original and complex contributed cataloging in all bibliographic and physical formats, including old and rare books, pamphlets and other items mostly relating to criminal justice housed in our Special Collections. 
 
@@ -22,7 +22,7 @@ The librarian will also share responsibility with other library faculty for bibl
 
 
 
-### Qualifications###
+### Qualifications   
 
 All titles require a Master's in Library Science (MLS), Master's in Library Information Studies (MLIS), or closely related discipline from an ALA-accredited institution.  Also required is the ability to work with others for the good of the institution.
 
@@ -51,21 +51,21 @@ Also Desirable:
 
 
 
-### Compensation###
+### Compensation   
 
 CUNY offers faculty a competitive compensation and benefits package covering health insurance, pension and retirement benefits, paid parental leave, and savings programs.  We also provide mentoring and support for research, scholarship, and publication as part of our commitment to ongoing faculty professional development.
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 www.jjay.cuny.edu
 
-### To Apply###
+### To Apply   
 
 To apply, please send a letter of application, curriculum vitae, and three letters of recommendation. The application letter should address the candidate’s scholarly agenda, teaching philosophy, and teaching experience, at a minimum.
 
@@ -88,7 +88,7 @@ CUNY encourages people with disabilities, minorities, veterans and women to appl
 
 
 
-### Company Information###
+### Company Information   
 
 John Jay College of Criminal Justice, a senior college of the City University of New York (CUNY), is an internationally recognized leader in educating for justice, committed to the advancement of justice and just societies. It is a public liberal arts institution that enriches the learning experience by highlighting themes of justice across the arts, sciences, humanities, and social sciences. Located steps from Lincoln Center at the cultural heart of New York City, the College offers bachelors and masters degrees and participates in the doctoral programs of the Graduate Center of the City University of New York. Now under the leadership of its fifth President, former U.S. Assistant Attorney General, Karol V. Mason, the college has experienced unprecedented faculty hiring, an expansion of its curricular offerings, and the opening in 2011 of a new 600,000 square foot building with a black-box theater, state-of-the-art lab space, a moot court, and a variety of virtual learning settings.
 

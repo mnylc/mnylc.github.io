@@ -6,7 +6,7 @@ excerpt: "DUTIES AND RESPONSIBILITIES: - Performs excellent internal and externa
 tag: job
 ---
 
-### Description###
+### Description   
 
 DUTIES AND RESPONSIBILITIES:
 - Performs excellent internal and external customer service and library service 
@@ -66,16 +66,16 @@ What we offer: Excellent salary and a comprehensive benefits package that includ
 
 
 
-### Location###
+### Location   
 
 Queens, NY
 
 
-### URL###
+### URL   
 
 [http://www.queenslibrary.org/](http://www.queenslibrary.org/)
 
-### To Apply###
+### To Apply   
 
 TO APPLY:  Please send your resume and cover letter to QLcareers@queenslibrary.org and reference “General Librarian – QLWEB” in the subject line of the email. Resumes will only be accepted by email.  
  

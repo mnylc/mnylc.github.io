@@ -6,7 +6,7 @@ excerpt: "Head, Science Libraries Princeton University Library Princeton, New Je
 tag: job
 ---
 
-### Description###
+### Description   
 
 Head, Science Libraries
 Princeton University Library
@@ -21,12 +21,12 @@ The Peter B. Lewis Science Library provides library services and collections for
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The successful candidate will provide vision, leadership and a collaborative working environment for the staff of the Lewis Science Library and Furth Plasma Physics Library with a combined staff of 5 librarians, 10 support staff and numerous student assistants. The Head will also oversee all aspects of the Libraries’ activities, including the development of innovative services for Princeton's scientific research community, reference and research consultation services, instruction programs, collections, and facilities management. This position is expected to contribute to campus-wide library projects and represent Princeton in relevant regional, national, and international organizations. Depending on the candidate's qualifications, some science subject liaison work may be part of this position’s responsibility.
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 
@@ -53,31 +53,31 @@ Strongly Preferred:
 • 	Ability to work effectively in a rapidly changing environment.
 
 
-### Compensation###
+### Compensation   
 
 The successful candidate will be appointed to an appropriate Librarian rank depending upon qualifications and experience.
 
 
-### Location###
+### Location   
 
 Princeton, New Jersey, USA
 
 
-### URL###
+### URL   
 
 [https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=1121](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=1121)
 
-### To Apply###
+### To Apply   
 
 Applications will be accepted only from [https://puwebp.princeton.edu/AcadHire/apply/](https://puwebp.princeton.edu/AcadHire/apply/) and must include a resume, cover letter, and a list of three references with full contact information. 
 
 
-### Company Information###
+### Company Information   
 
 Princeton University Library is one of the world’s leading research libraries. It employs a dedicated and knowledgeable staff of more than 300 professional and support staff working in a large central library, 9 specialized branches, and 3 storage facilities. The Library supports a diverse community of 5,200 undergraduates, 2,700 graduate students, 1,200 faculty members, and many visiting scholars.  Its holdings include more than 7 million printed volumes, 5 million manuscripts, 2 million non-print items, and extensive collections of digital text, data, and images.  Further information: [http://library.princeton.edu/](http://library.princeton.edu/)
 
 
-### Contact Information###
+### Contact Information   
 
 rdunham@princeton.edu
 

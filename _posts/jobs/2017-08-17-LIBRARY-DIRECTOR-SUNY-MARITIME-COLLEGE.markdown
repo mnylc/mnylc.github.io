@@ -6,14 +6,14 @@ excerpt: "The Library Director is responsible for leading, coordinating and mana
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Library Director is responsible for leading, coordinating and managing all aspects of library resources and services in support of academic programs and the scholarly and intellectual needs of students, faculty, and the Maritime College community.  The Library is an academic department and the Director reports to the Provost/Vice President of Academic Affairs.
 
 The candidate will possess demonstrated leadership qualities and knowledge of the changing environment in academic libraries, especially with emerging library technologies.  The Director will formulate goals, policies, and procedures with approval of the Provost/Vice President of Academic Affairs and administer and oversee library budgets and staff.  In addition, the Library Director will represent both the library and faculty on official College committees, task forces and designated bodies, advise the Provost/Vice President of Academic Affairs on library and library related matters, and represent the college on area, state, and national library and technical groups and at related meetings.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Primary Responsibilities/Duties:
 
@@ -28,7 +28,7 @@ Serves on College and University committees and represent the Library on statewi
 Manages and maintains the Library's facilities to ensure an optimal environment
 
 
-### Qualifications###
+### Qualifications   
 
 Requirements:
 
@@ -47,21 +47,21 @@ Preferred Qualifications:
  Advanced degree in another academic discipline
 
 
-### Compensation###
+### Compensation   
 
 $85,000 - $95,000
 
 
-### Location###
+### Location   
 
 Throggs Neck, NY USA
 
 
-### URL###
+### URL   
 
 [https://maritime.interviewexchange.com](https://maritime.interviewexchange.com)
 
-### To Apply###
+### To Apply   
 
 Persons interested in the above position should apply online. Please submit:
 
@@ -72,13 +72,13 @@ Persons interested in the above position should apply online. Please submit:
 Returning Applicants - Login to your SUNY Maritime Careers Account to check your completed application, check/edit your profile or to upload additional documents
 
 
-### Company Information###
+### Company Information   
 
 6 Pennyfield Avenue
 Throggs Neck, NY 10465
 
 
-### Contact Information###
+### Contact Information   
 
 Heather Galterio
 718-409-7304

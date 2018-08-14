@@ -6,14 +6,14 @@ excerpt: "Incumbent in this class performs process duties related to conducting 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Incumbent in this class performs process duties related to conducting entry-level professional librarian activities. Under the direction of the Medical Librarian, the Librarian 1 manages the day-to-day operations of functional areas within the library and access services, aligning its vision, goals, objectives, policies and procedures with those of the Academic Informatics & Technology department and the Levy Library. 
 
 The Librarian I has responsibility and accountability for providing planning and direction to multiple functional areas within the department, with an emphasis on ensuring quality service for patrons. Participates in the development, recommendation and administration of division policies, procedures and processes.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Delivers high-level customer service, including answering questions, recommending resources, providing instruction and/or educational sessions to users.  Continually seeks new ways to improve efficiency and customer service.  
@@ -42,31 +42,31 @@ The Librarian I has responsibility and accountability for providing planning and
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum: some course work in MS Library Science degree from a college or university accredited by the American Library Association (ALA). 
 
 
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
 
 
-### To Apply###
+### To Apply   
 
 Email cover letter and resume to jennifer.kaari@mountsinai.org
 
 
-### Company Information###
+### Company Information   
 
 Mount Sinai St. Luke's, 1111 Amsterdam Ave, New York, NY 10025
 
 
-### Contact Information###
+### Contact Information   
 
 Jennifer Kaari, Library Manager, Mount Sinai West & Mount Sinai St. Luke's, jennifer.kaari@mountsinai.org
 

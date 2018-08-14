@@ -6,7 +6,7 @@ excerpt: "The Web Services-Online Learning Librarian is responsible for designin
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Web Services-Online Learning Librarian is responsible for designing, implementing, and maintaining the Library’s web-based learning initiatives.  The candidate will bring a vision for facilitating online learning in a range of web environments – both synchronously and asynchronously – coupled with technical expertise to realize this vision.
 The position:
@@ -73,16 +73,16 @@ CLOSING DATE
 
 
 
-### Location###
+### Location   
 
 Bronx, NY
 
 
-### URL###
+### URL   
 
 [http://lehman.edu/library](http://lehman.edu/library)
 
-### To Apply###
+### To Apply   
 
 Please send cover letter, resume, and contact information of three professional references to:
 
@@ -94,7 +94,7 @@ Bronx, New York  10468-1589
 Kenneth.Schlesinger@lehman.cuny.edu
 
 
-### Company Information###
+### Company Information   
 
 Leonard Lief Library
 Lehman College (CUNY)
@@ -102,7 +102,7 @@ Lehman College (CUNY)
 Bronx, NY 10468
 
 
-### Contact Information###
+### Contact Information   
 
 Kenneth Schlesinger, Chief Librarian
 Kenneth.Schlesinger@lehman.cuny.edu

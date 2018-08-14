@@ -6,7 +6,7 @@ excerpt: "The A. Philip Randolph Memorial Library is seeking a creative, and inn
 tag: job
 ---
 
-### Description###
+### Description   
 
 The A. Philip Randolph Memorial Library is seeking a creative, and innovative Instructor/ Assistant/Associate /Full Professor to serve as Emerging Technology Librarian. We are looking for an individual who enjoys engaging with undergraduate students from diverse backgrounds.  In addition, the incumbent should be a caring and strong advocate for our students and their needs when using the Library. 
 
@@ -17,7 +17,7 @@ The incumbent will participate in the Library’s consultation, instruction, and
 
 
 
-### Qualifications###
+### Qualifications   
 
 QUALIFICATIONS:
 
@@ -36,16 +36,16 @@ Knowledge of Blackboard and asynchronous communication technologies
 
 
 
-### Location###
+### Location   
 
 New York City
 
 
-### URL###
+### URL   
 
 [http://lib1.bmcc.cuny.edu/](http://lib1.bmcc.cuny.edu/)
 
-### To Apply###
+### To Apply   
 
 To apply and for more information visit: [https://www.bmcc.cuny.edu/jobs/detail.jsp?jid=8034](https://www.bmcc.cuny.edu/jobs/detail.jsp?jid=8034)
 

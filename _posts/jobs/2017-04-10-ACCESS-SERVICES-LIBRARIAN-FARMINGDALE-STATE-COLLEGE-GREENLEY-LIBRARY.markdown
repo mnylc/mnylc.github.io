@@ -6,7 +6,7 @@ excerpt: "Greenley Library is seeking a highly motivated enthusiastic Librarian 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Greenley Library is seeking a highly motivated enthusiastic Librarian with a commitment to public service who will oversee the effective management of our Access Services Department, with responsibility for circulation, reserves, and interlibrary loan. 
 
@@ -21,26 +21,26 @@ Please see [https://farmingdale.interviewexchange.com/jobofferdetails.jsp?JOBID=
 
 
 
-### Location###
+### Location   
 
 Farmingdale, NY
 
 
-### URL###
+### URL   
 
 [https://farmingdale.interviewexchange.com/jobofferdetails.jsp?JOBID=83187](https://farmingdale.interviewexchange.com/jobofferdetails.jsp?JOBID=83187)
 
-### To Apply###
+### To Apply   
 
 Please apply online using the link in the URL included in this posting.  Deadline is May 6, 2017.
 
 
-### Company Information###
+### Company Information   
 
 www.farmingdale.edu/library
 
 
-### Contact Information###
+### Contact Information   
 
 gelleska@farmingdale.edu
 

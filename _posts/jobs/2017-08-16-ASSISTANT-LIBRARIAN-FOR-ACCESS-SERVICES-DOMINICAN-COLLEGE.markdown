@@ -6,12 +6,12 @@ excerpt: "Dominican College, located in Rockland County, 20 miles north of New Y
 tag: job
 ---
 
-### Description###
+### Description   
 
 Dominican College, located in Rockland County, 20 miles north of New York City, seeks an enthusiastic candidate with a strong orientation toward user-centered service to fill the role of Assistant Librarian for Access Services. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to the College's Head Librarian, the Assistant Librarian works in close collaboration with Library staff to actively coordinate, promote, and deliver access to collections, research services and instruction. Areas of responsibility include but are not limited to:
 
@@ -40,36 +40,36 @@ Hours may also vary during exam periods.
 
 
 
-### Qualifications###
+### Qualifications   
 
 Requirements: The successful candidate will have an ALA-accredited MLS or equivalent graduate LIS degree. This individual should have supervisory experience, and excellent communication, interpersonal and technology skills. The candidate should demonstrate a learner-centered approach to assisting library users. A commitment to developing and maintaining familiarity with current and emerging trends in access services is essential. Candidates who bring diverse cultural experience and are qualified to assist, teach, and mentor the members of a diverse student population are especially encouraged to apply. Bilingual a plus. Two years of experience, preferably in an academic library and experience in access/public services and instruction preferred.
 
 
-### Compensation###
+### Compensation   
 
 not specified
 
 
-### Location###
+### Location   
 
 Orangeburg, NY
 
 
-### URL###
+### URL   
 
 [https://www.dc.edu/](https://www.dc.edu/)
 
-### To Apply###
+### To Apply   
 
 humanresources@dc.edu
 
 
-### Company Information###
+### Company Information   
 
 Dominican College was named a Top Workplace in the Lower Hudson Valley for 2016 by The Journal News.  We are a small, private institution with a student population of approximately 2,000. Committed to building its programs upon a strong liberal arts foundation, the College offers an array of degree opportunities in the liberal arts and a variety of nationally accredited graduate/undergraduate professional programs.
 
 
-### Contact Information###
+### Contact Information   
 
 Marybeth Broderick
 Director of Human Resources

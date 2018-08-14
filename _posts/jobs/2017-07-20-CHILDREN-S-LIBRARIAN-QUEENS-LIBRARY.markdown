@@ -6,7 +6,7 @@ excerpt: "About the Position & Queens Library: Queens Library, is offering oppor
 tag: job
 ---
 
-### Description###
+### Description   
 
 About the Position & Queens Library: Queens Library, is offering opportunities to work for one of the most dynamic and diverse urban libraries in the world. We are seeking highly-engaged, creative, customer service driven children librarians who are eager for an opportunity to enrich lives in one of our 65 service locations. Queens Library is a renowned leader in providing innovative library and educational services, developing new technology applications and fostering community engagement.
 
@@ -47,14 +47,14 @@ What we offer: Excellent salary and a comprehensive benefits package that includ
 
 
 
-### Location###
+### Location   
 
 Queens, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Email your cover letter and resume to QLcareers@queenslibrary.org referencing “Children’s Librarian - EXTERNAL” in the subject line. Resumes will only be accepted by email.  
 

@@ -6,12 +6,12 @@ excerpt: "The Head of Library Web & Digital Services is responsible for the crea
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Head of Library Web & Digital Services is responsible for the creation, implementation, management and evaluation of web-based interactive content, discovery strategies, scholarly communication, and library technology services for the Wilf and Beren campuses. The three major areas of responsibility are technology support for library patrons (students and faculty), alumni, staff and library systems; web design and maintenance; and digitization of collections.   This member of the Libraries' management team participates in setting library policy, identifying and adopting emerging technologies, and launching a scholarly communication program.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Monitor and manage library servers in cooperation with ITS office, recommending and participating in   implementation of upgrades and purchases.
 Serve as the library’s liaison with the Information Technology Services office.
@@ -31,7 +31,7 @@ Help patrons and library staff solve PC or application-specific, wireless, and o
 Participate in professional meetings and workshops.
 
 
-### Qualifications###
+### Qualifications   
 
 ALA-accredited library degree and background in information technology.
 Five years’ experience in an academic library setting or in a comparable environment with increasing levels of responsibility.
@@ -41,33 +41,33 @@ Knowledge of usability testing, analytics analysis and assessment of virtual spa
 Knowledge of HTML, SGML, XML, EAD, DRUPAL, content management and metadata systems. 
 
 
-### Compensation###
+### Compensation   
 
 Negotiable
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 www.yu.edu/libraries
 
-### To Apply###
+### To Apply   
 
 Please submit letter of interest with application to [https://careers-yeshiva.icims.com/jobs/9730/head-of-library-web-%26-digital-services/job](https://careers-yeshiva.icims.com/jobs/9730/head-of-library-web-%26-digital-services/job)
 
 
-### Company Information###
+### Company Information   
 
 Yeshiva University
 500 West 185th Street
 New York, NY 10033
 
 
-### Contact Information###
+### Contact Information   
 
 Paul Glassman, Director of University Libraries, paul.glassman@yu.edu
 

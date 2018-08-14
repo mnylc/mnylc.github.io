@@ -7,13 +7,13 @@ The Library Data & Information Specialist reports to the Assistant Director and 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Nassau Library System (NLS), headquartered in Uniondale, NY, is seeking a curious and proactive individual who loves to organize data and communicate information for this newly-created position. 
 The Library Data & Information Specialist reports to the Assistant Director and works with multiple departments. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Conduct surveys and collect and analyze data relevant to NLS and member library programs, services, and business operations.
@@ -25,7 +25,7 @@ The Library Data & Information Specialist reports to the Assistant Director and 
 • 	Review member library annual report data, applications for Public Library Construction Aid, and other information for accuracy and adherence to state guidelines.
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Education and Experience – MLS degree preferred but will consider applicants with relevant skills and experience; Bachelor’s degree required; Demonstrated experience collecting, analyzing, and presenting data. 
@@ -35,31 +35,31 @@ The Library Data & Information Specialist reports to the Assistant Director and 
 • 	Communication and Organization – Communicates effectively verbally and in writing; Attentive to detail; Self-motivated to handle multiple assignments independently and also able to work as part of a team.
 
 
-### Compensation###
+### Compensation   
 
 Starting salary is $55,000 - $65,000 with excellent benefits including New York State pension system, medical and dental insurance, and paid vacation, personal, and sick leave. 
 
 
-### Location###
+### Location   
 
 Uniondale, NY, USA
 
 
-### URL###
+### URL   
 
 View the complete job description at: [https://www.nassaulibrary.org/careers](https://www.nassaulibrary.org/careers)
 
-### To Apply###
+### To Apply   
 
 Review of applications will begin immediately and continue until the position is filled with preference given to applications received by November 29, 2017. Applications should be submitted via email and must include a cover letter and a résumé. Email applications to: careers@nassaulibrary.org.
 
 
-### Company Information###
+### Company Information   
 
 900 Jerusalem Avenue, Uniondale, NY 11553
 
 
-### Contact Information###
+### Contact Information   
 
 careers@nassaulibrary.org
 

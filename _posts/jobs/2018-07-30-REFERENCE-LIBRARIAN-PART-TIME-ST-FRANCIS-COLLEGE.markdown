@@ -6,13 +6,13 @@ excerpt: "Responsible for the operation of the Library when no Full-Time Librari
 tag: job
 ---
 
-### Description###
+### Description   
 
 Responsible for the operation of the Library when no Full-Time Librarian is in attendance, including, but not limited to, the Reference and Circulation Desks. This includes the supervision of one part-time clerk and several part-time student workers.
 Approximately 28 hours per month consisting of alternate Saturdays and Tuesday and Thursday evenings. Possible additional hours may be available during exam weeks.
 
 
-### Responsibilities###
+### Responsibilities   
 
  Responsible for all Reference Desk Services
  Supervises Circulation Desk Staff, as directed;
@@ -21,7 +21,7 @@ Approximately 28 hours per month consisting of alternate Saturdays and Tuesday a
  Fulfills all other duties as assigned by the Director of Library Services.
 
 
-### Qualifications###
+### Qualifications   
 
  Master’s degree from an ALA accredited school of library/information science.
  Excellent supervisory, interpersonal, and communications skills, as well as the ability to work effectively in a collegial environment are essential.
@@ -30,24 +30,24 @@ Approximately 28 hours per month consisting of alternate Saturdays and Tuesday a
  Culturally sensitive, caring and friendly with a deep understanding and appreciation of a multi-cultural college community and the Franciscan traditions of St. Francis College.
 
 
-### Compensation###
+### Compensation   
 
 $20.00 per hour
 
 
-### Location###
+### Location   
 
 Brooklyn Heights, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Interested applicants can apply at [https://www.sfc.edu/about/careers](https://www.sfc.edu/about/careers)
 
 
-### Company Information###
+### Company Information   
 
 For over 150 years, the mission of St. Francis has been to provide an affordable, quality education to working class people who otherwise may not be able to attend college. St. Francis College is a private, independent, co-educational urban college whose Franciscan and Catholic traditions underpin its commitment to academic excellence, spiritual and moral values, physical fitness, social responsibility and life-long learning. We educate the whole person for a full, relational life, developing the students' talents and abilities for meaningful, fulfilling careers, as well as for collaborative, service-oriented leadership.
 The College strives to offer ample opportunities for students to immerse themselves in the intellectual, cultural and professional opportunities afforded by New York City and to serve the

@@ -6,13 +6,13 @@ excerpt: "The Director of Library and Information Services provides leadership a
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Director of Library and Information Services provides leadership and is responsible for collections, electronic resources, reference services, technical services, instructional programs, operations, budget and program development to support the academic, clinical, research and future community services mission of the Touro College of Osteopathic Medicine and the Touro College of Pharmacy
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Sheldon L. Sirota Memorial Library supports all programs at Touro College New York Harlem Campus, encompassing D.O., Pharm. D. and MSci programs and handles the budgeting for the D.O. library at the Middletown campus. To this end the director:
 	1. Develops and implements the library’s strategic plan in concert with the University’s overall strategic plan and in concert with TCOM/TCOP’s strategic plan.
@@ -27,7 +27,7 @@ The Sheldon L. Sirota Memorial Library supports all programs at Touro College Ne
 6. Writes reports and prepares documentation for program accreditation and site visits.
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 
@@ -47,26 +47,26 @@ Strong interpersonal skills and the enthusiasm and motivation to contribute to t
 
 
 
-### Compensation###
+### Compensation   
 
 60,000 or upwards, depending upon experience
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Send CV and cover letter via email to smantz@touro.edu
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 smantz@touro.edu
 

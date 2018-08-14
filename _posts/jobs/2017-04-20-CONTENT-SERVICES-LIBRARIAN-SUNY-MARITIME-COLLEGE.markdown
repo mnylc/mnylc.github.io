@@ -6,12 +6,12 @@ excerpt: "The Content Services Librarian will create and maintain a collection d
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Content Services Librarian will create and maintain a collection development strategy to proactively develop a specialized print and electronic collection that supports the research needs of our students, faculty, and staff. The Content Services Librarian will also ensure that the library materials budget is efficiently allocated and aligned with established needs, assess the library's current collections for ongoing relevance and/or historical value and continually assess the effectiveness of the collection via circulation and usage statistics.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Primary Responsibilities
 
@@ -46,7 +46,7 @@ As part of the library faculty team:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications
 
@@ -75,21 +75,21 @@ Preferred Qualifications
 
 
 
-### Location###
+### Location   
 
 Bronx, NY
 
 
-### URL###
+### URL   
 
 [https://maritime.interviewexchange.com/jobofferdetails.jsp?JOBID=83284](https://maritime.interviewexchange.com/jobofferdetails.jsp?JOBID=83284)
 
-### To Apply###
+### To Apply   
 
 [https://maritime.interviewexchange.com/jobofferdetails.jsp?JOBID=83284](https://maritime.interviewexchange.com/jobofferdetails.jsp?JOBID=83284)
 
 
-### Company Information###
+### Company Information   
 
 [http://stephenbluce.sunymaritime.edu](http://stephenbluce.sunymaritime.edu)
 

@@ -6,7 +6,7 @@ excerpt: "The American Museum of Natural History has been a leader in educating 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The American Museum of Natural History has been a leader in educating New York City area children through innovative science education programs beginning in earnest with the creation of the AMNH Department of Public Instruction in 1884. The project archivist will be tasked with processing and describing the records of the Science and Nature Early Science Education program papers. Beginning in the late 1990’s this collection spans the development of this innovative program. 
 
@@ -17,7 +17,7 @@ Schedule: Flexible Schedule between 9am – 6pm, Monday-Friday
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Survey and organize the collection, with the assistance of the collection creator. 
@@ -36,7 +36,7 @@ Schedule: Flexible Schedule between 9am – 6pm, Monday-Friday
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	ALA-accredited MLIS or equivalent degree, with a concentration in archival studies.
@@ -58,14 +58,14 @@ Preferred Qualification: Experience with educational archives or materials relat
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Send cover letter, resume, the names and contact information of three references, and a finding aid writing sample (or a link to an on-line sample) to rmorgan@amnh.org. In the subject line please reference the job title. 
 

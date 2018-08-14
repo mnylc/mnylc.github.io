@@ -6,12 +6,12 @@ excerpt: "In partnership with the Internet Archive and Google Cultural Institute
 tag: job
 ---
 
-### Description###
+### Description   
 
 In partnership with the Internet Archive and Google Cultural Institute, Storefront is digitizing core records, including A/V media, from its Program Files collection for web-based public access.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Working under the guidance of Project Archivist, Archive Fellows will be responsible for the following activities:
 1. Processing: Assist with item-level processing for the Exhibitions, Events, Publications and Media Series from the Program Files Collection
@@ -21,7 +21,7 @@ Working under the guidance of Project Archivist, Archive Fellows will be respons
 5. Backup: Consolidate digital files onto a local drive and create a mirrored back-up; upload files to cloud storage system
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 1. Interest / background in art / architecture as well as archival and curatorial practices
@@ -39,26 +39,26 @@ Preferred Qualifications
  
 
 
-### Compensation###
+### Compensation   
 
 12-16 hrs/week, $18/hr
 
 
-### Location###
+### Location   
 
 Sunset Park, Brooklyn, NY, USA
 
 
-### URL###
+### URL   
 
 [http://storefrontnews.org/get-involved/jobs-internships/](http://storefrontnews.org/get-involved/jobs-internships/)
 
-### To Apply###
+### To Apply   
 
 Please send cover letter and resume to Chialin Chou (chialin@storefrontnews.org) by August 10th.
 
 
-### Company Information###
+### Company Information   
 
 About Storefront’s Archive
 

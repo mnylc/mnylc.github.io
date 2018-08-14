@@ -6,12 +6,12 @@ excerpt: "The Library invites applications for the position of Children’s Libr
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Library invites applications for the position of Children’s Librarian. The Children’s Librarian is the Teacher/Librarian for the School for Children for pre-k through 8th grade. This position provides the leadership and expertise necessary to ensure that the school library program is aligned with the mission, goals, and objectives of the School for Children. In addition, the children’s librarian provides reference service to the entire Bank Street Community- children, teachers, graduate students, instructors and alumni. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Teaching and Learning
 
@@ -56,7 +56,7 @@ Additional Responsibilities
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	MLS from an ALA accredited institution
@@ -73,26 +73,26 @@ Additional Responsibilities
 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://www.bankstreet.edu/administrative-offices/human-resources/job-opportunities/665/childrens-librarian/](https://www.bankstreet.edu/administrative-offices/human-resources/job-opportunities/665/childrens-librarian/)
 
-### To Apply###
+### To Apply   
 
 Applications accepted through our online portal only: [https://www.bankstreet.edu/administrative-offices/human-resources/job-opportunities/665/childrens-librarian/](https://www.bankstreet.edu/administrative-offices/human-resources/job-opportunities/665/childrens-librarian/)
 
 
-### Company Information###
+### Company Information   
 
 Bank Street College of Education is a private, nonprofit educational institution founded in 1916 and located in New York City. Bank Street is considered to be one of the leading institutions in the area of progressive education and has grown over the years to an internationally recognized leader in early childhood education, a pioneer in improving the quality of classroom education and teacher preparation, and a national advocate for children and families. The College includes a Graduate School (GSE) and an on-site independent School for Children, pre-k through grade 8. 
 
@@ -100,7 +100,7 @@ The College Library supports the programs of the entire institution through its 
 
 
 
-### Contact Information###
+### Contact Information   
 
 Kristin Freda, Director of Library Services
 kfreda@bankstreet.edu

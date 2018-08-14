@@ -6,7 +6,7 @@ excerpt: "Be a part of one of the most exciting libraries in New York! The Trove
 tag: job
 ---
 
-### Description###
+### Description   
 
 Be a part of one of the most exciting libraries in New York! The Trove children’s library at the White Plains Public Library is seeking part-time Play Assistants to join our team of librarians in April 2018 to provide high-quality services in our new early literacy and play program, Trove Time! 
 
@@ -16,12 +16,12 @@ Applications will be accepted until the position is filled.
 The City of White Plains is an Equal Opportunity Employer.
 
 
-### Responsibilities###
+### Responsibilities   
 
 You will be encouraging early literacy by modeling play and implementing innovative educational activities for children ages 2-4 years old and their caregivers. In addition, you will also be setting up and putting away library materials and toys as well as caring for the children while their parents and caregivers attend workshops at the library. Training will be provided.
 
 
-### Qualifications###
+### Qualifications   
 
 This is an excellent opportunity for college and graduate students in early childhood education, early literacy, or related fields or experienced caregivers considering a career working with children.
 
@@ -40,31 +40,31 @@ Availability on Tuesdays and Thursdays during the day and other times as worksho
 Spanish language skills a plus
 
 
-### Compensation###
+### Compensation   
 
 $15.00/hour
 
 
-### Location###
+### Location   
 
 White Plains, NY, USA
 
 
-### URL###
+### URL   
 
 [https://whiteplainslibrary.org/jobs/](https://whiteplainslibrary.org/jobs/)
 
-### To Apply###
+### To Apply   
 
 To apply, please email your resume, cover letter and references to Joshua Carlson, Manager of Youth Services, jcarlson@whiteplainslibrary.org. Please put “Play Assistant” in the subject line.
 
 
-### Company Information###
+### Company Information   
 
 White Plains Public Library, 100 Martine Avenue, White Plains, NY 10601
 
 
-### Contact Information###
+### Contact Information   
 
 Joshua Carlson, Manager of Youth Services, jcarlson@whiteplainslibrary.org
 

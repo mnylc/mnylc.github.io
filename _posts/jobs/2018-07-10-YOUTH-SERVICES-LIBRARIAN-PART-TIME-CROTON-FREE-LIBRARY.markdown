@@ -6,12 +6,12 @@ excerpt: "The Croton Free Library is seeking a motivated librarian (part-time) t
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Croton Free Library is seeking a motivated librarian (part-time) to join the youth services team and provide creative programming and reference services for kids and teens.
 
 
-### Responsibilities###
+### Responsibilities   
 
 ● Provide reference, reader’s advisory, and circulation services.
 ● Plan and implement programs for children, teens, and families.
@@ -23,31 +23,31 @@ calendars, social media).
 ● Keeps up to date with professional development.
 
 
-### Qualifications###
+### Qualifications   
 
 Master’s degree in Library Science from an ALA accredited college or university program. Will consider a student pursuing a Master’s in Library Science
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with qualifications and experience
 
 
-### Location###
+### Location   
 
 Croton-on-Hudson, NY
 
 
-### URL###
+### URL   
 
 [https://www.westchesterlibraries.org/wp-content/files/jobs/Croton-CFL_Youth_Services_Position_2018.pdf](https://www.westchesterlibraries.org/wp-content/files/jobs/Croton-CFL_Youth_Services_Position_2018.pdf)
 
-### To Apply###
+### To Apply   
 
 Send your resume to crotonref@wlsmail.org with the subject line “Youth Services Librarian” by July 20, 2018.
 
 
-### Company Information###
+### Company Information   
 
 Located 35 miles north of New York City on the Metro-North Railroad Hudson 
 line, Croton-on-Hudson is a village of approximately 8,000 residents with a thriving artistic community, ample parks and open space. The Croton Free Library serves an active community with a loyal following of young parents, commuters, retirees, and K-12 population.

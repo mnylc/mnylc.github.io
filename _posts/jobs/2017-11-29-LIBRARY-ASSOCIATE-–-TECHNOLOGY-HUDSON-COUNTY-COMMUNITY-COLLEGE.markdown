@@ -6,17 +6,17 @@ excerpt: "Hudson County Community College is an award-winning, comprehensive urb
 tag: job
 ---
 
-### Description###
+### Description   
 
 Hudson County Community College is an award-winning, comprehensive urban college located just across the Hudson River from Manhattan in Jersey City and Union City, NJ. Fully accredited by Middle States Commission on Higher Education, the College offers courses and classes in a wide variety of disciplines to the people and businesses of Hudson County, one of the most historic and ethnically diverse areas of the United States. The College was recognized with the 2012 Association of Community College Trustees (ACCT) Northeast Regional Equity Award, was one of just five finalists in the U.S. for the American Association of Community Colleges’ (AACC) Student Success Award, and was presented with the New Jersey Business & Industry Association’s Good Neighbor Awards in 2009 for the Culinary Arts Conference Center and in 2012 for the North Hudson Campus Project, and in 2015 for the Library Building. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The College is currently searching for a Full Time Library Associate for Technology. Reporting to the Director of Library Technology, the Library Associate –  Technology position responsibilities include, but are not limited to the following: customer service and troubleshooting/support for personal computer hardware, software, and related peripherals at the Library, assisting with circulation, and participating in special projects to improve library services. Other duties include identifying, evaluating, and selecting hardware and software needed to improve Library services, helping students, faculty, and staff connect their personal computers and peripherals to the campus wireless network; working the with the Director of Library Technology and Technical Services Librarian on projects relating to the Library’s Integrated Library System, participating in digitization projects; providing training on various library and academic hardware and software, staying current with developments in uses of library technology, and performing a wide array of clerical and library paraprofessional duties including circulation. Will perform other related duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 The Library Associate –  Technology (full time) co-ordinates between the Library and College ITS personnel and instructs patrons on how to access reference sources and electronic information sources. 
 
@@ -31,11 +31,11 @@ An Associate degree in Computer Science, Information Technology, or related fiel
 
 
 
-### URL###
+### URL   
 
 [http://www.hccc.edu/uploadedFiles/Content/Job_Opportunities/10-24-17-Library-Associate-Technology.pdf](http://www.hccc.edu/uploadedFiles/Content/Job_Opportunities/10-24-17-Library-Associate-Technology.pdf)
 
-### To Apply###
+### To Apply   
 
 Send letter of application, resume, salary requirements and names/contact information of three professional references to:
 

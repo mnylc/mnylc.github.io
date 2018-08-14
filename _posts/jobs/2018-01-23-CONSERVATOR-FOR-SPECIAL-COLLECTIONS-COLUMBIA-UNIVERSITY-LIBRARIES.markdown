@@ -6,7 +6,7 @@ excerpt: "The Columbia University Libraries invites nominations and applications
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Columbia University Libraries invites nominations and applications for the Conservator for Special Collections.
 
@@ -17,12 +17,12 @@ Columbia University has a longstanding commitment to diversity rooted in values 
 Columbia University is an Equal Opportunity/Affirmative Action Employer.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to the Head of Conservation, the Conservator for Special Collections will plan, document and perform complex conservation treatments on ancient, medieval and modern library materials, including rare books, bound and unbound manuscripts, prints, maps and drawings on paper or parchment. Under the general direction of the Head of Conservation, the incumbent will work with liaisons in special collections libraries to select items for treatment and to set annual priorities for conservation of collections; will co‐ordinate workflow of treatments through the Conservation Department and participate in planning for exhibits and loans; will participate in environmental monitoring, testing and ordering of materials and supplies, staff supervision; will participate in management of the disaster response program; and will carry out other duties relating to the preservation of the Libraries' collections. The incumbent will participate in teaching and training interns and junior staff. The Conservator for Special Collections will assist the Head with developing and documenting procedures for the conservation of rare library materials, and will keep abreast of professional literature and new developments in the field, cooperating with other conservators in performing research and development toward the advancement of conservation.
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Requirements: MLS or PhD (or equivalent) plus:
 1.	Graduate degree in conservation of books and/or archival library materials or equivalent training and experience (e.g. formal apprenticeship).
@@ -43,19 +43,19 @@ Preferred Qualifications:
 5.	Demonstrated ability to contribute to the profession through formal teaching, research and/or publication.
 
 
-### Compensation###
+### Compensation   
 
 We offer a salary commensurate with qualifications and experience.
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
 
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=65697](https://academicjobs.columbia.edu/applicants/Central?quickFind=65697)
 

@@ -6,12 +6,12 @@ excerpt: "LibSource, an LAC Group company, seek candidates for a full-time Libra
 tag: job
 ---
 
-### Description###
+### Description   
 
 LibSource, an LAC Group company, seek candidates for a full-time Library Assistant role, specializing in law firm libraries.  The main focus of the position will be to provide administrative support for multiple client libraries and research centers at locations throughout NYC.  This is a full-time, 40 hours per week position, that offers full benefits and is an excellent opportunity for someone looking to learn and grow experience in law libraries.   
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities:
 	Maintain Library collection by sorting, shelving and organizing books and newsletters, and filing pocket parts and supplements and loose- leaf sets;
@@ -26,7 +26,7 @@ Responsibilities:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Qualifications:
 	BA/BS Degree; MLS/MLIS is preferred;
@@ -37,28 +37,28 @@ Qualifications:
 	Experience using an integrated library system.
 
 
-### Compensation###
+### Compensation   
 
 DOE
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://lac-group.secure.force.com/LIBGIG/ts2__JobDetails?jobId=a0E1H00000ZSdemUAD&tSource=](https://lac-group.secure.force.com/LIBGIG/ts2__JobDetails?jobId=a0E1H00000ZSdemUAD&tSource=)
 
-### To Apply###
+### To Apply   
 
 [https://lac-group.secure.force.com/LIBGIG/ts2__JobDetails?jobId=a0E1H00000ZSdemUAD&tSource=](https://lac-group.secure.force.com/LIBGIG/ts2__JobDetails?jobId=a0E1H00000ZSdemUAD&tSource=)
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 Katy Davis - katy.davis@libgig.com
 

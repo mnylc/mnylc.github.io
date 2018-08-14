@@ -6,7 +6,7 @@ excerpt: "Summary The Wikimedia Foundation (WMF)’s Community Programs team sup
 tag: job
 ---
 
-### Description###
+### Description   
 
 Summary
 The Wikimedia Foundation (WMF)’s Community Programs team supports a diverse international community of program leaders working with cultural heritage institutions and communities to expand the impact of Wikimedia’s projects as educational platforms. As part of this work, a significant international community of organizers develops partnerships and programs that document heritage and share the collections and expertise of Galleries, Libraries, Archives and Museums (GLAMs) on Wikimedia projects -- a community known as the GLAM-Wiki community. The new Program Officer joins an existing team that supports, facilitates, and amplifies GLAM-Wiki and other cultural heritage work through better understanding and implementation of scalable project models, greater cross-regional and international partnerships among GLAM-Wiki volunteers, and deeper communication about GLAM-Wiki beyond the Wikimedia movement.
@@ -20,7 +20,7 @@ The individual will join the Programs team at the Wikimedia Foundation and will 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Liaise with GLAM-Wiki communities to strengthen the ability for volunteer groups to support institutional collaboration, especially in emerging communities:   
  -- Consult prior and existing GLAM-Wiki community leaders to determine best ways to facilitate GLAM-Wiki projects, especially projects that support the use of digitization, Wikisource, and other Wikimedia activities.
@@ -47,7 +47,7 @@ Help prioritize technical support from the Foundation and amongst institutional 
  -- Advise on technical projects that improve the ability for local communities to implement GLAM partnerships and support the broader adoption of Wikimedia platforms for collecting and sharing worldwide cultural heritage.
 
 
-### Qualifications###
+### Qualifications   
 
 We’d like you to have these skills:
 
@@ -78,21 +78,21 @@ A cover letter is required. We want to hear from you about why you want to work 
 
 
 
-### Location###
+### Location   
 
 San Francisco, CA or Remote
 
 
-### URL###
+### URL   
 
 [https://boards.greenhouse.io/wikimedia/jobs/1236692?gh_src=6d00d9b81](https://boards.greenhouse.io/wikimedia/jobs/1236692?gh_src=6d00d9b81)
 
-### To Apply###
+### To Apply   
 
 [https://boards.greenhouse.io/wikimedia/jobs/1236692?gh_src=6d00d9b81](https://boards.greenhouse.io/wikimedia/jobs/1236692?gh_src=6d00d9b81)
 
 
-### Company Information###
+### Company Information   
 
 The Wikimedia Foundation is... 
 

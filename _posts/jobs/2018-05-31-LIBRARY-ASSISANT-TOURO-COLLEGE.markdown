@@ -8,14 +8,14 @@ Assist in the delivery of library services and programs, and daily maintenance o
 tag: job
 ---
 
-### Description###
+### Description   
 
 
 Assist in the delivery of library services and programs, and daily maintenance operations.
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 1.	Provide reference and bibliographic services, including instruction and assistance in the use of library resources and services and direction in locating information and utilizing resources and services available on and off campus. 
 
@@ -32,7 +32,7 @@ Hours:  9:00 am to 7:00 pm  Monday -  Thursday
 
 
 
-### Qualifications###
+### Qualifications   
 
  	BA degree. Some library experience helpful.
  	Strong customer service and organizational skills
@@ -46,23 +46,23 @@ Hours:  9:00 am to 7:00 pm  Monday -  Thursday
 
 
 
-### Location###
+### Location   
 
 Starrett City /Spring Creek,1344 Pennsylvania Avenue,  Brooklyn, New York 11239 
 
 
-### URL###
+### URL   
 
 [http://www.touro.edu/about/careers-at-touro/](http://www.touro.edu/about/careers-at-touro/)
 
-### To Apply###
+### To Apply   
 
 Send resumes to B. Simon
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 bashe.simon@touro.edu 
 

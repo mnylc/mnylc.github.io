@@ -6,7 +6,7 @@ excerpt: "Columbia University Libraries invites applications and nominations for
 tag: job
 ---
 
-### Description###
+### Description   
 
 Columbia University Libraries invites applications and nominations for the position of Technical Assistant VI. 
 
@@ -22,7 +22,7 @@ Columbia University is committed to the hiring of qualified local residents.
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Duties involve; 
 -Creating protective housings for single items and for collections, as well as cutting mats and making cradles for exhibits. 
@@ -37,7 +37,7 @@ Duties involve;
 *Applicants will be asked to submit examples or photographs of their bookbinding and conservation work, and to demonstrate certain hand skills during the interview process.*    
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications: 
 Applicant MUST meet these minimum qualifications to be considered.
@@ -66,14 +66,14 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 [https://jobs.columbia.edu/applicants/Central?quickFind=170395](https://jobs.columbia.edu/applicants/Central?quickFind=170395)
 

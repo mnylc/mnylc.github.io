@@ -6,36 +6,36 @@ excerpt: "The United Nations Dag Hammarskjöld Library invites applications for 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The United Nations Dag Hammarskjöld Library invites applications for internships.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Various library/information management projects.
 
 
-### Qualifications###
+### Qualifications   
 
 Applicants should be enrolled in an accredited MLIS programme or equivalent.
 
 
-### Compensation###
+### Compensation   
 
 This is an unpaid internship.
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 [https://careers.un.org/lbw/jobdetail.aspx?id=96304](https://careers.un.org/lbw/jobdetail.aspx?id=96304)
 
-### To Apply###
+### To Apply   
 
 All applications must be submitted online.
 

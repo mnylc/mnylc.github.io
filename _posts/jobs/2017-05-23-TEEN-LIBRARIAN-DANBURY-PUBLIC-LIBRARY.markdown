@@ -6,12 +6,12 @@ excerpt: "The City of Danbury is currently seeking a Librarian I – Junior Serv
 tag: job
 ---
 
-### Description###
+### Description   
 
 The City of Danbury is currently seeking a Librarian I – Junior Services. The Junior Services Librarian provides professional services to patrons from birth to age 18, plans and executes programs, and builds and maintains the collection of material.  The Librarian is responsible for participating in outreach to the Danbury schools and other local agencies that provide services to children and/or young adults.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Performs collection development, program development, and outreach activities for children and young adults.  Creates a welcoming environment for children, teens, and their families and caretakers in the Junior Department.
 Meets or exceeds professional standards and best practices in reader’s advisory and reference work for children, teens, and their parents or guardians.
@@ -28,36 +28,36 @@ Coordinates regular department meetings with other members of the Junior Library
 Assists the Library Director in the development of departmental goals and objectives.
 
 
-### Qualifications###
+### Qualifications   
 
 Education and Experience: Master’s degree or equivalent from a program accredited with the American Library Association and five to seven (5-7) years related work experience; or any equivalent combination of education, training and experience which provides the required knowledge, skills and abilities to perform the essential functions of the job in the sole determination of the City.
 
 
-### Compensation###
+### Compensation   
 
 $32.70 - $34.42/hour
 
 
-### Location###
+### Location   
 
 Danbury, CT 06810 
 
 
-### URL###
+### URL   
 
 [http://www.danbury-ct.gov/qcontent/NewsFeed.aspx?FeedID=3282](http://www.danbury-ct.gov/qcontent/NewsFeed.aspx?FeedID=3282)
 
-### To Apply###
+### To Apply   
 
 Applications are available at the Human Resources Dept., 155 Deer Hill Ave., Danbury, CT  06810 or at www.humanresources@danbury-ct.gov.  Qualified applicants must submit a completed original application with three additional copies and a $10 fee* to Human Resources no later than 6:00 pm, Monday June 12, 2017 EEO/M/F/D/V
 
 
-### Company Information###
+### Company Information   
 
 155 Deer Hill Avenue, Danbury, CT 06810 203-797-4598
 
 
-### Contact Information###
+### Contact Information   
 
 Human Resources, 203-797-4598
 

@@ -6,12 +6,12 @@ excerpt: "The Winthrop Group’s Information & Archival Services Division is see
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Winthrop Group’s Information & Archival Services Division is seeking candidates for two temporary project archivist positions.  The successful candidates will report to a Winthrop Lead Archivist who will be responsible for training and for oversight of work assignments. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The range of archives-related assignments with Winthrop clients may include any, several, or all of the following:
 
@@ -44,7 +44,7 @@ Potential Areas of Responsibility
 *  Assisting with retrieval and research
 
 
-### Qualifications###
+### Qualifications   
 
 Bachelor’s degree in history  or other subject
 Two years of experience and/or education in Archives and Records Management, Information Sciences, or a related field
@@ -58,31 +58,31 @@ Certification by the Academy of Certified Archivists
 Experience with electronic records and familiarity with digital format
 
 
-### Compensation###
+### Compensation   
 
 Competitive based on experience.
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://winthropgroup.com/about/page/career-opportunities#Project](http://winthropgroup.com/about/page/career-opportunities#Project) Archivist Positions
 
-### To Apply###
+### To Apply   
 
 Email cover letter, resume, and names and contact information for three references to David Kay at dkay@winthropgroup.com and Sam Markham at smarkham@winthropgroup.com         
 
 
-### Company Information###
+### Company Information   
 
 The Winthrop Group, Inc. 226 West 37th Street, 17th Floor, New York, NY 
 
 
-### Contact Information###
+### Contact Information   
 
 David Kay, Manager, Information & Archival Services, 212-944-7496, dkay@winthropgroup.com
 

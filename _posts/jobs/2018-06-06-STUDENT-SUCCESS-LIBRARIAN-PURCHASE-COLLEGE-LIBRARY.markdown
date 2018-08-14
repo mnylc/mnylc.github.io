@@ -6,7 +6,7 @@ excerpt: "Purchase College, State University of New York seeks a full-time, tenu
 tag: job
 ---
 
-### Description###
+### Description   
 
 
 Purchase College, State University of New York seeks a full-time, tenure-track Student Success Librarian. This is an exciting opportunity to play a lead role in the integration of the Library and the College's Student Success units (Learning Center, Advising, and Career Development). Serves as the Library's liaison to the Student Success team, which includes the Student Success Committee and departments that oversee the College's tutoring, academic advising, student success initiatives, the first-year experience, and college-wide retention efforts. Also serves as a key member of the Library's instruction and reference teams. The ideal candidate must be creative, service-oriented, have a commitment to and aptitude for teaching undergraduate students as well as strong outreach and communication skills. 
@@ -16,7 +16,7 @@ Faculty rank of Senior Assistant Librarian (12 months) and a tenure-track appoin
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The position has the following responsibilities: 
 
@@ -37,7 +37,7 @@ The position has the following responsibilities:
 * Develops and maintains online instructional tools such as subject guides and tutorials   
 
 
-### Qualifications###
+### Qualifications   
 
 REQUIRED QUALIFICATIONS: 
 
@@ -69,26 +69,26 @@ PREFERRED QUALIFICATIONS:
 
 
 
-### Compensation###
+### Compensation   
 
 $58,000-$60,000
 
 
-### Location###
+### Location   
 
 Purchase, NY US 
 
 
-### URL###
+### URL   
 
 	[https://jobs.purchase.edu](https://jobs.purchase.edu)
 
-### To Apply###
+### To Apply   
 
 	[https://jobs.purchase.edu](https://jobs.purchase.edu)
 
 
-### Company Information###
+### Company Information   
 
 Candidates are required to complete an online application via the College's job vacancy website and attach a resume specifying work experience and education, a cover letter (maximum one-page) expressing interest in the position and summarizing qualifications, and the names, addresses, and e-mail addresses (and phone numbers, if possible) of THREE (3) references, who can speak to your experience related to this position (Attach as "Other Document 1"). 
 
@@ -96,7 +96,7 @@ Phone calls, hard copy, or e-mail submissions of application materials will NOT 
 
 
 
-### Contact Information###
+### Contact Information   
 
 	[https://jobs.purchase.edu](https://jobs.purchase.edu)
 

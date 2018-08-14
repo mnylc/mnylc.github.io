@@ -6,7 +6,7 @@ excerpt: "The schedule for this position will include evenings and Saturdays. Qu
 tag: job
 ---
 
-### Description###
+### Description   
 
 The schedule for this position will include evenings and Saturdays.
 
@@ -15,7 +15,7 @@ Queens Library is a national and international leader in the delivery of public 
 Queens Library is the proud recipient of the following awards: 2009 Library Journal, Library of the Year, 2014 ALA/Information Today, Library of the Future, 2013 ULC Top Innovators, 2013 American-Architect’s Building of the Year (Queens Library at Glen Oaks).
 
 
-### Responsibilities###
+### Responsibilities   
 
 * Provide reference and advisory services to all levels of customers.  Performs complex reference and research work. Explains and assists customers with the use of various formats of resources.  Conducts training/teaching class for the internal and external customers in the use of the library resources, databases, computer applications, MS Office suite and internet.
 
@@ -31,7 +31,7 @@ Queens Library is the proud recipient of the following awards: 2009 Library Jour
 
 
 
-### Qualifications###
+### Qualifications   
 
 * Requires an ALA accredited Master’s degree, eligibility for New York State Public Librarian’s Certificate and a performance of standard or above in public service positions.  B.A. in Music related degree. 
 
@@ -49,7 +49,7 @@ Queens Library is the proud recipient of the following awards: 2009 Library Jour
 
 
 
-### To Apply###
+### To Apply   
 
 Send your resume and cover letter to qlcareers@queenslibrary.org and reference “Music Librarian - QLWEB” in the subject line. Resumes will only be accepted by email. 
 

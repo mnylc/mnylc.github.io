@@ -6,12 +6,12 @@ excerpt: "Poly Prep seeks applicants for the Director of Library Services for th
 tag: job
 ---
 
-### Description###
+### Description   
 
 Poly Prep seeks applicants for the Director of Library Services for the 2017-18 school year. The position requires extensive knowledge of, and or practice in, developing LibGuides, Follett Destiny, and database instruction and acquisition. Qualified applicants will have a Master of Library Science from an ALA-accredited institution and have professional experience as a school librarian. The ideal candidate possess a passion for teaching, a love for learning and working with students, families, and colleagues, a sense of humor and is able be an agent of collaboration.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Duties include:
 
@@ -56,16 +56,16 @@ including but not limited to: department, committee, and divisional meetings
 
 
 
-### Location###
+### Location   
 
 Brooklyn, NY
 
 
-### URL###
+### URL   
 
 www.polyprep.org
 
-### To Apply###
+### To Apply   
 
 Poly Prep strives to be an equitable, just, and diverse community, one proud of and deeply committed to empowering students to discover who they are and what they want to be. In keeping with the country day school philosophy, we seek community members who will share a passion for learning in and out of the classroom. Every educator at Poly Prep aspires to uphold our mission “to support and inspire the next diverse generation of leaders and global citizens to act with intelligence, imagination and––above all––character.”
 

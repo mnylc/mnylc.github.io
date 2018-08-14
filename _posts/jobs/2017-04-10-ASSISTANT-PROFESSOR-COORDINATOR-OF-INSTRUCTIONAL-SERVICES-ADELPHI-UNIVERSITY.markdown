@@ -6,12 +6,12 @@ excerpt: "Reporting to the Dean of University Libraries, the Coordinator of Inst
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Dean of University Libraries, the Coordinator of Instructional Services leads the Adelphi Libraries’ Instruction Program and promotes the advancement and integration of information literacy across the curriculum. The successful candidate will work closely with librarians, teaching faculty, and campus partners to provide students with opportunities to attain information literacy skills necessary for academic success and life-long learning.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Primary Responsibilities:
 
@@ -42,7 +42,7 @@ Other Responsibilities:
 Represent the Libraries to other groups around campus and the region; serve on University and Library committees; participate in professional associations and bodies; participate in scholarly and professional activities including research and publishing required for reappointment, tenure and promotion.
 
 
-### Qualifications###
+### Qualifications   
 
 This is a tenure-track library faculty position. Applicants must hold a master's degree from an ALA accredited school of library/information science. A second post-baccalaureate degree or similar proof of advanced study is highly preferred and is required for promotion to the rank of Associate Professor and for tenure.  Applicants must possess excellent supervisory, interpersonal, and communications skills as well as the ability to work collaboratively and effectively in a collegial environment.  Applicants must demonstrate evidence of ability to meet criteria for promotion and tenure.
 
@@ -58,26 +58,26 @@ Ability to use emerging technologies effectively to deliver information literacy
 
 
 
-### Location###
+### Location   
 
 Adelphi University, Garden City NY 
 
 
-### URL###
+### URL   
 
 [http://hr.adelphi.edu/position-openings/](http://hr.adelphi.edu/position-openings/)
 
-### To Apply###
+### To Apply   
 
 Apply online
 
 
-### Company Information###
+### Company Information   
 
 Adelphi University | 1 South Ave | P.O. Box 701 | Garden City, NY 11530-0701 | 800.ADELPHI (233.5744)
 
 
-### Contact Information###
+### Contact Information   
 
 OFFICE OF HUMAN RESOURCES
 LEVERMORE HALL Room 203

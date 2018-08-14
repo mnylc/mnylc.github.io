@@ -6,12 +6,12 @@ excerpt: "The Research Data Coordinator is responsible, in partnership with coll
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Research Data Coordinator is responsible, in partnership with colleagues across the University, to develop and implement robust services supporting faculty, students, and staff through the research data lifecycle. The Coordinator leads the Libraries’ efforts in data management planning, discovery and access of research data, data sharing and publication, and data visualization. As part of the Science, Engineering and Social Sciences Libraries team, the Coordinator is responsible for research consultations, instructional services, and providing front-line research support in-person and virtually. The Coordinator will support digital scholarship initiatives and engage technologies emerging as critical to research and teaching to meet the evolving needs of faculty, students, and staff. The Coordinator will also participate in initiatives across the Libraries including fostering new forms of scholarly communication.  
 
 
-### Responsibilities###
+### Responsibilities   
 
 Major Responsibilities:
 
@@ -33,7 +33,7 @@ Major Responsibilities:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications
 
@@ -61,28 +61,28 @@ Preferred Qualifications
 
 
 
-### Compensation###
+### Compensation   
 
 Competitive
 
 
-### Location###
+### Location   
 
 New York,New York
 
 
-### URL###
+### URL   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=65363](https://academicjobs.columbia.edu/applicants/Central?quickFind=65363)  
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=65363](https://academicjobs.columbia.edu/applicants/Central?quickFind=65363)  
 
 
 
 
-### Company Information###
+### Company Information   
 
 As one of the world's leading research universities, Columbia University in the City of New York provides outstanding opportunities to work and grow in a dynamic, multicultural, intellectual community. The Columbia University Libraries comprises a diverse and engaged staff committed to furthering the University's teaching and research mission through innovation, collaboration, and a commitment to excellence.
 

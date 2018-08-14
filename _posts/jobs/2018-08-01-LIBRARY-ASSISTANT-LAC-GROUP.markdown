@@ -6,13 +6,13 @@ excerpt: "LAC Group seeks candidates for a part-time Library Assistant role, spe
 tag: job
 ---
 
-### Description###
+### Description   
 
 LAC Group seeks candidates for a part-time Library Assistant role, specializing in law firm libraries. The main focus of the position will be to provide library assistance and basic research support for the New York office of a prestigious law firm. This is a part-time, 25 hour per week position.   
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Maintain Library collection by sorting, shelving and organizing books and newsletters, and filing pocket parts and supplements and loose-leaf sets;
 Check-in and route materials using library catalog;
@@ -26,7 +26,7 @@ Orders supplies for the Library department when needed;
 Perform related tasks as assigned and participates in special projects as necessary. 
 
 
-### Qualifications###
+### Qualifications   
 
 BA/BS Degree; MLS/MLIS is preferred;
 Minimum two years of library experience performing required duties, experience in a Law Firm library is required;
@@ -36,31 +36,31 @@ Excellent oral and written communication skills;
 Client-focused service orientation;
 
 
-### Compensation###
+### Compensation   
 
 Hourly
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 [https://www.libgig.com/careers/library-assistant-part-time-lac-group/a0E1H00000aA6H5UAK/](https://www.libgig.com/careers/library-assistant-part-time-lac-group/a0E1H00000aA6H5UAK/)
 
-### To Apply###
+### To Apply   
 
 [https://www.libgig.com/careers/library-assistant-part-time-lac-group/a0E1H00000aA6H5UAK/](https://www.libgig.com/careers/library-assistant-part-time-lac-group/a0E1H00000aA6H5UAK/)
 
 
-### Company Information###
+### Company Information   
 
 LAC Group
 
 
-### Contact Information###
+### Contact Information   
 
 katy.davis@lac-group.com
 

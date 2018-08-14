@@ -6,14 +6,14 @@ excerpt: "The Thomas J. Watson Library in The Metropolitan Museum of Art is plea
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Thomas J. Watson Library in The Metropolitan Museum of Art is pleased to announce an opening for the position of Library Associate for Electronic Resources (Part-time, 3 days/week). This three-day position is a special opportunity to contribute to the success of an innovative and productive art library at a world-class museum while learning and applying new skills.
 
 The Library Associate for Electronic Resources is responsible for ensuring reliable and effective access to Watson Library’s extensive collection of electronic resources and for managing their subscriptions and related trials, renewals, and cancellations. This position will collect and analyze usage data for these resources, creating reports and charts as needed. This position will also assist with troubleshooting e-resources and working with library systems staff to resolve any access or authentication issues. This position provides service at the Watson Library registration desk or Nolen Library desk (including 3-4 weekend shifts per year required).
 
 
-### Responsibilities###
+### Responsibilities   
 
 PRIMARY RESPONSIBILITIES & DUTIES:
 
@@ -36,7 +36,7 @@ PRIMARY RESPONSIBILITIES & DUTIES:
 · Other duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 REQUIREMENTS & QUALIFICATIONS:
 
@@ -73,19 +73,19 @@ Knowledge and Education:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Review of applications will begin immediately and continue until the position is filled. Applicants should submit a cover letter indicating how they satisfy the requirements above, a resume, and the names of three references to the following e-mail address: lib.search@metmuseum.org.
 
 
-### Company Information###
+### Company Information   
 
 The Thomas J. Watson Library is the central research library of The Metropolitan Museum of Art. Reflecting the depth and scope of the Museum’s collection, the library collects scholarly material from the art of early antiquity to contemporary art. Like the Museum, the library’s holdings are encyclopedic and global in nature and provide a broad range of research materials on Ancient Near Eastern, Egyptian, Greek and Roman, Asian, Islamic, European and American art. In addition to its extensive collection of monographs, exhibition catalogs and rare books, the library includes 150,000 auction and sale catalogs dating from the eighteenth century to the present day. Watson Library’s staff of thirty eight adds nearly 20,000 volumes a year, manages a large collection of electronic resources, and continues to build its digital collections, now comprising over one million pages of online content.
 

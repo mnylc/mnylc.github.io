@@ -6,7 +6,7 @@ excerpt: "The New School Archives and Special Collections seeks an enthusiastic,
 tag: job
 ---
 
-### Description###
+### Description   
 
 The New School Archives and Special Collections seeks an enthusiastic, committed assistant director for digital archives (ADDA) to plan, set policy, implement, and manage systems and workflows for accessioning, appraising, processing, preserving, and facilitating access to digital collections in the New School Archives and Special Collections (the Archives).
 
@@ -15,7 +15,7 @@ In this permanent, full-time position reporting to the director of the Archives,
 The successful candidate will have experience in processing digitized and born digital archival materials, with a demonstrated understanding of archival arrangement and description and the application of archival principles in a digital environment. The ADDA will be expected to remain current with emerging standards and professional best practices and their real-world application.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Serve as Archives’ technical expert in planning, management and execution of digital collections program, including establishing policy and making budget recommendations.
 
@@ -48,7 +48,7 @@ Supervise Archives staff in director’s absence.
 Other responsibilities as required.
 
 
-### Qualifications###
+### Qualifications   
 
 Required:
 Master’s degree in Library Science or Information Science, with a concentration in archives; or Master’s degree in Archives (PLEASE DO NOT APPLY IF YOU HAVE NOT YET GRADUATED)
@@ -98,21 +98,21 @@ Familiarity with linked data and RDF technologies, especially as applied in arch
 Familiarity with ArchivesSpace.
 
 
-### Compensation###
+### Compensation   
 
 $52,000-57,000
 
 
-### Location###
+### Location   
 
 NEW YORK CITY
 
 
-### URL###
+### URL   
 
 [http://library.newschool.edu/archives/](http://library.newschool.edu/archives/)
 
-### To Apply###
+### To Apply   
 
 [https://careers.newschool.edu/postings/15307](https://careers.newschool.edu/postings/15307)
 

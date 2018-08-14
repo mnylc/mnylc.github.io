@@ -6,7 +6,7 @@ excerpt: "The New-York Historical Society, a preeminent educational and research
 tag: job
 ---
 
-### Description###
+### Description   
 
 The New-York Historical Society, a preeminent educational and research institution, is home to both New York City’s oldest museum and to one of the nation’s most distinguished independent research libraries. N-YHS is dedicated to presenting exhibitions and public programs, and fostering research that reveal the dynamism of history and its influence on the world of today. Founded in 1804, its holdings cover four centuries of American history, and include one of the world’s greatest collections of books, manuscripts, graphic materials, historical artifacts, and American art documenting the history of the United States as seen through the prism of New York. Among its most important recent acquisitions are the vast archive of Time Inc. and the related personal papers of Time’s co-founder, Henry R. Luce (1898-1967).
 
@@ -16,7 +16,7 @@ The New-York Historical Society Library is seeking an experienced Project Archiv
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Essential Job Duties:
 
@@ -40,7 +40,7 @@ The position requires the ability to lift and carry for short distances storage 
 
 
 
-### Qualifications###
+### Qualifications   
 
 Education:
 
@@ -65,19 +65,19 @@ Skills and Experience:
 
 
 
-### Compensation###
+### Compensation   
 
 $37,500 for the 9 month project. Attractive benefits package. 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Send cover letter, resume, the names and contact information of three references, and a finding aid writing sample (or a link to an on-line sample) to resumes@nyhistory.org. In the subject line please reference the job title. 
 
@@ -85,7 +85,7 @@ The New-York Historical Society is an Equal Opportunity Employer.
 
 
 
-### Company Information###
+### Company Information   
 
 170 Central Park West/New York, NY 10024
 

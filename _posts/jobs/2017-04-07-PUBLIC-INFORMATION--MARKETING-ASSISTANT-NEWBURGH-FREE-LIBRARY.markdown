@@ -6,7 +6,7 @@ excerpt: "We are seeking the right person for a new full-time Library Assistant 
 tag: job
 ---
 
-### Description###
+### Description   
 
 We are seeking the right person for a new full-time Library Assistant position at the Newburgh Free Library, 124 Grand Street, Newburgh, NY, located along the river in the beautiful Hudson Valley! A description and details about the position are included below.
 
@@ -32,7 +32,7 @@ Knowledge/Skills/Qualities
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum qualifications
 
@@ -48,16 +48,16 @@ Minimum qualifications
 
 
 
-### Location###
+### Location   
 
 Newburgh, NY, USA
 
 
-### URL###
+### URL   
 
 www.newburghlibrary.org
 
-### To Apply###
+### To Apply   
 
 To apply, go to www.newburghschools.org, click on the “Employment” tab, drop down to “HR Department” and follow the directions on the posting for NFL-Library Assistant - Provisional Appointment.   
 All replies must be received in the Office of Human Resources by 4PM on April 26, 2017.
@@ -67,7 +67,7 @@ All replies must be received in the Office of Human Resources by 4PM on April 26
 
 
 
-### Contact Information###
+### Contact Information   
 
 For further information about the position, contact Human Resources at 845-563-3460.
 

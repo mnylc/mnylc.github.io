@@ -6,7 +6,7 @@ excerpt: "The Part-Time Digital Archivist is responsible for processing the libr
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Part-Time Digital Archivist is responsible for processing the library’s digital archives collections.  The Part-Time Digital Archivist will train staff, volunteers and interns on digital archives projects and conduct quality control reviews on completed records.  This position will also contribute to the curation of digital archives websites and social media by identifying candidate records for posts and online exhibits.  Performs other duties as required.
 
@@ -19,7 +19,7 @@ Queens Library is the proud recipient of the following awards: 2009 Library Jour
 
 
 
-### Qualifications###
+### Qualifications   
 
 Experience
 Experience with archival processing, digital asset management systems, and digital preservation required.
@@ -40,7 +40,7 @@ ALA accredited MLS/MLIS degree required with either an Archives certification or
 
 
 
-### To Apply###
+### To Apply   
 
 Please send your resume and cover letter to natalie.milbrodt@queenslibrary.org and reference “PART-TIME DIGITAL ARCHIVIST - HOURLY” in the subject line. Resumes will only be accepted by email.
 

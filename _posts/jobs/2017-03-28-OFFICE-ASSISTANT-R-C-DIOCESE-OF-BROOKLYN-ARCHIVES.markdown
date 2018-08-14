@@ -6,12 +6,12 @@ excerpt: "Provide clerical and administrative support to the Archives office. In
 tag: job
 ---
 
-### Description###
+### Description   
 
 Provide clerical and administrative support to the Archives office. In addition, this position is responsible for researching and certifying school records. Provide assistance in the safekeeping of permanent records and historically valuable documents. Participate in research activities based on archival materials.  Provide back-up receptionist coverage for the front desk.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Clerical duties assigned in accordance with the Archives office procedures and include a combination of answering telephones, bookkeeping, typing or word processing, mail services, office machine operation, inventory and supplies, copying, and, filing.  Coordinate and schedule meetings.
@@ -33,7 +33,7 @@ Provide clerical and administrative support to the Archives office. In addition,
 • 	Perform back up receptionist coverage for Administrative Services Group
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Mandatory execution of Confidentiality Agreement
@@ -55,28 +55,28 @@ Provide clerical and administrative support to the Archives office. In addition,
 
 
 
-### Location###
+### Location   
 
 Brooklyn, NY
 
 
-### URL###
+### URL   
 
 [http://dioceseofbrooklyn.org/](http://dioceseofbrooklyn.org/)
 
-### To Apply###
+### To Apply   
 
 [http://dioceseofbrooklyn.org/homepage/employment-opportunities/](http://dioceseofbrooklyn.org/homepage/employment-opportunities/)
 
 
-### Company Information###
+### Company Information   
 
 R. C. Diocese of Brooklyn
 310 Prospect Park West
 Brooklyn NY 11215
 
 
-### Contact Information###
+### Contact Information   
 
 Chris Miller
 Human Resources Administrator

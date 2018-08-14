@@ -6,12 +6,12 @@ excerpt: "The Great Neck Library is seeking a dynamic Emerging Technologies Libr
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Great Neck Library is seeking a dynamic Emerging Technologies Librarian to inspire vision and deliver innovative technology programming for patrons at a very active, culturally diverse library in a  highly educated community.  The Emerging Technologies Librarian will identify, explore, evaluate, instruct, and implement the use of new and established technology in the library.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities include but are not limited to:
 
@@ -33,7 +33,7 @@ Sundays on a Voluntary  Basis
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 
@@ -47,21 +47,21 @@ Minimum Qualifications:
 
 
 
-### Compensation###
+### Compensation   
 
 Starting Salary Range: The minimum starting salary is $53,260 with full benefit package commensurate with experience and qualifications.
 
 
-### Location###
+### Location   
 
 Great Neck, NY
 
 
-### URL###
+### URL   
 
 [https://www.greatnecklibrary.org/libinfo/jobs.php](https://www.greatnecklibrary.org/libinfo/jobs.php)
 
-### To Apply###
+### To Apply   
 
 Reply with resume, cover letter, and references by August 15 to:
 Employment

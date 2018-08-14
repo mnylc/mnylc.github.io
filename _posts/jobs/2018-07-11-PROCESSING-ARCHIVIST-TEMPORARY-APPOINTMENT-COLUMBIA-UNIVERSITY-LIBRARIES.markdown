@@ -6,7 +6,7 @@ excerpt: "Columbia University Libraries seek a temporary experienced Processing 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Columbia University Libraries seek a temporary experienced Processing Archivist to arrange and process the de Bary Collection, the Tsunoda Ryusaku Collection, the Miwa Kai Collection, and other archives and manuscript material in all formats held by the C.V. Starr East Asian Library according to local and national best practices. The position reports to the Head of Public Services/East Asian Studies Librarian in the C.V. Starr East Asian Library. 
 
@@ -21,7 +21,7 @@ As one of the world's leading research universities, Columbia University in the 
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications: 
 - MLS or PhD or equivalent advanced degree
@@ -45,14 +45,14 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=66706](https://academicjobs.columbia.edu/applicants/Central?quickFind=66706)
 

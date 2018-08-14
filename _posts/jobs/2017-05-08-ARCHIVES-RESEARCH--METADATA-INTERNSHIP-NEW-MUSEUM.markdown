@@ -6,12 +6,12 @@ excerpt: "The New Museum seeks a Archives Research and Metadata Intern in prepar
 tag: job
 ---
 
-### Description###
+### Description   
 
 The New Museum seeks a Archives Research and Metadata Intern in preparation for the re-launch of the Museum’s Digital Archive, to coincide with its 40th Anniversary programs. This is a 10-week, full time position starting May 22, 2017. Reporting to the New Museum Archivist, the Archives Research & Metadata Intern will assist with all aspects of the Digital Archive re-launch.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Auditing image records in the Digital Archive database and performing metadata clean up on description and captioning fields. Correcting formatting errors.
@@ -28,7 +28,7 @@ The New Museum seeks a Archives Research and Metadata Intern in preparation for 
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Experience performing archival research and familiarity with handling of archival photos and documents.
@@ -47,26 +47,26 @@ The New Museum seeks a Archives Research and Metadata Intern in preparation for 
 
 
 
-### Compensation###
+### Compensation   
 
 Monthly stipend
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Application review will commence immediately. Interested candidates should send a cover letter, list of three references, and current resume with links to portfolios and writings to archive@newmuseum.org with subject line “Research & Metadata Intern.” Letters of recommendation will be considered, but are not required. 
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 archive@newmuseum.org
 

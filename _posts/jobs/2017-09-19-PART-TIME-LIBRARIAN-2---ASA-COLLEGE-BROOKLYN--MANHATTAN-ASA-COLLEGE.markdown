@@ -6,7 +6,7 @@ excerpt: "ASA College, a New York City-based, two-year degree-granting instituti
 tag: job
 ---
 
-### Description###
+### Description   
 
 ASA College, a New York City-based, two-year degree-granting institution, has a pair of openings for part-time librarians at our Brooklyn MetroTech and Herald Square Manhattan locations. One position is primarily afternoons and the other primarily evenings. Each position will not exceed 29 hours per week and may involve occasional Saturdays in Manhattan. Weekdays will likely involve hours at both campuses. The successful candidates will be energetic, flexible and creative self-starters able to work efficiently both alone and as part of the ASA Library team. 
 
@@ -14,7 +14,7 @@ This position is supervised by the head librarians of the Brooklyn and Manhattan
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The positions are responsible for all ASA library services, including customer service interaction, organization of the library, supervision of student workers, collection development and maintenance of existing physical and electronic collections. 
 
@@ -23,23 +23,23 @@ Reference and research assistance services include both face-to-face and virtual
 The start date for both positions is October 10, 2017.
 
 
-### Qualifications###
+### Qualifications   
 
 An MLS or MLIS degree from an ALA-accredited institution is required. Previous academic library experience is preferred by not essential.
 
 
 
 
-### Location###
+### Location   
 
 Brooklyn (MetroTech) and Manhattan (Herald Square)
 
 
-### URL###
+### URL   
 
 asa.edu
 
-### To Apply###
+### To Apply   
 
 Qualified individuals are invited to email résumé and cover letter to:
  
@@ -53,7 +53,7 @@ No phone calls, please.
 
 
 
-### Company Information###
+### Company Information   
 
 Founded in 1985, ASA College is regionally accredited by the Middle States Commission on Higher Education (MSCHE).
 
@@ -61,7 +61,7 @@ The ASA libraries serve a widely-diverse population of students including intern
 
 
 
-### Contact Information###
+### Contact Information   
 
 Email: bstowe@asa.edu
 

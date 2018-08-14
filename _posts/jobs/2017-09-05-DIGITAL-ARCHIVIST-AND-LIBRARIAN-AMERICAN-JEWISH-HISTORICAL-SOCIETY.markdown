@@ -6,7 +6,7 @@ excerpt: "This position is responsible for contributing to the AJHS archives tea
 tag: job
 ---
 
-### Description###
+### Description   
 
 This position is responsible for contributing to the AJHS archives team via technological and cataloging expertise. The position must also contribute to the management of archival and library collections.
 
@@ -29,7 +29,7 @@ Essential Job Functions:
 
 
 
-### Qualifications###
+### Qualifications   
 
 -MLS degree from an ALA accredited program.
 -Experience with MaRC, EAD, CSS, HTML, XML, and Unix.
@@ -49,21 +49,21 @@ Essential Job Functions:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://ajhs.org/](http://ajhs.org/)
 
-### To Apply###
+### To Apply   
 
 Please send resume and cover letter to jobs@ajhs.org Subject: DIGITAL ARCHIVIST. Review of Cover Letters and Resumes begins September 13, 2017.
 
 
-### Company Information###
+### Company Information   
 
 American Jewish Historical Society is an equal opportunity employer. Job may include some exposure to dust and mold, as is typical in an archival environment.
 

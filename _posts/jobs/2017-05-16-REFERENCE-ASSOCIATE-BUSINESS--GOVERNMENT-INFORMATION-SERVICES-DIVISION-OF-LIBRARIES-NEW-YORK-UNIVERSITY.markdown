@@ -6,7 +6,7 @@ excerpt: "Provide a variety of multidisciplinary reference and research services
 tag: job
 ---
 
-### Description###
+### Description   
 
 Provide a variety of multidisciplinary reference and research services to library patrons in person and remotely. Conducts library tours, basic information literacy classes and supports the instruction outreach program for NYU Libraries. Assists library patrons with complex research, reference and collections inquiries and research strategies, primarily in business, economics and government documents. Assists with content development for the Virtual Business Library website and online research guides; participates in library committees, various special projects and initiatives.
 
@@ -17,7 +17,7 @@ EOE/AA/Minorities/Females/Vet/Disabled/Sexual Orientation/Gender Identity
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Education:
 Bachelor's degree in social sciences, economics or business.
@@ -42,21 +42,21 @@ Apply Here: [http://www.Click2apply.net/8y3m3bphppvmvgx9](http://www.Click2apply
 PI97847403 
 
 
-### Compensation###
+### Compensation   
 
 DOE
 
 
-### Location###
+### Location   
 
 New York, NY, US
 
 
-### URL###
+### URL   
 
 [http://www.Click2apply.net/8y3m3bphppvmvgx9](http://www.Click2apply.net/8y3m3bphppvmvgx9)
 
-### To Apply###
+### To Apply   
 
 Apply Online
 

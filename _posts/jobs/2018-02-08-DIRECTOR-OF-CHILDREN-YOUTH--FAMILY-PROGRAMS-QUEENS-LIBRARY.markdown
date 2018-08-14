@@ -6,7 +6,7 @@ excerpt: "DUTIES AND RESPONSIBILITIES: The Director of Children, Youth & Family 
 tag: job
 ---
 
-### Description###
+### Description   
 
 DUTIES AND RESPONSIBILITIES:
 The Director of Children, Youth & Family Programs is responsible for conceiving, developing, implementing, managing, leading, and improving library system-wide programs and special services dedicated to customers ages 0-21.  Analyzes community information to determine best resource allocation based on demographic data and community needs.  Identifies and builds in evaluation methods designed to measure performance and attain objectives.  
@@ -95,7 +95,7 @@ Queens Library is the proud recipient of the following awards: 2009 Library Jour
 
 
 
-### To Apply###
+### To Apply   
 
 TO APPLY:  Please send your resume and cover letter to QLcareers@queenslibrary.org and reference “Director of Children, Youth & Family Programs – EXTERNAL” in the subject line. Resumes will only be accepted by email.
  

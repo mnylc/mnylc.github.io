@@ -6,7 +6,7 @@ excerpt: "Apologies for Cross-Posting: POSITION DESCRIPTION AND DUTIES: The Adju
 tag: job
 ---
 
-### Description###
+### Description   
 
 Apologies for Cross-Posting:
 
@@ -43,14 +43,14 @@ digregorioa@oldwestbury.edu 
 
 
 
-### Location###
+### Location   
 
 Old Westbury, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 To apply, send a resume, with a cover letter including your scheduling preferences, and the names and contact information of three references to: digregorioa@oldwestbury.edu
 

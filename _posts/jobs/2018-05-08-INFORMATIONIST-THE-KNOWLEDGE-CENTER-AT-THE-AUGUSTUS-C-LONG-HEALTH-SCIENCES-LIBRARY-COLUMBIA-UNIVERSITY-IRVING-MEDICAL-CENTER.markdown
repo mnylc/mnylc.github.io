@@ -6,7 +6,7 @@ excerpt: "The Knowledge Center (KC) at the Augustus C. Long Health Sciences Libr
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Knowledge Center (KC) at the Augustus C. Long Health Sciences Library (HSL) aims to be the focal point for the exchange of biomedical and scientific information that is vital to the broad range of aspirations and activities within the Columbia University Irving Medical Center (CUIMC).
 
@@ -16,7 +16,7 @@ The Informationist will create and deliver innovative research and information m
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Essential duties and responsibilities of the position include, but are not limited to:
 
@@ -44,7 +44,7 @@ Essential duties and responsibilities of the position include, but are not limit
 
 
 
-### Qualifications###
+### Qualifications   
 
 Requirements:
 
@@ -108,21 +108,21 @@ Experience in health research, specializing in searching methods for evidence-ba
 
 
 
-### Location###
+### Location   
 
 New York NY
 
 
-### URL###
+### URL   
 
    
 
-### To Apply###
+### To Apply   
 
  [http://academicjobs.columbia.edu/applicants/Central?quickFind=66384](http://academicjobs.columbia.edu/applicants/Central?quickFind=66384)   
 
 
-### Company Information###
+### Company Information   
 
 701 W. 168th St., New York, NY 10032
 

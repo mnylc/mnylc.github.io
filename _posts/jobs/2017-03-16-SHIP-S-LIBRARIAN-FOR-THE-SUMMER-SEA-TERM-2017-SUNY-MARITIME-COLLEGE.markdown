@@ -6,7 +6,7 @@ excerpt: "The Stephen B. Luce Library of SUNY Maritime College announces the pos
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Stephen B. Luce Library of SUNY Maritime College announces the position of Ship's Librarian aboard the Training Ship EMPIRE STATE VI during the 2016 Summer Sea Term.  The Ship's Librarian serves as the sole information professional and head of the library aboard the ship.  The ship's library serves as the repository of information aboard the ship.  It contains a collection over 3,000 titles and computer terminals with access to academic electronic resources.
 
@@ -24,7 +24,7 @@ Budget Title: Technical Specialist (CSL)
 Salary Grade: NSSL
 
 
-### Responsibilities###
+### Responsibilities   
 
 The ship's librarian is expected to:
 - Provide reference service including reader's advisory and other information queries from cadets, crew, and officers
@@ -37,7 +37,7 @@ The ship's librarian is expected to:
 - Manage the showing of nightly films to the ship community
 
 
-### Qualifications###
+### Qualifications   
 
 Preferred Qualifications:
 Master's degree in Library Science
@@ -58,33 +58,33 @@ A COPY OF ALL REQUIRED DOCUMENTATION MUST BE PROVIDED PRIOR TO THE EFFECTIVE DAT
 Incumbent will be required to pay out of pocket expenses for obtaining necessary government paperwork and clearance for position
 
 
-### Compensation###
+### Compensation   
 
 Compensation: Salary based on a daily rate of pay. Housing and all meals are included while aboard the EMPIRE STATE VI Training Ship.
 
 
-### Location###
+### Location   
 
 The Sea
 
 
-### URL###
+### URL   
 
 [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=81186](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=81186)
 
-### To Apply###
+### To Apply   
 
 Applicants must apply via Interview Exchange: [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=81186](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=81186)
 
 
-### Company Information###
+### Company Information   
 
 Stephen B. Luce Library- SUNY Maritime College
 Bronx NY 10465
 United States
 
 
-### Contact Information###
+### Contact Information   
 
 Kristin Hart
 Phone: (718) 409-7236

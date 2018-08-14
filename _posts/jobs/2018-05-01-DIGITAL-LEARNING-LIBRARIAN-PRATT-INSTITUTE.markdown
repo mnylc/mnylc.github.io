@@ -6,7 +6,7 @@ excerpt: "Position summary: Under the general supervision of the Chair of Librar
 tag: job
 ---
 
-### Description###
+### Description   
 
 Position summary:
 Under the general supervision of the Chair of Library Faculty and with routine day-to-day collaboration with the Technical Services and Public Service departments, The Digital Learning Librarian researches, assesses and develops innovative and fully accessible online tools and platforms that support the Libraries' efforts in reference provision, student and faculty instruction, and campus outreach. The ideal candidate approaches research and learning technologies from a forward looking perspective, tailoring effective solutions that address the unique and evolving research needs of Pratt's diverse and creative community. The Digital Learning Librarian will be an excellent communicator who thrives in an environment that values an iterative and incremental approach to library resource development. Persons with experience and scholarship directly related to helping Pratt achieve the goals outlined in our Diversity Strategic Plan are encouraged to apply.
@@ -71,31 +71,31 @@ PI102216125
 
 
 
-### Compensation###
+### Compensation   
 
 $65,000.00/Yearly Salary
 
 
-### Location###
+### Location   
 
 Brooklyn, New York, United States
 
 
-### URL###
+### URL   
 
 [http://www.Click2Apply.net/487wgy497gwvr26r](http://www.Click2Apply.net/487wgy497gwvr26r)
 
-### To Apply###
+### To Apply   
 
 Apply Online
 
 
-### Company Information###
+### Company Information   
 
 Pratt Institute
 
 
-### Contact Information###
+### Contact Information   
 
 Human Resources
 

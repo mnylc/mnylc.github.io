@@ -6,12 +6,12 @@ excerpt: "The Digital Services / Instruction Librarian is dedicated to the devel
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Digital Services / Instruction Librarian is dedicated to the development, promotion, management and evaluation of digital services. He/she will also participate in providing public service and instruction. Work is performed in accordance with accepted practices and procedures in the field of library sciences, with latitude for the exercise of independent professional judgment under the general direction of the Library Director.
 
 
-### Responsibilities###
+### Responsibilities   
 
  Responsible for all aspects of the Library’s Website and Digital Archives.
  Primary responsibility for Voyager, Primo, EZProxy and LibGuides.
@@ -24,7 +24,7 @@ The Digital Services / Instruction Librarian is dedicated to the development, pr
  Fulfills other duties as assigned by the Director of Library Services.
 
 
-### Qualifications###
+### Qualifications   
 
  Master’s degree from an ALA accredited school of library/information science; a Master’s degree in Library and Information Science (MLIS), or Master of Library Science (MLS), or Master of Science in Library Science (MSLS) is required.
  1 – 2 years of relevant experience preferred.
@@ -39,19 +39,19 @@ The Digital Services / Instruction Librarian is dedicated to the development, pr
 
 
 
-### Location###
+### Location   
 
 Brooklyn Heights, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Interested applicants can apply at [https://www.sfc.edu/about/careers](https://www.sfc.edu/about/careers)
 
 
-### Company Information###
+### Company Information   
 
 For over 150 years, the mission of St. Francis has been to provide an affordable, quality education to working class people who otherwise may not be able to attend college. St. Francis College is a private, independent, co-educational urban college whose Franciscan and Catholic traditions underpin its commitment to academic excellence, spiritual and moral values, physical fitness, social responsibility and life-long learning. We educate the whole person for a full, relational life, developing the students' talents and abilities for meaningful, fulfilling careers, as well as for collaborative, service-oriented leadership.
 The College strives to offer ample opportunities for students to immerse themselves in the intellectual, cultural and professional opportunities afforded by New York City and to serve the needs of the local community in which they live and study. Our location in Brooklyn Heights provides a confluence of cultures and religious beliefs, mirroring our commitment to maintain and celebrate our diverse student body.

@@ -6,12 +6,12 @@ excerpt: "Reference and Instruction Librarian"
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reference and Instruction Librarian
 
 
-### Responsibilities###
+### Responsibilities   
 
 Seeking an experienced P/T Librarian with strong reference, instruction and technology skills.  English Literature/Humanities background highly preferred.  Prime candidates will be passionate about information literacy and have the desire and demonstrated ability to work with and teach a diverse student population in both virtual and physical reference environments, and classroom settings.  PT librarians are an integral part of the library team and Mercy mission, playing a key role in educating students on the use of all library resources and in developing student research skills for academic success and life-long learning. A collaborative and entrepreneurial mind-set combined with a service excellence and team orientation is essential.  Candidates with schedule flexibility and availability on nights and weekends will receive highest consideration.  Position will be based at the Mercy College Bronx and Dobbs Ferry campuses.  Candidate must be willing to travel between the two campuses for instruction as needed.
 
@@ -35,7 +35,7 @@ Duties:
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Master’s Degree in Library and Information Science from an ALA-accredited institution. Additional English Literature subject master’s preferred.
@@ -49,31 +49,31 @@ Duties:
 
 
 
-### Compensation###
+### Compensation   
 
 $25/hour
 
 
-### Location###
+### Location   
 
 Bronx and Dobbs Ferry
 
 
-### URL###
+### URL   
 
 [https://jobs.mercy.edu/postings/3357](https://jobs.mercy.edu/postings/3357)
 
-### To Apply###
+### To Apply   
 
 [https://jobs.mercy.edu/postings/3357](https://jobs.mercy.edu/postings/3357)
 
 
-### Company Information###
+### Company Information   
 
 Mercy College, 555 Broadway, Dobbs Ferry, NY, 10522
 
 
-### Contact Information###
+### Contact Information   
 
 Please apply for position on the Mercy College website:   [https://jobs.mercy.edu/postings/3357](https://jobs.mercy.edu/postings/3357) 
 

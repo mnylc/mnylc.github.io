@@ -6,7 +6,7 @@ excerpt: "Ballet Tech is seeking an archivist. Ballet Tech began in 1974 as a ba
 tag: job
 ---
 
-### Description###
+### Description   
 
 Ballet Tech is seeking an archivist.
 
@@ -16,7 +16,7 @@ We are flexible as to the time commitment, in part because we aren’t sure how 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 We are looking for someone who can:
 
@@ -36,7 +36,7 @@ We are looking for someone who can:
 
 
 
-### Qualifications###
+### Qualifications   
 
 The skills required are:
 
@@ -68,26 +68,26 @@ Education:
 
 
 
-### Compensation###
+### Compensation   
 
 To be determined, depending on experience.
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 www.ballettech.org
 
-### To Apply###
+### To Apply   
 
 Send cover letter, resume, and the contact information for three references to mchrist@ballettech.org. In the subject line please reference the job title. 
 
 
-### Company Information###
+### Company Information   
 
 Ballet Tech
 890 Broadway
@@ -95,7 +95,7 @@ NY NY 10003
 212-777-7710 (no calls please)
 
 
-### Contact Information###
+### Contact Information   
 
 Maggie Christ
 Director of Operations

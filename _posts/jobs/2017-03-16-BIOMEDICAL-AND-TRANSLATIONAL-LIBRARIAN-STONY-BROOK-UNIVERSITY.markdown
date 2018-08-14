@@ -6,7 +6,7 @@ excerpt: "Campus Description: Stony Brook University, home to many highly ranked
 tag: job
 ---
 
-### Description###
+### Description   
 
 Campus Description: Stony Brook University, home to many highly ranked graduate research programs, is located 60 miles from New York City on Long Island's scenic North Shore. Our 1,100-acre campus is home to 24,000 undergraduate, graduate, and doctoral students and more than 13,500 faculty and staff. SBU is a comprehensive research-intensive university and a member of the prestigious Association of American Universities (AAU), which includes 34 public universities among its 62 members. SBU consists of 12 schools and colleges and a teaching hospital that provides state-of-the-art healthcare in the Long Island region. SBU also manages and performs joint research with Brookhaven National Laboratory, the only Department of Energy Laboratory in the Northeast, and shares doctoral programs with Cold Spring Harbor Laboratory, a world-renowned molecular biology institute. Home to the Emerson String Quartet, the Pollock-Krasner House in East Hampton, New York, the Humanities Institute, and the Southampton Arts Program, and with endeavors that extend to the Turkana Basin Institute in Kenya and the Ranomafana National Park in Madagascar, SBU sustains an international reputation that cuts across the arts, humanities, social sciences, and natural sciences.
 
@@ -20,7 +20,7 @@ Department: Library
 Campus: Stony Brook West Campus/HSC
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities & Requirements: The Biomedical and Translational Research Librarian will be responsible for the following:
 
@@ -42,7 +42,7 @@ Responsibilities & Requirements: The Biomedical and Translational Research Libra
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications: ALA accredited Master degree of Library/Information sciences. Master's degree in a science or health sciences related field. Two or more years of experience as a full-time science or health science librarian in a higher education institution. Excellent communication skills.
 
@@ -54,21 +54,21 @@ The selected candidate must successfully clear a background investigation.
 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience
 
 
-### Location###
+### Location   
 
 Stony Brook, NY, USA
 
 
-### URL###
+### URL   
 
 www.stonybrook.edu/jobs (Ref. # F-9730-16-12)
 
-### To Apply###
+### To Apply   
 
 Those interested in this position should submit a State Employment Application, cover letter and resume/CV to:
 
@@ -84,7 +84,7 @@ Stony Brook University is an Affirmative Action/Equal Opportunity employer. We e
 
 
 
-### Contact Information###
+### Contact Information   
 
 Pamela DiPasquale
 University Libraries Personnel

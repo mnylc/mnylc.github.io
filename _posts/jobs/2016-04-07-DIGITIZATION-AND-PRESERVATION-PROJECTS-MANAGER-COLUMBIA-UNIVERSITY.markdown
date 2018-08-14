@@ -6,7 +6,7 @@ excerpt: "Digitization and Preservation Projects Manager (3 Year Temporary Posit
 tag: job
 ---
 
-### Description###
+### Description   
 
 Digitization and Preservation Projects Manager (3 Year Temporary Position)
 Columbia University Libraries/Information Services
@@ -17,7 +17,7 @@ The Digitization and Preservation Projects Manager manages special projects, pri
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 * Under general guidance from the Director, design, document, and manage project workflows, procedures, statistics, and polices. Assist in selection of vendors and developing vendor contracts.
 
@@ -28,7 +28,7 @@ The Digitization and Preservation Projects Manager manages special projects, pri
 * Assist with annual ingest of Internet Archive e-books into HathiTrust; assist other units with inventory and other projects; assist with other PDCD activities as needed, including disaster response.
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 
@@ -69,11 +69,11 @@ Preferred Qualifications:
 
 
 
-### URL###
+### URL   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=62576](https://academicjobs.columbia.edu/applicants/Central?quickFind=62576)
 
-### To Apply###
+### To Apply   
 
 Please visit [https://academicjobs.columbia.edu/applicants/Central?quickFind=62576.](https://academicjobs.columbia.edu/applicants/Central?quickFind=62576.)
 

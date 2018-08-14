@@ -6,12 +6,12 @@ excerpt: "The Librarian is responsible for the overall operation of the library,
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Librarian is responsible for the overall operation of the library, which provides information services to faculty, seminarians, students, administrators, staff, candidates in the diaconate formation program, and the senior priests at the Mugavero Residence. The Librarian will perform administrative and technical duties requiring accuracy and attention to details.  The Librarian develops, maintains, and provides access to and instruction in library resources and information.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Maintain seminary library’s operations, which include cataloging, reference services, acquisitions, collection development, course reserves, and inter-library loan services.
@@ -41,7 +41,7 @@ The Librarian is responsible for the overall operation of the library, which pro
 • 	Performs other tasks as assigned by the Rector.
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Master’s degree in Library Science from an ALA accredited institution, or in the process of attaining their library science degree from an accredited program. 
@@ -61,26 +61,26 @@ The Librarian is responsible for the overall operation of the library, which pro
 • 	Must possess excellent communication (written and oral) and organizational skills.
 
 
-### Compensation###
+### Compensation   
 
 $42,000 - $48,000
 
 
-### Location###
+### Location   
 
 Douglaston, New York
 
 
 
 
-### To Apply###
+### To Apply   
 
 For consideration please email a cover letter and resume to Fr. George Sears (Rector) at fr.george.sears@cathedralseminary.org
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 7200 Douglaston Parkway
 Douglaston, NY 11362

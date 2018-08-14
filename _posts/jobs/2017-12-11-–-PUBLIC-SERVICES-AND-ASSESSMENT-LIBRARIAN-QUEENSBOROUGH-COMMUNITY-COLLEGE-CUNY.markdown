@@ -6,12 +6,12 @@ excerpt: "Public services (reference and instruction) and leadership role in ass
 tag: job
 ---
 
-### Description###
+### Description   
 
 Public services (reference and instruction) and leadership role in assessment in an urban community college
 
 
-### Responsibilities###
+### Responsibilities   
 
 Duties include:
 -Reference service at a reference desk, online and in individual consultations
@@ -23,7 +23,7 @@ Duties include:
 
 
 
-### Qualifications###
+### Qualifications   
 
 All titles require a Master’s in Library Science (MLS), Master’s in Library Information Studies (MLIS), or closely related discipline from an ALA-accredited institution. For appointment as Assistant Professor, a second graduate degree is required.
 For Assistant Professor:
@@ -35,21 +35,21 @@ Preferred qualifications include: 1) Prior experience in public services at a co
 
 
 
-### Compensation###
+### Compensation   
 
 CUNY offers faculty a competitive compensation and benefits package covering health insurance, pension and retirement benefits, paid parental leave, and savings programs.  We also provide mentoring and support for research, scholarship, and publication as part of our commitment to ongoing faculty professional development.
 
 
-### Location###
+### Location   
 
 222-05, 56th Avenue Bayside, NY 11364
 
 
-### URL###
+### URL   
 
 [http://qcc.libguides.com/libraryhome](http://qcc.libguides.com/libraryhome)
 
-### To Apply###
+### To Apply   
 
 From our job posting system, select "Apply Now", create or log in to a user account, and provide the requested information.  If you are viewing this posting from outside our system, access the employment page on our web site and search for this vacancy using the Job ID or Title. 
    
@@ -57,12 +57,12 @@ Candidates must provide a CV/resume, a cover letter and statement of scholarly i
 
 
 
-### Company Information###
+### Company Information   
 
 222-05, 56th Avenue Bayside, NY 11364  718-631-6220
 
 
-### Contact Information###
+### Contact Information   
 
 Prof. Jeanne Galvin, 718-631-6220
 

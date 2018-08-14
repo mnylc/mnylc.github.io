@@ -6,7 +6,7 @@ excerpt: "The Data Specialist is responsible for database maintenance, batch pro
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Data Specialist is responsible for database maintenance, batch processes and trouble-shooting activities. Duties include performing record overlays, batch record edits and assisting team to maintain database accuracy. Serve on the team resolving technical issues with the library’s ILS, DAMS and metadata vendors. 
 
@@ -29,7 +29,7 @@ Queens Library is the proud recipient of the following awards: 2009 Library Jour
 
 
 
-### Qualifications###
+### Qualifications   
 
 Experience
 Experience with cataloging and database management preferred.
@@ -47,16 +47,16 @@ ALA accredited MLS/MLIS degree and eligibility for a New York State Public Libra
 
 
 
-### Location###
+### Location   
 
 Jamaica, NY
 
 
-### URL###
+### URL   
 
  [http://bit.ly/225Nn5x](http://bit.ly/225Nn5x)
 
-### To Apply###
+### To Apply   
 
 Please email your resume and cover letter to: employment@queenslibrary.org and reference “Data Specialist” in the subject line. Resumes will only be accepted by email.
 

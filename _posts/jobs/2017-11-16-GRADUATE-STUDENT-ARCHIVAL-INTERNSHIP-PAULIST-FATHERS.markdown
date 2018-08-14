@@ -6,14 +6,14 @@ excerpt: "The Paulist Fathers: Located in the West Side of Manhattan near Lincol
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Paulist Fathers:
 Located in the West Side of Manhattan near Lincoln Center, The Missionary Society of St. Paul the Apostle (“The Paulist Fathers”) is a community of Catholic priests who share the Gospel of Jesus Christ through mission preaching, media, campus ministries, parishes, downtown centers, the arts and more. The Office of Paulist Archives of the Paulist Fathers collects, preserves, and makes available for research the records of the community that spans its 159 year history. 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Internship Summary:
 The Office of Paulist Archives is looking for an intern to:
@@ -30,7 +30,7 @@ Due to the intern’s access to confidential information, all interns are expect
 Duration: Numbers of days/ hours are flexible within the time frame of 9:30 am to 3 pm, Monday through Wednesday during the semester.
 
 
-### Qualifications###
+### Qualifications   
 
 1.	Applicant must be a current student in an ALA-accredited program with an interest in working in an archival setting.
 2.	Familiarity with Microsoft Office and computer applications required.
@@ -39,26 +39,26 @@ Duration: Numbers of days/ hours are flexible within the time frame of 9:30 am t
 5.	Ability to work in an occasionally dusty environment. 
 
 
-### Compensation###
+### Compensation   
 
 Academic Credit Only
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Please send resume and cover letter via email: paulistrepository@outlook.com  
 No phone calls please. 
 The Missionary Society of St. Paul the Apostle is an equal opportunity employer.
 
 
-### Company Information###
+### Company Information   
 
 415 W. 59th Street, New York, NY 10019
 

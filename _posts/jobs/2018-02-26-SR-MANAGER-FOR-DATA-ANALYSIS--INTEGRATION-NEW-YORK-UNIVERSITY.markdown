@@ -6,7 +6,7 @@ excerpt: "New York University Libraries seeks a collaborative and knowledgeable 
 tag: job
 ---
 
-### Description###
+### Description   
 
 New York University Libraries seeks a collaborative and knowledgeable Senior Manager for Data Analysis and Integration (DAI) to serve as the head of the new department. Leading a service oriented team of library technologists responsible for the access, integrity, interoperability, and delivery of data across library systems, the successful candidate will combine management experience with expertise in integrated library systems and/or metadata discovery systems, with emphasis on application administration, data manipulation, analysis and integration.
 
@@ -16,7 +16,7 @@ Reporting to the Associate Dean for Knowledge Access and Resource Management Ser
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Education:
 Bachelor's degree in Computer Science, Library and Information Science or any other relevant degree.
@@ -48,24 +48,24 @@ PI101282789
 
 
 
-### Location###
+### Location   
 
 New York, New York USA 10001
 
 
 
 
-### To Apply###
+### To Apply   
 
 Apply Online: [http://www.Click2apply.net/hwhcqnsshyh7k8cb](http://www.Click2apply.net/hwhcqnsshyh7k8cb)
 
 
-### Company Information###
+### Company Information   
 
 New York University
 
 
-### Contact Information###
+### Contact Information   
 
 [https://uscareers-nyu.icims.com/jobs/3367/sr.-manager-for-data-analysis-%2526-integration/job?jtsrc=http%3A%2F%2Fmetro.org%2F&jtsrcid=3374&iisn=Metropolitan+New+York+Library+Council+-+Metro+Magnet+Jobs&iis=JobTarget&_jtochash=OdxG1ZulRXQyfgYVf2w8k&_jtocprof=ZWDTCSRyREnX6M5i5LldBILfc9uWajDm&jtrfr=http%3A%2F%2Fdeshub.jobtarget.com%2Ftasks%2Fposting%2F101282789&mobile=false&width=960&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240](https://uscareers-nyu.icims.com/jobs/3367/sr.-manager-for-data-analysis-%2526-integration/job?jtsrc=http%3A%2F%2Fmetro.org%2F&jtsrcid=3374&iisn=Metropolitan+New+York+Library+Council+-+Metro+Magnet+Jobs&iis=JobTarget&_jtochash=OdxG1ZulRXQyfgYVf2w8k&_jtocprof=ZWDTCSRyREnX6M5i5LldBILfc9uWajDm&jtrfr=http%3A%2F%2Fdeshub.jobtarget.com%2Ftasks%2Fposting%2F101282789&mobile=false&width=960&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
 

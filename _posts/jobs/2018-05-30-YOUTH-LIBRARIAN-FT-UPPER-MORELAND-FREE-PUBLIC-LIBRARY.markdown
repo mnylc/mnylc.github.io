@@ -6,7 +6,7 @@ excerpt: "Full Time Youth Librarian Nature of work: Under the direct supervision
 tag: job
 ---
 
-### Description###
+### Description   
 
 Full Time Youth Librarian
 
@@ -40,7 +40,7 @@ Primary Duties:
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 Job Specific Requirements:
@@ -56,38 +56,38 @@ General Requirements for All Library Employees:
 
 
 
-### Qualifications###
+### Qualifications   
 
 3. Education and Experience: Master’s in Library/Information Science and two years of library/children’s services experience is required. Excellent computer skills required including familiarity with library databases, WordPress, Excel, and Publisher.
 
 4. Schedule: This is a 40 hour per week position (paid lunches) and requires two evenings a week and alternate Saturdays
 
 
-### Compensation###
+### Compensation   
 
 $43,000 - 47,000 /year DOE with a generous comprehensive benefits package | ADA/EOE
 
 
-### Location###
+### Location   
 
 Philadelphia (Willow Grove), PA, USA
 
 
-### URL###
+### URL   
 
 umfpl.org/about/employment
 
-### To Apply###
+### To Apply   
 
 Email PDF resume, cover letter, and a 3 professional reference contact list to | cgilmore@mclinc.org
 
 
-### Company Information###
+### Company Information   
 
 [http://www.uppermorelandlibrary.org/about/history/](http://www.uppermorelandlibrary.org/about/history/)
 
 
-### Contact Information###
+### Contact Information   
 
 Position is open until filled, starting interview scheduling June 25, 2018.
 

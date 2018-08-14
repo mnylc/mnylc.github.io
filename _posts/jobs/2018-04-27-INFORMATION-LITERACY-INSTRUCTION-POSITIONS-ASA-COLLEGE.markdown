@@ -6,7 +6,7 @@ excerpt: "ASA College, a New York City-based, two-year, regionally-accredited de
 tag: job
 ---
 
-### Description###
+### Description   
 
 ASA College, a New York City-based, two-year, regionally-accredited degree-granting institution, has multiple openings for qualified individuals to teach LIB100 Research Methods, a required, two-credit introductory information literacy course designed for second-semester freshmen and an integral part of ASA’s General Education program. 
 
@@ -20,7 +20,7 @@ ASA’s Summer semester begins June 12 and runs through September 24, 2018.
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Collegial approach to instruction, including collaboration with disciplinary faculty
@@ -35,7 +35,7 @@ ASA’s Summer semester begins June 12 and runs through September 24, 2018.
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	MLS/MLIS from an ALA-accredited institution; second Masters or Ph.D. preferred
@@ -43,21 +43,21 @@ ASA’s Summer semester begins June 12 and runs through September 24, 2018.
 • 	Candidates with ESL/ELL teaching experience will be given special consideration.
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience and credentials.
 
 
-### Location###
+### Location   
 
 Brooklyn MetroTech and Herald Square Manhattan
 
 
-### URL###
+### URL   
 
 [http://www.asa.edu/library](http://www.asa.edu/library)
 
-### To Apply###
+### To Apply   
 
 Qualified individuals are invited to email résumé and cover letter to:
  

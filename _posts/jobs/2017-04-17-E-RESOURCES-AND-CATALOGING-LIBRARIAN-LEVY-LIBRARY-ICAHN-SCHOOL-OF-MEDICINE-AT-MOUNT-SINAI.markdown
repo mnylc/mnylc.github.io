@@ -6,12 +6,12 @@ excerpt: "The E-resources and Cataloging Librarian will participate in the ongoi
 tag: job
 ---
 
-### Description###
+### Description   
 
 The E-resources and Cataloging Librarian will participate in the ongoing coordination and management of the library’s e-resources, catalog, and discovery system. Under direction of the Assistant Director, this individual will follow emerging technology trends and current best practices in order to anticipate academic users’ needs and preferences in a highly digital and mobile environment. The E-Resources and Cataloging Librarian will also participate in the selection, acquisition, and evaluation of electronic library resources.  
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Manages and maintains timely access to all digital library resources including subscription databases, e-books, e-journals, full-text article links, and other e-resources.
@@ -34,7 +34,7 @@ The E-resources and Cataloging Librarian will participate in the ongoing coordin
 Continually seeks new ways to improve efficiency and customer service
 
 
-### Qualifications###
+### Qualifications   
 
 Required Skills and Experience: 
 
@@ -69,26 +69,26 @@ Preferred Skills and Experience:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://icahn.mssm.edu/about/ait/levy-library](http://icahn.mssm.edu/about/ait/levy-library)
 
-### To Apply###
+### To Apply   
 
 Please email resume and cover letter to Laura Schimming, Laura.schimming@mssm.edu 
 
 
-### Company Information###
+### Company Information   
 
 [http://www.mountsinai.org/](http://www.mountsinai.org/)
 
 
-### Contact Information###
+### Contact Information   
 
 Laura Schimming, MLS
 Assistant Director

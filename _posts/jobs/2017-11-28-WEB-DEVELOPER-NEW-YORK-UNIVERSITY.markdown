@@ -6,14 +6,14 @@ excerpt: "The Web Developer works with other developers and library staff to cre
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Web Developer works with other developers and library staff to create, modify and monitor web based library applications that serve libraries staff and users. This work includes learning the architecture and interoperation of library systems and involves detailed technical coding, testing and monitoring of code and applications as defined by the Web Development manager and specific assigned projects. The developer will learn current and evolving technologies and seek to implement them when and where appropriate to enhance the operation and management of library systems. The developer will develop project plans for application updates; create time lines to meet departmental deadlines and goals, recommend technical improvements and implement modifications to websites and applications. He/she will serve as a liaison with staff, troubleshoot application code, collaborate with internal and external departments on websites, web based applications and tools, etc.
 
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Education:
 Bachelor's degree
@@ -40,16 +40,16 @@ PI100322447
 
 
 
-### Location###
+### Location   
 
 New York , New York , United States
 
 
-### URL###
+### URL   
 
 [http://www.Click2apply.net/ddxs3tfgkw79fy7h](http://www.Click2apply.net/ddxs3tfgkw79fy7h)
 
-### To Apply###
+### To Apply   
 
 Apply Online
 

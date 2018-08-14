@@ -6,12 +6,12 @@ excerpt: "The Bronxville Library is seeking an energetic youth services libraria
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Bronxville Library is seeking an energetic youth services librarian for a part-time position in our bustling children’s room. This position reports to the Head of Youth Services and includes weekends and evenings as required. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 -	Provides reference and reader's advisory services and instruction to children and teenagers.
 -	Plans, publicizes, and implements creative, fun, and educational children’s and teen programming.
@@ -30,7 +30,7 @@ The Bronxville Library is seeking an energetic youth services librarian for a pa
 
 
 
-### Qualifications###
+### Qualifications   
 
 -	Master's Degree in Librarianship from an American Library Association accredited school, with a concentration in Children’s and/or Youth Services a plus.
 -	Must be on the Westchester Civil Service List for Librarian I.
@@ -42,26 +42,26 @@ The Bronxville Library is seeking an energetic youth services librarian for a pa
 
 
 
-### Location###
+### Location   
 
 Bronxville, NY
 
 
-### URL###
+### URL   
 
 www.bronxvillelibrary.org
 
-### To Apply###
+### To Apply   
 
 Please e-mail resumes to Greg Wirszyla, Library Director at bronxvilledirector@wlsmail.org
 
 
-### Company Information###
+### Company Information   
 
 201 Pondfield Road Bronxville, NY 10708. (914) 337-7680
 
 
-### Contact Information###
+### Contact Information   
 
 bronxvilledirector@wlsmail.org
 

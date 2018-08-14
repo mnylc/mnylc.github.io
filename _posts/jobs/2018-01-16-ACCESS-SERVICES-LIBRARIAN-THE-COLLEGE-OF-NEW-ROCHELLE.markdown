@@ -6,12 +6,12 @@ excerpt: "The College of New Rochelle invites applications for the position of A
 tag: job
 ---
 
-### Description###
+### Description   
 
 The College of New Rochelle invites applications for the position of Access Services Librarian at The Mother Irene Gill Library.  This is a tenure-track, 12 month faculty position available immediately.  Reporting to the Dean of the Library, the Access Services Librarian is responsible for all matters affecting public services and policies, performs a variety of managerial and operational duties that requires knowledge of library systems and procedures that provide access to the collection and assist students in the use of library resources and services.  This highly visible position involves actively assisting library patrons and monitoring multiple library functions.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Manage all Access Services functions including circulation, reserves and inter-library loan using the Library’s integrated library system, OCLC, and related systems
@@ -54,7 +54,7 @@ The College of New Rochelle invites applications for the position of Access Serv
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Master’s degree in Library and Information Science from an A.L.A. accredited institution 
@@ -85,16 +85,16 @@ The College of New Rochelle invites applications for the position of Access Serv
 
 
 
-### Location###
+### Location   
 
 New Rochelle, NY
 
 
-### URL###
+### URL   
 
 www.cnr.edu
 
-### To Apply###
+### To Apply   
 
 To apply, please send one PDF attachment that includes letter of interest (addressed to Dean Ana E. Fontoura), C.V., and the contact information for three references who can speak to your professional qualifications, to:
 Ms. Brunie Lopez
@@ -107,7 +107,7 @@ Electronic submissions only.  This position is subject to successful completion 
 
 
 
-### Company Information###
+### Company Information   
 
 The College of New Rochelle is a Catholic college in the Ursuline tradition and we welcome applicants from all backgrounds who can contribute to our unique educational mission.  To learn more about the College, please visit our website at: www.cnr.edu. 
 

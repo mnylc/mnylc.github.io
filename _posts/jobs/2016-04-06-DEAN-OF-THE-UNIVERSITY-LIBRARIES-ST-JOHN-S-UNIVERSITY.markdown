@@ -6,7 +6,7 @@ excerpt: "St. John’s University, a private, Catholic, doctoral university, inv
 tag: job
 ---
 
-### Description###
+### Description   
 
 St. John’s University, a private, Catholic, doctoral university, invites applications and nominations for the position of Dean of University Libraries. The Dean of University Libraries serves as the senior administrative and academic officer of the University Libraries and is responsible for the innovative vision, strategic direction, policy development, and management for the St. John’s University Libraries on the Queens and branch campuses.  A sophisticated understanding of the role of technology in library physical and virtual services, space, and information provision is expected.  
 
@@ -21,7 +21,7 @@ This position fosters an environment that facilitates the advancement of researc
 
 
 
-### Qualifications###
+### Qualifications   
 
 Ideal candidates will possess:
 
@@ -40,14 +40,14 @@ Excellent communication, interpersonal, and technical skills and the ability to 
 
 
 
-### Location###
+### Location   
 
 Queens, New York
 
 
 
 
-### To Apply###
+### To Apply   
 
 Applications and Nominations:
 
@@ -60,7 +60,7 @@ Interested candidates may obtain additional information on the position by visit
 St. John’s University is an Equal Opportunity Employer and encourages applications from women and minorities.
 
 
-### Company Information###
+### Company Information   
 
 St. John's University | 8000 Utopia Parkway | Jamaica, New York | 11439 | United States
 

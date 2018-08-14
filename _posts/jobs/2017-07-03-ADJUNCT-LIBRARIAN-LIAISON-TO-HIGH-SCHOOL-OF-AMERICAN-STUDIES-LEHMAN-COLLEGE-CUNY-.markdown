@@ -6,7 +6,7 @@ excerpt: "CITY UNIVERSITY OF NEW YORK CAREER OPPORTUNITY Lehman College TITLE: A
 tag: job
 ---
 
-### Description###
+### Description   
 
 CITY UNIVERSITY OF NEW YORK
 CAREER OPPORTUNITY Lehman College
@@ -45,16 +45,16 @@ Americans with Disabilities Act Employer
 
 
 
-### Location###
+### Location   
 
 Leonard Lief Library, Lehman College, Bronx, NY 10468
 
 
-### URL###
+### URL   
 
 [http://lehman.edu/library](http://lehman.edu/library)
 
-### To Apply###
+### To Apply   
 
 Please e-mail a Cover Letter, Resume, Names and Contact information for three References by July 31, 2017 to:
 
@@ -65,12 +65,12 @@ Lehman College
 Madeline.cohen@lehman.cuny.edu
 
 
-### Company Information###
+### Company Information   
 
 Lehman College, 250 Bedford Park Blvd. West, Bronx, NY 10468
 
 
-### Contact Information###
+### Contact Information   
 
 Madeline Cohen, Leonard Lief Library, Lehman College, 250 Bedford Park Blvd. West, Bronx, NY 10468; 718-960-7765
 

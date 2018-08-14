@@ -6,7 +6,7 @@ excerpt: "The YIVO Institute for Jewish Research seeks a skilled, innovative, an
 tag: job
 ---
 
-### Description###
+### Description   
 
 The YIVO Institute for Jewish Research seeks a skilled, innovative, and knowledgeable professional with experience in project management and archival and library metadata practices for the position of Project Manager for the Edward Blank YIVO Vilna Collections Project, a 7-year initiative, now in its 3rd year, to process, conserve, digitize, and make accessible online archival materials and books in YIVO’s archives and library in New York and archival materials and books in Vilnius, Lithuania, where YIVO is carrying out a joint project with the Martynas Mažvydas National Library, Lithuanian Central State Archives and the Wroblewski Library of the Lithuanian Academy of Sciences. 
 
@@ -14,7 +14,7 @@ Manages general daily operations of the Edward Blank YIVO Vilna Collections Proj
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 RESPONSIBILITIES INCLUDE:
 
@@ -65,7 +65,7 @@ RESPONSIBILITIES INCLUDE:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Education and training: 
 Master’s degree in Library Information Science from ALA-accredited institution with concentration on archives, and additional professional development.
@@ -104,19 +104,19 @@ Skills and abilities:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Please send a letter of application which addresses how you meet the basic qualifications for this position; résumé; and names, e-mail addresses, and telephone numbers of three references who can be contacted, to Roberta Newman, Director of Digital Initiatives, rnewman@yivo.cjh.org. 
 
 
-### Company Information###
+### Company Information   
 
 YIVO is an Equal Employment Opportunity Employer.
 

@@ -6,7 +6,7 @@ excerpt: "The Avery Architectural and Fine Arts Library seeks an industrious and
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Avery Architectural and Fine Arts Library seeks an industrious and motivated night and weekend Library Assistant IV, reporting to the Avery Access Supervisor. The incumbent:
 -- is responsible for operations at the Avery Service and Reserves Desk at regularly assigned times, including but not limited to: in-house CLIO circulation of Avery and Fine Arts materials using status patrons; CLIO circulation of Ware materials and materials from other campus libraries and ReCAP and ReCAP shared collections; CLIO circulation of reserve books; manual circulation of reserve periodicals and manual circulation of assorted materials (primarily to non-affiliates); processing holds and recalls; sorting and sending materials to other Columbia Library sites; and maintaining routine scanner functionality.
@@ -32,7 +32,7 @@ Apply on-line: [https://jobs.columbia.edu/applicants/Central?quickFind=170737](h
 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 - High School Diploma or equivalent.  
@@ -52,21 +52,21 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 New York City, NY, USA
 
 
-### URL###
+### URL   
 
 [https://library.columbia.edu/](https://library.columbia.edu/)
 
-### To Apply###
+### To Apply   
 
 [https://jobs.columbia.edu/applicants/Central?quickFind=170737](https://jobs.columbia.edu/applicants/Central?quickFind=170737) 
 
 
-### Company Information###
+### Company Information   
 
 Avery Architectural & Fine Arts Library is one of the pre-eminent collections of rare and historical documents for architectural study in the world. It contains more than 2.5 million drawings and architectural records, 40,000 rare books, and more than 12,000 artworks  representing world cultures antique and modern. Students, faculty, scholars and the architecturally-engaged public use these materials for their research and teaching; museums regularly borrow materials from our collections for exhibitions. Staff consists of registrar, curators, librarians, archivists in defined roles, but all staff work collaboratively to meet the needs of our varied constituency.
 

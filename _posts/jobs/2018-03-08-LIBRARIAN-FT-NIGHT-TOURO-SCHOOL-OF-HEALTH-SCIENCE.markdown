@@ -6,12 +6,12 @@ excerpt: "Assist in the delivery of library services and programs, and daily mai
 tag: job
 ---
 
-### Description###
+### Description   
 
 Assist in the delivery of library services and programs, and daily maintenance operations.
 
 
-### Responsibilities###
+### Responsibilities   
 
 JOB RESPONSIBILTIIES: 
 
@@ -27,7 +27,7 @@ JOB RESPONSIBILTIIES:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Education, Preparation, and Training
  	Masters  of Library Science
@@ -46,21 +46,21 @@ Computer Skills
 
 
 
-### Location###
+### Location   
 
 Bay Shore NY 
 
 
 
 
-### To Apply###
+### To Apply   
 
 Please send cover letter and resume to 
 Joan Wagner
  joan.wagner2@touro.edu
 
 
-### Company Information###
+### Company Information   
 
 1700 Union Boulevard  Bay Shore, NY 11706
 

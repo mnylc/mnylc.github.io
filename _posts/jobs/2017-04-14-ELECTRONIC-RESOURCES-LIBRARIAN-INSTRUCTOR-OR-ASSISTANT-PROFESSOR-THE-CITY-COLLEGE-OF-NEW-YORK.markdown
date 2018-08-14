@@ -6,7 +6,7 @@ excerpt: "Job Vacancy Notice Job Title: Electronic Resources Librarian (Instruct
 tag: job
 ---
 
-### Description###
+### Description   
 
 Job Vacancy Notice
 Job Title: Electronic Resources Librarian (Instructor or Assistant Professor)
@@ -65,16 +65,16 @@ We are committed to enhancing our diverse academic community by actively encoura
 
 
 
-### URL###
+### URL   
 
 [https://www.ccny.cuny.edu/](https://www.ccny.cuny.edu/)
 
-### To Apply###
+### To Apply   
 
 www.cuny.edu
 
 
-### Company Information###
+### Company Information   
 
 CUNY City College of New York
 

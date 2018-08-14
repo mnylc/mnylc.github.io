@@ -6,14 +6,14 @@ excerpt: "The Knowledge Center (KC) at the Augustus C. Long Health Sciences Libr
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Knowledge Center (KC) at the Augustus C. Long Health Sciences Library (HSL) aims to be the focal point for the exchange of biomedical and scientific information that is vital to the broad range of aspirations and activities within the Columbia University Irving Medical Center (CUIMC).
 
 Reporting to the Programs Director, the Assistant Programs Director (APD) will play a vital role in the KC’s engagement of CUIMC researchers, clinicians, faculty, students and staff via the development and implementation of programmatic activities. Data synthesis and analysis will be emphasized. The APD will oversee a team of Informationists and work closely with the Programs Specialist, the Assistant Director for Information Resources and other key operational staff to ensure the quality, sustainability and scalability of programs.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Essential duties and responsibilities of the position include, but are not limited to:
 
@@ -41,7 +41,7 @@ Essential duties and responsibilities of the position include, but are not limit
 
 
 
-### Qualifications###
+### Qualifications   
 
 Requirements:
 
@@ -113,14 +113,14 @@ Experience working in a health care/biomedical academic environment with student
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Please submit resume and cover letter to:
 
@@ -130,7 +130,7 @@ Please include in your cover letter that you found this job on the Metro Web sit
 
 
 
-### Company Information###
+### Company Information   
 
 701 W. 168th St., New York, NY 10032
 

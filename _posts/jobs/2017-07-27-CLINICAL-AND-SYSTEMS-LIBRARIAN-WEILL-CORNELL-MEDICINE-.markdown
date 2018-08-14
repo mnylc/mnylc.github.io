@@ -6,12 +6,12 @@ excerpt: "As part of a dynamic team, the Clinical and Systems Librarian provides
 tag: job
 ---
 
-### Description###
+### Description   
 
 As part of a dynamic team, the Clinical and Systems Librarian provides expertise in clinical librarianship and serves as the Balanced Scorecard Champion for the organization. To facilitate organizational systems, the incumbent studies and with various stakeholders identifies key performance indicators and methods for tracking over time. This individual will help develop the research impact and evaluation program with its focus on metrics and outcomes. Further this position will have a good understanding of library systems used to deliver electronic content, such as the integrated library system. This position reports to the Associate Director for Information, Education and Clinical Services.
 
 
-### Responsibilities###
+### Responsibilities   
 
     Provide students, faculty, and researchers, with a variety of information support including, but not limited to, data literacy, information literacy, and scholarly communication services. Answers reference questions, conducts literature searches, provides consultations and promotes the use of Library services and resources.
 
@@ -39,7 +39,7 @@ As part of a dynamic team, the Clinical and Systems Librarian provides expertise
 
 
 
-### Qualifications###
+### Qualifications   
 
 MINIMUM REQUIREMENTS:
 
@@ -50,26 +50,26 @@ PREFERRED QUALIFICATIONS:
 Two years health sciences library experience or relevant experience in either clinical, academic, or industry environments. Relevant second Master's degree or Doctorate degree. Commitment to engage independently in continuing professional development. Experience with performance management systems, especially the Balanced Scorecard.
 
 
-### Compensation###
+### Compensation   
 
 Salary, while negotiable, is commensurate with experience.  
 
 
-### Location###
+### Location   
 
 New York/NY, USA
 
 
-### URL###
+### URL   
 
  [https://library.weill.cornell.edu/about-us/staff/career-opportunities-and-internships](https://library.weill.cornell.edu/about-us/staff/career-opportunities-and-internships)
 
-### To Apply###
+### To Apply   
 
 A complete job description can be found at [https://library.weill.cornell.edu/about-us/staff/career-opportunities-and-internships.](https://library.weill.cornell.edu/about-us/staff/career-opportunities-and-internships.)  Interested parties are encouraged to send a cover letter and CV by August 4, 2017.  Please e-mail cover letter and curriculum vitae to librecruiting@med.cornell.edu with “Clinical and Systems Librarian” included in the subject line. 
 
 
-### Company Information###
+### Company Information   
 
 Weill Cornell Medicine 
 Samuel J. Wood Library & C.V. Starr Biomedical Information Center

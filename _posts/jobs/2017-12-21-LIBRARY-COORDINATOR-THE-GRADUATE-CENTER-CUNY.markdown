@@ -6,14 +6,14 @@ excerpt: "CLOSING DATE: January 1, 2018 Under the direction of the Head of Circu
 tag: job
 ---
 
-### Description###
+### Description   
 
 CLOSING DATE: January 1, 2018
 
 Under the direction of the Head of Circulation and Reserves, the Library Coordinator supervises part-time staff and workflow for library circulation, reserves, and stack maintenance. The Graduate Center Library hosts a collection of print material of about 230,000 books, with about 33,000 circulation and reserve transactions each year. The library serves as a pick-up point for about 10,000 interlibrary loan items each year, and about 10,000 items from other CUNY libraries requested annually by users CUNY-wide.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Duties include but are not limited to:
 
@@ -44,7 +44,7 @@ Duties include but are not limited to:
 - Collaborates on workflow review, policy development, and implementation of new software.
 
 
-### Qualifications###
+### Qualifications   
 
 Bachelor's Degree required.
 
@@ -81,26 +81,26 @@ CUNY TITLE OVERVIEW
 - Performs related duties as assigned.
 
 
-### Compensation###
+### Compensation   
 
 Salary commensurate with education and experience.
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://cuny.jobs/new-york-ny/library-coordinator/D9DDA969092149769B3872DDE7B331E4/job/](https://cuny.jobs/new-york-ny/library-coordinator/D9DDA969092149769B3872DDE7B331E4/job/)
 
-### To Apply###
+### To Apply   
 
 Application will require the upload of a cover letter, resume, and contact information for three (3) professional references (name, title, and organization) by the closing date. Please upload all documents in Word or PDF format. Application can be found on the cuny.jobs site; URL above.
 
 
-### Company Information###
+### Company Information   
 
 Graduate Center, City University of New York
 

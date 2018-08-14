@@ -8,7 +8,7 @@ tag: job
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	The Community Library Manager and Assistant Manager, have overall responsibility for the leadership of staff, including the timely and objective feedback of performance and fostering the staff development/learning.
@@ -30,7 +30,7 @@ Key Competencies:
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Must have a MLS/MLIS degree from an ALA-accredited library school.
@@ -52,12 +52,12 @@ Key Competencies:
 
 
 
-### To Apply###
+### To Apply   
 
 To Apply: Email your cover letter and resume to QLcareers@queenslibrary.org. Include the position for which you are applying in the subject line. Resumes will only be accepted by email.  
 
 
-### Company Information###
+### Company Information   
 
 Queens Library is a national and international leader in the delivery of public library service. Innovation and leadership are the hall marks of Queens Library. Our mission is to meet the needs of the community by offering lifelong learning opportunities and ensuring there is a positive impact in the community. Queens Library fulfills its goals by embracing innovation and change. With a history of offering pioneering programs that meet the diverse needs of the most diverse county in the US, Queens Library is a place where innovation and leaders are welcomed. Queens Library a private, non-profit corporation located in Queens, New York and includes 65 service locations with 1,700 employees.
 

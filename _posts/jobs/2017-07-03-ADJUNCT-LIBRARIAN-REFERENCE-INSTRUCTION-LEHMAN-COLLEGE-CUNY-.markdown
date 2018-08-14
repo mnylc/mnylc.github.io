@@ -6,7 +6,7 @@ excerpt: "CITY UNIVERSITY OF NEW YORK JOB OPPORTUNITY Lehman College, Bronx, New
 tag: job
 ---
 
-### Description###
+### Description   
 
 CITY UNIVERSITY OF NEW YORK
 JOB OPPORTUNITY        
@@ -53,16 +53,16 @@ The City University of New York is an Equal Employment Opportunity/Affirmative A
 
 
 
-### Location###
+### Location   
 
 Bronx, NY 10468
 
 
-### URL###
+### URL   
 
 [http://lehman.edu/library](http://lehman.edu/library)
 
-### To Apply###
+### To Apply   
 
 To apply, please send a cover letter and resume, including scheduling preferences, as well as the names and contact information of three references to:
 
@@ -73,12 +73,12 @@ Madeline.Cohen@lehman.cuny.edu
 
 
 
-### Company Information###
+### Company Information   
 
 250 Bedford Park Blvd. West, Bronx, NY 10468
 
 
-### Contact Information###
+### Contact Information   
 
 Madeline Cohen, 718-960-7765
 

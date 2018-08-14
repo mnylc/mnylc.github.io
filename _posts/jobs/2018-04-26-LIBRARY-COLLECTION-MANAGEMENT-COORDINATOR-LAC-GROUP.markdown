@@ -6,12 +6,12 @@ excerpt: "LibGig, an LAC Group company, seeks a Library Collection Management Co
 tag: job
 ---
 
-### Description###
+### Description   
 
 LibGig, an LAC Group company, seeks a Library Collection Management Coordinator for our client, a law firm located in New York, NY. The individual will support the firm’s Research and Knowledge Services department by managing the firm’s library collection and contributing to the management of the library’s electronic resources. This is a full-time, benefitted position.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities:
 Manage the firm’s book and serial collection, including record-keeping Serials and Cataloging modules of the EOD.web integrated library system and other databases.
@@ -27,7 +27,7 @@ Acquiring research resources for attorneys and staff
 Maintaining accurate acquisition and cancellation records.
 
 
-### Qualifications###
+### Qualifications   
 
 Qualifications:
 Bachelor’s degree required; Master’s in Library Science is desirable.
@@ -39,32 +39,32 @@ Knowledge of Library resource monitoring systems such as Research Monitor or One
 Ability to work quickly and independently with minimum supervision.
 
 
-### Compensation###
+### Compensation   
 
 TBD
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 [https://www.libgig.com/careers/library-collection-management-coordinator-libgig/a0E1H00000a9AvnUAE/](https://www.libgig.com/careers/library-collection-management-coordinator-libgig/a0E1H00000a9AvnUAE/)
 
-### To Apply###
+### To Apply   
 
 Please submit your resume at: [https://www.libgig.com/careers/library-collection-management-coordinator-libgig/a0E1H00000a9AvnUAE/](https://www.libgig.com/careers/library-collection-management-coordinator-libgig/a0E1H00000a9AvnUAE/)
 
 
-### Company Information###
+### Company Information   
 
 LAC Group
 (323)852-1083
 
 
-### Contact Information###
+### Contact Information   
 
 Katy Davis - katy.davis@libgig.com
 

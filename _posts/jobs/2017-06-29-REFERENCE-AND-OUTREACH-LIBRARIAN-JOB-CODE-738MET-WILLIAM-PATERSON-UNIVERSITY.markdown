@@ -10,7 +10,7 @@ William Paterson University invites applications for a twelve-month tenure-track
 tag: job
 ---
 
-### Description###
+### Description   
 
 Posting Date: June 22, 2017
 
@@ -19,12 +19,12 @@ Closing Date: Open until filled
 William Paterson University invites applications for a twelve-month tenure-track position as Reference and Outreach Librarian. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to the Assistant Director for Access & Information Services, the Reference and Outreach Librarian provides reference and research assistance, instructs patrons in the use of information resources and library services, and leads the development of outreach efforts aimed at expanding and enhancing library outreach to students, faculty, staff, administrators, and the outside community. S/he participates in divisional and departmental planning projects, the Library’s Liaison programs, and serves on Library, University, regional and national committees, as appropriate.
 
 
-### Qualifications###
+### Qualifications   
 
 An MLS or equivalent, from an accredited college/university, is required. A second graduate degree is required for tenure.
 
@@ -35,21 +35,21 @@ Strong customer service orientation and demonstrated ability to work independent
 
 
 
-### Location###
+### Location   
 
 Wayne, NJ
 
 
-### URL###
+### URL   
 
 [https://wpconnect.wpunj.edu/emps/jobs/positions2.cfm?job=27815](https://wpconnect.wpunj.edu/emps/jobs/positions2.cfm?job=27815)
 
-### To Apply###
+### To Apply   
 
 Candidates should submit a letter of application, CV, and contact information for three (3) professional references to Leah Zamora at LibrarySearch@wpunj.edu or via mail to her at William Paterson University, 300 Pompton Road, Cheng Library, Wayne, NJ  07470. Electronic submissions preferred. Must reference Job Code in letter of application. Review of applications will begin immediately and continue until position is filled.  For additional information about the University visit www.wpunj.edu.
 
 
-### Company Information###
+### Company Information   
 
 William Paterson University is a public institution of higher learning. The University offers more than 250 undergraduate and graduate academic programs that range from liberal arts and sciences to pre-professional and professional programs; it enrolls nearly 11,000 students from across the country and from over 40 nations. The University is situated on a beautiful, 370-acre suburban campus in Wayne, New Jersey, just twenty miles west of New York City.
 

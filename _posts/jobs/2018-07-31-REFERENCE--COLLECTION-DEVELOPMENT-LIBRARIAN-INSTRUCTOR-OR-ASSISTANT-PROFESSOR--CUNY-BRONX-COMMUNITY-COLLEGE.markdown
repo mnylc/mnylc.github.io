@@ -6,7 +6,7 @@ excerpt: "Reference & Collection Development Librarian (Instructor or Assistant 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reference & Collection Development Librarian (Instructor or Assistant Professor) 
 Job ID: 19086 
@@ -67,14 +67,14 @@ CUNY encourages people with disabilities, minorities, veterans and women to appl
 
 
 
-### Location###
+### Location   
 
 Bronx, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 HOW TO APPLY 
 From our job posting system, select "Apply Now", create or log in to a user account, and provide the requested information. If you are viewing this posting from outside our system, access the employment page on our web site and search for this vacancy using the Job ID# 19086 or Title. 

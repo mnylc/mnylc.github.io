@@ -6,13 +6,13 @@ excerpt: "Brooklyn Public Library is seeking a Librarian to join the Business & 
 tag: job
 ---
 
-### Description###
+### Description   
 
 Brooklyn Public Library is seeking a Librarian to join the Business & Career Library. The successful candidate should have a commitment to providing services and information to adults seeking to improve their economic wellbeing. They will assist job seekers, entrepreneurs, students, and investors, as well as individuals with questions regarding business and money management. Regular duties range from answering reference questions and developing web content to presenting workshops and performing outreach. 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Provide professional and excellent reference and reader’s advisory services to diverse patrons. 
 
@@ -44,7 +44,7 @@ Provide professional and excellent reference and reader’s advisory services to
 
 
 
-### Qualifications###
+### Qualifications   
 
 Master’s Degree in Library Science from an ALA accredited library school 
 
@@ -82,19 +82,19 @@ Working knowledge of electronic resources including the internet and Microsoft O
 
 
 
-### Compensation###
+### Compensation   
 
 This is a union position and the starting salary is $51,490.
 
 
-### Location###
+### Location   
 
 Brooklyn, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Click on the following link to apply: [https://careers-bklynlibrary.icims.com/jobs/1603/business-%26-career-librarian/job](https://careers-bklynlibrary.icims.com/jobs/1603/business-%26-career-librarian/job) 
 

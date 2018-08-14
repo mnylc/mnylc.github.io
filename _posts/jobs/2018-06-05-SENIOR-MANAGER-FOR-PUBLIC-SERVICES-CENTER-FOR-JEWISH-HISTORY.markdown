@@ -6,7 +6,7 @@ excerpt: "The Center for Jewish History (NYC | cjh.org) is one of the world’s 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Center for Jewish History (NYC | cjh.org) is one of the world’s great sites of research into the Jewish past.  It is the collaborative home to five in-house partners—American Jewish Historical Society, American Sephardi Federation, Leo Baeck Institute, Yeshiva University Museum, and YIVO Institute for Jewish Research.  When the Center opened its doors eighteen years ago, it made a commitment to preserve the collections housed within its walls and make them accessible to scholars, students, and diverse audiences by implementing a unique, shared services model across all five partners.  In recent years, the Center has taken on a wide-ranging educational mission and dedicated itself with new passion to interpreting historical sources in meaningful ways to as wide a public as possible. 
 
@@ -16,7 +16,7 @@ The Senior Manager fosters consistent, high-caliber service to both researchers 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Ensure excellent service to researchers in a closed stack environment through the management of a team of 7 full- and part-time librarians and archivists.  Team management includes providing direction and mentoring staff; training new staff; determining reference desk scheduling; and continually evaluating and fine-tuning workflows.
@@ -43,7 +43,7 @@ The Senior Manager fosters consistent, high-caliber service to both researchers 
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 
@@ -76,27 +76,27 @@ The Center for Jewish History is committed to diversity and inclusion. Qualified
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://www.cjh.org/about/employment-opportunities](https://www.cjh.org/about/employment-opportunities)
 
-### To Apply###
+### To Apply   
 
 Review of applications will begin immediately. Applications will be accepted until the position is filled. Send cover letter and resume to Rachel Miller, Director of Archive and Library Services, at rcmiller@cjh.org. No phone calls, please.
 
 
 
-### Company Information###
+### Company Information   
 
 15 W. 16th St. New York, NY 10011
 
 
-### Contact Information###
+### Contact Information   
 
 rcmiller@cjh.org
 

@@ -6,12 +6,12 @@ excerpt: "Responsible for providing general and specialized circulation and inte
 tag: job
 ---
 
-### Description###
+### Description   
 
 Responsible for providing general and specialized circulation and interlibrary loan assistance and services to the FIT/SUNY community in a courteous and efficient manner and in accordance with the Library's policies and procedures in support of the unit's mission and daily operations
 
 
-### Responsibilities###
+### Responsibilities   
 
 Customer Service
 
@@ -54,7 +54,7 @@ Schedule: Wednesday - Thursday: 9am - 3pm; Friday: 12:45pm - 7:45pm; Saturday 10
 Schedule may change based on the needs of the department
 
 
-### Qualifications###
+### Qualifications   
 
 Associate's degree and one year of related experience year in an academic library or environment. Work experience must include not less than one year in a fast paced, customer-oriented service work environment.
 
@@ -69,28 +69,28 @@ WORKING CONDITIONS
 Work is performed under typical library conditions with requirements for frequent sitting and standing for long periods of time, as well as frequent lifting
 
 
-### Compensation###
+### Compensation   
 
 24.98/hr
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://www.fitnyc.edu/library/](http://www.fitnyc.edu/library/)
 
-### To Apply###
+### To Apply   
 
 [https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=85264](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=85264)
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 Robert Brown, HR Generalist
 Human Resources

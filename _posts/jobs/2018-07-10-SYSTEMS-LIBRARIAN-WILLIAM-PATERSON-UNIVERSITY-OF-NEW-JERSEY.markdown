@@ -6,7 +6,7 @@ excerpt: "William Paterson University invites applications for a twelve month te
 tag: job
 ---
 
-### Description###
+### Description   
 
 William Paterson University invites applications for a twelve month tenure-track position as a Systems Librarian.
 
@@ -16,7 +16,7 @@ William Paterson University is the third most diverse public university in New J
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Opportunities to Contribute: systems administration, technical support, research and inter/intra departmental collaboration
 
@@ -35,7 +35,7 @@ Opportunities to Contribute: systems administration, technical support, research
 •              Serves as a liaison to assigned departments in collection development activities.
 
 
-### Qualifications###
+### Qualifications   
 
 Qualifications:
 Ideal candidate must possess the following:
@@ -65,16 +65,16 @@ Preferred Qualifications:
 
 
 
-### Location###
+### Location   
 
 Wayne, NJ
 
 
-### URL###
+### URL   
 
  [http://wpunj.hiretouch.com/job-details?jobid=53](http://wpunj.hiretouch.com/job-details?jobid=53)
 
-### To Apply###
+### To Apply   
 
 Please click to apply for the position. - [http://wpunj.hiretouch.com/job-details?jobid=53](http://wpunj.hiretouch.com/job-details?jobid=53) 
 
@@ -84,7 +84,7 @@ Please click to apply for the position. - [http://wpunj.hiretouch.com/job-detail
     Provide names/contacts of three professional references
 
 
-### Company Information###
+### Company Information   
 
 Submission of all documents listed above is required for consideration.
 If you have any general questions related to this search, please contact talent@wpunj.edu
@@ -95,7 +95,7 @@ William Paterson University is an equal opportunity employer that actively value
 
 
 
-### Contact Information###
+### Contact Information   
 
 talent@wpunj.edu
 

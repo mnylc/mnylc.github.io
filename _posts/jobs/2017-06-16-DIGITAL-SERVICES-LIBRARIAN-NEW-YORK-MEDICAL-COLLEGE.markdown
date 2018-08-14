@@ -6,7 +6,7 @@ excerpt: "Reporting: Associate Director, User Support, Education, and Research (
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting: Associate Director, User Support, Education, and Research (USER) Services.  
 
@@ -14,7 +14,7 @@ Purpose:  The Digital Services Librarian serves the educational, research and in
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Develops, maintains, and evaluates web-based content, tutorials, and online services;
@@ -39,7 +39,7 @@ Purpose:  The Digital Services Librarian serves the educational, research and in
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required:  
 
@@ -83,29 +83,29 @@ Desired:
 
 
 
-### Compensation###
+### Compensation   
 
 Negotiable
 
 
-### Location###
+### Location   
 
 Valhalla, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Send resume with cover letter indicating position of interest to: Alicia Parrish, Employment Manager, Human Resources Department at Recruiter@nymc.edu or HR fax 914-594-4309. Candidates of interest will be contacted to schedule interviews. New York Medical College is committed to excellence through diversity and inclusion and welcomes candidates of all backgrounds. New York Medical College is an Equal Opportunity Employer.
 
 
-### Company Information###
+### Company Information   
 
 New York Medical College, Health Sciences Library
 
 
-### Contact Information###
+### Contact Information   
 
 Alicia Parrish, Employment Manager, Human Resources Department at Recruiter@nymc.edu
 

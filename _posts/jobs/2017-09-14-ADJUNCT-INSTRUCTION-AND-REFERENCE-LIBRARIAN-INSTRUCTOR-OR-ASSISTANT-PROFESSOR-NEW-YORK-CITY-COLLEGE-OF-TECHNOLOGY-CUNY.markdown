@@ -6,7 +6,7 @@ excerpt: "The Ursula C. Schwerin Library at New York City College of Technology,
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Ursula C. Schwerin Library at New York City College of Technology, CUNY (City Tech) seeks to hire one or more adjunct Instruction and Reference Librarians for part-time work during the Fall 2017 semester.
 
@@ -19,21 +19,21 @@ Possible shifts during the Fall 2017 semester include Tuesday, Thursday, or Frid
 
 
 
-### Compensation###
+### Compensation   
 
 Non-teaching adjunct salary schedules available at psc-cuny.org
 
 
-### Location###
+### Location   
 
 Brooklyn, NY
 
 
-### URL###
+### URL   
 
 library.citytech.cuny.edu
 
-### To Apply###
+### To Apply   
 
 Applicants should send a cover letter and CV by email to Maura Smale, Chief Librarian, msmale@citytech.cuny.edu. The position is open until filled and review of applications will begin immediately.
 

@@ -6,7 +6,7 @@ excerpt: "POSITION SUMMARY: The Archivist provides assistance processing, preser
 tag: job
 ---
 
-### Description###
+### Description   
 
 POSITION SUMMARY:
 The Archivist provides assistance processing, preserving, and making accessible archival materials. Reporting to the Head of Digital and Special Collections, the incumbent evaluates documents and collections to determine if they have evidential, informational and/or historical value, organizes, arranges and describes collection content, and prepares collections for long-term storage. The Archivist may be asked to provide reference and instruction services and retrieve archival materials for researchers, and will perform other duties as assigned. This position reports to the Head of Digital and Special Collections. This is a temporary 9 month full-time position for the period July 2018 to December 2018.
@@ -55,11 +55,11 @@ PI103438175
 
 
 
-### URL###
+### URL   
 
 [http://www.Click2Apply.net/g7yg29pqzmck2kxw](http://www.Click2Apply.net/g7yg29pqzmck2kxw)
 
-### To Apply###
+### To Apply   
 
 Apply Online
 

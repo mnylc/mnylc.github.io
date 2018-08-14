@@ -6,7 +6,7 @@ excerpt: "Springer Nature is one of the world’s leading global research, educa
 tag: job
 ---
 
-### Description###
+### Description   
 
 Springer Nature is one of the world’s leading global research, educational and professional publishers. It is home to an array of respected and trusted brands and imprints, with more than 170 years of combined history behind them, providing quality content through a range of innovative products and services. Every day, around the globe, our imprints, books, journals and resources reach millions of people, helping researchers and scientists to discover, students to learn and professionals to achieve their goals and ambitions. The company has almost 13,000 staff in over 50 countries.
 
@@ -34,7 +34,7 @@ Springer Nature is an Equal Opportunity Employer that complies with the laws and
 [http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf.](http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf.)
 
 
-### Responsibilities###
+### Responsibilities   
 
 KEY ACCOUNTABILITIES:
  
@@ -51,7 +51,7 @@ Conduct discoverability audits for respective customers that are identified as h
 Other assigned duties as needed
 
 
-### Qualifications###
+### Qualifications   
 
 JOB REQUIREMENTS
  
@@ -66,19 +66,19 @@ Strong computer skills in databases, MS Word, Excel, PowerPoint and Outlook requ
 Experience utilizing CRM systems to track account activity
 
 
-### Compensation###
+### Compensation   
 
 Annual salary + benefits
 
 
-### Location###
+### Location   
 
 New York, NY 10013
 
 
 
 
-### To Apply###
+### To Apply   
 
 Please apply online:
 [https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=18979&company=C0001215517P&username=](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=18979&company=C0001215517P&username=)
@@ -86,7 +86,7 @@ Please apply online:
 
 
 
-### Contact Information###
+### Contact Information   
 
 Human Resources
 

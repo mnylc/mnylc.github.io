@@ -6,12 +6,12 @@ excerpt: "York College Library of The City University of New York seeks a full-t
 tag: job
 ---
 
-### Description###
+### Description   
 
 York College Library of The City University of New York seeks a full-time Substitute library faculty member for Fall 2018 at the rank of either Assistant Professor or Instructor.  This is a temporary, full-time position beginning on October 1, 2018 through January 2019, with the possibility of renewal for Spring 2019.
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Substitute reference librarian’s responsibilities will include: 
 Participating in reference desk services;  
@@ -23,7 +23,7 @@ Other duties as assigned. Schedule: Four days a week working either 10am-6pm or 
 
 
 
-### Qualifications###
+### Qualifications   
 
 Master’s degree in Library Science from ALA accredited program or equivalent degree for appointment as a Substitute Instructor; appointment as a Substitute Assistant Professor requires an additional Master’s degree or doctorate.  Preferred qualifications include: Academic library experience.
 
@@ -31,23 +31,23 @@ Master’s degree in Library Science from ALA accredited program or equivalent d
 
 
 
-### Location###
+### Location   
 
 Jamaica, New York
 
 
-### URL###
+### URL   
 
 [https://www.york.cuny.edu/library](https://www.york.cuny.edu/library)
 
-### To Apply###
+### To Apply   
 
 Applicants should submit a cover letter, CV/resume, and the names/addresses/phone numbers of 3 professional references (either electronically or by hard copy) to the Chief Librarian (see below).
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 Prof. Njoki Kinyatti, Chief Librarian, 
 York College/CUNY, 

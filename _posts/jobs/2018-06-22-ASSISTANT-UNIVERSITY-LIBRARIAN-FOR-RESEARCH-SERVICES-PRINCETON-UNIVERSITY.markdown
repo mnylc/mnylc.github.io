@@ -6,7 +6,7 @@ excerpt: "Assistant University Librarian for Research Services Princeton Univers
 tag: job
 ---
 
-### Description###
+### Description   
 
 Assistant University Librarian for Research Services
 Princeton University Library
@@ -26,7 +26,7 @@ The successful candidate will be appointed to an appropriate Librarian rank depe
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 
@@ -66,14 +66,14 @@ Strongly Preferred:
 
 
 
-### Location###
+### Location   
 
 Princeton, NJ, USA
 
 
 
 
-### To Apply###
+### To Apply   
 
 [http://dof.princeton.edu/academicjobs](http://dof.princeton.edu/academicjobs)
 

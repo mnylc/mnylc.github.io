@@ -6,17 +6,17 @@ excerpt: "The Health Sciences Libraries at Temple University seek an enthusiasti
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Health Sciences Libraries at Temple University seek an enthusiastic, versatile and skilled librarian to coordinate the Libraries’ new data services program. Based at the Simmy and Harry Ginsburg Library, this new position will develop and expand the library’s data services offerings as well as provide reference, research, and instruction. Temple University is a vibrant, urban research university with over 1,700 full-time faculty and a student body of 36,000 that is among the most diverse in the nation. For more information about Temple and Philadelphia, visit [http://www.temple.edu/about/.](http://www.temple.edu/about/.) 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to the Head of Research, Education & Outreach, the Research & Data Services Librarian supports the learning, research, and clinical activities at the Health Sciences Center. The Librarian will be responsible for providing education, liaison and research services as well as building a data services program at the Health Sciences Libraries.  This position coordinates the Library’s data policies, provides training on data resources and tools, and works collaboratively with the other health and science librarians across the University Libraries.  The Health Sciences Libraries serves the information needs of Temple’s Health Sciences Center, including the Schools of Medicine, Dentistry, Pharmacy, Podiatry, nine departments in the College of Public Health and the Temple University Hospital. Performs other duties as assigned. 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Education and Experience:
 ALA - accredited Master’s Degree in library/information science and two years of related experience. Experience with MS Office and familiarity with both Macintosh and PC desktop machines.
@@ -46,19 +46,19 @@ Preferred Skills and Abilities:
 *Commitment to providing responsive and innovative services to a culturally and racially diverse campus community.
 
 
-### Compensation###
+### Compensation   
 
 Competitive salary and benefits package, including relocation allowance. 
 
 
-### Location###
+### Location   
 
 Philadelphia, PA 
 
 
 
 
-### To Apply###
+### To Apply   
 
 To apply for this position, please visit www.temple.edu, click on Careers At Temple at the bottom of the home page, and reference 18001068.  For full consideration, please submit your completed electronic application, along with a cover letter and resume. Review of applications will begin immediately and will continue until the position is filled. 
 Temple University is an Affirmative Action/Equal Opportunity Employer with a strong commitment to cultural diversity.

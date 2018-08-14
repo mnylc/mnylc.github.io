@@ -6,7 +6,7 @@ excerpt: "The User Experience Designer will work with the User Experience Librar
 tag: job
 ---
 
-### Description###
+### Description   
 
 The User Experience Designer will work with the User Experience Librarian to create visually appealing web interfaces to library resources. All design work, from prototyping on, will be grounded in findings from user research, web analytics, and accessibility standards. The UX Designer will also assist in the design and implementation of user studies, including usability testing, that will inform any design work done.
 
@@ -15,7 +15,7 @@ The successful candidate will be a self-directed, well-organized, and detail-ori
 
 
 
-### Qualifications###
+### Qualifications   
 
 Available to work during normal weekday office hours (between 8 a.m. and 6 p.m.).
 
@@ -35,19 +35,19 @@ Experience with HTML/CSS
 
 
 
-### Compensation###
+### Compensation   
 
 $18/hour
 
 
-### Location###
+### Location   
 
 New York, NY, United States
 
 
 
 
-### To Apply###
+### To Apply   
 
 Please submit your resume with a cover letter that provides details & URLs for at least three web projects that that you played a central role in designing to:
 
@@ -56,7 +56,7 @@ stephen.francoeur@baruch.cuny.edu
 
 
 
-### Company Information###
+### Company Information   
 
 William and Anita Newman Library
 Baruch College

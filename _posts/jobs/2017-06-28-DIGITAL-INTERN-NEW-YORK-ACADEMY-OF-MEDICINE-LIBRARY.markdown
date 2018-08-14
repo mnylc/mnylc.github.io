@@ -6,7 +6,7 @@ excerpt: "The New York Academy of Medicine’s Library is looking for a digital 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The New York Academy of Medicine’s Library is looking for a digital intern to work in the Library’s digital program.  The internship will provide hands-on experience with creating and editing metadata for digitization projects, and conducting quality control of scanned images and digital collections.
 
@@ -20,7 +20,7 @@ Approximately 10 hours a week for 12 weeks.  Intern must be available 2 days per
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Conduct quality control on scanned images and digital collections
@@ -30,7 +30,7 @@ Approximately 10 hours a week for 12 weeks.  Intern must be available 2 days per
 • 	Count pages of volumes as needed 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Experience with metadata schemas (e.g. MODS, Dublin Core, MARC, IPTC etc.)
@@ -42,28 +42,28 @@ Approximately 10 hours a week for 12 weeks.  Intern must be available 2 days per
 • 	Coursework in Library and Information Science
 
 
-### Compensation###
+### Compensation   
 
 This internship is paid.
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 [https://nyam.org/library/](https://nyam.org/library/)
 
-### To Apply###
+### To Apply   
 
 Please forward cover letter and resume with "Digital Intern" in the subject line to internship@nyam.org.  Please also outline your academic needs for obtaining course credit, if applicable.  Deadline: July 14, 2017.
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 internship@nyam.org
 

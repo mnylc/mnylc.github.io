@@ -6,12 +6,12 @@ excerpt: "The Nyack Library is located in the beautiful village of Nyack overloo
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Nyack Library is located in the beautiful village of Nyack overlooking the Hudson River.  Its natural beauty, cultural offerings and proximity to New York City make it an ideal place to work and live.  We are currently seeking a Head of Reference to manage and provide reference services to our patrons.  This is an opportunity to provide guidance and mentoring to our reference staff, to work collaboratively with other Department Heads and to assist the Library Director as part of the management team.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities
 
@@ -31,7 +31,7 @@ Responsibilities
 
 
 
-### Qualifications###
+### Qualifications   
 
 Education and Experience
 MLS degree from an ALA-accredited institution
@@ -45,28 +45,28 @@ Experience with grant writing or bilingual capabilities a plus
 
 
 
-### Compensation###
+### Compensation   
 
 Benefits include health and dental insurance, vacation, personal and sick time, holidays and membership in the New York State Retirement System.  Salary commensurate with experience.
 
 
 
 
-### URL###
+### URL   
 
 nyacklibrary.org
 
-### To Apply###
+### To Apply   
 
 To apply, send resumes to jmarino@nyacklibrary.org  Application deadline August 25, 2017.  Please no phone calls.
 
 
-### Company Information###
+### Company Information   
 
 Nyack Library, 59 S. Broadway, Nyack, NY 10960  845-358-3370
 
 
-### Contact Information###
+### Contact Information   
 
 N/A
 

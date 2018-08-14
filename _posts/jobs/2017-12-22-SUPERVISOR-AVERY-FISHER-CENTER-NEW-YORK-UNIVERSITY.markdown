@@ -6,7 +6,7 @@ excerpt: "Assist the Head of Avery Fisher Center with ensuring effective and eff
 tag: job
 ---
 
-### Description###
+### Description   
 
 Assist the Head of Avery Fisher Center with ensuring effective and efficient operations of the Avery Fisher Center. Supervise the staff and daily departmental operations including: access and circulation activities; reserve processing; equipment maintenance and adherence to policies and procedures. In conjunction with Head of Avery Fisher Center research, analyze and resolve inquiries, problems and complaints from patrons and staff regarding media services in Bobst Library. Assist in the development and implementation of Division of Libraries Public Services media services projects and goals. Research, plan and implement services to support the media needs of library patrons and staff. Assist in developing policies and procedures for media services. 
 Required Education:
@@ -39,21 +39,21 @@ PI100636918
 
 
 
-### Compensation###
+### Compensation   
 
 DOE
 
 
-### Location###
+### Location   
 
 New York, NY 10001, USA
 
 
-### URL###
+### URL   
 
 [http://www.Click2apply.net/skdtfsj5pfxvhb26](http://www.Click2apply.net/skdtfsj5pfxvhb26)
 
-### To Apply###
+### To Apply   
 
 Apply Online
 

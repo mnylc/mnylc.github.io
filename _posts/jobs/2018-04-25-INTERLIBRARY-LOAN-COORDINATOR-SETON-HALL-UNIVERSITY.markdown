@@ -6,12 +6,12 @@ excerpt: "The person in this position exercises oversight and coordination of al
 tag: job
 ---
 
-### Description###
+### Description   
 
 The person in this position exercises oversight and coordination of all operations in Interlibrary loan (ILL) throughout Seton Hall University Libraries, and prioritization of the work to be done, utilizing the most current, sophisticated systems to manage these information flows.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 - Faculty, graduate and undergraduate students, staff and administrators depend upon the person in this position to research and find materials through several national and regional consortia in order to obtain book and journal articles that Seton Hall does not own/have access to. This person in this position is the primary contact for this work which consists of complex databases to search, deep knowledge of bibliographic records, cooperative relationships with other libraries, directs service to patrons, and service to libraries - and their scholars - worldwide.
@@ -26,7 +26,7 @@ The person in this position exercises oversight and coordination of all operatio
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required: 
 - Associate's degree, or vocational or technical school degree.
@@ -41,31 +41,31 @@ Desired:
 - Scanner, copiers, micro-form scanners, general office equipment and computer peripherals.
 
 
-### Compensation###
+### Compensation   
 
 Staff Union - SU17.0
 
 
-### Location###
+### Location   
 
 South Orange, New Jersey
 
 
-### URL###
+### URL   
 
 [http://jobs.shu.edu/cw/en-us/job/493346/](http://jobs.shu.edu/cw/en-us/job/493346/)
 
-### To Apply###
+### To Apply   
 
 Visit [http://jobs.shu.edu/cw/en-us/job/493346/](http://jobs.shu.edu/cw/en-us/job/493346/) and click on the APPLY NOW button
 
 
-### Company Information###
+### Company Information   
 
 Seton Hall University Libraries [https://library.shu.edu](https://library.shu.edu)
 
 
-### Contact Information###
+### Contact Information   
 
 N/A
 

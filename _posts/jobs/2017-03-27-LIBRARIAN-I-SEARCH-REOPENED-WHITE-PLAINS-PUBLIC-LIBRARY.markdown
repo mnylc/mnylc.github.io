@@ -6,7 +6,7 @@ excerpt: "The White Plains Public Library has a great story to tell. Come and he
 tag: job
 ---
 
-### Description###
+### Description   
 
 The White Plains Public Library has a great story to tell. Come and help us share it! 
 
@@ -23,14 +23,14 @@ The City of White Plains is an Equal Opportunity Employer
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 In this position, you will grow a public relations program to create positive relationships between the Library and its public; market library activities through social media platforms, a digital newsletter, and other channels; promote specific events; and nurture engagement between the Library and White Plains’ communities. You will also provide reference and reader’s advisory services, instruction, assistance with technology, and plan and implement programs. 
 
 The successful candidate must be an excellent collaborator, as you will work with a range of colleagues as well as community members and staff from other organizations.  She or he must possess excellent written and verbal communication skills, expertise with social media, be creative and enjoy working independently. Experience in marketing or public relations is a plus. 
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications: Master’s degree in library or information science from a program that is accredited by the American Library Association or recognized by the New York State Education Department as following accepted education practices. 
 
@@ -38,19 +38,19 @@ Special Requirements: Eligibility for a New York State Public Librarian’s Prof
 
 
 
-### Compensation###
+### Compensation   
 
 Starting Salary: $53,689 to $55,311 depending on experience; excellent benefits
 
 
-### Location###
+### Location   
 
 White Plains, NY, USA
 
 
 
 
-### To Apply###
+### To Apply   
 
 If interested, please email cover letter and resume by April 7, 2017 to: Brian Kenney, Library Director, bkenney@whiteplainslibrary.org. Please put “Librarian Opening” in the subject line.
 

@@ -9,7 +9,7 @@ The hours will include Sundays from 12:45 - 5 pm.
 tag: job
 ---
 
-### Description###
+### Description   
 
 Creative and dynamic part -time (up to 17 hours) Children's Librarian wanted for the Ossining Public Library Children's Room team.
 
@@ -19,7 +19,7 @@ The hours will include Sundays from 12:45 - 5 pm.
 
 
 
-### Qualifications###
+### Qualifications   
 
 Skills
 - Children's Programming: will plan and present storytimes and other creative programs
@@ -34,21 +34,21 @@ Education Required
 MLS required
 
 
-### Compensation###
+### Compensation   
 
 $28.96/hour to $32.75/hour
 
 
-### Location###
+### Location   
 
 Ossining, NY, USA
 
 
-### URL###
+### URL   
 
 n/a
 
-### To Apply###
+### To Apply   
 
 phone: 914-941-2416 ext. 325
 
@@ -62,7 +62,7 @@ Ossining, NY
 Attention: Marci Dressler
 
 
-### Company Information###
+### Company Information   
 
 Ossining Public Library
 53 Croton Avenue
@@ -70,7 +70,7 @@ Ossining NY 10562
 United States
 
 
-### Contact Information###
+### Contact Information   
 
 Marci Dressler
 (914) 941-2416 ext. 325

@@ -6,7 +6,7 @@ excerpt: "The St. John’s University Libraries seeks applications from innovati
 tag: job
 ---
 
-### Description###
+### Description   
 
 The St. John’s University Libraries seeks applications from innovative candidates to act as its eScholarship Repository Librarian. Reporting to the Dean of University Libraries, the eScholarship Repository Librarian will support scholarly communication and data curation endeavors of faculty, researchers, students, staff, and librarians working locally and globally. The successful candidate will be responsible for supporting library-led initiatives including the development and management of an institutional repository, and development and implementation of an electronic theses and dissertations (ETD) program. The eScholarship Repository Librarian will provide leadership in the area of data curation on behalf of the Libraries and work with faculty researchers to identify, recruit, ingest and deposit data in the library’s digital repository. The successful candidate will play a significant role in outreach to the research community to deposit data in the digital repository and in the creation of training programs, help guides and web resources to support this effort. The eScholarship Repository Librarian will also be responsible for providing leadership in areas related to digital publishing, copyright, intellectual property, and other emerging trends in digital scholarship. The individual will monitor trends and developments in scholarly communication and act as a liaison to national efforts in the area (such as SPARC and HathiTrust). The incumbent will also develop outreach and educational programs that promote scholarly communication in furtherance of both the University and Libraries mission. This tenure track faculty position requires self-motivated and continual learning, professional development, and application of additional expertise in these and related areas.
 
@@ -14,7 +14,7 @@ The St. John's University Libraries is committed to teaching, learning, scholars
  
 
 
-### Responsibilities###
+### Responsibilities   
 
 Primary Responsibilities:
 
@@ -48,7 +48,7 @@ Secondary Responsibilities:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 
@@ -86,26 +86,26 @@ Applications will be accepted until the position is filled. Applications submitt
 
 
 
-### Location###
+### Location   
 
 Queens, NY (United States)
 
 
-### URL###
+### URL   
 
 [https://stjohnsedu.silkroad.com/epostings/?fuseaction=app.jobinfo&jobid=218362&version=1&source=metro](https://stjohnsedu.silkroad.com/epostings/?fuseaction=app.jobinfo&jobid=218362&version=1&source=metro)
 
-### To Apply###
+### To Apply   
 
 Please apply on line: [https://stjohnsedu.silkroad.com/epostings/?fuseaction=app.jobinfo&jobid=218362&version=1&source=metro](https://stjohnsedu.silkroad.com/epostings/?fuseaction=app.jobinfo&jobid=218362&version=1&source=metro)
 
 
-### Company Information###
+### Company Information   
 
 St. John’s University is an Equal Opportunity Employer and encourages applications from women and minorities. All qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national or ethnic origin, age, status as an individual with a disability, protected veteran status, or any other characteristic protected by law.
 
 
-### Contact Information###
+### Contact Information   
 
  
 

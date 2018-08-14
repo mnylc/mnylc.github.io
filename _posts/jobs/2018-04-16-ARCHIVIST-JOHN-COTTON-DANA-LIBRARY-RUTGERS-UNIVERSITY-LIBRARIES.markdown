@@ -6,7 +6,7 @@ excerpt: "Rutgers University Libraries seek an experienced, innovative, service-
 tag: job
 ---
 
-### Description###
+### Description   
 
 Rutgers University Libraries seek an experienced, innovative, service-oriented, and progressive archivist to fill the inaugural position of Archivist in the John Cotton Dana Library at Rutgers University–Newark. The successful candidate will be in the unique position of expanding upon our emerging collection of archival materials and formalizing the first Archives department in Dana Library. The selected candidate will have the notable advantage of being co-located with the world’s most comprehensive jazz archives, the Institute of Jazz Studies in Dana Library. 
 
@@ -16,7 +16,7 @@ Reporting to the Director of the John Cotton Dana Library, the Archivist assumes
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Oversees cataloging, discovery, and preservation of the collection that documents the student, faculty, and community experience of the university using best practices and professional standards. The collection will include Rutgers–Newark publications and documents, faculty personal papers, photographs, student dissertations and theses, along with other pertinent materials directly related to the university; 
@@ -36,7 +36,7 @@ This is a tenure track faculty position. As a member of Rutgers University Libra
 
 
 
-### Qualifications###
+### Qualifications   
 
 REQUIRED QUALIFICATIONS: The successful candidate will have a Master’s degree from an ALA-accredited institution and/or a Master’s degree in Archival Studies. A minimum of three years of professional experience in an academic or research library, archives, or similar setting, with emphasis on experience in archival processing, management, and preservation. Awareness of national issues and trends in archives and in collections services. Must have the ability and desire to meet tenure and promotion requirements. Demonstrated knowledge of and experience in the development of EAD finding aids, as well as broad knowledge of archival standards and current technological issues. Knowledgeable of issues relating to managing and preserving digital collections. Demonstrated commitment to scholarship through research, conference presentations, and publications. Demonstrated commitment to fostering diversity. The successful candidate must be eligible to work in the United States. Sponsorship is not available for this position.
 
@@ -44,21 +44,21 @@ PREFERRED QUALIFICATIONS: Successful experience in the design and delivery of ar
 
 
 
-### Compensation###
+### Compensation   
 
 Salary and rank will be commensurate with qualifications and experience.
 
 
-### Location###
+### Location   
 
 Newark, New Jersey
 
 
-### URL###
+### URL   
 
 libraries.rutgers.edu
 
-### To Apply###
+### To Apply   
 
 TO APPLY:  REVIEW OF APPLICATIONS AND INTERVIEWS WILL BEGIN IMMEDIATELY AND CONTINUE UNTIL THE POSITION IS FILLED. SUBMIT RESUME, COVER LETTER, AND NAMES OF THREE REFERENCES TO:  [http://jobs.rutgers.edu/postings/63020](http://jobs.rutgers.edu/postings/63020)
 
@@ -66,12 +66,12 @@ All offers of employment are contingent upon successful completion of all pre-em
 
 
 
-### Company Information###
+### Company Information   
 
 libraries.rutgers.edu/dana.
 
 
-### Contact Information###
+### Contact Information   
 
 Barbara Weldon, Senior HR Manager, bweldon@rutgers.edu
 

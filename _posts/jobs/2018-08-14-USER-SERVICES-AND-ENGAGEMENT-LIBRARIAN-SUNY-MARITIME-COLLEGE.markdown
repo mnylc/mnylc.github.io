@@ -6,14 +6,14 @@ excerpt: "The User Services and Engagement Librarian provides leadership for the
 tag: job
 ---
 
-### Description###
+### Description   
 
 The User Services and Engagement Librarian provides leadership for the overall user experience including circulation, reserves, inter-library loan, technology support, and research services. This position requires a wide range of professional responsibilities and activities, such as developing a philosophy and standards for service, engaging in assessment activities to measure and benchmark service effectiveness and quality, creating in-house procedures regarding the circulation process (check out, etc.) and promoting library services to the campus community and external partners.
 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 - Leads service operations and staffing at the Stephen B. Luce Library;
@@ -34,7 +34,7 @@ The User Services and Engagement Librarian provides leadership for the overall u
 - Other projects as assigned by the Library Director
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 
@@ -52,21 +52,21 @@ Required Qualifications:
 
 
 
-### Compensation###
+### Compensation   
 
 Classification/Salary Range: The User Services & Engagement Librarian is a UUP position.  The anticipated salary range for the position is $50,000 - $55,000 annually, with an outstanding benefits package (for more information please see the UUP Benefit Summary). Review of applications to commence immediately and conclude when the position is filled.
 
 
-### Location###
+### Location   
 
 Bronx, NY
 
 
-### URL###
+### URL   
 
 [http://maritime.interviewexchange.com/jobofferdetails.jsp?JOBID=101166](http://maritime.interviewexchange.com/jobofferdetails.jsp?JOBID=101166)
 
-### To Apply###
+### To Apply   
 
 Persons interested in the above position should apply online.  Please submit:
 
@@ -77,13 +77,13 @@ Persons interested in the above position should apply online.  Please submit:
 Returning Applicants - Login to your SUNY Maritime Careers Account to check your completed application, check/edits your profile or to upload additional documents.
 
 
-### Company Information###
+### Company Information   
 
 6 Pennyfield Avenue
 Throggs Neck, NY 10465
 
 
-### Contact Information###
+### Contact Information   
 
 Heather Galterio - Human Resource Associate
 718-409-7304

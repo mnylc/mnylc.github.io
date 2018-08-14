@@ -6,7 +6,7 @@ excerpt: "POSITION SUMMARY: Rutgers University Libraries (RUL) seeks a dynamic, 
 tag: job
 ---
 
-### Description###
+### Description   
 
 POSITION SUMMARY: Rutgers University Libraries (RUL) seeks a dynamic, creative, and experienced individual to provide strategic direction and leadership in the creation and management of non-MARC metadata. This newly created position reports to the Head of Central Technical Services (CTS), and the successful candidate will serve in a department that is actively engaged in meeting evolving information organization, discovery, and access trends. In collaboration with CTS colleagues and other library units, the incumbent will create, process, and manage metadata and associated files for RUcore, Rutgers’ institutional repository. RUcore content includes scholarship deposits as mandated by the University’s Open Access policy, and special collections and archival materials that will be managed in a forthcoming ArchivesSpace application. Additionally, the successful candidate will participate in projects at the state and national level, and in grant-funded initiatives.
 
@@ -14,7 +14,7 @@ POSITION SUMMARY: Rutgers University Libraries (RUL) seeks a dynamic, creative, 
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Metadata Librarian will:
 
@@ -29,7 +29,7 @@ The Metadata Librarian will:
  
 
 
-### Qualifications###
+### Qualifications   
 
 QUALIFICATIONS:
 
@@ -68,26 +68,26 @@ This Non-Tenure Track appointment is renewable with successful reappointment.  T
  
 
 
-### Compensation###
+### Compensation   
 
 Salary is commensurate with qualifications and experience.   
 
 
-### Location###
+### Location   
 
 Piscataway, NJ
 
 
-### URL###
+### URL   
 
 [https://www.libraries.rutgers.edu/](https://www.libraries.rutgers.edu/) 
 
-### To Apply###
+### To Apply   
 
 TO APPLY:  REVIEW OF APPLICATIONS AND INTERVIEWS WILL BEGIN IMMEDIATELY AND CONTINUE UNTIL THE POSITION IS FILLED. SUBMIT RESUME, COVER LETTER, AND NAMES OF THREE REFERENCES:   [http://jobs.rutgers.edu/postings/68405](http://jobs.rutgers.edu/postings/68405)
 
 
-### Company Information###
+### Company Information   
 
 LIBRARY PROFILE:  Rutgers, The State University of New Jersey, is a leading national research university and the state of New Jersey’s preeminent, comprehensive public institution of higher education. Chartered in 1766 as Queen’s College, Rutgers is the eighth oldest higher education institution in the United States, a land-grant university, and a member of the Association of American Universities, the Big Ten, and the CIC. More than 67,000 students and 22,000 faculty and staff learn, work, and serve the public at Rutgers locations across New Jersey and around the world. Rutgers includes Rutgers University–New Brunswick, Rutgers Biomedical and Health Sciences, Rutgers University–Newark, and Rutgers University–Camden. Rutgers comprises 33 schools and colleges and is home to more than 300 research centers and institutes. The university is dedicated to teaching that meets the highest standards of excellence; to conducting research that breaks new ground; and to providing services, solutions, and clinical care that help individuals and the local, national, and global communities where they live.
 

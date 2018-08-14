@@ -6,12 +6,12 @@ excerpt: "Private membership library in New York City seeks an experienced profe
 tag: job
 ---
 
-### Description###
+### Description   
 
 Private membership library in New York City seeks an experienced professional to fill the full-time position of Head of Cataloging and Special Collections. The Head of Cataloging and Special Collections is responsible for managing the cataloging department to ensure that all library materials, including rare books and archival items, are cataloged in an accurate and timely manner according to generally accepted and local standards and that all bibliographic, item, serial, and authority records are correctly maintained.  The position also entails working with the special collections librarian in readers’ services and in conservation and preservation-related activities.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Supervise the workflow of the cataloging and special collections departments and the activities of all its staff members
 
@@ -42,7 +42,7 @@ Perform related duties as assigned by supervisor
 Maintain compliance with all Library policies and procedures
 
 
-### Qualifications###
+### Qualifications   
 
 Required skills and qualifications
 MLS from an ALA-accredited program or an equivalent combination of another advanced degree and professional-level experience in a library setting
@@ -71,26 +71,26 @@ Experience with Innovative Interfaces Sierra Integrated Library System
 Familiarity with the Dewey Decimal classification system
 
 
-### Compensation###
+### Compensation   
 
 Salary is commensurate with experience and includes a benefits package including health/dental/vision plans, 403(b) defined contribution plan, flexible benefits plan, and vacation and holiday time. The New York Society Library is an Equal Opportunity Employer.
 
 
-### Location###
+### Location   
 
 New York, New York
 
 
-### URL###
+### URL   
 
 [https://www.nysoclib.org/about/head-cataloging-and-special-collections](https://www.nysoclib.org/about/head-cataloging-and-special-collections)
 
-### To Apply###
+### To Apply   
 
 Candidates should email a resume, cover letter outlining how your skills and experiences meet the qualifications for the position, names of three professional references, and salary requirements to Lawi Kibet, Controller at lkibet@nysoclib.org. Please include the subject line Head of Cataloging and Special Collections on the email. Applications without the requested information will not be considered. Please submit applications by 5/25/2018.
 
 
-### Company Information###
+### Company Information   
 
 The New York Society Library is an historic membership library founded in 1754. The Library today is open to all for reading, reference, and selected events, with circulation and other services by subscription. The beautiful landmarked building dates from 1917 and includes reading rooms, spaces for study, book stacks, and the Assunta, Ignazio, Ada and Romano Peluso Exhibition Gallery. The Library has approximately 300,000 volumes and hosts a variety of special events, reading groups, and workshops, as well as the New York City Book Awards.
 

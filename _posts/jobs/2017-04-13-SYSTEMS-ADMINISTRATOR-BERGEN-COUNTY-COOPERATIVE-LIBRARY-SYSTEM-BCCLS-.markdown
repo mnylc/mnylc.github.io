@@ -6,12 +6,12 @@ excerpt: "The Bergen County Cooperative Library System (BCCLS) seeks a Systems A
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Bergen County Cooperative Library System (BCCLS) seeks a Systems Administrator to serve its 77 unique member libraries that own more than 5.8 million items and serve more than 700,000 cardholders within an area of over 1.2 million residents in Bergen, Essex, Hudson and Passaic Counties. The ILS (currently III’s Polaris and its web-based version, Leap) is the most integral core service that BCCLS provides to its member libraries, and this role focuses almost exclusively on the administration and support of this invaluable tool.
 
 
-### Responsibilities###
+### Responsibilities   
 
 ●	Responds to ILS-related inquiries and support tickets from library staff
 ●	Manages the PAC and prioritizes focus on the user experience
@@ -27,7 +27,7 @@ The Bergen County Cooperative Library System (BCCLS) seeks a Systems Administrat
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required:
 
@@ -45,26 +45,26 @@ Preferred:
 
 
 
-### Compensation###
+### Compensation   
 
 $60,000-$65,000, commensurate with experience.
 
 
-### Location###
+### Location   
 
 Hackensack, NJ, United States
 
 
-### URL###
+### URL   
 
 www.bccls.org
 
-### To Apply###
+### To Apply   
 
 Please e-mail your cover letter, resume and list of three references to Executive Director Marie Coughlin at marie@bccls.org. Applications will be accepted until the position is filled. 
 
 
-### Company Information###
+### Company Information   
 
 This is a full-time, 35-hour-per-week position and the employee reports to the Director of Information Technology. Work will primarily be performed at the BCCLS office at 810 Main Street in Hackensack, NJ, with occasional visits to member libraries when necessary. Generous health and 403b benefits are provided. BCCLS is a 501(c)(3) non-profit organization and is not subject to New Jersey First state residency requirements, nor are any BCCLS positions eligible for the New Jersey Public Employee Retirement System (PERS/pension system).
 

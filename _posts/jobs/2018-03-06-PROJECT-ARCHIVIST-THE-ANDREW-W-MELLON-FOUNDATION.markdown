@@ -6,7 +6,7 @@ excerpt: "The Andrew W. Mellon Foundation (“Foundation”), a non-profit organ
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Andrew W. Mellon Foundation (“Foundation”), a non-profit organization that makes grants in five core program areas (higher education and scholarship in the humanities; arts and cultural heritage; diversity; scholarly communications; and international higher education and strategic projects), seeks a Project Archivist.  The Project Archivist will be contracted to work on a three-year temporary assignment within the Nathan Marsh Pusey Library.  
 
@@ -16,7 +16,7 @@ The Project Archivist also will contribute to internal initiatives to evaluate a
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Survey the Foundation’s records, producing an inventory, assessment, and overview of processed and unprocessed material
@@ -37,7 +37,7 @@ The Project Archivist also will contribute to internal initiatives to evaluate a
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Master’s degree in Library and Information Science or related field, with a concentration in archival studies  
@@ -64,16 +64,16 @@ The Project Archivist also will contribute to internal initiatives to evaluate a
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [https://workforcenow.adp.com/jobs/apply/posting.html?client=theandreww&jobId=90100&lang=en_US&source=CC3](https://workforcenow.adp.com/jobs/apply/posting.html?client=theandreww&jobId=90100&lang=en_US&source=CC3)
 
-### To Apply###
+### To Apply   
 
 Qualified candidates should submit a resume, cover letter and salary requirements to: [https://workforcenow.adp.com/jobs/apply/posting.html?client=theandreww&jobId=90100&lang=en_US&source=CC3.](https://workforcenow.adp.com/jobs/apply/posting.html?client=theandreww&jobId=90100&lang=en_US&source=CC3.)  
 We will consider each response carefully, but only contact those individuals we feel are most qualified for the position. 

@@ -8,7 +8,7 @@ tag: job
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 1.	Provide reference and bibliographical services, including assistance in the use of library resources and services, and direction in locating information and utilizing resources and services available on and off campus.
 2.	Participate in the daily operations of a library, including facilities and collection maintenance, materials reception and reconciliation, and record keeping and tabulation.
@@ -16,7 +16,7 @@ tag: job
 4.	Perform other duties as assigned and contribute to the overall operating efficiency of the library
 
 
-### Qualifications###
+### Qualifications   
 
 
 Education:	 	Bachelor’s degree 
@@ -37,28 +37,28 @@ Computer Skills
 
 
 
-### Location###
+### Location   
 
 Bay Shore, NY  On Long Island
 
 
-### URL###
+### URL   
 
 [https://touro.peopleadmin.com/postings/2965](https://touro.peopleadmin.com/postings/2965)
 
-### To Apply###
+### To Apply   
 
  Please send resume and cover letter to Joan Wagner by email to joan.wagner2@touro.edu.com
 
 
-### Company Information###
+### Company Information   
 
 Touro College School of Health Science
 1700 Union Boulevard
 Bay Shore, New York 11706
 
 
-### Contact Information###
+### Contact Information   
 
 joan.wagner2@touro.edu.com
 

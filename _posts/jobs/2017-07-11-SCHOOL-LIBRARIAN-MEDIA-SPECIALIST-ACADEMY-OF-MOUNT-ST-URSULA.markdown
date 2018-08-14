@@ -6,12 +6,12 @@ excerpt: "The Librarian/Media Specialist for the Academy of Mount St. Ursula is 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Librarian/Media Specialist for the Academy of Mount St. Ursula is responsible for maintaining and running the school library media center daily during the academic year from 8am to 4pm.  He/she will order resources, create and track student records and maintain a database of library materials.   The librarian will also be responsible for working with administration, faculty, staff and students with use of instructional technology  (i.e. computers, Internet research, Ipads, Smart Boards, projectors, and Google Chromebooks).  He/she must be able to work with students on research papers and at times provide class instruction about research and paper writing.  The librarian will serve on various school committees and report directly to the school principal.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Program Administrator
 
@@ -77,31 +77,31 @@ School Leader
 
 
 
-### Qualifications###
+### Qualifications   
 
 A Master of Library Science degree from a program accredited by the American Library Association is preferred but not necessarily required. School library media certification is desired, but not essential.
 
 
-### Compensation###
+### Compensation   
 
 Depends on experience
 
 
-### Location###
+### Location   
 
 Bronx, New York 
 
 
-### URL###
+### URL   
 
 www.amsu.org
 
-### To Apply###
+### To Apply   
 
 The Academy of Mount St. Ursula is searching for a Librarian/Media Specialist.  .  Contact the principal, Sr. Jean Marie Humphries, osu, PhD, at jhumphries@amsu.org if interested.  Please include a current resume and writing sample.
 
 
-### Company Information###
+### Company Information   
 
 Academy of Mount St. Ursula, 330 Bedford Park Boulevard, Bronx, NY 10458  718-364-5353
 Established in 1855, The Academy of Mount St. Ursula is an all-girls Catholic high school conducted in the Ursuline tradition and located in the Bronx.  The Academy’s unique Catholic educational mission is to serve young women of diverse cultures and socioeconomic backgrounds in a college preparatory secondary school conducted in the Ursuline tradition of fostering leadership and service to Church and community.
@@ -109,7 +109,7 @@ Established in 1855, The Academy of Mount St. Ursula is an all-girls Catholic hi
 
 
 
-### Contact Information###
+### Contact Information   
 
 Contact Principal  Sr. Jean Marie Humphries, osu, PhD  jhumphries@amsu.org  718-364-5353 x211
 

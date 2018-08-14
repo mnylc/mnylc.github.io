@@ -6,12 +6,12 @@ excerpt: "Reporting to the Director and working closely with other librarians an
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to the Director and working closely with other librarians and staff, the Librarian will be responsible for the technological functions of the library, including the set-up and maintenance of access to online resources and locally installed software. Collects usage data of the library's electronic resources. Administers the integrated library system and manages the library's computer laboratory.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Responsible for maintaining content for all online resources including ebooks, online journals, and databases using Serials Solutions among other management tools. Establishes publisher/vendor relationships related to maintenance of online resources.
@@ -31,7 +31,7 @@ Reporting to the Director and working closely with other librarians and staff, t
 • 	Other duties, as assigned
 
 
-### Qualifications###
+### Qualifications   
 
 Education: Master's Degree in Library Science (MLS or Library and Information Science (MLIS), required. 
 
@@ -41,16 +41,16 @@ Experience: 1-2 years medical or academic library experience, required.
 
 
 
-### Location###
+### Location   
 
 Mineola, NY
 
 
-### URL###
+### URL   
 
 [http://www.winthrop.org/library](http://www.winthrop.org/library)
 
-### To Apply###
+### To Apply   
 
 Go to the NYU Winthrop Hospital Career website: [https://winthrop-careers.silkroad.com/](https://winthrop-careers.silkroad.com/)
 Access the current openings link toward the bottom of the page
@@ -58,7 +58,7 @@ Enter "Librarian" in the Enter Search Terms box
 Click on the Job Title and Apply
 
 
-### Company Information###
+### Company Information   
 
 NYU Winthrop Hospital is a 591-bed university-affiliated medical center and New York State-designated Regional Trauma Center. NYU Winthrop proudly offers sophisticated diagnostic and therapeutic care in virtually every specialty and subspecialty of medicine and surgery.
 
@@ -69,7 +69,7 @@ NYU Winthrop has a vibrant multi-faceted research program. As part of its missio
 Ever changing and growing with the diverse community it serves, NYU Winthrop Hospital is, in many ways, a unique institution, simultaneously large and small, regional as well as local. We successfully blend the progressive philosophy, sophistication and advances of a teaching and research institution with a very personal approach to patient care – an approach that has become the cornerstone of our organization.
 
 
-### Contact Information###
+### Contact Information   
 
 Barnaby Nicolas, Director / Email: BNicolas@NYUWinthrop.org
 

@@ -6,7 +6,7 @@ excerpt: "Part-Time Shelver TEMPORARY POSITION FOR SUMMER For the Main Library T
 tag: job
 ---
 
-### Description###
+### Description   
 
 Part-Time Shelver 
 TEMPORARY POSITION FOR SUMMER 
@@ -35,16 +35,16 @@ Resumes/Applications should be emailed to employment@greatnecklibrary.org by Jun
 
 
 
-### Location###
+### Location   
 
 159 Bayview Avenue Great Neck, NY
 
 
-### URL###
+### URL   
 
 [https://www.greatnecklibrary.org/](https://www.greatnecklibrary.org/)
 
-### To Apply###
+### To Apply   
 
 Resumes/Applications should be emailed to employment@greatnecklibrary.org by June 22, 2018 
 

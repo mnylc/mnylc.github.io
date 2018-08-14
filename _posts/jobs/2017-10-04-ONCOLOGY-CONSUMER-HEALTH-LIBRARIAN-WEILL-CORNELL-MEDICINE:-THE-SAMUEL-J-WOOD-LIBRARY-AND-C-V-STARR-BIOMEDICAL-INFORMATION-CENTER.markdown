@@ -6,12 +6,12 @@ excerpt: "Position Summary: The Oncology Consumer Health Librarian (OCHL) is a p
 tag: job
 ---
 
-### Description###
+### Description   
 
 Position Summary: The Oncology Consumer Health Librarian (OCHL) is a patient and family oriented clinical librarian who specializes in oncology information and manages a patient-focused oncology resource center within the Myra Mahon Patient Resource Center (PRC). The OCHL works in close collaboration with the Oncology Service Line at NewYork-Presbyterian Hospital and an interdisciplinary team at the WCM Sandra and Edward Meyer Cancer Center. Working directly with leadership at both institutions, the OCHL serves as an oncology information ombudsman to patients and families, participates on the patient care team, and is a key resource listening to and increasing patient comprehension of their care plan to optimize their quality of life. This position takes the lead in cancer care customer service initiatives, advising on strategies to enhance the patient experience, and acting as an ambassador to the Cancer Center. The successful individual will have strong communication skills, and an extraordinary ability to build relationships with patients and their families.
 
 
-### Responsibilities###
+### Responsibilities   
 
 1. As an expert in oncology information, is an expert searcher of a variety of specialized electronic health and social work databases licensed by the Cornell University Library system and can proficiently locate the information best suited to each patient’s information request or question. Makes recommendations for new patient or family resources not already held by the university system that would benefit oncology patients. 
 
@@ -37,7 +37,7 @@ Position Summary: The Oncology Consumer Health Librarian (OCHL) is a patient and
 
 
 
-### Qualifications###
+### Qualifications   
 
 MINIMUM REQUIREMENTS: 
 
@@ -76,26 +76,26 @@ PREFERRED QUALIFICATIONS
 
 
 
-### Compensation###
+### Compensation   
 
 Starting salary negotiable
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://library.weill.cornell.edu/about-us/staff/career-opportunities-and-internships](http://library.weill.cornell.edu/about-us/staff/career-opportunities-and-internships)
 
-### To Apply###
+### To Apply   
 
 librecruiting@med.cornell.edu
 
 
-### Company Information###
+### Company Information   
 
 1300 York Avenue, New York, NY 10065
 

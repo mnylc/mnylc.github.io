@@ -6,12 +6,12 @@ excerpt: "Dobbs Ferry, NY, a village located on the Hudson River 30 minutes nort
 tag: job
 ---
 
-### Description###
+### Description   
 
 Dobbs Ferry, NY, a village located on the Hudson River 30 minutes north of NYC, with a population of 11,000, is seeking a Librarian I for the Public Library. The successful candidate will be joining a team that is looking to move the library ahead into the future by becoming the :"go to" place for community engagement. Further information about Dobbs Ferry may be found on the Village website: www.dobbsferry.com
 
 
-### Responsibilities###
+### Responsibilities   
 
 EXAMPLES OF WORK: (Illustrative Only)
 
@@ -44,28 +44,28 @@ processing, calendar, e-mail, and database software in performing work assignmen
 May perform other incidental tasks, as needed. 
 
 
-### Qualifications###
+### Qualifications   
 
 A masters degree in Library Science from a library school accredited by the American Library Association or recognized by the New York State Department of Education as following acceptable education practices.
 
 A New York State Public Libraries Professional Certificate.
 
 
-### Compensation###
+### Compensation   
 
 Starting Salary $45,000.00
 
 
-### Location###
+### Location   
 
 Village of Dobbs Ferry, New York
 
 
-### URL###
+### URL   
 
 www.dobbsferrylibrary.org
 
-### To Apply###
+### To Apply   
 
 1) Visit [https://exams.westchestergov.com/webexam/home/welcome.htm](https://exams.westchestergov.com/webexam/home/welcome.htm)
 2) Click on the "Continuous Recruitment Exams" tab at the top of the page.
@@ -75,13 +75,13 @@ www.dobbsferrylibrary.org
 6) Click "Apply Now" and follow the instructions to create an account or log-in.
 
 
-### Company Information###
+### Company Information   
 
 55 Main Street Dobbs Ferry, NY 10522
 914-693-6614
 
 
-### Contact Information###
+### Contact Information   
 
 Edward Canora, Director  914-231-3055  ecanora@wlsmail.org
 

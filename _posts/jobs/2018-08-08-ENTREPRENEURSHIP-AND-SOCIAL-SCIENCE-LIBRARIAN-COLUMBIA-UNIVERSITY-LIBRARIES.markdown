@@ -8,7 +8,7 @@ tag: job
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 The Columbia University Libraries seek a collaborative, engaged librarian to work with a diverse body of faculty and students across campus in support of research, learning, teaching, and entrepreneurial projects. The Librarian will be a liaison to the School of Business, the School of Professional Studies, and the Economics Department, among other schools, departments and centers. The Librarian will support research and learning through outreach to faculty and students, research services to undergraduates and graduate students, and collaborate with colleagues across the University in support of start-ups, incubators, and human-centered design projects.  
@@ -18,7 +18,7 @@ As part of the Science, Engineering, and Social Sciences team, the Librarian is 
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications
 
@@ -48,26 +48,26 @@ Preferred Qualifications
 
 
 
-### Compensation###
+### Compensation   
 
 Competitive
 
 
-### Location###
+### Location   
 
 New York, New York
 
 
-### URL###
+### URL   
 
 [https://library.columbia.edu/](https://library.columbia.edu/)
 
-### To Apply###
+### To Apply   
 
 [https://academicjobs.columbia.edu/applicants/Central?quickFind=66849](https://academicjobs.columbia.edu/applicants/Central?quickFind=66849)   
 
 
-### Company Information###
+### Company Information   
 
 As one of the world's leading research universities, Columbia University in the City of New York provides outstanding opportunities to work and grow in a dynamic, multicultural, intellectual community. The Columbia University Libraries are comprised of a diverse and engaged staff committed to furthering the University's teaching and research mission through innovation, collaboration, and a commitment to excellence.  Columbia University is an Equal Opportunity/Affirmative Action Employer and strongly encourages individuals of all backgrounds and cultures to consider this position.
 

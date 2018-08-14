@@ -6,7 +6,7 @@ excerpt: "The Center for Puerto Rican Studies at Hunter College seeks a technica
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Center for Puerto Rican Studies at Hunter College seeks a technically savvy individual who will contribute to the coordination, development and implementation of Centro’s digital projects. Working under the supervision of the Digital Archivist, the Digital Projects Coordinator will enforce best practices for processing, quality control, content management, and preservation of digital collections according to national standards. This individual will be expected to solve problems, answer questions and provide technical solutions to supervisor and staff, oversee training and supervision of other project team members, maintain statistics and prepare official project reports as requested, and will be responsible for technical aspects of digital project outcomes. The Digital Projects Coordinator will collaborate with both curatorial and technical staff from numerous teams at Centro including the Library & Archive, Media, IT and Oral History.
 
@@ -17,7 +17,7 @@ Hunter College, located in the heart of Manhattan, is the largest college in the
 
 
 
-### Qualifications###
+### Qualifications   
 
 * Knowledge of Puerto Rican history and culture with special emphasis on knowledge of digital humanities regarding Puerto Ricans in the United States and an excellent grasp on information in Puerto Rican studies including digital based resources desired.
 
@@ -49,21 +49,21 @@ Hunter College, located in the heart of Manhattan, is the largest college in the
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://bit.ly/1M7qRph](http://bit.ly/1M7qRph)
 
-### To Apply###
+### To Apply   
 
 Forward cover letter, resume and contact information for 2 professional references via email to  José deJesús, Associate Director for Operations, Center for Puerto Rican Studies, Hunter College, CUNY at jdejesus@hunter.cuny.edu  . The subject line of the email should read: Digital Projects Coordinator. Telephone queries: 212-772-5706.
 
 
-### Company Information###
+### Company Information   
 
 Center for Puerto Rican Studies, Hunter College, CUNY | 695 Park Ave. | Rm. E1429 | New York, NY | 10065 | United States
 

@@ -6,12 +6,12 @@ excerpt: "The Ursula C. Schwerin Library at New York City College of Technology,
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Ursula C. Schwerin Library at New York City College of Technology, CUNY, seeks a tenure-track library faculty member at the Instructor or Assistant Professor rank to serve as Information Technology & Interlibrary Loan Librarian. The successful candidate will manage, support, and evaluate library systems, IT services operations, and interlibrary loan services, working with colleagues in the library and at the college and university. The Information Technology & Interlibrary Loan Librarian will also offer reference service and be responsible for designated areas of collection development. All members of the library faculty must maintain a record of excellence in librarianship, scholarly achievement, and service. The Ursula C. Schwerin Library is committed to enhancing our diverse academic community by actively encouraging people with disabilities, minorities, veterans, and women to apply.
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Information Technology & Interlibrary Loan Librarian will:
 
@@ -24,7 +24,7 @@ The Information Technology & Interlibrary Loan Librarian will:
 -    Perform other duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 REQUIRED QUALIFICATIONS
 
@@ -46,21 +46,21 @@ PREFERRED QUALIFICATIONS
 -    Familiarity with Ex Libris products, OCLC, interlibrary loan software, or print management systems
 
 
-### Compensation###
+### Compensation   
 
 As members of an academic department in the college, library faculty at City Tech and CUNY are represented by the Professional Staff Congress union ([http://psc-cuny.org)](http://psc-cuny.org)) -- salary schedules available on the website.
 
 
-### Location###
+### Location   
 
 Brooklyn, NY
 
 
-### URL###
+### URL   
 
 [https://library.citytech.cuny.edu/](https://library.citytech.cuny.edu/)
 
-### To Apply###
+### To Apply   
 
 Candidates should provide a cover letter, CV, statement of scholarly interests, and contact information for three references as one document.
 
@@ -68,7 +68,7 @@ Visit www.cuny.edu to apply:
 [https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=18911&SiteId=1&PostingSeq=1](https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=18911&SiteId=1&PostingSeq=1)
 
 
-### Company Information###
+### Company Information   
 
 Ursula C. Schwerin Library
 New York City College of Technology

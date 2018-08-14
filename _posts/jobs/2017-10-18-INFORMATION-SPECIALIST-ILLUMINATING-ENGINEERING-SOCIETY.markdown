@@ -6,12 +6,12 @@ excerpt: "The Information Specialist for the IES Standards and Research Departme
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Information Specialist for the IES Standards and Research Department will assist volunteer technical committees in the acquisition of reference materials and manage the lighting research database for references contained within the IES Standards Lighting Library.   Additional responsibilities include support in developing and maintaining IES Research program activities, project management support for the Director of Standards and Research, and outreach to support member engagement with IES Standards and Research activities.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Research Management:
 
@@ -53,7 +53,7 @@ Department Administrative Tasks:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required: ALA-accredited MLS or similar degree. Individuals nearing completion of their degree may also be considered. 3-5 years experience in professional office environment, project management and/or human resource management preferred, consistent with job requirements
 
@@ -70,24 +70,24 @@ Required: ALA-accredited MLS or similar degree. Individuals nearing completion o
 *Able to conduct and coordinate online meetings, such as GoToMeeting
 
 
-### Compensation###
+### Compensation   
 
 $50,000 annual salary or higher, depending on experience level
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 Send resume and letter of interest to: careers@ies.org.
 
 
-### Company Information###
+### Company Information   
 
 This is a non-profit professional society and SDO. Office is located at 120 Wall Street. Visit [https://www.ies.org/](https://www.ies.org/) to learn more.
 

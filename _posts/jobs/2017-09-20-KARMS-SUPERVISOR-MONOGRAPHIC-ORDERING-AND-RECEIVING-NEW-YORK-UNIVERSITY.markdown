@@ -6,7 +6,7 @@ excerpt: "Oversee the Division of Libraries Monographic Ordering and Receiving U
 tag: job
 ---
 
-### Description###
+### Description   
 
 Oversee the Division of Libraries Monographic Ordering and Receiving Unit's routine to moderately complex activities. Analyze, develop, implement, and document Unit's processes and workflows. Establish performance standards and priorities, review work for accuracy, troubleshoot and resolve problems. Monitor and evaluate vendor performance. Assist in implementing, maintaining and troubleshooting departmental metadata processes. Keep Unit staff informed of Unit, Departmental and Library wide activities. Manage staff's performance and conduct regular reviews, oversee staff development and establish working operational and developmental goals for individual staff. Serve as a resource for consortium libraries on acquisitions matters. In consultation with KARMS Department Heads, assists with the development and implementation of KARMS policies and procedures.
 
@@ -16,7 +16,7 @@ Oversee the Division of Libraries Monographic Ordering and Receiving Unit's rout
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Education:
 Bachelor's degree
@@ -43,23 +43,23 @@ PI99462432
 
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 [http://www.Click2apply.net/f7jqmcrq5vt7rw22](http://www.Click2apply.net/f7jqmcrq5vt7rw22)
 
-### To Apply###
+### To Apply   
 
 Apply Here: [http://www.Click2apply.net/f7jqmcrq5vt7rw22](http://www.Click2apply.net/f7jqmcrq5vt7rw22)
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 none@given.com
 

@@ -6,7 +6,7 @@ excerpt: "The Chief Librarian is the Executive Vice President in charge of the p
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Chief Librarian is the Executive Vice President in charge of the public service division at Brooklyn Public Library, the fifth largest library system in the United States. The Library serves the 2.6 million residents of Brooklyn through a system of 58 neighborhood libraries, a landmarked Central Library and through its website and online channels. The library’s operating budget is approximately $120 million and employs approximately 1400 full-time and part-time staff.
 
@@ -14,7 +14,7 @@ The Chief Librarian works in concert with the other members of the senior manage
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • Lead and execute the Library’s strategic vision as it pertains to public service delivery
@@ -46,7 +46,7 @@ Work collaboratively and productively with BPL Board of Trustees, Library suppor
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • Master’s of Library Science with eight (8) or more years of progressively increasing responsibility in a library management setting, ideally within  a large urban public library system
@@ -71,26 +71,26 @@ Work collaboratively and productively with BPL Board of Trustees, Library suppor
 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience
 
 
-### Location###
+### Location   
 
 Brooklyn, New York
 
 
-### URL###
+### URL   
 
 [https://www.bklynlibrary.org/](https://www.bklynlibrary.org/)
 
-### To Apply###
+### To Apply   
 
 [https://careers-bklynlibrary.icims.com/jobs/1636/chief-librarian/job](https://careers-bklynlibrary.icims.com/jobs/1636/chief-librarian/job)
 
 
-### Company Information###
+### Company Information   
 
 10 Grand Army Plaza, Brooklyn, NY 11238
 

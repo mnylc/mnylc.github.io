@@ -6,12 +6,12 @@ excerpt: "The E-resources and Content Management Librarian will participate in t
 tag: job
 ---
 
-### Description###
+### Description   
 
 The E-resources and Content Management Librarian will participate in the ongoing coordination and management of the library’s e-resources, catalog, and discovery system. Under direction of the Assistant Director, this individual will follow emerging technology trends and current best practices in order to anticipate academic users’ needs and preferences in a highly digital and mobile environment. The E-Resources and Content Management Librarian will also participate in the selection, acquisition, and evaluation of electronic library resources.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Manages and maintains timely access to all digital library resources including subscription databases, e-books, e-journals, full-text article links, and other e-resources.
@@ -37,7 +37,7 @@ The E-resources and Content Management Librarian will participate in the ongoing
 • 	Participates on Library working groups/committees.
 
 
-### Qualifications###
+### Qualifications   
 
 Required Skills and Experience:
 Experience with OCLC World Share and Connexion strongly preferred.
@@ -76,28 +76,28 @@ Preferred Skills and Experience:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://icahn.mssm.edu/about/ait/levy-library](http://icahn.mssm.edu/about/ait/levy-library)
 
-### To Apply###
+### To Apply   
 
 Email resume and cover letter to: Laura Schimming, laura.schimming@mssm.edu
 
 
-### Company Information###
+### Company Information   
 
 The Levy Library supports the education, research, and clinical information needs of the Mount Sinai Health System, including the Icahn School of Medicine at Mount Sinai. The Library provides an inviting environment designed to facilitate research, study, and collaboration. It offers an extensive collection of biomedical databases, e-journals, e-books, and print resources; and serves as a resource on information retrieval, information management and scholarly communication issues.
 
 The Library is a unit of Mount Sinai's Academic Informatics and Technology division. Academic Informatics and Technology also encompasses The Mount Sinai Archives and Records Management department; the Instructional Technology and Learning Systems team and the Academic Support and Learning Environments group.
 
 
-### Contact Information###
+### Contact Information   
 
 Laura Schimming, MLS
 Assistant Director

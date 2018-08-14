@@ -6,7 +6,7 @@ excerpt: "Located in New York City, the Metropolitan New York Library Council (M
 tag: job
 ---
 
-### Description###
+### Description   
 
 Located in New York City, the Metropolitan New York Library Council (METRO) is the largest of nine library councils in the state of New York, with METRO serving all of New York City and Westchester County.  METRO aims to serve as a laboratory and experimental space for our growing membership, combining new developments in librarianship with emerging technologies drawn from parallel fields.
 
@@ -21,7 +21,7 @@ METRO’s HLSP program requires a visionary and creative thinker to reinvent it 
 This position is listed as a part time (10-15 hrs/week) opportunity, but can grow and expand with proven success.
 
 
-### Responsibilities###
+### Responsibilities   
 
 --Develop and maintain services for HLSP members, providing new resources that optimize library services for users.
 
@@ -49,7 +49,7 @@ This position is listed as a part time (10-15 hrs/week) opportunity, but can gro
 
 
 
-### Qualifications###
+### Qualifications   
 
 REQUIRED:
 --Master’s Degree in Library and Information Science or a related degree.
@@ -63,19 +63,19 @@ THE IDEAL CANDIDATE WILL HAVE:
 This position requires the ability to travel to member locations throughout the Metropolitan New York region. METRO offers a flexible schedule and the ability to set your own hours. METRO is a fun and collaborative workplace full of energy and enthusiasm.
 
 
-### Compensation###
+### Compensation   
 
 Part time: 10-15 hrs/wk,  $30/hour to start with the opportunity to grow the position over time.
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 To apply, please send a pdf copy of your resume and cover letter along with any other material you would like considered part of your application to info@metro.org. 
 
@@ -83,7 +83,7 @@ Final candidates will be required to provide names and contact information for t
 
 
 
-### Company Information###
+### Company Information   
 
 Metropolitan New York Library Council (METRO)
 599 11th Ave., 8th Foor
@@ -93,7 +93,7 @@ info@metro.org
 [http://metro.org](http://metro.org)
 
 
-### Contact Information###
+### Contact Information   
 
 info@metro.org
 

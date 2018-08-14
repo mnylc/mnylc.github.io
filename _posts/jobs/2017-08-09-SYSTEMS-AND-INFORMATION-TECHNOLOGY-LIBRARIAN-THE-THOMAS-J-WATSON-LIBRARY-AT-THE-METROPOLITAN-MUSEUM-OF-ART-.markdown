@@ -6,7 +6,7 @@ excerpt: "The Thomas J. Watson Library in The Metropolitan Museum of Art is plea
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Thomas J. Watson Library in The Metropolitan Museum of Art is pleased to announce an opening for the position of Systems and Information Technology Librarian. This is a special opportunity to contribute to the success of an innovative and productive art library at a world-class museum while learning and applying new skills. 
 
@@ -26,11 +26,11 @@ Review of applications will begin immediately and continue until the position is
 
 
 
-### URL###
+### URL   
 
 [http://libmma.org/portal/employment/systems-2017](http://libmma.org/portal/employment/systems-2017)
 
-### To Apply###
+### To Apply   
 
 Review of applications will begin immediately and continue until the position is filled. Applicants should submit a cover letter indicating how they satisfy the requirements above, a resume, and the names of three references to the following e-mail address: lib.search@metmuseum.org. 
 

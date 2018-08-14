@@ -6,7 +6,7 @@ excerpt: "The Children's Librarian, under the supervision of the Neighborhood Li
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Children's Librarian, under the supervision of the Neighborhood Library Supervisor, works as part of the branch team and performs basic library work concentrating on service to children and their parents and caregivers.  
 
@@ -14,7 +14,7 @@ This position requires professional knowledge and judgment, including, but not l
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 
@@ -32,7 +32,7 @@ This position requires professional knowledge and judgment, including, but not l
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 
@@ -59,21 +59,21 @@ This position requires professional knowledge and judgment, including, but not l
 
 
 
-### Compensation###
+### Compensation   
 
 $51,224/year
 
 
-### Location###
+### Location   
 
 Brooklyn, NY
 
 
-### URL###
+### URL   
 
 [https://careers-bklynlibrary.icims.com/](https://careers-bklynlibrary.icims.com/) 
 
-### To Apply###
+### To Apply   
 
 Click on the above URL to access BPL's career portal.  Keyword search children's librarian and apply for your position(s) of choice!
 

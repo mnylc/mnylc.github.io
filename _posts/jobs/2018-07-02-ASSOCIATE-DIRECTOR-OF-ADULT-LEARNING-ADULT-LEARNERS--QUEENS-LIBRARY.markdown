@@ -6,13 +6,13 @@ excerpt: "DUTIES AND RESPONSIBILITIES: Within the larger scope of formal and inf
 tag: job
 ---
 
-### Description###
+### Description   
 
 DUTIES AND RESPONSIBILITIES:
 Within the larger scope of formal and informal learning within the Programs & Services Department’s (PSD), Adult Learning division, the Assistant Director of the Adult Learner Program (ALP) plans, organizes, coordinates, and supervises Queens Library’s Adult Learning Centers (ALCs) and Young Adult Literacy Services. This position serves as a key member of the Adult Learning leadership team and is responsible for overseeing all aspects of the curriculum, instruction, recruitment, registration, orientation, advising graduation, and other activities at the ALCs. Reports to the Director of Adult Learning.
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Assistant Director of the Adult Learner Program works closely with Adult Learning staff and the larger Programs & Services Department to ensure that services are integrated and collaborative. Ensures best practices, procedures, and reciprocal referrals are made across Adult Learning and PSD to best meet the needs of the diverse and changing populations of Queens. The Assistant Director of the Adult Learner Program works with Community Library Services and other departments to identify or resolve issues related to facilities. The Assistant Director remains current with trends and best practices in adult literacy and plans for proposed changes in instruction, funding, and reporting requirements that could impact the Centers.
 
@@ -59,7 +59,7 @@ The Assistant Director of the Adult Learner Program works closely with Adult Lea
 The schedule for this position will include Saturdays and evenings as required.
 
 
-### Qualifications###
+### Qualifications   
 
 REQUIRED QUALIFICATIONS
 
@@ -84,26 +84,26 @@ REQUIRED QUALIFICATIONS
 
 
 
-### Location###
+### Location   
 
 Flushing, NY
 
 
-### URL###
+### URL   
 
 [http://www.queenslibrary.org/services/job-information/careers/current-openings/assistant-director-of-adult-learner-program](http://www.queenslibrary.org/services/job-information/careers/current-openings/assistant-director-of-adult-learner-program)
 
-### To Apply###
+### To Apply   
 
 QLcareers@queenslibrary.org 
 
 
-### Company Information###
+### Company Information   
 
 Queens Library is a national and international leader in the delivery of public library service.  We transform lives by cultivating personal and intellectual growth and by building strong communities. Queens Library welcomes innovators and leaders to contribute to a long history and dynamic future of offering pioneering programs and services to the most diverse county in the United States.  Queens Library is a private, non-profit corporation with 1,700 employees serving 65 locations.
 
 
-### Contact Information###
+### Contact Information   
 
 Interested external applicants should submit resumes to QLcareers@queenslibrary.org, instead. Resumes will only be accepted by email.  
 

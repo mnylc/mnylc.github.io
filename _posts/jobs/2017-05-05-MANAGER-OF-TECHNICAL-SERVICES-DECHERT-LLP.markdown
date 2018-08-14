@@ -6,12 +6,12 @@ excerpt: "The Manager of Technical Services has primary responsibility for the c
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Manager of Technical Services has primary responsibility for the coordination of department acquisitions, collection development, cataloging and maintaining on-line research services.  
 
 
-### Responsibilities###
+### Responsibilities   
 
 Essential Job Functions: 
 
@@ -51,7 +51,7 @@ Essential Job Functions:
 •  Other duties as assigned. 
 
 
-### Qualifications###
+### Qualifications   
 
 
 •  Bachelor’s degree required.
@@ -100,16 +100,16 @@ Miscellaneous:
 
 
 
-### Location###
+### Location   
 
 Philadelphia, PA or Washington, DC 
 
 
-### URL###
+### URL   
 
 [https://dechert.wd1.myworkdayjobs.com/en-US/DechertCareers/job/Philadelphia/Manager-of-Operations--Research-Services_R-0273](https://dechert.wd1.myworkdayjobs.com/en-US/DechertCareers/job/Philadelphia/Manager-of-Operations--Research-Services_R-0273)
 
-### To Apply###
+### To Apply   
 
 If interested, please apply on our career website using the following link, [https://dechert.wd1.myworkdayjobs.com/en-US/DechertCareers/job/Philadelphia/Manager-of-Operations--Research-Services_R-0273](https://dechert.wd1.myworkdayjobs.com/en-US/DechertCareers/job/Philadelphia/Manager-of-Operations--Research-Services_R-0273) . 
 

@@ -6,12 +6,12 @@ excerpt: "The Library Associate is responsible for the general maintenance of 9,
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Library Associate is responsible for the general maintenance of 9,600 sq. ft. of library stacks, rare book and circulating collections. S/He will assist the Library in providing access to and preserving its collection by carrying out a variety of tasks.
 
 
-### Responsibilities###
+### Responsibilities   
 
 * Retrieve library material for library patrons and staff
 
@@ -40,7 +40,7 @@ The Library Associate is responsible for the general maintenance of 9,600 sq. ft
 * Provide back-up coverage of the library desk as needed
 
 
-### Qualifications###
+### Qualifications   
 
 * Bachelor’s degree preferred
 
@@ -61,16 +61,16 @@ The Library Associate is responsible for the general maintenance of 9,600 sq. ft
 
 
 
-### Location###
+### Location   
 
 Bronx, NY
 
 
-### URL###
+### URL   
 
 [https://www.nybg.org/about/work-with-us/employment/?p=job%2FowxW6fwP](https://www.nybg.org/about/work-with-us/employment/?p=job%2FowxW6fwP)
 
-### To Apply###
+### To Apply   
 
 Application details at the URL.
 

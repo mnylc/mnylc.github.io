@@ -6,12 +6,12 @@ excerpt: " "
 tag: job
 ---
 
-### Description###
+### Description   
 
  
 
 
-### Responsibilities###
+### Responsibilities   
 
  Reports to the Head of Cataloging and Head of Circulation
  Investigates, presents, manages and instructs Library staff at all three campuses in the use of innovative, experimental and/or
@@ -34,7 +34,7 @@ resolves patron problems when necessary
  Supervises clerical, casual, intern and student workers as necessary 
 
 
-### Qualifications###
+### Qualifications   
 
  American Library Association accredited Master’s Degree
  Minimum 2 years’ experience in an academic library
@@ -52,31 +52,31 @@ and demonstrate flexibility as a team member
 
 
 
-### Compensation###
+### Compensation   
 
 Commensurate with experience 
 
 
-### Location###
+### Location   
 
 Bronx, New York
 
 
-### URL###
+### URL   
 
 [http://www.library.fordham.edu/](http://www.library.fordham.edu/)
 
-### To Apply###
+### To Apply   
 
 Please e-mail cover letter and resume to : John Williams, Head of Cataloging (bjowilliams@fordham.edu)
 
 
-### Company Information###
+### Company Information   
 
 Fordham University, Walsh Library, 441 East Fordham Road, Bronx, NY 10458
 
 
-### Contact Information###
+### Contact Information   
 
 John Williams (bjowilliams@fordham.edu)
 

@@ -6,13 +6,13 @@ excerpt: "The Digital Collections Center in the Purchase College Library seeks a
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Digital Collections Center in the Purchase College Library seeks an energetic and detail-oriented individual for the full-time position of Digital Collections Curator. The Digital Collections Center creates unique digital collections used for teaching and research. The DCC digitizes Library archives and curate born-digital materials that enhance faculty coursework and student scholarship. We provide access to multidisciplinary campus archives as well, connecting faculty, staff, and students to Purchase-produced research. Finally, we seek to help Purchase affiliates properly archive important digital content, so future generations can access many years of well-preserved pedagogy. 
 The Digital Collections Curator manages Purchase College Library's locally created digital materials, taking a lead role in the creation, maintenance, and stewardship of digital collections, including the digitization of student scholarship and creative products, campus publications, visual resources, and special collections. Under the general supervision of the Art Librarian, the Digital Collections Curator will work collaboratively to maintain current discovery tools related to these initiatives and to investigate new tools. Additionally, the Digital Collections Curator will work collaboratively to select collections to be digitized; provide expertise in the acquisition of born digital collections; assure adequate storage for the digital collections and implementation of backup strategies; create and update documentation; promote the digital collections program; and assist in evaluation of the program. The successful candidate will establish priorities, manage projects, create workflows and identify digital collection development opportunities as informed by emerging trends and best practices in digital collection creation and management. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Description of Responsibilities: 
 Act as Project Manager in the development, implementation, and maintenance of a digitization program 
@@ -27,7 +27,7 @@ Determine digital project staffing needs. Hire, train, and supervise project int
 Assist with collaborative grant writing and identification of additional funding sources for digital program initiatives  
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications: 
 Bachelor's degree from an accredited institution of higher education 
@@ -51,26 +51,26 @@ Knowledge of proper special collections and archives handling and best practices
 
 
 
-### Compensation###
+### Compensation   
 
 $53,000
 
 
-### Location###
+### Location   
 
 Purchase, NY US
 
 
-### URL###
+### URL   
 
 [https://jobs.purchase.edu](https://jobs.purchase.edu)
 
-### To Apply###
+### To Apply   
 
 Candidates are required to complete an on-line application via the College's job vacancy website and attach a resume specifying work experience and education, a cover letter (maximum one-page) expressing interest in the position and summarizing qualifications, and the names, addresses, and e-mail addresses (and phone numbers, if possible) of THREE (3) references, who can speak to your experience related to this position (attach as 'other document 1'). Phone calls, hard copy, or e-mail submissions of application materials will NOT be accepted.  
 
 
-### Company Information###
+### Company Information   
 
 Purchase College Library 
 735 Anderson Hill Road

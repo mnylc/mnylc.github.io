@@ -6,7 +6,7 @@ excerpt: "South Central Regional Library Council invites applications for the po
 tag: job
 ---
 
-### Description###
+### Description   
 
 South Central Regional Library Council invites applications for the position of Outreach Services Librarian.  This is a full-time, 37.5 hours per week, permanent position in a great location and energizing, collegial environment! The work schedule is flexible, the benefits generous. Feel free to share this announcement with your colleagues and distribution/discussion lists.
 
@@ -14,7 +14,7 @@ South Central Regional Library Council invites applications for the position of 
 Provides outreach services to member organizations for Resource Sharing and the Hospital Library Services Program (HLSP); offers training on SCRLC’s electronic resources. The position also provides support for the Council’s digitization program by editing images, creating and editing metadata.  Assists and advises the Executive Director in meeting the mission and goals of the Council; effectively communicates with members, prospective members, partners, and staff.
 
 
-### Responsibilities###
+### Responsibilities   
 
 -- Hospital Library Services Program --
 --Provides outreach, training on hospital-specific electronic resources, advice, guidance, and consulting to SCRLC’s hospital librarians and liaisons.
@@ -76,7 +76,7 @@ Provides outreach services to member organizations for Resource Sharing and the 
 --Other duties as assigned.
 
 
-### Qualifications###
+### Qualifications   
 
 -- Required --
 
@@ -111,35 +111,35 @@ Provides outreach services to member organizations for Resource Sharing and the 
 --Knowledge of digitization, resource sharing platforms, or hospital libraries.
 
 
-### Compensation###
+### Compensation   
 
 Salary is commensurate with experience. SCRLC offers excellent benefits, including health insurance, TIAA retirement, 21 vacation days, 3 personal days, 12 sick days, and 14 holidays.
 
 
-### Location###
+### Location   
 
 Ithaca, NY
 
 
-### URL###
+### URL   
 
 scrlc.org
 
-### To Apply###
+### To Apply   
 
 Email a cover letter, resume, and three professional references to Mary-Carol Lindbloom, Executive Director, South Central Regional Library Council, mclindbloom@scrlc.org. 
 
 Applications received by July 14, 2018 will be given preference, though they will be accepted until the position is filled.
 
 
-### Company Information###
+### Company Information   
 
 One of nine NYS multitype Reference and Research Library Resources Councils, from its headquarters in Ithaca SCRLC serves 70+ members across 10,000 square miles in the 14-county region of Allegany, Broome, Cayuga, Chemung, Chenango, Cortland, Delaware, Otsego, Schuyler, Seneca, Steuben, Tioga, Tompkins, and Yates. Members include academic, hospital, corporate and non-profit libraries, public library systems, and school library systems and their members. As a result, SCRLC serves over 500 libraries.  It is a fantastic group of libraries, library systems, and cultural organizations with which to work and collaborate! Learn more at www.scrlc.org!
 
 Ithaca, located in the heart of the Finger Lakes, is renowned for its beautiful gorges, waterfalls, rolling hills, and sparkling Cayuga Lake. This diverse, multicultural community is home to artists, authors, performers, and some of the world's leading scientists and researchers. Environmentally conscious, Ithaca offers recreation and year-round sporting activities from kayaking and windsurfing to hiking the numerous area trails and college sporting events.  The SCRLC office is located in Ithaca's vibrant downtown, near one of the last pedestrian malls left in the United States, and not too far from Ithaca Falls.
 
 
-### Contact Information###
+### Contact Information   
 
 Mary-Carol Lindbloom, Executive Director, mclindbloom@scrlc.org
 

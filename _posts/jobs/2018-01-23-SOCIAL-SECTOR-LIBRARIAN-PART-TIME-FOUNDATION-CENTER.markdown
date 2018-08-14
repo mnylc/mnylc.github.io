@@ -6,7 +6,7 @@ excerpt: "Foundation Center is seeking an engaging and knowledgeable team player
 tag: job
 ---
 
-### Description###
+### Description   
 
 Foundation Center is seeking an engaging and knowledgeable team player who is passionate about connecting nonprofits to the resources they need to thrive, both in-person and online. 
 
@@ -23,7 +23,7 @@ The Social Sector Librarian supports the library services and educational progra
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 Library/Learning Center: 
 
@@ -63,7 +63,7 @@ Administrative:
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	BA/BS degree or currently enrolled in an undergraduate or graduate program, preferably in library information science or nonprofit management; MLS or MPA a plus
@@ -82,16 +82,16 @@ Administrative:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://www.foundationcenter.org](http://www.foundationcenter.org)
 
-### To Apply###
+### To Apply   
 
 We're looking for candidates who want long-term temporary, non-benefits eligible, part-time employment. Only candidates who are seriously seeking part-time employment will be considered. If you are looking for a full-time or benefits eligible position, please do not apply.
 
@@ -113,12 +113,12 @@ Foundation Center is an equal opportunity employer.
 
 
 
-### Company Information###
+### Company Information   
 
 jobs@foundationcenter.org
 
 
-### Contact Information###
+### Contact Information   
 
 jobs@foundationcenter.org
 

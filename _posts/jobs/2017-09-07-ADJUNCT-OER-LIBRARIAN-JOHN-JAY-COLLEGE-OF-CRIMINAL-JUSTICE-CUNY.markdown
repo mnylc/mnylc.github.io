@@ -6,12 +6,12 @@ excerpt: "The John Jay College Library is seeking a librarian to assist with the
 tag: job
 ---
 
-### Description###
+### Description   
 
 The John Jay College Library is seeking a librarian to assist with the college-wide OER initiative. As a library OER liaison, they will collaborate with The Teaching and Learning Center, and other College units involved in the promotion of OERs, to provide assistance to faculty in developing alternatives to textbooks. The position is part-time and the hours would be between 9am and 5pm, Monday-Friday, during Fall 2017 and Spring 2018. There is some flexibility in choosing the day and times.  There is a maximum of 225 hours available per semester.  
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities include:
 
@@ -27,7 +27,7 @@ Responsibilities include:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Preferred Qualifications:
 
@@ -48,31 +48,31 @@ Minimum Qualifications:
 
 
 
-### Compensation###
+### Compensation   
 
 COmpensation covered by union contract.  
 
 
-### Location###
+### Location   
 
 West 59th Street, NY NY 10019.
 
 
-### URL###
+### URL   
 
 www.lib.jjay.cuny.edu
 
-### To Apply###
+### To Apply   
 
 To express your interest, please send a resume, with a short cover letter and the names and contact information of two references to, Prof. Ellen Sexton at esexton@jjay.cuny.edu. Review of applications will begin immediately and continue until the position is filled.
 
 
-### Company Information###
+### Company Information   
 
 Lloyd Sealy Library, John Jay College of Criminal Justice, 524 west 59th Street, New York NY 10019
 
 
-### Contact Information###
+### Contact Information   
 
 Ellen Sexton esexton@jjay.cuny.edu
 

@@ -6,7 +6,7 @@ excerpt: "The Department of Library at Kingsborough Community College is seeking
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Department of Library at Kingsborough Community College is seeking candidates for Reader Services Librarian for the 2018-2019 academic year. The Reader Services Librarian in collaboration with colleagues, serves as a reference librarian, develops and delivers instructional classes, and participates in collection development in one or more subject areas. The successful candidate will also be assigned additional professional tasks according to individual strengths and experience. Candidate must demonstrate and maintain a record of excellence in librarianship, scholarly achievement and service for reappointment, tenure, and promotion. Serves on Library, College and University committees. The work schedule during an academic year includes regular evening rotations and some weekends. For more information see the Robert J. Kibbee Library website at http: www.kbcc.cuny.edu/kcclibrary/.
 
@@ -17,7 +17,7 @@ Visa sponsorship is not available for this position.
 
 
 
-### Qualifications###
+### Qualifications   
 
 Master's in Library Science (MLS), Master's in Library Information Studies (MLIS), or closely related discipline from an ALA-accredited institution, with a second graduate degree required. Also required is the ability to work with others for the good of the institution.
 
@@ -26,21 +26,21 @@ Other Qualifications: Experience in the operations of the Exlibris Aleph library
 In keeping with Kingsborough's mission of attracting, motivating, developing and retaining diverse and talented faculty and staff, we strongly encourage applicants with experiences in diverse cultures to apply.
 
 
-### Compensation###
+### Compensation   
 
 $47,340 - $81,865; salary commensurate with experience and education.  CUNY offers faculty a competitive compensation and benefits package covering health insurance, pension and retirement benefits, paid parental leave, and savings programs. We also provide mentoring and support for research, scholarship, and publication as part of our commitment to ongoing faculty professional development.
 
 
-### Location###
+### Location   
 
 Kingsborough Community College, Brooklyn, New York, USA
 
 
-### URL###
+### URL   
 
 [https://cuny.jobs/brooklyn-ny/reader-services-librarianassistant-professor-tenure-track/EF3290BA6725444FABAE136BBF8154CF/job/](https://cuny.jobs/brooklyn-ny/reader-services-librarianassistant-professor-tenure-track/EF3290BA6725444FABAE136BBF8154CF/job/)
 
-### To Apply###
+### To Apply   
 
 From our job posting system, select "Apply Now", create or log in to a user account, and provide the requested information. If you are viewing this posting from outside our system, access the employment page on our web site and search for this vacancy using the Job ID 18283 or Title.
 

@@ -6,7 +6,7 @@ excerpt: "The American Jewish Joint Distribution Committee (JDC) Archives’ Pho
 tag: job
 ---
 
-### Description###
+### Description   
 
 The American Jewish Joint Distribution Committee (JDC) Archives’ Photo Collection contains over 100,000 images. These photographs offer a rich historical overview of JDC’s relief activities over the past century in 90 countries. More than 73,000 photographs have already been digitally scanned. We seek students for an experiential education opportunity to assist with image cataloguing and preservation. The broad range of countries and topics in our scope of this collection, which encompasses regions and time periods such as postwar Europe, 1950’s North Africa and 1960s-70s Israel, allows us to tailor projects to different interests.
 
@@ -19,7 +19,7 @@ Special projects:
 •	Preparing unprocessed images documenting JDC activities in 20 countries (1940’s-70’s) with emphases on Israel, France, Germany and Iran for digitization and preservation.   
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Creating metadata and integrating new photographs into cataloguing system.
@@ -27,24 +27,24 @@ Special projects:
 • 	Conducting online research and fact-checking to enrich descriptive data for photographs.
 
 
-### Qualifications###
+### Qualifications   
 
 Proficiency in Word and Excel required. Familiarity with database procedures is recommended. Preferred candidates will have completed at least one semester of graduate work in archival, museum, or library studies, or art history. The ideal candidate will be detail-oriented and have a basic knowledge of photographic history.
 
 
-### Compensation###
+### Compensation   
 
 Unpaid.
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
 
 
-### To Apply###
+### To Apply   
 
 All opportunities are unpaid, but may be taken for course credit. The expected schedule is 12-20 hours per week. Options are available in the NY office located in midtown Manhattan and our offsite facility in Long Island City. 
 
@@ -52,7 +52,7 @@ Applications are accepted on a rolling basis. To apply, please send a cover lett
 
 
 
-### Company Information###
+### Company Information   
 
 archives.jdc.org
 

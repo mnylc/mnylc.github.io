@@ -6,18 +6,18 @@ excerpt: "The Head Librarian is responsible for supporting the educational enter
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Head Librarian is responsible for supporting the educational enterprise of the University by envisioning and overseeing a broad range of mission-driven and operational areas, including research services, instruction, access services, course reserves, and interlibrary loan.  Developing and maintaining collections in all fields excluding Hebraica-Judaica, the Head Librarian supervises professional and support staff members who also maintain collections and provide services.  The Head Librarian ensures effective outreach to students, faculty, and scholars.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Accelerate the growth of programs in support of student success, such as research services, instruction, access services, course reserves, and interlibrary loan.  Develop the Pollack Library’s print, electronic and media collections by implementing data-driven decisions, responding to recommendations from faculty, students and others, and by selecting materials and supervising the selection of materials by librarians in support of curricula and research.  Develop, build, and promote a progression of instructional models to cultivate information fluency in accordance with the ACRL Framework for Information Literacy for Higher Education. Maintain the collections through binding or rebinding of print materials and de-selection of material in print or electronic format.  Supervise and motivate professional and support staff to perform assigned functions at a high level.  Establish work schedules.  
 Oversee all aspects of circulation policies and procedures.  Manage the Pollack Library’s budget by approving purchases and transmitting invoices for payment in a timely fashion.  Provide research services as needed and one evening per week by answering research questions from library users or directing questions to other librarians.  Troubleshoot remote access problems.  Collaborate with colleagues in the planning process for the University Libraries by attending meetings, collaborating on projects, and developing library policies.  Follow developments in the profession and apply them as appropriate.  Participate in professional activities by means of publications, presentations at meetings and conferences, and service in professional organizations.
 
 
-### Qualifications###
+### Qualifications   
 
 Experience and Educational Background:  ALA-accredited master's degree in library science.  Minimum of three years of experience, with increasing managerial responsibilities.  Second advanced degree preferred.
 
@@ -27,27 +27,27 @@ Scope of Responsibility:  The Head Librarian works under the guidance of the Dir
 
 
 
-### Compensation###
+### Compensation   
 
 Negotiable
 
 
-### Location###
+### Location   
 
 New York, NY, USA
 
 
-### URL###
+### URL   
 
 www.yu.edu/libraries
 
-### To Apply###
+### To Apply   
 
 Please submit a letter of interest and résumé as one file to
 [https://careers-yeshiva.icims.com/jobs/10147/head-librarian/job?mode=view.](https://careers-yeshiva.icims.com/jobs/10147/head-librarian/job?mode=view.)
 
 
-### Company Information###
+### Company Information   
 
 Yeshiva University
 500 West 185th Street

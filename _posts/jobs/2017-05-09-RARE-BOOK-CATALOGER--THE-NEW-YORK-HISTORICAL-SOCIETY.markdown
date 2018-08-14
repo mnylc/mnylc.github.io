@@ -6,7 +6,7 @@ excerpt: "JOB TITLE: Rare Book Cataloger DEPARTMENT: Library Technical Services 
 tag: job
 ---
 
-### Description###
+### Description   
 
 JOB TITLE: 	Rare Book Cataloger   
 DEPARTMENT: 		Library Technical Services
@@ -18,7 +18,7 @@ Positions are funded for eighteen months each.
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 ESSENTIAL JOB DUTIES:
 
@@ -54,7 +54,7 @@ This is largely a sedentary role using a computer; however, some shelving is req
 
 
 
-### Qualifications###
+### Qualifications   
 
 EDUCATION: M.L.S. from an A.L.A.-accredited library school or equivalent.
 
@@ -84,16 +84,16 @@ EXPERIENCE:
 
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://www.nyhistory.org/](http://www.nyhistory.org/)
 
-### To Apply###
+### To Apply   
 
 For consideration please send a cover letter, resume and salary requirements to: resumes@nyhistory.org    Please reference the job title in the subject line.  
 Internal Candidates should contact a member of the Human Resource department directly.
@@ -101,7 +101,7 @@ The New-York Historical Society is an Equal Opportunity Employer
 
 
 
-### Company Information###
+### Company Information   
 
 170 Central Park West New York, NY 10024
 

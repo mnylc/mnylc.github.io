@@ -9,7 +9,7 @@ This is a 1-year project with the possibility of extension
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Cold Spring Harbor Laboratory’s Library & Archives is searching for a Project Archivist to process a recently donated significant scientific collection. The collection includes both institutional records and personal papers, and are comprised of a variety of materials.
 
@@ -19,7 +19,7 @@ This is a 1-year project with the possibility of extension
 
 
 
-### Qualifications###
+### Qualifications   
 
 Education: MLS with Archives Certificate from an accredited institution
 
@@ -29,19 +29,19 @@ Other: Demonstrated experience with standard archival principles and practices. 
 
 
 
-### Compensation###
+### Compensation   
 
 TBD based on experience
 
 
-### Location###
+### Location   
 
 Cold Spring Harbor
 
 
 
 
-### To Apply###
+### To Apply   
 
 If interested, please apply for this position via the CSHL website at:
 [http://cshl.peopleadmin.com/postings/11940](http://cshl.peopleadmin.com/postings/11940) 
@@ -49,7 +49,7 @@ If interested, please apply for this position via the CSHL website at:
 Position Number: 00350-E
 
 
-### Company Information###
+### Company Information   
 
 We offer a competitive salary and a comprehensive benefits package.
 

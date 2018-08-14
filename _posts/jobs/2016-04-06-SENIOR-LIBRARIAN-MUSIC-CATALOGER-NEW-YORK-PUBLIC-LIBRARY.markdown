@@ -6,12 +6,12 @@ excerpt: "The Senior Librarian will create and update cataloging records for mat
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Senior Librarian will create and update cataloging records for materials in all formats in the areas of music, performing arts and other subjects as needed by the BookOps partners. The Librarian will catalog according to national standards for bibliographic description, classification, name and subject analysis and contribute authority records to national cooperative cataloging programs.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Reporting to a Supervising Librarian or Librarian III, the Senior Librarian:
 
@@ -37,7 +37,7 @@ Reporting to a Supervising Librarian or Librarian III, the Senior Librarian:
 
 
 
-### Qualifications###
+### Qualifications   
 
 Skills
 
@@ -71,16 +71,16 @@ Education Required
 
 
 
-### Location###
+### Location   
 
 Long Island City, Queens
 
 
-### URL###
+### URL   
 
  [https://jobs-nypl.icims.com/jobs/9048/librarian---senior-librarian-%28music-cataloger%29/job](https://jobs-nypl.icims.com/jobs/9048/librarian---senior-librarian-%28music-cataloger%29/job)
 
-### To Apply###
+### To Apply   
 
 Please visit 
 [https://jobs-nypl.icims.com/jobs/9048/librarian---senior-librarian-%28music-cataloger%29/job.](https://jobs-nypl.icims.com/jobs/9048/librarian---senior-librarian-%28music-cataloger%29/job.)

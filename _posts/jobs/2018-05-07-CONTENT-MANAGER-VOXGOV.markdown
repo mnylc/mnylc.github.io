@@ -6,14 +6,14 @@ excerpt: "About Us Voxgov is fast growing startup company that collects, organiz
 tag: job
 ---
 
-### Description###
+### Description   
 
 About Us
 
 Voxgov is fast growing startup company that collects, organizes, and analyzes tens of millions of U.S. federal government documents. We are looking for someone who has skills in quality assurance, administration, data entry, and has an excellent eye for detail. This is an entry-level position with room for growth.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 •  Review content to ensure unwanted material is not included before publishing
@@ -46,38 +46,38 @@ Voxgov is fast growing startup company that collects, organizes, and analyzes te
 •  An interest in working for a small, emerging start-up company is a plus
 
 
-### Qualifications###
+### Qualifications   
 
 About you
 
 You are an extremely detail-oriented individual, who can quickly and accurately find and report errors in our content. You have basic computer skills and are comfortable working in front of a computer for long stretches. You are eager to work for a growing start-up and becoming an invaluable member of our team. You are a motivated self-starter.
 
 
-### Compensation###
+### Compensation   
 
 Competitive salary
 
 
-### Location###
+### Location   
 
 Flatiron, NYC
 
 
-### URL###
+### URL   
 
 www.voxgov.com
 
-### To Apply###
+### To Apply   
 
 Email resume and cover letter to rmd@voxgov.com
 
 
-### Company Information###
+### Company Information   
 
 1115 Broadway, Suite 1286, New York, NY 10010
 
 
-### Contact Information###
+### Contact Information   
 
 Robert Dessau
 

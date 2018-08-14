@@ -6,7 +6,7 @@ excerpt: "LibSource, an LAC Group company, is seeking a full-time, experienced, 
 tag: job
 ---
 
-### Description###
+### Description   
 
 LibSource, an LAC Group company, is seeking a full-time, experienced, Research Analyst, to work virtually for our Library as a Service (LaaS) platform.  The Research Analyst will join a team of researchers in staffing a busy and diverse virtual research desk, performing and managing requests for legal, corporate, business development and other research from LaaS clients. All research and communication will be performed online and by phone, using both paid databases and open sources. The Research Analyst will report directly to the Deputy Director of Research & Intelligence and work with other analysts to complete research requests in a timely, professional, and cost effective manner. Research will be delivered directly to clients using a virtual reference desk platform.
  
@@ -14,7 +14,7 @@ This is a full-time virtual position. Successful candidates must be able to cove
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 RESPONSIBILITIES
 
@@ -39,7 +39,7 @@ RESPONSIBILITIES
 • 	Other duties as the arise according to client requests 
 
 
-### Qualifications###
+### Qualifications   
 
 QUALIFICATIONS
 
@@ -61,28 +61,28 @@ QUALIFICATIONS
 
 
 
-### Compensation###
+### Compensation   
 
 DOE
 
 
-### Location###
+### Location   
 
 Virtual - Any State - USA
 
 
-### URL###
+### URL   
 
 [https://www.libgig.com/careers/research-analyst-virtual-libsource/a0E1H00000a9kv4UAA/](https://www.libgig.com/careers/research-analyst-virtual-libsource/a0E1H00000a9kv4UAA/)
 
-### To Apply###
+### To Apply   
 
 [https://www.libgig.com/careers/research-analyst-virtual-libsource/a0E1H00000a9kv4UAA/](https://www.libgig.com/careers/research-analyst-virtual-libsource/a0E1H00000a9kv4UAA/)
 
 
 
 
-### Contact Information###
+### Contact Information   
 
 Katy.davis@libgig.com
 

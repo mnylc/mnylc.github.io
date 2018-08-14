@@ -6,7 +6,7 @@ excerpt: "Under the guidance of the Regional Librarian, the Neighborhood Library
 tag: job
 ---
 
-### Description###
+### Description   
 
 Under the guidance of the Regional Librarian, the Neighborhood Library Supervisor at the Mill Basin branch is responsible for administrative leadership in supervising all aspects of library services at a branch. Located in the Canarsie-Flatlands section of Brooklyn, the Mill Basin neighborhood library serves a diverse community primarily of Caribbean, Irish, Italian, Jewish, and Russian descent. The branch serves a sizable adult community, but is also close to two elementary schools, one intermediate school and six private or religious schools, and it hosts a number of programs to serve the area's youth.  The branch has an active Friends group and staff attend local community board meetings. 
 
@@ -16,7 +16,7 @@ The Mill Basin Branch will be reopening in the Fall of 2017 after being closed f
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • Work collaboratively to ensure continuity in service to the public
@@ -47,7 +47,7 @@ The Mill Basin Branch will be reopening in the Fall of 2017 after being closed f
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • M.L.S. from an ALA accredited library school & Public librarian’s professional certificate issued by the State of New York, required
@@ -80,21 +80,21 @@ The Mill Basin Branch will be reopening in the Fall of 2017 after being closed f
 
 
 
-### Compensation###
+### Compensation   
 
 $58,715
 
 
-### Location###
+### Location   
 
 Brooklyn, NY
 
 
-### URL###
+### URL   
 
 [https://careers-bklynlibrary.icims.com/jobs/1482/neighborhood-library-supervisor/job](https://careers-bklynlibrary.icims.com/jobs/1482/neighborhood-library-supervisor/job)
 
-### To Apply###
+### To Apply   
 
 Click on the URL above to review the job and apply!
 

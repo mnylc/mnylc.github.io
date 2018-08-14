@@ -6,17 +6,17 @@ excerpt: "The Yonkers Public Library is seeking an enthusiastic and energetic Li
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Yonkers Public Library is seeking an enthusiastic and energetic Librarian with a strong interest in public service.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Responsibilities will include coverage of the Adult reference desks, assisting patrons with library resources, answering reference questions and assisting with computers.
 
 
-### Qualifications###
+### Qualifications   
 
 All interested candidates must apply to the Librarian I Civil Service exam to be considered:
 
@@ -25,16 +25,16 @@ All interested candidates must apply to the Librarian I Civil Service exam to be
 
 
 
-### Location###
+### Location   
 
 Yonkers, NY
 
 
-### URL###
+### URL   
 
 www.ypl.org
 
-### To Apply###
+### To Apply   
 
 [http://www.yonkersny.gov/Home/Components/JobPosts/Job/736/28](http://www.yonkersny.gov/Home/Components/JobPosts/Job/736/28)
 

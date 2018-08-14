@@ -6,7 +6,7 @@ excerpt: "Princeton University Library seeks a creative, energetic, collaborativ
 tag: job
 ---
 
-### Description###
+### Description   
 
 Princeton University Library seeks a creative, energetic, collaborative, and service-oriented professional to provide innovative reference and research services for Princeton students, faculty, and visiting scholars. The successful candidate will be an integral part of a team of three Research Services Librarians. Together they design, implement and develop the Library's Research Services Program offering innovative services for all Princeton patrons, and with a focus on undergraduate students. They collaborate in the development of a research and public services onboarding program for new librarians and staff. This position works closely with subject specialists, academic department and program liaisons, public services librarians and specialized staff throughout the Library system, and with 
 steering committees and synergy groups to ensure that the Library's reference and research services are well understood and communicated and that they meet current and future teaching and research needs. Represents Princeton in relevant regional, national and international professional and scholarly organizations. The position reports within the Scholarly Collections and Research Services 
@@ -15,7 +15,7 @@ Department.
 
 
 
-### Responsibilities###
+### Responsibilities   
 
 This position:
 
@@ -35,7 +35,7 @@ orientations and tours.
 for undergraduate students.
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 
@@ -72,31 +72,31 @@ Princeton University is an Equal Opportunity/Affirmative Action Employer and a
 Direct link to application: [https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=6802](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=6802)
 
 
-### Compensation###
+### Compensation   
 
  The successful candidate will be appointed to an appropriate Librarian rank depending upon qualifications and experience.
 
 
-### Location###
+### Location   
 
 Princeton, NJ, USA
 
 
-### URL###
+### URL   
 
 [http://library.princeton.edu/](http://library.princeton.edu/)
 
-### To Apply###
+### To Apply   
 
 Direct link to application: [https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=6802](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=6802)
 
 
-### Company Information###
+### Company Information   
 
 Princeton University Library is one of the world's leading research libraries. It employs a dedicated and knowledgeable staff of more than 300 professional and support staff working in a large central library, 9 specialized branches, and 3 storage facilities. The Library supports a diverse community of 5,200 undergraduates, 2,700 graduate students, 1,200 faculty members, and many visiting scholars. Holdings include more than 7 million printed volumes, 5 million manuscripts, 2 million non-print items, and extensive collections of digital text, data, and images.  See:  [http://library.princeton.edu/](http://library.princeton.edu/) 
 
 
-### Contact Information###
+### Contact Information   
 
 rdunham@princeton.edu
 

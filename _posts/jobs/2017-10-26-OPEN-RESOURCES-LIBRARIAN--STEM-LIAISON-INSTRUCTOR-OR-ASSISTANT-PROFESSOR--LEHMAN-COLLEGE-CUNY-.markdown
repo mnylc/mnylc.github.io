@@ -6,7 +6,7 @@ excerpt: "Reporting to Head of Reference, the Open Resources Librarian-STEM Liai
 tag: job
 ---
 
-### Description###
+### Description   
 
 Reporting to Head of Reference, the Open Resources Librarian-STEM Liaison is responsible for coordinating the Library’s initiative of supporting discipline faculty to create Open Textbooks as replacement for existing course materials.  This involves:  organization of training workshops and materials; providing guidance on open resources and copyright; promoting best practices on accessibility, archiving, assessment, attribution, and resource sharing.  The Open Resources Librarian closely coordinates efforts with CUNY’s Office of Library Services’ OER and Scholarly Communications Librarians. 
 
@@ -45,16 +45,16 @@ Candidates should provide a CV-resume and names and contact information of three
 
 
 
-### Location###
+### Location   
 
 Bronx, NY
 
 
-### URL###
+### URL   
 
 [http://www.lehman.edu/human-resources/job-opportunities.php#faculty](http://www.lehman.edu/human-resources/job-opportunities.php#faculty) 
 
-### To Apply###
+### To Apply   
 
 HOW TO APPLY 
 	Visit www.cuny.edu, access the employment page, log in or create a new user account, and search for this vacancy using the Job ID or Title.  Select “Apply Now” and provide the requested information:
@@ -68,7 +68,7 @@ Candidates should provide a CV-resume and names and contact information of three
 	CUNY Job Posting: Faculty 
 
 
-### Company Information###
+### Company Information   
 
 Lehman College
 Leonard Lief Library
@@ -76,7 +76,7 @@ Leonard Lief Library
 Bronx, NY 10468
 
 
-### Contact Information###
+### Contact Information   
 
 Kenneth.Schlesinger@lehman.cuny.edu
 

@@ -6,13 +6,13 @@ excerpt: "Saint Paul's School of Nursing, an Education Affiliates school, a comm
 tag: job
 ---
 
-### Description###
+### Description   
 
 Saint Paul's School of Nursing, an Education Affiliates school, a community allied health college, is seeking a a part-time Library Resource Center (LRC) librarian, starting as soon as possible, to work up to 28 hours per week between the hours of 4PM-10PM on weekends and Saturdays from 1PM-5PM.  Schedules may change depending on the needs of the LRC.  This person assists the 
 LRC Manager with locating resources, printing documents, helping students with research and reference questions and other duties as required.  This is a part-time non-exempt position.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 
@@ -36,7 +36,7 @@ LRC Manager with locating resources, printing documents, helping students with r
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 •  Current enrollment or completion in an American Library Association Masters of Library Science Program. (ALA-MLS).
@@ -56,31 +56,31 @@ LRC Manager with locating resources, printing documents, helping students with r
 
 
 
-### Compensation###
+### Compensation   
 
 $20.00 per hour
 
 
-### Location###
+### Location   
 
 Staten Island, NY USA
 
 
-### URL###
+### URL   
 
 [https://www.stpaulsschoolofnursing.edu/home-ab](https://www.stpaulsschoolofnursing.edu/home-ab)
 
-### To Apply###
+### To Apply   
 
 Please e-mail your cover Letter and most recent resume to JudyLee@edaff.com
 
 
-### Company Information###
+### Company Information   
 
 2 Teleport Drive, Staten Island, NY  10310
 
 
-### Contact Information###
+### Contact Information   
 
 judylee@edaff.com
 

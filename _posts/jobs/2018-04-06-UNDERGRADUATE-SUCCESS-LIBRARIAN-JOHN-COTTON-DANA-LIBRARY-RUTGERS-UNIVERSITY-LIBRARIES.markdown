@@ -6,12 +6,12 @@ excerpt: "The Rutgers University Libraries seek an innovative, visionary, forwar
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Rutgers University Libraries seek an innovative, visionary, forward thinking, service-oriented librarian to fill a newly established position at the John Cotton Dana Library. The Undergraduate Success Librarian will be responsible for leading the library’s development of innovative and effective methods of engagement for a diverse population of undergraduate students at Rutgers University – Newark.  The Undergraduate Success Librarian will bring vibrancy, imagination and leadership to designing and delivering library programs and services contributing to undergraduate students’ academic success and will work with the User Engagement/Assessment Librarian to design assessments that ensure the quality and effectiveness of the programs and services delivered. The Undergraduate Success Librarian will place a particular emphasis on library services and programs that will contribute to the success of first-year, intergenerational, and transfer students. 
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Rutgers University Libraries seek an innovative, visionary, forward thinking, service-oriented librarian to fill a newly established position at the John Cotton Dana Library. The Undergraduate Success Librarian will be responsible for leading the library’s development of innovative and effective methods of engagement for a diverse population of undergraduate students at Rutgers University – Newark.  The Undergraduate Success Librarian will bring vibrancy, imagination and leadership to designing and delivering library programs and services contributing to undergraduate students’ academic success and will work with the User Engagement/Assessment Librarian to design assessments that ensure the quality and effectiveness of the programs and services delivered. The Undergraduate Success Librarian will place a particular emphasis on library services and programs that will contribute to the success of first-year, intergenerational, and transfer students. 
 The Undergraduate Success Librarian will 
@@ -32,38 +32,38 @@ This tenure-track position reports to the Director of Dana Library and is a memb
 
 
 
-### Qualifications###
+### Qualifications   
 
 A Master’s degree in Library or Information Sciences from an ALA-accredited institution or its equivalent is required. Experience or demonstrated interest in engaging with undergraduate students in an academic setting and understanding and practice of pedagogical methods and learning outcomes is required. The successful candidate should exhibit excellent interpersonal communication skills; the ability to interact effectively with students, faculty and staff; the ability to build fruitful relationships and partnerships; and, be knowledgeable of trends and services in academic libraries to support first year programs. A demonstrated commitment to fostering diversity as an organizational priority is required. Candidates who have had successful experience in the design and delivery of engaging learning activities and services for diverse populations will be given preference. The successful candidate must be eligible to work in the U.S.  Sponsorship is not available for this position.
 
 All offers of employment are contingent upon successful completion of all pre-employment screenings.
 
 
-### Compensation###
+### Compensation   
 
 Salary is commensurate with qualifications and experience.
 
 
-### Location###
+### Location   
 
 Newark, NJ
 
 
-### URL###
+### URL   
 
 libraries.rutgers.edu/dana
 
-### To Apply###
+### To Apply   
 
 [http://jobs.rutgers.edu/postings/62780](http://jobs.rutgers.edu/postings/62780)
 
 
-### Company Information###
+### Company Information   
 
 Rutgers University Libraries
 
 
-### Contact Information###
+### Contact Information   
 
  [http://jobs.rutgers.edu/postings/62780](http://jobs.rutgers.edu/postings/62780)
 

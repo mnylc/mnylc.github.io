@@ -6,14 +6,14 @@ excerpt: "The Helen Frankenthaler Foundation seeks a part-time, Assistant Archiv
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Helen Frankenthaler Foundation seeks a part-time, Assistant Archivist reporting to the supervisory Archivist to assist in processing and provide support to the the Helen Frankenthaler Foundation Archives. The Foundation Archives consists of the personal papers of Helen Frankenthaler, the Foundation's institutional records, oral histories, and papers related to Helen Frankenthaler. 
 
 Helen Frankenthaler (1928-2011), whose career spanned six decades, has long been recognized as one of the great American artists of the twentieth century. She was eminent among the second generation of postwar American abstract painters and is widely credited for playing a pivotal role in the transition from Abstract Expressionism to Color Field painting. Her work is represented in museum collections worldwide and has been the subject of numerous national and international exhibitions and substantial publications. The New York City- based Helen Frankenthaler Foundation, established and endowed by the artist during her lifetime and newly active following the closing of her estate, is dedicated to promoting greater public interest in and understanding of the visual arts. For more information, visit: [http://www.frankenthalerfoundation.org.](http://www.frankenthalerfoundation.org.)
 
 
-### Responsibilities###
+### Responsibilities   
 
 The Assistant Archivist will undertake the following duties:
 -- Following professional and local standards, process, arrange and rehouse archival records;
@@ -32,7 +32,7 @@ Position schedule:
 Two days a week during standard office hours, 10am-6pm.
 
 
-### Qualifications###
+### Qualifications   
 
 The ideal candidate will possess the following:
 -- Master’s degree in Library Science or Archives Management;
@@ -44,31 +44,31 @@ The ideal candidate will possess the following:
 
 
 
-### Compensation###
+### Compensation   
 
 The position will be paid a rate commensurate with experience. Selected benefits are included.
 
 
-### Location###
+### Location   
 
 New York, New York
 
 
-### URL###
+### URL   
 
 [http://www.frankenthalerfoundation.org](http://www.frankenthalerfoundation.org)
 
-### To Apply###
+### To Apply   
 
 Send cover letter and resume to hr@frankenthalerfoundation.org. No phone calls, please.
 
 
-### Company Information###
+### Company Information   
 
 Helen Frankenthaler Foundation, 134 West 26th Street, fifth floor, New York, NY, 10001
 
 
-### Contact Information###
+### Contact Information   
 
 hr@frankenthalerfoundation.org 
 

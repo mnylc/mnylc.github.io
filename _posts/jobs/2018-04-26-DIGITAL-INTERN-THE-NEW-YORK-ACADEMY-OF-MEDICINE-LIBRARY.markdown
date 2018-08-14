@@ -6,7 +6,7 @@ excerpt: "The New York Academy of Medicine’s Library is looking for a digital 
 tag: job
 ---
 
-### Description###
+### Description   
 
 The New York Academy of Medicine’s Library is looking for a digital intern to work in the Library’s digital program.  The internship will provide hands-on experience with creating and building digital collections, editing metadata for digitization projects, and conducting quality control of scanned images.
 
@@ -19,7 +19,7 @@ Start Date: June 2018
 Approximately 10 hours a week for 12 weeks.  Intern must be available 2 days per week between the hours of 10:00am-5:00pm, Monday through Thursday.
 
 
-### Responsibilities###
+### Responsibilities   
 
 
 • 	Create digital collections on Islandora website
@@ -30,7 +30,7 @@ Approximately 10 hours a week for 12 weeks.  Intern must be available 2 days per
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 • 	Familiarity with technology, digital collections, and/or digital humanities projects
@@ -43,31 +43,31 @@ Approximately 10 hours a week for 12 weeks.  Intern must be available 2 days per
 
 
 
-### Compensation###
+### Compensation   
 
 Stipend
 
 
-### Location###
+### Location   
 
 New York City, 10029
 
 
-### URL###
+### URL   
 
 [https://nyam.org/library/](https://nyam.org/library/)
 
-### To Apply###
+### To Apply   
 
 Please forward cover letter and resume with "Digital Intern" in the subject line to library@nyam.org.  Please also outline your academic needs for obtaining course credit, if applicable.  Deadline: May 18, 2018.
 
 
-### Company Information###
+### Company Information   
 
 1216 Fifth Avenue, New York NY library@nyam.org
 
 
-### Contact Information###
+### Contact Information   
 
 library@nyam.org
 

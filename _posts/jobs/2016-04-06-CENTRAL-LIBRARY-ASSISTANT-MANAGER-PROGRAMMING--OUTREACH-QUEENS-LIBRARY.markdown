@@ -6,7 +6,7 @@ excerpt: "The Central Library Assistant Manager is a member of a cross functiona
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Central Library Assistant Manager is a member of a cross functional Central Library Management team dedicated to providing customer service across the entire Central Library while assisting the Queens Library Programming/Outreach Manager in employing goals and work plans to manage the daily operations and delivery of Central Library programs & outreach.
 
@@ -42,7 +42,7 @@ Queens Library is the proud recipient of the following awards: 2009 Library Jour
 
 
 
-### Qualifications###
+### Qualifications   
 
 
 * ALA accredited MLS/MLIS degree required.
@@ -65,7 +65,7 @@ Queens Library is the proud recipient of the following awards: 2009 Library Jour
 
 
 
-### To Apply###
+### To Apply   
 
 Send your resume and cover letter to qlcareers@queenslibrary.org and reference “CEL Assistant Manager, Programs & Services - EXTERNAL” in the subject line. Resumes will only be accepted by email. 
 

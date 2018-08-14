@@ -6,7 +6,7 @@ excerpt: "Trisha Brown Dance Company is a post-modern dance company dedicated to
 tag: job
 ---
 
-### Description###
+### Description   
 
 Trisha Brown Dance Company is a post-modern dance company dedicated to the performance and preservation of the work of Founding Artistic Director and Choreographer, Trisha Brown.
  
@@ -27,7 +27,7 @@ The Archivist will handle the description and arrangement of incoming material; 
 This is a full-time position with benefits to be filled immediately. The position requires a commitment until June 2019 with potential for continuation. The successful candidate will report to the Executive Director while working closely with the company’s Project Archivist.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Primary responsibilities:
 Organize, catalog and preserve the company’s collection of paper materials according to best practices
@@ -42,7 +42,7 @@ Facilitate internal and external requests for archival materials and media
 Perform other duties and assumes other responsibilities, as assigned
 
 
-### Qualifications###
+### Qualifications   
 
 Qualifications:
 ALA-accredited MLIS or equivalent degree, with concentration in archival studies
@@ -57,24 +57,24 @@ Ability to lift and carry storage boxes weighing up to 20 lbs.
 
 
 
-### Location###
+### Location   
 
 341 W 38th Street, Suite 801, New York, NY 10018
 
 
 
 
-### To Apply###
+### To Apply   
 
 Please submit a resume and cover letter. 
 
 
-### Company Information###
+### Company Information   
 
 341 W 38th Street, Suite 801, New York, NY 10018
 
 
-### Contact Information###
+### Contact Information   
 
 Katherine Martinez, archives@trishabrowncompany.org
 

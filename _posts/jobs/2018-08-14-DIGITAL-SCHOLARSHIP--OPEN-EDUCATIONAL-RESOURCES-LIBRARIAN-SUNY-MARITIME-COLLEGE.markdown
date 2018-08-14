@@ -6,12 +6,12 @@ excerpt: "The Digital Scholarship and Open Educational Resources Librarian suppo
 tag: job
 ---
 
-### Description###
+### Description   
 
 The Digital Scholarship and Open Educational Resources Librarian supports the service portfolio of the Library by providing client service, technical expertise, training, and support for tools and practices used by faculty, researchers, students, librarians, and other partners engaged with digital scholarship and publishing. The position also coordinates the College's Open Educational Resource initiatives as a way to reduce the cost of higher education and improve student success. The Digital Scholarship and Open Educational Resources Librarian will contribute towards the vision and development of forthcoming initiatives, including a center to support digital scholarship, and provide a more cohesive and holistic service environment for scholars. Working with other librarians, staff, and campus partners, the incumbent will develop, implement, expand, and sustain services, including the technical infrastructure, that advance Library and campus digital scholarship and open educational resource activities to support contemporary research, teaching and learning practices.
 
 
-### Responsibilities###
+### Responsibilities   
 
 - Serve as the primary digital scholarship resource within the Library.
       - Provide consultation for digital publishing software and methods, including         WordPress, Omeka, open access, and open educational resources.
@@ -38,7 +38,7 @@ The Digital Scholarship and Open Educational Resources Librarian supports the se
 
 
 
-### Qualifications###
+### Qualifications   
 
 Required Qualifications:
 - Master's degree in information and/or library science from an ALA-accredited school or an ALA-approved foreign equivalent.
@@ -67,21 +67,21 @@ Preferred Qualifications:
 - Experience with grant writing and fulfilling grant reporting requirements.
 
 
-### Compensation###
+### Compensation   
 
 Classification/Salary Range: The Digital Scholarship & Open Educational Resources Librarian is a UUP position.  The anticipated salary range for the position is $50,000 - $52,000 annually, with an outstanding benefits package (for more information please see the UUP Benefit Summary). Review of applications to commence immediately and conclude when the position is filled.
 
 
-### Location###
+### Location   
 
 Bronx, NY
 
 
-### URL###
+### URL   
 
 [http://maritime.interviewexchange.com/jobofferdetails.jsp?JOBID=101098](http://maritime.interviewexchange.com/jobofferdetails.jsp?JOBID=101098) 	
 
-### To Apply###
+### To Apply   
 
 Persons interested in the above position should apply online.  Please submit:
 
@@ -94,13 +94,13 @@ Returning Applicants - Login to your SUNY Maritime Careers Account to check your
  
 
 
-### Company Information###
+### Company Information   
 
 6 Pennyfield Avenue
 Throggs Neck, NY 10465
 
 
-### Contact Information###
+### Contact Information   
 
 Heather Galterio - Human Resource Associate
 718-409-7304

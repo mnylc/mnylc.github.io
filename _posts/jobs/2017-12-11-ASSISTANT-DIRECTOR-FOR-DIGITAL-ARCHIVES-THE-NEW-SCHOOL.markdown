@@ -6,7 +6,7 @@ excerpt: "The New School Archives and Special Collections seeks an enthusiastic,
 tag: job
 ---
 
-### Description###
+### Description   
 
 The New School Archives and Special Collections seeks an enthusiastic, committed Assistant Director for Digital Archives (ADDA) to plan, set policy, implement, and manage systems and workflows for accessioning, appraising, processing, preserving, and facilitating access to our digital collections.
 
@@ -15,7 +15,7 @@ In this permanent, full-time position reporting to the director of the Archives,
 The successful candidate will have experience in processing digitized and born digital archival materials, with a demonstrated understanding of archival arrangement and description and the application of archival principles in a digital environment. The ADDA will be expected to remain current with emerging standards and professional best practices and their real-world application.
 
 
-### Responsibilities###
+### Responsibilities   
 
 Serve as Archives’ technical expert in planning, management and execution of digital collections program, including establishing policy and making budget recommendations.
 
@@ -48,7 +48,7 @@ Supervise Archives staff in director’s absence.
 Other responsibilities as required.
 
 
-### Qualifications###
+### Qualifications   
 
 Minimum Qualifications:
 
@@ -100,31 +100,31 @@ Familiarity with linked data and RDF technologies, especially as applied in arch
 Familiarity with ArchivesSpace.
 
 
-### Compensation###
+### Compensation   
 
 52,000-57,000
 
 
-### Location###
+### Location   
 
 New York, NY
 
 
-### URL###
+### URL   
 
 [http://library.newschool.edu/archives/](http://library.newschool.edu/archives/)
 
-### To Apply###
+### To Apply   
 
 [https://careers.newschool.edu/postings/15307](https://careers.newschool.edu/postings/15307)
 
 
-### Company Information###
+### Company Information   
 
 The New School is a private university in New York City comprised of five colleges: Parsons School of Design, Eugene Lang College of Liberal Arts, the College of Performing Arts, The New School for Social Research, and the Schools of Public Engagement. The New School Archives and Special Collections, a unit of The New School Libraries and Archives, acquires, preserves and provides access to a broad range of archival and rare materials that document the history of all New School divisions, as well as materials that illuminate the lives and work of people and organizations in a range of subject areas that intersect with the interests of New School students and faculty, with a special strength in 20th century American design. Our collections range in size from a single item to many boxes of records and an ever-increasing number of born-digital files.
 
 
-### Contact Information###
+### Contact Information   
 
 Applications must be submitted through The New School job site. 
 
