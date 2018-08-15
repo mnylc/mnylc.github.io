@@ -71,6 +71,29 @@
     timezone: America/New_York
     local: '2018-09-11T14:00:00'
     utc: '2018-09-11T18:00:00Z'
+- name:
+    text: 'Metadata for All: Project Presentation'
+    html: 'Metadata for All: Project Presentation'
+  description:
+    text: |
+      Come check out NYC Open Data’s new and improved Data Dictionaries!
+      We’re unveiling a new user-friendly approach to the NYC Open Data Portal’s data dictionaries.  Explore popular datasets from the Taxi & Limousine Commission, 311, and other agencies, and see how new metadata standards make it easier to find and use the data you’re looking for.
+      If you’re an information professional, librarian, data manager, or work with NYC Open Data, join us for a recap of the Metadata for All project, networking, and a discussion of where we can go next.  
+
+      About the Metadata for All Project
+      For the past six months, a team of data librarians has been working with the Mayor’s Office of Data Analytics (MODA) to revise NYC Open Data’s data dictionaries and explore new ways to ensure that metadata is user-friendly for all New Yorkers. The Metadata for All project is made possible by a grant from the Sloan Foundation and partnerships with the Mayor’s Fund to Advance New York City, METRO, MODA, Pratt Institute and Tiny Panther Consulting.
+    html: |
+      <P><SPAN>Come check out NYC Open Data’s new and improved Data Dictionaries!</SPAN></P>
+      <P>We’re unveiling a new user-friendly approach to the NYC Open Data Portal’s data dictionaries.  Explore popular datasets from the Taxi &amp; Limousine Commission, 311, and other agencies, and see how new metadata standards make it easier to find and use the data you’re looking for.</P>
+      <P>If you’re an information professional, librarian, data manager, or work with NYC Open Data, join us for a recap of the Metadata for All project, networking, and a discussion of where we can go next.  </P>
+
+      <P><STRONG>About the Metadata for All Project</STRONG></P>
+      <P>For the past six months, a team of data librarians has been working with the Mayor’s Office of Data Analytics (MODA) to revise NYC Open Data’s data dictionaries and explore new ways to ensure that metadata is user-friendly for all New Yorkers. The Metadata for All project is made possible by a grant from the Sloan Foundation and partnerships with the Mayor’s Fund to Advance New York City, METRO, MODA, Pratt Institute and Tiny Panther Consulting.</P>
+  url: https://www.eventbrite.com/e/metadata-for-all-project-presentation-tickets-49144964913
+  start:
+    timezone: America/New_York
+    local: '2018-09-25T13:00:00'
+    utc: '2018-09-25T17:00:00Z'
 - time: 1539784800000
   link: https://www.meetup.com/Economics-Business-Librarians-Group/events/253616619/
   description:
