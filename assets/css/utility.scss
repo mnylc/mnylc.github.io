@@ -7,3 +7,6 @@ img:not([alt]) {
     filter: grayscale(100%);
 }
 
+div {
+    outline: 1px solid red !important;
+}
