@@ -114,13 +114,15 @@ a.anchor {
     background-color: #000;
 }
 
-.dropdown-menu li a {
-    white-space: normal;
+@media(max-width:767px) {
+    .dropdown-menu li a {
+	white-space: normal;
+    }
 }
 
- .carousel-control.left, .carousel-control.right {
-     background-image:none;
- }
+.carousel-control.left, .carousel-control.right {
+    background-image:none;
+}
 
 
 
