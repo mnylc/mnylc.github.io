@@ -2,7 +2,7 @@
 title: Studio 599
 permalink: /services/599studio
 ---
-Come use our studio services on the 8th floor at 599 11th Ave! Read more about the equipment available at each of our  workstations further down on this page. Fill out the accompanying interest forms to book a time to use the stations. Please contact the Studio Manager, Molly Schwartz, with any comments or questions: mschwartz@metro.org.
+Come use our studio services on the 8th floor at 599 11th Ave! Read more about the equipment available at each of our  workstations further down on this page. Fill out the accompanying interest forms to book a time to use the stations. Please contact the Studio Manager, [Molly Schwartz](mailto:mschwartz@metro.org), with any comments or questions: [mschwartz@metro.org](mailto:mschwartz@metro.org).
 
 1. ### Audio Recording and Editing
     [Book a session here](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=100086&mode=resource_desc)
