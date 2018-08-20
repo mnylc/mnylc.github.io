@@ -114,9 +114,13 @@ a.anchor {
     background-color: #000;
 }
 
-.carousel-control.left, .carousel-control.right {
-    background-image:none;
+.dropdown-menu li a {
+    white-space: normal;
 }
+
+ .carousel-control.left, .carousel-control.right {
+     background-image:none;
+ }
 
 
 
