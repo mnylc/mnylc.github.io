@@ -5,9 +5,9 @@ permalink: /code-of-conduct/
 
 ## At METRO, we strive to:
 
-* Support an open exchange of ideas within a safe and respectful environment, free from all forms of harassment, including those based on gender identity and expression, sexual orientation, disability, physical appearance, race, age, class, religion, or beliefs.
+* Support an open exchange of ideas within a safe and respectful environment, free from all forms of harassment, including those based on gender identity and expression, sexual orientation, disability, physical appearance, health status, race, age, class, citizenship, veteran status, religion, or beliefs.
 
-* Offer a space of learning for our community by welcoming and respecting individuals with all levels of education and experience.
+* Offer a space of learning for our community by welcoming and respecting individuals from all professions and with all levels of education and experience.
 
 ## Treat everyone with respect.
 
@@ -21,4 +21,5 @@ We ask that all community members adhere to the following expectations:
 
 Private space can be reserved for you while you are at METRO. Please contact [info@metro.org](mailto:info@metro.org) ahead of time to make those arrangements.
 
-We work to ensure that METRO is a welcoming space for all. Please let a staff member know if you experience or witness any harassing behavior. 
+We work to ensure that METRO is a welcoming space for all. Please let a staff member know if you experience or witness any harassing behavior. If you believe anyone is in physical danger, please call 911 and then notify METRO staff.
+
