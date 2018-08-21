@@ -4,7 +4,7 @@ permalink: /code-of-conduct/
 ---
 
 ## At METRO, we strive to:
-
+<div></div>
 * Support an open exchange of ideas within a safe and respectful environment, free from all forms of harassment, including those based on gender identity and expression, sexual orientation, disability, physical appearance, health status, race, age, class, citizenship, veteran status, religion, or beliefs.
 
 * Offer a space of learning for our community by welcoming and respecting individuals from all professions and with all levels of education and experience.
