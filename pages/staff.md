@@ -100,6 +100,18 @@ At METRO, Diego develops and manages our Digital Objects Repository ecosystem, c
 
 Diego is an active Fedora 4 contributor, Islandora and CLAW Committer and recently also Release Manager, being part of the release team for the last few years and maintaining several core modules. When not developing or walking dogs, he likes to build LEGOs, make Wood toys and do hobby research on reef ecosystems.
 
+## Sarah Nguyen
+**Project Coordinator**
+
+snguyen@metro.org
+
+Sarah is coordinating METRO's Preserve This Podcast project (funded by a Mellon grant) handling documentation, outreach, finance, web
+design, and more. Sarah received her B.A. in Economics and International Relations from the University California Davis and is currently
+an MLIS student at University of Washington's iSchool. Prior to committing to libraries and archives, she's worked in finance, food
+service, agriculture, tech, open access and textbook publishing, and urban planning. When she's not tweeting @preservethispod, she's
+keeping up with conversations around diversity and inclusion strategies, open source open access, managing data responsibly, archiving
+dance and audio, and figuring out how libraries can keep being Libraries in support of individuals and communities.
+
 ## Margo Padilla
 **Manager of Archival Solutions**
 
