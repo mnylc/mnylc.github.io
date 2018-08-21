@@ -3,8 +3,6 @@ title: METRO | 599
 email: info@metro.org
 description: Where New York's libraries and archives come together to learn, share ideas, and collaborate.
 
-exclude: ['project_todos.org']
-
 footer:
   address:
     - line: Metropolitan New York Library Council
