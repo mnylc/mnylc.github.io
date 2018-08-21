@@ -62,3 +62,5 @@ plugins:
   - jekyll-redirect-from
 
 google_analytics: UA-96398579-1
+
+exclude: ['project_todo.org']
