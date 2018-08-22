@@ -60,7 +60,7 @@ Salary:        Commensurate with Experience
 Posting Start Date:        06/05/2018
 Posting End Date:        09/16/2018
 
-Applications for this position must be received, as specified in the Application Procedure Section, no later than 5:00 PM Eastern Time on 08/17/2018, unless specifically noted otherwise in the Special Notes Section.
+Applications for this position must be received, as specified in the Application Procedure Section, no later than 5:00 PM Eastern Time on 09/16/2018, unless specifically noted otherwise in the Special Notes Section.
 
 STONY BROOK UNIVERSITY IS AN AFFIRMATIVE ACTION/EQUAL OPPORTUNITY EMPLOYER. WE ENCOURAGE PROTECTED VETERANS, INDIVIDUALS WITH DISABILITIES, WOMEN AND MINORITIES TO APPLY. IF YOU NEED A DISABILITY-RELATED ACCOMMODATION, PLEASE CALL THE UNIVERSITY HUMAN RESOURCE SERVICES DEPARTMENT AT (631) 632-6161 OR THE UNIVERSITY HOSPITAL HUMAN RESOURCES DEPARTMENT AT (631) 444-4700. IN ACCORDANCE WITH THE TITLE II CRIME AWARENESS AND SECURITY ACT, A COPY OF OUR CRIME STATISTICS IS AVAILABLE UPON REQUEST BY CALLING (631) 632-6350. IT CAN ALSO BE VIEWED ON-LINE AT THE UNIVERSITY POLICE WEBSITE AT [http://www.stonybrook.edu/police](http://www.stonybrook.edu/police)
 
