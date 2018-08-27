@@ -171,6 +171,21 @@
     timezone: America/New_York
     local: '2018-10-01T15:30:00'
     utc: '2018-10-01T19:30:00Z'
+- time: 1539093600000
+  link: https://www.meetup.com/stmlibrarians/events/254072543/
+  description:
+    html: "<p>Please consider attending this general business meeting of the Science
+      and Medical Librarians Interest Group to discuss goals for the group, strategies
+      for growing and retaining our membership, and possible topics for future events
+      and programming. All members are welcome.</p> <p>I will post an agenda in advance
+      of the meeting. Please contact me if you would like to submit potential items
+      for inclusion in the agenda. Thank you!</p> "
+  name:
+    html: Fall 2018 Business Meeting
+  start:
+    utc: '2018-10-09 10:00:00 -0400'
+    local: '2018-10-09 10:00:00 -0400'
+  url: https://www.meetup.com/stmlibrarians/events/254072543/
 - time: 1539784800000
   link: https://www.meetup.com/Economics-Business-Librarians-Group/events/253616619/
   description:
