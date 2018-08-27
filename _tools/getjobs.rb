@@ -2,8 +2,12 @@
 # coding: utf-8
 require 'csv'
 require 'liquid'
-require 'byebug'
 
+# clean out directory in case we have deleted jobs
+# Glob matches both .markdown and .md
+Dir.glob('../_posts/jobs/*.m*').each { |file| File.delete(file)}
+
+# Repopulate from the CSV
 CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
   next if row[0] == 'Timestamp'
 
