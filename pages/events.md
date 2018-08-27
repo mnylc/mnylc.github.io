@@ -4,7 +4,10 @@ permalink: /events/
 layout: posts
 
 use_tag: "event"
+
 ---
+[Policies](#policies)
+
 Thank you for your interest in METRO's upcoming events! If you'd like to help shape our programming:
 
 * [pitch us on a workshop you'd like to lead](https://docs.google.com/forms/d/e/1FAIpQLSeJyRzSq5wQV_ZwOQ_vnVZ69g2qcg5cqW9-6cvwwqF2FGvvyA/viewform?usp=sf_link)
@@ -35,14 +38,16 @@ We are committed to providing a welcoming and productive environment for all. Pl
 	<div><br/></div>
 {% endfor %}
 </ol>
+
 {% else %}
 
 ## No events are scheduled at this time. Please check back soon. ##
 
 {% endif %}
 
+<a class="anchor" name="policies">&nbsp;</a>
 
-## Policies
+<h2>Policies</h2>
 
 ### Payment
 We accept payment by credit card or by invoice. Please note that we do not accept cash payment, on site or otherwise.
@@ -57,4 +62,8 @@ In order to receive a refund, we must receive your cancellation email at least 2
 
 ### Private Space
 METRO will make private space available to nursing mothers upon request. Please contact us at [events@metro.org](mailto:events@metro.org) to make a reservation.
+
+[Back to top](#top)
+
+
 
