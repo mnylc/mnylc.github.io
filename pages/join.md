@@ -85,6 +85,4 @@ Annual Fees for myMETRO Membership are
 * $50 student discount
 * $50 career transition discount
 
-We offer 50% discounts on Individual Memberships for students, retirees, and professionals in transition. Three year memberships are available to current students for $125.00.
-
 If you are interested in joining us as a myMETRO member, please complete this <a href="https://www.google.com/url?q=https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScPUztmBGK57i5wOmupenzG1DPg_M52QdXr06WDNaad1w9VDA/viewform&sa=D&ust=1487006619451000&usg=AFQjCNH3KzsNaQ8nKqlw5xpChnkyiHvWHA" target="_blank">form.</a> One of our staff members will be in touch with you to follow up on your membership submission.
