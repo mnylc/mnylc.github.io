@@ -81,9 +81,9 @@ Join more than 300 individual librarians, archivists, and information profession
 
 Annual Fees for myMETRO Membership are
 
-* $100 for professionals
-* $250 for a 3-year professional membership
-* $500 for lifetime membership
+* $100 for individual membership
+* $50 student discount
+* $50 career transition discount
 
 We offer 50% discounts on Individual Memberships for students, retirees, and professionals in transition. Three year memberships are available to current students for $125.00.
 
