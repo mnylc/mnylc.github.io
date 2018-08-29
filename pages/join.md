@@ -81,8 +81,6 @@ Join more than 300 individual librarians, archivists, and information profession
 
 Annual Fees for myMETRO Membership are
 
-* $100 for individual membership
-* $50 student discount
-* $50 career transition discount
+* $100 for individual membership (career transition and student discounts available)
 
 If you are interested in joining us as a myMETRO member, please complete this <a href="https://www.google.com/url?q=https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScPUztmBGK57i5wOmupenzG1DPg_M52QdXr06WDNaad1w9VDA/viewform&sa=D&ust=1487006619451000&usg=AFQjCNH3KzsNaQ8nKqlw5xpChnkyiHvWHA" target="_blank">form.</a> One of our staff members will be in touch with you to follow up on your membership submission.
