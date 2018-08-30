@@ -57,11 +57,6 @@ Chief Branch Library Officer
 The New York Public Library  
 2016-2021  
 
-**Bonnie Tijerina**  
-Data & Society Research Fellow  
-President and Founder at Electronic Resources and Libraries  
-2015-2020  
-
 **Nate Hill**  
 Executive Director  
 Metropolitan New York Library Council (METRO)
