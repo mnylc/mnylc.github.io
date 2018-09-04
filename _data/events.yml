@@ -3,8 +3,9 @@
     text: Creating Sustainable Websites with GitHub Pages and Jekyll
     html: Creating Sustainable Websites with GitHub Pages and Jekyll
   description:
-    text: "A stable, sustainable, and attractive website is key for libraries, archives
-      and other public organizations to stay connected to their communities. Up-to-date
+    text: "This workshop has been cancelled. We apologize for any inconvenience.A
+      stable, sustainable, and attractive website is key for libraries, archives and
+      other public organizations to stay connected to their communities. Up-to-date
       content like public programming details, photo galleries and blogs outwardly
       reflect the interior vibrancy of information/cultural heritage orgs.\nThe barriers
       to creating and updating an active website have been drastically lowered in
@@ -28,7 +29,7 @@
       and more to lead workshops that demystify technology for archiving and information
       professionals.\n"
     html: |-
-      <P><SPAN>A stable, sustainable, and attractive website is key for libraries, archives and other public organizations to stay connected to their communities. Up-to-date content like public programming details, photo galleries and blogs outwardly reflect the interior vibrancy of information/cultural heritage orgs.<BR><BR></SPAN></P>
+      <P><SPAN><EM>This workshop has been cancelled. We apologize for any inconvenience.</EM><BR><BR>A stable, sustainable, and attractive website is key for libraries, archives and other public organizations to stay connected to their communities. Up-to-date content like public programming details, photo galleries and blogs outwardly reflect the interior vibrancy of information/cultural heritage orgs.<BR><BR></SPAN></P>
       <P><SPAN>The barriers to creating and updating an active website have been drastically lowered in recent years thanks to static site generation software and low-risk options for web hosting. This workshop will cover how to use a popular combination for building low-maintenance websites: Jekyll, a blog/content-generating software for creating easy HTML page templates, and GitHub Pages, a free hosting platform.<BR><BR></SPAN></P>
       <P><SPAN>By the end of this two-hour workshop, attendees will:</SPAN></P>
       <UL>
