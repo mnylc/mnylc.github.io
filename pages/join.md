@@ -79,7 +79,5 @@ Individual METRO membership gives information professionals in the metropolitan 
 
 ### Membership Fees
 
-Annual Fees for Individual Membership are $100 (career transition and student discounts available)
-
-[Apply here!](https://airtable.com/shrNVjX2itMUwJwmX)
+Annual Fees for Individual Membership are $100 (career transition and student discounts available.) [Apply here!](https://airtable.com/shrNVjX2itMUwJwmX)
 
