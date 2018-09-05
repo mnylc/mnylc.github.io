@@ -70,7 +70,7 @@ In accordance with Article II Section 9 of the Metro Bylaws “Dues for each cat
 
 Individual METRO membership gives information professionals in the metropolitan New York region and beyond access to opportunities for personal and professional growth. 
 
-### Benefits of myMETRO Membership
+### Benefits of Individual Membership
 
 * Special rates to all METRO workshops
 * Free access to Lynda.com video tutorials
@@ -79,7 +79,7 @@ Individual METRO membership gives information professionals in the metropolitan 
 
 ### Membership Fees
 
-Annual Fees for myMETRO Membership are $100 for individual membership (career transition and student discounts available)
+Annual Fees for Individual Membership are $100 (career transition and student discounts available)
 
 [Apply here!](https://airtable.com/shrNVjX2itMUwJwmX)
 
