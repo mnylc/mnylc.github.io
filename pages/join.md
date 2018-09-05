@@ -68,19 +68,18 @@ In accordance with Article II Section 9 of the Metro Bylaws “Dues for each cat
 
 ## myMETRO Individual Membership
 
-Join more than 300 individual librarians, archivists, and information professionals as a myMETRO Member. 
+Individual METRO membership gives information professionals in the metropolitan New York region and beyond access to opportunities for personal and professional growth. 
 
 ### Benefits of myMETRO Membership
 
 * Special rates to all METRO workshops
-* Free seats at Lynda.com
-* Eligibility to participate in the annual myMETRO Researchers project
+* Free access to Lynda.com video tutorials
+* Eligibility to receive professional development scholarships
 * Discounts on professional publications like Library Journal and Library Hotline
 
 ### Membership Fees
 
-Annual Fees for myMETRO Membership are
+Annual Fees for myMETRO Membership are $100 for individual membership (career transition and student discounts available)
 
-* $100 for individual membership (career transition and student discounts available)
+[Apply here!](https://airtable.com/shrNVjX2itMUwJwmX)
 
-If you are interested in joining us as a myMETRO member, please complete this <a href="https://www.google.com/url?q=https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScPUztmBGK57i5wOmupenzG1DPg_M52QdXr06WDNaad1w9VDA/viewform&sa=D&ust=1487006619451000&usg=AFQjCNH3KzsNaQ8nKqlw5xpChnkyiHvWHA" target="_blank">form.</a> One of our staff members will be in touch with you to follow up on your membership submission.
