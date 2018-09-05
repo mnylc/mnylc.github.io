@@ -66,7 +66,7 @@ In accordance with Article II Section 9 of the Metro Bylaws “Dues for each cat
 |   Over $2,000,000                  |  $4,276            |
 
 
-## myMETRO Individual Membership
+## Individual Membership
 
 Individual METRO membership gives information professionals in the metropolitan New York region and beyond access to opportunities for personal and professional growth. 
 
