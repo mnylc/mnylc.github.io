@@ -14,6 +14,30 @@
     timezone: America/New_York
     local: '2018-09-14T15:00:00'
     utc: '2018-09-14T19:00:00Z'
+- time: 1537300800000
+  link: https://www.meetup.com/code4libnyc/events/253175202/
+  description:
+    html: '<p>Join the Code4Lib NYC meetup for member presentations and a meet &amp;
+      greet at METRO!</p> <p>4pm-5pm: Member presentations (12-15 mins each)<br/>5pm-6pm:
+      Member meet &amp; greet (METRO will provide coffee and cookies--feel free to
+      bring a snack to share)</p> <p>This meetup is for everyone! From the code4lib
+      "about us": "code4lib isn’t entirely about code or libraries. It is a volunteer-driven
+      collective of hackers, designers, architects, curators, catalogers, artists
+      and instigators from around the world, who largely work for and with libraries,
+      archives and museums on technology ''stuff.''"</p> <p>Call for presentations:</p>
+      <p>Are you working on an exciting project that you would like to share with
+      your colleagues, and maybe solicit collaborators for? Have you found a neat
+      and useful code-related tool that you are interested in telling more people
+      about? Your peers want to hear from you! Please email a presentation title,
+      brief abstract and speaker bio to Esther Jackson (ejackson@nybg.org) if you
+      are interested in presenting. Note that the talks will be limited to 12 or 15
+      minutes depending on response rate.</p> '
+  name:
+    html: Member Presentations with Meet & Greet
+  start:
+    utc: '2018-09-18 16:00:00 -0400'
+    local: '2018-09-18 16:00:00 -0400'
+  url: https://www.meetup.com/code4libnyc/events/253175202/
 - name:
     text: 'NYC Open Data''s Metadata for All Initiative: Project Presentation'
     html: 'NYC Open Data&#39;s Metadata for All Initiative: Project Presentation'
