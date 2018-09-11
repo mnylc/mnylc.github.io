@@ -84,12 +84,10 @@ PI103932295
 
 ### Location   
 
-Stony Brook, New York, United States 11794
+Stony Brook, NY, United States, 11794
 
 
-### URL   
 
-[http://www.Click2apply.net/7zxzf9dqkbm958sg](http://www.Click2apply.net/7zxzf9dqkbm958sg)
 
 ### To Apply   
 

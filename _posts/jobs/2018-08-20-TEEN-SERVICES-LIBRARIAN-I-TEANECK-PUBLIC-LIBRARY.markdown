@@ -50,9 +50,7 @@ Compensation: This is a full-time salaried position, with a minimum starting sal
 Teaneck, NJ , USA
 
 
-### URL   
 
-www.teaneck.org
 
 ### To Apply   
 
