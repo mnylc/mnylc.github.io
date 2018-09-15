@@ -1,19 +1,4 @@
 ---
-- name:
-    text: Tour Brooklyn Academy of Music's Hamm Archives
-    html: Tour Brooklyn Academy of Music&#39;s Hamm Archives
-  description:
-    text: |-
-      We invite you to a lecture and collection tour of the Brooklyn Academy of Music’s Hamm Archives. The Hamm Archives tell the 150-year history of BAM, but they also tell a story of the people and communities—civic and artistic—that made BAM what it is today. The Archives provide a rich and unique resource for those interested in BAM artists, the history of performing arts in the U.S., and in Brooklyn's social history.Comprised of approximately 3,000 linear feet of documents and photographs dating from 1857 to the present, the Archives includes items such as playbills, posters, architectural plans, administrative files, production records, press clippings, and video. The collection is housed at the BAM Hamm Archives Center in a modernized facility at 1000 Dean Street in Crown Heights.The visit will include a talk on the unique materials held in the Hamm Archives, as well as projects undertaken for the recent launch of the Leon Levy Digital Collection, the Archives’ online digital collection containing over 25,000 images and documents.
-      Please note that this event is open to METRO institutional and individual members only. There is no fee to attend, but registration is required.
-    html: |-
-      <P><SPAN><SPAN>We invite you to a lecture and collection tour of the Brooklyn Academy of Music’s Hamm Archives. The Hamm Archives tell the 150-year history of BAM, but they also tell a story of the people and communities—civic and artistic—that made BAM what it is today. The Archives provide a rich and unique resource for those interested in BAM artists, the history of performing arts in the U.S., and in Brooklyn's social history.</SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>Comprised of approximately 3,000 linear feet of documents and photographs dating from 1857 to the present, the Archives includes items such as playbills, posters, architectural plans, administrative files, production records, press clippings, and video. The collection is housed at the BAM Hamm Archives Center in a modernized facility at 1000 Dean Street in Crown Heights.</SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN><BR CLASS="kix-line-break"></SPAN><SPAN>The visit will include a talk on the unique materials held in the Hamm Archives, as well as projects undertaken for the recent launch of the Leon Levy Digital Collection, the Archives’ online digital collection containing over 25,000 images and documents.</SPAN></SPAN></P>
-      <P><BR><EM>Please note that this event is open to METRO institutional and individual members only. There is no fee to attend, but registration is required.</EM></P>
-  url: https://www.eventbrite.com/e/tour-brooklyn-academy-of-musics-hamm-archives-tickets-49338429571
-  start:
-    timezone: America/New_York
-    local: '2018-09-14T15:00:00'
-    utc: '2018-09-14T19:00:00Z'
 - time: 1537300800000
   link: https://www.meetup.com/code4libnyc/events/253175202/
   description:
