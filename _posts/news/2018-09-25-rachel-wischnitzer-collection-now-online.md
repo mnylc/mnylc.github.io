@@ -4,7 +4,7 @@ title:  "Rachel Wischnitzer Collection now online courtesy of Leo Baeck Institut
 date:   2018-09-25
 tag:	news
 ---
-The Leo Baeck Institute recently completed a project to digitize the collection of architect and art historian Rachel Wischnitzer, courtesy of a METRO digitization (micro)grant which covered scanning of the materials by Internet Archive. Over 10,000 pages/scanned images from the collection are now publicly available online.
+The [Leo Baeck Institute](https://www.lbi.org) recently completed a project to digitize the collection of architect and art historian Rachel Wischnitzer, courtesy of a METRO digitization (micro)grant which covered scanning of the materials by Internet Archive. Over 10,000 pages/scanned images from the collection are now publicly available online.
 
 The Rachel Wischnitzer Collection contains correspondence, lecture notes, photographs, lantern slides, and negatives documenting Rachel Wischnitzer’s career as an art historian, curator, professor, consultant, and author. Also included are correspondence, records, and photographs pertaining to her husband Mark Wischnitzer’s work as a historian, editor, and Secretary General of the Hilfsverein der Deutschen Juden.
 
