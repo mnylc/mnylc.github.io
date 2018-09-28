@@ -1,26 +1,5 @@
 ---
 - name:
-    text: Tour New York Public Radio's Archives
-    html: Tour New York Public Radio&#39;s Archives
-  description:
-    text: |-
-      Join us for an afternoon tour of the NYPR Archives!
-      After a visit to NYPR’s overall facilities and the NYPR Archives in particular, visitors will see a presentation describing how archive staff manage the documentation and repatriation of the content of a nearly 100-year-old broadcaster, while also attempting to keep up with the current output of a very active production facility.
-      The New York Public Radio (NYPR) Archives was established in the year 2000 by Archives Director Andy Lanset.
-
-      Please note that this event is open to METRO institutional and individual members only. There is no fee to attend, but registration is required.
-    html: |-
-      <P><SPAN>Join us for an afternoon tour of the NYPR Archives!</SPAN></P>
-      <P>After a visit to NYPR’s overall facilities and the NYPR Archives in particular, visitors will see a presentation describing how archive staff manage the documentation and repatriation of the content of a nearly 100-year-old broadcaster, while also attempting to keep up with the current output of a very active production facility.</P>
-      <P>The New York Public Radio (NYPR) Archives was established in the year 2000 by Archives Director Andy Lanset.</P>
-      <P><SPAN><BR></SPAN></P>
-      <P><EM>Please note that this event is open to METRO institutional and individual members only. There is no fee to attend, but registration is required.</EM></P>
-  url: https://www.eventbrite.com/e/tour-new-york-public-radios-archives-tickets-49338863870
-  start:
-    timezone: America/New_York
-    local: '2018-09-28T14:30:00'
-    utc: '2018-09-28T18:30:00Z'
-- name:
     text: Tour New York Academy of Medicine's Rare Book Room
     html: Tour New York Academy of Medicine&#39;s Rare Book Room
   description:
