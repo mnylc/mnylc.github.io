@@ -24,17 +24,17 @@ Chief Librarian, Brooklyn Public Library
 **Joshua Greenberg, Treasurer**  
 Program Director, Digital Information Technology  
 Alfred P. Sloan Foundation  
-2012-2022   
+2012-2022
+
+**Greta Byrum, Secretary**  
+Director of the New School's Digital Equity Laboratory  
+The New School  
+2018-2023  
 
 **Stephen Bury**  
 Andrew W. Mellon Chief Librarian  
 Frick Art Reference Library   
 2017-2022
-
-**Greta Byrum**  
-Director of the New School's Digital Equity Laboratory  
-The New School  
-2018-2023  
 
 **Valeda Dent**  
 Dean, St. John’s University Libraries  
