@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coordinator of Instruction - Setton Hall Univeristy "
+title:  "Coordinator of Instruction - Seton Hall Univeristy "
 date:   2018-09-24
 excerpt: "Seton Hall University Libraries invites applications for a full-time, tenure-track library faculty position. We seek an enterprising, enthusiastic, service-oriented individual who will work collaboratively with the library faculty to provide leadership and operational management of our busy Instruction Program. Working closely with the Assistant Dean for Public Services, the Coordinator..."
 tag: job
