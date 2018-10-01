@@ -11,6 +11,12 @@ School of Media Studies
 The New School  
 2016-2021  
 
+**Nick Buron, Vice President**  
+Chief Librarian  
+Senior Vice President  
+Queens Public Library  
+2017-2022  
+
 <!---**Lisa G. Rosenblum, Vice President**  
 Chief Librarian, Brooklyn Public Library  
 2016-2021-->    
@@ -19,12 +25,6 @@ Chief Librarian, Brooklyn Public Library
 Program Director, Digital Information Technology  
 Alfred P. Sloan Foundation  
 2012-2022   
-
-**Nick Buron**  
-Chief Librarian  
-Senior Vice President  
-Queens Public Library  
-2017-2022  
 
 **Stephen Bury**  
 Andrew W. Mellon Chief Librarian  
