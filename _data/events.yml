@@ -347,6 +347,35 @@
     local: '2018-10-18T16:00:00'
     utc: '2018-10-18T20:00:00Z'
 - name:
+    text: Tour the Lesbian Herstory Archives
+    html: Tour the Lesbian Herstory Archives
+  description:
+    text: |
+      Join us for a Saturday morning tour of the Lesbian Herstory Archives, the largest Lesbian Archive in the world!
+
+      During a visit to LHA’s space, participants will see a presentation describing the history of the Archives.  We'll hear about the various content specialization of the collection, how staff manage the content, and how they keep the Archives current. One of the strengths of The Archives' collection is the incredible lesbian/feminist periodical and newsletter collection; many titles here won't be found anywhere else. Please join us for this exciting event in Park Slope, Brooklyn!
+
+
+
+      This event is open to METRO members only. If you'd like to join METRO, please visit metro.org/join.
+
+      We are offering this event free of charge; participants are encouraged to bring along a small cash donation to help support LHA's work.
+    html: |
+      <DIV>Join us for a <SPAN CLASS="m_2687650826932252372gmail-m_459271741917203096gmail-m_-4899604713242554641gmail-aBn">Saturday</SPAN> morning tour of the Lesbian Herstory Archives, the largest Lesbian Archive in the world!</DIV>
+      <DIV><BR></DIV>
+      <DIV>During a visit to LHA’s space, participants will see a presentation describing the history of the Archives.  We'll hear about the various content specialization of the collection, how staff manage the content, and how they keep the Archives current. One of the strengths of The Archives' collection is the incredible lesbian/feminist periodical and newsletter collection; many titles here won't be found anywhere else. Please join us for this exciting event in Park Slope, Brooklyn!<BR><BR></DIV>
+      <DIV CLASS="m_2687650826932252372gmail-yj6qo m_2687650826932252372gmail-ajU">
+      <DIV CLASS="m_2687650826932252372gmail-ajR"><IMG SRC="https://ci3.googleusercontent.com/proxy/brwtshoO8pFoWzivuTYTqzcgbWbRGn8NoU8wERg_KJm3_dQfWsYZcw5SQWdMXaW39zaYym3eYNHeLECuyKxBYYGgtAEK-2_yIIyzW_3fVstyQg=s0-d-e1-ft#https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif"></DIV>
+      </DIV>
+      <DIV>This event is open to METRO members only. If you'd like to join METRO, please visit <A HREF="http://metro.org/join" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">metro.org/join</A>.</DIV>
+      <DIV><BR></DIV>
+      <DIV>We are offering this event free of charge; participants are encouraged to bring along a small cash donation to help support LHA's work.</DIV>
+  url: https://www.eventbrite.com/e/tour-the-lesbian-herstory-archives-tickets-50863901298
+  start:
+    timezone: America/New_York
+    local: '2018-10-20T11:00:00'
+    utc: '2018-10-20T15:00:00Z'
+- name:
     text: 'Building Solidarity: Supporting Community Organizations through Archival
       Practice'
     html: 'Building Solidarity: Supporting Community Organizations through Archival
