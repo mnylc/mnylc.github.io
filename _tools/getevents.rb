@@ -33,6 +33,7 @@ j['events'].each do |ev|
   h = ev.select { |key, _| wanted_keys.include? key }
   h['description']['html'].gsub!('<P><BR></P>', '')
   h['description']['html'].gsub!('<HR>', '')
+  h['description']['html'].gsub('<img.*cleardot.gif.*/>', '')
   l.push(h)
 end
 
