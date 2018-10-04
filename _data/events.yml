@@ -451,3 +451,14 @@
     timezone: America/New_York
     local: '2018-11-03T10:00:00'
     utc: '2018-11-03T14:00:00Z'
+- time: 1542726000000
+  link: https://www.meetup.com/Library-Assistants-and-Support-Staff-of-NYC/events/255267688/
+  description:
+    html: "<p>Join us for our monthly meeting. Please bring a canned / non-perishable
+      food item for our community food drive. Thanks in advance!</p> "
+  name:
+    html: Nov. 2018 LASSA meeting + Food Drive
+  start:
+    utc: '2018-11-20 10:00:00 -0500'
+    local: '2018-11-20 10:00:00 -0500'
+  url: https://www.meetup.com/Library-Assistants-and-Support-Staff-of-NYC/events/255267688/
