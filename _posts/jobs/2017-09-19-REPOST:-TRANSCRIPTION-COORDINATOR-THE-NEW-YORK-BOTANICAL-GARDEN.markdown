@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Transcription Coordinator  - The New York Botanical Garden"
+title:  "REPOST: Transcription Coordinator  - The New York Botanical Garden"
 date:   2017-09-19
 excerpt: "This is a temporary part-time grant funded position. The Transcription Coordinator will work 21 hours per week and will recruit, train and manage local volunteers and crowdsourced volunteers. The Transcription Coordinator will describe the project and its goals in ways that stimulate the interest of potential volunteers. These volunteers will..."
 tag: job
