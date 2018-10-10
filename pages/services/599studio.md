@@ -26,7 +26,7 @@ Come use our studio services on the 8th floor at 599 11th Ave! Read more about t
    [Review our AV Transfer documentation](https://docs.google.com/document/d/1MSyAroe0YGXvE-wIksrRFFOWxuu5Nk3ZnJatq11Is3o/edit?usp=sharing)
 
 4. ### Media Migration and Recovery 
-   [Send an inquiry with this form](https://airtable.com/embed/shr2aXLzQoqNIsrQ0?backgroundColor=cyan)
+   [Book a session here](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=103213&mode=resource_desc)
    
    [Read more about our media migration and recovery equipment](#media-migration)
 
@@ -154,7 +154,7 @@ The born-digital workstation is a Windows 7 (64-bit) CPU with a 3.7 GHz Intel Xe
 - Zip disk drive
 - Multimedia and memory cards (found in digital Cameras, MP3 Players, VoiceRecorders, etc.)
 
-[Fill out this form to book a service.](https://airtable.com/embed/shr2aXLzQoqNIsrQ0?backgroundColor=cyan)
+[Book a session here.](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=103213&mode=resource_desc)
 
 [Back to top](#top)
 
