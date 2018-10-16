@@ -6,7 +6,7 @@ permalink: /services/digital-services
 
 In January 2005, METRO launched its Digitization Grant Program as an effort to support digitization projects involving significant collections held by METRO member libraries in New York City and Westchester County. This initiative is supported in part by funds from the New York State Regional Bibliographic Databases Program.
 
-Since that time, METRO has awarded over $880,000 in grants to support 87 digital projects.
+Since that time, METRO has awarded over close to $900,000 in grants to support 92 digital projects.
 
 Funding for digitization projects is distributed annually. For more information and to discuss potential projects and funding opportunities, please contact Anne Karle-Zenith, METRO’s Associate Director of Business Development, at annekz@metro.org.
 
