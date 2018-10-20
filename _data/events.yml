@@ -1,30 +1,5 @@
 ---
 - name:
-    text: Tour the Lesbian Herstory Archives
-    html: Tour the Lesbian Herstory Archives
-  description:
-    text: |
-      Join us for a Saturday morning tour of the Lesbian Herstory Archives, the largest Lesbian Archive in the world!
-
-      During a visit to LHA’s space, participants will see a presentation describing the history of the Archives.  We'll hear about the various content specialization of the collection, how staff manage the content, and how they keep the Archives current. One of the strengths of The Archives' collection is the incredible lesbian/feminist periodical and newsletter collection; many titles here won't be found anywhere else. Please join us for this exciting event in Park Slope, Brooklyn!
-
-      This event is open to METRO members only. If you'd like to join METRO, please visit metro.org/join.
-
-      We are offering this event free of charge; participants are encouraged to bring along a small cash donation to help support LHA's work.
-    html: |
-      <DIV>Join us for a <SPAN CLASS="m_2687650826932252372gmail-m_459271741917203096gmail-m_-4899604713242554641gmail-aBn">Saturday</SPAN> morning tour of the Lesbian Herstory Archives, the largest Lesbian Archive in the world!</DIV>
-      <DIV><BR></DIV>
-      <DIV>During a visit to LHA’s space, participants will see a presentation describing the history of the Archives.  We'll hear about the various content specialization of the collection, how staff manage the content, and how they keep the Archives current. One of the strengths of The Archives' collection is the incredible lesbian/feminist periodical and newsletter collection; many titles here won't be found anywhere else. Please join us for this exciting event in Park Slope, Brooklyn!</DIV>
-      <DIV></DIV>
-      <DIV><SPAN>This event is open to METRO members only. If you'd like to join METRO, please visit </SPAN><A HREF="http://metro.org/join" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">metro.org/join</A><SPAN>.</SPAN></DIV>
-      <DIV><BR></DIV>
-      <DIV>We are offering this event free of charge; participants are encouraged to bring along a small cash donation to help support LHA's work.</DIV>
-  url: https://www.eventbrite.com/e/tour-the-lesbian-herstory-archives-tickets-50863901298
-  start:
-    timezone: America/New_York
-    local: '2018-10-20T11:00:00'
-    utc: '2018-10-20T15:00:00Z'
-- name:
     text: How to Help Your Hospital Using "Under-the-Radar" Products
     html: How to Help Your Hospital Using &#34;Under-the-Radar&#34; Products
   description:
