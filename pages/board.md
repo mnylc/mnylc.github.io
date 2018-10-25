@@ -52,11 +52,6 @@ University Librarian Emeritus
 Columbia University  
 2011-2021   
  
-**Christopher Platt**  
-Chief Branch Library Officer  
-The New York Public Library  
-2016-2021  
-
 **Nate Hill**  
 Executive Director  
 Metropolitan New York Library Council (METRO)
