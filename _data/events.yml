@@ -107,6 +107,30 @@
     timezone: America/New_York
     local: '2018-11-03T10:00:00'
     utc: '2018-11-03T14:00:00Z'
+- time: 1542135600000
+  link: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/255865868/
+  description:
+    html: "<p>Please join us at our Fall 2018 Library Resource Sharing: Interlibrary
+      Loan Meetup</p> <p>We'll have an open forum for interlibrary loan librarians
+      and other parties interested in posing interlibrary loan related questions or
+      sharing their latest ideas and resources. Please send us any agenda items you’d
+      like to discuss.</p> <p>The event will be held at:</p> <p>The METRO Training
+      Center (8th floor)</p> <p>599 Eleventh Avenue (between 44th Street and 45th
+      Street)</p> <p>Please note, the METRO Interlibrary Loan SIG and the METRO Circulation
+      and Reserves SIG have combined to become the Library Resource Sharing: Circulation,
+      Interlibrary Loan and Reserves MeetUp group. In this way, new groups can be
+      accommodated by METRO, and you will get more information about our shared interests
+      through a shared MeetUp page and emails. We will also make it clear to everyone
+      which meetings are focused on Interlibrary Loan and which are focused on Circulation
+      and Reserves so that you can attend either one (or both, if you like!). This
+      meeting will be focused on Interlibrary Loan, but everyone is welcome.</p> <p>Hope
+      to see you there!</p> <p>Best,</p> <p>Emma Raub &amp; Beth Posner</p> "
+  name:
+    html: 'Fall 2018 Library Resource Sharing: Interlibrary Loan Meetup'
+  start:
+    utc: '2018-11-13 14:00:00 -0500'
+    local: '2018-11-13 14:00:00 -0500'
+  url: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/255865868/
 - time: 1542726000000
   link: https://www.meetup.com/Library-Assistants-and-Support-Staff-of-NYC/events/255267688/
   description:
