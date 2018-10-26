@@ -52,7 +52,8 @@ University Librarian Emeritus
 Columbia University  
 2011-2021   
  
-**Nate Hill**  
+**Nate Hill** 
+Ex-Officio 
 Executive Director  
 Metropolitan New York Library Council (METRO)
 
