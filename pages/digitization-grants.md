@@ -105,7 +105,9 @@ Funding for digitization projects is distributed annually. For more information 
 <b>Description:</b>  Collection of 671 prints, primarily portraits, dating from the 17th century through the early 19th century. The prints, which demonstrate a variety of printing processes including etching, engraving, mezzotint, stippling, lithography, and hand coloring, primarily depict people who have made historically significant contributions to the fields of science and medicine, as well as some medical institutions, procedures, and other health-related topics. The prints are spectacular and appealing because of their subject matter and artistic merit.  They lend a personal dimension to the study of the history of medicine.William S. Ladd, a former dean of Cornell University Medical College, accumulated the collection during the first half of the 20th century, purchasing many of the prints as deaccessioned duplicates from the Ashmolean Museum at Oxford University.
 </div>
 </div>
-[Back to top](#top)
+
+<br/>[Back to top](#top)
+
 <a class="anchor" id="2016"/>
 ## 2016 Funded Projects
 
@@ -196,7 +198,9 @@ Funding for digitization projects is distributed annually. For more information 
 <b>Description:</b>  Collection of 364 objects composed of selected archival materials and museum holdings from The General Society of Mechanics and Tradesmen of the City of New York (GSMT). Founded in 1785, The General Society initially served as a benevolent organization that provided mutual support to fellow craftsmen and artisans in need. This philosophy of practical philanthropy has been maintained for over 230 years in the form of the second-oldest library in New York (since 1820), an active program of lectures (since 1837), and a tuition-free evening trade school (since 1858). Since its inception, The Society has counted many prominent New Yorkers among its over 4000 members such as Andrew Carnegie, Peter Cooper and Abram S. Hewitt. The items presented in the Industry and Culture Collection document a wide variety of General Society activities including patriotic, civic, educational and literary pursuits. Note: This collection was created as part of the Culture In Transit Project, made possible by a grant from the John S. and James L. Knight Foundation. 
 </div>
 </div>
-[Back to top](#top)
+
+<br/><br/>[Back to top](#top)
+
 <a class="anchor" id="2015"/>
 ## 2015 Funded Projects
 
@@ -232,7 +236,9 @@ Funding for digitization projects is distributed annually. For more information 
 <b>Description:</b>  Carnegie Hall booking ledgers that recorded every event that took place in the Hall’s three auditoriums and were used to schedule performances spanning 1955-2007. These ledgers include rare documentation of the great artists and managers of various music genres that have performed at the Hall over the past half-century, and also chronicle the wide range of non-musical events such as lectures, meetings, and civic rallies that have taken place.
 </div>
 </div>
-[Back to top](#top)
+
+<br/><br/>[Back to top](#top)
+
 <a class="anchor" id="2014"/>
 ## 2014 Funded Projects
 
@@ -246,7 +252,9 @@ Funding for digitization projects is distributed annually. For more information 
 <b>Description:</b>  The Brooklyn Institute of Arts and Sciences Bulletins Collection is comprised of promotional materials known as Bulletins, or Monthly Magazines of Brooklyn Institute of Arts and Sciences. These periodicals contain listings of upcoming performances, lectures, courses, special events and related articles. The first issue is from September 1908 and the series runs through June 1953.
 </div>
 </div>
-[Back to top](#top)
+
+<br/><br/>[Back to top](#top)
+
 <a class="anchor" id="2012"/>
 ## 2012 Funded Projects
 
@@ -260,4 +268,58 @@ Funding for digitization projects is distributed annually. For more information 
 <b>Description:</b>  The Gilded Age, witnessed large and valuable private collections disposed of at auction. New York City played an important role in this burgeoning market. Auction catalogs from these sales provide a wealth of information about the world of collecting, provenance, artists, and artistic tastes during a time of burgeoning wealth.  Materials from the Frick Art Reference Library and Archive and The William Randolph Hearst Archive, LIU Post comprise this collection documenting auctions of decorative arts during the Gilded Age.  Spanning the period from 1876 to 1922, this collection documents the importance of auction catalogs and sales that played a pivotal role in the history of collecting in New York City.  A majority of the auction catalogs in the collection were issued at auctions held by the American Art Association. 19,294 objects were digitized and 104 MARC records were created for the digital versions of the catalogs.
 </div>
 </div>
-[Back to top](#top)
+
+<br/><br/>[Back to top](#top)
+
+## Digital Services Advisory Council  
+
+### Charge  
+
+To advise METRO on the development of digital services and digital initiatives planning in the region and on the use of RBDB funds for technology. To make recommendations for the allocation of resources toward existing and new digital services for METRO member libraries and librarians. To aid METRO in identifying emerging trends, technologies, services and policies with potential to affect the library/information world and share this information with members. To assist METRO in building relationships with regional and national organizations and individuals working to improve library services in digital environments.  
+
+### Chair  
+
+Anthony Cocciolo (2015, member since 2014)  
+Assistant Professor  
+Pratt Institute  
+
+### Members  
+
+Sarah Gentile (2015-2016)  
+Digital Project Archivist   
+Brooklyn Academy of Music  
+
+Natalie Milbrodt (2014-2015)  
+Digital Content & Strategy Coordinator  
+Director, Queens Memory Project  
+Queens Library  
+
+Henry Raine (2015-2016)  
+Director of Library Digital and Technical Services  
+New York Historical Society  
+
+Madeleine Thompson (2015-2016)  
+Institutional Archivist and Digital Resources Manager  
+Wildlife Conservation Society   
+
+Kyle Triplett (2015-2016)  
+Librarian, Rare Book Division  
+New York Public Library  
+
+Nicholas Webb (2014-2016)  
+Assistant Archivist  
+Mount Sinai Medical Center  
+
+### Staff  
+
+Anne Karle-Zenith  
+Digital Services Manager  
+METRO  
+
+Margo Padilla  
+Strategic Programs Manager  
+METRO  
+
+<br/><br/>[Back to top](#top)
+
+
