@@ -24,7 +24,7 @@ grant_years = {}
 CSV.foreach(ARGV[0]) do |row|
   # skip the header
   next if row[0].eql?('pid')
-  
+
   # check for existence of thumbnail file and save path if it does
   path = '../assets/img/grants/' + row[0] + '.gif'
   tn = path[2..-1]  if File.file?(path)
@@ -56,51 +56,43 @@ CSV.foreach(ARGV[0]) do |row|
       # inner div 'info'
       doc.div(class: 'info') do
         # institution
-        doc.p do
-          doc.b do
-            doc.text('Institution: ')
-          end
-          doc.text(row[2])
+        doc.b do
+          doc.text('Institution: ')
         end
+        doc.text(row[2])
+        doc.br
         # collection name
         # if there's a link, wrap the collection name in it
+
+        doc.b do
+          doc.text('Collection: ')
+        end
         if row[4]
-          doc.p do
-            doc.b do
-              doc.text('Collection: ')
-            end
-            doc.a(href: row[4]) do
-              doc.text(row[3])
-            end
-          end
-        else
-          doc.p do
-            doc.b do
-              doc.text('Collection: ')
-            end
+          doc.a(href: row[4]) do
             doc.text(row[3])
           end
+        else
+          doc.text(row[3])
         end
+        doc.br
         # description
-        doc.p do
-          doc.b do
-            doc.text('Description: ')
-          end
-          doc.text(row[5])
+        doc.b do
+          doc.text('Description: ')
         end
+        doc.text(row[5])
+        doc.br
       end
       # end 'info'
     end
     # end 'grant'
     # add a break tag for space
-    doc.br
   end
 
   # push the entry onto the array whose key is the grant year.
   if grant_years.key?(row[1])
-    grant_years[row[1]].push(@bob.to_html)
+    grant_years[row[1]].push(@bob.to_html.gsub('<br>', '<br/>'))
   else
-    grant_years[row[1]] = [@bob.to_html]
+    grant_years[row[1]] = [@bob.to_html.gsub('<br>', '<br/>')]
   end
 end
 
