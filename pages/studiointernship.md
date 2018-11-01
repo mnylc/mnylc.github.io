@@ -37,7 +37,7 @@ Yes. Program staff are available to meet and talk with you in person or over ema
 
 + Proposals can focus on a special interest or research question and can involve student or community groups as appropriate. METRO can also work with interns to pair them with an appropriate institution.  
 
-+ Projects must utilize the equipment and resources available in the Studio. Projects can embrace the Culture in Transit model of taking equipment to different locations to scan/record/migrate collections or conduct trainings. Interns will be trained on use and handling of all equipment. Interns can use the conference rooms and event space at METRO for meetings, gatherings, presentations, trainings, or events.
++ Projects must utilize the equipment and resources available in the [Studio.](https://metro.org/services/599studio) Projects can embrace the [Culture in Transit](http://www.mnylc.org/cit/?page_id=43) model of taking equipment to different locations to scan/record/migrate collections or conduct trainings. Interns will be trained on use and handling of all equipment. Interns can use the conference rooms and event space at METRO for meetings, gatherings, presentations, trainings, or events.
 
 + Interns are required to create at least one item for wider benefit to METRO members (e.g. toolkits, documentation, exhibits, workshops, etc.) in addition to regular project work. 
 
