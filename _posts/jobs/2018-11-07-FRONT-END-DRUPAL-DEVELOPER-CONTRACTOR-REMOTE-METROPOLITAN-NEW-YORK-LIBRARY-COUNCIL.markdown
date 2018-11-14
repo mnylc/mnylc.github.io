@@ -16,22 +16,37 @@ METRO is seeking freelance Drupal 7 / 8 front-end developers with significant th
 
 ### Qualifications   
 
-3+ years of Drupal Front-end Development
-Strong experience with cross browser/device responsive development
-Strong experience with HTML5, JavaScript/ES6, jQuery, CSS3, SASS, LESS, W3C
-Strong experience with Git based development workflows
-Deep understanding of Drupal 7 and custom theme development
-Deep understanding of Drupal 7 theme layer and preprocessing
-Good understanding of Drupal 7 module development and coding standards
-Some experience with Drupal 8 and custom theme development
-Some experience with Drupal 8 theme layer and preprocessing
- understanding of Drupal 8 module development
-Proficiency with TWIG template language
-Basic understanding of common accessibility requirements
-Good understanding of OoP PHP programming and composer based dependency management
-Good understanding of Docker / Vagrant / Ansible 
-Comfortable working remotely as part of team
-Comfortable conversing, committing, and delivering via Slack/GitHub/email
+* 3+ years of Drupal Front-end Development
+
+* Strong experience with cross browser/device responsive development
+
+* Strong experience with HTML5, JavaScript/ES6, jQuery, CSS3, SASS, LESS, W3C
+
+* Strong experience with Git based development workflows
+
+* Deep understanding of Drupal 7 and custom theme development
+
+* Deep understanding of Drupal 7 theme layer and preprocessing
+
+* Good understanding of Drupal 7 module development and coding standards
+
+* Some experience with Drupal 8 and custom theme development
+
+* Some experience with Drupal 8 theme layer and preprocessing
+
+*  understanding of Drupal 8 module development
+
+* Proficiency with TWIG template language
+
+* Basic understanding of common accessibility requirements
+
+* Good understanding of OoP PHP programming and composer based dependency management
+
+* Good understanding of Docker / Vagrant / Ansible 
+
+* Comfortable working remotely as part of team
+
+* Comfortable conversing, committing, and delivering via Slack/GitHub/email
 
 
 
