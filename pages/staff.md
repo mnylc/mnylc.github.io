@@ -17,7 +17,7 @@ Nate grew up in upstate New York and began his career in libraries at Brooklyn P
 Nate was named a "Mover and Shaker" by Library Journal in 2012. He earned his undergraduate degree in art from Skidmore College and an MLIS from Pratt Institute’s School of Information and Library Science. When he’s not busy library-ing, Nate enjoys hiking, camping, art, design, and tinkering alongside his wife and kids.
 
 ## Davis Erin Anderson
-**Community Engagement Manager**
+**Program Manager – Technology, Culture, and Libraries**
 
 deanderson@metro.org
 
