@@ -7,7 +7,7 @@
 	<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 	<div class="post-date">Posted on {{ post.date | date: "%B %-d, %Y" }}</div>
 	<div class="post-excerpt">
-	    {{ post.excerpt | xml_escape }}
+	    {{ post.excerpt | markdownify | strip_html  }}
 	</div>
     </li>
     {% endif %}
