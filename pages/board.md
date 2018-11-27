@@ -39,7 +39,27 @@ Frick Art Reference Library
 **Valeda Dent**  
 Dean, St. John’s University Libraries  
 St. John’s University  
-2018-2023 
+2018-2023  
+
+**Donna Gibson**  
+Director of Library Services  
+Memorial Sloan Kettering Library  
+2019-2024 
+
+**Nicholas Higgins**  
+Chief Librarian  
+Brooklyn Public Library  
+2019-2024 
+
+**Brian Kenney**  
+Library Director  
+White Plains Public Library  
+2019-2024 
+
+**Caryl Matute**  
+Interim Chief Library Officer  
+New York Public Library  
+2019-2024 
 
 **Leah Meisterlin**  
 Associate Professor  
