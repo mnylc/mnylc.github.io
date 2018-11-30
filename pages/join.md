@@ -72,10 +72,12 @@ Individual METRO membership gives information professionals in the metropolitan 
 
 ### Benefits of Individual Membership
 
-* Special rates to all METRO workshops
-* Free access to Lynda.com video tutorials
+* 20% off the Member rate for all METRO events
+* Member rates on all METRO Studio reservations
+* $100 credit towards METRO Studio reservations during your first membership year
+* $50 credit towards METRO Studio reservations each renewal year
 * Eligibility to receive professional development scholarships
-* Discounts on professional publications like Library Journal and Library Hotline
+* Access to METRO’s Title Referral service
 
 ### Membership Fees
 
