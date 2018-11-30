@@ -18,7 +18,7 @@ METRO distributes funds from the New York State Library to support acquisitions,
 
 Collection development grants are available to METRO's Hospital Library Service Program members. Grant amounts are based on funding available, established need, and current expenditure levels. 
 
-Applications are currently closed and will reopen December 2018. 
+<a href="https://www.surveymonkey.com/r/PVQTTKF" target="_blank">Applications</a> are currently open, and the deadline for this grants is Friday, December 21, 2018. 
   
 The NYS HLSP guidelines may be found [here]({{ '/services/nyshlsp' | prepend: site.baseurl }}).
   
