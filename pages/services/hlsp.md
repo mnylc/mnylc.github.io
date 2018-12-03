@@ -11,16 +11,18 @@ METRO services to hospital and medical center libraries include:
 - An annual conference session focused on current issues related to health and medical library issues
 - Free or discounted access to databases 
 
+The NYS HLSP guidelines may be found [here]({{ '/services/nyshlsp' | prepend: site.baseurl }}).
+
 ## Grant Opportunities
 METRO distributes funds from the New York State Library to support acquisitions, technology upgrades and interlibrary loan services for hospital libraries.
 
 ## Collection Development Grants
 
-Collection development grants are available to METRO's Hospital Library Service Program members. Grant amounts are based on funding available, established need, and current expenditure levels. 
+Collection development grants are available to METRO’s Hospital Library Service Program members. Grant amounts are based on funding
+available, established need, and current expenditure levels. The Collection Development grant may be used by HLSP member libraries to
+purchase either online or print materials that grow and support their local collections.  
 
 <a href="https://www.surveymonkey.com/r/PVQTTKF" target="_blank">Applications</a> are currently open, and the deadline for this grants is Friday, December 21, 2018. 
-  
-The NYS HLSP guidelines may be found [here]({{ '/services/nyshlsp' | prepend: site.baseurl }}).
   
 ## Technology Grants
 Each year, METRO receives funding to support technology needs in hospital libraries. Grants are available to members of METRO's Hospital Library Services Program. Applications are reviewed by an ad-hoc committee drawn from the HLSP Advisory Council. 
