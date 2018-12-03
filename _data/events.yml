@@ -1,19 +1,4 @@
 ---
-- time: 1543852800000
-  link: https://www.meetup.com/metro-digpres/events/256010198/
-  description:
-    html: "<p>In this meetup, you Stephen Klein of the CUNY Graduate Center will share
-      an overview of why the Graduate Center decided to invest in a Digital Asset
-      Management System (DAM) and how they plan to integrate it into their document
-      management ecology. Ashley Blewer of Artefactual will give a demo and answer
-      questions involving Archivematica; Ashley's colleague, Kelly Stewart, might
-      also be present via a remote digital hookup.</p> "
-  name:
-    html: DAM if you do and DAM if you don't!
-  start:
-    utc: '2018-12-03 11:00:00 -0500'
-    local: '2018-12-03 11:00:00 -0500'
-  url: https://www.meetup.com/metro-digpres/events/256010198/
 - name:
     text: Using & Creating Roleplays for Customer Service
     html: Using &amp; Creating Roleplays for Customer Service
