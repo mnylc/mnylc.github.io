@@ -21,9 +21,11 @@ Nate was named a "Mover and Shaker" by Library Journal in 2012. He earned his un
 
 deanderson@metro.org
 
-As Community Engagement Manager, Davis works to extend METRO's presence into the digital realm. She keeps METRO's friends, followers, and connections up to date on issues relevant to METRO by posting to social media channels and by writing and editing content for metro.org. She also works directly with METRO's Special Interest Groups, ensuring that METRO members have a forum for issues of importance to their careers.
+As Program Manager, Davis's work focuses on understanding the impact of technology on culture at large, translating these challenges into real solutions for library staff. She is project manager for NYC Digital Safety, an NYC-funded program that informs libraries of evergreen topics in data privacy and digital security.
 
-A graduate of Pratt Institute's School of Information and Library Science, Davis also holds two degrees in music performance. Prior to joining METRO, she worked for five years in the library at Boosey & Hawkes, a premiere classical music publishing company. An active member of SLA, Davis is a recipient of SLA’s Rising Star Award and is honored to have been included in Library Journal’s Movers & Shakers Class of 2012.
+Davis worked with Mozilla Foundation to review and update their web literacy curriculum, resulting in the launch of Mozilla's Core Curriculum for Web Literacy in March 2018.
+
+In addition to planning and emceeing METRO's symposia series, Davis has designed and facilitated a fair number of workshops on topics like data privacy & security, web mechanics, and (human) networking skills for library staff.
 
 ## Kyle Brown
 **General Manager**
@@ -137,8 +139,8 @@ Mark is one of our longest-serving staff members, having started at METRO in 200
 nreid@metro.org
 
 As the Hospital Library Services and Program Manager, Nathalie works with member organizations to provide new resources and services for users. She coordinates and administers METRO's HLSP and MISP grant programs. She also runs the HLSP Advisory Council, and plans workshops, trainings, and events for the program.
- 
-Prior to her work at METRO, Nathalie was the Data Services and Technology Librarian for the National Networks of the Library of Medicine where she maintained the digital content related to data literacy. She was an active participant in Library Carpentry where she was trained in GitHub, Tableau,  OpenRefine, Voyant, [Import.io](http://import.io), R, and Python. Nathalie also worked for the National Center for Child Traumatic Stress for six years where she managed and developed website content for [NCTSN.org](http://nctsn.org) as well as social media campaigns. She is an active member the Medical Library Association where she presents at annual conferences and publishes in organizational publications.
+
+Prior to her work at METRO, Nathalie was the Data Services and Technology Librarian for the National Networks of the Library of Medicine where she maintained the digital content related to data literacy. She was an active participant in Library Carpentry where she was trained in GitHub, Tableau, OpenRefine, Voyant, [Import.io](http://import.io), R, and Python. Nathalie also worked for the National Center for Child Traumatic Stress for six years where she managed and developed website content for [NCTSN.org](http://nctsn.org) as well as social media campaigns. She is an active member the Medical Library Association where she presents at annual conferences and publishes in organizational publications.
 
 ## Molly Schwartz
 **Studio Manager, Imaging and Recording Specialist**
