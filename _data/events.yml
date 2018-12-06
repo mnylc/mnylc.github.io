@@ -1,70 +1,5 @@
 ---
 - name:
-    text: Using & Creating Roleplays for Customer Service
-    html: Using &amp; Creating Roleplays for Customer Service
-  description:
-    text: |-
-      Do you face challenging behavior from library users? 
-      Would you like to change, develop, or enhance relationships with patrons, colleagues, or stakeholders?
-
-      This session explores the use of simple, inexpensive, and effective activities that build empathy, highlight obstacles to change, and help participants to find common ground for future action. We'll highlight the elements of scenario planning, collaboration, and storytelling that underpin those activities.
-
-      Participants will:
-
-
-      learn to use open-ended play activities including Library Island to elicit new ideas, highlight challenges, and develop relationships
-
-
-      create a tailored roleplay of their own
-
-
-      explore follow-up activities that turn play into practical outcomes
-
-
-      Participants will receive a follow-up packet with additional resources, hints, and tips. 
-      About our facilitator
-      Matt Finch (www.mechanicaldolphin.com) works with communities, companies, and institutions around the world to help them do useful and surprising new things. Matt creates workshops, activities, strategies, visions, and stories that engage stakeholders, build staff skills and confidence, and help organisations to change and innovate.
-
-      Matt’s work spans policy consultation and strategic direction, community outreach and content development, plus facilitation and training for staff at all levels. He has spoken in the British & Australian Parliaments and is a regular keynote speaker at national and state events.
-
-      ScholarshipsFull scholarships are available for this event. Please apply here.
-      Testimonials“Matt’s ‘Battle for Library Island’ roleplaying event opened many minds to the challenges and tensions of library service, allowing both brand-new personnel from the finance department, and old public service hands who thought they fully understood their work, to rapidly see things they do every day from a totally different perspective.”– Eli Neiburger, Deputy Director Ann Arbor District Library, Michigan, USA“Matt is a great facilitator, with his warmth and enthusiasm he draws participants to challenge their thinking, to espouse a different perspective and to really stretch their imagination in a safe environment. His “Battle for Library Island” challenged people’s minds to see the ‘other side’ to understand the challenges of higher level management, the tension of limited resources and budget constraints. It made people see the day to day things we do in a different light. ” 
-      – Javed Khan, Engagement Coordinator (Planning, Engagement, and Reform) – Metro South Health Board, Queensland, Australia
-      You can see feedback from attendees athttps://mechanicaldolphin.com/testimonials/and more on the concept at https://mechanicaldolphin.com/2017/04/16/library-island-the-professional-benefit-of-play/
-    html: |-
-      <DIV>Do you face challenging behavior from library users? </DIV>
-      <DIV>Would you like to change, develop, or enhance relationships with patrons, colleagues, or stakeholders?</DIV>
-      <DIV><BR></DIV>
-      <DIV>This session explores the use of simple, inexpensive, and effective activities that build empathy, highlight obstacles to change, and help participants to find common ground for future action. We'll highlight the elements of scenario planning, collaboration, and storytelling that underpin those activities.</DIV>
-      <DIV><BR></DIV>
-      <DIV>Participants will:</DIV>
-      <DIV>
-      <UL>
-      <LI>learn to use open-ended play activities including Library Island to elicit new ideas, highlight challenges, and develop relationships</LI>
-      </UL>
-      <UL>
-      <LI>create a tailored roleplay of their own</LI>
-      </UL>
-      <UL>
-      <LI>explore follow-up activities that turn play into practical outcomes</LI>
-      </UL>
-      </DIV>
-      <P>Participants will receive a follow-up packet with additional resources, hints, and tips.<BR> </P>
-      <P><SPAN><STRONG><BR>About our facilitator</STRONG><BR></SPAN></P>
-      <DIV>Matt Finch (<A HREF="http://www.mechanicaldolphin.com/" TARGET="_blank" REL="noopener nofollow noreferrer">www.mechanicaldolphin.com</A>) works with communities, companies, and institutions around the world to help them do useful and surprising new things. Matt creates workshops, activities, strategies, visions, and stories that engage stakeholders, build staff skills and confidence, and help organisations to change and innovate.</DIV>
-      <DIV><BR></DIV>
-      <DIV>Matt’s work spans policy consultation and strategic direction, community outreach and content development, plus facilitation and training for staff at all levels. He has spoken in the British &amp; Australian Parliaments and is a regular keynote speaker at national and state events.</DIV>
-
-      <P><SPAN><STRONG>Scholarships</STRONG><BR></SPAN>Full scholarships are available for this event. Please <A HREF="https://docs.google.com/forms/d/e/1FAIpQLSd2mVNWa6qL0SrweKWE5YGkE2mLw2Zkp0lcFn9fgp84UHXL6Q/viewform?usp=sf_link" TARGET="_blank" REL="noopener nofollow noreferrer">apply here</A>.</P>
-      <P><STRONG><BR>Testimonials</STRONG><BR><SPAN>“Matt’s ‘Battle for Library Island’ roleplaying event opened many minds to the challenges and tensions of library service, allowing both brand-new personnel from the finance department, and old public service hands who thought they fully understood their work, to rapidly see things they do every day from a totally different perspective.”</SPAN><BR><SPAN>– Eli Neiburger, Deputy Director Ann Arbor District Library, Michigan, USA</SPAN><BR><BR><SPAN>“Matt is a great facilitator, with his warmth and enthusiasm he draws participants to challenge their thinking, to espouse a different perspective and to really stretch their imagination in a safe environment. His “Battle for Library Island” challenged people’s minds to see the ‘other side’ to understand the challenges of higher level management, the tension of limited resources and budget constraints. It made people see the day to day things we do in a different light. ” </SPAN></P>
-      <DIV>– Javed Khan, Engagement Coordinator (Planning, Engagement, and Reform) – Metro South Health Board, Queensland, Australia</DIV>
-      <P><BR>You can see feedback from attendees at<BR><A HREF="https://mechanicaldolphin.com/testimonials/" TARGET="_blank" REL="noopener nofollow noreferrer">https://mechanicaldolphin.com/testimonials/<BR></A>and more on the concept at<BR><A HREF="https://mechanicaldolphin.com/2017/04/16/library-island-the-professional-benefit-of-play/" TARGET="_blank" REL="noopener nofollow noreferrer"> https://mechanicaldolphin.com/2017/04/16/library-island-the-professional-benefit-of-play/<SPAN CLASS="Apple-tab-span"></SPAN></A></P>
-  url: https://www.eventbrite.com/e/using-creating-roleplays-for-customer-service-tickets-51257449411
-  start:
-    timezone: America/New_York
-    local: '2018-12-06T13:00:00'
-    utc: '2018-12-06T18:00:00Z'
-- name:
     text: Tour the Interference Archive
     html: Tour the Interference Archive
   description:
@@ -84,7 +19,7 @@
       <P CLASS="MsoNormal"><SPAN></SPAN>The mission of Interference Archive is to explore the relationship between cultural production and social movements. This work manifests in an open stacks archival collection, publications, a study center, and public programs including exhibitions, workshops, talks, and screenings, all of which encourage critical and creative engagement with the rich history of social movements.</P>
       <P>The archive contains many kinds of objects that are created as part of social movements by the participants themselves: posters, flyers, publications, photographs, books, T-shirts and buttons, moving images, audio recordings, and other materials.</P>
       <P>Through our programming, we use this cultural ephemera to animate histories of people mobilizing for social transformation.  We consider the use of our collection to be a way of preserving and honoring histories and material culture that is often marginalized in mainstream institutions.</P>
-      <P><BR>This event is open to METRO members only. If you'd like to join METRO, please visit <A HREF="http://metro.org/join" TARGET="_blank" REL="noopener nofollow noreferrer">metro.org/join</A>.</P>
+      <P><BR>This event is open to METRO members only. If you'd like to join METRO, please visit <A HREF="http://metro.org/join" TARGET="_blank" REL="nofollow noopener noreferrer">metro.org/join</A>.</P>
       </DIV>
       <DIV><BR></DIV>
       <DIV>We are offering this event free of charge; participants are encouraged to bring along a small cash donation to help support the Interference Archive's work.</DIV>
@@ -118,12 +53,12 @@
       <DIV>
       <DIV><SPAN>Join us for this 3-hour training on Google's CS Frist platform to gain the confidence and ability to bring coding and Computer Science to your students. CS First is a free, easy-to-use computer science curriculum that is designed to engage a diverse student population in grades 4-8 (ages 9-14). During this 3-hour training, you will use modular videos to teach kids foundational computer science concepts and coding basics with Scratch, a block-based coding tool. Whether you have never felt like a "techy" or you would like to build upon prior skills, we encourage you to attend!</SPAN><BR></DIV>
       <DIV><SPAN><BR></SPAN></DIV>
-      <DIV><SPAN><STRONG>Please be sure to bring a laptop with you to this training</STRONG>. Contact <A HREF="mailto:tom.bijesse@mouse.org" TARGET="_blank" REL="noopener nofollow noreferrer">tom.bijesse@mouse.org</A> if you do not have a laptop you can use during the training.</SPAN></DIV>
+      <DIV><SPAN><STRONG>Please be sure to bring a laptop with you to this training</STRONG>. Contact <A HREF="mailto:tom.bijesse@mouse.org" TARGET="_blank" REL="nofollow noopener noreferrer">tom.bijesse@mouse.org</A> if you do not have a laptop you can use during the training.</SPAN></DIV>
       <DIV><BR></DIV>
       <DIV><BR></DIV>
       <DIV><BR></DIV>
       </DIV>
-      <P><STRONG>About our instructor:</STRONG><BR><SPAN><A HREF="https://www.dropbox.com/s/w59faqn18yokfa9/profile2018.jpg?dl=0" TARGET="_blank" REL="noopener nofollow noreferrer">Tom Bijesse</A> is the Senior Learning Design Manager at Mouse. He is a former NYCDOE Computer Science teacher with a passion for digital creation. Tom has led Computer Science Professional Development courses to over 500 teachers and librarians across three countries utilizing a variety of curricula. </SPAN><SPAN>As a member of the Mouse learning design team, Tom works directly with educators, administrators, and school districts to design a custom learning plan to suit their specific needs and goals.</SPAN><SPAN> </SPAN> <BR></P>
+      <P><STRONG>About our instructor:</STRONG><BR><SPAN><A HREF="https://www.dropbox.com/s/w59faqn18yokfa9/profile2018.jpg?dl=0" TARGET="_blank" REL="nofollow noopener noreferrer">Tom Bijesse</A> is the Senior Learning Design Manager at Mouse. He is a former NYCDOE Computer Science teacher with a passion for digital creation. Tom has led Computer Science Professional Development courses to over 500 teachers and librarians across three countries utilizing a variety of curricula. </SPAN><SPAN>As a member of the Mouse learning design team, Tom works directly with educators, administrators, and school districts to design a custom learning plan to suit their specific needs and goals.</SPAN><SPAN> </SPAN> <BR></P>
   url: https://www.eventbrite.com/e/google-cs-first-training-for-librarians-tickets-53108470866
   start:
     timezone: America/New_York
@@ -154,12 +89,12 @@
       <DIV>
       <DIV><SPAN>Join us for this 3-hour training on Google's CS Frist platform to gain the confidence and ability to bring coding and Computer Science to your students. CS First is a free, easy-to-use computer science curriculum that is designed to engage a diverse student population in grades 4-8 (ages 9-14). During this 3-hour training, you will use modular videos to teach kids foundational computer science concepts and coding basics with Scratch, a block-based coding tool. Whether you have never felt like a "techy" or you would like to build upon prior skills, we encourage you to attend!</SPAN><BR></DIV>
       <DIV><SPAN><BR></SPAN></DIV>
-      <DIV><SPAN><STRONG>Please be sure to bring a laptop with you to this training</STRONG>. Contact <A HREF="mailto:tom.bijesse@mouse.org" TARGET="_blank" REL="noopener nofollow noreferrer">tom.bijesse@mouse.org</A> if you do not have a laptop you can use during the training.</SPAN></DIV>
+      <DIV><SPAN><STRONG>Please be sure to bring a laptop with you to this training</STRONG>. Contact <A HREF="mailto:tom.bijesse@mouse.org" TARGET="_blank" REL="nofollow noopener noreferrer">tom.bijesse@mouse.org</A> if you do not have a laptop you can use during the training.</SPAN></DIV>
       <DIV><BR></DIV>
       <DIV><BR></DIV>
       <DIV><BR></DIV>
       </DIV>
-      <P><STRONG>About our instructor:</STRONG><BR><SPAN><A HREF="https://www.dropbox.com/s/w59faqn18yokfa9/profile2018.jpg?dl=0" TARGET="_blank" REL="noopener nofollow noreferrer">Tom Bijesse</A> is the Senior Learning Design Manager at Mouse. He is a former NYCDOE Computer Science teacher with a passion for digital creation. Tom has led Computer Science Professional Development courses to over 500 teachers and librarians across three countries utilizing a variety of curricula. </SPAN><SPAN>As a member of the Mouse learning design team, Tom works directly with educators, administrators, and school districts to design a custom learning plan to suit their specific needs and goals.</SPAN><SPAN> </SPAN> <BR></P>
+      <P><STRONG>About our instructor:</STRONG><BR><SPAN><A HREF="https://www.dropbox.com/s/w59faqn18yokfa9/profile2018.jpg?dl=0" TARGET="_blank" REL="nofollow noopener noreferrer">Tom Bijesse</A> is the Senior Learning Design Manager at Mouse. He is a former NYCDOE Computer Science teacher with a passion for digital creation. Tom has led Computer Science Professional Development courses to over 500 teachers and librarians across three countries utilizing a variety of curricula. </SPAN><SPAN>As a member of the Mouse learning design team, Tom works directly with educators, administrators, and school districts to design a custom learning plan to suit their specific needs and goals.</SPAN><SPAN> </SPAN> <BR></P>
   url: https://www.eventbrite.com/e/google-cs-first-training-for-librarians-tickets-53108796841
   start:
     timezone: America/New_York
