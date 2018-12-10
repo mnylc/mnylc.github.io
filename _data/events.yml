@@ -40,23 +40,6 @@
     local: '2018-12-14T09:30:00'
     utc: '2018-12-14T14:30:00Z'
 - name:
-    text: Exhibit Launch Party
-    html: Exhibit Launch Party
-  description:
-    text: |-
-      You're invited to celebrate the launch of Privacy in Public, an exhibit on data privacy & security hosted by New York City's three public libraries. 
-      The exhibit officially kicks off on December 15th. Let's gather together to celebrate this milestone from 5:00 p.m. until 8:00 p.m. on Tuesday, December 18th.
-      Read more about the exhibit at https://privacyinpublic.org/.  
-    html: |-
-      <P>You're invited to celebrate the launch of <EM>Privacy in Public, </EM>an exhibit on data privacy &amp; security hosted by New York City's three public libraries. </P>
-      <P>The exhibit officially kicks off on December 15th. Let's gather together to celebrate this milestone from 5:00 p.m. until 8:00 p.m. on Tuesday, December 18th.</P>
-      <P>Read more about the exhibit at https://privacyinpublic.org/.  </P>
-  url: https://www.eventbrite.com/e/exhibit-launch-party-tickets-53267482474
-  start:
-    timezone: America/New_York
-    local: '2018-12-18T17:00:00'
-    utc: '2018-12-18T22:00:00Z'
-- name:
     text: Google CS First Training for Librarians
     html: Google CS First Training for Librarians
   description:
