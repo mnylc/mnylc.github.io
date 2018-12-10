@@ -5,12 +5,14 @@ date:  2018-12-10
 tag: news
 excerpt: 'Following the recent publication of Reference Librarianship & Justice: History, Practice and Praxis, METRO Library Council, along with the book’s editors, is excited to announce a half day event that aims to continue the conversation.'
 ---
-Friday, March 8
-1:00 p.m. - 5:00 p.m.
+
+
+Friday, March 8  
+1:00 p.m. - 5:00 p.m.  
 Happy hour to follow
  
 ## Call for Proposals ##
-Following the recent publication of Reference Librarianship & Justice: History, Practice and Praxis, METRO Library Council, along with the book’s editors, is excited to announce a half day event that aims to continue the conversation. We hope to explore the history, application, and critical dimensions of reference services. 
+Following the recent publication of [*Reference Librarianship & Justice: History, Practice and Praxis*](http://libraryjuicepress.com/reference-justice.php), METRO Library Council, along with the book’s editors, is excited to announce a half day event that aims to continue the conversation. We hope to explore the history, application, and critical dimensions of reference services. 
  
 In the book and in this event, we aim to stake out and explore the terrain of a critical, social-justice oriented, purposeful, and engaged reference practice. How and when do reference and justice work overlap? 
  
