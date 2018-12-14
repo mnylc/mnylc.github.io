@@ -10,6 +10,8 @@ Dir.glob('../_posts/jobs/*.m*').each { |file| File.delete(file)}
 # Repopulate from the CSV
 CSV.foreach(ARGV[0], encoding: 'UTF-8') do |row|
   next if row[0] == 'Timestamp'
+  # skip blank row, which we assume of date stamp is blank.
+  next if row[0] == ''
 
   # build fields.
   row.map! do |x|
