@@ -13,16 +13,13 @@
       suburl: "/services/resource-sharing"
     - title: "Meetups"
       suburl: "/services/meetups"
-    - title: "599 Studio Services"
+    - title: "Studio Services"
       suburl: "/services/599studio"
     - title: "Repository Services"
       suburl: "/services/islandora"
     - title: "Metadata Services"
       suburl: "/services/metadata-services"
 
-- title: 'Projects'
-  url: '/projects'
-  
 - title: 'Events'
   url: '/events'
   
@@ -35,5 +32,6 @@
 - title: 'Join'
   url: '/join'
   
-- title: 'About'
-  url: '/about'
+- title: 'Location'
+  url: '/location'
+  
