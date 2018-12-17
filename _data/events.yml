@@ -146,3 +146,57 @@
     timezone: America/New_York
     local: '2019-02-08T09:00:00'
     utc: '2019-02-08T14:00:00Z'
+- name:
+    text: Introducing Open Data to Your Library
+    html: Introducing Open Data to Your Library
+  description:
+    text: "\nGet familiar with open data resources relevant to New Yorkers (and the
+      surrounding metropolitan area). This workshop will introduce you to several
+      local open data repositories and get you started with the tools and approaches
+      you need to introduce open data as a valuable resource to patrons and coworkers
+      alike!\n\nIn this session, you will learn how to:\n\n\n\nUse NYC Open Data and
+      other regional open data resources\n\n\nFind and evaluate datasets using data
+      dictionaries \n\n\nDownload data for analysis or visualization\n\n\nIntroduce
+      open data as a resource for patrons and coworkers \n\n\n\nWhat to Bring:\n\nA
+      laptop (or click here to borrow one of METRO's for $5.00)\n\n\nAbout our instructor:Julia
+      Marden is a data librarian and consultant, with a decade of experience working
+      at the intersection of civic technology, education, and community engagement.
+      With her firm, Tiny Panther Consulting, she brings data librarian services to
+      the public, teaching data literacy workshops and helping socially-minded organizations
+      collect and analyze data with the communities they serve. Julia commutes around
+      NYC on a glitter purple bicycle, on a quest to demystify data and upset the
+      balance of power in data-driven research.\n\n\n"
+    html: |2+
+
+      <P><SPAN>Get familiar with open data resources relevant to New Yorkers (and the surrounding metropolitan area). This workshop will introduce you to several local open data repositories and get you started with the tools and approaches you need to introduce open data as a valuable resource to patrons and coworkers alike!</SPAN></P>
+      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
+      <P><SPAN>In this session, you will learn how to:</SPAN></P>
+      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
+      <UL>
+      <LI>
+      <P><SPAN>Use NYC Open Data and other regional open data resources</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Find and evaluate datasets using data dictionaries </SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Download data for analysis or visualization</SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Introduce open data as a resource for patrons and coworkers </SPAN></P>
+      </LI>
+      </UL>
+
+      <P><SPAN><SPAN><STRONG>What to Bring:</STRONG><BR></SPAN></SPAN></P>
+      <UL>
+      <LI>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="nofollow noopener noreferrer">here</A> to borrow one of METRO's for $5.00)<BR><BR></LI>
+      </UL>
+
+      <P><SPAN><STRONG>About our instructor:</STRONG><BR></SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. With her firm, Tiny Panther Consulting, she brings data librarian services to the public, teaching data literacy workshops and helping socially-minded organizations collect and analyze data with the communities they serve. Julia commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</P>
+
+
+  url: https://www.eventbrite.com/e/introducing-open-data-to-your-library-tickets-53825537632
+  start:
+    timezone: America/New_York
+    local: '2019-02-13T10:00:00'
+    utc: '2019-02-13T15:00:00Z'
