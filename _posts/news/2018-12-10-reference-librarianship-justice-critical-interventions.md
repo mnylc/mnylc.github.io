@@ -24,8 +24,8 @@ This event will organize around three broad topics:
 * History of Reference Librarianship
 * Critical theoretical frameworks for reference librarianship (particularly theoretical frameworks drawn from activist and other modes of community practice)
  
-We seek proposals relating to the following, for inclusion either on a panel discussion or as a lightning presentation: 
-* Reference services for underserved communities 
+We seek proposals related directly to the above and/or following topics, for inclusion either on a panel discussion or as a lightning presentation:
+* reference services for underserved communities 
 * Reference services in nontraditional settings
 * Critical frameworks for reference services
 * The history of reference in the library
