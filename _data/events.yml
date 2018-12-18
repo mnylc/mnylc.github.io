@@ -1,4 +1,15 @@
 ---
+- time: 1547586000000
+  link: https://www.meetup.com/Librarians-for-College-Readiness/events/256952845/
+  description:
+    html: "<p>Discuss and problem solve solutions to the information literacy gaps
+      our students face.</p> "
+  name:
+    html: K-12 and College Librarian Meetup
+  start:
+    utc: '2019-01-15 16:00:00 -0500'
+    local: '2019-01-15 16:00:00 -0500'
+  url: https://www.meetup.com/Librarians-for-College-Readiness/events/256952845/
 - name:
     text: Teaching Media Literacy to K-12 Students
     html: Teaching Media Literacy to K-12 Students
