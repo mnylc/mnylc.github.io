@@ -77,18 +77,9 @@ Ex-Officio
 Executive Director  
 Metropolitan New York Library Council (METRO)
 
-## 2018 Board Meeting Dates
-
-* Wednesday, February 28, 2018
-* Monday, April 30, 2018
-* Thursday, July 19, 2018
-* Monday, September 17, 2018 (virtual)
-* Monday, November 19, 2018
-* **Monday, December 17, 2018** (virtual)
-
 ## 2019 Board Meeting Dates
 
-* Thursday, February 28, 2019
+* **Thursday, February 28, 2019**
 * Thursday, May 2, 2019
 * Monday, July 29, 2019
 * Tuesday, September 24, 2019 (virtual)
