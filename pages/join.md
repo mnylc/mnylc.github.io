@@ -38,7 +38,6 @@ This membership category is open to any businesses that do not qualify as non-pr
 | Event discounts | Y | Y | Y | Y |
 | Rental discounts | Y | Y | Y | Y |
 | Meetup Groups | Y | Y | Y | Y |
-| lynda.com | Y | Y | Y | Y |
 | Open Studio Hours | Y | Y | Y | Y |
 | Audio Booth rental discount | Y | Y | Y | Y |
 | Digitization Grants | Y | Y | Y* |  |

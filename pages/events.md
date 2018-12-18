@@ -13,8 +13,6 @@ Thank you for your interest in METRO's upcoming events! If you'd like to help sh
 * [pitch us on a workshop you'd like to lead](https://docs.google.com/forms/d/e/1FAIpQLSeJyRzSq5wQV_ZwOQ_vnVZ69g2qcg5cqW9-6cvwwqF2FGvvyA/viewform?usp=sf_link)
 * [suggest a workshop you'd like us to produce](https://docs.google.com/forms/d/e/1FAIpQLScfvtiiCMu1eFiYFrVRdU7TFIYMl1JbGSvBm9djLUYh8VGsaQ/viewform?usp=sf_link)
 
-For virtual, on-demand learning, take a look at tutorials offered by [lynda.com](http://lynda.com/) and request free access [here.](https://docs.google.com/forms/d/e/1FAIpQLSex4Y3mWpBdnc_24ULgISj6Jr8Ww_URqFNI82u3Q6aQB5xyeg/viewform?usp=sf_link)
-
 We are committed to providing a welcoming and productive environment for all. Please check out our [Code of Conduct]({{ "/code-of-conduct/" | prepend: site.baseurl }}) for more information. Please reach out to us with your events-related questions; our email address is [events@metro.org](mailto:events@metro.org), and our phone number is (212) 228-2320.
 
 <hr />
