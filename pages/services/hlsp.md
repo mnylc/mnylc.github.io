@@ -54,6 +54,7 @@ The MISP Grant application is now closed.
 - Lenox Hill Hospital, Leopold Health Sciences Library
 - Lincoln Medical Center, Health Sciences Library
 - Long Island Jewish Medical Center, Health Science Library
+- Long Island Jewish - Forest Hills
 - Lutheran Medical Center, Medical Library
 - Maimonides Medical Center, Degenshein Memorial Library
 - Memorial Sloan-Kettering Cancer Center/Nathan Cummings Center, Medical Library
@@ -72,7 +73,6 @@ The MISP Grant application is now closed.
 - New York Presbyterian Hospital/Weill Cornell Medical Center
 - New York University Medical Center, Ehrman Medical Library
 - North General Hospital
-- North Shore University Hospital at Forest Hills, Health Sciences Library
 - Northern Westchester Hospital Center, Health Sciences Library
 - Our Lady of Mercy
 - Peninsula Hospital Center, Medical Library
