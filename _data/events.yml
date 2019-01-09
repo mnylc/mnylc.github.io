@@ -11,59 +11,6 @@
     local: '2019-01-15 16:00:00 -0500'
   url: https://www.meetup.com/Librarians-for-College-Readiness/events/256952845/
 - name:
-    text: Teaching Media Literacy to K-12 Students
-    html: Teaching Media Literacy to K-12 Students
-  description:
-    text: "The way we use media is not just something to be concerned about in school,
-      but has real world applications and life-long impact. Our workshop will strive
-      to help understand the importance of media literacy, and the librarian's role
-      in educating their students. We will focus on the prevalence of fake news and
-      its impact on learning, as well as in life. We won't just look at fake news,
-      but how the media landscape is changing, and how to best prepare our students
-      to use information effectively. \nAlia Methven and Cherie Yanek from Avenues:
-      The World School will explore this timely topic in an interactive workshop.
-      Attendees will leave with a deeper understanding of fake news and programming
-      ideas to apply to school and public environments.\n\nWhat to bring:\n\n\nA laptop\n\n\n\nOr
-      click here to borrow one of METRO's PC laptops for $5.00\n\n\n\n\nAbout our
-      instructors:\nCherie Yanek is an Upper Division Librarian at Avenues: The World
-      School, where she teaches research skills and media literacy to grades 5-12,
-      and promotes reading and love of literature as much as she can. She has worked
-      in public, nonprofit, corporate, and academic libraries. She has an MLS from
-      Queens College and an MFA from Naropa University. \n\nAlia Methven is the Director
-      of Library Media Services at Avenues: The World School. She is a NYS certified
-      teacher and library media specialist, and has worked in both public and private
-      schools for over 17 years. Providing a dynamic and collaborative school library
-      program that supports 21st century learning and literacy has never been more
-      timely nor important given the increasingly digital and information-driven world
-      in which we live. \n\n"
-    html: |-
-      <P><SPAN>The way we use media is not just something to be concerned about in school, but has real world applications and life-long impact. Our workshop will strive to help understand the importance of media literacy, and the librarian's role in educating their students. We will focus on the prevalence of fake news and its impact on learning, as well as in life. We won't just look at fake news, but how the media landscape is changing, and how to best prepare our students to use information effectively. </SPAN><BR></P>
-      <P><SPAN><SPAN><BR></SPAN></SPAN>Alia Methven and Cherie Yanek from Avenues: The World School will explore this timely topic in an interactive workshop. Attendees will leave with a deeper understanding of fake news and programming ideas to apply to school and public environments.</P>
-
-      <P><STRONG>What to bring:</STRONG></P>
-      <UL>
-      <LI>
-      <P><SPAN>A laptop</SPAN></P>
-      </LI>
-      <UL>
-      <LI>
-      <P><SPAN>Or click </SPAN><A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>here</SPAN></A><SPAN> to borrow one of METRO's PC laptops for $5.00</SPAN></P>
-      </LI>
-      </UL>
-      </UL>
-
-      <P><STRONG>About our instructors:</STRONG></P>
-      <P><STRONG></STRONG>Cherie Yanek is an Upper Division Librarian at Avenues: The World School, where she teaches research skills and media literacy to grades 5-12, and promotes reading and love of literature as much as she can. She has worked in public, nonprofit, corporate, and academic libraries. She has an MLS from Queens College and an MFA from Naropa University. </P>
-
-      <P>Alia Methven is the Director of Library Media Services at Avenues: The World School. She is a NYS certified teacher and library media specialist, and has worked in both public and private schools for over 17 years. Providing a dynamic and collaborative school library program that supports 21st century learning and literacy has never been more timely nor important given the increasingly digital and information-driven world in which we live. </P>
-      <P><SPAN><BR></SPAN></P>
-      <P><SPAN><BR></SPAN></P>
-  url: https://www.eventbrite.com/e/teaching-media-literacy-to-k-12-students-tickets-53594355159
-  start:
-    timezone: America/New_York
-    local: '2019-01-16T10:00:00'
-    utc: '2019-01-16T15:00:00Z'
-- name:
     text: Google CS First Training for Librarians
     html: Google CS First Training for Librarians
   description:
