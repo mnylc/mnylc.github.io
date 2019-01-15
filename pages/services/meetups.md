@@ -21,7 +21,7 @@ Stephen Klein, Organizer
 Hosted by Metropolitan New York Library Council, the Web Archiving Interest Group is an inclusive group designed to facilitate growth in the communities forming around initiatives to preserve websites and other online resources. We seek to support professionals in libraries, archives and museums engaged in web archiving, as well as students and others new to the field. With meetings and presentations held throughout the year we will provide a venue for professional development and a forum for open discussion of common interest.
 
 ## Economic & Business Librarians ##
-[https://www.meetup.com/Economics-Business-Librarians-Group/](https://www.meetup.com/metro-web-archiving/)
+[https://www.meetup.com/Economics-Business-Librarians-Group/](https://www.meetup.com/Economics-Business-Librarians-Group/)
 
 Lucy Heckman and Dan Hicks, Organizers
 
