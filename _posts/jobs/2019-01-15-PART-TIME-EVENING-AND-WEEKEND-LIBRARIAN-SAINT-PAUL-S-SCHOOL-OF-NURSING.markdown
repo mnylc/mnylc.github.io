@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Part-time Learning Resource Center Technician - Saint Paul's School of Nursing"
+title:  "Part-time Evening and Weekend Librarian - Saint Paul's School of Nursing"
 date:   2019-01-15
 excerpt: "Saint Paul's School of Nursing, an Education Affiliates school, is seeking a part-time Library Resource Center (LRC) Technician to work up to 28 hours per week between the hours of 4PM-10PM Monday-Friday and 1-5PM on Saturdays. Schedules may change depending on the needs of the LRC. The LRC Technician assists..."
 tag: job
