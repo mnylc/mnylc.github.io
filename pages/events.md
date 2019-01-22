@@ -13,6 +13,8 @@ Thank you for your interest in METRO's upcoming events! If you'd like to help sh
 * [pitch us on a workshop you'd like to lead](https://docs.google.com/forms/d/e/1FAIpQLSeJyRzSq5wQV_ZwOQ_vnVZ69g2qcg5cqW9-6cvwwqF2FGvvyA/viewform?usp=sf_link)
 * [suggest a workshop you'd like us to produce](https://docs.google.com/forms/d/e/1FAIpQLScfvtiiCMu1eFiYFrVRdU7TFIYMl1JbGSvBm9djLUYh8VGsaQ/viewform?usp=sf_link)
 
+METRO also offers a limited number of scholarships to members who wish to participate in professional development events, networking opportunities, and learning programs (whether sponsored by METRO or not). All current individual members and institutional member employees are eligible to [apply](https://docs.google.com/forms/d/e/1FAIpQLSdxJ67HfHNj0S233xfryLd396uYa3z02qxLSGim8uCgkSYQMA/viewform).
+
 We are committed to providing a welcoming and productive environment for all. Please check out our [Code of Conduct]({{ "/code-of-conduct/" | prepend: site.baseurl }}) for more information. Please reach out to us with your events-related questions; our email address is [events@metro.org](mailto:events@metro.org), and our phone number is (212) 228-2320.
 
 <hr />
