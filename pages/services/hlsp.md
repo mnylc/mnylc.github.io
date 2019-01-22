@@ -27,7 +27,7 @@ Applications are currently closed and will reopen December 2019.
 ## Technology Grants
 Each year, METRO receives funding to support technology needs in hospital libraries. Grants are available to members of METRO's Hospital Library Services Program. Applications are reviewed by an ad-hoc committee drawn from the HLSP Advisory Council. 
 
-The next application cycle opens Winter 2018. 
+[Applications](https://www.surveymonkey.com/r/SVFTNW2) are currently open. The deadline for this grant is Friday, February 8, 2019.  
 
 ## Medical Information Service Program Grants
 
