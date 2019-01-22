@@ -160,3 +160,54 @@
     timezone: America/New_York
     local: '2019-02-13T10:00:00'
     utc: '2019-02-13T15:00:00Z'
+- name:
+    text: Who saves our stories for the future? A Preserve This Podcast Launch Party!
+    html: Who saves our stories for the future? A Preserve This Podcast Launch Party!
+  description:
+    text: "Who saves our stories for the future? A Preserve This Podcast Launch Party!\nCome
+      celebrate the launch of the Preserve This Podcast podcast! Preserve This Podcast
+      is a campaign to preserve podcasts against the threat of digital decay. Episode
+      1 of the podcast drops on March 21. In celebration, the Metropolitan New York
+      Library Council is hosting a party. There will be food, drinks, zines, dead
+      disc commercials, a disco ball, and a panel discussion about the stories of
+      our future -- and what we need to do to preserve them.\n\nAttendance is free
+      and open to the public. There is limited space, so please RSVP.\n\nSchedule
+      of events:\n6:00 Doors open\n7:00 Panel: Who saves our stories for the future?\n\n\nZaheer
+      Ali Oral historian, Co-host and Co-producer, Flatbush + Main \n\n\nNatalie Milbrodt
+      Director, Queens Memory \n\n\nMark Pagán Host and Producer, Other Men Need Help
+      \n\n\nSam Riddell Principal Host and Producer, Inner Hoe Uprising \n\n\nMolly
+      SchwartzModerating Host and Producer, Preserve This Podcast\n\n\n7:30 PARTY!\n9:00
+      Go home and ponder the future"
+    html: |-
+      <P><STRONG>Who saves our stories for the future? A Preserve This Podcast Launch Party!<BR><BR></STRONG></P>
+      <P>Come celebrate the launch of the Preserve This Podcast podcast! <A HREF="http://preservethispodcast.org/" TARGET="_blank" REL="nofollow noopener noreferrer">Preserve This Podcast</A> is a campaign to preserve podcasts against the threat of digital decay. Episode 1 of the podcast drops on March 21. In celebration, the Metropolitan New York Library Council is hosting a party. There will be food, drinks, zines, dead disc commercials, a disco ball, and a panel discussion about the stories of our future -- and what we need to do to preserve them.</P>
+      <P CLASS="MsoNormal"><BR></P>
+      <P><SPAN>Attendance is free and open to the public. There is limited space, so please RSVP.</SPAN></P>
+      <P CLASS="MsoNormal"><BR></P>
+      <P><STRONG>Schedule of events:</STRONG></P>
+      <P><SPAN>6:00 Doors open</SPAN></P>
+      <P><SPAN>7:00 Panel: Who saves our stories for the future?</SPAN></P>
+      <UL>
+      <LI>
+      <P><SPAN>Zaheer Ali</SPAN><SPAN> <BR>Oral historian, Co-host and Co-producer, </SPAN><A HREF="http://www.brooklynhistory.org/blog/category/flatbush-main/" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>Flatbush + Main</SPAN></A><SPAN> </SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Natalie Milbrodt</SPAN><SPAN> <BR>Director, </SPAN><A HREF="http://queensmemory.org/" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>Queens Memory </SPAN></A></P>
+      </LI>
+      <LI>
+      <P><SPAN>Mark Pagán</SPAN><SPAN> <BR>Host and Producer, </SPAN><A HREF="https://othermenneedhelp.com/" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>Other Men Need Help</SPAN></A><SPAN> </SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Sam Riddell</SPAN><SPAN> <BR>Principal Host and Producer, </SPAN><A HREF="https://innerhoeuprising.com/" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>Inner Hoe Uprising</SPAN></A><SPAN> </SPAN></P>
+      </LI>
+      <LI>
+      <P><SPAN>Molly Schwartz<BR>Moderating</SPAN><SPAN> Host and Producer, </SPAN><A HREF="http://preservethispodcast.org/" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>Preserve This Podcast</SPAN></A></P>
+      </LI>
+      </UL>
+      <P><SPAN>7:30 PARTY!</SPAN></P>
+      <P><SPAN>9:00 Go home and ponder the future</SPAN></P>
+  url: https://www.eventbrite.com/e/who-saves-our-stories-for-the-future-a-preserve-this-podcast-launch-party-tickets-55237924118
+  start:
+    timezone: America/New_York
+    local: '2019-03-21T18:00:00'
+    utc: '2019-03-21T22:00:00Z'
