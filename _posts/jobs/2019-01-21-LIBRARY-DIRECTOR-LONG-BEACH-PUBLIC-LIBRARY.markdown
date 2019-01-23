@@ -37,7 +37,7 @@ Long Beach, NY, USA  (Nassau County)
 
 ### To Apply   
 
- This will be a provisional appointment that will require being reachable on a Long Beach Civil Service examination which has not been scheduled, as yet.
+ This will be a provisional appointment that will require being reachable on a Long Beach Civil Service examination: [https://www.longbeachny.gov/index.asp?Type=B_JOB&SEC=%7B6D75EE02-6499-4C77-AD9A-9D2C711EBE14%7D](https://www.longbeachny.gov/index.asp?Type=B_JOB&SEC=%7B6D75EE02-6499-4C77-AD9A-9D2C711EBE14%7D) .
   Submit Resume and Cover letter to:
    msimon@longbeachlibrary.org
 
