@@ -317,3 +317,163 @@
     timezone: America/New_York
     local: '2019-03-22T11:00:00'
     utc: '2019-03-22T15:00:00Z'
+- name:
+    text: Introduction to ArchivesSpace
+    html: Introduction to ArchivesSpace
+  description:
+    text: |+
+      ArchivesSpace is an open source application for managing and providing web access to archives, manuscripts, and digital objects. Upon completing this full-day workshop, attendees will have been introduced to using ArchivesSpace to:
+
+
+      Create Accession records
+
+
+      Create Resource records
+
+
+      Create Digital Object records
+
+
+      Create and manage Agent and Subject records, and link them to Accession, Resource, and Digital Object records
+
+
+      Record and manage physical locations within a repository
+
+
+      Produce description output files in standardized data structures such as EAD and MARCXML
+
+
+      Import legacy data
+
+
+
+      Agenda:
+
+
+      Application overview
+
+
+      Getting started: repository and user records
+
+
+      Accession records
+
+
+      Resource Records
+
+
+      Break
+
+
+      Container management and locations
+
+
+      Digital Object records, with an emphasis on File Versions
+
+
+      Authority records -- agents, subjects, and classifications
+
+
+      Imports and exports
+
+
+      Participating in the ArchivesSpace community
+
+
+      Open discussion and extra practice time
+
+
+
+      What to bring:
+
+
+      A laptop 
+
+
+
+      Or click here to borrow one of METRO's PC laptops for $5.00
+
+
+
+
+    html: |-
+      <P><SPAN>ArchivesSpace is an open source application for managing and providing web access to archives, manuscripts, and digital objects. Upon completing this full-day workshop, attendees will have been introduced to using ArchivesSpace to:</SPAN><BR></P>
+      <UL>
+      <LI>
+      <P>Create Accession records</P>
+      </LI>
+      <LI>
+      <P>Create Resource records</P>
+      </LI>
+      <LI>
+      <P>Create Digital Object records</P>
+      </LI>
+      <LI>
+      <P>Create and manage Agent and Subject records, and link them to Accession, Resource, and Digital Object records</P>
+      </LI>
+      <LI>
+      <P>Record and manage physical locations within a repository</P>
+      </LI>
+      <LI>
+      <P>Produce description output files in standardized data structures such as EAD and MARCXML</P>
+      </LI>
+      <LI>
+      <P>Import legacy data</P>
+      </LI>
+      </UL>
+
+      <P><STRONG>Agenda:</STRONG></P>
+      <UL>
+      <LI>
+      <P>Application overview</P>
+      </LI>
+      <LI>
+      <P>Getting started: repository and user records</P>
+      </LI>
+      <LI>
+      <P>Accession records</P>
+      </LI>
+      <LI>
+      <P>Resource Records</P>
+      </LI>
+      <LI>
+      <P>Break</P>
+      </LI>
+      <LI>
+      <P>Container management and locations</P>
+      </LI>
+      <LI>
+      <P>Digital Object records, with an emphasis on File Versions</P>
+      </LI>
+      <LI>
+      <P>Authority records -- agents, subjects, and classifications</P>
+      </LI>
+      <LI>
+      <P>Imports and exports</P>
+      </LI>
+      <LI>
+      <P>Participating in the ArchivesSpace community</P>
+      </LI>
+      <LI>
+      <P>Open discussion and extra practice time</P>
+      </LI>
+      </UL>
+
+      <P><STRONG>What to bring:</STRONG></P>
+      <UL>
+      <LI>
+      <P><SPAN>A laptop </SPAN></P>
+      </LI>
+      <UL>
+      <LI>
+      <P><SPAN>Or click </SPAN><A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>here</SPAN></A><SPAN> to borrow one of METRO's PC laptops for $5.00</SPAN></P>
+      </LI>
+      </UL>
+      </UL>
+
+      <P><SPAN><BR></SPAN></P>
+  url: https://www.eventbrite.com/e/introduction-to-archivesspace-tickets-55729897624
+  start:
+    timezone: America/New_York
+    local: '2019-05-16T09:00:00'
+    utc: '2019-05-16T13:00:00Z'
