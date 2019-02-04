@@ -20,4 +20,4 @@ Finding Aid with links to the digitized materials:
 Link to the collection at Internet Archive (archive.org):
 [https://archive.org/details/rachelwischnitze00unsead](https://archive.org/details/rachelwischnitze00unsead)
 
-For more information on METRO Digitization Grant Funding opportunities, see [https://metro.org/services/digital-services]({{ '/services/digital-services' | prepend: site.baseurl }}).
+For more information on METRO Digitization Grant Funding opportunities, see [https://metro.org/services/digital-services]({{ '/services/digitization-grants' | prepend: site.baseurl }}).
