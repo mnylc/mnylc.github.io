@@ -2,13 +2,21 @@
 title: The METRO Studio Internship
 permalink: /studio-internship/
 ---
+METRO is pleased to announce the recipients of the METRO Studio Internship:
+
++ Brooklyn Historical Society
++ Syreeta Gates
++ Yvette Ramirez
+
+[Read more](https://medium.com/the-bytegeist-blog/announcing-our-studio-interns-33bb543c311f) about these three great projects at *The Bytegeist Blog*.
+
+## Program Details
+
 The METRO Studio Internship is an opportunity for graduate students, recent graduates, and individuals in career transition to engage in high-impact projects using the equipment and space available in the METRO Studio. Interns will foster collaboration, discover and apply innovative techniques, and gain valuable professional work experience. Institutions gain the benefit of a dedicated intern funded by METRO, working on a focused project to advance institutional capacities.
 
 The METRO Studio internship will involve at least 120 hours of work over the course of a semester on a project within libraries, archives, or museums. Projects might focus on digital archiving, born-digital collections, digital humanities, or other relevant areas. Each internship will focus on providing hands-on training, project scoping and management, and exposure to a typical work environment. The program will offer a level of autonomy for each intern that will further develop skills they will need when transitioning from entry-level positions into mid-career or managerial positions. 
 
 Interns will utilize the [METRO Studio](https://metro.org/services/599studio) to expand access to collections, innovate organizational thinking, and broaden engagement with cultural heritage materials and data. The Studio is an open community space that offers tools and resources focused on the digitization, description, and presentation of cultural heritage materials. It features a recording studio, an audiovisual media transfer station, flatbed scanners, media migration and recovery stations, and mobile digitization equipment. It also boasts an event space with a square footage of 1,150 feet, two additional meetings rooms, and a newly-renovated shared kitchen and common space. Interns will have full access to the METRO office and Studio space regardless of institutional placement or fieldwork.
-
-## Program Details
 
 ### Who is eligible to apply for an internship?
 The program allows individuals or supervisors/institutions to propose a project. Individuals must be currently enrolled graduate students, recent graduates, or individuals in career transition. Proposals can focus on a special interest or research question and can involve student or community groups as appropriate. METRO is available to assist individuals in matching with an institution if necessary. Institutions must be METRO members and may appoint their own intern or be matched with an intern by METRO. If you are unsure if your status is relevant, contact Margo Padilla at [mpadilla@metro.org.](mailto:mpadilla@metro.org)
@@ -55,6 +63,6 @@ Yes. Program staff are available to meet and talk with you in person or over ema
 
 ## Application Information
 
-Apply online: <https://goo.gl/forms/H0eugSChK8ad7u4A2>  
-Applications due: Friday, December 14, 2018.  
-Questions? Email Margo Padilla at [mpadilla@metro.org](mailto:mpadilla@metro.org)  
+The application period has closed.
+
+Questions about the program? Email Margo Padilla at [mpadilla@metro.org](mailto:mpadilla@metro.org)  
