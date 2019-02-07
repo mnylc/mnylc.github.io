@@ -24,7 +24,7 @@ grant_years = {}
 # rubocop:disable BlockLength
 CSV.foreach(ARGV[0]) do |row|
   # skip the header, or skip if it's a current project
-  next if row[0].eql?('pid') or row[1].eql?('2017')
+  next if row[0].eql?('pid')
 
   # check for existence of thumbnail file and save path if it does
   path = '../assets/img/grants/' + row[0] + '.gif'
