@@ -430,6 +430,18 @@
     utc: '2019-04-15 14:00:00 -0400'
     local: '2019-04-15 14:00:00 -0400'
   url: https://www.meetup.com/metro-digpres/events/258467015/
+- time: 1555956000000
+  link: https://www.meetup.com/metro-digpres/events/258760973/
+  description:
+    html: '<p>Rhizome''s Anna Perricci will share with us the ease of using Webrecorder
+      for WARC creation and Rhizome''s other web archiving tools: <a href="http://rhizome.org/software/"
+      class="linkified">http://rhizome.org/software/</a></p> '
+  name:
+    html: 'Webrecorder: web archiving for all!'
+  start:
+    utc: '2019-04-22 14:00:00 -0400'
+    local: '2019-04-22 14:00:00 -0400'
+  url: https://www.meetup.com/metro-digpres/events/258760973/
 - name:
     text: Introduction to ArchivesSpace
     html: Introduction to ArchivesSpace
