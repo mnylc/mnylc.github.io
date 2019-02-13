@@ -1,58 +1,4 @@
 ---
-- name:
-    text: Introducing Open Data to Your Library
-    html: Introducing Open Data to Your Library
-  description:
-    text: "\nGet familiar with open data resources relevant to New Yorkers (and the
-      surrounding metropolitan area). This workshop will introduce you to several
-      local open data repositories and get you started with the tools and approaches
-      you need to introduce open data as a valuable resource to patrons and coworkers
-      alike!\n\nIn this session, you will learn how to:\n\n\n\nUse NYC Open Data and
-      other regional open data resources\n\n\nFind and evaluate datasets using data
-      dictionaries \n\n\nDownload data for analysis or visualization\n\n\nIntroduce
-      open data as a resource for patrons and coworkers \n\n\n\nWhat to Bring:\n\nA
-      laptop (or click here to borrow one of METRO's for $5.00)\n\n\nAbout our instructor:Julia
-      Marden is a data librarian and consultant, with a decade of experience working
-      at the intersection of civic technology, education, and community engagement.
-      With her firm, Tiny Panther Consulting, she brings data librarian services to
-      the public, teaching data literacy workshops and helping socially-minded organizations
-      collect and analyze data with the communities they serve. Julia commutes around
-      NYC on a glitter purple bicycle, on a quest to demystify data and upset the
-      balance of power in data-driven research.\n\n\n"
-    html: |2+
-
-      <P><SPAN>Get familiar with open data resources relevant to New Yorkers (and the surrounding metropolitan area). This workshop will introduce you to several local open data repositories and get you started with the tools and approaches you need to introduce open data as a valuable resource to patrons and coworkers alike!</SPAN></P>
-      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
-      <P><SPAN>In this session, you will learn how to:</SPAN></P>
-      <P><SPAN><SPAN><BR></SPAN></SPAN></P>
-      <UL>
-      <LI>
-      <P><SPAN>Use NYC Open Data and other regional open data resources</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Find and evaluate datasets using data dictionaries </SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Download data for analysis or visualization</SPAN></P>
-      </LI>
-      <LI>
-      <P><SPAN>Introduce open data as a resource for patrons and coworkers </SPAN></P>
-      </LI>
-      </UL>
-
-      <P><SPAN><SPAN><STRONG>What to Bring:</STRONG><BR></SPAN></SPAN></P>
-      <UL>
-      <LI>A laptop (or click <A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="nofollow noopener noreferrer">here</A> to borrow one of METRO's for $5.00)<BR><BR></LI>
-      </UL>
-
-      <P><SPAN><STRONG>About our instructor:</STRONG><BR></SPAN>Julia Marden is a data librarian and consultant, with a decade of experience working at the intersection of civic technology, education, and community engagement. With her firm, Tiny Panther Consulting, she brings data librarian services to the public, teaching data literacy workshops and helping socially-minded organizations collect and analyze data with the communities they serve. Julia commutes around NYC on a glitter purple bicycle, on a quest to demystify data and upset the balance of power in data-driven research.</P>
-
-
-  url: https://www.eventbrite.com/e/introducing-open-data-to-your-library-tickets-53825537632
-  start:
-    timezone: America/New_York
-    local: '2019-02-13T10:00:00'
-    utc: '2019-02-13T15:00:00Z'
 - time: 1550606400000
   link: https://www.meetup.com/InstructionReference/events/258327101/
   description:
@@ -189,9 +135,22 @@
       5:30 PMReception
       There is no fee to attend this event, but registration is required. We look forward to seeing you!
 
-      A symposium organized by The New School, Finnish Cultural Institute in New York & Metropolitan New York Library Council
-      Hosted by Nate Hill & Shannon Mattern 
-      Live-documentation by Neta Bomani & Cybernetics Library
+      About our speakers:
+      Salome Asega is an artist and researcher whose practice celebrates dissensus and multivocality. She is currently a Technology Fellow in the Ford Foundation's Creativity and Free Expression program and Director of Partnerships at POWRPLNT, a digital art collaboratory in Bushwick. Salome has participated in residencies and fellowships with Eyebeam, New Museum, The Laundromat Project, and Recess. She has exhibited and given presentations at the Shanghai Biennale, Performa, EYEO, and the Brooklyn Museum. Salome received her MFA from Parsons at The New School in Design and Technology where she also teaches.
+      neta bomani is a black, first generation american born, multicultural east african person of tanzanian-malawian lineage. neta participates in an anti-art practice which is inclusionary and invites participation from black and brown communities. neta seeks to reveal rather than conceal social precarity and inequality through the use of tangible, accessible media such as computational objects and abolitionist gestures of resistance like organizing and making archives, writings, prints, zines, maps and circuits.
+      Greta Byrum reimagines the way we design, build, and govern communications systems. As Co-Director of the Digital Equity Laboratory at The New School, she builds digital justice through applied research, community projects, and policy strategy. Previously Greta built the Resilient Communities program at New America, where she developed and led Resilient Networks NYC, an initiative bringing training and for storm-hardened mesh WiFi to five neighborhoods in NYC's flood zones. Her poems have appeared in the Colorado Review, the Denver Quarterly, and various open FM frequencies.
+      Ilari Laamanen is a Project Manager at the Finnish Cultural Institute in New York and a co-founder of the transatlantic fellowship program MOBIUS. With a background in curatorial and media studies, he focuses on interdisciplinary projects, commissioning new works, and collaborating with a broad spectrum of partners. Recent curatorial work include fashion after Fashion at the Museum of Arts and Design, New York, and Momentum 9 Biennial in Moss, Norway. He is currently working on a publication on environmental and land art in Finland and the United States.
+      Shannon Mattern is a Professor at The New School. Her writing and teaching focus on archives, libraries, and other media spaces and infrastructures. She is the author of The New Downtown Library; Deep Mapping the Media City; and Code and Clay, Data and Dirt, all published by University of Minnesota Press. She contributes a regular long-form column about urban data and mediated infrastructures to Places, a journal focusing on architecture, urbanism, and landscape, and she collaborates on public design and interactive projects and exhibitions. You can find her at wordsinspace.net.
+      Trent Miller is an artist, curator, and the Head Bubblerarian at Madison Public Library, where he spearheads the library’s artist-focused program The Bubbler. Miller has orchestrated large-scale art events, including Bookless (2012), Stacked (2014), and MUNICIPAL (2018), which have been catalysts for other happenings in Madison and beyond. In 2015, Library Journal recognized him as a Mover & Shaker. Miller centers his energies on establishing the public library as a platform for creative and innovative art events, shows, and workshops and has recently expanded that vision by founding Library Artslink, a resource for facilitating collaborations between artists and libraries.
+      Laura Norris is a Service Manager at the Helsinki Central Library Oodi, which is the new public library in Helsinki. She has been in the library business for over 15 years. She started out as a librarian, and then worked for several years in library web services, marketing and events. Before her current position, she worked as the Chief Librarian of Kallio Library – the third-busiest public library in Helsinki. Her passion is in leadership, now developing the Teal way of working together with the Oodi staff. Developing the future library together with patrons as well as putting the strategy into action with the 54 staff members in Oodi is a thrilling adventure.
+      Jussi Parikka is Professor in Technological Culture & Aesthetics at University of Southampton’s Winchester School of Art. He is the founding director (with Ryan Bishop) of the Archaeologies of Media and Technology (AMT) research group and the author of several books on media theory and digital culture. These include What is Media Archaeology? (2012), Insect Media: An Archaeology of Animals and Technology (2010) and A Geology of Media (2015) as well as several edited volumes, including Across and Beyond: a transmediale Reader on Post-Digital Practices, Concepts and Institutions (2016, co-editor) and Writing and Unwriting (Media) Art History: Erkki Kurenniemi in 2048 (2015, co-editor with Joasia Krysa). With Shannon Mattern, he was the curator of the Library’s Other Intelligences exhibition at Oodi Library, Helsinki. Personal site: http://jussiparikka.net.
+      Jer Thorp is an artist, writer and teacher living in New York City. He is best known for designing the algorithm to place the nearly 3,000 names on the 9/11 Memorial in Manhattan. Jer was the New York Times' first Data Artist in Residence, is a former National Geographic Explorer, and in from 2017-2019 served as the Innovator in Residence at the Library of Congress. Jer’s book, Living in Data, will be published in 2020 by Farrar, Straus & Giroux
+      Toisha Tucker is an interdisciplinary conceptual artist and writer living in the Bronx and working across the universe. Their work explores social constructions around race, gender, and identity and the faltering relationship between technology and human empathy (think Black Mirror). They are the 2018-2019 Alice C. Cole Fellow at Wellesley College, Affiliated Fellow of the American Academy in Rome, and Alumni of Bemis. Their short fiction After Jacob’s Room was published in the 2016 Vassar Review. They hold a BA from Cornell University and an MFA from the University of Pennsylvania Graduate School of Design. Find them at toishatucker.com.
+      Anni Vartola is a Helsinki-based architect, architecture critic and scholar in postmodern architectural theory. She works as the Senior Lecturer in theory of architecture at the Department of Architecture in Aalto University and contributes regularly to architectural publications in Finland and abroad. Her current research interests are critical regionalism in Finnish architecture and the architectural history of Finnish public libraries. Her most recent works includes curating the Mind-Building exhibition for the Pavilion of Finland at the Venice Biennale 2018. Besides her work as a teacher and writer, Vartola devotes her spare time to her online architecture bookshop at bookm-ark.fi.
+
+      This symposium organized by The New School, Finnish Cultural Institute in New York & Metropolitan New York Library Council.
+      Hosted by Nate Hill & Shannon Mattern. 
+      Live-documentation by Neta Bomani & Cybernetics Library.
     html: |-
       <P><STRONG>Code, Craft &amp; Catalogues: Arts in the Libraries</STRONG><BR><BR><SPAN><SPAN>What role do the arts and design play in today’s libraries? Our major public institutions frequently commission high-profile public art, some libraries feature dedicated exhibition space, and artists and designers have long drawn inspiration from archival and library collections. Yet today, as we access and create knowledge through an expanding array of designed platforms and interfaces, infrastructures and algorithms, aesthetic operations are integral to the core services that libraries provide. We see a growing number of library- and archive-based artists’ residencies and exhibitions, and expanding interest in more sustained collaborations across the library and art worlds. In this symposium we gather librarians, artists, designers, and representatives from allied fields to examine recent examples of library-centered creative practice, discuss the mutual benefits of such collaborations, and propose new models for growing and sustaining these partnerships.</SPAN></SPAN><BR><BR></P>
       <P><EM>1:00 PM - 1:15 PM<BR></EM><SPAN>Introductions</SPAN><BR></P>
@@ -242,9 +201,22 @@
       <P><EM>5:30 PM<BR></EM>Reception</P>
       <P><BR>There is no fee to attend this event, but registration is required. We look forward to seeing you!<BR></P>
 
-      <P><SPAN><I>A symposium organized by <SPAN><SPAN><A HREF="https://www.newschool.edu/public-engagement/school-of-media-studies/" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>The New School</SPAN></A></SPAN></SPAN>, <SPAN><SPAN><A HREF="http://fciny.org/" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>Finnish Cultural Institute in New York</SPAN></A></SPAN></SPAN> &amp; <SPAN><SPAN><SPAN><A HREF="https://metro.org/" TARGET="_blank" REL="nofollow noopener noreferrer">Metropolitan New York Library Council</A></SPAN></SPAN></SPAN></I></SPAN></P>
-      <P><I>Hosted by Nate Hill &amp; Shannon Mattern </I></P>
-      <P><I>Live-documentation by Neta Bomani &amp; Cybernetics Library</I></P>
+      <P><STRONG>About our speakers:</STRONG></P>
+      <P><STRONG>Salome Asega</STRONG><SPAN> is an artist and researcher whose practice celebrates dissensus and multivocality. She is currently a Technology Fellow in the Ford Foundation's Creativity and Free Expression program and Director of Partnerships at POWRPLNT, a digital art collaboratory in Bushwick. Salome has participated in residencies and fellowships with Eyebeam, New Museum, The Laundromat Project, and Recess. She has exhibited and given presentations at the Shanghai Biennale, Performa, EYEO, and the Brooklyn Museum. Salome received her MFA from Parsons at The New School in Design and Technology where she also teaches.</SPAN></P>
+      <P><STRONG>neta bomani</STRONG> is a black, first generation american born, multicultural east african person of tanzanian-malawian lineage. neta participates in an anti-art practice which is inclusionary and invites participation from black and brown communities. neta seeks to reveal rather than conceal social precarity and inequality through the use of tangible, accessible media such as computational objects and abolitionist gestures of resistance like organizing and making archives, writings, prints, zines, maps and circuits.</P>
+      <P><STRONG>Greta Byrum</STRONG> reimagines the way we design, build, and govern communications systems. As Co-Director of the Digital Equity Laboratory at The New School, she builds digital justice through applied research, community projects, and policy strategy. Previously Greta built the Resilient Communities program at New America, where she developed and led Resilient Networks NYC, an initiative bringing training and for storm-hardened mesh WiFi to five neighborhoods in NYC's flood zones. Her poems have appeared in the Colorado Review, the Denver Quarterly, and various open FM frequencies.</P>
+      <P><STRONG>Ilari Laamanen</STRONG> is a Project Manager at the Finnish Cultural Institute in New York and a co-founder of the transatlantic fellowship program MOBIUS. With a background in curatorial and media studies, he focuses on interdisciplinary projects, commissioning new works, and collaborating with a broad spectrum of partners. Recent curatorial work include fashion after Fashion at the Museum of Arts and Design, New York, and Momentum 9 Biennial in Moss, Norway. He is currently working on a publication on environmental and land art in Finland and the United States.</P>
+      <P><STRONG>Shannon Mattern</STRONG> is a Professor at The New School. Her writing and teaching focus on archives, libraries, and other media spaces and infrastructures. She is the author of The New Downtown Library; Deep Mapping the Media City; and Code and Clay, Data and Dirt, all published by University of Minnesota Press. She contributes a regular long-form column about urban data and mediated infrastructures to Places, a journal focusing on architecture, urbanism, and landscape, and she collaborates on public design and interactive projects and exhibitions. You can find her at wordsinspace.net.</P>
+      <P><STRONG>Trent Miller</STRONG> is an artist, curator, and the Head Bubblerarian at Madison Public Library, where he spearheads the library’s artist-focused program The Bubbler. Miller has orchestrated large-scale art events, including Bookless (2012), Stacked (2014), and MUNICIPAL (2018), which have been catalysts for other happenings in Madison and beyond. In 2015, Library Journal recognized him as a Mover &amp; Shaker. Miller centers his energies on establishing the public library as a platform for creative and innovative art events, shows, and workshops and has recently expanded that vision by founding Library Artslink, a resource for facilitating collaborations between artists and libraries.</P>
+      <P><STRONG>Laura Norris</STRONG> is a Service Manager at the Helsinki Central Library Oodi, which is the new public library in Helsinki. She has been in the library business for over 15 years. She started out as a librarian, and then worked for several years in library web services, marketing and events. Before her current position, she worked as the Chief Librarian of Kallio Library – the third-busiest public library in Helsinki. Her passion is in leadership, now developing the Teal way of working together with the Oodi staff. Developing the future library together with patrons as well as putting the strategy into action with the 54 staff members in Oodi is a thrilling adventure.</P>
+      <P><STRONG>Jussi Parikka</STRONG> is Professor in Technological Culture &amp; Aesthetics at University of Southampton’s Winchester School of Art. He is the founding director (with Ryan Bishop) of the Archaeologies of Media and Technology (AMT) research group and the author of several books on media theory and digital culture. These include What is Media Archaeology? (2012), Insect Media: An Archaeology of Animals and Technology (2010) and A Geology of Media (2015) as well as several edited volumes, including Across and Beyond: a transmediale Reader on Post-Digital Practices, Concepts and Institutions (2016, co-editor) and Writing and Unwriting (Media) Art History: Erkki Kurenniemi in 2048 (2015, co-editor with Joasia Krysa). With Shannon Mattern, he was the curator of the Library’s Other Intelligences exhibition at Oodi Library, Helsinki. Personal site: <A HREF="http://jussiparikka.net" TARGET="_blank" REL="nofollow noopener noreferrer">http://jussiparikka.net</A>.</P>
+      <P><STRONG>Jer Thorp</STRONG> is an artist, writer and teacher living in New York City. He is best known for designing the algorithm to place the nearly 3,000 names on the 9/11 Memorial in Manhattan. Jer was the New York Times' first Data Artist in Residence, is a former National Geographic Explorer, and in from 2017-2019 served as the Innovator in Residence at the Library of Congress. Jer’s book, Living in Data, will be published in 2020 by Farrar, Straus &amp; Giroux</P>
+      <P><STRONG>Toisha Tucker</STRONG> is an interdisciplinary conceptual artist and writer living in the Bronx and working across the universe. Their work explores social constructions around race, gender, and identity and the faltering relationship between technology and human empathy (think Black Mirror). They are the 2018-2019 Alice C. Cole Fellow at Wellesley College, Affiliated Fellow of the American Academy in Rome, and Alumni of Bemis. Their short fiction After Jacob’s Room was published in the 2016 Vassar Review. They hold a BA from Cornell University and an MFA from the University of Pennsylvania Graduate School of Design. Find them at <A HREF="http://toishatucker.com" TARGET="_blank" REL="nofollow noopener noreferrer">toishatucker.com</A>.</P>
+      <P><STRONG>Anni Vartola</STRONG> is a Helsinki-based architect, architecture critic and scholar in postmodern architectural theory. She works as the Senior Lecturer in theory of architecture at the Department of Architecture in Aalto University and contributes regularly to architectural publications in Finland and abroad. Her current research interests are critical regionalism in Finnish architecture and the architectural history of Finnish public libraries. Her most recent works includes curating the Mind-Building exhibition for the Pavilion of Finland at the Venice Biennale 2018. Besides her work as a teacher and writer, Vartola devotes her spare time to her online architecture bookshop at <A HREF="http://bookm-ark.fi" TARGET="_blank" REL="nofollow noopener noreferrer">bookm-ark.fi</A>.</P>
+
+      <P><SPAN><I>This symposium organized by <SPAN><SPAN><A HREF="https://www.newschool.edu/public-engagement/school-of-media-studies/" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>The New School</SPAN></A></SPAN></SPAN>, <SPAN><SPAN><A HREF="http://fciny.org/" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>Finnish Cultural Institute in New York</SPAN></A></SPAN></SPAN> &amp; <SPAN><SPAN><SPAN><A HREF="https://metro.org/" TARGET="_blank" REL="nofollow noopener noreferrer">Metropolitan New York Library Council</A>.</SPAN></SPAN></SPAN></I></SPAN></P>
+      <P><I>Hosted by Nate Hill &amp; Shannon Mattern. </I></P>
+      <P><I>Live-documentation by Neta Bomani &amp; Cybernetics Library.</I></P>
   url: https://www.eventbrite.com/e/code-craft-catalogues-arts-in-the-libraries-tickets-56424218356
   start:
     timezone: America/New_York
@@ -490,17 +462,20 @@
 - time: 1555509600000
   link: https://www.meetup.com/Economics-Business-Librarians-Group/events/258877604/
   description:
-    html: "<p>Join the METRO Economics &amp; Business Librarians Meetup Group to discuss
+    html: '<p>Join the METRO Economics &amp; Business Librarians Meetup Group to discuss
       opportunities for libraries and information professionals to support entrepreneurship.</p>
       <p>Our speakers include Helena Escalante (New York Public Library, SIBL) and
       Neely Tang (Cornell University, SC Johnson College of Business Management Library).
       Discover how Helena and Neely support innovation and work with interdisciplinary
-      teams and founders as they launch new ventures.</p> <p>Entrepreneurship: Where
-      We Are, Where We're Going<br/>Date and time: April 17, 2019 (Thurs) from 10
-      AM - 12 noon<br/>Location: NYU's Bobst Library, Room 743</p> <p>Individuals
-      outside of the business/economics disciplines with an interest in entrepreneurship
-      are warmly invited to attend.</p> <p>See you there!<br/>Lucy Heckman (St. John's
-      University) and Dan Hickey (NYU)<br/>SIG Co-Conveners</p> "
+      teams and founders as they launch new ventures.</p> <p>***Neely and Helena would
+      love to include your preliminary questions in their presentation. Please feel
+      free to send your questions in advance in the form below.***<br/><a href="https://docs.google.com/forms/d/e/1FAIpQLSf7MLviF3A6BbrXk6ASFbllfuEq9ObHe59RShslV60IUKWumA/viewform"
+      class="linkified">https://docs.google.com/forms/d/e/1FAIpQLSf7MLviF3A6BbrXk6ASFbllfuEq9ObHe59RShslV60IUKWumA/viewform</a></p>
+      <p>Entrepreneurship: Where We Are, Where We''re Going<br/>Date and time: April
+      17, 2019 (Thurs) from 10 AM - 12 noon<br/>Location: NYU''s Bobst Library, Room
+      743</p> <p>Individuals outside of the business/economics disciplines with an
+      interest in entrepreneurship are warmly invited to attend.</p> <p>See you there!<br/>Lucy
+      Heckman (St. John''s University) and Dan Hickey (NYU)<br/>SIG Co-Conveners</p> '
   name:
     html: 'Entrepreneurship: Where We Are, Where We''re Going'
   start:
