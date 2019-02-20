@@ -1,26 +1,4 @@
 ---
-- time: 1550606400000
-  link: https://www.meetup.com/InstructionReference/events/258327101/
-  description:
-    html: "<p>The School of Visual Arts (SVA) Library has recently renovated their
-      West Side branch, which now facilitates more communication with faculty and
-      students and has improved reference and instruction services.</p> <p>While its
-      primary purpose is to provide a point of service on the SVA campus' west side,
-      the space also includes new features such as a wide screen with dual projectors
-      and a gaming room with both traditional consoles and virtual reality systems.
-      The library has partnered with other departments to plan a wide range of events
-      held in Library West, including game nights, film screenings, poetry readings,
-      and a series focused on SVA's Visual Narrative MFA program.</p> <p>Please join
-      us for a tour of the new space, and hear how SVA has been using it to expand
-      access and services. We'll meet up in the front lobby, near the security desk,
-      at 133/141 West 21st Street, between Sixth and Seventh Aves.</p> <p>RSVP required.
-      Space is limited!</p> "
-  name:
-    html: 'Re-Imagined Spaces & Services Tour: School of Visual Arts, Library West'
-  start:
-    utc: '2019-02-19 15:00:00 -0500'
-    local: '2019-02-19 15:00:00 -0500'
-  url: https://www.meetup.com/InstructionReference/events/258327101/
 - name:
     text: 'Film Screening - Paywall: The Business of Scholarship'
     html: 'Film Screening - Paywall: The Business of Scholarship'
