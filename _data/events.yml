@@ -253,7 +253,7 @@
 
       <P><STRONG>About our speakers:</STRONG></P>
       <P><STRONG>Salome Asega</STRONG><SPAN> is an artist and researcher whose practice celebrates dissensus and multivocality. She is currently a Technology Fellow in the Ford Foundation's Creativity and Free Expression program and Director of Partnerships at POWRPLNT, a digital art collaboratory in Bushwick. Salome has participated in residencies and fellowships with Eyebeam, New Museum, The Laundromat Project, and Recess. She has exhibited and given presentations at the Shanghai Biennale, Performa, EYEO, and the Brooklyn Museum. Salome received her MFA from Parsons at The New School in Design and Technology where she also teaches.</SPAN></P>
-      <P><STRONG>neta bomani</STRONG> is a black, first generation american born, multicultural east african person of tanzanian-malawian lineage. neta participates in an anti-art practice which is inclusionary and invites participation from black and brown communities. neta seeks to reveal rather than conceal social precarity and inequality through the use of tangible, accessible media such as computational objects and abolitionist gestures of resistance like organizing and making archives, writings, prints, zines, maps and circuits.</P>
+      <P><A HREF="https://www.netabomani.com/" TARGET="_blank" REL="nofollow noopener noreferrer"><STRONG>neta bomani</STRONG></A> is a black, first generation american born, multicultural east african person of tanzanian-malawian lineage. neta participates in an anti-art practice which is inclusionary and invites participation from black and brown communities. neta seeks to reveal rather than conceal social precarity and inequality through the use of tangible, accessible media such as computational objects and abolitionist gestures of resistance like organizing and making archives, writings, prints, zines, maps and circuits.</P>
       <P><STRONG>Greta Byrum</STRONG> reimagines the way we design, build, and govern communications systems. As Co-Director of the Digital Equity Laboratory at The New School, she builds digital justice through applied research, community projects, and policy strategy. Previously Greta built the Resilient Communities program at New America, where she developed and led Resilient Networks NYC, an initiative bringing training and for storm-hardened mesh WiFi to five neighborhoods in NYC's flood zones. Her poems have appeared in the Colorado Review, the Denver Quarterly, and various open FM frequencies.</P>
       <P><STRONG>Nate Hill</STRONG> began his career in libraries at Brooklyn Public Library’s Stone Avenue Branch. After almost ten years of service and several different roles within Brooklyn Public Library, he relocated to Silicon Valley to retrain and re-tool as a web designer and developer for the San Jose Public Library. Before joining METRO in June 2015, Nate served as Deputy Director of the Chattanooga Public Library, where he led the 4th Floor project, a 12,000 square foot library loft space featuring a public access makerspace, civic laboratory, and gigabit laboratory. Nate was named a “Mover and Shaker” by Library Journal in 2012. He earned his undergraduate degree in art from Skidmore College and an MLIS from Pratt Institute’s School of Information and Library Science. When he’s not busy library-ing, Nate enjoys hiking, camping, art, design, and tinkering alongside his wife and kids.</P>
       <P><STRONG>Ilari Laamanen</STRONG> is a Project Manager at the Finnish Cultural Institute in New York and a co-founder of the transatlantic fellowship program MOBIUS. With a background in curatorial and media studies, he focuses on interdisciplinary projects, commissioning new works, and collaborating with a broad spectrum of partners. Recent curatorial work include fashion after Fashion at the Museum of Arts and Design, New York, and Momentum 9 Biennial in Moss, Norway. He is currently working on a publication on environmental and land art in Finland and the United States.</P>
@@ -521,6 +521,24 @@
     timezone: America/New_York
     local: '2019-03-22T15:00:00'
     utc: '2019-03-22T19:00:00Z'
+- time: 1554402600000
+  link: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/259194243/
+  description:
+    html: "<p>Please join us at our Spring 2019 Library Resource Sharing: Interlibrary
+      Loan Meetup</p> <p>We'll have an open forum for interlibrary loan librarians
+      and other parties interested in posing interlibrary loan related questions or
+      sharing their latest ideas and resources. Please send us any agenda items you’d
+      like to discuss.</p> <p>The event will be held at:</p> <p>The METRO Training
+      Center (8th floor)</p> <p>599 Eleventh Avenue (between 44th Street and 45th
+      Street)</p> <p>This meeting will be focused on Interlibrary Loan, but everyone
+      is welcome.</p> <p>Hope to see you there!</p> <p>Best,</p> <p>Emma Raub &amp;
+      Beth Posner</p> "
+  name:
+    html: 'Spring 2019 Library Resource Sharing: Interlibrary Loan Meetup'
+  start:
+    utc: '2019-04-04 14:30:00 -0400'
+    local: '2019-04-04 14:30:00 -0400'
+  url: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/259194243/
 - time: 1555351200000
   link: https://www.meetup.com/metro-digpres/events/258467015/
   description:
