@@ -27,13 +27,13 @@ Applications are currently closed and will reopen December 2019.
 ## Technology Grants
 Each year, METRO receives funding to support technology needs in hospital libraries. Grants are available to members of METRO's Hospital Library Services Program. Applications are reviewed by an ad-hoc committee drawn from the HLSP Advisory Council. 
 
-[Applications](https://www.surveymonkey.com/r/SVFTNW2) are currently open. The deadline for this grant is Friday, February 8, 2019.  
+Applications are currently closed and will reopen December 2019.  
 
 ## Medical Information Service Program Grants
 
 Medical Information Service Program grants are available to subsidize costs associated with interlibrary loans involving medical and health related materials. Grants are available to medical or hospital libraries, though other libraries may also be eligible to have the cost of its health-related interlibrary loans subsidized if the National Library of Medicine (NLM) or a Document Delivery Providers (DDP's) provided them. Grant funding is based, in part, on Docline interlibrary loan statistics.
 
-The MISP Grant application is now closed. 
+[Applications](https://www.surveymonkey.com/r/TQ7TTSJ) are currently open. The deadline for this grant is Tuesday, March 19, 2019. 
 
 ## Our Members
 
