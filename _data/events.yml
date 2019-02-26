@@ -521,6 +521,27 @@
     timezone: America/New_York
     local: '2019-03-22T15:00:00'
     utc: '2019-03-22T19:00:00Z'
+- time: 1553724000000
+  link: https://www.meetup.com/code4libnyc/events/259096864/
+  description:
+    html: '<p>This spring, we are focusing on planning a Python event. As a first
+      step, we are going to attend the New York City Python Meetup''s weekly project
+      night on Wednesday March 27 to learn more about Python and meet some people
+      from the New York Python community. Please join us! All skill levels are welcome,
+      from complete newbie to skilled programmer.</p> <p>Python is lightweight, easy-to-learn
+      programming language used for a wide variety of projects in the library-archives-museum
+      domain, from metadata remediation to building custom web applications.</p> <p>IMPORTANT
+      NOTE: If you plan to attend, you need to RSVP at the New York City Python Meetup
+      event page: <a href="https://www.meetup.com/nycpython/events/cwpcspyzfbkc/"
+      class="linkified">https://www.meetup.com/nycpython/events/cwpcspyzfbkc/</a></p>
+      <p>Note also the New York City Python Meetup''s code of conduct guidelines:<br/><a
+      href="https://www.meetup.com/nycpython/messages/boards/thread/51565172" class="linkified">https://www.meetup.com/nycpython/messages/boards/thread/51565172</a></p> '
+  name:
+    html: New York Python Meetup Project Night
+  start:
+    utc: '2019-03-27 18:00:00 -0400'
+    local: '2019-03-27 18:00:00 -0400'
+  url: https://www.meetup.com/code4libnyc/events/259096864/
 - time: 1554402600000
   link: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/259194243/
   description:
