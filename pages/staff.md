@@ -28,7 +28,7 @@ Davis worked with Mozilla Foundation to review and update their web literacy cur
 In addition to planning and emceeing METRO's symposia series, Davis has designed and facilitated a fair number of workshops on topics like data privacy & security, web mechanics, and (human) networking skills for library staff.
 
 ## Kyle Brown
-**General Manager**
+**Chief Administrative Officer**
 
 kbrown@metro.org
 
