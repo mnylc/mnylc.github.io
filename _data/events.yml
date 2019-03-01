@@ -542,6 +542,25 @@
     utc: '2019-03-27 18:00:00 -0400'
     local: '2019-03-27 18:00:00 -0400'
   url: https://www.meetup.com/code4libnyc/events/259096864/
+- time: 1553799600000
+  link: https://www.meetup.com/racial-and-social-justice-in-the-library/events/259370539/
+  description:
+    html: '<p>Hello,<br/>Join the Racial and Social Justice in LIS Meetup and let’s
+      discuss “The Bystander Effect” and what can you do to become a more active bystander
+      in your library.</p> <p>We will divide our time between discussing what the
+      Bystander Effect is and what strategies to use when witnessing situations that
+      require empathy to defuse or intervene in a situation.</p> <p>We will break
+      into small groups, go over scenarios and talk about which strategies to use.</p>
+      <p>The intention of this meetup is to provide a comfortable space where members
+      can share their experience and strategies when witnessing or being the receiver
+      of bullying.</p> <p>If you have time before the meetup please watch this video:<br/><a
+      href="https://www.youtube.com/watch?v=Wy6eUTLzcU4&amp;feature=youtu.be" class="embedded">https://www.youtube.com/watch?v=Wy6eUTLzcU4&amp;feature=youtu.be</a></p> '
+  name:
+    html: 'The Bystander Effect discussion '
+  start:
+    utc: '2019-03-28 15:00:00 -0400'
+    local: '2019-03-28 15:00:00 -0400'
+  url: https://www.meetup.com/racial-and-social-justice-in-the-library/events/259370539/
 - time: 1554402600000
   link: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/259194243/
   description:
