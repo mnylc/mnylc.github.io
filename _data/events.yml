@@ -85,12 +85,13 @@
       Discussion: Reference Services and Incarcerated PeoplePanelists: Mia Bruner,
       Joshua Finnell, and Emily Jacobson 2:45 p.m. - 3:00 p.m.Break 3:00 p.m. - 3:55
       p.m.Lightning Rounds: The History and Praxis of Reference and JusticeSpeakers:
-      Jeff Hirschy, Michelle Notto, and Haruko Yamauchi 4:00 p.m. - 5:00 p.m.Breakout
-      Sessions: Exploring the Practice of Reference and JusticeFacilitator: Julia
-      Marden\r\n5:00 p.m. - 7:00 p.m.Happy hour with beer, wine, non-alcoholic beverages,
-      and snacks Registration fees for this event are $20 for METRO members and $40
-      for non-members. If these fees present a hardship for you, please contact deanderson@metro.org
-      for special pricing.  Kindly register by Wednesday, March 6. "
+      Jeff Hirschy, Michelle Nitto, Carrie Forbes, and Haruko Yamauchi 4:00 p.m. -
+      5:00 p.m.Breakout Sessions: Exploring the Practice of Reference and JusticeFacilitator:
+      Julia Marden\r\n5:00 p.m. - 7:00 p.m.Happy hour with beer, wine, non-alcoholic
+      beverages, and snacks Registration fees for this event are $20 for METRO members
+      and $40 for non-members. If these fees present a hardship for you, please contact
+      deanderson@metro.org for special pricing.  Kindly register by Wednesday, March
+      6. "
     html: "<P><STRONG>Reference Librarianship &amp; Justice: Critical Interventions</STRONG>
       <BR><EM>Book Launch Celebration and Discussion</EM><BR> <BR>Friday, March 8<BR>1:00
       p.m. - 5:00 p.m.<BR>Happy hour with beer, wine, non-alcoholic beverages, and
@@ -112,13 +113,13 @@
       Mia Bruner, Joshua Finnell, and Emily Jacobson<BR> <BR><EM>2:45 p.m. - 3:00
       p.m.</EM><BR>Break<BR> <BR><EM>3:00 p.m. - 3:55 p.m.</EM><BR>Lightning Rounds:
       The History and Praxis of Reference and Justice<BR>Speakers: Jeff Hirschy, Michelle
-      Notto, and Haruko Yamauchi<BR> <BR><EM>4:00 p.m. - 5:00 p.m.</EM><BR>Breakout
+      Nitto, Carrie Forbes, and Haruko Yamauchi<BR> <BR><EM>4:00 p.m. - 5:00 p.m.</EM><BR>Breakout
       Sessions: Exploring the Practice of Reference and Justice<BR>Facilitator: Julia
-      Marden</P></P>\r\n<P><EM>5:00 p.m. - 7:00 p.m.</EM><BR>Happy hour with beer,
-      wine, non-alcoholic beverages, and snacks<BR> <BR>Registration fees for this
-      event are $20 for METRO members and $40 for non-members. If these fees present
-      a hardship for you, please contact deanderson@metro.org for special pricing.
-      <BR> <BR>Kindly register by Wednesday, March 6. <BR></P>"
+      Marden</P>\r\n<P><EM>5:00 p.m. - 7:00 p.m.</EM><BR>Happy hour with beer, wine,
+      non-alcoholic beverages, and snacks<BR> <BR>Registration fees for this event
+      are $20 for METRO members and $40 for non-members. If these fees present a hardship
+      for you, please contact deanderson@metro.org for special pricing. <BR> <BR>Kindly
+      register by Wednesday, March 6. <BR></P>"
   url: https://www.eventbrite.com/e/reference-librarianship-justice-critical-interventions-tickets-55980204298
   start:
     timezone: America/New_York
@@ -622,6 +623,21 @@
     utc: '2019-04-17 10:00:00 -0400'
     local: '2019-04-17 10:00:00 -0400'
   url: https://www.meetup.com/Economics-Business-Librarians-Group/events/258877604/
+- name:
+    text: Tour Center for Jewish History
+    html: Tour Center for Jewish History
+  description:
+    text: |-
+      Please join us for a METRO members-only tour of Center for Jewish History. After meeting in the Great Hall, our group will tour the processing/digital lab, learn about the Reading Room & Genealogy Institute, and see a variety of special collections materials.
+      Center for Jewish History and partner collections span a thousand years, with tens of millions of archival documents (in dozens of languages and alphabet systems), more than 500,000 volumes, as well as thousands of artworks, textiles, ritual objects, recordings, films, and photographs. The Center’s experts are leaders in unlocking archival material for a wide audience through the latest practices in digitization, library science, and public education.
+    html: |-
+      <P>Please join us for a METRO members-only tour of Center for Jewish History. After meeting in the Great Hall, our group will tour the processing/digital lab, learn about the Reading Room &amp; Genealogy Institute, and see a variety of special collections materials.</P>
+      <P>Center for Jewish History and partner collections span a thousand years, with tens of millions of archival documents (in dozens of languages and alphabet systems), more than 500,000 volumes, as well as thousands of artworks, textiles, ritual objects, recordings, films, and photographs. The Center’s experts are leaders in unlocking archival material for a wide audience through the latest practices in digitization, library science, and public education.</P>
+  url: https://www.eventbrite.com/e/tour-center-for-jewish-history-tickets-58008782831
+  start:
+    timezone: America/New_York
+    local: '2019-04-17T16:00:00'
+    utc: '2019-04-17T20:00:00Z'
 - time: 1555956000000
   link: https://www.meetup.com/metro-digpres/events/258760973/
   description:
