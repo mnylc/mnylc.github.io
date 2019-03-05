@@ -161,12 +161,3 @@ mseynou@metro.org
 Madjalia assists the controller in facilitating accounting, finance, and human resources functions at METRO. She manages operational data, maintains data accuracy, and assists in special projects.
 
 Prior to joining METRO, Madjalia was an Assistant Controller at MOF Microcredit, a partnership company based in Burkina Faso. Madjalia obtained a B.S in Economics and Management from the University of Ouagadougou, and an MS in Accounting from St. John's University.
-
-## Kerri Willette
-**Deputy Director**
-
-kwillette@metro.org
-
-Kerri partners closely with everyone on staff to grow and enhance METRO's organizational infrastructure. In addition to her administrative role at METRO, Kerri coordinates activities of the Empire State Digital Network (ESDN), a statewide service hub for the Digital Public Library of America (DPLA).
-
-Kerri has worked with digital collections and content in academic, museum, and consortial settings since 2001. Her career has included project planning, metadata creation, and digital project work at various institutions in the midwest including DePaul University Libraries, The School of the Art Institute of Chicago, Columbia College Chicago Library, and the University of Wisconsin-Parkside. Kerri received her MLS from the University of Illinois Graduate School of Library and Information Science LEEP program in 2005.
