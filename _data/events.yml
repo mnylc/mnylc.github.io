@@ -309,6 +309,103 @@
     utc: '2019-04-04 14:30:00 -0400'
     local: '2019-04-04 14:30:00 -0400'
   url: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/259194243/
+- name:
+    text: 21st Annual Library Assistants' Day Celebration
+    html: 21st Annual Library Assistants&#39; Day Celebration
+  description:
+    text: |-
+      METRO’s Library Assistants, Support Staff & Associates presents...
+      “Library Support Staff Equals Strong Foundations” 21st Annual Library Assistants’ Day Celebration
+
+      Sponsored by: 
+      METRO Library CouncilSUNY Downstate Medical LibraryLocal 1930, NY Public Library Guild
+
+      PROGRAM
+      9:00 a.m. - 10:00 a.m. Registration / Breakfast
+
+      10:00 a.m. - 10:15 a.m. Welcome / Introduction of LASSA group Val Colon, Cheryl Marriott, LASSA conveners
+
+      10:15 a.m. - 10:20 a.m. Reading of “Library Assistants’ Day Proclamation” Maxine Grandison
+
+      10:20 a.m. -10:30 a.m.Introduction of METRO’s Program Manager, Davis Erin AndersonAnthony Wyche
+
+      10:30 a.m. - 10:40 a.m.Introduction of Interim Director of Libraries, Mohamed Farouk HussainCheryl Marriott
+
+      10:40 a.m. - 10:50 a.m.2019 (41st Annual) NYSLAA Conference – Geneva, NY (Q & A)Mildred Graham
+
+      10:50 a.m. - 10:55 a.m.Introduction of Louise Stamp Nina Manning
+
+      10:55 a.m. - 11:40 a.m.KEYNOTE SPEAKERLouise Stamp, Correctional Services Program Associate, NY Public Library
+
+      11:40 a.m. - 11:50 a.m.BREAK
+
+      11:50 a.m. -12:50 p.m.AM WORKSHOPS
+
+      Financial Planning
+      Self Care
+      Technology (Managing Google/Outlook)
+      Who Moved My Cheese?
+
+      12:50 p.m. - 2:00 p.m.LUNCH (on site)
+
+      2:00 p.m. - 3:00 p.m.PM WORKSHOPS
+
+      Health & Wellness
+      Retirement / Social Security
+      Self Care
+      Technology (Managing Google/Outlook)
+
+
+      3:00 p.m. - 4:00 p.m.Raffles, Evaluations, Wrap UpAnthony Wyche, Rita Gregory
+    html: |-
+      <P><EM>METRO’s Library Assistants, Support Staff &amp; Associates presents...</EM></P>
+      <P><STRONG>“Library Support Staff Equals Strong Foundations”</STRONG> <BR>21st Annual Library Assistants’ Day Celebration</P>
+
+      <P>Sponsored by: </P>
+      <P>METRO Library Council<BR>SUNY Downstate Medical Library<BR>Local 1930, NY Public Library Guild</P>
+
+      <P>PROGRAM</P>
+      <P>9:00 a.m. - 10:00 a.m. <BR>Registration / Breakfast</P>
+
+      <P>10:00 a.m. - 10:15 a.m. <BR>Welcome / Introduction of LASSA group <BR>Val Colon, Cheryl Marriott, LASSA conveners</P>
+
+      <P>10:15 a.m. - 10:20 a.m. <BR>Reading of “Library Assistants’ Day Proclamation” <BR>Maxine Grandison</P>
+
+      <P>10:20 a.m. -10:30 a.m.<BR>Introduction of METRO’s Program Manager, Davis Erin Anderson<BR>Anthony Wyche</P>
+
+      <P>10:30 a.m. - 10:40 a.m.<BR>Introduction of Interim Director of Libraries, Mohamed Farouk Hussain<BR>Cheryl Marriott</P>
+
+      <P>10:40 a.m. - 10:50 a.m.<BR>2019 (41st Annual) NYSLAA Conference – Geneva, NY (Q &amp; A)<BR>Mildred Graham</P>
+
+      <P>10:50 a.m. - 10:55 a.m.<BR>Introduction of Louise Stamp <BR>Nina Manning</P>
+
+      <P>10:55 a.m. - 11:40 a.m.<BR>KEYNOTE SPEAKER<BR>Louise Stamp, Correctional Services Program Associate, NY Public Library</P>
+
+      <P>11:40 a.m. - 11:50 a.m.<BR>BREAK</P>
+
+      <P>11:50 a.m. -12:50 p.m.<BR>AM WORKSHOPS<BR></P>
+      <UL>
+      <LI>Financial Planning</LI>
+      <LI>Self Care</LI>
+      <LI>Technology (Managing Google/Outlook)</LI>
+      <LI>Who Moved My Cheese?</LI>
+      </UL>
+      <P><BR>12:50 p.m. - 2:00 p.m.<BR>LUNCH (on site)</P>
+
+      <P>2:00 p.m. - 3:00 p.m.<BR>PM WORKSHOPS<BR></P>
+      <UL>
+      <LI>Health &amp; Wellness</LI>
+      <LI>Retirement / Social Security</LI>
+      <LI>Self Care</LI>
+      <LI>Technology (Managing Google/Outlook)</LI>
+      </UL>
+
+      <P>3:00 p.m. - 4:00 p.m.<BR>Raffles, Evaluations, Wrap Up<BR>Anthony Wyche, Rita Gregory<BR></P>
+  url: https://www.eventbrite.com/e/21st-annual-library-assistants-day-celebration-tickets-58745996858
+  start:
+    timezone: America/New_York
+    local: '2019-04-11T09:00:00'
+    utc: '2019-04-11T13:00:00Z'
 - time: 1555351200000
   link: https://www.meetup.com/metro-digpres/events/258467015/
   description:
