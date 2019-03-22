@@ -1,63 +1,12 @@
 ---
 - name:
-    text: It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop)
-    html: It&#39;s the year 2039. Where&#39;s your podcast? (A Preserve This Podcast
-      workshop)
-  description:
-    text: "It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop)\nBring
-      your hard drives. Bring your laptops. Bring your Dropbox password. We’re going
-      to preserve your podcast.\nIf you’ve listened to our podcast or read our zine,
-      you know that podcasts are disappearing. So how can podcasters protect themselves
-      against loss? By attending our first-ever Preserve This Podcast workshop. This
-      interactive workshop will tackle this issue head-on by walking audio creators
-      through the history of podcast technology, the basics of archival preservation,
-      and simple steps you can take to preserve your audio. We will review through
-      the tools and techniques to prevent data loss before it’s too late, as well
-      as “bake” these concepts into podcasters’ existing production workflows.\n\nAbout
-      our instructors:\n\n\nDana Gerber-Margie listens to podcasts while living in
-      Madison, Wisconsin. She earned her Master's in Library & Information Studies
-      at UW-Madison, and has worked as an A/V Archivist for WiLS and the Wisconsin
-      Historical Society. She is the co-founder and co-editor of the Bello Collective,
-      a publication about podcasts and storytelling.\nMary Kidd is an archivist and
-      illustrator. By day, she works for New York Public Library's Special Collections
-      Division. She has worked on audio/visual preservation projects for New York
-      Public Radio, the Magic Shop Recording Studio, and the XFR Collective, a non-profit
-      organization that transfers at-risk media off magnetic tapes to digital format
-      for individuals and groups with limited means. She enjoys creating drawings,
-      zines, gifs, and other artful tidbits to make archiving, and the technology
-      that supports it, accessible, approachable and fun for everyone.\n\n\n\nMolly
-      Schwartz produces podcasts and writes about tech. She is the Studio Manager
-      at the Metropolitan New York Library Council (METRO). She did a Fulbright grant
-      at the Aalto University Media Lab in Helsinki and worked at the U.S. State Department
-      as a data analyst. She likes diving into the weird ways that humans and machines
-      interact. \n\n"
-    html: |-
-      <P><STRONG>It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop)<BR><BR></STRONG></P>
-      <P><SPAN>Bring your hard drives. Bring your laptops. Bring your Dropbox password. We’re going to preserve your podcast.</SPAN></P>
-      <P CLASS="MsoNormal"><SPAN>If you’ve listened to our podcast or read our zine, you know that podcasts are disappearing. So how can podcasters protect themselves against loss? By attending our first-ever <A HREF="http://preservethispodcast.org/" TARGET="_blank" REL="nofollow noopener noreferrer">Preserve This Podcast</A> workshop. This interactive workshop will </SPAN><SPAN>tackle this issue head-on by walking audio creators through the history of podcast technology, the basics of archival preservation, and simple steps you can take to preserve your audio. We will review through the tools and techniques to prevent data loss before it’s too late, as well as “bake” these concepts into podcasters’ existing production workflows.</SPAN></P>
-      <P CLASS="MsoNormal"><BR></P>
-      <P><STRONG>About our instructors:</STRONG></P>
-      <DIV>
-      <DIV>
-      <P><STRONG><A HREF="https://twitter.com/theaudiosignal?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" TARGET="_blank" REL="nofollow noopener noreferrer">Dana Gerber-Margie</A></STRONG><SPAN> listens to podcasts while living in Madison, Wisconsin. She earned her Master's in Library &amp; Information Studies at UW-Madison, and has worked as an A/V Archivist for WiLS and the </SPAN><A HREF="https://www.wisconsinhistory.org/" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>Wisconsin Historical Society</SPAN></A><SPAN>. She is the co-founder and co-editor of the </SPAN><A HREF="https://bellocollective.com/" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>Bello Collective</SPAN></A><SPAN>, a publication about podcasts and storytelling.<BR><BR></SPAN></P>
-      <P><STRONG><A HREF="https://twitter.com/kiddarchivist?lang=en" TARGET="_blank" REL="nofollow noopener noreferrer">Mary Kidd</A></STRONG><SPAN> is an archivist and illustrator. By day, she works for </SPAN><A HREF="https://www.nypl.org/new-york-public-library-special-collections" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>New York Public Library's Special Collections Division</SPAN></A><SPAN>. She has worked on audio/visual preservation projects for New York Public Radio, the Magic Shop Recording Studio, and the XFR Collective, a non-profit organization that transfers at-risk media off magnetic tapes to digital format for individuals and groups with limited means. She enjoys creating drawings, zines, gifs, and other artful tidbits to make archiving, and the technology that supports it, accessible, approachable and fun for everyone.<BR><BR></SPAN></P>
-      </DIV>
-      </DIV>
-      <DIV>
-      <P><SPAN><STRONG><A HREF="https://twitter.com/mollyfication?lang=en" TARGET="_blank" REL="nofollow noopener noreferrer">Molly Schwartz</A></STRONG><SPAN> produces podcasts and writes about tech. She is the Studio Manager at the </SPAN><A HREF="https://metro.org/" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>Metropolitan New York Library Council</SPAN></A><SPAN> (METRO). She did a Fulbright grant at the Aalto University Media Lab in Helsinki and worked at the U.S. State Department as a data analyst. She likes diving into the weird ways that humans and machines interact. </SPAN></SPAN></P>
-      </DIV>
-      <P><SPAN><BR></SPAN></P>
-  url: https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-55599690170
-  start:
-    timezone: America/New_York
-    local: '2019-03-22T11:00:00'
-    utc: '2019-03-22T15:00:00Z'
-- name:
-    text: Tour La MaMa Archives
-    html: Tour La MaMa Archives
+    text: 'CANCELLED: Tour La MaMa Archives'
+    html: 'CANCELLED: Tour La MaMa Archives'
   description:
     text: |2
 
+      This event has been cancelled due to extenuating circumstances. We will work with La MaMa to reschedule. 
+      *
       Please join us for a special tour of La MaMa Archives! 
       Established in the early 1970’s, La MaMa Archives collects, preserves, and exhibits records of permanent historical value relating to La MaMa and the Off-Off Broadway movement. In doing so, it draws on a deep vein of in-house institutional memory, the passionate community of artists whose work has found a home on La MaMa stages, and a diversity of scholars, educators and international artists with whom we regularly collaborate.
       La MaMa’s archival collection includes over 50,000 unique items–posters, programs, costumes, puppets, and photographs, scripts, correspondence, and audiovisual materials– that together chronicle the institution’s fifty-plus year history.
@@ -68,6 +17,8 @@
       We are offering this event free of charge; participants are encouraged to bring along a small cash donation to help support the La MaMa's work.
     html: |
       <DIV>
+      <P><STRONG>This event has been cancelled due to extenuating circumstances. We will work with La MaMa to reschedule. </STRONG></P>
+      <P>*</P>
       <P>Please join us for a special tour of <A HREF="http://lamama.org/programs/archives/" TARGET="_blank" REL="nofollow noopener noreferrer">La MaMa Archives</A>! </P>
       <P><SPAN>Established in the early 1970’s, La MaMa Archives collects, preserves, and exhibits records of permanent historical value relating to La MaMa and the Off-Off Broadway movement. In doing so, it draws on a deep vein of in-house institutional memory, the passionate community of artists whose work has found a home on La MaMa stages, and a diversity of scholars, educators and international artists with whom we regularly collaborate.</SPAN></P>
       <P><SPAN>La MaMa’s archival collection includes over 50,000 unique items–posters, programs, costumes, puppets, and photographs, scripts, correspondence, and audiovisual materials– that together chronicle the institution’s fifty-plus year history.</SPAN></P>
@@ -76,7 +27,7 @@
       </DIV>
       <DIV><BR></DIV>
       <P>We are offering this event free of charge; participants are encouraged to bring along a small cash donation to help support the La MaMa's work.</P>
-  url: https://www.eventbrite.com/e/tour-la-mama-archives-tickets-57123103741
+  url: https://www.eventbrite.com/e/cancelled-tour-la-mama-archives-tickets-57123103741
   start:
     timezone: America/New_York
     local: '2019-03-22T15:00:00'
