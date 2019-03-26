@@ -33,7 +33,7 @@ Applications are currently closed and will reopen December 2019.
 
 Medical Information Service Program grants are available to subsidize costs associated with interlibrary loans involving medical and health related materials. Grants are available to medical or hospital libraries, though other libraries may also be eligible to have the cost of its health-related interlibrary loans subsidized if the National Library of Medicine (NLM) or a Document Delivery Providers (DDP's) provided them. Grant funding is based, in part, on Docline interlibrary loan statistics.
 
-[Applications](https://www.surveymonkey.com/r/TQ7TTSJ) are currently open. The deadline for this grant is Tuesday, March 19, 2019. 
+Applications are currently closed and will reopen February 2020. 
 
 ## Our Members
 
