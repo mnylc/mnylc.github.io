@@ -1,22 +1,4 @@
 ---
-- time: 1554402600000
-  link: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/259194243/
-  description:
-    html: "<p>Please join us at our Spring 2019 Library Resource Sharing: Interlibrary
-      Loan Meetup</p> <p>We'll have an open forum for interlibrary loan librarians
-      and other parties interested in posing interlibrary loan related questions or
-      sharing their latest ideas and resources. Please send us any agenda items you’d
-      like to discuss.</p> <p>The event will be held at:</p> <p>The METRO Training
-      Center (8th floor)</p> <p>599 Eleventh Avenue (between 44th Street and 45th
-      Street)</p> <p>This meeting will be focused on Interlibrary Loan, but everyone
-      is welcome.</p> <p>Hope to see you there!</p> <p>Best,</p> <p>Emma Raub &amp;
-      Beth Posner</p> "
-  name:
-    html: 'Spring 2019 Library Resource Sharing: Interlibrary Loan Meetup'
-  start:
-    utc: '2019-04-04 14:30:00 -0400'
-    local: '2019-04-04 14:30:00 -0400'
-  url: https://www.meetup.com/Interlibrary-Loan-Interest-Group/events/259194243/
 - name:
     text: 21st Annual Library Assistants' Day Celebration
     html: 21st Annual Library Assistants&#39; Day Celebration
@@ -346,24 +328,36 @@
   description:
     text: |-
       The 2020 Census is just around the corner. Is your library prepared?
-
       Join us on April 24 to hear from library professionals throughout the state as they make preparations for the 2020 census. The challenges for libraries are manifold: this coming census is the first to move to a digital collection method, and the U.S. government is moving to collect data on citizenship. In spite of these barriers, a fair and accurate count is required to ensure representation and allocation of funds from the federal government.
-
       We’ll learn how libraries across the state are preparing for an influx of census-related inquiries from their communities. We’ll discuss the implications of the move to a digital census. What tools and tactics are needed to ensure a quality count while protecting the privacy of our patrons? How can we work together to ensure that libraries are provided with all the resources they need to operationalize the census at scale?
+      Panelists include:
+
+
+      Caroline Ashby, Nassau Library System
+      Greta Byrum, Digital Equity Lab at The New School
+      Tara Lannen-Stanton Queens Library
+      Jesse Montero, Brooklyn Public Library
+      Lauren Moore, Pioneer Library System
+
 
       Fees for this event are $10, which will go toward funding travel for our speakers. In the event that these fees present a hardship, please reach out to deanderson@metro.org.
-
       This event will be livestreamed; a link will be sent to those who register.
     html: |-
       <P>The 2020 Census is just around the corner. Is your library prepared?</P>
-
       <P>Join us on April 24 to hear from library professionals throughout the state as they make preparations for the 2020 census. The challenges for libraries are manifold: this coming census is the first to move to a digital collection method, and the U.S. government is moving to collect data on citizenship. In spite of these barriers, a fair and accurate count is required to ensure representation and allocation of funds from the federal government.</P>
-
       <P>We’ll learn how libraries across the state are preparing for an influx of census-related inquiries from their communities. We’ll discuss the implications of the move to a digital census. What tools and tactics are needed to ensure a quality count while protecting the privacy of our patrons? How can we work together to ensure that libraries are provided with all the resources they need to operationalize the census at scale?</P>
-
+      <P><SPAN>Panelists include:</SPAN></P>
+      <DIV>
+      <UL>
+      <LI>Caroline Ashby, Nassau Library System</LI>
+      <LI>Greta Byrum, Digital Equity Lab at The New School</LI>
+      <LI>Tara Lannen-Stanton Queens Library</LI>
+      <LI>Jesse Montero, Brooklyn Public Library</LI>
+      <LI>Lauren Moore, Pioneer Library System</LI>
+      </UL>
+      </DIV>
       <P>Fees for this event are $10, which will go toward funding travel for our speakers. In the event that these fees present a hardship, please reach out to deanderson@metro.org.</P>
-
-      <P>This event will be livestreamed; a link will be sent to those who register.<BR></P>
+      <P>This event will be livestreamed; a link will be sent to those who register.</P>
   url: https://www.eventbrite.com/e/the-2020-census-implications-for-libraries-and-patrons-tickets-59461442776
   start:
     timezone: America/New_York
