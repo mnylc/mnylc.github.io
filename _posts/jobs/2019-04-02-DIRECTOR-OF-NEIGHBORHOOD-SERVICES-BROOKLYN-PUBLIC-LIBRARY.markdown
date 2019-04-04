@@ -2,13 +2,13 @@
 layout: post
 title:  "Director of Neighborhood Services - Brooklyn Public Library"
 date:   2019-04-02
-excerpt: "Brooklyn Public Library’s Director of Neighborhood Services oversees the daily operations of 58 branch libraries and a fleet of book mobiles. Reporting to the Chief Librarian, the Director of Neighborhood Services is responsible for staffing and supporting regional and branch teams as they deliver services that are inclusive, accessible, and..."
+excerpt: "As the nation’s sixth-largest library system, Brooklyn Public Library remains true to its original mission “to improve the quality of the minds of the people… and lay the foundation of a better civilization for the future,” though the way we realize that mission has dramatically evolved. BPL welcomes patrons of..."
 tag: job
 ---
 
 ### Description   
 
-Brooklyn Public Library’s Director of Neighborhood Services oversees the daily operations of 58 branch libraries and a fleet of book mobiles. Reporting to the Chief Librarian, the Director of Neighborhood Services is responsible for staffing and supporting regional and branch teams as they deliver services that are inclusive, accessible, and responsive to neighborhood need.
+As the nation’s sixth-largest library system, Brooklyn Public Library remains true to its original mission “to improve the quality of the minds of the people… and lay the foundation of a better civilization for the future,” though the way we realize that mission has dramatically evolved. BPL welcomes patrons of all ages and backgrounds into our soon-to-be 60 branches, offering access to more than 70,000 free programs a year, and a collection of more than 14 million materials. As the borough’s most democratic civic institution, patrons of all backgrounds can access a wide range of educational, career, cultural, and civic resources at their local library, from citizenship classes for new Americans to tablet and MiFi device lending to oral history workshops.                                    Brooklyn Public Library’s Director of Neighborhood Services oversees the daily operations of 58 branch libraries and a fleet of book mobiles. Reporting to the Chief Librarian, the Director of Neighborhood Services is responsible for staffing and supporting regional and branch teams as they deliver services that are inclusive, accessible, and responsive to neighborhood need.
 
 In accordance with BPL’s strategic plan, the Director of Neighborhood Services will have a critical role in supporting collaborative decision-making and continual learning across all staff titles. The successful candidate will demonstrate proficiency in the fundamentals of library branch operations, and also offer a broad vision of library leadership that aims to bolster staff morale and increase patron satisfaction. The Director of Neighborhood Services continuously partners with all other departments at BPL. Key to this role will be the ability to work collaboratively with these various teams to ensure excellent customer service, community engagement, and innovation in all of our branches and neighborhoods. 
 
