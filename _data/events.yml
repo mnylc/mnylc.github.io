@@ -1,24 +1,4 @@
 ---
-- time: 1555351200000
-  link: https://www.meetup.com/metro-digpres/events/258467015/
-  description:
-    html: '<p>In this talk, Shawn Averkamp of AVP will demo a number of tools that
-      AVP has developed to help you automate and streamline your digital preservation
-      workflows, including utilities for fixity checks, embedded metadata, and metadata
-      quality control.</p> <p>Shawn Averkamp is a Senior Consultant with AVP [<a href="https://www.weareavp.com/"
-      class="linkified">https://www.weareavp.com/</a>], a consulting and software
-      development firm. Founded in 2006, AVP provides services to help overcome the
-      challenges faced in the preservation and use of data. With a strong focus on
-      professional standards and best practices, open communication, and the innovative
-      use and development of technological resources, we use our broad knowledge base
-      and extensive experience to help our clients from a variety of sectors efficiently
-      and effectively ensure that content is manageable and accessible for the long-term.</p> '
-  name:
-    html: Tools for Digital Preservation Workflows
-  start:
-    utc: '2019-04-15 14:00:00 -0400'
-    local: '2019-04-15 14:00:00 -0400'
-  url: https://www.meetup.com/metro-digpres/events/258467015/
 - time: 1555509600000
   link: https://www.meetup.com/Economics-Business-Librarians-Group/events/258877604/
   description:
