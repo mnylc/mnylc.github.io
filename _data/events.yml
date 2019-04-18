@@ -1,20 +1,5 @@
 ---
 - name:
-    text: Tour Center for Jewish History
-    html: Tour Center for Jewish History
-  description:
-    text: |-
-      Please join us for a METRO members-only tour of Center for Jewish History. After meeting in the Great Hall, our group will tour the processing/digital lab, learn about the Reading Room & Genealogy Institute, and see a variety of special collections materials.
-      Center for Jewish History and partner collections span a thousand years, with tens of millions of archival documents (in dozens of languages and alphabet systems), more than 500,000 volumes, as well as thousands of artworks, textiles, ritual objects, recordings, films, and photographs. The Center’s experts are leaders in unlocking archival material for a wide audience through the latest practices in digitization, library science, and public education.
-    html: |-
-      <P>Please join us for a METRO members-only tour of Center for Jewish History. After meeting in the Great Hall, our group will tour the processing/digital lab, learn about the Reading Room &amp; Genealogy Institute, and see a variety of special collections materials.</P>
-      <P>Center for Jewish History and partner collections span a thousand years, with tens of millions of archival documents (in dozens of languages and alphabet systems), more than 500,000 volumes, as well as thousands of artworks, textiles, ritual objects, recordings, films, and photographs. The Center’s experts are leaders in unlocking archival material for a wide audience through the latest practices in digitization, library science, and public education.</P>
-  url: https://www.eventbrite.com/e/tour-center-for-jewish-history-tickets-58008782831
-  start:
-    timezone: America/New_York
-    local: '2019-04-17T16:00:00'
-    utc: '2019-04-17T20:00:00Z'
-- name:
     text: 'Union Power: Collective Bargaining in Podcasting'
     html: 'Union Power: Collective Bargaining in Podcasting'
   description:
