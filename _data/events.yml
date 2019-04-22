@@ -1,16 +1,4 @@
 ---
-- time: 1555956000000
-  link: https://www.meetup.com/metro-digpres/events/258760973/
-  description:
-    html: '<p>Rhizome''s Anna Perricci will share with us the ease of using Webrecorder
-      for WARC creation and Rhizome''s other web archiving tools: <a href="http://rhizome.org/software/"
-      class="linkified">http://rhizome.org/software/</a></p> '
-  name:
-    html: 'Webrecorder: web archiving for all!'
-  start:
-    utc: '2019-04-22 14:00:00 -0400'
-    local: '2019-04-22 14:00:00 -0400'
-  url: https://www.meetup.com/metro-digpres/events/258760973/
 - time: 1556046000000
   link: https://www.meetup.com/InstructionReference/events/260279927/
   description:
@@ -393,6 +381,129 @@
     timezone: America/New_York
     local: '2019-05-20T16:00:00'
     utc: '2019-05-20T20:00:00Z'
+- name:
+    text: Introduction to Python and ArchivesSnake for Archivists
+    html: Introduction to Python and ArchivesSnake for Archivists
+  description:
+    text: |-
+      Ever need to make mass changes to your archival description? Need a list of accessions for the last year? Python is a powerful way to read and manipulate your ArchivesSpace data at scale, and ArchivesSnake manages the API calls for you, so you can read, sort, and edit your titles, dates, and notes with only a few lines of code. This workshop introduces archivists to the basics of Python and teaches them how to write basic scripts to work with the ArchivesSpace API.
+      This workshop is designed for archivists who have experience working with archival description, and want to learn how to work with data at scale, and explore Python as a tool to streamline or automate their workflows. Attendees will lean how to create and run Python scripts on their local computer and the basics of Python syntax. After that, they will dive right in and edit or write some code to query, reformat, and edit archival data with an ArchivesSpace instance that will be provided.
+      You might not become a Python pro in one afternoon, but this workshop will give you a foundation and some basic skills and examples that will later help you explore on your own. Come dive in and learn what is possible with Python and ArchivesSpace!
+      After completing this workshop, attendees will know how to:
+
+
+      Create and run Python scripts
+
+
+      Install packages with PIP
+
+
+      Understand data types
+
+
+      Use basic Python syntax, including
+
+
+      If/else conditionals
+
+
+      For loops
+
+
+      Variables
+
+
+      Understand the ArchivesSpace API
+
+
+      Install and configure ArchivesSnake
+
+
+      Query and edit data using the ArchivesSpace API
+
+
+
+
+
+      Requirements:
+
+
+      A laptop with the ability to install local software.
+
+
+      Some comfort with the command line is helpful, but only a willingness to learn is required.
+
+
+      Prior understanding of archival description and/or ArchivesSpace data will be helpful, but experience with ArchivesSpace is not required.
+
+
+
+      About our Instructor:
+      Gregory Wiedeman is the University Archivist at the M.E. Grenander Department of Special Collections & Archives at the University at Albany, SUNY. In addition to ensuring long-term access to the university’s permanent public records, Greg oversees UAlbany’s ArchivesSpace, ArcLight and Hyrax instances and many of the department’s technical services workflows. He has performed code reviews for ArchivesSpace, contributed to ArchivesSnake, and has experience using Python to manipulate archival description and automate workflows between a variety of open source tools.
+
+      We wish to provide a welcoming environment to visitors of all abilities. Please let us know if you require ability assistance by contacting events@metro.org in advance of this event.
+    html: |-
+      <P CLASS="MsoNormal">Ever need to make mass changes to your archival description? Need a list of accessions for the last year? Python is a powerful way to read and manipulate your ArchivesSpace data at scale, and ArchivesSnake manages the API calls for you, so you can read, sort, and edit your titles, dates, and notes with only a few lines of code. This workshop introduces archivists to the basics of Python and teaches them how to write basic scripts to work with the ArchivesSpace API.</P>
+      <P CLASS="MsoNormal">This workshop is designed for archivists who have experience working with archival description, and want to learn how to work with data at scale, and explore Python as a tool to streamline or automate their workflows. Attendees will lean how to create and run Python scripts on their local computer and the basics of Python syntax. After that, they will dive right in and edit or write some code to query, reformat, and edit archival data with an ArchivesSpace instance that will be provided.</P>
+      <P CLASS="MsoNormal">You might not become a Python pro in one afternoon, but this workshop will give you a foundation and some basic skills and examples that will later help you explore on your own. Come dive in and learn what is possible with Python and ArchivesSpace!<BR><BR></P>
+      <P CLASS="MsoNormal">After completing this workshop, attendees will know how to:</P>
+      <UL>
+      <LI>
+      <P><SPAN></SPAN>Create and run Python scripts</P>
+      </LI>
+      <LI>
+      <P><SPAN></SPAN>Install packages with PIP</P>
+      </LI>
+      <LI>
+      <P><SPAN></SPAN>Understand data types</P>
+      </LI>
+      <LI>
+      <P><SPAN></SPAN>Use basic Python syntax, including</P>
+      <UL>
+      <LI>
+      <P>If/else conditionals</P>
+      </LI>
+      <LI>
+      <P>For loops</P>
+      </LI>
+      <LI>
+      <P>Variables</P>
+      </LI>
+      <LI>
+      <P><SPAN></SPAN>Understand the ArchivesSpace API</P>
+      </LI>
+      <LI>
+      <P><SPAN></SPAN>Install and configure ArchivesSnake</P>
+      </LI>
+      <LI>
+      <P><SPAN></SPAN>Query and edit data using the ArchivesSpace API</P>
+      </LI>
+      </UL>
+      </LI>
+      </UL>
+      <P CLASS="MsoNormal"><BR></P>
+      <P CLASS="MsoNormal"><STRONG>Requirements:</STRONG></P>
+      <UL>
+      <LI>
+      <P>A laptop with the ability to install local software.</P>
+      </LI>
+      <LI>
+      <P>Some comfort with the command line is helpful, but only a willingness to learn is required.</P>
+      </LI>
+      <LI>
+      <P>Prior understanding of archival description and/or ArchivesSpace data will be helpful, but experience with ArchivesSpace is not required.</P>
+      </LI>
+      </UL>
+      <P CLASS="MsoNormal"><BR></P>
+      <P CLASS="MsoNormal"><STRONG>About our Instructor:</STRONG></P>
+      <P CLASS="MsoNormal">Gregory Wiedeman is the University Archivist at the M.E. Grenander Department of Special Collections &amp; Archives at the University at Albany, SUNY. In addition to ensuring long-term access to the university’s permanent public records, Greg oversees UAlbany’s ArchivesSpace, ArcLight and Hyrax instances and many of the department’s technical services workflows. He has performed code reviews for ArchivesSpace, contributed to ArchivesSnake, and has experience using Python to manipulate archival description and automate workflows between a variety of open source tools.</P>
+      <P CLASS="MsoNormal"><BR></P>
+      <P><SPAN>We wish to provide a welcoming environment to visitors of all abilities. Please let us know if you require ability assistance by contacting </SPAN><A HREF="mailto:events@metro.org" TARGET="_blank" REL="nofollow noopener noreferrer">events@metro.org</A><SPAN> in advance of this event.</SPAN></P>
+  url: https://www.eventbrite.com/e/introduction-to-python-and-archivessnake-for-archivists-tickets-60709619105
+  start:
+    timezone: America/New_York
+    local: '2019-05-30T13:00:00'
+    utc: '2019-05-30T17:00:00Z'
 - name:
     text: Podcasts To The Rescue! An Emerging Medium for Learning About Civics, Government,
       and the Social Contract
