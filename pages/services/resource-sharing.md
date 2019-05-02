@@ -72,7 +72,7 @@ A wide variety of materials including books, journals, magazines, copies, CDs, D
 All items must be appropriately wrapped and sealed in tearproof envelopes, sturdy bags, or boxes. The first 25 pounds of each shipment are free. Over 25 pounds, additional weight charges will apply.
 
 ### Sending Items
-Check our [Delivery Roster]({{ "/assets/docs/Fall2017Directory.pdf" | prepend: site.baseurl }}) before shipping. This way you can verify that a receiving institution is a current participant in METRO’s Delivery Service.
+Check the delivery column of our [Member Directory]({{ "https://metro.org/members/" | prepend: site.baseurl }}) before shipping. This way you can verify that a receiving institution is a current participant in METRO’s Delivery Service.
 
 ### Receiver requirements
 A representative of the receiving library must sign for all shipments at the time of delivery. Couriers are unable to leave a package without a receipt signature. 
