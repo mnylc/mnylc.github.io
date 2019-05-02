@@ -7,7 +7,7 @@ For nearly 50 years, METRO’s state-of-the-art training, services, and networki
 
 To become a METRO member, please complete this <a href="https://www.google.com/url?q=https://docs.google.com/a/metro.org/forms/d/e/1FAIpQLScdl5-ktEFGNhXXEn4bAF54Blbu8wraOFRshnR42LSWpjwAMQ/viewform&sa=D&ust=1487006619450000&usg=AFQjCNFapEQ3uj1NJ24wWw9pPylQBsq2_Q" target="_blank">form.</a>
 
-Please see our [list of current members.]({{ '/members' | prepend: site.baseurl }}) A copy of this list in PDF format is available [here.]({{ '/assets/docs/Fall2017Directory.pdf' | prepend: site.baseurl }}) Note: if your institution is listed here, you are considered a member of METRO.
+Please see our [list of current members.]({{ '/members' | prepend: site.baseurl }}) Note: if your institution is listed here, you are considered a member of METRO.
 
 <hr />
 
