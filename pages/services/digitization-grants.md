@@ -10,7 +10,7 @@ Funding is distributed on an ongoing basis for qualifying projects that aim to i
 
 Only current METRO member organizations located in New York City and Westchester County are eligible to apply for grant funding. 
 
-<b>Applications for METRO Digitization Project funding for 2019 are now available. Applications are due by May 3, 2019. Please contact  Anne Karle-Zenith, METRO’s Associate Director of Business Development, at [annekz@metro.org](mailto:annekz@metro.org) to request application materials and for any additional information.</b>
+<b>Applications for METRO Digitization Project funding for 2019 are now available. Applications are due by May 10, 2019. Please contact  Anne Karle-Zenith, METRO’s Associate Director of Business Development, at [annekz@metro.org](mailto:annekz@metro.org) to request application materials and for any additional information.</b>
 
 [Current Projects](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [2014](#2014) \| [2012](#2012)
 
