@@ -21,7 +21,7 @@ Quick links for our Delivery Services:
 The METRO Referral Card system makes it easier for students and researchers to locate materials or research onsite at METRO member libraries.
 
 ### Overview
-Yellow Cards allow patrons to search for a specific book or any other item at a METRO member library. Blue cards allow users to search across entire subject areas at METRO member libraries. Both METRO cards are available at [participating member libraries.]({{ "/assets/docs/Fall2017Directory.pdf" | prepend: site.baseurl }}) Please contact Mark Parson at [mparson@metro.org](mailto:mparson@metro.org), or (212) 228-2320 ext 7121 for more information.  
+Yellow Cards allow patrons to search for a specific book or any other item at a METRO member library. Blue cards allow users to search across entire subject areas at METRO member libraries. Both METRO cards are available at [participating member libraries.]({{ "https://metro.org/members/" | prepend: site.baseurl }}) Please contact Mark Parson at [mparson@metro.org](mailto:mparson@metro.org), or (212) 228-2320 ext 7121 for more information.  
 
 ### How to Use Yellow Cards
 The Yellow Card gives library users access to individual titles from other METRO member libraries. 
@@ -31,7 +31,7 @@ To participate in this program, library users must:
 
   1. Verify that the desired title is not available in your library or in the public library system
   2. Identify a library that has the title available using OCLC, WorldCat, Docline, or related resources
-  3. Check the library's listing in the [METRO Member Directory]({{ "/assets/docs/Fall2017Directory.pdf" | prepend: site.baseurl }}).
+  3. Check the library's listing in the [METRO Member Directory]({{ "https://metro.org/members/" | prepend: site.baseurl }}).
   (Remember: access restrictions may apply)
   4. Call or email the holding library to verify that the title is available and to confirm any access restrictions
   5. Fill out the card completely, including the source of verification
