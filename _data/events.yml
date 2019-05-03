@@ -1,35 +1,5 @@
 ---
 - name:
-    text: 'Podcast Brunch Club NYC: The Evolution of Libraries'
-    html: 'Podcast Brunch Club NYC: The Evolution of Libraries'
-  description:
-    text: |
-      Every April, the U.S. celebrates National Library Week. Podcast Brunch Club is steadily adding more library partners to its list of chapters. In honor of both of these things, we wanted to put together a listening list that pays tribute to libraries all over the world. Libraries of today are so much more than books; they circulate all kinds of things from hotspots and e-readers to instruments and kitchen appliances. Libraries themselves are also more than just buildings–these spaces function as community centers: offering meeting spaces, assistance with social services, and access to technology. This listening list explores how libraries have evolved from their origins as places that house information and knowledge to the institutions of today that work to positively impact the communities around them.
-
-
-      (This listening list was curated by Emily Johnson and Dani Elizabeth, who are the chapter leaders of PBC’s first-ever library partner, Meridian Library District chapter.)
-
-
-
-
-      We wish to provide a welcoming environment to visitors of all abilities. Please let us know if you require ability assistance by contacting events@metro.org in advance of this event.
-    html: |-
-      <P>Every April, the U.S. celebrates <A HREF="http://www.ala.org/conferencesevents/celebrationweeks/natlibraryweek" TARGET="_blank" REL="nofollow noopener noreferrer">National Library Week</A>. Podcast Brunch Club is steadily adding more library partners to its list of chapters. In honor of both of these things, we wanted to put together a <A HREF="https://podcastbrunchclub.com/libraries/" TARGET="_blank" REL="nofollow noopener noreferrer">listening list</A> that pays tribute to libraries all over the world. Libraries of today are so much more than books; they circulate all kinds of things from hotspots and e-readers to instruments and kitchen appliances. Libraries themselves are also more than just buildings–these spaces function as community centers: offering meeting spaces, assistance with social services, and access to technology. This listening list explores how libraries have evolved from their origins as places that house information and knowledge to the institutions of today that work to positively impact the communities around them.</P>
-      <DIV><SPAN><BR></SPAN></DIV>
-      <DIV>
-      <P CLASS="m_3083217446716915749gmail-has-small-font-size"><EM>(This <A HREF="https://podcastbrunchclub.com/libraries/" TARGET="_blank" REL="nofollow noopener noreferrer">listening list</A> was curated by Emily Johnson and Dani Elizabeth, who are the chapter leaders of PBC’s first-ever library partner, <A HREF="https://podcastbrunchclub.com/meridian/" TARGET="_blank" REL="nofollow noopener noreferrer">Meridian Library District chapter</A>.)</EM></P>
-      </DIV>
-      <DIV>
-
-
-      <P><SPAN>We wish to provide a welcoming environment to visitors of all abilities. Please let us know if you require ability assistance by contacting </SPAN><A HREF="mailto:events@metro.org" TARGET="_blank" REL="nofollow noopener noreferrer">events@metro.org</A><SPAN> in advance of this event.</SPAN></P>
-      </DIV>
-  url: https://www.eventbrite.com/e/podcast-brunch-club-nyc-the-evolution-of-libraries-tickets-60881575431
-  start:
-    timezone: America/New_York
-    local: '2019-05-02T18:30:00'
-    utc: '2019-05-02T22:30:00Z'
-- name:
     text: Job Search Skills for Librarians & Archivists
     html: Job Search Skills for Librarians &amp; Archivists
   description:
