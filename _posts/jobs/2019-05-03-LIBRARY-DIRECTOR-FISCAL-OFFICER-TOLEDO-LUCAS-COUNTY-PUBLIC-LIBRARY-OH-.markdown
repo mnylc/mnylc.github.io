@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Library Director/Fisca Officer - Toledo Lucas County Public Library (OH)"
+title:  "Library Director/Fiscal Officer - Toledo Lucas County Public Library (OH)"
 date:   2019-05-03
 excerpt: "Engage communities, inspire lifelong learning, and provide universal access to information as the next Library Director/Fiscal Officer for the Toledo Lucas County Public Library. The seven-member Board of Trustees seeks a responsive and visionary director who, through dynamic leadership, will ensure the Library promotes and advances its vital connections to..."
 tag: job
