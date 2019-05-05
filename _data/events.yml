@@ -617,6 +617,89 @@
     timezone: America/New_York
     local: '2019-06-06T19:00:00'
     utc: '2019-06-06T23:00:00Z'
+- time: 1560434400000
+  link: https://www.meetup.com/metro-digpres/events/260861305/
+  description:
+    html: "<p>Rather than passively sitting and listening, as we have done in the
+      previous 4 sessions this year, in this session folks will bring things that
+      they are actively working or struggling on and share their preservation techniques
+      and or ask for assistance from others attendees. For example, I want to learn
+      how you run checksums and report on them.</p> <p>Note:<br/>For this to be valuable,
+      let's hope for a large number of registrants.<br/>Also, please bring your laptop
+      loaded with some assets, metadata and tools.</p> <p>Finally, please thank Davis
+      @ Metro for facilitating space and scheduling. Without Davis and Metro, these
+      opportunities would not be possible.</p> "
+  name:
+    html: Preservathon/Preservashare 2019
+  start:
+    utc: '2019-06-13 10:00:00 -0400'
+    local: '2019-06-13 10:00:00 -0400'
+  url: https://www.meetup.com/metro-digpres/events/260861305/
+- name:
+    text: 'If We Build It...: Sustainable Funding in Libraries and Archives'
+    html: 'If We Build It...: Sustainable Funding in Libraries and Archives'
+  description:
+    text: |-
+      It’s a familiar story.
+      Institution identifies a need. Institution applies for grant funding. Institution receives funding (or fronts the money themselves), onboards staff, works for months toward a viable outcome. Funding ends. The project sunsets, and workers find themselves on the job market once more.
+      While many initiatives find their footing, this cycle is all too real in the library, archives, and museum industry. Much-heralded project outputs fall into the rear view. New services end. Workers find themselves in an increasingly contingent labor market.
+      Please join us for a daylong symposium hosted by METRO Library Council (599 11th Avenue, 8th Floor) on Friday, June 14. We’ll gather to share the stories of projects that on lived and/or died on temporary sources of money, hear from grant-makers who are witness to our growing financial needs, and consider potential paths forward.
+      Agenda:
+      10:00 am - 11:00 am - Morning Keynote with Roger Shonfeld, Ithaka S + R
+      11:00 am - 11:15 am - Break
+      11:15 am - 12:15 pm - Lightning Rounds
+
+      Natalie Milbrodt, Queens Library
+      Bonnie Gordon and Maggie Schreiner, Interference Archive
+
+      12:15 pm - 1:30 pm - Lunch (Offsite)
+      1:30 pm - 2:30 pm - Funders Panel
+
+      James Neal, IMLS
+      Laura Maher, SFE
+
+      2:30 pm - 2:45 pm - Break
+      2:45 pm - 3:45 pm - Breakout groups
+
+      Christian Zabriskie, Yonkers Public Library
+      Megan Wacha, City University of New York
+      Nora Almeida, CityTech
+
+      3:45 - 4:00 pm - Break
+      4:00 - 5:00 - Closing Keynote with Claudia Depkin, Haverstraw King's Daughters Public Library
+    html: |-
+      <P>It’s a familiar story.</P>
+      <P>Institution identifies a need. Institution applies for grant funding. Institution receives funding (or fronts the money themselves), onboards staff, works for months toward a viable outcome. Funding ends. The project sunsets, and workers find themselves on the job market once more.</P>
+      <P>While many initiatives find their footing, this cycle is all too real in the library, archives, and museum industry. Much-heralded project outputs fall into the rear view. New services end. Workers find themselves in an increasingly contingent labor market.</P>
+      <P>Please join us for a daylong symposium hosted by METRO Library Council (599 11th Avenue, 8th Floor) on Friday, June 14. We’ll gather to share the stories of projects that on lived and/or died on temporary sources of money, hear from grant-makers who are witness to our growing financial needs, and consider potential paths forward.</P>
+      <P><BR>Agenda:</P>
+      <P>10:00 am - 11:00 am - Morning Keynote with Roger Shonfeld, Ithaka S + R</P>
+      <P>11:00 am - 11:15 am - Break</P>
+      <P>11:15 am - 12:15 pm - Lightning Rounds</P>
+      <UL>
+      <LI>Natalie Milbrodt, Queens Library</LI>
+      <LI>Bonnie Gordon and Maggie Schreiner, Interference Archive</LI>
+      </UL>
+      <P>12:15 pm - 1:30 pm - Lunch (Offsite)</P>
+      <P>1:30 pm - 2:30 pm - Funders Panel</P>
+      <UL>
+      <LI>James Neal, IMLS</LI>
+      <LI>Laura Maher, SFE</LI>
+      </UL>
+      <P>2:30 pm - 2:45 pm - Break</P>
+      <P>2:45 pm - 3:45 pm - Breakout groups</P>
+      <UL>
+      <LI>Christian Zabriskie, Yonkers Public Library</LI>
+      <LI>Megan Wacha, City University of New York</LI>
+      <LI>Nora Almeida, CityTech</LI>
+      </UL>
+      <P>3:45 - 4:00 pm - Break</P>
+      <P>4:00 - 5:00 - Closing Keynote with Claudia Depkin, Haverstraw King's Daughters Public Library</P>
+  url: https://www.eventbrite.com/e/if-we-build-it-sustainable-funding-in-libraries-and-archives-tickets-61401474463
+  start:
+    timezone: America/New_York
+    local: '2019-06-14T10:00:00'
+    utc: '2019-06-14T14:00:00Z'
 - name:
     text: 'Archives Connect: Developing an Educational Outreach Initiative for Your
       Archive'
@@ -676,3 +759,21 @@
     timezone: America/New_York
     local: '2019-06-17T10:00:00'
     utc: '2019-06-17T14:00:00Z'
+- time: 1562796000000
+  link: https://www.meetup.com/code4libnyc/events/261106656/
+  description:
+    html: '<p>Come and catch up with friends and colleagues at this summer''s social
+      c4l NYC Meetup. Discuss your current projects and be inspired to start new ones.</p>
+      <p>METRO will provide coffee and cookies--feel free to bring a snack to share.
+      If there is interest, we can move to Gotham West Market after the event ends.</p>
+      <p>This meetup is for everyone! From the code4lib "about us": "code4lib isn’t
+      entirely about code or libraries. It is a volunteer-driven collective of hackers,
+      designers, architects, curators, catalogers, artists and instigators from around
+      the world, who largely work for and with libraries, archives and museums on
+      technology ''stuff.''"</p> '
+  name:
+    html: Code4Lib networking & social hour
+  start:
+    utc: '2019-07-10 18:00:00 -0400'
+    local: '2019-07-10 18:00:00 -0400'
+  url: https://www.meetup.com/code4libnyc/events/261106656/
