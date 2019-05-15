@@ -17,27 +17,27 @@ The Senior Library Associate performs a variety of key activities in Watson Libr
 ### Responsibilities   
 
 
-• 	Serves as back-up in the front office and assists with library programs, projects, and general administration
+•         Serves as back-up in the front office and assists with library programs, projects, and general administration
 
-• 	Assists with correspondence relating to Friends of the Library, donor solicitations, and acknowledgements
+•         Assists with correspondence relating to Friends of the Library, donor solicitations, and acknowledgements
 
-• 	Provides outstanding customer service at the Circulation Desk (one hour per day)
+•         Provides outstanding customer service at the Circulation Desk (one hour per day)
 
-• 	As part of a larger team, processes library material acquired through gift and purchase 
+•         As part of a larger team, processes library material acquired through gift and purchase 
 
-• 	Collects data and statistics on library activities and prepares reports
+•         Collects data and statistics on library activities and prepares reports
 
-• 	Serves as a member of the serials team to ensure the efficient and accurate receipt and payment of the library’s journal subscriptions
+•         Serves as a member of the serials team to ensure the efficient and accurate receipt and payment of the library’s journal subscriptions
 
-• 	Prepares bindery shipments for books and periodicals
+•         Prepares bindery shipments for books and periodicals
 
-• 	Assists in processing Interlibrary Loan requests
+•         Assists in processing Interlibrary Loan requests
 
-• 	Occasional evening work required to assist with Friends of the Library programs and other library events
+•         Occasional evening work required to assist with Friends of the Library programs and other library events
 
-• 	Occasional weekend work required (four Saturdays per year)
+•         Occasional weekend work required (four Saturdays per year)
 
-• 	Other related duties
+•         Other related duties
 
 
 ### Qualifications   
