@@ -1,104 +1,5 @@
 ---
 - name:
-    text: Introduction to ArchivesSpace
-    html: Introduction to ArchivesSpace
-  description:
-    text: |-
-      ArchivesSpace is an open source application for managing and providing web access to archives, manuscripts, and digital objects. This one-day workshop will introduce the ArchivesSpace archives information management system and provide training in performing many basic functions in the application. Through instruction and discussion, participants will learn how to use ArchivesSpace to manage accession, resource (collection), digital object, and authority records, as well as some ways to import data into and export data out of the application. Participants will have access to the application and can follow along with the instructor in hands on exercises.
-      This workshop is particularly appropriate for those who are new to ArchivesSpace or just getting started. It is geared toward professional archivists and others working with collection materials and assumes an understanding of archival concepts and functions. The workshop does not address installing or maintaining the software or advanced concepts such as data migration or customizing the application interface.
-      Upon completing this full-day workshop, attendees will have been introduced to using ArchivesSpace to:
-
-
-      Create Accession records
-
-
-      Create Resource records
-
-
-      Create Digital Object records
-
-
-      Create and manage Agent and Subject records, and link them to Accession, Resource, and Digital Object records
-
-
-      Record and manage physical locations within a repository
-
-
-      Produce description output files in standardized data structures such as EAD and MARCXML
-
-
-      Import legacy data
-
-
-
-      What to bring:
-
-
-      A laptop 
-
-
-
-      Or click here to borrow one of METRO's PC laptops for $5.00
-
-
-
-
-      Instructor:
-      Mark Custer is an Archivist / Metadata Coordinator at the Beinecke Rare Book & Manuscript Library. Mark has served on the ArchivesSpace Users Advisory, helped oversee the redevelopment of the ArchivesSpace Public User Interface, and helped launch the Archives at Yale discovery platform at Yale University which uses ArchivesSpace.  Previously, he worked at the Smithsonian Institution, at East Carolina University, and at the Granville County Public Library in North Carolina.
-
-
-      We wish to provide a welcoming environment to visitors of all abilities. Please let us know if you require ability assistance by contacting events@metro.org in advance of this event.
-    html: |-
-      <P><SPAN>ArchivesSpace is an open source application for managing and providing web access to archives, manuscripts, and digital objects. </SPAN>This one-day workshop will introduce the ArchivesSpace archives information management system and provide training in performing many basic functions in the application. Through instruction and discussion, participants will learn how to use ArchivesSpace to manage accession, resource (collection), digital object, and authority records, as well as some ways to import data into and export data out of the application. Participants will have access to the application and can follow along with the instructor in hands on exercises.</P>
-      <P CLASS="MsoNormal">This workshop is particularly appropriate for those who are new to ArchivesSpace or just getting started. It is geared toward professional archivists and others working with collection materials and assumes an understanding of archival concepts and functions. The workshop does not address installing or maintaining the software or advanced concepts such as data migration or customizing the application interface.</P>
-      <P>Upon completing this full-day workshop, attendees will have been introduced to using ArchivesSpace to:</P>
-      <UL>
-      <LI>
-      <P>Create Accession records</P>
-      </LI>
-      <LI>
-      <P>Create Resource records</P>
-      </LI>
-      <LI>
-      <P>Create Digital Object records</P>
-      </LI>
-      <LI>
-      <P>Create and manage Agent and Subject records, and link them to Accession, Resource, and Digital Object records</P>
-      </LI>
-      <LI>
-      <P>Record and manage physical locations within a repository</P>
-      </LI>
-      <LI>
-      <P>Produce description output files in standardized data structures such as EAD and MARCXML</P>
-      </LI>
-      <LI>
-      <P>Import legacy data</P>
-      </LI>
-      </UL>
-
-      <P><STRONG>What to bring:</STRONG></P>
-      <UL>
-      <LI>
-      <P><SPAN>A laptop </SPAN></P>
-      </LI>
-      <UL>
-      <LI>
-      <P><SPAN>Or click </SPAN><A HREF="https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=104722&mode=resource_desc" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>here</SPAN></A><SPAN> to borrow one of METRO's PC laptops for $5.00</SPAN></P>
-      </LI>
-      </UL>
-      </UL>
-
-      <P><STRONG>Instructor:</STRONG></P>
-      <P>Mark Custer is an Archivist / Metadata Coordinator at the Beinecke Rare Book &amp; Manuscript Library. Mark has served on the ArchivesSpace Users Advisory, helped oversee the redevelopment of the ArchivesSpace Public User Interface, and helped launch the Archives at Yale discovery platform at Yale University which uses ArchivesSpace.  Previously, he worked at the Smithsonian Institution, at East Carolina University, and at the Granville County Public Library in North Carolina.</P>
-
-
-      <P><SPAN>We wish to provide a welcoming environment to visitors of all abilities. Please let us know if you require ability assistance by contacting </SPAN><A HREF="mailto:events@metro.org" TARGET="_blank" REL="nofollow noopener noreferrer">events@metro.org</A><SPAN> in advance of this event.</SPAN></P>
-  url: https://www.eventbrite.com/e/introduction-to-archivesspace-tickets-55729897624
-  start:
-    timezone: America/New_York
-    local: '2019-05-16T09:00:00'
-    utc: '2019-05-16T13:00:00Z'
-- name:
     text: It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop)
     html: It&#39;s the year 2039. Where&#39;s your podcast? (A Preserve This Podcast
       workshop)
@@ -523,9 +424,10 @@
       11:00 am - 11:15 am - Break
       11:15 am - 12:15 pm - Case Studies
 
+      Arden Kirkland, Design 4 Learning
       Natalie Milbrodt, Queens Public Library
-      Bonnie Gordon and Maggie Schreiner, Interference Archive
       Sophie Gliddon-Lyon, La MaMa Archive
+      Bonnie Gordon and Maggie Schreiner, Interference Archive
 
       12:15 pm - 1:30 pm - Lunch (Offsite)
       1:30 pm - 2:30 pm - Funders Panel
@@ -553,9 +455,10 @@
       <P>11:00 am - 11:15 am - Break</P>
       <P>11:15 am - 12:15 pm - Case Studies</P>
       <UL>
+      <LI>Arden Kirkland, Design 4 Learning</LI>
       <LI>Natalie Milbrodt, Queens Public Library</LI>
-      <LI>Bonnie Gordon and Maggie Schreiner, Interference Archive</LI>
       <LI>Sophie Gliddon-Lyon, La MaMa Archive</LI>
+      <LI>Bonnie Gordon and Maggie Schreiner, Interference Archive</LI>
       </UL>
       <P>12:15 pm - 1:30 pm - Lunch (Offsite)</P>
       <P>1:30 pm - 2:30 pm - Funders Panel</P>
