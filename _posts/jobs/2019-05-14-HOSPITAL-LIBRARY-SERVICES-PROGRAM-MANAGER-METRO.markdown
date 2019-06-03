@@ -57,7 +57,7 @@ This is a 10 hour a week position, at $30/hr.
 
 ### To Apply   
 
-Please email a .pdf version of your cover letter and resume to info@metro.org, by May 31, 2019.
+Please email a .pdf version of your cover letter and resume to info@metro.org, by June 15, 2019.
 
 
 
