@@ -71,17 +71,6 @@ As a member of METRO’s Administrative team, Anne serves as liaison between MET
 
 Before joining METRO in 2012, Anne worked for six years at the University of Michigan Library, where she managed a project to build a copyright review management system for works in the HathiTrust Digital Library, and as project coordinator for the UM/Google Books partnership to digitize the Library’s collections. She also worked for two years as a Metadata & Cataloging Librarian at Michigan State University Libraries. She graduated twice from the University of Michigan, with an undergrad degree in Business Administration, and a MSI degree from the School of Information, with a Specialization in Library Services. Before becoming a librarian she worked in the music industry, licensing music as well as other copyrighted works for use in advertising, film, television and other media.
 
-## John Mignault
-**Software Developer**
-
-jmignault@metro.org
-
-John is the Technology Specialist for the Empire State Digital Network (ESDN), a statewide service hub for the Digital Public Library of America (DPLA).
-
-John has worked with digitization programs and library systems since 2006. Most recently, he was the Systems Librarian for the New York Botanical Garden's LuEsther T. Mertz Library, where he oversaw and managed the Library's digitization program and acted as the IT liaison for the Library. He has also been involved in the Biodiversity Heritage Library from its early days, serving on BHL's Technical Advisory Group and representing BHL at hackathons and conferences.
-
-John worked in corporate development for a number of years for such companies as Oxygen Media, The New York Times, and MLB.com. John received his MLS from Simmons College in 1994, and a B.A. in Comparative Literature from Brown University in 1980.
-
 ## Shelly Mohammed
 **Controller**
 
@@ -113,16 +102,6 @@ an MLIS student at University of Washington's iSchool. Prior to committing to li
 service, agriculture, tech, open access and textbook publishing, and urban planning. When she's not tweeting @preservethispod, she's
 keeping up with conversations around diversity and inclusion strategies, open source open access, managing data responsibly, archiving
 dance and audio, and figuring out how libraries can keep being Libraries in support of individuals and communities.
-
-## Margo Padilla
-**Manager of Archival Solutions**
-
-mpadilla@metro.org
-
-Margo manages METRO's strategic initiatives, including program development, emerging technologies and member services, and other special events and projects to support METRO’s strategic goals.
-
-Before joining METRO in 2014, she was a resident in the inaugural cohort of the National Digital Stewardship Residency program, working at the University of Maryland Libraries and Maryland Institute for Technology in the Humanities on access policies, reference procedures, and research support for born-digital collections. Prior to that, she worked for seven years at The Bancroft Library at the University of California, Berkeley on digital projects and initiatives.
-Margo received her MLIS with a concentration in Management, Digitization, and Preservation of Cultural Heritage and Records from San Jose State University and her undergraduate degree from the University of California, Berkeley.
 
 ## Mark Parson
 **Delivery Services Coordinator/Administrative Support Assistant**
