@@ -2,7 +2,7 @@
 layout: post
 title:  "Library Assistant II - Yeshiva University"
 date:   2019-05-13
-excerpt: "Library Assistant II Job No: 493301 Work Type: Staff 1199 Union Department: University Libraries Location: Wilf Campus, 500 West 185th Street, NY, NY Categories: Administrative Support, Clerical, Student Services Position Summary: Perform basic and advanced cataloging tasks under supervision of a librarian. Uses bibliographic utilities and authority records to compose..."
+excerpt: "Library Assistant II Job No: 493300 Work Type: Staff 1199 Union, Staff Full-time Department: University Libraries Location: Wilf Campus, 500 West 185th Street, NY, NY Categories: Administrative Support, Clerical, Student Services Position Summary: Manages all interlibrary loan transactions. Fulfills requests for loans to other institutions as well as requests to..."
 tag: job
 ---
 
@@ -10,9 +10,9 @@ tag: job
 
 Library Assistant II
 
-Job No: 493301
+Job No: 493300
 
-Work Type: Staff 1199 Union
+Work Type: Staff 1199 Union, Staff Full-time
 
 Department: University Libraries
 
@@ -22,43 +22,41 @@ Categories: Administrative Support, Clerical, Student Services
 
 Position Summary:
 
-Perform basic and advanced cataloging tasks under supervision of a librarian. Uses bibliographic utilities and authority records to compose accurate descriptive data.
+Manages all interlibrary loan transactions. Fulfills requests for loans to other institutions as well as requests to borrow on behalf of university constituents from other institutions.
 
 Position Responsibilities:
 
-• Perform basic and advanced cataloging of materials in the Hebrew language under supervision of a librarian
-• Use bibliographic utilities and authority records to create accurate descriptive data
-• Supply information to library users by using a large number of library resources and involving substantial knowledge of a subject field or collection and of library technology services offered to patrons
-• Circulate library materials according to established policies and procedures
-• Assist students, faculty, and visitors with general inquiries and refers them as needed to librarians
-• Identifies complex problems relating to legal materials and/or legal invoices by interpreting information in library files or bibliographic tools and takes the necessary action to resolve these problems. Identifies and updates information in online vendor and payment files.
-• Coordinates ILL requests and transactions and tracks ILL data and statistics.
+• Coordinate all interlibrary loan requests
+• Fulfill requests for loans to other institutions as well as requests to borrow on behalf of university constituents from other institutions
+• Track data and statistics on interlibrary loan transactions
+• Coordinates activities relating to the circulation of general library materials and the Reserve Collections.
 • Performs routine maintenance tasks (software installation, removal and update), reformats data for staff and troubleshoots library computer equipment, all under the supervision of the Library Systems Administrator
 • Interprets faculty reserve requests.
-• Perform other related duties as assigned
+• Identifies complex problems relating to legal materials and/or legal invoices by interpreting information in library files or bibliographic tools and takes the necessary action to resolve these problems. Identifies and updates information in online vendor and payment files.
+• Supplies information to library users by using a large number of library resources and involving substantial knowledge of a subject field or collection and of library technology services offered to patrons.
+• Performs advanced cataloging tasks under supervision of a librarian.
+• Perform other related duties as assigned.
 
 Experience & Educational Background:
 
-• Very good reading proficiency in Hebrew required
-• Minimum 4 years library experience preferred
+• Minimum 4 years library experience required
 • College degree or documented educational equivalent preferred
 
 Skills & Competencies:
 
-• Very good reading proficiency in Hebrew language required
-• Must be able to lift up to 20 lbs.
 • Must have excellent reading, data entry and word processing skills; mathematical skills where appropriate; accuracy and attention to detail
+• Must be able to lift up to 20 lbs.
 • High level of familiarity with library policies and procedures
 • Familiarity with library equipment and ability to communicate to users how the equipment functions.
 • Demonstrated understanding of the Library website and ability to direct users to relevant sections and services
 • Customer service demeanor, good listening skills, patience when dealing with patrons
 • Sound judgment about when to respond and when to refer patrons and/or questions to a professional librarian or supervisor
-• Should project a positive attitude about the Library and the University when interacting with Library patrons
+• Should project a positive attitude about the Library and the University when interacting with Library patrons and staff members of other institutions
 • Self-discipline and judgment are essential as work will often be performed in the absence of a supervisor
 
 Application Instructions:
 
-To apply, visit [https://apptrkr.com/1449154](https://apptrkr.com/1449154)
+To apply, visit [https://apptrkr.com/1449143](https://apptrkr.com/1449143)
 
 Submit letter of interest and résumé.
 
@@ -77,7 +75,7 @@ Yeshiva University is an equal opportunity employer committed to hiring minoriti
 Copyright ©2017 Jobelephant.com Inc. All rights reserved.
 
 [https://www.jobelephant.com/](https://www.jobelephant.com/)
-jeid-5d088bb8d145fc46b1131eb30b9aa356
+jeid-b4b79d61eb2d3a42bd27607ab3daa91a
 
 
 
@@ -88,14 +86,14 @@ jeid-5d088bb8d145fc46b1131eb30b9aa356
 
 ### Location   
 
-New York, NY, USA
+New York, NY, USA 
 
 
 
 
 ### To Apply   
 
-[https://apptrkr.com/1449154](https://apptrkr.com/1449154)
+[https://apptrkr.com/1449143](https://apptrkr.com/1449143)
 
 
 
