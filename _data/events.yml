@@ -1,22 +1,4 @@
 ---
-- time: 1560434400000
-  link: https://www.meetup.com/metro-digpres/events/260861305/
-  description:
-    html: "<p>Rather than passively sitting and listening, as we have done in the
-      previous 4 sessions this year, in this session folks will bring things that
-      they are actively working or struggling on and share their preservation techniques
-      and or ask for assistance from others attendees. For example, I want to learn
-      how you run checksums and report on them.</p> <p>Note:<br/>For this to be valuable,
-      let's hope for a large number of registrants.<br/>Also, please bring your laptop
-      loaded with some assets, metadata and tools.</p> <p>Finally, please thank Davis
-      @ Metro for facilitating space and scheduling. Without Davis and Metro, these
-      opportunities would not be possible.</p> "
-  name:
-    html: Preservathon/Preservashare 2019
-  start:
-    utc: '2019-06-13 10:00:00 -0400'
-    local: '2019-06-13 10:00:00 -0400'
-  url: https://www.meetup.com/metro-digpres/events/260861305/
 - name:
     text: 'If We Build It...: Sustainable Funding in Libraries and Archives'
     html: 'If We Build It...: Sustainable Funding in Libraries and Archives'
