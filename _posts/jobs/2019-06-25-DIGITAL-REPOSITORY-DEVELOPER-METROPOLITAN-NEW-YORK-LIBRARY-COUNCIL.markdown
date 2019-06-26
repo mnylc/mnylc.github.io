@@ -17,55 +17,32 @@ Remote work is acceptable, but preference will be given to candidates who can jo
 
 ### Responsibilities   
 
-Must communicate well, and work with the rest of the team to gather users needs and then transform them into simple, intuitive interfaces and workflows
-
-Show up with curiosity, creativity, and flexibility every day
-
-Possess problem solving and critical thinking skills
-
-Be comfortable with a certain degree of self direction: can perform their own research and present new information and solutions to the rest of the team
-
-Be able to work efficiently and meet deadlines 
-
-Be respectful, and always follow our code of conduct
-
-Demonstrated experience with collaborative full-stack software development: for example, reviewing other people’s code, writing documentation...
-
-Degree in Computer Science, Information Science, or a related field, or an equivalent combination of education and relevant experience.
-
-Demonstrated proficiency writing PHP and using frameworks as Symfony
-
-Understanding of Drupal 7 and Drupal 8/9 environments
-
-Demonstrated proficiency in SQL and relational databases such as mySQL, Postgres, etc.
-
-Expert level HTML and CSS skills
-
-Experience with Solr 
-
-Experience with modern JS, at least for client side development
-
-Experience working with Unix/Linux based OS, managing and deploying services
-
-Understanding of Docker based deployments
-
-A conversant understanding of metadata standards and their value within the library and cultural heritage community
-
-Experience working with JSON/JSON-LD/XML
-
-Experience working with Git and Github for version control and development workflows
+- Must communicate well, and work with the rest of the team to gather users needs and then transform them into simple, intuitive interfaces and workflows  
+- Show up with curiosity, creativity, and flexibility every day  
+- Possess problem solving and critical thinking skills  
+- Be comfortable with a certain degree of self direction: can perform their own research and present new information and solutions to the rest of the team  
+- Be able to work efficiently and meet deadlines   
+- Be respectful, and always follow our code of conduct  
+- Demonstrated experience with collaborative full-stack software development: for example, reviewing other people’s code, writing documentation...  
+- Degree in Computer Science, Information Science, or a related field, or an equivalent combination of education and relevant experience.  
+- Demonstrated proficiency writing PHP and using frameworks as Symfony  
+- Understanding of Drupal 7 and Drupal 8/9 environments  
+- Demonstrated proficiency in SQL and relational databases such as mySQL, Postgres, etc.  
+- Expert level HTML and CSS skills  
+- Experience with Solr  
+- Experience with modern JS, at least for client side development  
+- Experience working with Unix/Linux based OS, managing and deploying services  
+- Understanding of Docker based deployments  
+- A conversant understanding of metadata standards and their value within the library and cultural heritage community  
+- Experience working with JSON/JSON-LD/XML  
+- Experience working with Git and Github for version control and development workflows  
 
 BONUS---
 
-Mastery of Twig templating
-
-Experience with Wikibase, Wikidata and Triple stores
-
-Mastery of Docker and Docker Compose
-
-Experience working with AWS and cloud service providers
-
-
+- Mastery of Twig templating  
+- Experience with Wikibase, Wikidata and Triple stores  
+- Mastery of Docker and Docker Compose  
+- Experience working with AWS and cloud service providers  
 
 
 ### Compensation   
