@@ -17,12 +17,6 @@ Remote work is acceptable, but preference will be given to candidates who can jo
 
 ### Responsibilities   
 
-
-
-
-
-### Qualifications   
-
 Must communicate well, and work with the rest of the team to gather users needs and then transform them into simple, intuitive interfaces and workflows
 
 Show up with curiosity, creativity, and flexibility every day
