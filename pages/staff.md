@@ -17,11 +17,11 @@ Nate grew up in upstate New York and began his career in libraries at Brooklyn P
 Nate was named a "Mover and Shaker" by Library Journal in 2012. He earned his undergraduate degree in art from Skidmore College and an MLIS from Pratt Institute’s School of Information and Library Science. When he’s not busy library-ing, Nate enjoys hiking, camping, art, design, and tinkering alongside his wife and kids.
 
 ## Davis Erin Anderson
-**Program Manager – Technology, Culture, and Libraries**
+**Manager of Programs and Partnerships**
 
 deanderson@metro.org
 
-As Program Manager, Davis's work focuses on understanding the impact of technology on culture at large, translating these challenges into real solutions for library staff. She is project manager for NYC Digital Safety, an NYC-funded program that informs libraries of evergreen topics in data privacy and digital security.
+As Manager of Programs and Partnerships, Davis's work focuses on understanding the impact of technology on culture at large, translating these challenges into real solutions for library staff. She is project manager for NYC Digital Safety, an NYC-funded program that informs libraries of evergreen topics in data privacy and digital security.
 
 Davis worked with Mozilla Foundation to review and update their web literacy curriculum, resulting in the launch of Mozilla's Core Curriculum for Web Literacy in March 2018.
 
