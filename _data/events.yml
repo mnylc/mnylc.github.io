@@ -42,3 +42,31 @@
     utc: '2019-07-24 18:30:00 -0400'
     local: '2019-07-24 18:30:00 -0400'
   url: https://www.meetup.com/Prison-Library-Support-Network/events/261488188/
+- name:
+    text: Workshop Your Workshop
+    html: Workshop Your Workshop
+  description:
+    text: "Are you interested in leading a workshop in your library, archive, or workplace?
+      Or perhaps you've been teaching for years but want some new strategies? Workshop
+      your Workshop will help you polish your unique content into deeply engaging
+      and unforgettable workshops or classes. \nThis course will provide you with
+      the tools you need, including ways to build community in your classes, facilitate
+      discussions, and engage effectively with diverse groups of learners. The workshop
+      will focus on culturally responsive practices, which emphasizes honoring the
+      experiences of both teachers and students.\n\nAbout our Facilitator\nJessica
+      Hochman, PhD is an educational consultant and faculty member at Syracuse University.
+      She has 20 years of experience working as a teacher, professor, researcher,
+      and consultant. She has taught workshops and courses, and facilitated numerous
+      professional development programs. She helps individuals, groups and organizations
+      use culturally responsive practices to build stronger, more equitable communities."
+    html: |-
+      <P><SPAN>Are you interested in leading a </SPAN><SPAN CLASS="il">workshop</SPAN><SPAN> in your library, archive, or workplace? Or perhaps you've been teaching for years but want some new strategies? </SPAN><SPAN CLASS="il">Workshop</SPAN><SPAN> your </SPAN><SPAN CLASS="il">Workshop</SPAN><SPAN> will help you polish your unique content into deeply engaging and unforgettable </SPAN><SPAN CLASS="il">workshops</SPAN><SPAN> or classes. </SPAN></P>
+      <P><SPAN>This course will provide you with the tools you need, including ways to build community in your classes, facilitate discussions, and engage effectively with diverse groups of learners. The </SPAN><SPAN CLASS="il">workshop</SPAN><SPAN> will focus on culturally responsive practices, which emphasizes honoring the experiences of both teachers and students.</SPAN></P>
+
+      <P><EM>About our Facilitator</EM></P>
+      <P>Jessica Hochman, PhD is an educational consultant and faculty member at Syracuse University. She has 20 years of experience working as a teacher, professor, researcher, and consultant. She has taught <SPAN CLASS="il">workshops</SPAN> and courses, and facilitated numerous professional development programs. She helps individuals, groups and organizations use culturally responsive practices to build stronger, more equitable communities.</P>
+  url: https://www.eventbrite.com/e/workshop-your-workshop-tickets-64614555876
+  start:
+    timezone: America/New_York
+    local: '2019-09-23T10:00:00'
+    utc: '2019-09-23T14:00:00Z'
