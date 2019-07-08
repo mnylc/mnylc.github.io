@@ -42,6 +42,62 @@
     utc: '2019-07-24 18:30:00 -0400'
     local: '2019-07-24 18:30:00 -0400'
   url: https://www.meetup.com/Prison-Library-Support-Network/events/261488188/
+- time: 1564513200000
+  link: https://www.meetup.com/racial-and-social-justice-in-the-library/events/262979247/
+  description:
+    html: '<p>Hola a todos/ Hello everyone!</p> <p>Join the Racial and Social justice
+      in LIS Meetup.</p> <p>Let’s discuss professionalism in librarianship, our definitions
+      for professionalism and the ways we sustain neutrality when performing it. We
+      will also discuss who gets to be called and be recognized as a professional
+      and why. In addition, we will be discussing how oppressive professionalism is
+      to certain groups in our community.</p> <p>The intention of this meetup is to
+      provide a comfortable space where we discuss our ideas of professionalism in
+      librarianship.</p> <p>If you have the time, please read this blog post by Madison
+      Sullivan before the meetup!<br/><a href="https://acrlog.org/2016/01/19/professionalism/"
+      class="linkified">https://acrlog.org/2016/01/19/professionalism/</a></p> '
+  name:
+    html: 'Questioning Professionalism in LIS '
+  start:
+    utc: '2019-07-30 15:00:00 -0400'
+    local: '2019-07-30 15:00:00 -0400'
+  url: https://www.meetup.com/racial-and-social-justice-in-the-library/events/262979247/
+- name:
+    text: 'The Future Is Open Access, but How Do We Get There?: A Symposium'
+    html: 'The Future Is Open Access, but How Do We Get There?: A Symposium'
+  description:
+    text: |-
+      Each year, more and more scholarly works are made openly available. Indeed, with European research agencies now coordinating to require immediate open access to publications based on research they fund, predictions about the inevitability of open access may soon come true. 
+      As open access becomes the norm, what decisions will scholars, libraries, and institutions make? Will we reproduce existing power structures, guaranteeing the continued dominance of high-profit publishers and flawed impact metrics? Or will we build something different — community-led publishing on community-owned infrastructure, with legal terms that protect the rights and privacy of authors and readers?
+      We will explore these questions in a two-day symposium hosted by METRO Library Council (and the City University of New York?) on Thursday, September 12. 
+      We are now accepting proposals for presentations, panels, activities, and facilitated discussions relevant to these questions. Possible topics include but are not limited to:
+
+      Scholarly start-ups, business models, and acquisitions 
+      Library publishing services
+      Tensions between readership data and privacy
+      Investing in open publishing and/or open infrastructure
+      Use and misuse of metrics in faculty evaluation
+      Open advocacy inside and outside the library
+
+      To submit a proposal, please complete this form by Thursday, August 1. We look forward to hearing from you!
+    html: |-
+      <P><SPAN>Each year, </SPAN><A HREF="https://poeticeconomics.blogspot.com/2018/12/2018-best-year-yet-for-net-growth-of.html" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>more and more scholarly works are made openly available</SPAN></A><SPAN>. Indeed, with </SPAN><A HREF="https://www.coalition-s.org/" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>European research agencies now coordinating</SPAN></A><SPAN> to require immediate open access to publications based on research they fund, predictions about the </SPAN><A HREF="https://crl.acrl.org/index.php/crl/article/view/16255" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>inevitability of open access</SPAN></A><SPAN> may soon come true. </SPAN></P>
+      <P>As open access becomes the norm, what decisions will scholars, libraries, and institutions make? Will we reproduce <A HREF="https://sparcopen.org/our-work/landscape-analysis/" TARGET="_blank" REL="nofollow noopener noreferrer">existing power structures</A>, guaranteeing the continued dominance of high-profit publishers and flawed impact metrics? Or will we build something different — <A HREF="https://crln.acrl.org/index.php/crlnews/article/view/17246/18986" TARGET="_blank" REL="nofollow noopener noreferrer">community-led publishing on community-owned infrastructure</A>, with legal terms that protect the rights and privacy of authors and readers?</P>
+      <P>We will explore these questions in a two-day symposium hosted by METRO Library Council (and the City University of New York?) on Thursday, September 12. </P>
+      <P>We are now accepting proposals for presentations, panels, activities, and facilitated discussions relevant to these questions. Possible topics include but are not limited to:</P>
+      <UL>
+      <LI><SPAN>Scholarly start-ups, business models, and acquisitions</SPAN> </LI>
+      <LI>Library publishing services</LI>
+      <LI>Tensions between readership data and privacy</LI>
+      <LI>Investing in open publishing and/or open infrastructure</LI>
+      <LI><SPAN>Use </SPAN>and misuse of metrics in faculty evaluation</LI>
+      <LI><SPAN>Open advocacy inside and outside the library</SPAN></LI>
+      </UL>
+      <P>To submit a proposal, please <A HREF="https://docs.google.com/forms/d/e/1FAIpQLSde0f5Xy5WJtzyZtdOsXQ7T-PPUWcPaA1lKee2scGTOHIOqYQ/viewform?usp=sf_link" TARGET="_blank" REL="nofollow noopener noreferrer">complete this form</A> by Thursday, August 1. We look forward to hearing from you!</P>
+  url: https://www.eventbrite.com/e/the-future-is-open-access-but-how-do-we-get-there-a-symposium-tickets-64613766515
+  start:
+    timezone: America/New_York
+    local: '2019-09-12T10:00:00'
+    utc: '2019-09-12T14:00:00Z'
 - name:
     text: Workshop Your Workshop
     html: Workshop Your Workshop
@@ -70,3 +126,30 @@
     timezone: America/New_York
     local: '2019-09-23T10:00:00'
     utc: '2019-09-23T14:00:00Z'
+- name:
+    text: Data, Data, Everywhere
+    html: Data, Data, Everywhere
+  description:
+    text: |-
+      Data, Data, Everywhere: Why Tech Giants Collect Your Data and How To Stop Them
+      Many of us use digital technology nearly every waking hour of our day. And we’re not alone: studies show that the typical American adult looks at screens for an average of eleven hours a day…. and counting.
+      The eleven hours spent with our devices produce a steady stream of personal data that can be utilized by tech giants to influence our behavior. More pressingly, our accumulated data can be used against us in the event of, for example, a successful phishing attempt or a data breach.
+      This workshop will provide a gentle introduction to how the internet works so that we can identify how and why our information is collected, with and without our knowledge. We’ll take a tour of the online information flow, discuss the ways in which our information is used, and describe how even our smallest actions -- like which posts we stop to read and which links we click -- amount to data so valuable that internet companies will do almost anything to keep our attention.
+      We’ll describe the ways in which we can reduce the impact of all of this exposure. And since this goes beyond us as individuals, we will discuss the ways in which our patrons are exposed to these same issues. We’ll develop creative solutions for what we can do to help.
+      By the end of this workshop, you’ll have a better sense of the data that’s being collected about you, why it is being collected, and what we can do to protect ourselves and our patrons from relentless surveillance.
+      About the facilitatorDavis Erin Anderson's work focuses on understanding the impact of technology on culture at large, translating these challenges into real solutions for library staff. She is project lead for NYC Digital Safety, an NYC-funded program that keeps library staff informed about evergreen topics in data privacy and digital security.
+      Davis worked with Mozilla Foundation to review and update their web literacy curriculum, resulting in the launch of Mozilla’s Core Curriculum for Web Literacy in March 2018. In addition to planning and emceeing METRO’s symposia series, Davis has designed and facilitated workshops on data privacy & security, web mechanics, and personal networking skills for library staff.
+    html: |-
+      <P>Data, Data, Everywhere: Why Tech Giants Collect Your Data and How To Stop Them</P>
+      <P>Many of us use digital technology nearly every waking hour of our day. And we’re not alone: studies show that the typical American adult looks at screens for an average of eleven hours a day…. and counting.</P>
+      <P>The eleven hours spent with our devices produce a steady stream of personal data that can be utilized by tech giants to influence our behavior. More pressingly, our accumulated data can be used against us in the event of, for example, a successful phishing attempt or a data breach.</P>
+      <P>This workshop will provide a gentle introduction to how the internet works so that we can identify how and why our information is collected, with and without our knowledge. We’ll take a tour of the online information flow, discuss the ways in which our information is used, and describe how even our smallest actions -- like which posts we stop to read and which links we click -- amount to data so valuable that internet companies will do almost anything to keep our attention.</P>
+      <P>We’ll describe the ways in which we can reduce the impact of all of this exposure. And since this goes beyond us as individuals, we will discuss the ways in which our patrons are exposed to these same issues. We’ll develop creative solutions for what we can do to help.</P>
+      <P>By the end of this workshop, you’ll have a better sense of the data that’s being collected about you, why it is being collected, and what we can do to protect ourselves and our patrons from relentless surveillance.</P>
+      <P><EM>About the facilitator</EM><BR>Davis Erin Anderson's work focuses on understanding the impact of technology on culture at large, translating these challenges into real solutions for library staff. She is project lead for NYC Digital Safety, an NYC-funded program that keeps library staff informed about evergreen topics in data privacy and digital security.</P>
+      <P>Davis worked with Mozilla Foundation to review and update their web literacy curriculum, resulting in the launch of Mozilla’s Core Curriculum for Web Literacy in March 2018. In addition to planning and emceeing METRO’s symposia series, Davis has designed and facilitated workshops on data privacy &amp; security, web mechanics, and personal networking skills for library staff.</P>
+  url: https://www.eventbrite.com/e/data-data-everywhere-tickets-64986604684
+  start:
+    timezone: America/New_York
+    local: '2019-10-29T10:00:00'
+    utc: '2019-10-29T14:00:00Z'
