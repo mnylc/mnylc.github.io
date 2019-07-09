@@ -36,7 +36,7 @@ Remote work is acceptable, but preference will be given to candidates who can jo
 - Experience working with AWS and cloud service providers  
 
 ### This person also must:  
-- Must communicate well, and work with the rest of the team to gather users needs and then transform them into simple, intuitive interfaces and workflows  
+- Communicate well, and work with the rest of the team to gather users needs and then transform them into simple, intuitive interfaces and workflows  
 - Show up with curiosity, creativity, and flexibility every day  
 - Possess problem solving and critical thinking skills  
 - Be comfortable with a certain degree of self direction: can perform their own research and present new information and solutions to the rest of the team  
