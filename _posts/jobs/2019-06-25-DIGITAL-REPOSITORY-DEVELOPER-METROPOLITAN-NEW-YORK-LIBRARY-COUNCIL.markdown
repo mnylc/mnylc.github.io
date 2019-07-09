@@ -90,6 +90,7 @@ metro.org
 
 ### To Apply   
 
+We are receiving applications until July 19th.  
 METRO is an equal opportunity employer.
 To apply send resume, cover letter, and portfolio to info@metro.org 
 
