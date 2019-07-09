@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hospital Library Services Program Manager - METRO"
-date:   2019-06-10
+date:   2019-07-08
 excerpt: "The METRO Hospital Library Services Program (HLSP) supports the work of more than 40 hospital and medical center libraries in New York City and Westchester County. Reporting to the Deputy Director, the HLSP Manager is a part-time position that supports METRO in helping to develop, enhance, and improve the delivery..."
 tag: job
 ---
