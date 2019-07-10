@@ -99,6 +99,35 @@
     local: '2019-09-12T10:00:00'
     utc: '2019-09-12T14:00:00Z'
 - name:
+    text: Developing a Culturally Responsive Literacy Lens
+    html: Developing a Culturally Responsive Literacy Lens
+  description:
+    text: |-
+      This workshop will help  library workers and educators build awareness about race, class, gender, sexuality. Participants will develop language to engage in conversations around these topics in their workplaces and communities. This workshops will help participants advocate for all people’s access to relevant materials, create meaningful programs, and enhance day-to-day library practice. Instruction will refer to prominent texts from the field of culturally relevant education -- particularly literacy education -- as well as films, elements of popular culture, and anecdotes from everyday life, libraries, and classrooms.By the end of this session, participants will be able to:
+
+      Situate themselves within US cultural context and a local context
+      Draw on daily work experiences as a mode of professional learning about cultural context
+      Reflect on how texts have shaped their personal identity and how it can shape those of students and patrons
+      Develop an understanding of why and how to think critically about text choices
+      Brainstorm strategies for bringing these practices into their local contexts and workplaces
+
+      About our facilitatorsJessica Hochman, PhD is an educational consultant and faculty member at Syracuse University. She has 20 years of experience working as a teacher, professor, and researcher. She has taught workshops and courses, and facilitated numerous professional development programs. She helps individuals, groups and organizations use culturally responsive practices to build stronger, more equitable communities.Tonya Leslie is an educational consultant specializing in culturally responsive practices for schools, libraries and other educational organizations. She has a PhD in teaching and learning from NYU where she worked at the Metropolitan Center for Research and Transformation of Schools supporting school districts nationally to develop strategies for closing achievement gaps and improving systems for equitable outcomes. Her research explores how multiple literacies influence identity development and academic resilience. Currently, Leslie works with educational publishers like Scholastic to build strategies for the development of diverse texts.
+    html: |-
+      <P>This workshop will help  library workers and educators build awareness about race, class, gender, sexuality. Participants will develop language to engage in conversations around these topics in their workplaces and communities. This workshops will help participants advocate for all people’s access to relevant materials, create meaningful programs, and enhance day-to-day library practice. Instruction will refer to prominent texts from the field of culturally relevant education -- particularly literacy education -- as well as films, elements of popular culture, and anecdotes from everyday life, libraries, and classrooms.<BR><BR>By the end of this session, participants will be able to:<BR></P>
+      <UL>
+      <LI>Situate themselves within US cultural context and a local context</LI>
+      <LI>Draw on daily work experiences as a mode of professional learning about cultural context</LI>
+      <LI>Reflect on how texts have shaped their personal identity and how it can shape those of students and patrons</LI>
+      <LI>Develop an understanding of why and how to think critically about text choices</LI>
+      <LI>Brainstorm strategies for bringing these practices into their local contexts and workplaces<BR></LI>
+      </UL>
+      <P><BR><EM>About our facilitators</EM><BR>Jessica Hochman, PhD is an educational consultant and faculty member at Syracuse University. She has 20 years of experience working as a teacher, professor, and researcher. She has taught workshops and courses, and facilitated numerous professional development programs. She helps individuals, groups and organizations use culturally responsive practices to build stronger, more equitable communities.<BR><BR>Tonya Leslie is an educational consultant specializing in culturally responsive practices for schools, libraries and other educational organizations. She has a PhD in teaching and learning from NYU where she worked at the Metropolitan Center for Research and Transformation of Schools supporting school districts nationally to develop strategies for closing achievement gaps and improving systems for equitable outcomes. Her research explores how multiple literacies influence identity development and academic resilience. Currently, Leslie works with educational publishers like Scholastic to build strategies for the development of diverse texts.<BR><BR></P>
+  url: https://www.eventbrite.com/e/developing-a-culturally-responsive-literacy-lens-tickets-65107691859
+  start:
+    timezone: America/New_York
+    local: '2019-09-16T14:00:00'
+    utc: '2019-09-16T18:00:00Z'
+- name:
     text: Workshop Your Workshop
     html: Workshop Your Workshop
   description:
