@@ -1,22 +1,4 @@
 ---
-- time: 1562796000000
-  link: https://www.meetup.com/code4libnyc/events/261106656/
-  description:
-    html: '<p>Come and catch up with friends and colleagues at this summer''s social
-      c4l NYC Meetup. Discuss your current projects and be inspired to start new ones.</p>
-      <p>METRO will provide coffee and cookies--feel free to bring a snack to share.
-      If there is interest, we can move to Gotham West Market after the event ends.</p>
-      <p>This meetup is for everyone! From the code4lib "about us": "code4lib isn’t
-      entirely about code or libraries. It is a volunteer-driven collective of hackers,
-      designers, architects, curators, catalogers, artists and instigators from around
-      the world, who largely work for and with libraries, archives and museums on
-      technology ''stuff.''"</p> '
-  name:
-    html: Code4Lib networking & social hour at METRO
-  start:
-    utc: '2019-07-10 18:00:00 -0400'
-    local: '2019-07-10 18:00:00 -0400'
-  url: https://www.meetup.com/code4libnyc/events/261106656/
 - time: 1564007400000
   link: https://www.meetup.com/Prison-Library-Support-Network/events/261488188/
   description:
