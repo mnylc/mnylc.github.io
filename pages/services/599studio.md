@@ -5,11 +5,16 @@ permalink: /services/599studio
 Come use our studio services on the 8th floor at 599 11th Ave! Read more about the equipment available at each of our  workstations further down on this page. Fill out the accompanying interest forms to book a time to use the stations. Please contact the Studio Manager, [Molly Schwartz](mailto:mschwartz@metro.org), with any comments or questions: [mschwartz@metro.org](mailto:mschwartz@metro.org).
 
 1. ### Audio Recording and Editing
-    [Book a session here](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=100086&mode=resource_desc)
+    [Book a session in our recording booth here](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=100086&mode=resource_desc)
+    [Rent out our mobile audio recording kit here](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=152796&mode=resource_desc)
     
-    [Read more about our audio services](#audio-workstation)
+    [Read more about our audio recording booth and mobile kit](#audio-workstation)
 	
 	[Review our audio documentation](https://docs.google.com/document/d/1qXRI6PSu5LMmLy8tGdfRjXrJ7b3ARRokqvXOLQT0UJs/edit?usp=sharing)
+	
+	[Review our mobile kit documentation](https://docs.google.com/document/d/1yV-zC_sJcmoanFZeghNilLULvvHHT8xNRjpMhr8fZpE/edit?usp=sharing)
+	
+	[Review our mobile kit insurance form](https://drive.google.com/file/d/1isVws8kbnOi-34Wr3okvEEX3HKTOpBOE/view?usp=sharing)
 
 2. ### Digitization 
    [Book a session here](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=103212&mode=resource_desc)
@@ -71,6 +76,21 @@ Industry standard stereo speakers that let you play back your recordings and mix
 Head amp for 4 sets of headphones.
 
 [Book a session here.](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=100086&mode=resource_desc)
+
+We also have a mobile kit! Our audio-kit-in-a-backpack has everything you need to record quality audio on the go. You can use this kit in the field, at home, or wherever your audio ventures take you. It is perfect for recording oral histories, podcasts, voice-overs, and interviews. 
+
+-- Equipment --
+This kit comes fully equipped with the following:
+- Pink backpack for carrying gear around
+- 2 Sennheiser MD-46 Microphones, with traveling case and pop filters: These are industry standard dynamic cardioid microphones, with internal pop filters and table stands. They are popular with broadcasters and good for recording in the field.
+- Tascam DR-40X audio recorder with 4 inputs 
+- Sony over-ear Headphones, plus headphone splitter
+- 2 XLR cables
+- 64-GB SIM card 
+- 4 rechargeable batteries, plus charger
+
+-- Rates --
+We are providing access to this equipment free of charge. We require a $15 deposit at the time of booking, which you will get back when you return the equipment.
 
 [Back to top](#top)
 
