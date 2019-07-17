@@ -38,30 +38,6 @@ Before joining METRO in 2014, Kyle was Office Manager at Jeanne Collins & Associ
 
 Kyle received a B.A. in communication, with a focus on radio and TV, from William Paterson University in New Jersey.
 
-## Laura Forshay
-**Strategic Evaluation and Data Impact Manager**
-
-lforshay@metro.org
-
-Laura works closely with METRO leadership and program managers to identify, collect, and analyze relevant performance data in support of program evaluation and improvement.
-
-Laura joined METRO in February 2010 after receiving her B.A. in History from Tufts University. She also holds a Master of Public Administration degree in Non-profit Management from New York University's Robert F. Wagner Graduate School of Public Service.
-
-## Karen Li-Lun Hwang
-**Digital Projects & Metadata Librarian**
-
-khwang@metro.org
-
-Karen facilitates the harvesting and ingestion of metadata records from libraries, archives and cultural heritage institutions throughout New York State for contribution to the Digital Public Library of America (DPLA). She also assists member institutions with hosted collections on METRO’s digital collections site Digital Culture of Metropolitan New York (DCMNY).
-
-Prior to joining METRO in 2017, Karen worked on digital projects and as a data specialist throughout New York City in various local
-community archives and on national alternative energy projects. Her current research focuses on the application of Semantic Web
-technologies to cultural heritage materials, which she has explored both as a member of Linked Jazz and in her work as a 2016-2017 METRO
-Research Fellow.
-
-Karen is a 2014-2015 ALA Spectrum Scholar. She holds an MLIS from Pratt Institute’s School of Information and a B.A. in art history from
-UCLA. She is a hiker, a coder, a new mother, and a practitioner of tai-chi.
-
 ## Anne Karle-Zenith
 **Associate Director of Business Development**
 
@@ -111,15 +87,6 @@ mparson@metro.org
 Mark Parson provides critical support for a wide range of activities at METRO. In addition to working with our delivery service team to ensure that our member institutions receive quality service from our METROCard program, he helps develop and maintain METRO e-mail lists, handles room set-up for METRO events, and administers the Coordinated Collection Development Aid (CCDA) program.
 
 Mark is one of our longest-serving staff members, having started at METRO in 2006.
-
-## Nathalie Reid
-**Hospital Library Services Program (HLSP) Manager**
-
-nreid@metro.org
-
-As the Hospital Library Services and Program Manager, Nathalie works with member organizations to provide new resources and services for users. She coordinates and administers METRO's HLSP and MISP grant programs. She also runs the HLSP Advisory Council, and plans workshops, trainings, and events for the program.
-
-Prior to her work at METRO, Nathalie was the Data Services and Technology Librarian for the National Networks of the Library of Medicine where she maintained the digital content related to data literacy. She was an active participant in Library Carpentry where she was trained in GitHub, Tableau, OpenRefine, Voyant, [Import.io](http://import.io), R, and Python. Nathalie also worked for the National Center for Child Traumatic Stress for six years where she managed and developed website content for [NCTSN.org](http://nctsn.org) as well as social media campaigns. She is an active member the Medical Library Association where she presents at annual conferences and publishes in organizational publications.
 
 ## Molly Schwartz
 **Studio Manager, Imaging and Recording Specialist**
