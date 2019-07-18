@@ -6,7 +6,8 @@ Come use our studio services on the 8th floor at 599 11th Ave! Read more about t
 
 1. ### Audio Recording and Editing
     [Book a session in our recording booth here](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=100086&mode=resource_desc)
-    [Rent out our mobile audio recording kit here](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=152796&mode=resource_desc)
+   
+   [Rent out our mobile audio recording kit here](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=152796&mode=resource_desc)
     
     [Read more about our audio recording booth and mobile kit](#audio-workstation)
 	
