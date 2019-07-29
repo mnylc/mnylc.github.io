@@ -51,6 +51,11 @@ Chief Librarian
 Brooklyn Public Library  
 2019-2024 
 
+**Melissa Jacobs**  
+Director of Library Services, NYC School Library System/NYC Department of Education, 
+Dept. of Literacy, AIS, and Library Services 
+(pending vote of membership) 
+
 **Brian Kenney**  
 Library Director  
 White Plains Public Library  
@@ -71,6 +76,9 @@ Columbia University
 University Librarian Emeritus  
 Columbia University  
 2011-2021   
+
+**Kameelah Rasheed**
+(pending vote of membership)
  
 **Nate Hill**  
 Ex-Officio  
