@@ -79,7 +79,7 @@ University Librarian Emeritus
 Columbia University  
 2011-2021   
 
-**Kameelah Rasheed**
+**Kameelah Rasheed** 
 2021-2026 
  
 **Nate Hill**  
