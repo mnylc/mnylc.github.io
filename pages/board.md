@@ -81,8 +81,8 @@ Metropolitan New York Library Council (METRO)
 
 * Thursday, February 28, 2019
 * Thursday, May 2, 2019
-* **Monday, July 29, 2019**
-* Tuesday, September 24, 2019 (virtual)
+* Monday, July 29, 2019
+* **Tuesday, September 24, 2019** (virtual)
 * Monday, November 18, 2019
 * Thursday, December 19, 2019 (virtual)  
 
