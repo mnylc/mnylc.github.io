@@ -52,10 +52,8 @@ Brooklyn Public Library
 2019-2024 
 
 **Melissa Jacobs**  
-Director of Library Services,  
+Director of Library Services  
 NYC School Library System  
-NYC Department of Education,  
-Dept. of Literacy, AIS, and Library Services  
 2021-2026 
 
 **Brian Kenney**  
