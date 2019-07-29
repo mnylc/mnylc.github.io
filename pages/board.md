@@ -53,7 +53,8 @@ Brooklyn Public Library
 
 **Melissa Jacobs**  
 Director of Library Services, 
-NYC School Library System/NYC Department of Education,   
+NYC School Library System
+NYC Department of Education,   
 Dept. of Literacy, AIS, and Library Services  
 2021-2026 
 
