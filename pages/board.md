@@ -91,7 +91,7 @@ All meetings are 3:00 p.m. - 5:00 p.m. at METRO, unless otherwise noted.
 ## Board Meeting Agendas & Minutes
 **May 2, 2019**
 * [Agenda]({{ "/assets/board/2019_05_02_Agenda.pdf" | prepend: site.baseurl }}) 
-* Mintues (pending)
+* [Minutes]({{ "/assets/board/2019_05_02_Minutes.pdf" | prepend: site.baseurl }})
 
 **February 28, 2019**
 * [Agenda]({{ "/assets/board/2019_02_28_Agenda.pdf" | prepend: site.baseurl }}) 
