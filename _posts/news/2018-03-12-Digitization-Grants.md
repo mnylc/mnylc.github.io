@@ -5,8 +5,9 @@ date: 2018-03-12
 tag: news
 ---
 
-METRO is pleased to announce the awards for our 2017-2018 METRO Digitization Grant Program. METRO members selected to receive the grants, totaling approximately $50,000, are:
- 
+METRO is pleased to announce the awards for our 2017-2018 METRO Digitization Grant Program. METRO members selected to receive the grants, totaling approximately $50,000, are..
+  
+  
 - Carnegie Hall Corporation - Carnegie Hall Incorporated Collections   
 - Library of The Jewish Theological Seminary - Audio of JTS Lectures, 1947-1969  
 - New-York Historical Society - Burr McIntosh Photographic Prints, 1900-1910   
