@@ -27,7 +27,14 @@ Patrons are able to search for a specific book, item, or across subject areas. T
   5. Visit your member library and they will fill out the referral form and submit to the host library
   6. Remember: access restrictions may apply
 
-The host library will determine the period and length of time a patron may have access to an item or collection. This service does not give users unlimited access to a library's materials and does not guarantee they will be available at a given time. In most cases, access is limited to the specific item or subject. 
+The host library will determine the period and length of time a patron may have access to an item or collection. This service does not
+give users unlimited access to a library's materials and does not guarantee they will be available at a given time. In most cases,
+access is limited to the specific item or subject.
+
+For more info or questions about our referral service, please email us at [info@metro.org](mailto:info@metro.org), or
+(212) 228-2320 ext 7100.
+
+
 
 ## Delivery Service
 METRO maintains next-day, Mon-Fri delivery service among our member libraries. Delivery service ensures that our members can count on
