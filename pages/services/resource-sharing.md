@@ -16,45 +16,19 @@ Quick links for our Delivery Services:
 
 * [Submit a claim for a lost item](https://docs.google.com/forms/d/e/1FAIpQLSccaa0esq4won1z4sVGBaW6lMO-QQal1dNd7DvHn7jOazXWFw/viewform?usp=sf_link)
 
+## Referral System
+The METRO Referral system makes it easier for students and researchers to locate materials or research onsite at METRO member libraries.
+Patrons are able to search for a specific book, item, or across subject areas. To participate in this service, library users should:
 
-## Referral Cards
-The METRO Referral Card system makes it easier for students and researchers to locate materials or research onsite at METRO member libraries.
+  1. Verify that the desired title or collection is not available in your library or in the public library system
+  2. Confirm in the [METRO Member Directory]({{ "https://airtable.com/embed/shrQgPlvIJuPzL6mB/tblKD2tRsAUgrsIjp?blocks=hide" | prepend: site.baseurl }}) that the library you are a member of is a METRO Referrals program participant
+  3. If you wish to research or study across a subject area, locate a host library that has a strong collection in your subject area
+  4. Identify a library that has the title or collection available using OCLC, WorldCat, Docline, or related resources
+  5. Visit your member library and they will fill out the referral form and submit to the host library
+  6. Remember: access restrictions may apply
 
-### Overview
-Yellow Cards allow patrons to search for a specific book or any other item at a METRO member library. Blue cards allow users to search across entire subject areas at METRO member libraries. Both METRO cards are available at [participating member libraries.]({{ "https://metro.org/members/" | prepend: site.baseurl }}) Please contact Mark Parson at [mparson@metro.org](mailto:mparson@metro.org), or (212) 228-2320 ext 7121 for more information.  
+The host library will determine the period and length of time a patron may have access to an item or collection. This service does not give users unlimited access to a library's materials and does not guarantee they will be available at a given time. In most cases, access is limited to the specific item or subject. 
 
-### How to Use Yellow Cards
-The Yellow Card gives library users access to individual titles from other METRO member libraries. 
-
-To participate in this program, library users must:
-
-
-  1. Verify that the desired title is not available in your library or in the public library system
-  2. Identify a library that has the title available using OCLC, WorldCat, Docline, or related resources
-  3. Check the library's listing in the [METRO Member Directory]({{ "https://metro.org/members/" | prepend: site.baseurl }}).
-  (Remember: access restrictions may apply)
-  4. Call or email the holding library to verify that the title is available and to confirm any access restrictions
-  5. Fill out the card completely, including the source of verification
-
-
-The host library must determine the period during which a patron may have access to the item.
-Yellow Cards do not give users unlimited access to another library's collections and does not guarantee that materials will be available at a given time. In most cases, access is limited to the specific item indicated on the Yellow Card.
-
-Instructions to the Host Library: Before facilitating access to a title for a patron through the Yellow Card Program, a contact at the host library should confirm the card information and collect the card from the user. The host library should submit all cards received to METRO at the end of each month.
- 
-### How to Use Blue Cards
-Blue Cards provide patrons with access to collections at participating host libraries. To access this program, users must:
-
-1. Verify that a host library has a strong collection in your subject area
-2. Confirm in the [METRO Member Directory]({{ "https://metro.org/members/" | prepend: site.baseurl }}) that the library is a
-Blue Card program participant
-3. Contact the host library to confirm any restrictions on access to collections
-4. The host library determines the length of time that a user may have access to a collection.
-
-Blue Cards do not give users unlimited access to another library's collections and does not guarantee that materials will be available at a given time. In most cases, access is limited to materials indicated on the Blue Card.
-
-Instructions to the Host Library: Before facilitating access to a title for a patron through the Blue Card Program, a contact at the host library should confirm the card information and collect the card from the user. The host library should submit all cards received to METRO at the end of each month.
- 
 ## Delivery Service
 METRO maintains next-day, Mon-Fri delivery service among our member libraries. Delivery service ensures that our members can count on
 efficient access to items from collections throughout METRO's service area. METRO Delivery is a free membership benefit with the
