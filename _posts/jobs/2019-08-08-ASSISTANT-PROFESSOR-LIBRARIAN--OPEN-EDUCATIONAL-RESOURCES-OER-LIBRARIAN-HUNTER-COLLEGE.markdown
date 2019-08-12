@@ -79,7 +79,7 @@ New York, NY
 
 ### To Apply   
 
-[https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL](https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL)
+[https://cuny.jobs/new-york-ny/assistant-professor-librarian-open-educational-resources-oer-librarian/38005398585B449B9D6EF0DC92058785/job/](https://cuny.jobs/new-york-ny/assistant-professor-librarian-open-educational-resources-oer-librarian/38005398585B449B9D6EF0DC92058785/job/)
 
 
 

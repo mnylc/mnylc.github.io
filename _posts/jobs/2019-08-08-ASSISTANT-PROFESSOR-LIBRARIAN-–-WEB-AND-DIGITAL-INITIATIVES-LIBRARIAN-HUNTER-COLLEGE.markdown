@@ -74,8 +74,7 @@ New York, NY
 
 ### To Apply   
 
-[https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL](https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL)
-
+[https://cuny.jobs/new-york-ny/assistant-professor-librarian-web-and-digital-initiatives-librarian/9D5B4E35E3964612A88A9C153244C515/job/](https://cuny.jobs/new-york-ny/assistant-professor-librarian-web-and-digital-initiatives-librarian/9D5B4E35E3964612A88A9C153244C515/job/)
 
 
 
