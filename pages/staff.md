@@ -21,7 +21,7 @@ Nate was named a "Mover and Shaker" by Library Journal in 2012. He earned his un
 
 deanderson@metro.org
 
-As Manager of Programs and Partnerships, Davis's work focuses on understanding the impact of technology on culture at large, translating these challenges into real solutions for library staff. She is project manager for NYC Digital Safety, an NYC-funded program that informs libraries of evergreen topics in data privacy and digital security.
+Davis oversees several METRO programs, including Professional Development, METRO Meetups, and our web literacy portfolio. She is project manager for NYC Digital Safety, an NYC-funded program that informs libraries of evergreen topics in data privacy and digital security.
 
 Davis worked with Mozilla Foundation to review and update their web literacy curriculum, resulting in the launch of Mozilla's Core Curriculum for Web Literacy in March 2018.
 
