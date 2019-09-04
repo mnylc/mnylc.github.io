@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Archivist (Part Time) - Hunter College"
+title:  "Processing Archivist - Hunter College"
 date:   2019-08-26
 excerpt: "Hunter College, a senior college of the City University of New York and a renowned public institution, seeks a part-time Archivist for the 2019 Fall Semester.  This will be an adjunct position with an immediate start date."
 tag: job
