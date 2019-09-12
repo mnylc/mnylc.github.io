@@ -24,7 +24,7 @@ Patrons are able to search for a specific book, item, or across subject areas. T
   2. Confirm in the [METRO Member Directory]({{ "https://airtable.com/embed/shrQgPlvIJuPzL6mB/tblKD2tRsAUgrsIjp?blocks=hide" | prepend: site.baseurl }}) that the library you are a member of is a METRO Referrals program participant
   3. If you wish to research or study across a subject area, locate a host library that has a strong collection in your subject area
   4. Identify a library that has the title or collection available using OCLC, WorldCat, Docline, or related resources
-  5. Visit your member library and they will fill out the referral form and submit to the host library
+  5. Visit your member library and a librarian will check your information and fill out an online referral request form for you
   6. Remember: access restrictions may apply
 
 The host library will determine the period and length of time a patron may have access to an item or collection. This service does not
