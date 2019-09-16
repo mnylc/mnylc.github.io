@@ -25,6 +25,16 @@ Only current METRO member organizations located in New York City and Westchester
 <b>Institution: </b>Carnegie Hall Corporation<br/><b>Collection: </b><a href="https://collections.carnegiehall.org/Share/y3l3tub1kxwrc5o2iq242s8613303o7a">Carnegie Hall Incorporated Collections</a><br/><b>Description: </b>The Carnegie Hall Incorporated Collections document the history of the ownership and management of Carnegie Hall from 1925 to 1960. In 1925, Robert E. Simon, Sr., a real estate developer, purchased Carnegie Hall from the Estate of Andrew Carnegie, and formed Carnegie Hall Incorporated to act as the Hall’s administrative body. As part of the terms of the sale, Simon guaranteed that Carnegie Hall would remain a concert hall for the first five years of his ownership. In 1935, Simon died suddenly and ownership passed to his son, Robert Simon, Jr. He ran Carnegie Hall Incorporated until he sold the Hall to the City of New York in 1960. The Carnegie Hall Incorporated Digital Collections consist of 3,213 images of correspondence, scrapbooks, studio rental ledger pages, telegrams, newspaper clippings, business records, and photographs.<br/>
 </div>
 </div>
+
+<div class="grant" id="obj25">
+<div class="thumb">
+<img src="/assets/img/grants/obj14.gif" alt="Marlon Brando, page front (1954)"><a href="https://collections.carnegiehall.org/CS.aspx?VP3=SearchResult&amp;VBID=2RRMLJGJL_F"></a>
+</div>
+<div class="info">
+<b>Institution: </b>Carnegie Hall Corporation<br/><b>Collection: </b><a href="https://collections.carnegiehall.org/Share/y3l3tub1kxwrc5o2iq242s8613303o7a">Carnegie Hall Incorporated Collections</a><br/><b>Description: </b>The Carnegie Hall Incorporated Collections document the history of the ownership and management of Carnegie Hall from 1925 to 1960. In 1925, Robert E. Simon, Sr., a real estate developer, purchased Carnegie Hall from the Estate of Andrew Carnegie, and formed Carnegie Hall Incorporated to act as the Hall’s administrative body. As part of the terms of the sale, Simon guaranteed that Carnegie Hall would remain a concert hall for the first five years of his ownership. In 1935, Simon died suddenly and ownership passed to his son, Robert Simon, Jr. He ran Carnegie Hall Incorporated until he sold the Hall to the City of New York in 1960. The Carnegie Hall Incorporated Digital Collections consist of 3,213 images of correspondence, scrapbooks, studio rental ledger pages, telegrams, newspaper clippings, business records, and photographs.<br/>
+</div>
+</div>
+
 <div class="grant" id="obj15">
 <div class="thumb">
 <img src="/assets/img/grants/obj15.gif" alt="Lady with flowers"><a href="http://dcmny.org/islandora/object/nyhs%3Amcintosh"></a>
