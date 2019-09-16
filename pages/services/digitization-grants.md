@@ -76,7 +76,6 @@ Only current METRO member organizations located in New York City and Westchester
 <div class="grant" id="obj21"><div class="info">
 <b>Institution: </b>American Museum of Natural History Library<br/><b>Collection: </b>Biodiversity Heritage Library - Enhancing Access Project<br/><b>Description: </b>The collection includes an assortment of 20th century, scientific journals. The publishers do not offer e-journals. The digitization of these 84 issues (approximately 9,500 pages) will allow their content to be discovered -- and freely accessible -- via the Biodiversity Heritage Library portal. The materials were selected initially as part of the BHL's system to identify materials that users wanted to see online. <br/>
 </div></div>
-<div class="grant" id="obj22">
 <div class="grant" id="obj24">
 <div class="thumb">
 <img src="/assets/img/grants/obj24.gif" alt="Arris_Scarborough"><a href="https://digitalcollections.nyam.org/islandora/object/digital:ladd"></a>
