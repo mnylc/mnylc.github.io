@@ -17,7 +17,7 @@ eb_uri_str = 'https://www.eventbriteapi.com/v3/organizers/8929654067/events/?sta
 uri = URI(eb_uri_str)
 
 resp = Net::HTTP.get(uri)
-if res.is_a?(Net::HTTPSuccess)
+if resp.is_a?(Net::HTTPSuccess)
   j = JSON.parse(resp)
   l = []
   wanted_keys = %w[start description name url]
