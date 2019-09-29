@@ -4,7 +4,7 @@ title:  "METRO Partners with NYU's Urban Democracy Lab To Promote and Share Oral
 date:   2019-09-23
 tag:	news
 ---
-METRO has partnered with the Urban Democracy Lab (UDL) at New York University's Urban Listeners working group to get more oral histories online. We've co-sponsored an Aviary account where independent oral historians can upload their audio or video content, with OHMS metadata and transcription options. Check it out at https://urbanlisteners.aviaryplatform.com/.
+METRO has partnered with the Urban Democracy Lab (UDL) at New York University's Urban Listeners working group to get more oral histories online. We've co-sponsored an Aviary account where independent oral historians can upload their audio or video content, with OHMS metadata and transcription options. Check it out at [https://urbanlisteners.aviaryplatform.com/](https://urbanlisteners.aviaryplatform.com/).
 
 Opened in 2017, METRO's Studio offers our members access to the tools they need to digitize, describe, and create of cultural heritage materials. Our Studio makes the labor and the communities associated with archiving and preservation visible, legible, and accessible; the space itself is a platform for action so that participants can organize to create their own community narratives.
 
