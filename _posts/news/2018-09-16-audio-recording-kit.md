@@ -15,6 +15,6 @@ The recording kit comes fully equipped with the following:
 - 64-GB SIM card
 - 4 rechargeable batteries, plus charger
 
-A comprehensive user’s guide https://docs.google.com/document/d/1yV-zC_sJcmoanFZeghNilLULvvHHT8xNRjpMhr8fZpE/edit#heading=h.dzwgg22u7byi is provided with this station.
+A [comprehensive user’s guide](https://docs.google.com/document/d/1yV-zC_sJcmoanFZeghNilLULvvHHT8xNRjpMhr8fZpE/edit#heading=h.dzwgg22u7byi) is provided with this station.
 
 We are providing access to this equipment free of charge. We require a $15 deposit at the time of booking, which you will get back when you return the equipment. [Click here to read the fine print and rent our kit](https://www.planyo.com/booking.php?calendar=32923&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D32923&presentation_mode=1&planyo_lang=en&resource_id=152796&mode=resource_desc).
