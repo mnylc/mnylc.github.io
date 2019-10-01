@@ -47,6 +47,15 @@ As a member of METRO’s Administrative team, Anne serves as liaison between MET
 
 Before joining METRO in 2012, Anne worked for six years at the University of Michigan Library, where she managed a project to build a copyright review management system for works in the HathiTrust Digital Library, and as project coordinator for the UM/Google Books partnership to digitize the Library’s collections. She also worked for two years as a Metadata & Cataloging Librarian at Michigan State University Libraries. She graduated twice from the University of Michigan, with an undergrad degree in Business Administration, and a MSI degree from the School of Information, with a Specialization in Library Services. Before becoming a librarian she worked in the music industry, licensing music as well as other copyrighted works for use in advertising, film, television and other media.
 
+## Marlo Longely
+**Developer**
+
+mlongley@metro.org
+
+Marlo Longley is METRO’s Digital Repository Developer, currently working on Archipelago. He believes technology should increase access to information and resources, and that engagement with history and culture is empowering. 
+
+Prior to joining METRO Marlo worked as a web developer, and before that as a bookseller. He enjoys creative research at local archives. He strives to balance screen time with time outdoors.
+
 ## Shelly Mohammed
 **Controller**
 
