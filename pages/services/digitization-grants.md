@@ -168,7 +168,7 @@ Only current METRO member organizations located in New York City and Westchester
 <div class="grant" id="obj12">
 <div class="thumb"><a href="https://collections.carnegiehall.org/CS.aspx?VP3=SearchResult&amp;VBID=2RRMLB9KIAZ7"><img src="/assets/img/grants/obj12.gif" alt="Carnegie Hall Booking Ledger, volume 17, page 86a"></a></div>
 <div class="info">
-<b>Institution: </b>Carnegie Hall Archives<br/><b>Collection: </b><a href="https://collections.carnegiehall.org/CS.aspx?VP3=SearchResult&amp;VBID=2RRMLB9KIAZ7">Carnegie Hall's Booking Ledger Collection</a><br/><b>Description: </b>Carnegie Hall booking ledgers that recorded every event that took place in the Hall’s three auditoriums and were used to schedule performances spanning 1955-2007. These ledgers include rare documentation of the great artists and managers of various music genres that have performed at the Hall over the past half-century, and also chronicle the wide range of non-musical events such as lectures, meetings, and civic rallies that have taken place.<br/>
+<b>Institution: </b>Carnegie Hall Archives<br/><b>Collection: </b><a href="https://collections.carnegiehall.org/Package/2RRM1TCSBJOS">Carnegie Hall's Booking Ledger Collection</a><br/><b>Description: </b>Carnegie Hall booking ledgers that recorded every event that took place in the Hall’s three auditoriums and were used to schedule performances spanning 1955-2007. These ledgers include rare documentation of the great artists and managers of various music genres that have performed at the Hall over the past half-century, and also chronicle the wide range of non-musical events such as lectures, meetings, and civic rallies that have taken place.<br/>
 </div>
 </div>
 [Back to top](#top)
