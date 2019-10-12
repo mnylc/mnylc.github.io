@@ -41,7 +41,7 @@ def authorize
 end
 
 # Initialize the API
-service = Google::Apis::DriveV3::DriveService.new
+service = Google::Apis::SheetsV4::SheetsService.new
 service.client_options.application_name = APPLICATION_NAME
 service.authorization = authorize
 response = service.export_file('1yaB6o_69qYn3859wUCAog3riDHpJqSMuFhjlg_yVvWc', 'text/csv') 
