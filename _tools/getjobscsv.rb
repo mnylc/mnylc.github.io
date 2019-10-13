@@ -8,8 +8,8 @@ require 'fileutils'
 OOB_URI = 'urn:ietf:wg:oauth:2.0:oob'
 APPLICATION_NAME = 'jobs-sheet'
 CLIENT_SECRETS_PATH = 'client_secret.json'
-CREDENTIALS_PATH = File.join(Dir.home, '.credentials',
-                             "drive-ruby-quickstart.yaml")
+CREDENTIALS_PATH = File.join(Dir.pwd, '.credentials',
+                             "jobs-csv.yaml")
 SCOPE = Google::Apis::DriveV3::AUTH_DRIVE_READONLY
 
 ##
