@@ -11,6 +11,32 @@
     local: '2019-10-18T09:15:00'
     utc: '2019-10-18T13:15:00Z'
 - name:
+    text: Life without Google Products
+    html: Life without Google Products
+  description:
+    text: 'This session is part of Data and the Real World: A Summit for Frontline
+      NYC Library Staff.'
+    html: 'This session is part of Data and the Real World: A Summit for Frontline
+      NYC Library Staff.'
+  url: https://www.eventbrite.com/e/life-without-google-products-tickets-76693170337
+  start:
+    timezone: America/New_York
+    local: '2019-10-18T11:15:00'
+    utc: '2019-10-18T15:15:00Z'
+- name:
+    text: Data Privacy and Portability with Google and Facebook
+    html: Data Privacy and Portability with Google and Facebook
+  description:
+    text: 'This session is part of Data and the Real World: A Summit for Frontline
+      NYC Library Staff.'
+    html: 'This session is part of Data and the Real World: A Summit for Frontline
+      NYC Library Staff.'
+  url: https://www.eventbrite.com/e/data-privacy-and-portability-with-google-and-facebook-tickets-76693665819
+  start:
+    timezone: America/New_York
+    local: '2019-10-18T13:30:00'
+    utc: '2019-10-18T17:30:00Z'
+- name:
     text: It’s the year 2039. Where’s your podcast? (A Preserve This Podcast workshop)
     html: It’s the year 2039. Where’s your podcast? (A Preserve This Podcast workshop)
   description:
