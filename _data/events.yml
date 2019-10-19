@@ -1,16 +1,5 @@
 ---
 - name:
-    text: 'Data and the Real World: A Summit for Frontline NYC Library Staff'
-    html: 'Data and the Real World: A Summit for Frontline NYC Library Staff'
-  description:
-    text: Your Guide to Helping Patrons Navigate our Data-driven Environments
-    html: Your Guide to Helping Patrons Navigate our Data-driven Environments
-  url: https://www.eventbrite.com/e/data-and-the-real-world-a-summit-for-frontline-nyc-library-staff-tickets-72133642667
-  start:
-    timezone: America/New_York
-    local: '2019-10-18T09:15:00'
-    utc: '2019-10-18T13:15:00Z'
-- name:
     text: It’s the year 2039. Where’s your podcast? (A Preserve This Podcast workshop)
     html: It’s the year 2039. Where’s your podcast? (A Preserve This Podcast workshop)
   description:
