@@ -3,7 +3,6 @@ layout: post
 title:  "Professional Development Scholarships are Back!"
 date:   2016-09-15
 tag:	news
-
 ---
 Lifelong learning and collaboration are central to METRO’s mission. We know that not all of our members have funds available to attend professional conferences, learning programs, and networking opportunities. We are very pleased to announce the return of METRO’s Professional Development Scholarships program!
 
