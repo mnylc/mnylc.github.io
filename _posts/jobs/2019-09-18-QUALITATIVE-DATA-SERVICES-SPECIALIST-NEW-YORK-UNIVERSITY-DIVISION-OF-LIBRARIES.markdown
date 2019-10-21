@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Services Specialist - New York University Division of Libraries"
+title:  "(Qualitative) Data Services Specialist - New York University Division of Libraries"
 date:   2019-09-18
 excerpt: "New York University's Data Services, a joint NYU Libraries and NYU Information Technology Services (ITS) service, is seeking a full-time Data Services Specialist to provide computing support to a diverse body of faculty, students, and staff at NYU in the areas of qualitative data analysis and web survey research. The..."
 tag: job
@@ -64,7 +64,4 @@ Apply using the url above
 70 Washington Square South, New York, NY 10012
 
 
-### Contact Information   
-
-Katie O'Brien - katie.obrien@nyu.edu
 
