@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Announcing NYC's 2nd Library Privacy Week"
-date:   2019-10-21
+title: "Announcing NYC's 2nd Library Privacy Week"
+date: 2019-10-21
 tag:	news
 ---
 Our 2nd Annnual NYC Library Privacy Week launches today. Produced as part of NYC Digital Safety: Privacy & Security, NYC's three library systems -- Brooklyn Public Library, The New York Public Library, and Queens Public Library -- have planned and prepared thirty-nine events that aim to help our fellow NYC residents safeguard their information online.
 
 A complete schedule and more information can be found at [libraryprivacyweek.nyc](libraryprivacyweek.nyc). A press release from the Mayor's Office of the Chief Technology Officer can be found below.
 
-*
+###
 
 NEW YORK CITY ANNOUNCES 2nd LIBRARY PRIVACY WEEK, A SERIES OF EDUCATIONAL EVENTS TO HELP NEW YORKERS PROTECT THEIR DIGITAL PRIVACY
 
@@ -52,6 +52,4 @@ Highlights of Library Privacy Week 2019 include:
 ###
 
 About the Mayor’s Office of the Chief Technology Officer
-The Mayor’s Office of the CTO is led by the New York City Chief Technology Officer. We’re making broadband, smart city technologies, digital services, and the tech industry work for all New Yorkers. Learn more at NYC.gov/cto.  
-
- 
+The Mayor’s Office of the CTO is led by the New York City Chief Technology Officer. We’re making broadband, smart city technologies, digital services, and the tech industry work for all New Yorkers. Learn more at NYC.gov/cto. 
