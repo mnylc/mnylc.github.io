@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Professional Development Scholarships are Back!"
+title:  Professional Development Scholarships are Back!
 date:   2016-09-15
 tag:	news
 ---
