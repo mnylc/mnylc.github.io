@@ -48,7 +48,7 @@ As a member of METRO’s Administrative team, Anne serves as liaison between MET
 Before joining METRO in 2012, Anne worked for six years at the University of Michigan Library, where she managed a project to build a copyright review management system for works in the HathiTrust Digital Library, and as project coordinator for the UM/Google Books partnership to digitize the Library’s collections. She also worked for two years as a Metadata & Cataloging Librarian at Michigan State University Libraries. She graduated twice from the University of Michigan, with an undergrad degree in Business Administration, and a MSI degree from the School of Information, with a Specialization in Library Services. Before becoming a librarian she worked in the music industry, licensing music as well as other copyrighted works for use in advertising, film, television and other media.
 
 ## Marlo Longley
-**Developer**
+**Digital Repository Developer**
 
 mlongley@metro.org
 
@@ -89,24 +89,13 @@ keeping up with conversations around diversity and inclusion strategies, open so
 dance and audio, and figuring out how libraries can keep being Libraries in support of individuals and communities.
 
 ## Mark Parson
-**Delivery Services Coordinator/Administrative Support Assistant**
+**Delivery Services Coordinator/Administrative Support**
 
 mparson@metro.org
 
 Mark Parson provides critical support for a wide range of activities at METRO. In addition to working with our delivery service team to ensure that our member institutions receive quality service from our METROCard program, he helps develop and maintain METRO e-mail lists, handles room set-up for METRO events, and administers the Coordinated Collection Development Aid (CCDA) program.
 
 Mark is one of our longest-serving staff members, having started at METRO in 2006.
-
-## Molly Schwartz
-**Studio Manager, Imaging and Recording Specialist**
-
-mschwartz@metro.org
-
-Molly manages METRO's studio space, which includes an audio recording booth, imaging and digitization station, AV media transfer rack, and digital forensics station. She is also the host and producer of METRO's podcast, [Library Bytegeist](https://soundcloud.com/librarybytegeist).
-
-Molly first joined METRO as part of the first METRO fellowship cohort in 2016. She moved to New York City from the Nordics, where she completed one year of a PhD in Media and Communications at Malmö University and was a Fulbright grantee at the Aalto University Media Lab in Helsinki in 2014-2015. She was part of the inaugural cohort of National Digital Stewardship Residents in Washington, D.C. and worked at the U.S. State Department as a data analyst.
-
-Molly holds an MLS with a specialization in Archives, Records and Information Management from the University of Maryland at College Park and a BA/MA in History from the Johns Hopkins University.
 
 ## Madjalia Seynou
 **Assistant Controller**
