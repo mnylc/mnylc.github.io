@@ -6,7 +6,7 @@ tag:	news
 ---
 Our 2nd Annnual NYC Library Privacy Week launches today. Produced as part of NYC Digital Safety: Privacy & Security, NYC's three library systems -- Brooklyn Public Library, The New York Public Library, and Queens Public Library -- have planned and prepared thirty-nine events that aim to help our fellow NYC residents safeguard their information online.
 
-A complete schedule and more information can be found at [libraryprivacyweek.nyc](libraryprivacyweek.nyc). A press release from the Mayor's Office of the Chief Technology Officer can be found below.
+A complete schedule and more information can be found at [libraryprivacyweek.nyc](https://libraryprivacyweek.nyc). A press release from the Mayor's Office of the Chief Technology Officer can be found below.
 
 ###
 
