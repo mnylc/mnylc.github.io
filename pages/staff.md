@@ -50,6 +50,8 @@ Before joining METRO in 2012, Anne worked for six years at the University of Mic
 ## Mitchell Keaney
 **Project Manager**
 
+mkeaney@metro.org
+
 Mitchell is responsible for facilitating the development of the open-source project Archipelago and its implementation as a repository
 service provided to METRO’s members.
 
