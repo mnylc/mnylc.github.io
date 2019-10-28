@@ -47,6 +47,16 @@ As a member of METRO’s Administrative team, Anne serves as liaison between MET
 
 Before joining METRO in 2012, Anne worked for six years at the University of Michigan Library, where she managed a project to build a copyright review management system for works in the HathiTrust Digital Library, and as project coordinator for the UM/Google Books partnership to digitize the Library’s collections. She also worked for two years as a Metadata & Cataloging Librarian at Michigan State University Libraries. She graduated twice from the University of Michigan, with an undergrad degree in Business Administration, and a MSI degree from the School of Information, with a Specialization in Library Services. Before becoming a librarian she worked in the music industry, licensing music as well as other copyrighted works for use in advertising, film, television and other media.
 
+## Mitchell Keaney
+**Project Manager**
+
+Mitchell is responsible for facilitating the development of the open-source project Archipelago and its implementation as a repository
+service provided to METRO’s members.
+
+Before joining METRO, Mitchell managed an eBay account for a ski shop based in the desert, provided support at Arizona State University’s digital-physical fabrication lab, worked as a support technician at a healthcare tech start up, managed the visitor service’s desk at a contemporary art museum, and helped digitize early video footage from an experimental music organization based in Brooklyn, New York.
+
+Born and raised in the suburbs of the Sonoran Desert, Mitchell has found a deep interest in listening: to rooms, to open spaces, to resonating objects, to people, to the constant ringing in his ears. Since relocating to Brooklyn in 2016, he has spent a decade performing music solo and collaboratively in basements and DIY clubs around the South Western United States and the East Coast. 
+
 ## Marlo Longley
 **Digital Repository Developer**
 
