@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Collections Metadata Assistant - Morgan Library & Museum"
+title:  "Collections Metadata Assistant (temporary, part-time) - Morgan Library & Museum"
 date:   2019-10-30
 excerpt: ""
 tag: job
