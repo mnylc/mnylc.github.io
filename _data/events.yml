@@ -1,16 +1,5 @@
 ---
 - name:
-    text: Introduction to Adobe Imaging Software for Managing Collections
-    html: Introduction to Adobe Imaging Software for Managing Collections
-  description:
-    text: Join METRO and A.R.T. for a cosponsored session on managing collections.
-    html: Join METRO and A.R.T. for a cosponsored session on managing collections.
-  url: https://www.eventbrite.com/e/introduction-to-adobe-imaging-software-for-managing-collections-tickets-74286357495
-  start:
-    timezone: America/New_York
-    local: '2019-10-30T14:00:00'
-    utc: '2019-10-30T18:00:00Z'
-- name:
     text: 'Maintenance Needed: Tools and Strategies for Ongoing E-resource Management'
     html: 'Maintenance Needed: Tools and Strategies for Ongoing E-resource Management'
   description:
