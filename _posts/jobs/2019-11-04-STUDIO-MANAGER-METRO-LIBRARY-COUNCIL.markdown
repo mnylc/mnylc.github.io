@@ -57,7 +57,7 @@ New York, NY
 
 ### To Apply   
 
-Email .pdfs of your cover letter and resume to info@metro.org
+Email .pdfs of your cover letter and resume to info@metro.org by Friday, December 6
 
 
 ### Company Information   
