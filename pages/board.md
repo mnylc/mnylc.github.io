@@ -54,7 +54,7 @@ Brooklyn Public Library
 **Melissa Jacobs**  
 Director of Library Services  
 NYC School Library System  
-2021-2026 
+2020-2025 
 
 **Brian Kenney**  
 Library Director  
@@ -78,7 +78,7 @@ Columbia University
 2011-2021   
 
 **Kameelah Rasheed**  
-2021-2026 
+2020-2025 
  
 **Nate Hill**  
 Ex-Officio  
