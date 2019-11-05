@@ -97,9 +97,13 @@ Metropolitan New York Library Council (METRO)
 All meetings are 3:00 p.m. - 5:00 p.m. at METRO, unless otherwise noted.
 
 ## Board Meeting Agendas & Minutes
+**September 24, 2019**
+* [Agenda]({{ "/assets/board/2019_09_24_Agenda.pdf" | prepend: site.baseurl }}) 
+* Minutes (pending)
+
 **July 29, 2019**
 * [Agenda]({{ "/assets/board/2019_07_29_Agenda.pdf" | prepend: site.baseurl }}) 
-* Minutes (pending)
+* [Minutes]({{ "/assets/board/2019_07_29_Minutes.pdf" | prepend: site.baseurl }})
 
 **May 2, 2019**
 * [Agenda]({{ "/assets/board/2019_05_02_Agenda.pdf" | prepend: site.baseurl }}) 
