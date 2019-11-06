@@ -1,18 +1,5 @@
 ---
 - name:
-    text: 'Maintenance Needed: Tools and Strategies for Ongoing E-resource Management'
-    html: 'Maintenance Needed: Tools and Strategies for Ongoing E-resource Management'
-  description:
-    text: METRO and the ACRL/NY Professional Development Committee present a workshop
-      on caring for your e-resources.
-    html: METRO and the ACRL/NY Professional Development Committee present a workshop
-      on caring for your e-resources.
-  url: https://www.eventbrite.com/e/maintenance-needed-tools-and-strategies-for-ongoing-e-resource-management-tickets-74632139739
-  start:
-    timezone: America/New_York
-    local: '2019-11-05T14:00:00'
-    utc: '2019-11-05T19:00:00Z'
-- name:
     text: It’s the year 2039. Where’s your podcast? (A Preserve This Podcast workshop)
     html: It’s the year 2039. Where’s your podcast? (A Preserve This Podcast workshop)
   description:
