@@ -85,4 +85,4 @@ Annual Fees for Individual Membership are $100 (career transition and student di
 
 
 
-*updated July 2019*
+*updated, July 2019*
