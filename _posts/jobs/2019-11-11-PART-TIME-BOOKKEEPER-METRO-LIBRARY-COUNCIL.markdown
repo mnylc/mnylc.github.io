@@ -13,36 +13,36 @@ Metropolitan New York Library Council (METRO) seeks a Part-Time Bookkeeper  who 
 
 ### Responsibilities   
 
-Assist the Controller in supervising daily workflow including AP, AR, Payroll, banking, and Grants.
 
-Handle pass through invoicing.
+• Assist the Controller in supervising daily workflow including AP, AR, Payroll, banking, and Grants.
 
-Manage biweekly payroll functions, handle organizational relationships with payroll processing firm, record payroll entries. 
+• Handle pass through invoicing.
 
-Perform monthly entries to facilitate bank reconciliations and monthly closing.
+• Manage biweekly payroll functions, handle organizational relationships with payroll processing firm, record payroll entries. 
 
-Assist with fiscal year-end closing and year- end audit by providing schedules and supporting documents at auditors’ requests.
+• Perform monthly entries to facilitate bank reconciliations and monthly closing.
 
-Assist with year-end 1099s, and with HR, and other special projects assigned by the Controller.
+• Assist with fiscal year-end closing and year- end audit by providing schedules and supporting documents at auditors’ requests.
 
+• Assist with year-end 1099s, and with HR, and other special projects assigned by the Controller.
 
 
 ### Qualifications   
 
-Bachelor’s degree in accounting or a related field.
 
-Has a working knowledge of accepted accounting practices and financial accounting standards.
+• Bachelor’s degree in accounting or a related field.
 
-Exhibits strong computer skills and knowledge of relevant technology.
+• Has a working knowledge of accepted accounting practices and financial accounting standards.
 
-Knowledge of Financial Edge software preferred but not required
+• Exhibits strong computer skills and knowledge of relevant technology.
 
-Possesses exceptional organizational skills and is an effective time manager and multi-tasker.
+• Knowledge of Financial Edge software preferred but not required
 
-Displays the ability to pay close attention to detail.
+• Possesses exceptional organizational skills and is an effective time manager and multi-tasker.
 
-Demonstrates good interpersonal skills along with excellent verbal and written communication skills.
+• Displays the ability to pay close attention to detail.
 
+• Demonstrates good interpersonal skills along with excellent verbal and written communication skills.
 
 
 ### Compensation   
