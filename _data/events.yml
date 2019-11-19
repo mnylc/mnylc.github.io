@@ -1,17 +1,5 @@
 ---
 - name:
-    text: 'Money Matters: Compensation, Negotiation & Survival in Libraries + Archives'
-    html: 'Money Matters: Compensation, Negotiation &amp; Survival in Libraries +
-      Archives'
-  description:
-    text: Join METRO and ARLIS/NY for a co-sponsored, co-hosted event.
-    html: Join METRO and ARLIS/NY for a co-sponsored, co-hosted event.
-  url: https://www.eventbrite.com/e/money-matters-compensation-negotiation-survival-in-libraries-archives-tickets-76064602273
-  start:
-    timezone: America/New_York
-    local: '2019-11-18T16:00:00'
-    utc: '2019-11-18T21:00:00Z'
-- name:
     text: 'AI in Libraries: Case Studies from Finland'
     html: 'AI in Libraries: Case Studies from Finland'
   description:
