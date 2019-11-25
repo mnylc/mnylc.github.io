@@ -106,3 +106,16 @@
     timezone: America/New_York
     local: '2020-01-24T16:30:00'
     utc: '2020-01-24T21:30:00Z'
+- name:
+    text: Using Emulators to Resurrect Recovered Data
+    html: Using Emulators to Resurrect Recovered Data
+  description:
+    text: You've preserved data from legacy media only to find that access depends
+      on outdated software. Now what?
+    html: You've preserved data from legacy media only to find that access depends
+      on outdated software. Now what?
+  url: https://www.eventbrite.com/e/using-emulators-to-resurrect-recovered-data-tickets-83645711575
+  start:
+    timezone: America/New_York
+    local: '2020-01-27T10:00:00'
+    utc: '2020-01-27T15:00:00Z'
