@@ -95,4 +95,4 @@ Applications are currently closed and will reopen February 2020.
 - Yeshiva University/Albert Einstein College of Medicine, D. Samuel Gottesman Library
 
 ## Contact Information
-For information on joining HLSP or for questions related to any of our grant programs, please contact Kyle Brown, [kbrown@metro.org](mailto:nreid@metro.org).
+For information on joining HLSP or for questions related to any of our grant programs, please contact Timothy Johnson, [tjohnson@metro.org](mailto:tjohnson@metro.org).
