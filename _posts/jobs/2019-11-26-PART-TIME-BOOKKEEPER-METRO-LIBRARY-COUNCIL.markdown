@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Part-Time Bookkeeper  - METRO Library Council"
-date:   2019-11-11
+date:   2019-11-26
 excerpt: "Metropolitan New York Library Council (METRO) seeks a Part-Time Bookkeeper who can assist the controller in facilitating accounting, finance, and human resources functions, as well as manage operational data and assists in special projects and audits.The candidate will ensure transactions have been properly accounted for and accurately reflect METRO's accounting..."
 tag: job
 ---
