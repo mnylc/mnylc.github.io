@@ -38,6 +38,15 @@ Before joining METRO in 2014, Kyle was Office Manager at Jeanne Collins & Associ
 
 Kyle received a B.A. in communication, with a focus on radio and TV, from William Paterson University in New Jersey.
 
+## Timothy Johnson
+**HLSP Manager**
+
+tjohnson@metro.org
+
+Tim manages METRO’s Hospital Library Services Program (HLSP). He recently retired from the New York University Library as Director of the Tamiment Library and Wagner Labor Archives. He has experience working in academic, public and special libraries. From 2000 to 2005 he served as METRO’s Program Manager for HLSP.
+
+Tim has a BA in African American Studies (Earlham College), an MA in Library Science (Case Western Reserve University) and completed doctoral coursework at Rutgers University in African Diasporan History.
+
 ## Anne Karle-Zenith
 **Associate Director of Business Development**
 
