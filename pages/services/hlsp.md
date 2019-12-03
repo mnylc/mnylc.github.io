@@ -45,7 +45,6 @@ Applications are currently closed and will reopen February 2020.
 - Coney Island Hospital, Fink Memorial Library
 - Elmhurst Hospital Center, Medical Library
 - Flushing Hospital Medical Center, Medical Library
-- Coler-Goldwater Memorial Hospital, Health Sciences Library
 - Hospital for Joint Diseases Orthopaedic Institute, Herman Robbins Medical Library
 - Hospital for Special Surgery, Kim Barrett Memorial Library
 - Jamaica Hospital Medical Center, Medical Library
@@ -62,9 +61,7 @@ Applications are currently closed and will reopen February 2020.
 - Montefiore at New Rochelle 
 - Montefiore Medical Center/Tishman Learning Center, Health Sciences Library
 - Mount Sinai Medical Center, Levy Library
-- New York City Dept. of Health & Mental Hygiene
 - New York College of Podiatric Medicine
-- New York Downtown Hospital
 - New York Eye & Ear Infirmary, Samuels Medical Library
 - New York Hospital Medical Center of Queens, Health Education Library
 - New York Hospital/Cornell Medical Center, Westchester Division, Medical Library
