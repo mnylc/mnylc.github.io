@@ -1,18 +1,5 @@
 ---
 - name:
-    text: 'AI in Libraries: Case Studies from Finland'
-    html: 'AI in Libraries: Case Studies from Finland'
-  description:
-    text: Artificial intelligence is everywhere but what could it in practice mean
-      for libraries?
-    html: Artificial intelligence is everywhere but what could it in practice mean
-      for libraries?
-  url: https://www.eventbrite.com/e/ai-in-libraries-case-studies-from-finland-tickets-76153616517
-  start:
-    timezone: America/New_York
-    local: '2019-12-05T17:00:00'
-    utc: '2019-12-05T22:00:00Z'
-- name:
     text: Grant Writing Basics for Librarians and Archivists
     html: Grant Writing Basics for Librarians and Archivists
   description:
