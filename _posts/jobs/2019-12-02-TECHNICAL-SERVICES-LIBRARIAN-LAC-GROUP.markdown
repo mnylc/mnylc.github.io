@@ -13,25 +13,25 @@ LAC Group is seeking an experienced Technical Services Librarian to work for us 
 
 ### Responsibilities   
 
-Serve as the main contact for the union catalog, currently the OPAC (EOS), working with the vendor on updates, issues and troubleshooting.
-Copy catalog and original cataloging of all Firm offices’ library materials.
-Perform catalog data entry and generate reports.
-Maintain serials records within the catalog for print and electronic resources.
-Process orders for new materials.
-Order supplies for the Library department when needed.
-Serve as the technical contact for library systems with vendors and internal help desk operations.
-Maintain deskbook distribution records and distribute both print and electronic books.
-Act as back-up for mail sorting, journal check-in, and routing.
-Process professional development DVDs in coordination with professional development department and web services librarian.
-Perform related tasks and participate in special projects as determined by management.
+-Serve as the main contact for the union catalog, currently the OPAC (EOS), working with the vendor on updates, issues and troubleshooting.
+-Copy catalog and original cataloging of all Firm offices’ library materials.
+-Perform catalog data entry and generate reports.
+-Maintain serials records within the catalog for print and electronic resources.
+-Process orders for new materials.
+-Order supplies for the Library department when needed.
+-Serve as the technical contact for library systems with vendors and internal help desk operations.
+-Maintain deskbook distribution records and distribute both print and electronic books.
+-Act as back-up for mail sorting, journal check-in, and routing.
+-Process professional development DVDs in coordination with professional development department and web services librarian.
+-Perform related tasks and participate in special projects as determined by management.-
 
 
 ### Qualifications   
 
-Master’s degree in Library and Information Science is strongly preferred
-2 years of experience in a library (preferably legal)
-Experience using an integrated library system such as Sydney or EOS
-Strong Microsoft Office skills – intermediate/advanced level Excel
+-Master’s degree in Library and Information Science is strongly preferred
+-2 years of experience in a library (preferably legal)
+-Experience using an integrated library system such as Sydney or EOS
+-Strong Microsoft Office skills – intermediate/advanced level Excel
 
 
 ### Compensation   
