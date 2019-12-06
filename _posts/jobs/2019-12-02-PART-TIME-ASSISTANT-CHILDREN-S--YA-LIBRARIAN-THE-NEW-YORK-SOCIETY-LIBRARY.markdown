@@ -54,7 +54,10 @@ The New York Society Library is an Equal Opportunity Employer.
 
 ### Compensation   
 
-The Library is open 7 days a week except selected holidays. Tuesday through Thursday the Library is open until 8:00 PM. The position is part-time, approximately 21 hours per week Evening and weekend shifts are required for this part-time position Salary will be commensurate with experience
+•The Library is open 7 days a week except selected holidays. Tuesday through Thursday the Library is open until 8:00 PM. 
+•The position is part-time, approximately 21 hours per week 
+•Evening and weekend shifts are required for this part-time position 
+•Salary will be commensurate with experience
 
 
 ### Location   
