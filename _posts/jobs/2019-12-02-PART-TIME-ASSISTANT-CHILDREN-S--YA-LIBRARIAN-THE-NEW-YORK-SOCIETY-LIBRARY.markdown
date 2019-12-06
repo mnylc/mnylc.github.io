@@ -14,26 +14,42 @@ The New York Society Library is an Equal Opportunity Employer.
 
 ### Responsibilities   
 
--Provide reference and readers' advisory services
--Assist with planning and presentation of children's and young adult events
--Assist with collection development of children's and young adult materials
--Create, maintain, and contribute to print and digital communications
--Maintain order and safety in the department
--Assist with data collection and assessment
--Participate in Library outreach projects, including Project Cicero
+
+• Provide reference and readers' advisory services
+
+• Assist with planning and presentation of children's and young adult events
+
+• Assist with collection development of children's and young adult materials
+
+• Create, maintain, and contribute to print and digital communications
+
+• Maintain order and safety in the department
+
+• Assist with data collection and assessment
+
+• Participate in Library outreach projects, including Project Cicero
 
 
 ### Qualifications   
 
--Current enrollment in an MLS degree program or MLS, with a concentration in youth services
--Familiarity with literature and related resources for children and young adults
--Experience working with children and teens in a professional or volunteer capacity
--Creativity and ability to work both independently and as part of a team
--Ability to manage and prioritize multiple tasks and projects
--Excellent oral and written communication skills
--Technology proficiency
--Completed coursework in children's and/or young adult literature
--Reference skills coursework and/or library reference experience
+
+• Current enrollment in an MLS degree program or MLS, with a concentration in youth services
+
+• Familiarity with literature and related resources for children and young adults
+
+• Experience working with children and teens in a professional or volunteer capacity
+
+• Creativity and ability to work both independently and as part of a team
+
+• Ability to manage and prioritize multiple tasks and projects
+
+• Excellent oral and written communication skills
+
+• Technology proficiency
+
+• Completed coursework in children's and/or young adult literature
+
+• Reference skills coursework and/or library reference experience
 
 
 ### Compensation   
