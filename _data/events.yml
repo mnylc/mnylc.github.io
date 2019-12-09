@@ -1,16 +1,5 @@
 ---
 - name:
-    text: Grant Writing Basics for Librarians and Archivists
-    html: Grant Writing Basics for Librarians and Archivists
-  description:
-    text: Get a head start on your grant application
-    html: Get a head start on your grant application
-  url: https://www.eventbrite.com/e/grant-writing-basics-for-librarians-and-archivists-tickets-78644536927
-  start:
-    timezone: America/New_York
-    local: '2019-12-09T13:00:00'
-    utc: '2019-12-09T18:00:00Z'
-- name:
     text: 'How to Thrive as a Library Professional: A Book Launch Celebration'
     html: 'How to Thrive as a Library Professional: A Book Launch Celebration'
   description:
