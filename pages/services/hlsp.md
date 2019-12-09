@@ -22,7 +22,7 @@ Collection development grants are available to METRO’s Hospital Library Servic
 available, established need, and current expenditure levels. The Collection Development grant may be used by HLSP member libraries to
 purchase either online or print materials that grow and support their local collections.  
 
-Applications for this grant will open Monday, December 9, 2019. 
+The [application](https://www.surveymonkey.com/r/83Z5K5V) for the Collection Development grant is currently open and can be found [here](https://www.surveymonkey.com/r/83Z5K5V). The deadline for this grant is Friday, January 10, 2020. 
   
 ## Technology Grants
 Each year, METRO receives funding to support technology needs in hospital libraries. Grants are available to members of METRO's Hospital Library Services Program. Applications are reviewed by an ad-hoc committee drawn from the HLSP Advisory Council. 
