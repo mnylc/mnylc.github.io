@@ -13,7 +13,7 @@ St. Joseph’s College seeks a part-time evening/weekend librarian for the McEnt
 
 ### Responsibilities   
 
-The successful candidate will provide reference services to students, faculty, and staff (in person, via phone, e-mail, and chat); instructional services in a classroom setting; and academic support including bibliography preparation, subject guide maintenance, display rotation, and other duties in keeping with an academic library serving traditional and non-traditional students.	
+The successful candidate will provide reference services to students, faculty, and staff (in person, via phone, e-mail, and chat); instructional services in a classroom setting; and academic support including bibliography preparation, subject guide maintenance, display rotation, and other duties in keeping with an academic library serving traditional and non-traditional students.        
 
 
 
