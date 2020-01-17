@@ -1,16 +1,5 @@
 ---
 - name:
-    text: 'How to Thrive as a Library Professional: A Book Launch Celebration'
-    html: 'How to Thrive as a Library Professional: A Book Launch Celebration'
-  description:
-    text: Are your career goals part of your 2020 New Year resolutions?
-    html: Are your career goals part of your 2020 New Year resolutions?
-  url: https://www.eventbrite.com/e/how-to-thrive-as-a-library-professional-a-book-launch-celebration-tickets-75042703747
-  start:
-    timezone: America/New_York
-    local: '2020-01-16T17:00:00'
-    utc: '2020-01-16T22:00:00Z'
-- name:
     text: It’s the year 2039. Where’s your podcast? (A Preserve This Podcast webinar)
     html: It’s the year 2039. Where’s your podcast? (A Preserve This Podcast webinar)
   description:
