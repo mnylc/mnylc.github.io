@@ -1,39 +1,5 @@
 ---
 - name:
-    text: It’s the year 2039. Where’s your podcast? (A Preserve This Podcast webinar)
-    html: It’s the year 2039. Where’s your podcast? (A Preserve This Podcast webinar)
-  description:
-    text: |
-      It's the year 2039. Where's your podcast? (A Preserve This Podcast webinar)
-      Join us from anywhere in the world! We’re going to preserve your podcast. Download the zine here.
-      If you’ve listened to our podcast or read our zine, you know that podcasts are disappearing. So how can podcasters protect themselves against loss? By attending our Preserve This Podcast webinar. This interactive workshop will tackle this issue head-on by walking audio-creators through the history of podcast technology, the basics of archival preservation, and simple steps you can take to preserve your audio. We will review through the tools and techniques to prevent data loss before it’s too late, as well as “bake” these concepts into podcasters’ existing production workflows.
-      Access to the webinar will be provided after you RSVP. Here are the topics we will cover on each day:
-      Jan. 23 - Part I Get Organized & Back It Up
-      Jan. 24 - Part II Metadata Meta-awareness & RSS Resuscitations
-      About our instructors:
-
-      Dana Gerber-Margie (@theaudiosignal) listens to podcasts while living in Madison, Wisconsin. She earned her Master's in Library & Information Studies at UW-Madison, and has worked as an A/V Archivist for WiLS and the Wisconsin Historical Society. She is the co-founder and co-editor of the Bello Collective, a publication about podcasts and storytelling.
-      Mary Kidd (@kiddarchivist) is an archivist and illustrator. By day, she works for New York Public Library's Special Collections Division. She has worked on audio/visual preservation projects for New York Public Radio, the Magic Shop Recording Studio, and the XFR Collective, a non-profit organization that transfers at-risk media off magnetic tapes to digital format for individuals and groups with limited means. She enjoys creating drawings, zines, gifs, and other artful tidbits to make archiving, and the technology that supports it, accessible, approachable and fun for everyone.
-      Sarah Nguyen (@snewyuen) is the Project Coordinator of Preserve This Podcast. She is an advocate for open, accessible, and secure technologies through a couple gigs during her studies as a Master of Library and Information Science candidate at the University of Washington: Assistant Research Scientist for NYU Libraries and archivist for the Dance Heritage Coalition. Offline, she can be found riding a Cannondale mtb or practicing movement through dance.
-    html: |-
-      <P><STRONG>It's the year 2039. Where's your podcast? (A Preserve This Podcast webinar)<BR></STRONG></P>
-      <P>Join us from anywhere in the world! We’re going to preserve your podcast. <A HREF="http://preservethispodcast.org/#zine" TARGET="_blank" REL="nofollow noopener noreferrer">Download the zine here</A>.<BR></P>
-      <P>If you’ve listened to our podcast or read our zine, you know that podcasts are disappearing. So how can podcasters protect themselves against loss? By attending our <A HREF="http://preservethispodcast.org/" TARGET="_blank" REL="nofollow noopener noreferrer">Preserve This Podcast</A> webinar. This interactive workshop will tackle this issue head-on by walking audio-creators through the history of podcast technology, the basics of archival preservation, and simple steps you can take to preserve your audio. We will review through the tools and techniques to prevent data loss before it’s too late, as well as “bake” these concepts into podcasters’ existing production workflows.<BR></P>
-      <P>Access to the webinar will be provided after you RSVP. Here are the topics we will cover on each day:</P>
-      <P><STRONG>Jan. 23 - Part I Get Organized &amp; Back It Up</STRONG></P>
-      <P><STRONG>Jan. 24 - Part II Metadata Meta-awareness &amp; RSS Resuscitations</STRONG></P>
-      <P><STRONG>About our instructors:</STRONG></P>
-      <DIV>
-      <P><STRONG>Dana Gerber-Margie</STRONG> (<A HREF="https://twitter.com/theaudiosignal?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" TARGET="_blank" REL="nofollow noopener noreferrer">@theaudiosignal</A>) listens to podcasts while living in Madison, Wisconsin. She earned her Master's in Library &amp; Information Studies at UW-Madison, and has worked as an A/V Archivist for WiLS and the<A HREF="https://www.wisconsinhistory.org/" TARGET="_blank" REL="nofollow noopener noreferrer"> Wisconsin Historical Society</A>. She is the co-founder and co-editor of the<A HREF="https://bellocollective.com/" TARGET="_blank" REL="nofollow noopener noreferrer"> Bello Collective</A>, a publication about podcasts and storytelling.<BR></P>
-      <P><STRONG>Mary Kidd</STRONG> (<A HREF="https://twitter.com/kiddarchivist?lang=en" TARGET="_blank" REL="nofollow noopener noreferrer">@kiddarchivist</A>) is an archivist and illustrator. By day, she works for <A HREF="https://www.nypl.org/new-york-public-library-special-collections" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>New York Public Library's Special Collections Division</SPAN></A>. She has worked on audio/visual preservation projects for New York Public Radio, the Magic Shop Recording Studio, and the XFR Collective, a non-profit organization that transfers at-risk media off magnetic tapes to digital format for individuals and groups with limited means. She enjoys creating drawings, zines, gifs, and other artful tidbits to make archiving, and the technology that supports it, accessible, approachable and fun for everyone.</P>
-      <P><STRONG>Sarah Nguyen</STRONG> (<A HREF="https://twitter.com/snewyuen" TARGET="_blank" REL="nofollow noopener noreferrer"><SPAN>@snewyuen</SPAN></A>) is the Project Coordinator of Preserve This Podcast. She is an advocate for open, accessible, and secure technologies through a couple gigs during her studies as a Master of Library and Information Science candidate at the University of Washington: Assistant <SPAN><SPAN>Research</SPAN></SPAN> Scientist for <A HREF="https://investigating-archiving-git.gitlab.io/" TARGET="_blank" REL="nofollow noopener noreferrer">NYU Libraries</A> and archivist for the <A HREF="https://www.danceusa.org/archiving-and-preservation" TARGET="_blank" REL="nofollow noopener noreferrer">Dance Heritage Coalition</A>. Offline, she can be found riding a Cannondale mtb or practicing movement through dance.</P>
-      </DIV>
-  url: https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-webinar-tickets-74835929279
-  start:
-    timezone: America/New_York
-    local: '2020-01-24T16:30:00'
-    utc: '2020-01-24T21:30:00Z'
-- name:
     text: Using Emulators to Resurrect Recovered Data
     html: Using Emulators to Resurrect Recovered Data
   description:
