@@ -1,18 +1,5 @@
 ---
 - name:
-    text: Using Emulators to Resurrect Recovered Data
-    html: Using Emulators to Resurrect Recovered Data
-  description:
-    text: You've preserved data from legacy media only to find that access depends
-      on outdated software. Now what?
-    html: You've preserved data from legacy media only to find that access depends
-      on outdated software. Now what?
-  url: https://www.eventbrite.com/e/using-emulators-to-resurrect-recovered-data-tickets-83645711575
-  start:
-    timezone: America/New_York
-    local: '2020-01-27T10:00:00'
-    utc: '2020-01-27T15:00:00Z'
-- name:
     text: 'Librarians for Libraries: How to Advocate on behalf of Public Libraries'
     html: 'Librarians for Libraries: How to Advocate on behalf of Public Libraries'
   description:
@@ -39,6 +26,19 @@
     local: '2020-02-25T10:00:00'
     utc: '2020-02-25T15:00:00Z'
 - name:
+    text: Improving the Library Experience with Content Strategy
+    html: Improving the Library Experience with Content Strategy
+  description:
+    text: Is an updated website in your library's future? Learn how to wield the power
+      of content strategy to ensure the best possible experience.
+    html: Is an updated website in your library's future? Learn how to wield the power
+      of content strategy to ensure the best possible experience.
+  url: https://www.eventbrite.com/e/improving-the-library-experience-with-content-strategy-tickets-91646419909
+  start:
+    timezone: America/New_York
+    local: '2020-03-23T14:00:00'
+    utc: '2020-03-23T18:00:00Z'
+- name:
     text: SOLR for Newbies
     html: SOLR for Newbies
   description:
@@ -62,5 +62,5 @@
   url: https://www.eventbrite.com/e/making-sense-and-saving-cents-with-usage-data-tickets-91074966677
   start:
     timezone: America/New_York
-    local: '2020-04-23T13:30:00'
-    utc: '2020-04-23T17:30:00Z'
+    local: '2020-04-23T14:00:00'
+    utc: '2020-04-23T18:00:00Z'
