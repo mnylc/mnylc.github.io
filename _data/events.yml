@@ -1,13 +1,11 @@
 ---
 - name:
-    text: 'Librarians for Libraries: How to Advocate on behalf of Public Libraries'
-    html: 'Librarians for Libraries: How to Advocate on behalf of Public Libraries'
+    text: 'Event Postponed: How to Advocate on behalf of Public Libraries'
+    html: 'Event Postponed: How to Advocate on behalf of Public Libraries'
   description:
-    text: Save the Date! Lauren Comito will share actionable steps library workers
-      can take in support of public libraries.
-    html: Save the Date! Lauren Comito will share actionable steps library workers
-      can take in support of public libraries.
-  url: https://www.eventbrite.com/e/librarians-for-libraries-how-to-advocate-on-behalf-of-public-libraries-tickets-88717068139
+    text: This event has been postponed. Stay tuned for updated info.
+    html: This event has been postponed. Stay tuned for updated info.
+  url: https://www.eventbrite.com/e/event-postponed-how-to-advocate-on-behalf-of-public-libraries-tickets-88717068139
   start:
     timezone: America/New_York
     local: '2020-02-18T10:00:00'
