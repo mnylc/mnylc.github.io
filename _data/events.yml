@@ -1,16 +1,5 @@
 ---
 - name:
-    text: 'Event Postponed: How to Advocate on behalf of Public Libraries'
-    html: 'Event Postponed: How to Advocate on behalf of Public Libraries'
-  description:
-    text: This event has been postponed. Stay tuned for updated info.
-    html: This event has been postponed. Stay tuned for updated info.
-  url: https://www.eventbrite.com/e/event-postponed-how-to-advocate-on-behalf-of-public-libraries-tickets-88717068139
-  start:
-    timezone: America/New_York
-    local: '2020-02-18T10:00:00'
-    utc: '2020-02-18T15:00:00Z'
-- name:
     text: Programming Fundamentals With Python
     html: Programming Fundamentals With Python
   description:
