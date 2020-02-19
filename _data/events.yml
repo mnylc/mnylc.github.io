@@ -26,6 +26,19 @@
     local: '2020-03-23T14:00:00'
     utc: '2020-03-23T18:00:00Z'
 - name:
+    text: ADHD, Nuerodivergence, and the Workplace
+    html: ADHD, Nuerodivergence, and the Workplace
+  description:
+    text: Learn to get on the same wavelength as your neurodivergent colleagues, staff,
+      and patrons
+    html: Learn to get on the same wavelength as your neurodivergent colleagues, staff,
+      and patrons
+  url: https://www.eventbrite.com/e/adhd-nuerodivergence-and-the-workplace-tickets-95694196919
+  start:
+    timezone: America/New_York
+    local: '2020-03-26T10:00:00'
+    utc: '2020-03-26T14:00:00Z'
+- name:
     text: SOLR for Newbies
     html: SOLR for Newbies
   description:
