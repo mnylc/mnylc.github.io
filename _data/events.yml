@@ -1,18 +1,5 @@
 ---
 - name:
-    text: Programming Fundamentals With Python
-    html: Programming Fundamentals With Python
-  description:
-    text: Wondering what Python can do to help your work? Look no further than this
-      hands-on workshop!
-    html: Wondering what Python can do to help your work? Look no further than this
-      hands-on workshop!
-  url: https://www.eventbrite.com/e/programming-fundamentals-with-python-tickets-90203179137
-  start:
-    timezone: America/New_York
-    local: '2020-02-25T10:00:00'
-    utc: '2020-02-25T15:00:00Z'
-- name:
     text: Improving the Library Experience with Content Strategy
     html: Improving the Library Experience with Content Strategy
   description:
