@@ -26,14 +26,14 @@
     local: '2020-03-26T10:00:00'
     utc: '2020-03-26T14:00:00Z'
 - name:
-    text: SOLR for Newbies
-    html: SOLR for Newbies
+    text: 'POSTPONED: SOLR for Newbies'
+    html: 'POSTPONED: SOLR for Newbies'
   description:
     text: Learn the search technology behind many of the products we know and/or love.
       Presented in partnership with NYC Islandora Working Group.
     html: Learn the search technology behind many of the products we know and/or love.
       Presented in partnership with NYC Islandora Working Group.
-  url: https://www.eventbrite.com/e/solr-for-newbies-tickets-85879575121
+  url: https://www.eventbrite.com/e/postponed-solr-for-newbies-tickets-85879575121
   start:
     timezone: America/New_York
     local: '2020-03-30T14:00:00'
