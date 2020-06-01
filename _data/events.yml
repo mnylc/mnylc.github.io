@@ -1,0 +1,12 @@
+---
+- name:
+    text: METRO's Anti-racism Book Club
+    html: METRO&#39;s Anti-racism Book Club
+  description:
+    text: Join us to discussion So You Want to Talk About Race by Ijeoma Oluo
+    html: Join us to discussion So You Want to Talk About Race by Ijeoma Oluo
+  url: https://www.eventbrite.com/e/metros-anti-racism-book-club-tickets-107576522274
+  start:
+    timezone: America/New_York
+    local: '2020-06-29T16:00:00'
+    utc: '2020-06-29T20:00:00Z'
