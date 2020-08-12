@@ -10,3 +10,14 @@
     timezone: America/New_York
     local: '2020-08-26T16:00:00'
     utc: '2020-08-26T20:00:00Z'
+- name:
+    text: Resume One-on-ones
+    html: Resume One-on-ones
+  description:
+    text: Need some help crafting a truly excellent, eye-catching resume?
+    html: Need some help crafting a truly excellent, eye-catching resume?
+  url: https://www.eventbrite.com/e/resume-one-on-ones-tickets-116733879175
+  start:
+    timezone: America/New_York
+    local: '2020-09-01T18:30:00'
+    utc: '2020-09-01T22:30:00Z'
